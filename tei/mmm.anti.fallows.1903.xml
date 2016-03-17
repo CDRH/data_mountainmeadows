@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.fallows.1903">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mormon Menace</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Samuel</forename> <surname>Fallows</surname> and</author>
+                <author><forename>Helen</forename> <forename type="middle">M.</forename> <surname>Fallows</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.fallows.1903</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Mormon Menace</title>
+                    <author><forename>Samuel</forename> <surname>Fallows</surname> and</author>
+                    <author><forename>Helen</forename> <forename type="middle">M.</forename> <surname>Fallows</surname></author>
+                    <publisher>Woman's Temperance Publishing Association</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>45-60</extent>
+                    <date when="1903">1903</date>
+                    <note type="source">Samuel Fallows and Helen M. Fallows. <hi rend="italic">The Mormon Menace</hi>. Chicago, IL: Woman’s Temperance Publishing Association, 1903. 45-60.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-11-16"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+    <div type="chapter">
+
+<pb n="45" xml:id="mmm.anti.fallows.1903.049"/>
+
+<head>CHAPTER IV.</head>
+
+<head type="source">THE IMMORAL CHARACTERS OF THE MORMON LEADERS IN MISSOURI AND ILLINOIS.</head>
+
+<p>Theft and robbery from Gentiles were among the chief virtues of Mormonism. In September, 1831, <persName key="Smith, Joseph">Joseph Smith</persName> had the following revelation: "Behold it is said in my laws and forbidden to get in debt to thine enemies, but behold it is not said at any time that the Lord should not take where he pleases and pay as seemeth good. Wherefore, as ye are agents, and ye are on the Lord's errand, whatever ye do according to the will of the Lord is the Lord's business, and he hath set you to provide for his saints in these last days that they may obtain an inheritance in the Land of Zion." (Doct. and Cov.) This revelation has been faithfully attended to, as abundant evidence goes to show. To trace the history of Mormonism from <placeName type="settlement" key="Kirtland, OH">Kirtland</placeName>, <placeName type="state" key="Ohio">Ohio</placeName>, to Far West and <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, and its thirty years' reign in <placeName type="state" key="Utah Territory">Utah</placeName> is to unfold the direful picture of these crimes. These depredations have been committed from the first under the full knowledge and sanction of the church authorities, and the booty used for the benefit of the church, as the following statements clearly show:</p>
+
+<pb n="46" xml:id="mmm.anti.fallows.1903.050"/>
+
+<p>"Headquarters of the Militia, Employed Against the Mormons, <placeName type="settlement" key="Richmond, MO">Richmond</placeName>, Nov. 10, 1838.</p>
+
+<p>"To His Excellency <persName key="Boggs, Lilburn">L. W. Boggs</persName>:</p>
+
+<p>"Sir:&#8212;I find, by inquiry, that of all the enormities we have heard charged against these people (the Mormons), many of which charges we looked upon as the offspring of prejudice on the part of our citizens, the half has not yet been told! There is no crime, from treason down to petty larceny, but these people, or a majority of them, have been guilty of, all, too, under the counsel of <persName key="Smith, Joseph">Joseph Smith, Jr.</persName>, the Prophet! They have committed treason, murder, arson, burglary, robbery, larceny and perjury! They have societies formed under the most binding covenants in form, and the most horrid oaths, to circumvent the laws, and put them at defiance, and to plunder, and burn, and murder, and divide the spoils for the use of the church. This is what they call Danite Society.</p>
+
+<p><hi rend="right">"<persName key="Clark, John B.">John B. Clark</persName>,</hi></p>
+
+<p><hi rend="right">"Major-General Commanding."</hi></p>
+
+<p><hi rend="italic">M. E., p. 322.</hi></p>
+
+<p><persName key="Pratt, Sarah Marinda Bates">Mrs. Pratt</persName>, wife of <persName key="Pratt, Orson">Orson Pratt</persName>, said: "<persName key="Smith, Joseph">Joseph Smith</persName> was a bad man, without doubt&#8212;wicked, sensual, devilish. I exceedingly fear and tremble for the weak and uneducated of my sex; for an unprincipled libertine, sensualist and debauchee, of such unbounded prophetic influence, in a community like this, may utterly ruin hundreds of pious, unsuspecting females, under the potent dictum of a 'Thus saith the Lord.'"</p>
+
+<p>General <persName key="Bennett, John C.">Bennett</persName>, the commander of the Nauvoo Legion, and many other persons, men and women, who were the former intimate associates of <persName key="Smith, Joseph">Smith</persName>, made affidavits before the death of the prophet, regarding his truculent and lecherous life.</p>
+
+<pb n="47" xml:id="mmm.anti.fallows.1903.051"/>
+
+<p><persName key="Harris, Martin">Martin Harris</persName>, the first scribe of the Book of Mormons, and a witness to the plate, but not one of the constituent members of the church, was afterward catalogued by the Mormons with "negroes who wear white skins, and he and his associates are so far beneath contempt that a notice of them would be far too great a sacrifice for a gentleman to make." He was consigned to the infernal regions. A document drafted by <persName key="Rigdon, Sidney">Sidney Rigdon</persName>, and subscribed by eighty-four " Mormons, addressed to <persName key="Cowdery, Oliver">Oliver Cowdery</persName>, <persName key="Whitmer, David">David Whitmer</persName>, <persName key="Whitmer, John">John Whitmer</persName>, <persName key="Phelps, W. W.">W. W. Phelps</persName> and <persName key="Johnson, Lyman E.">Lyman E. Johnson</persName>, exhibits these witnesses and apostles and their associates to have been unmitigated scamps. Some of them were charged with being "connected with a gang of counterfeiters, thieves, liars and blacklegs of the deepest dye," and with "cheating and defrauding the saints."</p>
+
+<p>Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName> says: "The Lord could not well have chosen a more despicable set of thieves and liars than they were&#8212;taking the testimony of their brethren as evidence. Mormonism did little for them in the way of reformation and grace. They must have been 'a hard lot' before they accepted the new revelation."</p>
+
+<p><persName key="Rigdon, Sidney">Sidney Rigdon</persName> was, after the death of <persName key="Smith, Joseph">Joseph Smith</persName>, charged with the determination to "rule or ruin the church." And in the language of the reporter, "Elder <persName key="Young, Brigham">Young</persName> arose and delivered <persName key="Rigdon, Sidney">Sidney Rigdon</persName> over to the buffetings of Satan in the name of the Lord; and all the people said&#8212;Amen."</p>
+
+<p><seg type="Context" subtype="PrattMurder"><persName key="Pratt, Parley P.">Parley P. Pratt</persName>, another very prominent Mormon and the author of some of their principal works, was
+
+<pb n="48" xml:id="mmm.anti.fallows.1903.052"/>
+
+killed by <persName key="McLeon, Hector">an enraged husband</persName> for running off with <persName key="McLeon Pratt, Eleanor">his wife</persName>.</seg> <persName key="Cowdery, Oliver">Oliver Cowdery</persName> died a miserable drunkard.</p>
+
+<p>And these are the men who were the founders of Mormonism. See <hi rend="italic">The Mormon Monster</hi>, p.59-60.</p>
+
+<p><persName key="Smith, Joseph">Joseph Smith</persName> wrote the following letters from <placeName type="settlement" key="Springfield, IL">Springfield</placeName>, <placeName type="state" key="Illinois">Ill.</placeName>, to Mrs. <persName key="White, Emiline">Emiline White</persName>, whom he endeavored in vain to swerve from the path of virtue and honor:</p>
+
+<p>"My Sweet <persName key="White, Emiline">Emeline</persName>:&#8212;You know that my love for you, as David said to Jonathan, is 'wonderful, passing the love of women.' And how can that be? You know it is only figurative. I mean, you have my most supreme affections. O, that I had yours as truly! May I not hope that it will be so? At all events, be my friend, my best friend. If you want anything while I am gone, call upon either of the bishops&#8212;<persName key="Knight, Ninson">Ninson Knight</persName> or <persName key="Ripley, Alansom">Alansom Ripley</persName>&#8212;and show them the signature of 'Old White Hat,' and they will provide for you. Do not be afraid to receive anything from me, and these men are confidential. You need not fear to write me; and I do assure you that a few lines would be very consoling on a journey. Sign it, 'Rosanna.'</p>
+
+<p><hi rend="right">"Your humble servant,</hi></p>
+
+<p><hi rend="right">"Old White Hat."</hi></p>
+
+<p><hi rend="italic">M. E., p. 235.</hi></p>
+
+<p><hi rend="smallcaps"><hi rend="center">THE MOUNTAIN MEADOW MASSACRE.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Mormonism in <placeName type="state" key="Utah Territory">Utah</placeName> has always been associated with the Mountain Meadow Massacre, the most shocking event in its history.</seg></p>
+
+<p>The following is the confession of the chief participant in the massacre:</p>
+
+<p>"My name is <persName key="Lee, John D.">John Doyle Lee</persName>. I was born Sept. 6, 1812, at <placeName type="settlement" key="Kaskaskia, IL">Kaskaskia</placeName>, <placeName type="county" key="Randolph County, IL">Randolph county</placeName>, <placeName type="state" key="Illinois">Ill.</placeName> My mother belonged to the Catholic church and I was christened
+
+<pb n="49" xml:id="mmm.anti.fallows.1903.053"/>
+
+in the faith. My parents died while I was still a child, and my boyhood was one of trial and hardship. I married <persName key="Woolsey, Agatha Ann">Agatha Ann Woolsey</persName> in 1833, and moved to <placeName type="county" key="Fayette County, IL">Fayette county</placeName>, <placeName type="state" key="Illinois">Illinois</placeName>, on Sucker creek. There I became wealthy. In 1836 I became acquainted with some traveling Mormon preachers. I bought, read and believed the Book of Mormon. I sold my property in <placeName type="state" key="Illinois">Illinois</placeName> and moved to <placeName type="state" key="Missouri">Missouri</placeName> in 1837, where I joined the Mormon church and became intimately acquainted with <persName key="Smith, Joseph">Joseph Smith</persName>, <persName key="Young, Brigham">Brigham Young</persName> and other leaders of the Church of Jesus Christ of Latter Day Saints. I was subsequently initiated into the order of Danites at its first formation. The members of this order were solemnly sworn to obey the orders of the priesthood of the Mormon church, to do any and all things as commanded. The 'Destroying Angels' of the Mormon church were selected from this organization. I took an active part as a Mormon soldier, and it was the recurring conflicts between the people and the Mormons which made <placeName type="county" key="Jackson County, MO">Jackson county</placeName>, <placeName type="state" key="Missouri">Missouri</placeName>, historic ground. When the Mormons were expelled from <placeName type="state" key="Missouri">Missouri</placeName>, I was one of the first to settle at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, <placeName type="state" key="Illinois">Ill.</placeName>, where I took an active part in all that was done by the church or city. I had charge of the construction of many public buildings there, and was the policeman and bodyguard of <persName key="Smith, Joseph">Joseph Smith</persName> at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>. After his death I held the same position to <persName key="Young, Brigham">Brigham Young</persName>, who succeeded <persName key="Smith, Joseph">Joseph Smith</persName> as prophet, priest and revelator in the church. I was recorder for the quorum of seventy, head clerk of the church, and organized the priesthood in the Order of Seventy. I took all the degrees of the Endowment House, and stood high in the priesthood. I traveled extensively throughout the United States as a Mormon missionary, and acted as trader and financial agent of the church. From the death of <persName key="Smith, Joseph">Joseph Smith</persName> until the settlement at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> I was one of the locating committee that selected sites for the
+
+<pb n="50" xml:id="mmm.anti.fallows.1903.054"/>
+
+various towns and cities in <placeName type="state" key="Utah Territory">Utah territory</placeName>. I held many offices in the territory, and was a member of the Mormon Legislature, and was Probate Judge of <placeName type="county" key="Washington County, UT">Washington County</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>. <seg type="Context" subtype="Polygamy">Immediately after <persName key="Smith, Joseph">Joseph Smith</persName> received the revelation concerning polygamy I was informed of its doctrines by said <persName key="Smith, Joseph">Joseph Smith</persName> and the apostles. I believed in the doctrine, and have been sealed to eighteen women, three of whom are sisters, and one was the mother of three of my wives. I was sealed to this old woman for her soul's salvation.</seg> <seg type="Blame" subtype="LDS_LDS">I was an honored man in the church, flattered and regarded by <persName key="Young, Brigham">Brigham Young</persName> and the apostles until in 1868 when I was cut from the church, and selected as a scapegoat to suffer for and bear the sins of my people.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"As a duty to myself and mankind I now confess all that I did at Mountain Meadows massacre, without animosity to any one, shielding none, and giving the facts as they existed. <hi rend="italic">Those with me at that time were acting under orders from the church of Jesus Christ of Latter Day Saints</hi>. The horrid deeds then committed were done as a duty which we believed we owed to God and our church. <seg type="Reaction" subtype="Silence">We were all sworn to secrecy before and after the massacre. The penalty for giving information concerning it was death.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"As I am to suffer death for what I then did and have been betrayed by both those who gave orders and those who were the most active of my assistants, I now give the world the true facts as they exist, and tell why the massacre was committed, and who were the active participants.</seg></p>
+
+<p>"<seg type="Massacre" subtype="Dates">Early in the month of September, 1857</seg>, the company of emigrants known as <seg type="Emigrants" subtype="StateAffiliationArkansas">the 'Arkansaw company'</seg> <seg type="Emigrants" subtype="Route">arrived in <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, <placeName type="county" key="Iron County, UT">Iron county</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, on their way to <placeName type="state" key="California">California</placeName></seg>. At <placeName type="settlement" key="Parowan, UT">Parowan</placeName> young Aden, one of the company, saw and recognized one <persName key="Laney, Williaim">William Laney</persName>, a Mormon resident of <placeName type="settlement" key="Parowan, UT">Parawan</placeName>. <persName key="Aden, William A.">Aden</persName> and his father
+
+<pb n="51" xml:id="mmm.anti.fallows.1903.055"/>
+
+had rescued <persName key="Laney, Williaim">Laney</persName> from an anti-Mormon mob in <placeName type="state" key="Tennessee">Tennessee</placeName> several years before and saved his life. He (<persName key="Laney, William">Laney</persName>), at the time he was attacked by the mob, was a Mormon missionary in <placeName type="state" key="Tennessee">Tennessee</placeName>. <seg type="Encounter" subtype="TradeLDS"><persName key="Laney, Williaim">Laney</persName> was glad to see his friend and benefactor and invited him to his house and gave him some garden sauce to take back to the camp with him. That same evening it was reported to Bishop (Colonel) <persName key="Dame, William H.">Dame</persName> that <persName key="Laney, Williaim">Laney</persName> had given potatoes and onions to the man <persName key="Aden, William A.">Aden</persName>, one of the emigrants. When the report was made to Bishop <persName key="Dame, William H.">Dame</persName> he raised his hand and crooked his little finger in a significant manner to one <persName key="Carter, Barney">Barney Carter</persName>, his brother-in-law, and one of the 'Angels of Death.' <persName key="Carter, Barney">Carter</persName>, without another word, walked out, went to <persName key="Laney, Williaim">Laney</persName>'s house with a long picket in his hand, called <persName key="Laney, Williaim">Laney</persName> out, and struck him a heavy blow on the head, fracturing his skull, and left him on the ground for dead.</seg> <persName key="Webb, C. Y.">C. Y. Webb</persName> and <persName key="Newman, Isaac">Isaac Newman</persName>, president of the 'High Council,' both told me they saw <persName key="Dame, William H.">Dame</persName>'s maneuvers.</p>
+
+<p>"<persName key="McGiffee, James">James McGiffee</persName>, then a resident of <placeName type="settlement" key="Parowan, IL">Parowan</placeName>, but who, through opposition, had been forced to leave there and is now a merchant in Pahranget Valley, near <placeName type="settlement" key="Pioche, NV">Pioche</placeName>, <placeName type="state" key="Nevada">Nev.</placeName>, knows these facts. <seg type="Emigrants" subtype="Route"><seg type="Massacre" subtype="Dates">About the last of August, 1857, some ten days before the Mountain Meadow massacre</seg>, the company of emigrants passed through <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</seg> <persName key="Smith, George A.">George A. Smith</persName>, the first councilor in the church and <persName key="Young, Brigham">Brigham Young</persName>'s right-hand man, came down from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, preaching to the different settlements. I at that time was in <placeName type="county" key="Washington County, UT">Washinton county</placeName>, near where <placeName type="settlement" key="St. George, UT">St. George</placeName> now stands. He sent for me. I went to him, and he asked me to take him to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> by way of Fort Clara and <placeName type="settlement" key="Pinto, UT">Pinto</placeName> settlements, as he was on business and must visit all the settlements. We started on our way up through the canyon. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">He saw bands of Indians, and he (<persName key="Smith, George A.">George A. Smith</persName>) remarked to me that these Indians, with the advantage they had of rocks, could use up a large company of emigrants, or make it very hot for them.</seg></seg></p>
+
+<pb n="52" xml:id="mmm.anti.fallows.1903.056"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="EmigrantBehavior">"After pausing for a short time, he said to me: 'Brother <persName key="Lee, John D.">Lee</persName>, what do you think the brethren would do if a company of emigrants should come down through here making threats? Don't you think they would pitch into them?'</seg> 'I certainly do,' was my reply, 'and you had better instruct Colonel <persName key="Dame, William H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName> to attend to it that the emigrants are permitted to pass, if you want them to pass unmolested.' He continued: 'I asked <persName key="Haight, Isaac C.">Isaac (meaning Haight)</persName> the same question, and he answered me just as you do, and I expect the boys would pitch into them.' I again said to him that he had better say to Governor <persName key="Young, Brigham">Young</persName> that if he wants emigrant companies to pass without molestation, he must instruct Colonel <persName key="Dame, William H.">Dame</persName> or <persName key="Haight, Isaac C.">Haight</persName> to that effect; for if they are not ordered otherwise, <seg type="Blame" subtype="IndiansLDSInfluence">they will use them up by the help of the Indians</seg>."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">The confession then tells of the councils in which the destruction of the emigrants was decreed, the gathering of the Mormon militia, and the siege down to the time the treachery was decided upon</seg>, and continues as follows:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<seg type="Massacre" subtype="Surrender">The plan agreed upon was to meet them with a flag of truce, <seg type="Blame" subtype="IndiansIndependently">tell them that the Indians were determined upon their destruction; that we dare not oppose the Indians, for we were at their mercy;</seg> that the best we could do for them (the emigrants) was to get them and what few traps we could take in wagons, to lay their arms in the bottom of the wagon, cover them up with the bed clothes, and start for the settlement as soon as possible, and to trust themselves in our hands. The small children and wounded were to go with the two wagons and the women to follow the wagons, and the men next, the troops to stand in readiness on the east side of the road to receive them.</seg> <seg type="Blame" subtype="IndiansLDSInfluence"><persName key="Shirts, Carl">Shirtz</persName> and <persName key="Johnson, Nephi">Nephi Johnson</persName> were to conceal the Indians in the brush and rocks till the company were strung out on
+
+<pb n="53" xml:id="mmm.anti.fallows.1903.057"/>
+
+the road to a certain point, and at the watchword, 'Halt, do your duty,' <seg type="Massacre" subtype="Casualties">each man was to cover his victim and fire</seg>. <persName key="Johnson, Nephi">Johnson</persName> and <persName key="Shirts, Carl">Shirtz</persName> were to rally the Indians and rush upon and dispatch <seg type="Massacre" subtype="Casualties">the women and larger children</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"It is most likely these two Mormons were <seg type="Blame" subtype="IndiansLDSInfluence">with the Indians who directed the attack at the camp</seg>. It was further told the men that President <persName key="Haight, Isaac C.">Haight</persName> said that if we were united to carrying out the instructions we would receive 'a celestial reward.'</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"I said I was willing to put up with a less reward if I could be excused. I asked, 'How can you do this without shedding innocent blood?' Here I got another lampooning for my stubbornness and disobedience to my priesthood.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="EmigrantBehavior">"I was told that there was not a drop of innocent blood in the whole company of emigrants, and was also referred to the gentile nation who refused the children of Israel passage through their country when Moses led them out of Egypt&#8212;that the Lord held that crime against them; and that when Israel was strong, the Lord commanded Joshua to slay the whole nation, men, women and children. 'Have not these people done worse than that to us? <seg type="Context" subtype="LDSPersecution">Have they not threatened to murder our leaders and prophets? And have they not boasted of murdering our patriarchs and prophets, <persName key="Smith, Joseph">Joseph</persName> and <persName key="Smith, Hyrum">Hyrum</persName>?</seg> Now talk about shedding innocent blood.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"They said that I was a good, liberal, free-hearted man, but too much of this sympathy would be always in the way; that every man now had to show his colors; that it was not safe to have a Judas in camp. Then it was proposed that every man who would not keep a close mouth, they wanted to know it then. This gave me an understanding what I might expect if I continued to oppose them. Major <persName key="Higbee, John M.">Higbee</persName> said: 'Brother <persName key="Lee, John D.">Lee</persName> is right. Let him take an expression of the people.' I knew I dare not refuse; so I had every
+
+<pb n="54" xml:id="mmm.anti.fallows.1903.058"/>
+
+man speak and express himself. All said they were willing to carry out the counsel of their leaders; that the leaders had the spirit of God, and knew better what was right than they did."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The massacre is then related in detail, down to the time when <seg type="Massacre" subtype="Casualties">the wounded in the wagons</seg> were killed, after which the confession continues:</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Survivors">"At this moment I heard the screams of a child, looked up, and saw an Indian have a little boy by the hair of his head, dragging him out of the hind end of the wagon, with a knife in his hand, getting ready to cut his throat. I sprang for the Indian, with my revolver in hand, and shouted at the top of my voice, 'Arick, coma, cot too sooet,' (stop you fool). The child was terror stricken. His chin was bleeding. I supposed it was the cut of a knife, but after learned that it was done on the wagon-box, as the Indian yanked the boy down by the hair of the head.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Survivors">"I no sooner rescued this child than another Indian seized a little girlby the hair. I rescued her as soon as I could speak. I told the Indians they must not hurt the children&#8212;that I would die before they should be hurt; that we would buy the children from them. Before this time the Indians had rushed up around the wagons in quest of blood, and dispatched the wounded men.</seg> </seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"I got up, saw the children, and among the others the boy who was pulled by the hair of the head out of the wagon by the Indian and saved by me. That boy I took home and kept until Dr. <persName key="Forney, Jacob">Forney</persName>, government agent, came to gather up the children and take them East. He took the boy with the others. The boy's name was <persName key="Fancher, Kit Carson (Charles)">Fancher</persName>. His father was captain of the train. He was taken East and adopted by a man in <placeName type="state" key="Nebraska">Nebraska</placeName> named <persName key="Sloan, richard">Richard Sloan</persName>. He remained East several years and then returned to <placeName type="state" key="Utah Territory">Utah</placeName>, and is now a
+
+<pb n="55" xml:id="mmm.anti.fallows.1903.059"/>
+
+convict in the <placeName type="state" key="Utah Territory">Utah</placeName> penitentiary, having been convicted the past year for the crime of highway robbery. He was well known by the name of <persName key="Sloan, William">'Idaho Bill,'</persName> but his true name is William Fancher. <persName key="Fancher, Trypehna D. 'Annie'">His little sister</persName> was also taken East, and is now the wife of a man working for the Union Pacific Railroad company, near Green River."</seg></p>
+
+<p><persName key="Lee, John D.">Lee</persName> then proceeds to tell of his visit to President <persName key="Young, Brigham">Young</persName>, as follows:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Some two weeks after the deed was done <persName key="Haight, Isaac C.">Isaac C. Haight</persName> sent me to report to Governor <persName key="Young, Brigham">Young</persName> in person. I asked him why he did not send a written report. He replied that I could tell him more satisfactorily than he could write, and if I would stand up and shoulder as much of the responsibility as I could conveniently it would be a feather in my cap some day, and that I would get a celestial salvation, but the man that shrunk from it now would go to hell. I went and did as I was commanded.</seg></p>
+
+<p>"<persName key="Young, Brigham">Brigham</persName> asked me if <persName key="Haight, Isaac C.">Isaac C. Haight</persName> had sent a letter to him. I replied, 'Not by me, but he wished me to report in person.' 'All right,' said <persName key="Young, Brigham">Brigham</persName>. 'Were you an eye witness?' 'To the most of it,' I replied.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Then I proceeded and gave him a full history of all, except that of my opposition. That I left out entirely. I told him of the killing of <seg type="Massacre" subtype="Casualties">the women and children</seg> and <seg type="Massacre" subtype="Surrender">the betraying of the company</seg>; that, I told him, I was opposed to, but I did not say to him to what extent I was opposed to it, only that I was opposed to shedding innocent blood.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"'Why,' said he, 'you differ from <persName key="Haight, Issac C.">Isaac (Haight)</persName>, for <seg type="Blame" subtype="EmigrantBehavior">he said 'there was not a drop of innocent blood in the whole company.'</seg> When I was through he said it was awful: that he cared nothing about <seg type="Massacre" subtype="Casualties">the men</seg>, but <seg type="Massacre" subtype="Casualties">the women and children</seg> were what troubled him.</seg></p>
+
+<p>"I said, 'President <persName key="Young, Brigham">Young</persName>, you should either release these men from their obligation or sustain them when
+
+<pb n="56" xml:id="mmm.anti.fallows.1903.060"/>
+
+they do what they have entered into the most sacred obligations to do.' He replied, 'I will think over the matter and make it a subject of prayer, and you may come back in the morning and see me.' I did so.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution">"In the morning he said, '<persName key="Lee, John D.">John</persName>, I feel first rate. I asked the Lord if it was all right for the deed to be done, to take away the vision of the deed from my mind, and the Lord did so, and I feel first rate. It is all right. The only fear I have is of traitors.'</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">He told me never to lisp it to any mortal being, not even to Brother <persName key="Kimball, Heber C.">Heber</persName>.</seg> President <persName key="Young, Brigham">Young</persName> had always treated me with the friendship of a father, and <seg type="Context" subtype="Polygamy">has sealed several women to me since</seg>, and has made my home his home when in that part of <placeName type="state" key="Utah Territory">the territory</placeName> until danger threatened him.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"This is a true statement according to my recollections. This statement I have made for publication after my death, and have agreed with a friend to have the same published with many facts pertaining to other matters connected with the crimes of the Mormon people under the leadership of the priesthood, from a period before the butchery of <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> to the present time, for the benefit of my family, and that the world might know the black deeds that have marked the way of the Saints from the organization of the Church of Jesus Christ of Latter Day Saints to the period when a weak and too pliable tool lay down his pen to face the executioner's guns for a deed which he is not more guilty of than others who to-day are wearing garments of the priesthood and living upon the 'tithing of a deluded and priest-ridden people.' My autobiography, if published, will open the eyes of the world to the monstrous deeds of the leaders of the Mormon people, and will also place in the hands of the attorney for the government the particulars of some of the most blood-curdling crimes that have been committed in <placeName type="state" key="Utah Territory">Utah</placeName>, which, if properly followed up, will bring
+
+<pb n="57" xml:id="mmm.anti.fallows.1903.061"/>
+
+many down from their high places in the church to face offended justice upon the gallows. So mote it be."</seg></p>
+
+<p><hi rend="right"><hi rend="smallcaps"><persName key="Lee, John D.">JOHN D. LEE.</persName></hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Dr. <persName key="Nixon, O. W.">O. W. Nixon</persName> says: "Why this autobiography has never been seen by the public is easily understood. It was in the hands of the Mormons, and they had good reason for its suppression. When Judge <persName key="Boreman, Jacob S.">Boreman</persName> passed sentence on <persName key="Lee, John D.">Lee</persName>, under the statute law of <placeName type="state" key="Utah Territory">the territory</placeName>, he gave the criminal the privilege of choosing between beheading, hanging, or being shot. <persName key="Lee, John D.">Lee</persName> promptly decided to be shot. The judge then sentenced him to be shot on the 26th day of January, 1877, between the hours of to a. m. and 3 p. m. To enable an appeal to be taken to the Supreme Court, the date was, however, changed to March 23, 1877. The appeal failed to save him, and the day drew near. United States Marshal <persName key="Nelson, William">William Nelson</persName> conceived the justice of taking <persName key="Lee, John D.">Lee</persName> to <geogName type="valley" key="Mountain Meadows">the Mountain Meadow</geogName> for his execution. Justice <persName key="Boreman, Jacob S.">Boreman</persName> and the newspaper reporters supposed that the execution would take place in <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, but the marshal and his criminal, with an armed guard were well on their way before the movement was know to the public. Having reached the scene, the marshal selected a spot for the execution about a hundred feet distant from <seg type="Reaction" subtype="Commemoration">the pile of rocks that marked the grave of <seg type="Massacre" subtype="Casualties">the murdered emigrants</seg></seg>. Seldom, if ever, was a criminal brought so face to face with his great crime. <persName key="Lee, John D.">Lee</persName> was taken from the wagon and seated upon his coffin, and fronting the rock cairn, with five soldiers with needle guns standing forty feet distant. What realistic remembrances must have flocked to his mind amid such surroundings.
+
+<pb n="58" xml:id="mmm.anti.fallows.1903.062"/>
+
+Here was the very spot where he had brained <seg type="Massacre" subtype="Casualties">old men and helpless women</seg>! Just beyond, upon the hill, was where he had cut the throats of <seg type="Massacre" subtype="Casualties">two beautiful young girls just budding into womanhood</seg>, even while they "held his knees and prayed for their lives to be spared." Nineteen years and six months had passed since the horrible incident, but who will not believe that every event did not burn into his brain now, as righteous and retributive justice had finally reached for him. All was now ready, and at 10:30 o'clock his death sentence was read to him and he was given an opportunity to speak. He was attended by the Rev. Mr. <persName key="Stokes, George">Stokes</persName>, and to him he confessed, what he had not before acknowledged that "I killed <seg type="Massacre" subtype="Casualties">five of the emigrants</seg> with my own hands." He then menacingly said: "I have no favors to ask; I do not fear death. I shall never go to a worse place than this."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Hardened criminal as he was, it was easy to believe he had been experiencing in advance untold torture. He averred that "I am a firm believer in the gospel as taught in its purity by <persName key="Smith, Joseph">Joseph Smith</persName>," and then added, "I ask the Lord, my God, to extend his mercy to me and receive my spirit. My labors are done." The order from the marshal rang out: "Make ready, take aim, fire." The rifles spoke as one, and five bullets entered near the heart, and <persName key="Lee, John D.">John D. Lee</persName> was dead, without a struggle. Thus was the great crime at Mountain Meadow avenged by the strong arm of law, nineteen years and six months after the murdered victims had been consigned to their graves. While <persName key="Lee, John D.">John D. Lee</persName> was guilty and deserved his death, and had richly deserved it all the nineteen years and six
+
+<pb n="59" xml:id="mmm.anti.fallows.1903.063"/>
+
+months, yet people who can weigh evidence will go on thinking, as Judge <persName key="Boreman, Jacob S.">Boreman</persName> said, in sentencing <persName key="Lee, John D.">Lee</persName>: "It seems to have been a vast conspiracy extending from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to the bloody field. <seg type="Encounter" subtype="TradeLDS">The emigrants were hounded all along the line, and nowhere were citizens allowed to sell them anything to sustain life.</seg> The men who actually participated in the deed are not the only guilty parties in the slaughter which occurred nineteen years ago."</seg></p>
+
+<p>In the light of such facts, with a multitude of people yet living to testify to their truth, it would seem as if the people of <placeName type="state" key="Utah Territory">Utah</placeName> were in immodest haste to canonize Bishop <persName key="Young, Brigham">Brigham Young</persName> among the "honored dead" in the rotunda of the National capitol, which <placeName type="state" key="Utah Territory">the state of Utah</placeName> has given notice she would do. Aside from all his teachings, which undermine all that is sacred in the American home, teachings and practices that would dishonor and dethrone virtue, this single act of his administration, <seg type="Blame" subtype="LDS_LDS">the crime <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, should make this honor to his name and memory impossible.</seg> Virtuous womanhood and honest manhood should everywhere enter protest that legislators should heed and understand.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Further Judge <persName key="Goodwin, C. C.">Goodwin</persName> says: "It is known that the murders were planned in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, that <seg type="Massacre" subtype="Spoils">many of the effects of the victims were carried to that city and sold</seg>. Here in a meeting of the seventies in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <persName key="Young, Brigham">Brigham Young</persName> justified the massacre."</seg> (<hi rend="italic">Harper's, Oct., '81, pg. 758.</hi>)</p>
+
+<p>It became known by Mormon authorities after the execution of <persName key="Lee, John D.">Lee</persName> that he had placed his confession in the hands of his attorney for publication. The "Blood
+
+<pb n="60" xml:id="mmm.anti.fallows.1903.064"/>
+
+Atoners" were sent to secure it and to kill Mr. <persName key="Bishop, William W.">Bishop</persName> if necessary to obtain the Ms. This was prevented only by an efficient guard stationed to protect him. When the Ms. was edited and ready for the press, the Wells, Fargo &amp; Co. Express refused it until they were furnished with an armed guard to protect them beyond the Mormon borders. (Pref. M. U. pg. 7.)</p>
+
+</div>
+</body>
+</text>
+</TEI>

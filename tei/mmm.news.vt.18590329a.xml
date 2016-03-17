@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590329a">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Discharge of the Grand Jury</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.vt.18590329a</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+		<note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Valley Tan</title>
+		<title level="a" type="main">Discharge of the Grand Jury</title>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1859-03-29">March 29, 1859</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term> </term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enchancement</change>
+	<change when="2011-04-25"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-02-23"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.vt.18590329a.001"/>
+
+<head type="main">Discharge of the Grand Jury.</head>
+
+<p>This day makes two weeks from the time&#8212;you were impannelled.&#8212;At that time, the court was very particular to
+impress upon your minds the fact that it was desirable to expedite business as speedily as possible. The court took
+occasion to call your attention to the difficulties under which we had to labor.&#8212; It told you of the condition of the legislation; it told you of the fact that the Legislature had not provided proper means to aid the court in bringing criminals to punishment; it told you that, aside from that, that the legislation was of such a character as to embarrass the court in the discharge of its duties; and that they had given criminal jurisdiction to courts of their own creation, which by the organic act can exercise no such jurisdiction. They had sought to throw the punishment of crimes into such tribunals.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="UtahWar">The court also called your attention to the fact that there had been, in connection with this legislation, an attempt by persons within <placeName type="state" key="Utah Territory">this Territory</placeName> to bring the United States Courts into disrepute with this people. It particularly called your attention to the fact that <persName key="Young, Brigham">Brigham Young</persName>, the late Executive of <placeName type="state" key="Utah Territory">the Territory</placeName>, at the time when he was a sworn
+officer of the government&#8212;sworn to see that the laws were executed&#8212;had taken occasion to denounce the courts as vile and corrupt; also that be had taken occasion to denounce all attorneys and jurors of the court, and that this was done
+to prevent the proper and due administration of justice in <placeName type="state" key="Utah Territory">the Territory</placeName>.</seg> The court felt it to be its duty to repel such slanders; that it owed it to the position it occupied and to the members of the bar, who were looked upon as honorable men, and from its association with them, it felt it to be its duty to repel such slanders, let them come from what source they might. This was dope for the purpose of showing the difficulties that you and the court labored under in bringing criminals to justice.</seg></p>
+
+<p>Aside from this, the court took the unusual course of calling your attention to particular crimes&#8212;the horrible massacre <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain meadows</geogName></seg>. It told you of the murder of <persName key="Jones, Henry">young Jones</persName> and his mother, and of pulling their house down over them and making that their tomb; <seg type="Context" subtype="ParrishMurder">it told you of the murder of <persName key="Parrish, William"><persName key="Parrish, 'Beason'">the Parrishes</persName></persName> and <persName key="'Duff' Potter">Potter</persName></seg>, and <persName key="Forbes, Henry">Forbes</persName>, almost
+within sight of this court house. It took occasion to call names for the purpose of calling your particular attention to those<cb n="2" /> crimes; the fact that they have been commited is notorious.</p> 
+
+<p><seg type="Context" subtype="ParrishMurder">The court has had occasion to issue bench warrants to arrest persons connected with the <persName key="William Parrish"><persName key="'Beason' Parrish">Parrish</persName></persName> murder; has had
+them brought before it and examined; the testimony presents an unparalleled condition of affairs. It seems that the
+whole community were engaged in committing that crime. Facts go to show it. There seems to be a combined effort on
+the part of the community to screen the murderers from the punishment due them for the murder they have committed.</seg></p>
+
+<p>I might call your attention to the fact that when officers seek to arrest persons accused of crimes they are not able to
+do so; the parties are screened and secreted by the community. Scarely had the officers arrived in sight of the town
+of <placeName type="settlement" key="Springville, UT">Springville</placeName> before a trumpet was sounded from the walls around the town. This, no doubt, was for the purpose of giving the alarm. The officers were there to make arrests. The officers leave the town, and in a short time a trumpet sounds again from the wall for the purpose of announcing that the danger was over. Witnesses are screened; others are intimidated by persons in that community.</p>
+
+<p>An officer of this court goes to <placeName type="settlement" key="Springville, UT">Springville</placeName>, meets the Bishop of the town, asks him about a certain man, for whom he has a writ, he having understood that the man was a scribe in his office.  He (the Bishop) tells him that he has gone to <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>, while the fact is, the person the officer desires to find is at the time in sight in the street. We have here a Bishop lying to prevent the service of the process of this court, and aiding in preventing criminals being brought to punishment.</p>
+
+<p>Such are the attempts made to prevent the administration of justice in the courts. Officers are prevented from
+making arrests, they are thwartad upon all points when they seek to arrest those persons who should be brought to punishment.</p>
+
+<p>Such acts and conduct go to show that the community there do not desire to have criminals punished; <seg type="Context" subtype="ParrishMurder">it shows that the <persName key="William Parrish"><persName key="'Beason' Parrish">Parrishes</persName></persName> and <persName key="Potter, 'Duff'">Potter</persName> were murdered
+by counsel, that it was done by authority; the testimony goes to show that the persons engaged hi committing these
+murders are officers in that community, policemen, and that they have since been promoted for committing these hellish
+crimes.</seg></p>
+
+<p>At the commencement of this term of court, these persons were seen elbowing about the streets with the Bishops and
+other dignitaries, but now they are not to be found.</p>
+    
+<p>I say all the facts go to show that those offences were committed by officer, in, that town, and that there is a determination to cover up and to secrete the offenders.</p>
+
+<p><seg type="Context" subtype="ParrishMurder">You have had sufficient time to examine those cases; more than two days
+ago, you had all the testimony before you in the <persName key="William Parrish"><persName key="'Beason' Parrish">Parrish</persName></persName> case and for some cause you refuse to do any thing.</seg></p>
+
+<p>Your duty is to find bills when there is sufficient testimony to satisfy you of the probability of the party's guilt. The
+court has been patient with you; it has given you time; it has endeavored to be patient, that you might have ample opportunity to do your duty.</p>
+
+<p>The court has no desire but to do its duty; to punish offenders and enforce the law&#8212;it can have no other purpose or
+motive.</p>
+
+<p>If it is the desire of this community that persons guilty of crimes shall be screened, and that high, notorious crimes shall be covered up, it will have to be done without the aid of this court.</p>
+
+<p>Should my government desire such thing's, they must send some other person than the one who now presides in this judicial district to accomplish such purpose.</p>
+
+<p>The court cares not what position persons hold, either civil or ecclesias'ical, if they are guilty of crime, it will use its authority to bring the offenders to justice.</p>
+
+<p>By legislation we have no jails, no means to support prisoner; no means of paying witnesses or jurors, or other
+officers of this court. It would seem that the whole of the legislation of <placeName type="state" key="Utah Territory">this Territory</placeName> was to prevent the due administration of justice.</p>
+
+<p>It was these considerations that induced the court to desire you to expedite the duties devolved upon you.</p>
+
+<p>The court feels that it has discharged its duty; it has furnished you every facility for discharging yours. Still, you. make no report; to continue you longer in service would be wrong&#8212;the public<cb n="3" /> interest would neither be promoted or benefitted by it.</p>
+
+<p>You are therefore discharged from further service.</p>
+
+<p>The court will think of the propriety of veniraing another grand jury.</p>
+
+<p>For your service upon territorial business the clerk will issue you his certificates. For the time you were engaged on United States business the martial will pay you.</p>
+
+<p>If it is expected that this court is to be used by this community, as a means of protecting it against the pecodillos of gentiles arid Indians; unless this community will publish its own murderers, such expectation will not be realized. It will be used for no such purpose.</p>
+
+<p>When this people come to their reason, and manifest a disposition to punish their own high offenders, it will then be
+time to enforce the law also for their protection, If this court cannot bring you to a proper sense of your duty, it
+can at least turn the savages in custody, loose upon you.</p>
+
+</div1>
+    
+<milestone unit="horbar" />
+
+<div1>
+
+<note>Correspondence between the Mayor of
+Provo and his Honor Judge Cradlebaugh:&#8212;</note>
+
+<opener><dateline>Provo, March 11, 1859.</dateline>
+
+<salute><hi rend="italic">To the Honorable <persName key="Cradlebaugh, John">John Cradlebaugh</persName>,
+Associate Justice of the Supreme Court
+of the United States for <placeName type="state" key="Utah Territory">Utah Territory</placeName>, and ex-officio Judge of the 2nd Judicial District.</hi></salute></opener>
+
+<p>Your memorialists, the mayor and council of <placeName type="settlement" key="Provo City, UT">Provo city</placeName>, beg leave respectfully to represent that,</p>
+
+<p>Whereas, The city council have received petitions from the various wards of the city representing that a detach
+ment of the United States troops for several days past have been encamped on the seminary lot, the officers occupying
+the west lower room of the seminary building without the consent of the council or citizens of this city, and to the no small annoyance of the community, tending directly to intimidate those persons who have occasion to attend the District Court, now in session in the seminary, and also rendering it <choice><sic>excecdingly</sic><corr>exceedingly</corr></choice> difficult for the officers of the city to preserve the peace between the unruly portion of the citizens and soldiers, several unpleasant circumstances having already occurred and their present location, around the seminary savoring of a military interference with the municipal regulations of American citizens.</p>
+
+<p>Your memorialists respectfully pray your Honor to cause the immediate removal of the troops, now occupying the
+seminary and vicinity, beyond the limits of the city: And your memorialists as in duty bound will ever pray.</p>
+
+<closer>On behalf of the city council,
+<signed><persName key="Bullock, B. E.">B. E. BULLOCK</persName>, Mayor.</signed></closer>
+</div1>
+
+<div1>
+<opener><dateline>Provo, March 12, 1859,</dateline>
+<salute><hi rend="italic">To the Honorable the Mayor and City
+Council of Provo:</hi></salute></opener>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">Gentlemen&#8212;your letter of the 11th inst. has just been received, In reply
+to it I take occasion to say that the movement of a company of infantry to this city and their temporary location here was
+well considered before it was determined upon. It was a matter of necessity. There were a number of prisoners to be
+tried before my court; neither <placeName type="state" key="Utah Territory">the territory</placeName> nor the city afforded a jail or other place of confinement for them. No manner of provision had been made for their support or sustenance, neither by
+the Territory nor your city. To secure those prisoners and to maintain them. are duties that I owe to my office and to
+them.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Source" subtype="Attributed_Cradlebaugh">I have adopted the only means left me of accomplishing those objects The military company kindly furnished be the commanding General, both secury and support these Prisoners. That this small force should be near the court house or the building used as such, is not only a matter of convenience but of necessity to the court. This I will say, however, that, so soon as I can dispense with
+their most useful. services, I shall do so.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Source" subtype="Attributed_Cradlebaugh">You speak of their being here to the annoyance of the citizens of this city and intimidation of those persons having business with the District Court. When, where, or in what manner these soldlers have annoyed or interfered with the citizens of <placeName type="settlement" key="Provo, UT">Provo</placeName>, I challenge you to show. A more quiet, orderly set of  men I never saw; they have deported themselves with a propriety and decorum truly remarkable.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Source" subtype="Attributed_Cradlebaugh">As to your remark about intimidation, allow me to say that good American citizens bare no cause to fear American troops.</seg></seg></p>
+
+<closer><salute>I am, gentlemen, your obedient servant,</salute>
+<signed><persName key="Cradlebaugh, John">JOHN CRADLEBAUGH</persName>.</signed>
+</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

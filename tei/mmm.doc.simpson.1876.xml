@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.simpson.1876">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Report of Explorations Across the Great Basin of the Territory of Utah: Indians of Utah</title>
+                <title level="m" type="sub"></title>
+                <author><forename>J.</forename> <forename type="middle">H.</forename> <surname>Simpson</surname> and </author>
+                <author><forename>Garland</forename> <surname>Hurt</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.doc.simpson.1876</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="a">Indians of Utah by Dr. Garland Hurt</title>
+                    <title level="m" type="main">Report of Explorations Across the Great Basin of the Territory of Utah for a direct wagon-route from Camp Floyd to Genoa, in Carson Valley, in 1859, by Captain J. H. Simpson</title>
+                    <author><forename>J.</forename> <forename type="middle">H.</forename> <surname>Simpson</surname> and </author>
+                    <author><forename>Garland</forename> <surname>Hurt</surname></author>
+                    <publisher>Government Printing Office</publisher>
+                    <pubPlace>Washington, DC</pubPlace>
+                    <extent>35-36; 460-464</extent>
+                    <date when="1876">1876</date>
+                    <note type="source">J. H. Simpson and Garland Hurt. Introduction and Appendix O: “Indians of Utah by Dr. Garland Hurt,” in <hi rend="italic">Report of Explorations Across the Great Basin of the Territory of Utah for a direct wagon-route from Camp Floyd to Genoa, in Carson Valley, in 1859, by Captain J. H. Simpson</hi>. US Engineer Department, U.S. Army. Washington, DC: GPO, 1876. 35-36; 459-464.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+	    <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	     </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+  	    <change when="2011-08-23"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	    <change when="2011-06-14"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2010-02-08"><name>Laura Weakly</name> Validation</change>
+            <change when="2010-02-04"><name>Kelsey F. Harris</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name>Model Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+        <div1 type="doc">
+
+<pb n="unnumbered" xml:id="mmm.doc.simpson.1859.001"/>
+
+<head type="main">ENGINEER DEPARTMENT, U.S. ARMY.<lb/>
+REPORT<lb/> 
+OF<lb/>
+EXPLORATIONS<lb/>
+ACROSS THE<lb/> 
+GREAT BASIN OF THE TERRITORY OF UTAH<lb/>
+FOR A<lb/>
+DIRECT WAGON-ROUTE FROM CAMP FLOYD TO GENOA, IN CARSON VALLEY,<lb/>
+IN 1859,<lb/>
+BY<lb/>
+CAPTAIN J.H. SIMPSON,<lb/>
+CORPS OF TOPOGRAPHICAL ENGINEERS, U.S. ARMY,<lb/> 
+[ NOW COLONEL OF ENGINEERS, BVT. BRIG. GEN., U.S.A]<lb/>
+MADE<lb/>
+BY AUTHORITY OF THE SECRETARY OF WAR, AND UNDER INSTRUCTIONS FROM BVT. BRIG. GEN. A.S. JOHNSTON,<lb/>
+U.S. ARMY, COMMANDING THE DEPARTMENT OF UTAH.<lb/>
+<milestone unit="section" rend="horbar"/>
+WASHINGTON:<lb/> 
+GOVERNMENT PRINTING OFFICE.<lb/>
+1876.<lb/></head>
+
+
+<gap reason="not relevant" />
+
+<div2>
+<pb n="35" xml:id="mmm.doc.simpson.1859.035"/>
+
+<p>The Pi-eeds live adjoining the Pah-vants down to the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>, and are represented as the most timid and dejected of all the <placeName type="state" key="Utah Territory">Utah</placeName> bands. They barter their children to the Utes proper for a few trinkets or bits of clothing, by whom they are again sold to the Navajos for blankets, &amp;c. They indulge in a rude kind of agriculture, which they probably derived from the old Spanish jesuits. Their productions are corn, beans, and squashes. <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">The Mountain Meadow massacre is ascribed by the Mormons to them</seg>, but, as Dr. <persName key="Hurt, Garland">Hurt</persName> justly remarks, "any one at all acquainted with them must perceive at once how utterly absurd and impossible it is for such a report to be true." Indeed the report of Mr. <persName key="Forney, Jacob">I. Forney</persName>, the superintendent of Indians in <placeName type="state" key="Utah Territory">Utah</placeName>, of September 29, 1859, fixes the stigma of this horrible outrage on the Mormons.</seg><ref target="note_s" /> Their chiefs are Quanarrah and Tatsigobbets.</p>
+
+<milestone unit="section" rend="horbar"/>
+
+<note xml:id="note_s"><p>(s) <seg type="Source" subtype="Government">The Commissioner of Indian Affairs, a. B. Greenwood, in his report of November 26, 1859, to Secretary of the Interior, says in relation to this matter:</seg></p>
+
+    <p><seg type="Source" subtype="Government">"Many of the numerous depredations upon the immigrants have doubtless been committed by them in consequence of their destitute and desperate condition. They have, at times, been compelled weither to steal or starve; but there is reason to apprehend that in their forays they have often been only the tools of lawless whites residing in the 
+
+<pb n="36" xml:id="mmm.doc.simpson.1859.036"/>
+
+Territory. <seg type="Massacre" subtype="Spoils">In some of the worst outrages of this kind, involving the lives as well as the property of our emigrants</seg>, the latter are known to have participated. That this was the case in the atrocious and dreadful massacre <seg type="Massacre" subtype="Location">at 'Mountain Meadow,'</seg> <seg type="Massacre" subtype="Dates">in September, 1857</seg>, the facts stated in the report of the superintendent, in regard to that occurrence, leave no room for doubt. <seg type="Massacre" subtype="Casualties">The lives of from one hundred and fifteen to one hundred and twenty peaceable emigrants, of all ages and both sexes, were inhumanly and brutally sacrificed on that occasion</seg>, <seg type="Massacre" subtype="Survivors">some young children only being spared</seg>." ( See "Message and Doc., 1859-'60, pp. 386 and 737-740.")</seg></p></note>
+</div2>
+
+<gap reason="not relevant" />
+
+<pb n="459" xml:id="mmm.doc.simpson.1859.459"/>
+
+<div2>
+<head type="main">EXPLORATIONS ACROSS THE GREAT BASIN OF UTAH.<lb/>
+<milestone unit="section" rend="horbar"/>
+APPENDIX O.<lb/>
+<milestone unit="section" rend="horbar"/> 
+INDIANS OF UTAH.<lb/>
+BY<lb/> 
+DR. GARLAND HURT.</head>
+<milestone unit="section" rend="horbar"/>
+
+<p>The following communication from Dr. Garland Hurt, who for several years was an Indian agent under the General Government in <placeName type="state" key="Utah Territory">Utah</placeName>, will be of interest to all who take an interest in ethnological subjects. I cannot agree, however, with the doctor in the idea which he appears to hold forth as to the original disparity of the races, and that any mode of treatment of the Indian tribes which ignores this doctrine, or rather which is based on the doctrine of the original unity of the race, must be attended with failure. I know it is the habit of many excellent and scientific men, as the doctor has done, to leave out in their philosophy a great truth&#8212;the greatest that has been divulged to the world&#8212;that the great I AM has spoken to man in his ignorance, and has given to him certain primary truths, which if he regard, he will assuredly live in light; but which if he disregard, he will as assuredly walk in darkness himself, and lead others into darkness. Among these great primary truths, I hold is the unity of the race; and before any one, in my judgment, has a right to disbelieve it, he must first show that the source of knowledge of the Holy One, the Bible, which unbelievers have as yet only served to strengthen by their cavils and objections, is untrue, and therefore unworthy of being received as the grant text-book of individuals as well as of nations. This the history of that work through the ages which are gone, its internal evidences, and its acknowledged bearing on the happiness of the nations of the earth which have sincerely embraced it, show they will never be able to do. So far from it, it is the belief of the writer (however it may be the fashion of the mere moralist to deny it and sometimes deride it) the greatest specimen of statesmanship is yet to be exhibited in the condition of a kingdom whose controlling officers shall be like Joseph and Daniel of Bible history and WAshington of modern times, whose only fear seems to have been lost they should do wrong and run counter to the Divine mind.</p>
+
+<floatingText>
+<body>
+<head><hi rend="italic">Dr. Garland Hurt to Captain Simpson.</hi></head>
+ 
+<opener>
+<dateline>WASHINGTON, D. C., May 2, 1860.</dateline> 
+<salute>DEAR SIR:</salute></opener>
+<p>In reply to your inquiries for information concerning the Indians in the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, I would remark that numerous tribes are designated by persons living in the Territory, which, in my opinion, are susceptible of the following divisions and subdivisions, viz:</p>
+
+<p>Utahs: Pah-Utahs, Yamp-Pah-Utahs, Cheveriches, Pah-Vantes, San-pitches, Py-eeds.</p>
+
+<pb n="460" xml:id="mmm.doc.simpson.1859.460"/>
+
+<p>Sho-sho-nees: Snakes, Bannacks, To-si-witches, Go-sha-Utes, Cum-um-pahs.</p>
+
+<p>Py-Utes.</p>
+
+<p>Wah-shoes.</p>
+
+<p>The two latter tribes inhabit the country along the eastern base of the <geogName type="mountain" key="Sierra Nevada Mountains">Sierra Nevada Mountains</geogName>, and are not sufficiently understood by me to enable me to speak of them in detail.</p>
+
+<p>The San-pitches speak the <placeName type="state" key="Utah Territory">Utah</placeName> dialect, and consequently I have classified them as a subdivision of the tribe, though they are greatly inferior to them in many respects, and the Py-eeds appear to occupy the same relation.</p> 
+
+<p>The Go-sha-Utes appear to be a hybrid race between the Sho-sho-nees and Utahs, and the same may be said of the Cum-um-pahs, the difference between them growing out of their relations to the different bands or subdivisions of these two tribes. These mixed bands are known as the diggers, and commonly called Snake Diggers and Ute Diggers. The Snakes and Utahs proper are well formed and featured, but of a darker complexion than the Indians of the plains east of the mountains.</p> 
+
+<p>They are fierce and warlike in their habbits, and have been at war with each other for several generations, and are likely to continue hostile. Each of these tribes are also at war with other tribes whose territories border on their own. The Snakes are at war with the Crows and Blackfeet, and the Utahs with the Cheyennes and arrapahoes. <seg type="Context" subtype="IndianRelationsUS">They both, however, profess friendship for the white man. It is the boast of the Snake, under a chief names <persName key="Washakie">Wash-i-chee</persName>, that the blood of the white man had never stained their soil.</seg></p> 
+
+<p>They occupy the country bordering on <geogName type="waterway" key="Snake River">Snake River</geogName>, <geogName type="waterway" key="Bear River">Bear River</geogName>, <geogName type="waterway" key="Green River">Green River</geogName>, and as far east as the <geogName type="waterway" key="Wind River">Wind River</geogName>. These bands of the Snakes are well supplied with horses and fire-arms, and subsist principally by hunting. Formerly, the buffalo ranged in their country, and formed the principal game; but according to their own accounts, which appear to be corroborated by those of the early trappers, these animals disappered from their range about thirty-five years ago, in consequence of the severity of the winter, and have not since returned<ref target="n0001">*</ref> At certain season, however, these animals visit the <geogName type="waterway" key="Sweetwater River">Sweetwater</geogName> and <geogName type="waterway" key="Wind River">Wind</geogName> Rivers, whither the Snakes repairevery summer and autumn to meet them, and this brings them in contact with the Crows, who regard them as trespassers, and have treated them accordingly, and hence the hostilities between the Snakes and Crows, which will be likely to continue so long as the buffalo continues to range upon these waters.</p> 
+
+<p>The inferior bands of this tribe, especially to the To-si-witches (White Knices), inhaviting the <geogName type="waterway" key="Humboldt River">Humboldt River</geogName>&#8212;who take their name from a beautiful white flint, which they procure from the adjacent mountains, and use as knives in dressing their food&#8212;are a
+
+<note xml:id="n0001">* Note by Captain <persName key="Simpson, James H.">Simpson</persName>.&#8212;Governor Denver, when Commissioner of Indian Affairs, addressed a letter to Hon. <persName key="Stephens, Alexander H.">Alexander H. Stephens</persName>, Representative in Congress, January 18, 1859, in reference to the proposed new Territory, including the gold-region of the Pike's Peak country, in which he says the following in relation to the range of the buffalo: "Herd of buffalo frequent the plains along the eastern sides of the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName>, but none have ever been found farther to the westward. Indeed, there is scarcely any evidence that buffaloes ever crossed that rocky barrier. Their range seems to have been confined almost exclusiovely to the great valley of the <geogName type="waterway" key="Mississippi River">Mississippi</geogName>." The governor is here evidently wrong, for I have seen a number of skulls of buffalo in <geogName type="valley" key="Echo Canon">Echo Canon</geogName>, and in the upper part of the <geogName type="valley" key="Timpanogos Valley">Timpanogos Valley</geogName>, all showing that at not a very remote period the buffalo roamed west of the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName>. Besides, <persName key="Fremont, John C.">Fremont</persName>, in his report of his second expedition across the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName>, expressly states (p.144) that the buffalo ranged west of these mountains up to 1838 or 1840; and the traditions of the Indians, as given above by Dr. <persName key="Hurt, Garland">Hurt</persName>, certainly corroborate it.</note>
+
+<pb n="461" xml:id="mmm.doc.simpson.1859.461"/>
+
+very treacherous people; and the Bannacks, Go-sha-Utes, and Cum-um-pahs are not much less so. These latter bands are in the habit of infesting the emigration-road between the Soda Springs and the <geogName type="waterway" key="Bear River">Bear River</geogName> and the head of the <geogName type="waterway" key="Humboldt River">Humboldt</geogName>, during the season of emigration to <placeName type="state" key="California">California</placeName>; and it is believed, and, I think, not without plausible foundation, that persons residing within the settlements of <placeName type="state" key="Utah Territory">Utah</placeName> encourage these spoliations by offering a market for the property thus obtained.</p> 
+
+<p>The Utahs proper inhabit the waters of <geogName type="waterway" key="Green River">Green River</geogName> south of the <geogName type="mountain" key="Green River Mountains">Green River Mountains</geogName>, the <geogName type="waterway" key="Grand River">Grand River</geogName> and its tributaries, and as far south as the Navajo country. They also claim the country bordering on <geogName type="waterway" key="Utah Lake">Utah Lake</geogName> and as far south as the <geogName type="waterway" key="Sevier Lake">Sevier Lake</geogName> as theirs.</p> 
+
+<p>They also subsist principally by hunting, and have the same traditions as to the final disappearance of the buffalo from their hunting-grounds that the Snakes have; and it is their efforts to penetrate into the territories of the Arrapahoes and Cheyennes in pursuit of their receding game that have entailed upon them a most destructive war, in which their enemies have the advantage in arms and ammunition, but not in bravery; for it is my opinion, from a familiar acquaintance with them, that there is not a braver tribe to be found among the aborigines of America than the Utahs, none warmer in their attachments, less relenting in their hatred, or less capable of treachery. So complex is their nature that to trust them it is necessary to understand them.</p> 
+
+<p>Owing to the disappearance of the buffalo, and the scanty supply of smaller game, which is continually growing less, these Indians are occasionally reduced to the most extreme state of want, and the weaker families are compelled to subsist upon roots, plants, and insects.</p>
+
+<p>Some of the inferior bands of both Snakes and Utahs are almost continually in a state of starvation, and are compelled to resort almost exclusively to small animals, roots and insects or subsistence.</p> 
+
+<p>Among the more vigorous bands, the principal employments are hunting, fishing, shooting, horse-racing, and gambling.  All the labor except hunting devolves upon their females, who dress their skins, and make them into clothing or lodges or prepare them for the market. The father holds his female children as his slaves, and demands a stipulated price for them in marriage. Some of their females are well-featured and bring good prices, but generally a few buckskins or a pair of blankets will purchase a bride.</p> 
+
+<p>Their females are also excessively addicted to gambling. The mode of gambling with both sexes is quite similar, a number of sticks being used in place of cards. They are so infatuated with this arrangement that I have known parties of them to refrain from eating and sleeping for twenty-four hours at a time, and gamble, with but little intermission.</p>
+
+<p>Between the Utahs proper and the Py-eeds there is a species of traffic which I believe is not known among any other tribes upon the continent. I allude to the bartering of children. So abject and degraded are the Py-eeds that they will sell their children to the Utahs for a few trinkets or bits of clothing. The Utahs carry these children to <placeName type="state" key="New Mexico">New Mexico</placeName>, where they find a profitable market for them among the Navajoes; and so important is it in enabling them to supply themselves with
+
+<pb n="462" xml:id="mmm.doc.simpson.1859.462"/>
+
+blankets from the Navajoes, who manufacture a superior article of Indian blankets, that the trade had become quite indispensable; and so vigorously is it prosecuted that scarcely one-half of the Py-eed children are permitted to grow up in the band; and, a large majority of those being males, this and other causes are tending to depopulate their bands very rapidly.</p> 
+
+<p>These Py-eeds indulge in a rude species of agriculture, which they probably derived from the Spanish Jesuits, and perpetuate only a matter of necessity, and that in the most primitive form. Their productions are corn, beans, and squashes. They have no farming-implements, and of course what they thus produce costs them twice the amount of labor that would be necessary with proper facilities.</p> 
+
+<p>The Py-eeds are perhaps the most timid and dejected of all the tribes west of the Rocky Mountains, being regarded by the Utahs as their slaves. They not unfrequently take their children from them by force. I have learned from the Utahs, however, that they much prefer obtaining them peaceably if they possibly can; but when pacific measures fail, some of their men prefer to take them by force shan to be disappointed.</p> 
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">This is the band of Indians who the Mormons say committed the massacre</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg> <seg type="Massacre" subtype="Dates">in the month of September, 1857</seg>; but any one at all acquainted with them must perceive at once how utterly absurd and impossible it is for such a report to be true, for I feel safe in assorting that ten men well armed could defend themselves against the largest force that this band could muster.</seg></p> 
+
+<p>Their religious ceremonies are quite simple and primitive, being nearly the same among them all. They recognize but one God, or Great Spirit, whom they call by different names among different tribes; but their conceptions of the attributes of the Deity are generally limited and erroneous. Smoking seems to be on of their religious ceremonies, and is generally indulged in with great solemnity, especially in their national councils.</p> 
+
+<p>They are very superstitious, and frequently attribute natural events to super-natural causes, as the changes and eclipses of the moon. Some of them have an idea that anything asked for on the first sight of the new moon will be granted by the Great Spirit.</p>
+
+<p>The sun appears to be with the most of them embodiment or representation of the Great Spirit, and supplications are frequently made to the rising sun as to a rational being. But in all these ceremonies, their conceptions seem to fall infinitely below a rational comprehension of the object of their adoration, and often developing an inconsistency not easily reconciled with an enlightened idea of true religious devotion.</p> 
+
+<p>Their family-relations are patriarchal, and the practice of polygamy is indulged. The marriage-ceremony, being very simple, is often celebrated privately.</p> 
+
+<p>In their funeral-ceremonies, the deepest grief is manifested sometimes by inflicting punishment upon themselves. They will, on the death of a principal person, kill their horses, burn their lodges and clothing, and not unfrequently sacrifice their prisoners, cut their hair very short, and refrain from food, in some instances going without eating or drinking for several days.</p> 
+
+<pb n="463" xml:id="mmm.doc.simpson.1859.463"/>
+
+<p>The females of the bereaved family observe the season of mourning with the most bitter lamentations, and for months after the death of a husband they greet the early mourning with loud and piteous cries. But the warrior scorns to weep, and prefers to manifest his bereavement by cutting and carving his flesh, which he sometimes indulges to such an extent as to endanger his own life.</p> 
+
+<p>They have no literature, and can scarcely be said to have a history of their own tribes or families. The few traditions that have descended to them are too vague, indistinct, and disconnected to be relied on as history beyond the first preceding generation.</p>
+
+<p>They are firm believers in charms, legerdemain, and necromancy, and in the management of their sick these superstitions devices constitute  their principle treatment, which their patients submit to with the most unbounded faith.</p> 
+
+<p>Each band has its medicine-man, whom they treat with great respect and partiality.</p>
+
+<p>Among all the tribes of this region there is the same indisposition to habits of industry, indolence being the rule and industry the exception, and nothing but the keenest impulses of necessity can impel them to action.</p>
+
+<p>But this characteristic they, I believe, only possess in common with all the inferior tribes of our species, and, with a view to their civilization, is an item worthy of much consideration. Intellectually they appear to be as well endowed as most of the native tribes of this continent; yet there seems to be a want of some of those higher intellectual endowments which render our own race progressive and so eminently fit us for the enjoyment of an enlightened government. The discussion of this subject involves a comparison of the races and invites an inquiry into the causes of the disparity that now exists between them, whether that disparity arises out of mental or physical inequality, or both; to what extent that inequality is capable of retarding their progress in the advancement of civilization, arts, and science. It appears to be the opinion of a large number of our modern philanthropists that all beings possessing the human form were originally endowed with an equality that over forbids the idea of inferiority.</p> 
+
+<p>With an eye single to this similarity in physical form, they seem to overlook the mental inequality, or attribute is to a want of culture; and hence the misguided zeal for the improvement of many of the colored races, whose mental inferiority is a fixed and demonstrable fact, which must ever and inevitably define their position in the scale of political importance, and renders the idea of their future elevation to an equality with the Caucasian race utterly preposterous, and can only exist in the misguided wanderings of a perverted imagination. They have shown from their earliest generations their incapacity for any except the most simple forms of government, such as would assimilate them to some species of the gregarious animals, whom they approximate to in this respect and imitate as much as they do the higher orders of their own species.</p>
+
+<p>The conclusions, then, to which we must arrive by this course of reasoning are obvious.</p>
+
+<p>First. That by becoming the constant recipients of our care and sympathy their condition is temporarily ameliorated, but only so during the application of that care and sympathy.</p>
+
+<pb n="464" xml:id="mmm.doc.simpson.1859.464"/>
+
+<p>Secondly. By amalgamation we elevate them at the expense of the degradation of the superior race.</p>
+
+<p>Thirdly. By coercion they are made subservient to the intellect of the superior race, and made to bear the burden of their own subsistence, by controlling and directing their physical energies into the channels of usefulness. There is a misguided philanthropy which seems to be constantly directing our energies to the accomplishment of what in the nature of things is utterly impossible, and which it is the province of moral philosophy to correct.</p> 
+
+<p>These errors are exemplified in the attempt of our Government, at the expense of millions of treasure, to improve the moral and social condition of the aborigines of the country, who continue to sink lower in degradation and want, and are annually diminishing in numbers. While a small African colony, in the Southern States of the confederacy, under what some are pleased to style tyranny and oppression, have swelled to a powerful nation, infinitely more happy than the indians or than themselves could be without the controlling influence of the superior race.</p> 
+
+<p>These Africans, we repeat, are infinitely more happy and prosperous than it were possible for them to be without the controlling influence of the superior race; while at the same time, instead of diminishing they contribute to swell the sources of the national revenue.</p> 
+
+<closer><salute>Very respectfully, your obedient servant,</salute> 
+<signed><persName key="Hurt, Garland">GARLAND HURT</persName>.<lb/>
+
+Capt. <persName key="Simpson, James H.">J.H. SIMPSON</persName>, U.S.A.</signed></closer>
+</body>
+</floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+<floatingText>
+<body>
+<opener>
+<dateline>WASHINGTON, D.C., May 5 1880.</dateline></opener>
+
+<p>DEAR SIR: Your very valuable letter, in relation to the Indians in <placeName type="state" key="Utah Territory">Utah Territory</placeName>, I have just received and read with a great deal of interest. It will constitute an important portion of my forthcoming report. I agree with you in all you say, except as to the original disparity of the races, and the impossibility of their restoration to the same level of physical, mental, moral, and religious condition. The same God who has for wise purposes permitted the degradation of some portions of the human family, can also by His Spirits so breathe upon mankind as to cause them, through the purchased redemption of His only beloved Son, to see each other eye to eye, and to delight themselves in the common blessings of one untied family. This view is perfectly consistent to my mind with the coercion, for a time, of the inferior races to labor, of which you speak, and which I believe is one of the divinely appointed means to that end.</p>
+
+<closer><salute>Very respectfully, yours</salute>
+<signed><persName key="Simpson, James H.">J.H. SIMPSON</persName>
+<hi rend="italic">Captain Topographical Engineers <lb/>
+</hi>DR. <persName key="Hurt, Garland">GARLAND HURT</persName>.</signed></closer>
+</body>
+</floatingText>
+ 
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

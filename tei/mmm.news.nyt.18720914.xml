@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18720914">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">A Massacre By Mormons</title>
+		<title level="m" type="sub">Slaughter in Cold Blood of a Company of Emigrants.</title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18720914</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+	 	<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">New York Times</title>
+		    <title level="a" type="main">A Massacre By Mormons</title>
+		    <title level="a" type="sub">Slaughter in Cold Blood of a Company of Emigrants.</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1872-09-14">September 14, 1872</date>
+		</bibl>
+	     </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+ 	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>Validation</change>
+	<change when="2010-04-15"><name>Kelsey F. Harris</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18720914.001"/>
+
+<head type="main">A MASSACRE BY MORMONS.</head>
+
+<head type="sub">Slaughter in Cold Blood of a Company of Emigrants.</head>
+<head type="sub">Affidavit of a Mormon Bishop who Saw the Mountain Meadows Butchery&#8212;The Mormon
+Militia and their Officers the Murderers, Under Orders from Head-Quarters
+&#8212;Cowardly Strategy of the Saints</head>
+
+<dateline><placeName type="settlement" key="Salt Lake City, UT">SALT LAKE CITY</placeName>, Sept. 13.</dateline><p>&#8212;<seg type="Source" subtype="Attributed_Klingensmith"><seg type="Blame" subtype="LDS_LDSLeadership">The following
+is the affidavit in full by one of the least guilty among the participants in the affair, showing
+conclusively that the terrible Mountain Meadows massacre was the act of the Mormon
+authorities.</seg>  It will be remembered that <seg type="Massacre" subtype="Casualties">a large company of emigrants</seg>, <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg>,
+are known to have been all killed, <seg type="Massacre" subtype="Survivors">with the exception of the young children</seg>.  <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">When their massacre
+was discovered, the Mormons set afloat the story that they had perished by the hands of
+the Indians</seg> ; but from time to time circumstantial evidence has appeared indicating that they 
+were murdered in cold blood by the Mormons in revenge for previous outrages upon the latter
+perpetrated in <placeName type="state" key="Illinois">Illinois</placeName> and <placeName type="state" key="Missouri">Missouri</placeName>.  A competent witness now states under oath that
+<seg type="Massacre" subtype="Battle">the Mormon militia attacked the emigrants, and after a fight of several days without result</seg>,
+<seg type="Massacre" subtype="Surrender">sent in a flag of truce, offering them protection if they would lay down their arms.  The terms
+being complied with, the entire party was butchered by their captors:</seg></seg></seg></p>
+
+  <p>STATE OF <placeName type="state" key="Nevada"><sic>NAVADA</sic></placeName>, <placeName type="county" key="Lincoln County, NV">COUNTY OF LINCOLN</placeName>, SS.&#8212; <seg type="Source" subtype="Attributed_Klingensmith">Personally appeared before me, <persName key="Milller, Peter B.">Peter B. Miller</persName>, Clerk of Court of the Seventh Judicial District
+of the State of <placeName type="state" key="Nevada">Nevada</placeName>, <persName key="Klingensmith, Philip">Philip Klingon Smith</persName>, who being duly sworn, on this oath says: My name is <persName key="Klingensmith, Philip">Philip Klingon Smith</persName>.  I reside in the <placeName type="county" key="Lincoln County, NV">County of Lincoln</placeName>, in the <placeName type="state" key="Nevada">State of Nevada</placeName>.  I resided at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, in <placeName type="county" key="Iron County, UT">the County of Iron</placeName>, in the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, from A.D. 1852 to A.D.
+1859.  I was residing at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> at the time of the massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> in said <placeName type="state" key="Utah Territory">Territory of Utah</placeName></seg>.  <seg type="Emigrants" subtype="Route">I had heard that a company of emigrants was on its way from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake
+City</placeName>, bound for <placeName type="state" key="California">California</placeName>.  Said company arrived at said <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; tarried there one day, and passed on for <placeName type="state" key="California">California</placeName>.</seg>  <seg type="Blame" subtype="LDS_LDSLeadership">A<seg type="Massacre" subtype="Planning">fter said company had left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, the militia was called out for the purpose of committing acts of hostility against them.</seg>  Said call was a regular  military call from the superior officers to the subordinate officers and privates of the regiment at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and vicinity, composing a part of the militia of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.</seg>  I do not recollect the number of the regiment.  I was at that time the Bishop of the Church of Jesus Christ of Latter Day Saints at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.  <persName key="Haight, Isaac C.">Isaac C Haight</persName> was President over said church at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and the southern settlements in <placeName type="state" key="Utah Territory">said Territory</placeName>.  My position as Bishop was subordinate to that of said President.  <persName key="Dame, WIllilam H.">W.H. Darue</persName> was President of said church at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, in said <placeName type="county" key="Iron County, UT">Iron County</placeName>. Said <persName key="Dame, William H.">W.H. Darue</persName> was also Colonel of said regiment. 
+Said <persName key="Haight, Isaac C.">Isaac C. Haight</persName> was Lieutenant-Colonel of said regiment, and said <persName key="Lee, John D.">John D. Lee</persName>, of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, in said county, was Major of said regiment.  said regiment was duly ordered to muster, armed and equipped as the law directs, and prepared for field operations.  I had no command nor office in said regiment at that time, neither did I march with said regiment on the expedition which resulted in <seg type="Massacre" subtype="Casualties">said company</seg>'s being massacred <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, in said <placeName type="county" key="Iron County, UT">County of Iron</placeName></seg>.  <seg type="Massacre" subtype="Dates"><seg type="Massacre" subtype="Planning">About four days after said company of emigrants had left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, that portion of said regiment then mustered at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, took up its line of march in pursuit of them.  About two days after said company had left said <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, Lieut.-Col. J.C.
+Haight expressed in my presence a desire that said company might be permitted to pass on their way in peace ; but afterward he told me that he had orders from head-quarters to <seg type="Massacre" subtype="Casualties">kill all of said company of emigrants</seg> <seg type="Massacre" subtype="Survivors">except the little children</seg>.</seg> I do not know whether said
+head-quarters meant the regimental head-quarters at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, or the head quarters of the Commander-in-Chief at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg></seg></p>
+
+ <p><seg type="Source" subtype="Attributed_Klingensmith"><seg type="Massacre" subtype="RescueAttempt"><seg type="Blame" subtype="LDS_LDS">When the said company had got to <geogName type="waterway" key="Iron Creek">Iron Creek</geogName>, about twenty (20) miles from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, Capt.
+<persName key="White, Joel">Joel White</persName> started for the <geogName type="waterway" key="Pinto Creek">Pinto Creek</geogName> settlements, through which said company would pass, for the purpose of influencing the people to permit said company to pass on their way in peace. I asked and obtained permission of said White to go with him and aid him in his endeavors to save life.  When said <persName key="White, Joel">White</persName> and myself got about three miles from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, we met Major <persName key="Lee, John D.">John D. Lee</persName>, who asked us where we were gong.  I replied that we were going to try to prevent the killing of the emigrants.  Lee replied, <q>"I have something to say about that."</q></seg>  Lee was at that time on his way to <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, the head-quarters of Col. <persName key="Dame, William H.">Dawe</persName>.  Said <persName key="White, Joel">White</persName> and I went to <geogName type="waterway" key="Pinto Creek">Pinto Creek</geogName>, remained there one night, and the next day returned to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, meeting said company of emigrants at <geogName type="waterway" key="Iron Creek">Iron Creek</geogName>.  Before reaching <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> we met one <persName key="Allen, Ira">Ira Allen</persName>, who told us <q>"the decree had passed devoting said company to destruction."</q>  After the fight had been going on for three or four days a messenger from Major <persName key="Lee, John D.">Lee</persName> reached <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, who stated that the fight had not been altogether successful, upon which Lieut.-Col. <persName key="Haight, Isaac C.">Haight</persName> ordered out a reinforcement.  At this time I was ordered out by Capt. <persName key="Higbee, John M.">John M. Higby</persName>, who ordered me to muster, <q>"armed and equipped as the law directs."</q>  It was a matter of life or death to me to muster or not, and I 
+mustered with the reinforcing troops.  It was at this time that Lieut.-Col. <persName key="Haight, Isaac C.">Haight</persName> said to me that it was orders from head-quarters that <seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">all but the little children of said company were to be killed</seg></seg>.  Said <persName key="Haight, Isaac C.">Haight</persName> had at that time just returned from head-quarters, at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, where a military council had been held.  There had been a like council held at <placeName type="settlement" key="Parowan, UT">Parowan</placeName> previous to that, at which were present Col. <persName key="Dame, William H.">Dawe</persName>, Lieut.-Col. <persName key="Haight, Issace C.">J.C. Haight</persName> and Major 
+<persName key="Lee, John D.">John D. Lee</persName>.  The result of this first council was the calling out of said regiment 
+   for the purpose already stated.  The reinforcement aforesaid was marched to <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> and there formed a junction with the main body.  Major<persName key="Lee, John D."> Lee</persName> massed all the troops at a spring, and made a speech to them, saying that his orders from <q>"head-quarters were to kill
+<seg type="Massacre" subtype="Casualties">the entire company</seg>, <seg type="Massacre" subtype="Survivors">except the small children</seg>."</q> I was not in the ranks at the time, but on one side, walking to a man named Slade, and could not have seen a paper in Major <persName key="Lee, John D.">Lee</persName>'s hands. <seg type="Massacre" subtype="Surrender">Said <persName key="Lee, John D.">Lee</persName> then a sent a flag of truce into the emigrant camp, offering said emigrants that
+<q>"if they lay down their arms he would protect them."</q>  They accordingly laid down their arms, came out from their camp, and delivered themselves up to said <persName key="Lee, John D.">Lee</persName>.  The women and children were then, by the order of said <persName key="Lee, John D.">Lee</persName>, separated from the men and were marched ahead of the men.  After said emigrants had marched about a half a mile toward <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, the order was given to shoot them down.</seg> At that time said <persName key="Lee, John D.">Lee</persName> was at the head of the column; I was in the rear ; I did not hear <persName key="Lee, John D.">Lee</persName> give the order to fire, but heard it from the under officers as it was passed down the column.  The emigrants were then and there shot down, <seg type="Massacre" subtype="Survivors">except seventeen little children, which I immediately took into my charge.</seg>  I do not know the total number of said company, as I did not stop to count the dead.  <seg type="Massacre" subtype="Survivors">I immediately put the little children in baggage wagons belonging to the regiment, and took them to <persName key="Hamblin, Jacob">Hamlin</persName>'s Ranch, and from there to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and procured them homes among the people.  <persName key="Willisl, John">John Willis</persName> and <persName key="Murdy, Samuel">Samuel Murdy</persName> assisted me in taking charge of said children.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Klingensmith">On the evening of the massacre, Col. <persName key="Dame, William H.">W.H. Dawe</persName> and Lieut. <persName key="Haight, Isaac C.">J.C. Haight</persName> came to <persName key="Hamblin, Jacob">Hamlin</persName>'s, where I had the said children, and fell into a dispute, in the course of which said <persName key="Haight, Isaac C.">Haight</persName> told Col. <persName key="Dame, William H.">Dawe</persName> that if he was going to report of the killing of said emigrants, <q>"he should not have ordered it done."</q>  I do not know when or where said troops were disbanded.  About two weeks after said massacre occurred said Major <persName key="Lee, John D.">Lee</persName> (who was also Indian Agent) went to <placeName type="settlement" key="Salt Lake City, Ut">Salt Lake City</placeName>, and, as I believe, reported said fight and its results to the Commander-in-Chief.  I was not present at either of the before-mentioned councils, nor at any council connected with the aforesaid military operations, or with said company. <seg type="Massacre" subtype="Survivors">I gave no orders except those connected with the saving of the children</seg>, and none after were given as Bishop and not in a military sense.  At the time of the firing of the first volley I discharged my piece.  I did not fire afterward, though several subsequent volleys were fired.  <seg type="Massacre" subtype="Survivors">After the first fire was delivered I at once set about saving the children.  I commenced to gather up the children before the firing had 
+ceased.</seg></seg></p>
+  
+<p><seg type="Source" subtype="Attributed_Klingensmith">I have made the foregoing statement before the above-entitled Court for the reason that I believed that I would be assassinated should I attempt to make the same before any Court in
+the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.  After said <persName key="Lee, John D.">Lee</persName> Returned from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, as I aforesaid, said <persName key="Lee, John D.">Lee</persName> told me that he had reported fully to the President, meaning to the Commander-in-Chief, the fight <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, and the killing of <seg type="Massacre" subtype="Casualties">said emigrants</seg>. Brigham Young was at that time the Commander-in-Chief of the militia of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.  And further deponent saith not.</seg></p>
+  
+    <closer><signed>(Signed,)    <persName key="Klingensmith, Philip">PHILIP KLINGON SMITH</persName>.</signed></closer>
+
+  <closer>Subscribed and sworn to before me this 10th day of April, A.D. 1871.</closer>
+  
+  <closer><signed>(Signed,)    <persName key="Miller, Peter B.">P.B. MILLER</persName>, County Clerk.</signed></closer>
+
+    <closer>[District Court, Seventh Judicial District, <placeName type="county" key="Lincoln County, NV">Lincoln County</placeName>, <placeName type="state" key="Nevada">Nevada</placeName>.  Copy of seal.]</closer>
+  
+    <closer><placeName type="state" key="Utah Territory">UTAH TERRITORY</placeName>, <placeName type="county" key="Salt Lake County, UT">COUNTY OF SALT LAKE</placeName>&#8212;I, <persName key="Strickland, O. F.">O.F. Strickland</persName>, Associate Justice of the Supreme Court of<placeName type="state" key="Utah Territory"> Utah Territory</placeName>, hereby certify that I have carefully compared the foregoing copy of affidavit with the original of the same, and that the foregoing copy is a true literal copy of said original, and that such comparison was made this 4th day of September, 1872.</closer>
+  
+    <closer><signed>(Signed)    <persName key="Strickland, O. F.">O.F. STRICKLAND</persName>.</signed></closer>
+    
+    <closer><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, <placeName type="county" key="Salt Lake County, UT">SALT LAKE COUNTY</placeName>&#8212;I. <persName key="McKean, James B.">James B. McKean</persName>, Chief-Justice of the Supreme Court of <placeName type="state" key="Utah Territory">said Territory</placeName>, do certify that I have carefully compared the above copy of an affidavit<cb n="2" /> with the original of the same, and know the same to be all particulars a true copy thereof.</closer>
+    
+  <closer><signed>(Signed)     <persName key="McKean, James B.">JAS. B. McKEAN</persName>.</signed></closer>
+
+    <closer>Dated Sept. 5, 1872.     Chief-Justice, &amp;c.</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

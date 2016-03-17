@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.wyl.1886">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Mormon Portraits [vol. 1]</title>
+                <title level="m" type="sub"></title>
+                <author><forename>W.</forename> <surname>Wyl</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.wyl.1886</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Mormon Portraits [vol. 1]</title>
+                    <author><forename>W.</forename> <surname>Wyl</surname></author>
+                    <publisher>Tribune Printing and Publishing Company</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>165-192</extent>
+                    <date when="1886">1886</date>
+                    <note type="source">W. Wyl. <hi rend="italic">Mormon Portraits</hi>. Vol. 1. Salt Lake City, UT: Tribune Printing and Publishing Company, 1886. 165-192.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-07"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="165" xml:id="mmm.anti.wyl.1886.165"/>
+
+<head>DANITES AND DESTROYING ANGELS.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="center"><hi rend="italic">John Taylor Hides Another Pearl&#8212;"Gath" and Phil Robinson&#8212; Origin of Danitism&#8212; Smith and Rigdon Preach "Oneness" or Death&#8212;The "Salt Sermon"&#8212; Fight at Gallatin&#8212;Death of the Danite Apostle&#8212; Brigham Young, the Treacherous Danite&#8212;Murderers as Preachers and Missionaries&#8212;Martyr Parley Pratt an Assassin&#8212;Affidavits of Apostles Marsh and Hyde &#8212;Joe Goes Back on Dr. Avard &#8212; Clinching Statement of David Whitener&#8212; The Danites of 1868 &#8212; Mrs. Pratt Settles the Question.</hi></hi></p>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><seg type="Context" subtype="Polygamy">The Mormon leaders kept up their lying about polygamy for a period of more than ten years, calling, as accused criminals often do, God and the angels as witnesses that they were speaking the truth. Since 1852 their tactics have changed. They now confess polygamy, but not that they have been lying.</seg> Lying in this "church" is "hiding pearls from the swine;" stealing is taking as the Lord's agents; seducing other people's wives is exalting, and killing people is saving them.</p>
+
+<pb n="166" xml:id="mmm.anti.wyl.1886.166"/>
+
+<p><seg type="Context" subtype="Polygamy">A man who has ten wives living and declares solemnly that he never heard of polygamy, is naturally just the person to whom you would look when in search of a reliable statement. At that very same discussion in Boulogne, France, 1850, where <persName key="Taylor, John">John Taylor</persName> denied the existence of polygamy in the Mormon "church," Rev. <persName key="Robinson, James">James Robinson</persName>, one of his opponents, asked:</seg></p>
+
+<quote>"Was there not a body of men amongst the Mormonites called "Danites," or "Destroying Angels," who were banded together to assassinate such as were supposed to be enemies of the body? And had not the existence of these men caused the hostility of the Americans to the Mormonites body?"</quote>
+
+<p>In reply <persName key="Taylor, John">John Taylor</persName> said:</p>
+
+<quote>"We are again very soberly told about "Danites" and "Destroying Angels." I never happened to be acquainted with any of those among the Latter-Day Saints."</quote>
+
+<p><persName key="Taylor, John">John Taylor</persName> was advanced to the Mormon apostleship in 1833, and <persName key="Patten, David">David Patten</persName>, who was then president of this quorum of twelve, being also a leading spirit among the Danites, I cannot doubt for a moment that <persName key="Taylor, John">Taylor</persName> had taken the Danite oaths himself in <placeName type="state" key="Missouri">Missouri</placeName> in 1838. But he was resolved to hide this other pearl, too. I saw once in Paris, in the <hi rend="italic">Hotel de Ventes</hi>, a collection of pearls, belonging to Madame Blanc, exposed for sale. I thought then I had never seen so many, so big and so fine pearls. But I confess I was mistaken; those pearls were a handful of dried peas compared with that splendid church collection, now guarded by old <persName key="Taylor, John">John Taylor</persName>. I wonder whether they don't employ Joe's bleeding Spaniard as a kind of night watchman for their church pearls. It would be just the kind of a job such a fellow would like.</p>
+
+<p>Whenever a stranger who is thought of some consequence arrives in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, the church diplomats "make a business of it" to get hold of him and give him "the facts" about important points of church history. By accident Apostle <persName key="Richards, Franklin D.">Richards</persName>, the keeper of the historian's pearls, did so with me. No wonder that a man like <persName key="Townsend, Edward Waterman">Gath</persName>, the brilliant journalist, wrote in 1871, after having had chats with <persName key="Young, Brigham">Brigham</persName>, <persName key="Smith, George A.">George A. Smith</persName>, <persName key="Cannon, George Q.">George Q. Cannon</persName> and other great men:</p>
+
+<pb n="167" xml:id="mmm.anti.wyl.1886.167"/>
+
+<quote><p>"Human life in <placeName type="state" key="Utah Territory">Utah</placeName> is safer than probably anywhere in civilization. . . . . . The industrious political vagabonds who write letters from <placeName type="state" key="Utah Territory">Utah</placeName> to the East, have created the band of 'Danites' and other hobgoblins out of air and foolscap."</p></quote>
+
+<p><persName key="Townsend, Edward Waterman">Gath</persName> had, of course, no idea that he was furthering the schemes of the most cunning rascals on earth while he wrote these lines. He could not conceive the idea that those smooth, smiling, clean-shaved gentlemen were liars. I guess that <persName key="Townsend, Edward Waterman">Gath</persName>, if invited by King Claudius, would write to the <hi rend="italic">Enquirer:</hi> "I find the king to be the essence of chivalry and hospitality. Polonius is a great diplomat and scholar on the decline. Prince Hamlet is an intolerable crank, if not an outright madman." For doesn't <persName key="Townsend, Edward Waterman">Gath</persName> call <persName key="Rockwell, Porter">Porter Rockwell</persName>, who is never remembered by decent people here without a shudder, "a fat, curly-haired, good-natured chap?" And he had a talk with him! <seg type="Blame" subtype="LDS_LDS">Again, what does he say of the disgusting, dull, beastly fanatic, <persName key="Smith, George A.">George A. Smith</persName>, <persName key="Young, Brigham">Brigham</persName>'s tool and courier in preparing the murder of <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> emigrants</seg> <seg type="Massacre" subtype="Dates">in 1857</seg>:</seg></p>
+
+<quote>"<persName key="Smith, George A.">Smith</persName> is one of us literary folks; a man of the stamp of <hi rend="smallcaps"><persName key="Tackeray, William Makepeace">THACKERAY</persName></hi> and <hi rend="smallcaps"><persName key="Irving, Washington">WASHINGTON IRVING</persName></hi>&#8212;not equal to them in degree, perhaps, but in nature <hi rend="italic">the same</hi> a chaste, tender and religious husband, father, friend and gentleman."</quote>
+
+<p>How they must chuckle, those Mormon diplomats, when they read the books and articles of those most gloriously fixed fools! <persName key="Smith, George A.">George A. Smith</persName>, a <persName key="Tackeray, William Makepeace">Thackeray</persName> or <persName key="Irving, Washington">Washington Irving</persName>! <persName key="Townsend, Edward Waterman">Gath</persName> might have told us of <persName key="Snow, Sappho R.">Sappho R. Snow</persName>, <persName key="Rockwell, Caius Sempronius">Caius Sempronius Rockwell</persName>, <persName key="Tullidge, cornelius Tacitus">Cornelius Tacitus Tullidge</persName>! If men of the talent and calibre of <persName key="Townsend, Edward Waterman">Gath</persName> are capable of such atrocities in open daylight, what would you expect from the "illustrious obscure" smaller fry of strolling scribblers&#8212;not to speak of wretched literary outcasts who sell themselves so much a page or line?<ref target="n01">*</ref></p>
+
+<note xml:id="n01">* It is a notorious fact, known here to all persons interested in such matters, that <persName key="Robinson, Phil">PHIL ROBINSON</persName>, who came here some years ago, sent by the then tottering <hi rend="italic">New York World</hi>, wrote "Saints and Sinners" in the pay of the Mormon leaders. He confessed this fact in <placeName type="settlement" key="Ogden, UT">Ogden</placeName> just before leaving this profitable territory. But no confession is needed, the "book" shows the patent fact on every page.</note>
+
+<pb n="168" xml:id="mmm.anti.wyl.1886.168"/>
+
+<p><placeName type="state" key="Missouri">Missouri</placeName>, "the land of your enemies," was the cradle of the Danites, and fanatic <persName key="Rigdon, Sidney">Sidney Rigdon</persName> their inventor. I believe that <persName key="Ridgon, Sidney">Sidney</persName>, impostor and scoundrel as he was, was still a greater crank and fanatic. I feel sure that he came half to believe in the fraud fabricated by himself, and really imagined himself to be the man called by the Lord to restore the "House of Israel." <persName key="Lee, John D.">John D. Lee</persName> <seg type="Context" subtype="UtahWar">gives a graphic description of the stormy times in <placeName type="state" key="Missouri">Missouri</placeName> immediately preceding the "Mormon war."</seg> <seg type="Context" subtype="LDSPersecution">He makes it plain that the eternal cry of <hi rend="smallcaps">PERSECUTION</hi> is nothing but a most impudent and outrageous lie. He proves that <persName key="Rigdon, Sidney">Sidney</persName> and <persName key="Smith, Joseph">Joseph</persName> transformed, in the summer of 1838, their followers into a band of desperadoes, ready to commit any horror.</seg> Hear him:</p>
+
+<quote><p>"On Monday, the 6th day of August, 1838, the greater portion of our people in the settlements near me went to <placeName type="settlement" key="Gallatin, Missouri">Gallatin</placeName> to attend the election. In justice to truth I must state that just before the general election in August 1838, a general notice was given for all the brethren of <placeName type="county" key="Daviess County, MO">Daviess county</placeName> to meet at Adam-Ondi-Ahman. Every man obeyed the call. At the meeting <hi rend="italic">all the males over eighteen years of age were organized into a</hi> MILITARY BODY, according to the law of the priesthood and called "<hi rend="smallcaps">THE HOST OF ISRAEL</hi>." The first rank was a captain with ten men under him; next was a captain of fifty. That is, he had five companies of ten. The <hi rend="italic">entire membership</hi> of the Mormon church was then organized in the same way. This, I was then informed, was the first organization of the military force of the church. It was so organized at that time by command of God as revealed through the Lord's prophet, <persName key="Smith, Joseph">Joseph Smith</persName>. God commanded <persName key="Smith, Joseph">Joseph Smith</persName> to place the Host of Israel in a situation for defense against the enemies of the church of Jesus Christ of Latter-Day Saints.</p>
+
+<p>"At the same conference another organization was perfected, or then first formed, it was called the <hi rend="smallcaps">DANITES</hi>. The members of this order were placed under the most secret obligations that language could invent. They were sworn to stand by and sustain each other. <hi rend="italic">Sustain, protect, defend and obey the leaders of the church, under any and all circumstances unto death;</hi> and to disobey the orders of the leaders of the church, or divulge the name of a Danite to an outsider, or to make public any of the secrets of the order of Danites, was to be punished with <hi rend="smallcaps">DEATH</hi>. And I can say of truth <hi rend="smallcaps">MANY HAVE PAID THE PENALTY</hi> for failing to keep their covenants. They had <hi rend="italic">signs and tokens</hi> for use and protection. The token of recognition was such that it could be readily understood, and it served as a <hi rend="italic">token of distress</hi> by which they could know each other from their enemies, although they were entire strangers to each other. When the sign
+    
+<pb n="169" xml:id="mmm.anti.wyl.1886.169"/>
+
+was given it must be responded to and obeyed, even at the risk or certainty of death. The Danite that would refuse to respect the token and comply with all its requirements, was stamped with dishonor, infamy, shame, disgrace, and his fate for cowardice and treachery was <hi rend="smallcaps">DEATH</hi>."</p></quote>
+
+<p>Doesn't this "persecuted" people look just like a flock of innocent lambkins? This is the way they prepare themselves for an election! A blind man can see that those Missourians were awfully wicked people and <persName key="Boggs, Lilburn">Boggs</persName> was really much worse than Nero. Dr. <persName key="Bennett, John C.">John C. Bennett</persName> gives in his book the Constitution of the Danite Band. The document is really grotesque in its pomp; 'tis <persName key="Rigdon, Sidney">Sidney Rigdon</persName> all over. Here are some choice bits of it:</p>
+
+<quote><p>"<hi rend="smallcaps">WHEREAS</hi>, In all bodies laws are necessary for the permanency, safety and well-being of society, we, the members of the society of the Daughter of Zion,<ref target="n02">*</ref> do agree to regulate ourselves under such laws as, in righteousness, shall be deemed necessary for the preservation of <hi rend="italic">our holy religion</hi>, and of our most sacred rights and of the rights of our wives and children. But, to be explicit on the subject, it is especially our object to support and defend the rights conferred on us by our venerable sires, who purchased them with the pledges of their lives, their fortunes and their sacred honors. And now, to prove ourselves worthy of the liberty conferred on us by them, in the providence of God, we do agree to be governed by such laws as shall perpetuate these high privileges, of which we know ourselves to be the rightful possessors, and of which privileges wicked and designing men have tried to deprive us by all manner of evil, and that <hi rend="italic">purely</hi> in consequence of the tenacity we have manifested in the <hi rend="italic">discharge of our duty towards our God</hi>, who has given us those rights and privileges, and a right in common with others to dwell on this land. But we, not having the privileges of others allowed to us, have determined, like unto our fathers, to resist tyranny, whether it be in kings or in the people. It is all alike unto us. Our rights we must have, and our rights we shall have, in the name of Israel's God.</p>
+
+<p>"The executive power shall be vested in the <hi rend="smallcaps">PRESIDENT OF THE WHOLE CHURCH</hi> and his councilors.</p>
+
+<p>"The legislative powers shall reside in the president and his councilors together, and with the generals and colonels of the society.</p></quote>
+
+<note xml:id="n02">*The Danite band was instituted for the purpose of driving out from Missouri&#8212;Canaan&#8212;all apostates or dissenters from the Mormon faith. It was, therefore. first called the "<hi rend="smallcaps">BIG FAN</hi>," inasmuch as it fanned out the chaff from the wheat. "Brother of Gideon," "Daughter of Zion," and "Danites," are later names, all founded, as was <persName key="Rigdon, Sidney">Rigdon</persName>'s manner on biblical allusions.</note>
+
+<pb n="170" xml:id="mmm.anti.wyl.1886.170"/>
+
+<quote><p>"Punishment shall be administered to the guilty in accordance to the offense.</p>
+
+<p>"All officers shall be subject to the commands of the <hi rend="italic">captain-general</hi>, given through the <hi rend="italic">secretary of war</hi>."</p></quote>
+
+<p><seg type="Context" subtype="LDSPersecution">There was never a more genuine document. It is composed of the same notes which form the daily-evening-music in the <hi rend="italic">Deseret News</hi>, the present church organ. This is a persecuted people; they only ask for the rights guaranteed in the Constitution; "wicked and designing men," the Murrays, Zanes, Dicksons of yore, denied them their rights, and they do so to-day. <persName key="Snow, Lorenzo">Lorenzo Snow</persName>, the aged apostle, sings to-day the same tune which he, poor old fellow, sang in 1838. He was a Danite then, I have no doubt, and is one to-day.</seg></p>
+
+<p><persName key="Bennett, John C.">John C. Bennett</persName>, Esq., favors us with a copy of the oath taken by the Danites in <placeName type="state" key="Missouri">Missouri</placeName>:</p>
+
+<quote>"In the name of Jesus Christ, the Son of God, I do solemnly obligate myself ever to conceal and never to reveal the secret purposes of this society, called the Daughter of Zion. Should I ever do the same, I hold my life as the forfeiture."</quote>
+
+<p>The oath was subsequently altered in <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>. I have no doubt that "Joab, a general in Israel," was the author of this revised edition:</p>
+
+<quote><p>"In the name of Jesus Christ, the Son of God, I do solemnly obligate myself ever to regard the prophet and first presidency of the Church of Jesus Christ of Latter day Saints as the supreme head of the church on earth, and to <hi rend="italic">obey them in all things the same as the supreme God</hi>; that I will stand by my brethren in danger or difficulty, and will uphold the presidency, <hi rend="smallcaps">RIGHT OR WRONG</hi>, and that I will ever conceal and never reveal the secret purposes of this society, called the Daughter of Zion. Should I ever do the same, I hold my life as the forfeiture, in a caldron of boiling oil."</p></quote>
+
+<p>Boiling oil&#8212; that smells of the drug-store. I see the little doctor behind it. By the way, Doctor, didn't you compose it, too&#8212; that beautiful blessing which your prophet used to administer to the Danites in person, assisted by Patriarch <persName key="Smith, Hyrum">Hyrum Smith</persName> and <persName key="Miller, George">George Miller</persName>, the president of the high priests' quorum? It reminds me very much of your "Joab" style:</p>
+
+<quote><p>"In the name of Jesus Christ, the Son of God, and by the
+
+<pb n="171" xml:id="mmm.anti.wyl.1886.171"/>
+
+authority of the Holy Priesthood, we, the first president, patriarch and high priest of the Church of Jesus Christ of Latter day Saints, <hi rend="italic">representing</hi> the first, second and third Gods in heaven &#8212; <hi rend="italic">the Father, the Son, and the Holy Ghost</hi>&#8212;do now anoint you with holy, consecrated oil, and by the imposition of our hands do ordain, consecrate and set you apart for the holy calling whereunto you are called; that you may <hi rend="italic">consecrate the riches of the Gentiles to the House of Israel</hi>, bring <hi rend="italic">swift destruction upon apostate sinners</hi>, and execute the decrees of heaven, without fear of what man can do with you. So mote it be. Amen."</p></quote>
+
+<p>In <persName key="Bennett, John C.">Bennett</persName>'s time the number of the Danites was over two thousand. From their "elite," to use the word of <persName key="Cannon, George Q.">George Q. Cannon</persName>, twelve men were selected, called <hi rend="italic">Destructives</hi>, or <hi rend="italic">Destroying Angel</hi>, and sometimes <hi rend="italic">Flying Angel</hi>. Their duty was to act as spies, and to report to the first presidency. Their oath was as follows:</p>
+
+<quote>"In the name of Jesus Christ, the Son of God, I do covenant and agree to support the first presidency of the Church of Jesus Christ of Latter-day Saints, in all things, <hi rend="smallcaps">RIGHT OR WRONG</hi>; I will faithfully guard them and report to them the acts of all men, as far as in my power lies; I will assist in executing all the decrees of the first president, patriarch or president of the twelve; and that I will cause all who speak evil of the presidency, or heads of the church, to die the death of dissenters or apostates, unless they speedily confess and repent, for pestilence, persecution and death shall follow the enemies of Zion. I will be a swift herald of salvation and messenger of peace to the saints, and I will never make known the secret purposes of this society, called the DESTROYING ANGEL, my life being the forfeiture in a fire of burning tar and brimstone. So help me God, and keep me steadfast."</quote>
+
+<p>Doctor, Doctor, I smell your little laboratory again. Burning tar and brimstone&#8212;that shows a good deal of practical chemistry.</p>
+
+<p>But let us return to <persName key="Lee, John D.">Lee</persName>. He is anxious to give us all the information he has acquired in his interesting career as Mormon policeman, Danite and life guard of his admired prophet.</p>
+
+<quote>"The <hi rend="italic">sign or token of distress</hi> is made by placing the right hand on the right side of the face, with the points of the fingers upwards, shoving the hand upward until the ear is snug up between the thumb and fore-finger."</quote>
+
+<p>I wish the wise men of this nation would study the history of the <hi rend="italic">Mafia</hi> in Sicily, which is such a thorn in the
+
+<pb n="172" xml:id="mmm.anti.wyl.1886.172"/>
+
+flesh of the young Italian kingdom. I have lived there for months and feel justified in saying that Mormonism is nothing but the RELIGIOUS MAFIA of the United States. Absolute secrecy, conspiracy against the laws, murder and perjury are the characteristics of both institutions. But I have yet to show <persName key="Ridgon, Sidney">Sidney Rigdon</persName>'s part in this Danite business. It was on a Fourth of July, the great national memorial day of the Declaration of Independence, that the crazy restorer of the "House of Israel" unfurled the flag of treason and rebellion. Hear Danite <persName key="Lee, John D.">Lee</persName>:</p>
+
+<quote>"That day (July 4, 1838, in Far West, a new Mormon settle. ment) <persName key="Smith, Joseph">Joseph Smith</persName> made known to the people the substance of a revelation he had before received from God. It was to the effect that all the saints throughout the land were required to sell their possessions, gather all their money together and send an agent to buy up all the land in the region round about Far West, and get a patent for the land from the government, then deed it over to the church; then every man should come up there to the land of their promised inheritance and consecrate what they had to the Lord. <persName key="Rigdon, Sidney">Sidney Rigdon</persName> was then the mouth piece of <persName key="Smith, Joseph">Joseph Smith</persName>, as Aaron was of Moses in olden times. <hi rend="italic">Rigdon</hi> told the saints that day that if they did not come up as true saints and consecrate their property to the Lord, by laying it down at the feet of the apostles, they would in a short time be compelled to consecrate and yield it up to the Gentiles. That if the saints would be united as one man in this consecration of their entire wealth to the God of Heaven, by giving it up to the control of the apostolic priesthood, then there would be no further danger to the saints; they would no more be driven from their homes on account of their faith and holy work, for the Lord had revealed to Joseph Smith that He would then fight the battles of his children and save them from all their enemies. That the Mormon people would never be accepted as the children of God unless they were united as one man, <hi rend="italic">in temporal as well as spiritual grains</hi>, for Jesus had said, unless ye are one, ye are not mine; that <hi rend="smallcaps">ONENESS</hi> must exist to make the saints the accepted children of God."</quote>
+
+<p>Give a quart of infernal whisky to each member of a tribe of Indians, or tell such stuff as this to a horde of beggarly, brutal fanatics, and it will come to the same.</p>
+
+<p>No wonder that <persName key="Lee, John D.">Lee</persName> felt like "consecrating." He says:</p>
+
+<quote>"The words of the apostle and the promises of God, as then revealed to me, made a deep impression on my mind, as it did upon all who heard the same. We that had given up all else for the sake of
+  
+<pb n="173" xml:id="mmm.anti.wyl.1886.173"/>
+
+the gospel, felt willing <hi rend="smallcaps">TO DO ANYTHING</hi> on earth that it was possible to do, to obtain the protection of God and have and receive His smile of approbation. Those who, like me, had full faith in the teachings of God, as revealed by <persName key="Smith, Joseph">Joseph Smith</persName>, his prophet, were willing to comply with <hi rend="italic">every</hi> order and to obey <hi rend="italic">every</hi> wish of the priesthood. A vote of the people was then had to determine the question whether they would consecrate their wealth to the church or not. The vote was unanimous for the consecration. The prophet and all his priesthood were jubilant and could hardly contain themselves; they were so happy to see the people such dutiful saints."<ref target="n03">*</ref></quote>
+
+<p>Who is there among my readers who does not feel that all this infernal humbug is nothing but a conspiracy of scoundrels to dupe a horde of fanatics under religious pretences? To make them give up every cent they have, and make tools of them for all sorts of criminal purposes?</p>
+
+<p><persName key="Rigdon, Sidney">Sidney</persName> gave the fools, to fix them thoroughly, a big speech on the same Fourth of July. That speech has become celebrated in Mormon history as the "<hi rend="smallcaps">SALT SERMON</hi>." <persName key="Rigdon, Sidney">Sidney</persName> had found somewhere a Bible text: "If the salt have lost its savour, it is thenceforth good for nothing but to be cast out and trodden under the foot of men." You see it as clearly as I do, reader, that this means the apostates or, in a larger sense, all the wicked fellows who wouldn't consecrate; finally the Missourians and all Gentiles. <persName key="Rigdon, Sidney">Sidney</persName> was strong at the old Bible, and his interpretations were always just what <persName key="Smith, Joseph">Joseph</persName>'s "kingdom" needed. He told the Mormons that the story of Ananias and Sapphira falling dead at the rebuke of Peter, was no work of the heavens, but that "the young men" who were with Peter literally trod them under their feet till their bowels gushed out! And Judas the traitor&#8212;he didn't die by his own hand, <persName key="Rigdon, Sidney">Sidney</persName> knew better. His fellow apostles killed him, and his bowels came out by the same religious proceeding. But hear the "Salt Sermon":</p>
+
+<quote>"We take God and all the holy angels to witness this day that we warn all men in the name of Jesus Christ, to come on us no more for
+
+<note xml:id="n03">*"Laying all at the Apostles' feet" was a life-long dream and hobby with <persName key="Rigdon, Sidney">Rigdon</persName>. This takes the form of the so-called "Order of Enoch" in Mormonism, now figuring for the time as Z. C. M. I., the mercantile anaconda of <placeName type="state" key="Utah Territory">Utah</placeName>.</note>
+
+<pb n="174" xml:id="mmm.anti.wyl.1886.174"/>
+
+ever. The men or the set of men that attempts it does so at the expense of their lives. And the mob that comes on us to disturb us, it shall be between us and them a war of <hi rend="smallcaps">EXTERMINATION</hi>, for we will follow them<hi rend="italic"> till the last drop of blood is spilled</hi>, or else they will have to exterminate us; for we will carry the scat of war to their own houses and their own families, and one part or the other shall be utterly destroyed. Remember it then, all men! No man shall be at liberty to come in our streets, to threaten us with mobs, for if he does he shall atone for it before he leaves the place; neither shall he be at liberty to vilify or slander any of us. for suffer it we, will not in this place. We therefore take all men to record this day, as did our fathers, and we pledge this day to one another our fortunes and our sacred honours to be delivered from the <hi rend="smallcaps">PERSECUTIONS</hi> which we have had to endure for the last nine years, or nearly that. Neither will we indulge any man or set of men in instituting vexatious LAW-SUITS against us, to cheat us out of our just rights; if they attempt it we say woe be unto them. <hi rend="smallcaps">WE THIS DAY</hi>, then, <hi rend="smallcaps">PROCLAIM OURSELVES FREE</hi>, with a purpose and a determination that can never be broken. No, never! No, never!! No, <hi rend="smallcaps">NEVER</hi>!!!"</quote>
+
+<p>This is a very fair specimen of Mormon political programme. Let me tell you, by the way, that this piece of frenzy, absurd as it seems, is just the stuff that fills to-day the brains of the invisible head of the church, President <persName key="Taylor, John">John Taylor</persName>. He is absolutely the same kind of foaming fanatic that <persName key="Rigdon, Sidney">Sidney</persName> was. He has preached "Salt Sermons" by the hundred, and he would do so to-day were it not for "scoundrels" like Zane, Dickson and Ireland. Scoundrels? It is one of the mildest terms used by him, when talking of the officers of the law.</p>
+
+<p>But there had been in June a fore-runner to the "Salt Sermon," a wonderful little document, addressed to the Dissenters, wicked fellows, who would not become criminal conspirators and desperadoes. The little thing is full of the spirit of the "pure-in-heart;" it smells all over of the goodness and peace of <hi rend="italic">Zion</hi>. Curious enough, among the wicked are to be found the original witnesses of the Book of Mormon. All of the leaders of the Dissenters had been chosen servants and instruments of the Lord so long as they had been absolute tools but the very moment they dared to think for themselves, they became dangerous for the kingdom. Here is the anathema which was drawn up by <persName key="Rigdon, Sidney">Rigdon</persName> and signed by over eighty leading Mormons:</p>
+
+<pb n="175" xml:id="mmm.anti.wyl.1886.175"/>
+
+<p>"<hi rend="smallcaps">FAR</hi> West June I, 1838.</p>
+
+<p>"To OLIVER COWDERY, DAVID WHITMER, JOHN WHITHER, W. W. PHELPS AND LYMAN E. JOHNSON, GREETING:</p>
+
+<p>"<hi rend="smallcaps">WHEREAS</hi>, The [Mormon] citizens of <placeName type="county" key="Caldwell County, MO">Caldwell county</placeName> have borne with the abuse received from you, at different times, and on different occasions, until it is no longer to be endured; neither will they endure it any longer, having exhausted all the patience they have, and conceive that to bear any longer is a vice instead of a virtue. We have borne long and suffered incredibly; but we will neither bear nor suffer any longer; and the decree has gone forth from our hearts, and shall not return to us void. Neither think, gentlemen, that in so saying we are trifling with either you or ourselves, for we are not. There are no threats from you&#8212;no fear of losing our lives by you, or by anything you can say or do, will restrain us; for <hi rend="italic">out of the country you shall go</hi>, and <hi rend="smallcaps">NO POWER SHALL SAVE YOU</hi>. And you shall have three days after you receive this communication to you, including twenty-four hours in each day, for you to depart with your families, peaceably; which you may do, undisturbed by any person; but in that time, if you do not depart, we will use the means in our power to cause you to depart: for <hi rend="smallcaps">GO YOU SHALL</hi>. We will have no more promises to reform, as you have 'already done, and in every instance violated your promise, and regarded not the <hi rend="smallcaps">COVENANT</hi> which you had made, but put both it and us at defiance. We have solemnly warned you, and that in the most determined manner, that if you did not cease that course of wanton abuse of the [Mormon] citizens of this county, that vengeance would overtake you sooner or later, and that when it did come it would be as furious as the mountain torrent, and as terrible as the heating tempest; but you have affected to despise our warnings, and pass them off with a sneer or grin, or a threat, and pursued your former course; <hi rend="italic">and vengeance sleepeth not</hi>, neither does it slumber; and unless you heed us this time and attend to our request, it will overtake you at an hour when you do not expect, and at a day when you do not look for it; and for you THERE SHALL BF NO ESCAPE; for there is but one decree for you, which is: Depart, depart, or a <hi rend="smallcaps">MORE FATAL CALAMITY SHALL BEFALL YOU</hi>."</p>
+
+<p>Nero <persName key="Boggs, Lilburn">Boggs</persName>' order for the expulsion or extermination of the Saints appears mild enough contrasted with this hyena yell. The Mormon president issues his order of expulsion or extermination in June, 1838, and the <placeName type="state" key="Missouri">Missouri</placeName> governor issues <hi rend="italic">his</hi> in October, 1838. The Christ-like <persName key="Rigdon, Sidney">Rigdon</persName> anathematizes and would kill peaceable, law-upholding victims of his own miserable fraud. Nero <persName key="Boggs, Lilburn">Boggs</persName>, in order to avoid a civil war, is for expelling or extermintaing armed law-breakers. <persName key="Rigdon, Sidney">Rigdon</persName> is the crazy fanatic, <persName key="Boggs, Lilburn">Boggs</persName> the Zealous officer, and in the finale as usual
+
+<pb n="176" xml:id="mmm.anti.wyl.1886.176"/>
+
+innocent dupes have to suffer with designing knaves. Yet the Mormons were a horribly <hi rend="smallcaps">PERSECUTED</hi> body of <hi rend="smallcaps">RELIGIOUS</hi> worshippers in the "land of <placeName type="state" key="Missouri">Missouri</placeName>," you know.</p>
+
+<p>But how things change in this fickle world! You had seen the plates and dozens of angels, <persName key="Whitmer, David">David Whitmer</persName>; the angels had even worked for you in the fields, they had treated you like an old playmate of theirs. And now they give you three days to "get out" with your family. There is a little consolation in the fact that each of these three days "includes" twenty-four hours, but still it is hard for a friend and confidant of angels to be treated like this. And you, <persName key="Cowdery, Oliver">Oliver Cowdery</persName>, how must you feel in reading that "no power shall save you," and "there shall be no escape"! It makes my heart bleed to look at that excellent little book, the Sunday-school Catechism, No. 1, printed in 1882, p. 17:</p>
+
+<p>Q. When were <persName key="Smith, Joseph">Joseph</persName> and <persName key="Cowdery, Oliver">Oliver</persName> baptized?</p>
+
+<p>A. On the same day that the Aaronic priesthood was conferred upon them.</p>
+
+<p>Q. Who was baptized first? A. <persName key="Cowdery, Oliver">Oliver Cowdery</persName>.</p>
+
+<p>Q. Who baptized him? A. <persName key="Smith, Joseph">Joseph Smith</persName>.</p>
+
+<p>Q. Who was next baptized? A. <persName key="Smith, Joseph">Joseph Smith</persName>.</p>
+
+<p>Q. Who baptized him? A. <persName key="Cowdery, Oliver">Oliver Cowdery</persName>.</p>
+
+<p>Q. What took place next?</p>
+
+<p>A. <persName key="Smith, Joseph">Joseph</persName> ordained <persName key="Cowdery, Oliver">Oliver</persName> to the Aaronic priesthood.</p>
+
+<p>Q. And who ordained <persName key="Smith, Joseph">Joseph Smith</persName>?</p>
+
+<p>A. <persName key="Cowdery, Oliver">Oliver Cowdery</persName>.</p>
+
+<p>Q. What happened after this?</p>
+
+<p>A. The Holy Ghost fell upon them and they prophesied.</p>
+
+<p>Those were glorious times, <persName key="Cowdery, Oliver">Oliver</persName>. Then the day included twenty-four happy hours. But more glories were to be yours. Says our little Catechism, p. 19:</p>
+
+<p>Q. By whom was the holy apostleship restored to the earth? A. Christ's ancient apostles, Peter, James and John.</p>
+
+<p>Q. Upon whom did they confer this power?</p>
+    
+<p>A. <persName key="Smith, Joseph">Joseph Smith</persName> and <persName key="Cowdery, Oliver">Oliver Cowdery</persName>.</p>
+
+<pb n="177" xml:id="mmm.anti.wyl.1886.177"/>
+
+<p>But I am not yet through with your glories and special blessings, <persName key="Cowdery, Oliver">Oliver</persName>. Let me look at the little Catechism, p. 32:</p>
+
+<p>Q. What glorious things were revealed on the next Sunday (April 3, 1836)?</p>
+
+<p>A. The heavens were opened to <persName key="Smith, Joseph">Joseph Smith</persName> and <persName key="Cowdery, Oliver">Oliver Cowdery</persName>, and the glories thereof were shown to them.</p>
+
+<p>Q. Who appeared to them on this occasion?</p>
+
+<p>A. Our Lord and Savior Jesus Christ.</p>
+
+<p>Q. What did He say of Himself?</p>
+
+<p>A. "I am the first and the last, I am he who liveth, I am he who was slain. I am your advocate with the Father."</p>
+
+<p>Q. After this vision was closed who next appeared?</p>
+
+<p>A. Moses, the great law-giver of ancient Israel.</p>
+
+<p>Q. What did he commit to them?</p>
+
+<p>A. The keys of the gathering of Israel.</p>
+
+<p>Q. Who <hi rend="italic">appeared next?</hi></p>
+
+<p>A. Elias.</p>
+
+<p>Q. Who appeared after Elias?</p>
+
+<p>A. The prophet Elijah, who gave them the keys to turn the hearts of the fathers to the children and the children to the fathers.</p>
+
+<p>To have a whole museum of <hi rend="italic">keys</hi>, <persName key="Cowdery, Oliver">Oliver</persName>, and then be given three days to "git up an' git!" What else could you do, after all, than turn a Methodist, like as your prophet had done?<ref target="n04">*</ref> This seems the only way out of difficulties of this kind, especially when nobody will "appear next." But what did you do with all <hi rend="italic">them</hi> keys, pray?</p>
+
+<p>The effect of all this fanatical nonsense must have been disastrous on the confused brain of a fanatic like <persName key="Lee, John D.">John D. Lee</persName>. Says this great friend and spiritual foster-son of <persName key="Young, Brigham">Brigham Young</persName>, most faithful and most celebrated of all Danites, after having reported <persName key="Rigdon, Sidney">Sidney</persName>'s salt sermon: "At the end of each sentence <persName key="Rigdon, Sidney">Rigdon</persName> was loudly cheered, and when he closed his oration, I believed <hi rend="italic">the Mormans could</hi> <hi rend="smallcaps">SUCCESSFULLY RESIST THE WORLD</hi>."</p>
+
+<p>It is well known that the first serious disturbance
+
+<note xml:id="n04">*All three of the original witnesses of the Book of Mormon apostatized. <persName key="Cowdery, Oliver">Cowdery</persName> became a member of the Methodist Protestant Church in the winter of 1842-3, in <placeName type="settlement" key="Tiffin, Ohio">Tiffin</placeName>, <placeName type="state" key="Ohio">Ohio</placeName>, expressing at the time his deep shame and contrition for his connection with Mormonism and the Book of Mormon.</note>
+
+<pb n="178" xml:id="mmm.anti.wyl.1886.178"/>
+
+between Mormons and Missourians occurred in the little town of <placeName type="settlement" key="Gallatin, MO">Gallatin</placeName>, August 6, 1838. It was at the election for which the Mormons had been prepared so nicely by their leaders. They came to <placeName type="settlement" key="Gallatin, MO">Gallatin</placeName> as the "Host of Israel," and as Danites, bound by secret oaths and tokens. <persName key="Lee, John D.">Lee</persName> may tell us what happened on this ominous day:</p>
+
+<quote>"<placeName type="settlement" key="Gallatin, MO">Gallatin</placeName> was a new town, with about ten houses, three of which were saloons. The town was on the bank of Grand River, and heavy timber came near the town, which stood in a little arm of the prairie. Close to the polls there was a lot of oak timber, which had been brought there to be riven into shakes or shingles, leaving the heart, taken from each shingle-block, lying there on the ground. These hearts were three square, four feet long, weighed about seven pounds, and made a very dangerous yet handy weapon. When <persName key="Stewart, Riley'">Stewart</persName> fell [a Mormon who had been beaten by a Missourian in a scuffle at the polls], the Mormons sprang to the pile of oak hearts, and each man taking one for use, rushed into the crowd. The Mormons were yelling, 'Save him!' and the settlers yelled, 'Kill him, damn him!' The <hi rend="italic">sign of distress was given by the Danites</hi>, and all rushed forward, determined to save <persName key="Stewart, Riley">Stewart</persName> or die with him. One of the <hi rend="italic">mob</hi> stabbed <persName key="Stewart, Riley">Stewart</persName> in the shoulder. He rose and ran, trying to escape, but was again surrounded and attacked by a large number of foes. The <hi rend="italic">Danite sign of distress</hi> was again given by <persName key="Butler, John L.">John L. Butler</persName>, one of the captains of the <hi rend="italic">Host of Israel</hi>. Seeing the <hi rend="italic">sign</hi>, I sprang to my feet and armed myself with one of the oak sticks. <hi rend="italic">I did this because I was a Danite</hi>, and my oaths that I had taken required immediate action on my part, in support of the one giving the sign. I ran into the crowd. I was an entire stranger to all who were engaged in the affray, except <persName key="Stewart, Riley">Stewart</persName>, but I had seen the sign, and, like Samson when leaning against the pillar, I felt the power of God nerve my arm for the fray. <hi rend="italic">It helps a man a real deal in a fight to know that God is on his side</hi>."</quote>
+
+<p>Was n't he well fixed, that fool <persName key="Lee, John D.">Lee</persName>? That is the kind of oak hearts to build celestial kingdoms with. And <persName key="Smith, Joseph">Joseph</persName>'s kingdom went up like magic just then&#8212;consecration was flourishing. Says <persName key="Lee, John D.">Lee</persName>:</p>
+
+<quote>"The prophet, <persName key="Smith, Joseph">Joseph Smith</persName>, said it was a civil war; that by the rules of war each party was justified in <hi rend="italic">spoiling his enemy</hi>. This opened the door to the evil-disposed, and men of former quiet became <hi rend="smallcaps">PERFECT DEMONS</hi> in their efforts to spoil and waste away the enemies of the church. I saw soon that it was the natural inclination of men to steal and convert to their own use that which others possessed. What perplexed me most was to see that religion had not the power
+
+<pb n="179" xml:id="mmm.anti.wyl.1886.179"/>
+
+to subdue that passion in man, but that at the first moment when the restriction* of the church were withdrawn, <hi rend="italic">the most devout</hi> men in our community acted like they had served a lifetime in evil, and were <hi rend="smallcaps">NATURAL-BORN THIEVES</hi>."</quote>
+
+<p>Is that so, Elder <persName key="Lee, John D.">Lee</persName>? Then those bitter apostates are right after all, when saying that your leaders have always acted and do always act like natural-born thieves? <persName key="Lee, John D.">Lee</persName> fortifies his general statement by a very remarkable special case:</p>
+
+<quote>"A company went from Adam-Ondi-Ahman and burnt the house and buildings belonging to my friend, <persName key="McBrier, Samuel">McBrier</persName>. Every article of moveable property was taken by the [Mormon] troops; he was utterly ruined. This man had been a friend to me and many others of the brethren; he was an honorable man, but his good character and former acts of kindness had no effect on those who were working, as they pretended, <hi rend="italic">to build up the kingdom of God</hi>. The Mormons brought in every article that could be used.. . . <hi rend="italic">Men stole simply for the love of stealing</hi>. Such inexcusable acts of lawlessness had the effect to arouse every Gentile in the three counties of <placeName type="county" key="Caldwell County, MO">Caldwell</placeName>, <placeName type="county" key="Carroll County, MO">Carroll</placeName> and <placeName type="county" key="Davies County, MO">Davies</placeName>, as well as to bring swarms of armed Gentiles from other localities."</quote>
+
+<p>Those are the acts of a pure, slandered and persecuted people, told by one of their leaders, who was tried and shot for having "lived his religion." This book of the great Danite<ref target="n05">*</ref> should be studied by every patriotic American. It has become a favorite of mine. I find in it many of the qualities of that wonderful autobiography of Benvenuto Cellini, the Florentine goldsmith. He and <persName key="Lee, John D.">Lee</persName> had some common traits sensuality, superstition, and a certain volcanic ensemble which never fails to make a writer powerful. What is style after all without natural vigor? It is training in a Rozinante. It is curious, but still a fact, that <persName key="Lee, John D.">Lee</persName> and <persName key="Hickman, Bill">Hickman</persName>, the greatest murderers of this "church," are the only interesting writers among scores of saints who have tried the path of authorship. <persName key="Snow, Eliza R.">Eliza R. Snow</persName>, I am sorry to say, beats them all in the impossible <hi rend="italic">genre</hi>.</p>
+
+<p><persName key="Lee, John D.">Lee</persName> is full of interesting "portraits." Let him describe the death of a famous Danite, Captain <persName key="Patten, David">David</persName>
+
+<note xml:id="n05">*Mormonism Unveiled, including the remarkable life and confessions of <persName key="Lee, John D.">John D. Lee</persName>. <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>, Moffat Publ. Co., 1881.</note>
+
+<pb n="180" xml:id="mmm.anti.wyl.1886.180"/>
+
+<persName key="Patten, David">Patten</persName>, the president of the twelve apostles, whose sudden exit opened wide the gates of success for ambitious <persName key="Young, Brigham">Brigham Young</persName>. <persName key="Patten, David">Patten</persName> died in a skirmish with the Missourians called "battle of Crooked River."</p>
+
+<quote>"Captain <persName key="Patten, David">David Patten</persName>, called <hi rend="italic">Fearnot</hi>, was sent out by the prophet with fifty men, to attack a body of Missourians, who were camping on the Crooked River. Captain <persName key="Patten, David">Patten</persName>'s men were nearly all, it not every one of them, <hi rend="italic">Danites</hi>. The attack was made just before daylight in the morning. Captain Fearnot wore a white blanket overcoat and led the attacking party. He was a brave, impulsive man. He rushed into the thickest of the fight, regardless of danger, really seeking it to show his men that God would shield him frbm all harm. But he counted without just reason upon being invincible, for a ball soon entered his body, passing through his hips and cutting his bladder. The wound was fatal, but he kept on his feet and led his men some time before yielding to the effects of his wonnd. The Gentiles said afterwards that Captain <persName key="Patten, David">Patten</persName> told his men to charge in the name of Lazarus, '<hi rend="smallcaps">CHARGE, DANITES, CHARGE</hi>!' and that as soon as he uttered the command, which distinguished him, they gave the Danite captain a commission with powder and ball, and sent him on a mission to preach to the spirits that were in prison."</quote>
+
+<p>The martyrdom of the "great warrior apostle" was a fearful blow to Mormon superstition, originated and fed by the crazy harangues of "my servants <persName key="Rigdon, Sidney">Sidney</persName> and <persName key="Smith, Joseph">Joseph</persName>." "I had considered," says <persName key="Lee, John D.">Lee</persName>, "that I was <hi rend="italic">bullet-proof</hi>, that no Gentile ball could ever harm me or any saint, and I had believed that a Danite could not be killed by Gentile hands. I thought that one Danite would chase a thousand and two could put ten thousand to flight. We had been promised and taught by the prophet that henceforth <hi rend="italic">God would fight our battles</hi>, and that nothing but disobedience to the teachings of the priesthood could render a Mormon subject to injury from Gentile forces. We, as members of the church, <hi rend="italic">had no right to question any an of our superiors</hi>; to do so wounded the spirit of God and led to our own loss and confusion."</p>
+
+<p>We see from <persName key="Lee, John D.">Lee</persName>'s expressions that the "Host of Israel" was pretty much demoralized by the death of Capt. <persName key="Patten, David">Patten</persName>. But the famous son of Lucy-Munchhausen was the greatest virtuoso of his age in the art of fixing the fools. <persName key="Lee, John D.">Lee</persName> was "thunderstruck" when the "Commander-in-chief of the armies of Israel" said at the funeral of Capt. 
+
+<pb n="181" xml:id="mmm.anti.wyl.1886.181"/>
+
+<persName key="Patten, David">Patten</persName> that the Mormons were liable to be killed by Gentile just like other men. "<persName key="Smith, Joseph">Joseph</persName> also said that the Lord was angry with the people, for they had been unbelieving and faithless; they had denied the Lord the use of their earthly treasures, and placed their affections upon worldly things more than they had upon heavenly things; that to expect God's favor we must <hi rend="italic">blindly</hi> trust him; that if the Mormons would wholly trust in God, the windows of heaven would be opened and a shower of blessings sent upon the people; that all the people could contain of blessings would be given as a reward for obedience to the will of God as made known to mankind through the prophet of the ever-living God; that the Mormons, if faithful, obedient and true followers of the advice of their leaders, would <hi rend="italic">soon enjoy all the wealth of the earth</hi>; that God would consecrate the riches of the Gentiles to the saints." I believed all he said, for he supported it by quotations from scripture, and if I believed in the Bible,<ref target="n06">*</ref> as I did most implicitly, I could not help believing in <persName key="Smith, Joseph">Joseph Smith</persName>, the prophet of God in these last days. <persName key="Smith, Joseph">Joseph Smith</persName> declared that he was called of God and given power and authority from heaven to do God's will; that he had received the keys [0 Lucy!] of the holy priesthood from the apostles Peter, James and John, and had been dedicated, set apart and anointed as the prophet, seer and revelator, sent to open the dispensation of the fullness of times. according to the words of the apostles; that he was charged with the <hi rend="italic">restoration of the House of Israel</hi> and to gather the Saints from the four corners of the earth to the land of promise, Zion, the Holy Land (<placeName type="county" key="Jackson County, MO">Jackson county</placeName>), and setting up the kingdom of God preparatory to the second coming of Christ in the latter days. Every Mormon, if true to his faith, believed as fully in <persName key="Smith, Joseph">Joseph Smith</persName> and <hi rend="italic">his holy character</hi> as they did that God existed."</p>
+
+<p>Is the effect of the <hi rend="italic">Prophetic</hi> idea not wonderful? It seems at least as powerful an agent as the revolutionary idea of liberty: it makes the pulse beat just like the
+
+<note xml:id="n06" n="1">* "Our sickness is an overdose of Bible," said an old Mormon lady to me.</note>
+
+<pb n="182" xml:id="mmm.anti.wyl.1886.182"/>
+
+Marseillaise. Surrounded as he was by a thousand or more Lees, is it surprising that <persName key="Smith, Joseph">Joseph</persName> began to see himself a Mahomet?</p>
+
+<p><persName key="Lee, John D.">Lee</persName> died an admirer of <persName key="Smith, Joseph">Joseph Smith</persName>. While sitting on his coffin at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, on that chilly March morning in 1877, he cursed treacherous <persName key="Young, Brigham">Brigham Young</persName> and hoped to be soon united with his beloved prophet. He gives a most enthusiastic and really interesting description of the modern Mahomet: "<persName key="Smith, Joseph">Joseph Smith</persName> was a most extraordinary man; he was rather large in stature, some six feet two inches in height, well built, though a little stoop-shouldered, prominent and well-developed features, a Roman nose, light chestnut hair, upper lip full and rather protruding, chin broad and square, an eagle eye, and on the whole there was something in his manner and appearance that was bewitching and winning; his countenance was that of a plain, honest man, full of benevolence and philanthropy and void of deceit or hypocrisy. He was resolute and firm of purpose, stronger than most men in physical power, and all who saw were forced to admire him, as he then looked and existed."</p>
+
+<p>The portrait is no doubt a strongly flattered one. In the prison where his Confession was written, <persName key="Smith, Joseph">Joseph</persName> seemed to <persName key="Lee, John D.">Lee</persName>, compared with the two-faced, ungrateful <persName key="Young, Brigham">Brigham</persName>, the essence of honor and chivalry. Still, there is enough in <persName key="Lee, John D.">Lee</persName>'s sketch to show that <persName key="Smith, Joseph">Joseph</persName> had something of the popular leader in him. Mrs. <persName key="Pratt, ">Pratt</persName>, who surely had every reason in the world to hate and despise <persName key="Smith, Joseph">Joseph</persName>, said once to me: "As a leader I would always prefer <persName key="Smith, Joseph">Joseph</persName> to low cunning <persName key="Young, Brigham">Brigham</persName>."</p>
+
+<p>There is scarcely a doubt that the apostles of <persName key="Smith, Joseph">Joseph Smith</persName> were all Danites, since their president was a Danite captain. It is not doubtful to me that, for instance, <persName key="Young, Brigham">Brigham Young</persName> had also taken the Danite oaths, and this is the reason why <persName key="Lee, John D.">Lee</persName> kept on hoping to the last moment that his life would be spared: he could not believe that <persName key="Young, Brigham">Brigham</persName> would prove untrue to his COVENANTS, which bind any Danite to help another, as we have seen. Those horrible <hi rend="smallcaps">COVENANTS</hi> are a generic and <choice><orig>dom-
+
+<pb n="183" xml:id="mmm.anti.wyl.1886.183"/>
+
+inating</orig><reg>dominating</reg></choice> feature of Mormonism all through; they are the secret cement of the whole structure, and Mormonism cannot be understood without this secret-oath business, bloody punishments, etc., being taken into due consideration. The witnesses of the Book of Mormon were bound by covenants to testify; <persName key="Rigdon, Sidney">Rigdon</persName> and <persName key="Smith, Joseph">Smith</persName> bound themselves by a most solemn covenant to keep the great fraud secret:<ref target="n07">*</ref> every Danite was fettered by covenants, and finally every "good" Mormon becomes a part of this dreadful machinery through his endowment oaths.</p>
+
+<p><seg type="Context" subtype="PrattMurder">Among the Danite Apostles of the time of the <placeName type="state" key="Missouri">Missouri</placeName> troubles, <persName key="Pratt, Parley P.">Parley P. Pratt</persName> seems to be one of the <persName key="Patten, David">Patten</persName> kind. He did not find his martyrdom in <placeName type="state" key="Missouri">Missouri</placeName><ref target="n08">&#8224;</ref> and this is deeply to be regretted, since Providence permitted him to live up to 1857 and to do incalculable mischief in the way of proselyting, in brutalizing the Mormon people by his coarse, filthy and fanatic preaching, and by corrupting all the <hi rend="italic">women</hi> he approached. <seg type="Context" subtype="Polygamy">He was one of the saintly brutes of the <persName key="Smith, William">William Smith</persName> and <persName key="Hyde, Orson">Orson Hyde</persName> type, which latter, however, developed in his full glory later, in <placeName type="state" key="Utah Territory">Utah</placeName>, preaching that Christ had lived in polygamy, and enjoying whiskey and polygamy much more than even his bull constitution could stand.</seg></seg> Yes, Mormonism is a very peculiar religion. It preaches murder as a religious duty, and treats the murderer as a distinguished member of the "church." I am not joking. Said a poor Mormon widow to me, whose husband was killed in the foulest manner imaginable by the police of this holy city: "They bless the bread and wine in the tabernacle &#8212; there is half a dozen of murderers among them; I could point them out any time."</p>
+
+<p>Did not President <persName key="Smith, Joseph">Joseph F. Smith</persName>, of the so-called first presidency of the Mormon church, pronounce the funeral eulogium over the body of the saintly <persName key="Rockwell, Porter">O. Porter Rockwell</persName>, Esq.? I have been told so. You don't want
+
+<note xml:id="n07">* "Keep all the commandments and covenants by which ye are bound, and I will cause the heavens to shake for your good; "so says the Mormon Lord to <persName key="Smith, Joseph">Joseph</persName> and <persName key="Rigdon, Sidney">Sidney</persName>, December, 1830.</note>
+
+<note xml:id="n08">&#8224; <seg type="Context" subtype="PrattMurder">He was killed in <placeName type="state" key="Arkansas">Arkansas</placeName>, 1857, for running away with another man's wife and trying to abduct the man's children.</seg></note>
+
+<pb n="184" xml:id="mmm.anti.wyl.1886.184"/>
+
+to believe such things, gentle reader. You say this is not possible. If you had lived in 1560 or so, and had met a man fresh from priest-ridden Spain who told you about an auto-da-fe, would you have answered him the same way? I have myself heard a sermon in the tabernacle delivered by a man who is known all over <placeName type="state" key="Utah Territory">Utah</placeName> as having killed his first wife in 1857 because she opposed his taking a number four. I shall tell the case with all details in Part II. of this work. It is a notorious fact that men who have committed horrible deeds for the "church" are generally, to get them out of the way of the Federal authorities, sent out on some "mission." <seg type="Blame" subtype="LDS_LDS">It is the general belief in <placeName type="state" key="Utah Territory">Utah</placeName> that <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, who took such an important part in the Mountain Meadows Massacre, is preaching the gospel in some foreign country under an assumed name. Think of such a bloody spectre playing the gospel-dove! It is another notorious fact that the Danites, <persName key="Lee, John D.">Lee</persName>, <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Hickman, Bill">Hickman</persName>, were for many years, and after the massacre <seg type="Massacre" subtype="Dates">of 1857</seg>, members of the Territorial Legislature. How can I explain all this? Simply through the well-founded supposition that a Danite murderer is a sort of veteran, a decorated officer of the Mormon church. He has shown courage and zeal in the service of "the Lord," he has helped to build up "the kingdom of God on earth," he has destroyed some of the enemies of "Zion." How can you explain otherwise the <hi rend="italic">most intimate</hi> relation between <persName key="Smith, Joseph">Joseph</persName> and <persName key="Rockwell, Porter">Rockwell</persName>, and the fact, told me by Mrs. <persName key="Pratt, ">Pratt</persName>, that <persName key="Young, Brigham">Brigham</persName> used (after 1857!) to walk with <persName key="Lee, John D.">Lee</persName>, his arm around the brother's shoulder and whispering in his ear? Mrs. <persName key="Pratt, ">Pratt</persName> has seen this kind of scene often and often, and she has seen <persName key="Young, Brigham">Brigham</persName> embracing Elder<persName key="Hickman, Bill"> Hickman</persName> the same way. Doesn't it remind you of the relations of Richard and Macbeth with the "first" and "second" murderer? It does me.</seg></p>
+
+<p>But I wanted you to hear from <persName key="Lee, John D.">Lee</persName> a little anecdote about <persName key="Pratt, Parley P.">Parley P. Pratt</persName>. It shows this brutal apostle, who is to-day a celebrated and much lamented martyr of the "church," in his true light. Here it is:</p>
+
+<quote><p>"I knew a man by the name of <persName key="Tarwater, Samuel">Tarwater</persName>, on the Gentile side
+
+<pb n="185" xml:id="mmm.anti.wyl.1886.185"/>
+
+[in the 'battle of Crooked River'], that was cut up fearfully. He was taken prisoner. The Danites routed the Gentiles, who fled in every direction. The Mormons started for Far West, taking <persName key="Tarwater, Samuel">Tarwater</persName> along as a prisoner. After traveling several miles, they halted in a grove of timber and released <persName key="Tarwater, Samuel">Tarwater</persName>, telling him he was free to go home. He started off, and when he was some forty yards from the Mormons, <persName key="Pratt, Parley P.">Parley P. Pratt</persName>, then one of the twelve apostles, stepped up to a tree, laid his gun up by the side of the tree, took deliberate aim and shot <persName key="Tarwater, Samuel">Tarwater</persName>. He fell and lay still. The Mormons, believing he was dead, went on and left him lying where he fell. <persName key="Tarwater, Samuel">Tarwater</persName> came to and reached home where he was taken care of and soon recovered from his wounds. He afterwards testified in court against the Mormons that he knew, and upon his evidence <persName key="Pratt, Parley P.">Parley P. Pratt</persName> was imprisoned in the <placeName type="settlement" key="Richmond, MO">Richmond</placeName> jail in 1839."</p></quote>
+
+<p>I asked my friend <persName key="Webb, C. G.">Webb</persName> about this statement of <persName key="Lee, John D.">Lee</persName>'s, and he said: "I have heard this story very often, and I do not doubt it at all. <persName key="Pratt, Parley P.">Parley</persName> was just the man to do such a thing." It is a <hi rend="italic">church</hi> and a <hi rend="italic">religion</hi> with such "apostles" and " martyrs," isn't it?</p>
+
+<p>For those who want further evidence, I introduce now the affidavit of <persName key="Marsh, Thomas B.">Thomas B. Marsh</persName>, who apostatized in the hour of danger. He was president of the Twelve before <persName key="Patten, David">Patten</persName>; his apostacy and <persName key="Patten, David">Patten</persName>'s death opening the way for <persName key="Young, Brigham">Brigham</persName>. Here is <persName key="Marsh, Thomas B.">Marsh</persName>'s affidavit:</p>
+
+<p><hi rend="smallcaps">RICHMOND</hi>, Mo., Octbr. 24, 1838.</p>
+
+<quote><p>"They have among them a company consisting of all that are considered <hi rend="italic">true Mormons</hi>, called the <hi rend="smallcaps">DANITES</hi>, who have taken an oath to support the heads of the church in all things that they say or do, <hi rend="italic">whether right or wrong</hi>. Many, however, of this band are much dissatisfied with this oath as being against moral and religious principles. I am informed by the Mormons that they had a meeting at Far West, at which they appointed a company of <hi rend="italic">twelve</hi>, by the name of the Destruction Company, for the purpose of burning and destroying, and that if the people at Buncombe came to do mischief upon the people of <placeName type="countyt" key="Caldwell County, MO">Caldwell</placeName>, and committed depredations upon the Mormons, they were to burn Buncombe, and if the people of Clay and Ray made any movements againt them, this destroying company were to burn <placeName type="settlement" key="Liberty, MO">Liberty</placeName> and <placeName type="settlement" key="Richmond, MO">Richmond</placeName>. <hi rend="italic">This burning was to be done secretly, by going as incendiaries</hi>. At the same meeting, I was informed, they passed a decree that no Mormon dissenter (apostate) should leave <placeName type="county" key="Caldwell County, MO">Caldwell county</placeName> alive, and that such as attempted to do it should be <hi rend="italic">shot down</hi> and sent so tell their tale in eternity. In a conversation between Dr. <persName key="Avard, Sampson">Avard</persName> and other Mormons said <persName key="Avard, Sampson">Avard</persName> proposed to start a pestilence among the Gentiles by poisoning their corn, fruit, etc., and saying it
+
+<pb n="186" xml:id="mmm.anti.wyl.1886.186"/>
+
+was the work of the Lord, and said <persName key="Avard, Sampson">Avard</persName> advocated <hi rend="italic">lying</hi> for the support of their religion and said it was no harm to lie for the Lord. The plan of <persName key="Smith, Joseph">Smith</persName> the prophet is to take this State, and he professes to his people to intend taking the United States, and ultimately the whole world. <hi rend="italic">This is the belief of the church</hi> and my own opinion of the prophet's plans and intentions. It is my opinion that neither the prophet nor any one of the principal men who is firm in the faith could be indicted for any offense in the <placeName type="county" key="Caldwell County, MO">county of Caldwell</placeName>. The prophet inculcates the notion, and it is believed by every true Mormon, that <hi rend="italic"><persName key="Smith, Joseph">Smith</persName>'s prophecies are superior to the law of the land</hi>. I have heard the prophet say that he should yet tread down his enemies and walk over their dead bodies; that if he was not let alone he would be a <hi rend="italic">second Mahomet</hi> to this generation, and that he would make it one' gore of blood from the Rocky Mountains to the Atlantic Ocean; that like Mahomet, whose motto in treating for peace was, 'the Alcoran or the sword,' so should it be eventually with us: '<hi rend="italic"><persName key="Smith, Joseph">Joseph Smith</persName> or the sword</hi>.'"</p></quote>
+
+<p><hi rend="center"><hi rend="smallcaps">AFFIDAVIT OF APOSTLE ORSON HYDE.</hi></hi></p>
+
+<quote>The most of the statements in the foregoing disclosure of <persName key="Marsh, Thomas B.">Thomas B. Marsh</persName> <hi rend="italic">I know to be true</hi>; the remainder I <hi rend="italic">believe</hi> to be true. (Same date.)</quote>
+
+<p>The remark has already been made that <persName key="Rigdon, Sidney">Sidney Rigdon</persName> was the originator of the Danite band. The proof for this assertion is furnished by the Mormon leaders themselves. After <persName key="Smith, Joseph">Joseph</persName>'s death, when there was a life and death struggle for the church dictatorship between impractical, fanatic <persName key="Rigdon, Sidney">Rigdon</persName>, and unscrupulous, business-man <persName key="Young, Brigham">Brigham Young</persName>, the former was expelled from the church by a mock trial. One of the charges preferred against him was his course in <placeName type="state" key="Missouri">Missouri</placeName> in 1838. Says <persName key="Young, Brigham">Brigham Young</persName> at this trial (<hi rend="italic">Times and Seasons</hi>, p. 667):</p>
+
+<p>"Elder <persName key="Rigdon, Sidney">Rigdon</persName> was the <hi rend="smallcaps">PRIME CAUSE OF OUR TROUBLES IN MISSOURI</hi>, by his Fourth of July oration."</p>
+
+<p>And <persName key="Hyde, Orson">Orson Hyde</persName> says at the same trial (<hi rend="italic">Times and Seasons</hi>, p. 651):</p>
+
+<p>"He [<persName key="Rigdon, Sidney">Rigdon</persName>] was the cause of our troubles in <hi rend="smallcaps">MISSOURI</hi>, and although Brother <persName key="Smith, Joseph">Joseph</persName> tried to restrain him, he would take his own course."</p>
+
+<p>Sister Snow, in her great psalm, dated "City of <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, 1842," says of <placeName type="state" key="Missouri">Missouri</placeName>: "Thou art a stink in the nostrils of the Goddess of Liberty." But this horrible stench, and it was a brutish and bloody one, sure enough,
+
+<pb n="187" xml:id="mmm.anti.wyl.1886.187"/>
+
+all came, as we now see, from my servant <persName key="Rigdon, Sidney">Sidney</persName> taking his own course, against the protests of your sweet spouse, the prophet; but never mind, sister, you saints <hi rend="italic">must</hi> be <hi rend="italic">persecuted</hi>, are nothing if not persecuted. And so <placeName type="state" key="Missouri">Missouri</placeName> has "butchered the saints of the Most High, and hunted the prophets like Ahab of old." And, again, "Thou art already associated with Herod, Nero and the bloody Inquisition &#8212;thy name has become synonymous with oppression, cruelty, treachery and blood." Oh, Sappho-Eliza-Roxanna-Snow-Smith-Young! But I think I sniff General Joab in this transcendent psalm. "Thou didst pollute the holy sanctuary of female virtue, and barbarously trample upon the most sacred <hi rend="italic">gems</hi> of domestic felicity," is Pistol-Bennett, sure.</p>
+
+<p>I believe readily that <persName key="Smith, Joseph">Joseph</persName> tried, in the beginning, to restrain the crankiness of his Mentor, who spoke and acted like a fanatic Jew of the times of Moses and Joshua, carefully embalmed at the fall of Jericho and resurrected in <placeName type="county" key="Jackson County, MO">Jackson County</placeName>, <placeName type="state" key="Missouri">Mo.</placeName> <persName key="Smith, Joseph">Joseph</persName> was not a man of nonsensical hobbies; <hi rend="italic">his</hi> fanaticism lay in another direction &#8212;in that of "all the women." His idol was a huge enjoyment of life in the sense of Caligula and Nero. Hating honest work more than bitter death, he was forced to use all the ways and means of charlatans to steal the prize which he could not conquer by true talent and honest exertion. So every scheme was welcome that would lead to enjoyment on the grand style. But he may have hesitated, at the outset of the "Mormon war," at the idea of becoming openly a rebel and leader of armed bands. This hesitation was evidently overcome by his love for appearing in great roles, by parading as "commander-in-chief of the armies of Israel," by his intoxication at the idea of becoming a second Mahomet. There were always some about him who made a business of it to work up his brains to the boiling point. There was <persName key="Rigdon, Sidney">Rigdon</persName>, proving from the old Bible that the House of Israel was invincible; there was Dr. <persName key="Avard, Sampson">Avard</persName>, an adventurer of exactly the <persName key="Bennett, John C.">Bennett</persName> kind, intensely ambitious and entirely unscrupulous, who saw in <persName key="Smith, Joseph">Joseph</persName> the coining man. <persName key="Avard, Sampson">Avard</persName> was, like <persName key="Bennett, John C.">Bennett</persName> and Joe, an infidel, and
+
+<pb n="188" xml:id="mmm.anti.wyl.1886.188"/>
+
+the role of right-hand man of the new Mahomet tickled him.</p>
+
+<p><persName key="Smith, Joseph">Joseph</persName> may have hesitated, as Charles IX. did when hearing the bloody plans of his mother against the Huguenots, but he gave way like Charles IX. Could not <persName key="Rigdon, Sidney">Sidney</persName> show how the old Jews had exterminated the peaceful inhabitants of a whole country?</p>
+
+<quote>"He left none remaining, but utterly destroyed all that breathed, as the Lord God of Israel commanded.. . . And they utterly destroyed all that was in the city, <hi rend="italic">both men and women, young and old</hi>, and ox, and sheep, and ass, with the edge of the sword.. . . "</quote>
+
+<p>Blood, streams of blood, shed at the command of the Almighty! And could not <persName key="Avard, Sampson">Avard</persName>, the worldly adviser, prove to the illiterate peeper that so many of the emperor's and kings had risen by shedding blood like water? Joe listened and listened, and they convinced him finally&#8212;the resurrected Jew to the right, and the modern Machiavel to the left.</p>
+
+<p>Armed with the enthusiastic approval of <persName key="Rigdon, Sidney">Sidney Rigdon</persName> and the (perhaps hesitating) consent of <persName key="Smith, Joseph">Joseph</persName>, Dr. <persName key="Avard, Sampson">Avard</persName> goes to work with the energy of a gold-digger whose imagination is filled with tremendous nuggets. Friend <persName key="Webb, C. G.">Webb</persName> heard <persName key="Avard, Sampson">Avard</persName> speak to the brethren, and he says it was the most blood-curdling kind of speech he ever heard in his life.</p>
+
+<quote>"My brethren, it is written: 'The riches of the Gentiles shall be consecrated to my people, the House of Israel; 'and in this way we will build up the KINGDOM OF God, and roll forth the little stone that David saw cut out of the mountain without hands, until it shall fill the whole earth. For this is the very way that GOD destines to build up his kingdom in the last days. If any of us should be recognized, who can harm us? For we will stand by each other and defend one another in all things. If our enemies swear against us, we can swear also. Why do you startle at this, brethren? As the Lord liveth. I would swear a lie to clear any of you; and if this could not do, I would put them or him under the sand, as Moses did the Egyptian, and in this way we will consecrate much to the Lord, and <hi rend="smallcaps">BUILD UP HIS KINGDOM</hi>; and who can stand against us? And if any of this Danite society reveals any of these things, I will put him where the dogs cannot bite him."</quote>
+
+<p>There came a day when <persName key="Rigdon, Sidney">Rigdon</persName>, <persName key="Smith, Joseph">Joseph</persName> and <persName key="Avard, Sampson">Avard</persName>
+
+<pb n="189" xml:id="mmm.anti.wyl.1886.189"/>
+
+awoke from their ambitious dream to the cold reality of things. The awful formalities of a court-martial, the reading of a sentence, "You will be shot to-morrow morning at eight o'clock," and the atmosphere of a court-room where you are tried for high treason, murder, arson, etc., exert a remarkably cooling influence on the aspirations of modern Joshuas, Mahomets and Napoleons.</p>
+
+<p>When in the clutches of the law, <persName key="Smith, Joseph">Joseph</persName> dropped <persName key="Avard, Sampson">Avard</persName>, as <persName key="Young, Brigham">Brigham</persName> did faithful Danite <persName key="Lee, John D.">Lee</persName> some forty years after. Even how to sacrifice a friend in the hour of danger did you learn from <persName key="Smith, Joseph">Joseph</persName>, great plagiarist <persName key="Young, Brigham">Young</persName>. Hear the prophet:</p>
+
+<quote>"While the evil spirits were raging up and down in the state [<placeName type="state" key="Missouri">Missouri</placeName>] to raise mobs against the Mormons, Satan himself was no less busy in striving to stir up mischief in the camps of the Saints, and among the most conspicuous of his willing devotees was one Dr. <persName key="Avard, Sampson">Sampson Avard</persName>, who had been in the church but a short time and who, although he had generally behaved with a tolerable degree of external decorum, was secretly aspiring to be the greatest of the great, and become the leader of the people by forming a secret combination by which he might rise a mighty conqueror, at the expense of the overthrow of the church; and this he tried to accomplish by his smooth, flattering and winning speeches which he frequently made to his associates, while his room was well guarded by some of his pupils, ready to give him the wink on the approach of anyone who would not approve of his measures. In this situation he stated that he had the sanction of the heads of the church for what he was about to do, and persuaded them to believe it and proceeded to administer to the few under his control an oath, binding them to everlasting secrecy to everything which should be communicated to them by himself. Thus <persName key="Avard, Sampson">Avard</persName> initiated members into his band, firmly binding them, by all that was sacred, in the protecting of each other in all things <hi rend="smallcaps">THAT WERE LAWFUL</hi>."</quote>
+
+<p>This last lie gives away all the rest of them. So <persName key="Avard, Sampson">Avard</persName> had to be one of the most willing devotees of <hi rend="italic">Satan</hi>, to teach nothing but what was <hi rend="italic">lawful</hi>! <persName key="Smith, Joseph">Joseph</persName> continues:</p>
+
+<quote>"<persName key="Avard, Sampson">Avard</persName> would often affirm to his company that the principal men of the church had put him forward as a spokesman and a leader of this band, which <hi rend="italic">he</hi> named <hi rend="smallcaps">DANITES</hi>."</quote>
+
+<p>So there <hi rend="italic">was</hi> a Danite band with secret oaths, but <persName key="Smith, Joseph">Joseph</persName> and the church had nothing to do with it. This looks just like the truth! <persName key="Smith, Joseph">Joseph</persName> is at the head of an
+
+<pb n="190" xml:id="mmm.anti.wyl.1886.190"/>
+
+organization which from its very beginning was built on blind obedience and where every member was a spy on his comrades. But no, <persName key="Smith, Joseph">Joseph</persName> knew nothing, and the Lord didn't tell him about it, neither did "Urim and Thummim." <persName key="Smith, Joseph">Joseph</persName> remained in perfect ignorance even then when Dr. <persName key="Avard, Sampson">Avard</persName> "held meetings to organize his men into companies of tens and fifties, appointing a captain over each company." There is a method in those Mormon lies. The Danites? Dr. <persName key="Avard, Sampson">Avard</persName> organized them. Spiritual wifery? That scoundrel <persName key="Bennett, John C.">Bennett</persName> introduced it. <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">The Mountain Meadows Massacre? Oh, the Indians did that, you know.</seg></seg></p>
+
+<p>Fortunately, we have got a good witness or two to seal this Danite business <hi rend="italic">for all eternity</hi>. <hi rend="smallcaps"><persName key="Whither, David">DAVID WHITHER</persName></hi> is a good witness to fix a doubtful point in early Mormon history, isn't he? A third of the proof of the divinity of the Book of Mormon rests on his shoulders: he is is one of the three original witnesses of the American Bible. It is my conviction, besides&#8212;and I shall give my reasons for it&#8212;that <persName key="Whitmer, David">David Whitmer</persName> was an <hi rend="italic">honest and sincere</hi> witness while testifying that he had seen the golden plates. He was, no doubt, immensely superstitious; it was easy to dupe him and he <hi rend="italic">was</hi> duped, but he was not a man to put his name to a lie wittingly. We have seen the anathema pronounced by <persName key="Rigdon, Sidney">Sidney Rigdon</persName> and eighty-three leading Mormons against the "Dissenters." Mr. <persName key="Traughber, Jr., J. L.">J. L. Traughber, Jr.</persName>, a gentleman living in <placeName type="state" key="Missouri">Missouri</placeName> and an old friend of <persName key="Whitmer, David">David Whitmer</persName>, states in regard to the "Dissenters:"</p>
+
+<p>"<persName key="Harris, Martin">Martin Harris</persName>, <persName key="Cowdery, Oliver">Oliver Cowdery</persName>, <persName key="Whitmer, David">David</persName>, <persName key="Whitmer, John">John</persName> and <persName key=" Whitmer, Jacob">Jacob Whitmer</persName> and <persName key="Page, Hiram">Hiram Page</persName> withdrew from <persName key="Smith, Joseph">J. Smith</persName> at <placeName type="settlement" key="Kirtland, OH">Kirtland</placeName> in 1837. The next year <persName key="Smith, Joseph">Smith</persName> and <persName key="Rigdon, Sidney">Sidney Rigdon</persName> had to flee from <placeName type="settlement" key="Kirtland, OH">Kirtland</placeName> by night to keep from being imprisoned for banking without a charter. They went to <placeName type="settlement" key="Far West, MO">Far West</placeName>, <placeName type="state" key="Missouri">Missouri</placeName>, where <persName key="Whitmer, David">David Whitmer</persName> was president of the stake, and soon formed their Danite band to kill Dissenters,' and fight the enemies of Zion. <persName key="Whitmer, David">David Whitmer</persName> and others were Dissenters.' <persName key="Patten, David">David Patten</persName> [the Danite Captain] went to them, and told them that it was determined that they must die. They went out one evening to hunt their cows and did not go back again. In a few days the Danites ordered <hi rend="italic">the families</hi> of those men to leave <placeName type="settlement" key="Far West, MO">Far West</placeName>, <hi rend="italic">with nothing but the clothing they wore</hi>. But when the 'mob' had captured the place, <persName key="Whitmer, David">David Whitmer</persName> and the others went and got their goods and property."</p>
+
+<pb n="191" xml:id="mmm.anti.wyl.1886.191"/>
+
+<p>These are the doings of the "persecuted people." they try to kill their own friends and drive their families into the woods. They ask solemnly for their constitutional rights in the name of religion, but when a crank like Morris sets up a little revelation-shop of his own, they demolish it with cannon, killing women, children and unarmed men. But let me now give the direct testimony of <persName key="Whitmer, David">David Whitmer</persName> himself in the Danite question. Says the old man:<ref target="n09">*</ref></p>
+
+<p>"<hi rend="smallcaps"><persName key="Smith, Joseph">SMITH</persName> AND <persName key="Rigdon, Sidney">RIGDON</persName></hi> issued a decree organizing what was termed the '<hi rend="smallcaps">DANITES</hi>' or '<hi rend="smallcaps">DESTROYING ANGELS</hi>,' who were bound by the MOST FEARFUL OATHS to obey the commandments of the <hi rend="smallcaps">LEADERS OF THE CHURCH</hi>. The 'Danites'  consisted <hi rend="smallcaps">ONLY OF THOSE SELECTED BY <persName key="Smith, Joseph">SMITH</persName> AND <persName key="Rigdon, Sidney">RIGDON</persName></hi>."</p>
+
+<p>That old man, over eighty, is yet alive. He believes to-day in the Book of Mormon, the golden plates, the last dispensation and the new and everlasting covenant. But he believes that <persName key="Smith, Joseph">Joseph</persName> was a FALLEN PROPHET when he organized a band of armed law-breakers. <persName key="Whitmer, David">David</persName> came from a good family and had some property, which may explain why he did not fall in, hand and heart, with the desperate schemes of penniless adventurers.</p>
+
+<p>But I have got a real <hi rend="italic">bonbon</hi> of a testimony in this Danite business, and I have saved it, as the French say, <hi rend="italic">poar la bonne bouche</hi>, to make the reader keep a good taste in his mouth. Our fraud-hating friend Mrs. Pratt &#8212;she has become the reader's friend as well as mine by this time, I hope&#8212;tells the following story:</p>
+
+<p>"One day, in 1868, shortly before Apostle <persName key="Kimball, Heber C.">Heber C. Kimball</persName> had his fatal attack of sickness, he returned to his home from a secret meeting held in the Endowment House. I was on intimate terms with the Kimball family and was visiting Vilate, the apostle's first wife, when <persName key="Kimball, Heber C.">Heber</persName> came in. We were all in the parlor together: <persName key="Kimball, Heber C.">Heber</persName> in his usual confidential manner, said to me: 'Sister Pratt, <hi rend="smallcaps">WE HAVE JUST REORGANIZED THE DANITE BAND</hi> in
+
+<note xml:id="n09">* Interview with a reporter of the "Kansas City Journal," June 1881.</note>
+
+<pb n="192" xml:id="mmm.anti.wyl.1886.192"/>
+
+the Endowment House. <hi rend="smallcaps">FIFTY BRETHREN HAVE JOINED AND BEEN SWORN IN</hi>!' Said I: '0h, brother <persName key="Kimball, Heber C.">Heber</persName>, you have no use for the Danites here, at this time.' '<hi rend="smallcaps">YES, WE HAVE</hi>,' replied the apostle, 'we'll have <hi rend="smallcaps">PLENTY OF WORK</hi> for them to do <hi rend="smallcaps">PRETTY SOON</hi>.'"</p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">It was the time when the Union Pacific was coming in, promising a large influx of Gentiles and <hi rend="italic">enemies</hi> of the church. Zion, the home of the pure, the only refuge of peace and brotherhood in this wicked world, wanted to prepare a warm reception for them, worthy of the grand memories of 1838 and 1857. It had become impossible to <hi rend="italic">save</hi> them <hi rend="italic">en masse</hi>, as had been done with <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> emigrants</seg> <seg type="Massacre" subtype="Dates">in 1857</seg>. Then the Kingdom of God on earth had full sway, and <seg type="Massacre" subtype="Casualties">one hundred and forty men, women and children</seg> were <hi rend="italic">saved</hi> <seg type="Massacre" subtype="Location">on <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg> at one fell swoop. But the saving could still be done on a limited scale, by shooting a fellow or two in an alley now and then. Didn't they try to save U. S. Attorney <persName key="Dickson, William H.">Dickson</persName> in 1886? "<hi rend="smallcaps">HE NEEDED KILLING</hi>" as the popular saying was in the glorious time of the <placeName type="state" key="Utah Territory">Utah</placeName> "Reformation," when the blood of Gentiles and apostates was cheaper than water.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">But, all the same, it is a <hi rend="italic">religion</hi>, you see. The leaders may be fanatics, but they are sincere, no doubt. The Mormons have been <hi rend="italic">persecuted</hi> in <placeName type="state" key="Ohio">Ohio</placeName>, <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Illinois">Illinois</placeName>. The killing of <persName key="Smith, Joseph">Joseph Smith</persName> was one of the most disgraceful <hi rend="italic">murders</hi> ever committed in this country. The Endowment House is only a sort of cranky religious laboratory for the making of Gods, worlds and devils; nonsense to talk of Mormon treason. Don't re-hash <hi rend="italic">Mormon horrors</hi>, please. <persName key="Rockwell, Porter">Rockwell</persName> was a good-natured chap, and <persName key="Smith, George A.">Geo. A. Smith</persName> the Thackeray of Mormonism. That fellow <persName key="Wyl, W.">W. Wyl</persName> is one of the industrious vagabonds who have created the <hi rend="italic">Danites</hi> out of air and foolscap. He should have written a harmless "philosophical" book instead of playing scavenger. I am sorry for him.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

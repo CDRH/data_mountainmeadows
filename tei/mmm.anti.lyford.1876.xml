@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.lyford.1876">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Brigham Young’s Record of Blood! Or, The necessity for that Famous “Bible and Revolver.” A Lecture Delivered in the First M.E. Church, Salt Lake City, Jan. 23d, 1876</title>
+                <title level="m" type="sub"></title>
+                <author><forename>C.</forename> <forename type="middle">P.</forename> <surname>Lyford</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.lyford.1876</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Brigham Young’s Record of Blood! Or, The necessity for that Famous “Bible and Revolver.” A Lecture Delivered in the First M.E. Church, Salt Lake City, Jan. 23d, 1876</title>
+                    <author><forename>C.</forename> <forename type="middle">P.</forename> <surname>Lyford</surname></author>
+                    <publisher>Tribune Publishing Company</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>entire</extent>
+                    <date when="1876">1876</date>
+                    <note type="source">C. P. Lyford.  <hi rend="italic">Brigham Young’s Record of Blood! Or, The necessity for that Famous “Bible and Revolver.” A Lecture Delivered in the First M.E. Church, Salt Lake City, Jan. 23d, 1876.</hi> Salt Lake City, UT: Tribune Publishing Company, 1876.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-07-20"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1 type="epigraph">
+
+<pb n="2" xml:id="mmm.anti.lyford.1876.0002"/>
+
+<p><hi rend="italic"><seg type="Blame" subtype="LDS_LDSLeadership">"As far as I am concerned, I do not hesitate to say that I believe all these murders lie at his (<persName key="Young, Brigham">Brigham Young</persName>'s) door, and that he will have to be personally responsible of them. His hands are red with innocent blood, his garments dyed with it, and no 'atonement' can ever wash out the damning spots."</seg></hi>&#8212;Mrs. <persName key="Young, Ann Eliza">Ann Eliza Young</persName>, in "Wife No. 19," page 199.</p>
+
+<p>In the <placeName type="state" key="Utah Territory">Utah</placeName> Legislature, JAN. 25th, 1876, while the claim of <persName key="Wiley, Adam">Adam Wiley</persName> for $294 for guarding <seg type="Blame" subtype="Lee"><persName key="Lee, John D.">John D. Lee</persName>, the Mountain Meadows butcher</seg>, was being considered, "APOSTLE" <persName key="Taylor, John">JOHN TAYLOR</persName> said: <hi rend="italic">"I am desirous of seeing an honest investigations of these expenditures, and, if possible, to ascertain how much of this </hi>$56,000 <hi rend="italic">has been used in prosecuting our </hi>VERY BEST, MOST HONORABLE AND PRAISEWORTHY CITIZENS, <hi rend="italic">by those men who run the Courts, and are desirous only of cutting the throats of "this people," trampling upon their rights as American citizens and plundering them of their property. The </hi>GOVERNMENT<hi rend="italic"> and the </hi>COURTS<hi rend="italic"> have arrayed themselves against the Legislature of <placeName type="state" key="Utah Territory">Utah</placeName>, to rob the members of their just dues, and I consider the claims of persons against <placeName type="state" key="Utah Territory">the Territory</placeName> for service rendered under the United States Marshal, as frauds.</hi> GOVERNORS <hi rend="italic">and</hi> JUDGES <hi rend="italic">have conspired against the lives and property of this people, and I am opposed to strenthening the hands of the ENEMY."</hi>&#8212;Salt Lake Daily Tribune, Jan. 26th, 1876.</p>
+
+</div1>
+            
+<div1 type="lecture">
+
+<pb n="3" xml:id="mmm.anti.lyford.1876.0003"/>
+
+<p><hi rend="center">LECTURE.</hi></p>
+
+<milestone unit="section" rend="horbar"/>
+
+<cb n="1" />
+
+<p>In the year 1873, in a lectuer delivered in <placeName type="settlement" key="Boston, MA">Boston</placeName> on the "State of Affairs in <placeName type="state" key="Utah Territory">Utah</placeName>," I used the following words: "Clergymen have sometimes found it necessary to enter the pulpit with a Bible in one pocket and a revolver in the other." In a public letter I subsequently said that while this was true of others, yet I referred in that statement to my own experience.</p>
+
+<p>Thereupon a cry of indignation arose from Mormon pulpits and the Mormon press; the Mormon preisthood lifted its hands in professed holy horror, and I suppose that my name has not been mentioned since a half dozen times either in that pulpit or press without being coupled with that statement, grossly perverted and exaggerated.</p>
+
+<p>I have always intended, not only to give the circumstances referred to in the statement, but to publicly examine the historical record of the Mormon Priesthood, and in the light of that record determine which is the more consistent&#8212;a preacher of the Gospel to arm himself with weapons of defense while pursuing his work among them if his life he threatened or they manifest such marvelous indignation at such a course.</p>
+
+<p><seg type="Context" subtype="Polygamy">I also think it well, while doing this to take occasion to lay before the world in as concise a form as possible, certain matters which, in the attention given to a single other feature of Mormonism&#8212;polygamy&#8212;have been overlooked.</seg> The facts I shall now present are truly appalling, and it was not until I commenced the work of coallating these facts for this leture, that I was aware <cb n="2" /> of the extent to which crime had been allowed to exist and go unpunished in our land, simply because it was committed under the sheltering garb of the word religion. The crimes I here enumerate, I lay at the door of <persName key="Young, Brigham">Brigham Young</persName> and a few associated with him in priestly tyranny. I have ever believed, as now, that the greater portion of the Mormon people would revolt at those atrocities as much as you or I. Because of them and the spirit that prompted their commission, many have already emancipated themselves from the bondage into which they were decoyed, and others are doing so as fast as their circumstances render it possible. But in this arraignment of the Mormon Priesthood, at the bar of public opinon, I shall confine myself to one class of offences alone, viz: the destruction of human life, either for purposes of plunder or in the interest of so-called religion.</p>
+
+<p>It will be seen that this kind of lawlessness began at an early day in the history of this Priesthood, that it has continued to the present time, and that the spirit of it now exists and occasionally manifests itself in <placeName type="state" key="Utah Territory">the Teritory</placeName>. The evidence that I have to present consists in part of the confession of guilty parties themselves, who by coercion, or under the influence of religious fanaticism became the tools of this Priesthood; in part of the records of United States officials, and in part of the well authenticated history of <placeName type="state" key="Utah Territory">this Territory</placeName>. In a single lecture I cannot present a tithe of this testimony, and yet I apprehend enough shall be presented to lead us to believe that anything short of the most effective measures on the part of our
+
+<pb n="4" xml:id="mmm.anti.lyford.1876.0004"/>
+
+<cb n="1" />
+
+Government for the suppression of the system of outlawry and the punishment of those responsible for its record, will be an outrage upon society and a disgrace to American citizenship. I wish to make one other remark. It is possible that the words that I speak to-night may reach many thousands beyond this audience, and hence I shall find it necessary to present some matters that by their common notoriety here would be considered unneccesary, if I were speaking for your information alone.</p>
+
+<p><hi rend="center">EARLY HISTORY.</hi></p>
+
+<p><seg type="Context" subtype="LDSPersecution">Mr. <persName key="Beadle, John H.">Beadle</persName> in his "Life in Utah," in speaking of the causes that led to the early expulsion of the Mormons from the States, designates them as first, criminal; second, moral and social; and third, political. He shows at length how the Church was the place of rendezvous for "outlaws and bands of maranders;" how "they made their way into <placeName type="settlement" key="Nauvoo, IL">Nanvoo</placeName> and were baptized into the Church as a convenient cover for their crimes and made that their secret head-quarters." He adds: "Thus while the Mormons could truly say that there was less crime in <placeName type="settlement" key="Nauvoo, IL">Nanvoo</placeName> than in most other cities of its size, it was still true that more criminals issued thence than from any other. (Life in Utah, Chap. 2.)</seg></p>
+
+<p>Mr. <persName key="Stehnhouse, T. B. H.">Stenhouse</persName> in his work gives the affidavits of <persName key="Marsh, Thomas B.">Thomas B. Marsh</persName>, first president of the twelve Apostles, and <persName key="Hyde, Orson">Orson Hyde</persName>, one of the twelve, in which they say that they had heard <persName key="Smith, Joseph">Joseph Smith</persName> declare "that he would yet tread down his enemies, and walk over their dead bodies; that if he was not let alone he would make it one gore of blood from the Rocky Mountains to the Atlantic Ocean; that like Mohammed, his motto should be "<persName key="Smith, Joseph">Joseph Smith</persName> or the sword." Which bombastic utterances show the spirit of the man if nothing more. Surely when he went up (or down), his mantle must have fallen upon <persName key="Young, Brigham">Brigham Young</persName>; for substitute in the above the word "bowie-knife" for sword, and you have a motto more fit to be inscribed over his institution than "Holiness to the Lord," so often used.</p>
+
+<p>Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName> in the same chapter gives the account of the organization of the Danite band for murder and outlawry; of the existece of which <persName key="Young, Brigham">Brigham Young</persName> himself <cb n="2" /> gives the following testimony. "If men come here and do not behave themselves, they will not only find the Danites, whom they talk so much about, biting horses' heels, but the scoundrels will find something biting their own heels. In my plain remarks I merely call things by their own names.(Deseret News, Vol. 7, p. 143. See also History Rocky Mountain Saints, chap. 15.)</p>
+
+<p><seg type="Context" subtype="LDSPersecution">It was, beyond a doubt, this lawslessness, together with the foul social practices and general hostility to civil government and authority, that led to the expulsion from <placeName type="state" key="Illinois">Illinois</placeName> and <placeName type="state" key="Missouri">Missouri</placeName> of the Mormon Priesthood and their followers. They had become a stench in the nostrils of civilization, and in a country free about all others from tyranny and religious intolerance, they could not be safely allowed to exist in contact with society. Elder <persName key="Penrose, Charles W.">Penrose</persName> lays it to the Methodists. If they were responsible for this expulsion, it was through that healthy moral sentiment, which they with other religious bodies had helped to create and maintain, and which now makes Mormonism a by-word and reproach throughout the civilized world.</seg></p>
+
+<p>But we cannot dwell longer here, and we pass to notice some of the more prominent features of its subsequent record of crime.</p>
+
+<p><hi rend="center">THE RECORD OF BLOOD.</hi></p>
+
+<p><persName key="Hickman, Bill">Bill Hickman</persName>, commonly called the "Danite Chief," in his Confessions, presents a list of murders, committed by him under the dictation of <persName key="Young, Brigham">Brigham Young</persName> and his associates that can scarcely be equaled in the annals of human atrocity. It is well known here that his statements are received as reliable, and the most common remark is "that he has not told one-half of what "he might tell." Indeed these are his own words uttered to a friend of mine. The Mormons attack the character of <persName key="Hickman, Bill">Hickman</persName> in answer to his Confessions. The reply to which is that philantropists do not usually commit such deeds. I can only refer to a few of these, and I quote from his book of Confessions.</p>
+
+<p>I instance the bloody murder of <persName key="Hatch, Ike">Hatch</persName> by order of <persName key="Young, Brigham">Brigham</persName>, who said "that was a good deed, let who would do it." (Page 83). "<persName key="Vaughn, Ike">Vanghn</persName>," after whose death <persName key="Young, Brigham">Brigham</persName> said "take the property and divide
+    
+<cb n="1" />
+
+<pb n="5" xml:id="mmm.anti.lyford.1876.0005"/>
+
+it among yourselves," and <persName key="Hickman, Bill">Hickman</persName> adds concerning his share, "this is all I ever got for services rendered on <persName key="Young, Brigham">Brigham Young</persName>'s order." (Page 87). The smell of blood was always overcome by the sweet perfume of gold, with <persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p>I instance also the case of poor <persName key="Hartley, Jesse">Hartley</persName> of whom <persName key="Hickman, Bill">Hickman</persName> says:</p>
+
+<p>"I saw <persName key="Hyde, Orson">Orson Hyde</persName> looking very sour at him, and after he had been in camp an hour or two, <persName key="Hyde, Orson">Hyde</persName> told me that he had orders from <persName key="Young, Brigham">Brigham Young</persName> to have him used up." He then mentions in detail the manner of the murder, committed under the eye of <persName key="Hyde, Orson">Hyde</persName>&#8212;recieve his commendation, and that of <persName key="Stout, Hosea">Hosea Stout</persName>, (P 97). Mrs. <persName key="Smith, Mary Ettie V.">Smith</persName> in her "Fifteen years before <persName key="Hickman, Bill">Hickman</persName>'s Confessions, gives a heartrending account of this deed, and of her meeting with <persName key="Hartley, Jesse">Hartley</persName>'s widow, whom she describes as "the most heart broken human being I ever saw." It is almost impossible for one to read the full account of this horrid murder without being moved to tears.</p>
+
+<p>We may mention also in this list the killing of <persName key="Yates, Richard">Yates</persName>.  <persName key="Hickman, Bill">Hickman</persName> says: "We met <persName key="Young, Joseph A.">Joseph A. Young</persName>, a son of <persName key="Young, Brigham">Brigham</persName>; he hailed me and said his father wanted that man <persName key="Yates, Richard">Yates</persName> killed." He thus describes the killing: "No person was to be seen, when Col. <persName key="Jones, Nathaniel V.">Jones</persName> and two others, <persName key="Stout, Hosea">Hosea Stout</persName> and another man, came to my camp fire and asked if <persName key="Yates, Richard">Yates</persName> was asleep. I told them he was, upon which his brains were knocked out with an axe. He was covered up with his blankets and left lying." (P. 124,) Of like character was the kiling of "Buck," "Dron," "McNeal," the poor old man "Arnold," etc. To describe these deeds at length would be to detain you too long. [As one lays down this book of <persName key="Hickman, Bill">Hickman</persName>'s he can but admire the zeal of certain men whom I need not name, in their efforts to shield the man really responsible for this long array of blood-curdling murders, from abuse through "legal technicalities."</p>
+
+<p><hi rend="center">HISTORICAL AUTHORITIES.</hi></p>
+
+<p>Scarcely a book has been written upon the domination of <persName key="Young, Brigham">Brigham Young</persName> and his associates in <placeName type="state" key="Utah Territory">Utah</placeName>, that is not a record of blood from beginning to end. One of the most reliable of these works, is that of Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName> already referred to.</p>
+
+<cb n="2" />
+
+<p>Chapter after chapter of the most horrifying accounts of deeds of violence and oppression are contained in it. I can quote but one or two cases.</p>
+
+<p>On pages 298 three cases of mob violence by the Priesthood during the reformation are given. They are those of <persName key="Jarvis, H. J.">Jarvis</persName>, <persName key="Wilson, William H.">Wilson</persName> and Slater. The details are not proper for the platform. The writer closes the statement with the following:</p>
+
+<p>"Some men in <placeName type="settlement" key="Provo, UT">Provo</placeName> had rebelled against authority in some trivial matter, and Bishop Blackburn shouted in his Sunday meeting, 'I want the people of <placeName type="settlement" key="Provo, UT">Provo</placeName> to understand that the boys in <placeName type="settlement" key="Provo, UT">Provo</placeName> can use the knife as well as the boys in San Pete. Boys get your knives ready, there is work for you. We must not be behind San Pete in good works.'</p>
+
+<p>On pages 469 and 470 he speaks of one <persName key="Jones, Henry">Jones</persName> and his mother at <placeName type="settlement" key="Payson, UT">Payson</placeName>, both shot by the order of the Priesthood, of a wife and mother whose throat was deliberately cut to save her soul; of an elder shot dead in his garden, etc.</p>
+
+<p><seg type="Context" subtype="LDSApostates"><seg type="Context" subtype="ParrishMurder">But the most shocking of all these crimes was the murder of the <persName key="Parrish, William Beason"><persName key="Parrish, William R.">Parrishes</persName></persName> and <persName key="Potter, Duff">Potter</persName> at <placeName type="settlement" key="Springville, UT">Springville</placeName>. The details are well known here. An old man and his son and one other were about to leave his delectable Zion. They were decoyed out as night and shot and butchered. The fullent confessions are given. The historian says: "The facts of this deed of blood clearly exhibit that it was a religious murder; the details are sickening and leave no room for questioning why the deed was done&#8212;they were Apostates." (Hist. Rocky Mountain Saints, p. 462.)</seg></seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> in an address to the grand jury at <placeName type="settlement" key="Provo, UT">Provo</placeName> which investigated this murder says: "The Court has had occasion to issue bench-warrants to arrest persons connected with the Parish mruder, has had them brought before it and examined; the testimony presents an unparalleled condition of affairs. It seems the whole community were engaged in committing that crime. Facts go to show it. There seems to be a combined effort on the part of the community to screen the murderes from the punishment they have committed." (Des. News Vol. 9, No, 4.)</seg> This same historian gives a detailed account of the murder of <persName key="Brassfield, Newton">Brassfield</persName> and says: "That the shooting was <choice><orig>pre-
+
+<pb n="6" xml:id="mmm.anti.lyford.1876.0006"/>
+    
+<cb n="1" />
+
+meditated</orig><reg>premeditated</reg></choice> and the intention known to other there can be no doubt. No effort was made to arrest the perpetrator of the crime." (Hist. R. M. Saints, p. 615.) Then follows an account of the assasination of Dr. <persName key="Robinson, King">Robinson</persName> in this city. He had formed an idea of securing the Warm Spring, north of the city and building a hospital. The property was highly prized by <persName key="Young, Brigham">Brigham Young</persName>, and as all here well know, the Doctor was decoyed out of his house at night and cooly shot in the street. In a sermon in the Tabernacle soon after this (Dec. 23, 1868) <persName key="Young, Brigham">Brigham Young</persName> said&#8212;"If they jump my claims here I shall be very apt to give them a preemptive right that will last them to the last resurrection." (See Vidette, Jan. 8, 1867.) Gen. <persName key="Hazen, William Babcock">Hazen</persName> was sent to <placeName type="state" key="Utah Territory">Utah</placeName> to examine into <placeName type="state" key="Utah Territory">Utah</placeName> affairs for the information of Congress. In his report he labors to befriend the Mormons, but of this murder of <persName key="Robinson, King">Robinson</persName> he says that it and the murder of <persName key="Brassfield, Newton">Brassfield</persName>, "were committed under Church influences; that there are principles taught in that Church leading to such murders."</p>
+
+<p>He recommends the seizure of prominent Mormon official and their incarceration in the <placeName type="state" key="Missouri">Missouri</placeName> penitentiary till this and other crimes are by them fully divulged. (Vidette, April 8, 1867.) The blood of this murdered man still cries from our streets unto God, and the day will come when that cry will call down swift vengeance.</p>
+
+<p>Mr. <persName key="Beadle, John H.">Beadle</persName> and others give accounts of the murder in 1858 of that brave, fearless and independent man <persName key="Bowman, Wallace A.">Wallace A. Bowman</persName>. The Mormon account was that it was done by Indians; but the clear testimony of his companion shows that it was by the Danites. (Life in Utah p 170.) In the whole record of the crimes of the Mormon Priesthood I have found nothing more devilish than this mruder; but I must pass it hastily.</p>
+
+<p>I also give the following from this work of Mr. <persName key="Beadle, John H.">Beadle</persName>, p. 172. <persName key="Babbitt, Almon N.">Almon N. Babbitt</persName> having quarelled with <persName key="Young, Brigham">Brigham</persName>, started across the plains in 1855 and was mrudered by the Indians, who spoke good English; and of this case <persName key="Young, Brigham">Brigham</persName> said&#8212;'He lived a fool and died like a fool. He undertook to quarrel with me and was soon after killed by the Indians.'"</p>
+
+<p>"Lo! the poor Indians!" If they were <cb n="2" /> guilty of a hundreth part of the crime which <persName key="Young, Brigham">Brigham</persName> attributes to them, they would be worse fiends than the most rabid Indian hater ever estimated them to be. They are indeed the most convenient "scape goat" of the Mormon Priesthood.</p>
+
+<p><seg type="Context" subtype="GunnisonMurder">Mr. <persName key="Beadle, John H.">Beadle</persName> also says: "In 1852, Lieutenant <persName key="Creuzfeldt, Frederick">M. Creuzfeldt</persName>, the botonaist and eight of their party were massacred near Bevier Lake by Indians as then reported; but soon after escaped Apostates state it was done by painted Mormons." </seg>Then follows a long list of other crimes which I cannot notice. (Ibid, Chap. 5.)</p>
+
+<p><seg type="Context" subtype="LDSApostates">Of the many chapters of like character in the recent work of Mrs. <persName key="Young, Ann Eliza">Ann Eliza Young</persName> "Wife No. 19," I can only refer briefly to two or three Individual cases. Speaking of a cousin that had married a Gentile she says: "My aunt and her husband were devout Mormons and they grieved over their daughter as one dead. My Uncle, the girl's father, even grew desperate in his despair. He consulted <persName key="Young, Brigham">Brigham</persName> and the Prophet's reply was&#8212;'Put <persName key="Hatton, William Hawthorne">Hatten</persName> out of the way. It is a sin and a shame to have so good a woman dragged around the world by a Gentile." That was sufficient. In a few days came the startling news that Hatten had been killed by the Indians. He had gone to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> on a visit from which he was destined never to return. The young wife was almost heart-broken at the sudden loss of her husband, but she did not dream what his real fate was until long afterwards. She supposed he had fallen a vicitm to Indian cruelty as the reports told her; but when, after many years she learned the bitter truth, she fairly hated the religion that had made a martyr of her husband, and brought sorrow and afflicition to her. She could not get away from it however;" and <persName key="Kimball, Herber C.">Herber C. Kimball</persName> finally got her. (P. 195.)</seg></p>
+
+<p>She says further of the murder of the <persName key="Jones, Hentry">Joneses</persName> of <placeName type="settlement" key="Payson, UT">Payson</placeName>, "One night there was a great commotion in the streets of the town, pistol shots were heard; no one dared to venture out to learn the cause; in those days it was dangerous to seek to know more than the Priesthood choose to tell. The next morning put an end to the suspense. It was proclaimed everywhere that <persName key="Jones, Henry">the Joneses</persName> had been killed, and their dead
+
+<pb n="7" xml:id="mmm.anti.lyford.1876.0007"/>
+    
+<cb n="1" />
+
+bodies, shockingly mutilated, were placed in a wagon and exposed to the crowd by being driven through the streets, attended by a jearing taunting mob who could not cease their insults though their vicitms were still in death. There were plenty of women who looked at them and who gloried in their death as a deed of service to the Lord." (Ibid, p. 197.) She closes this terrible chapter, at which I have but just glanced, with these words: "As far as I am concerned I do not hesitate to say that I believe all these murders lie at his door; (<persName key="Young, Brigham">Brigham Young</persName>) and that he will have to be personally responsible for them. His hands are red with innocent blood, his garments dyed with it, and no 'atonement' can ever wash out the damning spots." (Page 199).</p>
+
+<p>Parties here are familiar with the case of three men at <placeName type="settlement" key="Coalville, UT">Coalville</placeName>, who were shot on the trumped up charge that they were attempting to escape; of the arrest of their murderers and their examination before Judge <persName key="Titus, John">Titus</persName>. They were committed for trial but upon arriving at the Penitentiary they were allowed to go free, when they wrote a letter to Judge <persName key="Titus, John">Titus</persName> stating that "they were men of famiies&#8212;that it being harvest time they were needed at home and if they were wanted by his Honor at any time they could be sent for." (See Vidette newspaper.)</p>
+
+<p>I might mention also such cases, notorious here, as the murder of Skeen by Ricks at Cache Valley and his sequittal nonwithstanding the clearest evidence of guilt. Of the young mean who not long ago became communicative about the murder of <persName key="Robinson, King">Robinson</persName> and who was soon reported as having broken a blood vessel at <placeName type="settlement" key="Cottonwood, UT">Cottonwood</placeName>.  It is now suspected that <persName key="Sirrine, Sam">Sam Sirrine</persName> who told a friend of mine that the masks worn at the <persName key="Robinson, King">Robinson</persName> murder were made in his shop has also "broken a blood vessel." He has disappeared. The Morrisite Massacre, where men, women and children were shot down in cold blood, has become so familiar to the world that I need not dwell upon it. A little company have gathered in the bowery for prayer.  Suddenly the voice of supplication is drowned by the roar of a cannon, the projectile from which tears away the lower jaw of a child and the shoulder of a woman. Then the carnage <choice><orig>be- 
+
+<cb n="2" />
+    
+gins</orig><reg>begins</reg></choice> and Col. <persName key="Burton, Robert T.">Burton</persName>, a present member of our legislative council, covers himself with glory by this wanton massacre of the helpless. But I will not describe it at length. It is another of those cases when the brave "Anointed of the Lord" drew "his bowie-knife to conquer or die."</p>
+
+<p>Of all the atrocious murders of which <persName key="Young, Brigham">Brigham Young</persName> and his red-handed clan are guilty that of the Aiken family is one of the most terrible. The account of it recently published in THE TRIBUNE being the confession of a participant in the crime to a correspondent of the <placeName type="settlement" key="San Francisco, CA">San Francisco</placeName> Chronicle, agrees in almost every particular with the accounts given in the books I have already made use of.</p>
+
+<p>The family were attempting to get through <placeName type="state" key="Utah Territory">Utah</placeName> from <placeName type="state" key="California">California</placeName>. Their outift and money were too tempting to the avaricious Prophet; they were seized as spies and turned back to <placeName type="state" key="California">California</placeName> under the "safe" escort of <persName key="Rockwell, Port">Port Rockwell</persName> and two others of like character. While asleep two had their brains religiously knocked out, one was shot, but not fatally, and one escaped wounded. These two last met again after untold hardships and suffering, having dragged their bleeding bodies to <placeName type="settlement" key="Nephi, UT">Nephi</placeName>. They were subsequently shot "until every muscle in the victims' bodies ceased to quiver." One writer says: "of all the cowardly and cold blooded acts which have made the Mormon Priesthood infamous, this wholesale murder of the Aiken family stands pre-eminent; second to that of Mountain Meadows only in extent, it exceeds it in wanton treachery, cruelty and violation of every principle held sacred even by marauding Arabs, wild Indians, by all savages except Mormon fanatics. A cloud of witnesses arise, and every incident is fully proved." (Appendix to Hickman's Confession.) The writer of the above is correct. Neither history or fiction ever presented anything in the line of bloody deed, it seems to me, quite so infernal as the tragedy when the full account is read.</p>
+
+<p>Lest it should be said that I am, in this lecture presenting an exaggerated account, let me here introduce the statements of two or three United States officials concerning events that have come before them.</p>
+
+<pb n="8" xml:id="mmm.anti.lyford.1876.0008"/>
+
+<cb n="1" />
+
+<p><hi rend="center">STATEMENTS OF PUBLIC MEN.</hi></p>
+
+<p>The first is from the charge of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> to the grand Jury at <placeName type="settlement" key="Provo, UT">Provo</placeName>, March, 1859. <seg type="Context" subtype="ParrishMurder">After referring to the murder of the <persName key="Parrish, William R."><persName key="Parrish, William Beason">Parrishes</persName></persName> and <persName key="Potter, Duff">Potter</persName></seg>, and of the Mountain Meadows butchery, he says: "At the same place there was another person killed, <persName key="Fobbs, Henry">Henry Fobbs</persName>. When here he made his home at <persName key="Terry, Partial">Partial Terry</persName>'s where his horse and revolver were stolen. He made his excape, tried to get to <placeName type="settlement" key="Bridger, UT">Bridger</placeName>, was caught, brought back and murdered; and that is the last of <persName key="Fobbs, Henry">Henry Fobbs</persName>. No investigation has been made; his body has been removed several times, so that now perhaps it cannot be found." He follows with a list of other crimes committed at the instigation of the Priesthood. (Des. News, Vol. 9, No. 2.)</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">A few days later, when this same grand jury had failed to investigate these crimes, Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> thus addresses them: "I might call your attention to the fact that when officers seek to arrest persons accused of crimes they are not able to do so; the parties are secreted and screened by the community. Scarcely had the officers arrived in sight of the town of <placeName type="settlement" key="Springville, UT">Springville</placeName> before a trumpet was sounded from the walls before the town. This was, no doubt for the purpose of giving the alarm. The officers leave the town and in a short time a trumpet sounds again from the wall, announcing that the danger is over. Witnesses are screened; others are intimated.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">"An officer of the court goes to <persName key="Springville, IL">Springville</persName>, meets the Bishop of the town, asks him about a certain person for whom he has a writ. He (the Bishop) tells him he has gone to camp Floyd, while the fact is the person is in sight, in the streets. We have here a Bishop lying to prevent criminals being brought to justice. Such conduct goes to show that the community there do not desire to have criminals punished; it shows that the <persName key="Parrish, William Beason"><persName key="Parrish, William R.">Parrishes</persName></persName> and <persName key="Potter, Duff">Potter</persName> were murdered by counsel, that it was done by authority. The testimony goes to show that the persons committing these murders are officers in that community, and that they have been promotoed for committing these hellish crimes. You have had sufficient timie to examine these cases. More than two days ago, you had all the testimony before you in the Parrish case <cb n="2" />and for some cause or other you refuse to do anything." (Des. News. Vol. 9, No.4).</seg></p>
+
+<p>Ah! Judge, the "cause" was that first cuase of nearly all the crime and human wretchedness in <placeName type="state" key="Utah Territory">Utah</placeName>, who sits in the Lion House in the midst of the enslaveed victims and calls hiimself the Prophet of God, and upon whom the great men or our own land so often wait, "to do him homage," as he says.</p>
+
+<p>Judge <persName key="Strickland, O. F.">Stickland</persName>, in the same place thirteen years later, thus addresses another grand jury. After enumerating a dozen bloody deeds occuring in his district he says: "Gentlemen, there is existing in <placeName type="state" key="Utah Territory">this Territory</placeName>, a most peculiar and startling state of affairs, to which I deem it my duty to call your attenion.  My neighbors living in the immediate vicinity of an assassination, have said to me on my asking them if they had hear of a man being killed, 'we know nothing about it; no one gets killed in this county that does not deserve it, and turning away went about their avocations without asking who was killed or why the deed was committed. Gentlemen, the obeying of that peculiar injuction, 'do as you are told and mind your own business,' has furnished many a wild heart with a supper of human flesh. <seg type="Context" subtype="Polygamy">Polygamy is the merest nothing</seg>, compared with the bloody despotism which forced it upon and perpetuates it among the people, a despotism so strong that many persons are afraid to make an examination of, or make inquiries about a mruder committed at their own door." (Tribune, Jan. 12, 1872.)</p>
+
+<p>I also give an extract from the address of Governor <persName key="Weller, John B.">John B. Weller</persName> at the close of the examination of witnesses in the <persName key="Robinson, King">Robinson</persName> murder case:</p>
+
+<p>"There are a number of respectable men in the city, (<placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>) some of whom have families, who dare not go on your streets of a night. Nor are they men who are afraid of shadows. They have shown their courage upon the field of battle in defence of the honor of their country, and would not shrink from meeting any of them single handed in the light of day; but they do not choose to meet an organized band of assassins at midnight. Is it not hard, that here in an American Territory, supposed to be under the protection of the national
+
+<pb n="9" xml:id="mmm.anti.lyford.1876.0009"/>
+
+<cb n="1" />
+
+flag, citizens who have perilled their lives to sustain the supremacy of our laws and the integrity of our Government, are compelled to remain in their houses at night to escape the hands of murderers? Men who have violated no law, trespassed upon the rights of no one but have simply incurred the displeasure of the dominant party? Can this state of things be tolerated on American soil? A government which habitually fails to give protection to its people must soon cease to command their confidence or respect." (Appendix to <persName key="Stenhouse, T. B. H.">Stenhouse</persName>'s Rocky Mountain Saints.)</p>
+
+<p><hi rend="center">PROCLAMATION BY PRESIDENT BUCHANAN.</hi></p>
+
+<p>The following is the first clause of the proclamation of President <persName key="Buchanan, James">Buchanan</persName>, dated April 5th, 1858:</p>
+
+<p><seg type="Context" subtype="UtahWar">"Whereas, the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> was settled by certain emigrants from the States and from foreign countries, who have for several years past manifested a spirit of insubordination to the constitution and laws of the United States.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="TerritorialAdministration">"The great mass of settlers, acting under the influence of leaders to whom they seem to have surrendered their judgement, refuse to be controlled by any other authority. They have been often advised to obedience, and these friendly counsels have been answered with defiance. Officers of the Federal Government have been driven from <placeName type="state" key="Utah Territory">the Territory</placeName> for no offence but an effort to do their sworn duty. Others have been prevented from going there by threats of assassination. Judges have been violently interrupted in the performance of their functions, and the records of the courts have been seized and either destroyed or concealed. Many other acts of unlawful violence have been perpetrated, and the right to repeat them has been openly claimed by the leading inhabitants with at least the silent acquiescence of nearly all the others.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"Their hostility to the lawful government of the country has at length become so violent, that no officer bearing a commission from the Chief Magistrate of the Union can enter <placeName type="state" key="Utah Territory">the Territory</placeName> or remain there with safety; and all the officers recently appointed have been unable to go to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, or any which [unclear] beyond
+
+<cb n="2" /> the immediate power of the army. Indeed such is believed to be the conditions to which a strange system of terrorism has brought the inhabiants of that region that no one among them could express an opinion favorable to this Government, or evern propose to obey its laws, without exposing his life and property to peril."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">These are not the words of partisans, but of officers of the law and Government, who have calmly looked upon the state of affairs in <placeName type="state" key="Utah Territory">Utah</placeName>, and have fearlessly spoken the same.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">They are in perfect keeping with words that we hear from our own citizens every day.</seg></p>
+
+<p>A merchant of this city said to me not long since, "But a few years ago we did not dare, in this city, to utter a word hostile to <persName key="Young, Brigham">Brigham Young</persName>. When our cup of indignation was full, we had to take our guns and go across the Jordan river hunting, or something of that sort, and there, with broad fields around us, so that we could be sure there were no eavesdroppers or priestly spies about, express ourselves, I fear not always in the smoothest language."</p>
+
+<p>You who hear me to-night, know perfectly well that this is true.</p>
+
+<p>The same spirit exists to-day, and indeed is dominant in a large portion of <placeName type="state" key="Utah Territory">this Territory</placeName>, as I shall show before I am through.  I shall close this part of my theme by a brief mention of the</p>
+
+<p><hi rend="center">MOUNTAIN MEADOWS MASSACRE.</hi></p>
+
+<p>I say brief because all the facts have recently been laid before the people. They have been the heroic defense of <seg type="Massacre" subtype="Casualties">these besieged men</seg>; <seg type="Massacre" subtype="Casualties">the shooting of little girls dressed in white who were sent for water</seg>; <seg type="Massacre" subtype="Surrender">the treachery by which they were all decoyed from camp</seg>; the soul sickening scenes of that terrible butchery; <seg type="Massacre" subtype="Spoils">the distribution of the spoils</seg> and <seg type="Massacre" subtype="Survivors">the disappearance of the children</seg>. <seg type="Blame" subtype="LDS_LDS">They have heard how <persName key="Smith, George A.">Geo. A. Smith</persName>, "the second man from God and the first from <persName key="Young, Brigham">Brigham</persName>," visited the towns along the route in advance of the emigrants; how he called together and consulted in secret with the Church authorities and milita, how immediately these same Church authorities and militia went out "under orders," to do their work.</seg> They
+
+<pb n="10" xml:id="mmm.anti.lyford.1876.0010"/>
+    
+<cb n="1" />
+
+have seen <seg type="Blame" subtype="LDS_LDS">the guilty wretches immediately reporting to their master <persName key="Young, Brigham">Brigham</persName>, <seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="Silence">his soul so "harrowed up" that he could not even order an investigation</seg></seg>; his heart so moved with pity for these bloody butchers of <seg type="Massacre" subtype="Casualties">women and children</seg> that he immediately promotes them and continues them in holy offices. They have seen at this day crowds of Mormons gathering to serenade <persName key="Lee, John D.">Lee</persName> in his cell, and we who live in <placeName type="state" key="Utah Territory">Utah</placeName> have heard the expressions of joy on every hand at the failure to convict him. It has remained for <persName key="Codman, John">John Codman</persName>, however, to add to the infamy of butchering <seg type="Massacre" subtype="Casualties">these in-offensive persons</seg>, <seg type="Blame" subtype="EmigrantBehavior">by trying to defame them, and to shield <persName key="Young, Brigham">Brigham Young</persName> by claiming that these people deserved death at the hands of his priesthood, on account of disorderly conduct</seg>. It seems to me that it ought to have been enough that these people were butchered as they were, without trying to slander and traduce them after they have been in their graves eighteen years.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">As for myself, I as much believe <persName key="Young, Brigham">Brigham Young</persName> guilty of that crime as I believe in a God. It is in keeping with his character, with his past record, and the number there slain will not compare with the eggregate number that have elsewhere gone down beneath his power.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">President <persName key="Grant, Ulysses S.">Grant</persName> in his recent message thought it an anomalous state of affairs, and a disgrace to our civilization that polygamy should be allowed to exist in this nation.</seg></p>
+
+<p>We think it a greated marvel and a still greater disgrace that any ecclesiastical or organization should be allowed to have much control over the jury system that crimes like the Mountain Meadows Massacre must go unpunished.</p>
+
+<p><hi rend="center">BLOOD ATONEMENT.</hi></p>
+
+<p>I wish now to show what has been the prevalent teaching of the pulpit among "this people" concerning the right of taking the lives of those who would not submit to their theocratic despotism. I will take you back to <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, and to the early organization of this ecclesiastical body, Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName> says: "Dr. <persName key="Avard, Sampson">Avard</persName> was in full fellowship with <persName key="Smith, Joseph">Joseph</persName>. He was unquestionably believed by the Mormons to be in the confidence of the heads of the Church. He organized the brethren into captains over each company, gave signs and grips by which they should know each other by day or by night, binding themselves by the most sacred oaths to preserve in secrecy their works of darkness." (Rocky Mountain Saints, p. 91). Addressing them at one time, he said: "As the Lord liveth, I would swear a lie to clear any of you; and if this would not do, I would put them or him under the sand, as Moses did the Egyptian, and in this way we would consecrate much unto the Lord and build up his kingdom; and who can stand against us?" (Ibid, p. 92)</p>
+    
+<cb n="2" />
+
+<p>That this has been from the first the priestly idea of building up the kingdom, I believe the historical matter that I have already presented abundantly shows.</p>
+
+<p>But I will pass along to the subsequent sermons of <persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p>The most of you are familiar with that disaffection among the Mormons known as the gathering of the Gladdenites, as a distinct sect.</p>
+
+<p>In the Tabernacle, <persName key="Young, Brigham">Brigham</persName> thus delivered himself concerning them:</p>
+
+<p>"I say again, you Gladdenites, do not court persecution, or you will come quicker than you want it. * * * I know what they have done here, they have asked exorbitant prices for their nasty stinking ribbons. * * * Now, you Gladdenites, keep your tongues still, lest sudden destruction come upon you. * * I say, rather than apostates should floursih here, I will unsheathe my bowie knife and conquer or die. (Great commotion in the congregation, and a simultaneous burst of feeling asssenting to the declaration.) Now, you nasty apostates, clear out, or judgment will be laid to the line and righteousness to the plummet. (Voices generally, "Go it! Go it!") If you say it is right, raise your hands. (All hands up.) Let us call upon the Lord to assist us in this and every good work." (Journ. of Discourses vol. 1, p. 83.)</p>
+
+<p>Brave old hero! A few have chosen another for a leader. They go so far as to sell ribbons at a price that does not commend itself to his avarice; and full of the spirit of the heroes of the world's history, he stands up in a congregation of persons who do not dare to breathe a silent whispher against him, and striking such an attitude as would have brought tears of joy into the eyes of Napoleon, he flourishes aloft his imaginary bowie knife, and cries in thunder tones, "I will conquer or die."</p>
+
+<p>I can present only a few speciments of his utterances upon the subject of blood atonement, or killing men to save their souls. Nor is it necessary that I should detain you by extended selections upon the subject. Let it be remembered that <persName key="Young, Brigham">Brigham</persName> and his priesthood claim to be infallible; that their public instruction, it is said, is given under divine inspiration; that when matters of doctrine in the offical organ of the Church for its acceptance and government, it stands as obligatory and binding in the highest possible degree.</p>
+
+<p>These enunciations, then, may not be weighted in the ordinary balances that human utterances are weighed in. They may not be looked upon as subject to the imperfections that attend the statements of all ordinary mortals; nor can they be regarded as matters that it is optional with the people to recieve. The word of <persName key="Young, Brigham">Brigham</persName> is the word of the Lord with this people. Lest this should be disputed, I present a single
+
+<pb n="11" xml:id="mmm.anti.lyford.1876.0011"/>
+
+<cb n="1" />
+
+extract from a sermon by <persName key="Kimball, Heber C.">Heber C. Kimball</persName>, who was one of the Twelve Apostles:</p>
+
+<p>"To me, the word comes from Brother <persName key="Young, Brigham">Brigham</persName> as the word of the Lord. * * He is the delegate that God has appointed to be <persName key="Smith, Joseph">Joseph</persName>'s successor, and his word is the word of the Lord, whether it is written or not; whether it comes out as revelation or not it is the word of God to those who believe or practice it; and when this is done the blessings of the Lord God will rest upon this people to that degree that you cannot conceive or imagine."&#8212;(Journal of Discourses, vol. 2. p. 159).</p>
+
+<p>So then, from the multitude of declarations upon this subject at hand, I present two or three examples only.</p>
+
+<p>In speaking of those sweet words of Jesus, "Love they neighbor as theyself," he says: "All mankind love themselves; and let those principles be known by an individual and he would be glad to have his blood shed. This would be loving ourselves even unto an eternal exaltations. Will you love your brothers or sisters likewise when they have a sin that cannot be atoned for without the shedding of their blood? Will you love that man or woman well enough to shed their blood?</p>
+
+<p><hi rend="center">THIS IS WHAT JESUS CHRIST MEANT.</hi></p>
+
+<p>* * * * Any of you who understand the principles of eternity, if you have sinned a sin requiring the shedding of blood, except the sin until death, shoudld not be satisfied or rest until your blood should be spilled, that you might gain the salvation you desire.</p>
+
+<p><hi rend="center">THAT IS THE WAY TO LOVE MANKIND.</hi></p>
+
+<p>I have known a great many men who have left this church for whom there is no chance whatever for exaltation, but if their blood had been spilled it would have been better for them." (Jour. Dis., pp. 219, 220.) </p>
+
+<p>* * * "There are sins that can be atoned for by an offering upon an altar, as in ancient days; and there are sins that the blood of a lamb, of a calf, or of turtle doves cannot remit, but they must be stoned for by the blood of the man." (Ibid, vol. 4, p. 54).</p>
+
+<p>"When the time comes that we have need to shed blood then it will be necessary we should do it, and it will be just as innocent as to go and kill an ox when we are hungry, or in time of famine." (Ibid, vol. 6, p. 59). You know perfectly well that this is standard doctrine of the Mormon Priesthood, and that I could here quote it by the hour.</p>
+
+<p>Elder <persName key="Penrose, Charles W.">Penrose</persName>, in a recent article, credited one of the writers in the <hi rend="italic">Rocky Mountain Christian Advocate</hi> with truth in saying that there was "some virtue among the Mormons."  So in the midst of so much abominable falsehood, I will give <persName key="Young, Brigham">Brigham</persName> credit for stating two facts. The first is:</p>
+
+<p>"I live above the law, and so do this people. (Ibid, vol. 1, p. 361). The other is:</p>
+
+<cb n="2" />
+    
+<p>"I could refer you to plenty of instances, where men have been righteously (?) slain in order to atone for their sins." (Ibid vol. 4, p. 230).</p>
+
+<p>A few of these "many instances" I have tried to lay before you.</p>
+
+<p>A correspondent of the New York <hi rend="italic">Evening Post</hi> had an interview with <persName key="Young, Brigham">Brigham</persName> soon after the <persName key="Robinson, King">Robinson</persName> murder, who said: "All these United States officials are a set of prejudiced scoundrels, and he didn't want any more of their decisions; they'd better be careful or they'll have to get out of this place.  Yes, I'll put them out myself&#8212;send them home by a short cut." (<hi rend="italic">Vidette, Jan:</hi> 12, 1868.) At the October Conference a few years since, <persName key="Young, Brigham">Brigham</persName> said in the presence of many now in this house, in assigning his reasons for declining to be re-elected trustee-in-trust: "I have also another reason, a private one, but I guess I'll give it you.  Lawyers are getting pretty thick here. They are getting to very troublesome with their lawsuits. It was just so at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>. They worried the life out of the Prophet <persName key="Smith, Joseph">Joseph</persName>, and finally secured his murder. They tried it on me there; but I told them if they didn't quit I'd sent them to hell cross lots, and they quit. And now they are at the same thing here. I have no wish to be troubled in this kind of way. I have no wish to go through the same thing here again. I will submit myself to the courts, but if they try that thing on me here, I give them fair warning now. If any of these so-called officers of the law try to arrest me and bring me before the damned, cussed bounds of the law the Government has sent out here to lord it over us, I'll send them to hell cross lots, so help me God."</p>
+
+<p>The same spirit prevails to-day in <placeName type="state" key="Utah Territory">Utah</placeName>, although the practice may be somewhat restrained.</p>
+
+<p><hi rend="center">THE SAME SPIRIT TO-DAY.</hi></p>
+
+<p>I referred to the public serenade of <persName key="Lee, John D.">Lee</persName> and the rejoicing at the failure to convict him. An attempt to assassinate Deputy Marshal <persName key="Stokes, William">Stokes</persName> by shooting at him was also made shortly after the trial; and another marshal in making arrests in this case, finds a whole community in arms against him. Let me quote the following from THE SALT LAKE TRIBUNE:</p>
+
+<p>"Twenty-seven hundred dollars was the amount a Saint and assassin offered the boys at El Dorado Canyon and Fort Mohave, last winter, for reliable proof of <persName key="Klingensmith, Philip">Klingensmith</persName>'s <hi rend="italic">"accidental</hi> death. He stated that the said amount was a purse raised by the workman on the Lord's Holy Temple, at <placeName type="settlement" key="St. George, UT">St. George</placeName>, for procuring such information. Poor <persName key="Klingensmith, Philip">Klingensmith</persName> wasn't exactly right in the upper story, and was liable to get good men into trouble! Why didn't the good man, otherwise known as leader of the 'Latter-day Saints," offer enough to insure 'the accidental breaking of a blood vessel while jumping,' as was done once before, and
+
+<pb n="12" xml:id="mmm.anti.lyford.1876.0012"/>
+ 
+<cb n="1" />
+
+thus save the trouble and expense of these idiotic affidavits."</p>
+
+<p>All of which is well authenticated. I will also refer you to the gathering of the Indians, under Mormon Leadership, last fall, in immense numbers, around the Gentile town of <placeName type="settlement" key="Corinne, UT">Corinne</placeName> and elsewhere.</p>
+
+<p>Our new Executive, Gov. <persName key="Emery, George W.">Emery</persName>, and the army officers of the United States, however, could not be hoodwinked, and by the prompt interference of the army forces, another of those historical "Indian outrages" was doubtless prevented.</p>
+
+<p>No more will <persName key="Young, Brigham">Brigham Young</persName> ever be able to hoodwink the non-Mormon public with reference to those events.</p>
+
+<p><hi rend="center">PERSONAL EXPERIENCE.</hi></p>
+
+<p>I will now present certain incidents from my own experience in <placeName type="state" key="Utah Territory">Utah</placeName>. If you have not already been convinced that it well becomes an avowed enemy of the Mormon priesthood to carry a revolver into the pulpit or anywhere else in <placeName type="state" key="Utah Territory">this Territory</placeName>, these circumstances will convince you; and in the light of them you can judge of the pretended horror of the Mormon press at such a course. I will say for myself, however, that I have ever felt that assassination, blood atonement and mob violence had gone about as far in <placeName type="state" key="Utah Territory">this Territory</placeName> as even that much abused passage about turning "The other cheek" called for; that there was a point beyond which Christianity did not require that even Methodist preachers should submit to have their own throats out or their families mobbed. And inasmuch as there is such poor protection in the law and in the courts here, I have felt justified in doing the best I could to protect myself.</p>
+
+<p>In the summer of 1872 I commenced my labors in <placeName type="settlement" key="Provo, UT">Provo</placeName>. I was at first kindly received, and I wish here to say that I have ever been treated kindly, save by the Mormon priesthood and such of their followers as they could use as tools.</p>
+
+<p>After I had been there a little time, that good and nobel man, Capt. <persName key="Cunningham, Andrew">Cunningham</persName>, died. I esteemed him very highly, and you can imagine my indignation when I heard his dying agonies and the lamentations of his betrayed widow mocked and howled around the streets. I did not fail to reprove this conduct and openly comment upon it as my feelings dictated. <seg type="Context" subtype="Polygamy">Soon after <persName key="Pratt, Orson">Orson Pratt</persName> came to <placeName type="settlement" key="Provo, UT">Provo</placeName> and delivered one of his characteristic sermons, roundly abusing all Gentiles and declaring that unless men entered into polygamy they must be damned.</seg></p>
+
+<p>I reviewed that sermon, and my remarks were publised in this city. Then a most bitter spirit of hostility manifested itself. My life was threatened, and I was informed by some of the most reliable persons in that town that plots to tar and feather me had been laid.  On one occassion a friend of mine, who had overheard one of these plots, gathered his friends, and with their pistols, went to the
+
+<cb n="2" /> place where I was holding service to protect me. A Mormon told me that Bishop <persName key="Smoot, Abraham O.">Smoot</persName> had said, in his presence, that if I 'wished so remain in <placeName type="settlement" key="Provo, UT">Provo</placeName>, I <hi rend="italic">must go slow.</hi>" I proposed to go fast or slow, as I pleased, without consulting <persName key="Smoot, Abraham O.">Smoot</persName>. The following summer I again went East and delivered lectures on the State of affairs in <placeName type="state" key="Utah Territory">Utah</placeName>. In one of them in <placeName type="settlement" key="Boston, MA">Boston</placeName>, I used the expression referred to in the beginning of this lecture. I soon heard the howl of the <hi rend="italic">News, Herald</hi>, etc. Speeches that I had never thought of making were published at length for the purpose of stirring up bitterness and hatred towards me. My life was again threatened, and I received many letters of warning from <placeName type="state" key="Utah Territory">Utah</placeName>. The little <placeName type="settlement" key="Provo, UT">Provo</placeName> <hi rend="italic">Times</hi> was doing its best to incite the people to violence; the following appeared in its columns:</p>
+
+<p>"That <persName key="Lyford, C. P.">Lyford</persName>, who slashes around the country with a Rev. attached to his patronymic like the curl of a hog's tail, has been trying, and to some purpose, to raise the wind by slandering his betters and abusing a people whose principal fan t [sic.], as far as his presence here is concerned, is that they have treated him only too well; for all of which the Rev. Bilk, when he returns to <placeName type="settlement" key="Provo, UT">Provo</placeName>, deserves escorting out of town mounted on that triangular wooden steed usually employed in the building of a fence."</p>
+
+<p>I published their article in the East, sent them word that I had consecrated my talent to shout to God, and then came back to my work. During my three years' stay in <placeName type="settlement" key="Provo, UT">Provo</placeName> I preached my sermons only, in which I assailed Mormonism as a system of irreligion and oppression. During the delivery of the last of these five, persons were heard to mutter in the church that they "would like to send three or four balls through me." Another on the streets offered to be one of a party to go and cut my throat, and many were the threats of tar and feathers. My friends, some of them, during my last week in <placeName type="settlement" key="Provo, UT">Provo</placeName>, slept every night in my house with arms, for my protections, and that house stood near the spot where Poor Brown was assassinated but a little time previous to my going there, and whose guilty murderers are still at large! On all these occassions I did what I deemed was simply prudent. I went shod with what seemed to me a proper preparation of the gospel of peace, under the circumstances. I carried a revolver in the pulpit and out of it, and would do so again. I make neither apology or defence, and what I now say, I say to show the world that the spirit of outlawry that begins at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> and has made every page of Mormon history red with blood, is rife in <placeName type="state" key="Utah Territory">Utah</placeName> to-day.</p>
+
+<p>I do not like to use a slang phrase here, but I beg leave to inform the <hi rend="italic">News</hi>, the <hi rend="italic">Herald</hi> and the <placeName type="settlement" key="Odgen, UT">Odgen</placeName> <hi rend="italic">Junction</hi>, together with <persName key="Young, Brigham">Brigham Young</persName> their <choice><orig>mat-
+
+<pb n="13" xml:id="mmm.anti.lyford.1876.0013"/>
+
+<cb n="1" />
+
+ter</orig><reg>matter</reg></choice>, that turning the other cheek to a red-handed gang of outlaws is "played out" in <placeName type="state" key="Utah Territory">this Territory</placeName>.</p>
+
+<p>I say "outlaws." A more murderous, villanous set of outlaws never breathed vital air than <persName key="Young, Brigham">Brigham Young</persName> and some of the men who are associated with him in the rule of the Mormon Church; and I appeal to the record I have presented in support of what I say.</p>
+
+<p>I have confined myself entirely to the record of murder. I have not had time to speak of the heartless oppression of the poor, the robery of helpless families, <seg type="Context" subtype="Polygamy">the coercions of hundreds into polygamy</seg> and the consequent wretchedness of so many homes. While I was writing this lecture I was interrupted by a lady who came to me for help and whom I knew to be as reliable as any person living. With tears streaming down her cheeks, she said: "My husband came here with $75,000 in gold. <persName key="Young, Brigham">Brigham Young</persName> has got it all. He has got my home. I can show his own receipts for $12,000 tithing, I had some mining property, they are getting that all away from me. I was reared in the lap of luxury, but I am working to-day in a kitchen and my children cry for bread!"</p>
+
+<p>Some day I will give her story to the world, but in this lecture I have avoided all such cases. I have scarcely referred to the time of the so-called "reformation" of which I might have made so much, preferring rather to show that this practice of crime extended over every period of this preistly domination.</p>
+
+<p>I have quoted entirely from well authenticated history. I have given you the utterances of public officers. I have taken words enough from <persName key="Young, Brigham">Brigham</persName>'s own mouth to condemn a million men in any country but this. And yet I have presented but a little from the data I had at hand. From books containing many chapters I have taken only a few cases. But these books do not contian all the terrible testimony. Occasionally a victim is found&#8212;like the unknown man on the bench towards Camp Douglas, or a skeleton exhumed as in <persName key="Young, Brigham">Brigham</persName>'s yard. Said an old apostate to me one day: "You may read all the books and papers in creation and then if these canyons and sage brush fields could speak they would tell of such deeds of blood as the world never dreamed or heard of before." Alas! It is too true.</p>
+
+<p>And yet one nation delays. <seg type="Context" subtype="Polygamy">We annually get a little talk from the President about polygamy. Occassionally a bill gets before congress, that provides for the supremacy of law and goverment here, and some contempable Sargent is found to hack it to pieces with his little hatches. <persName key="Young, Brigham">Brigham</persName> parades himself before the world and boasts that he can buy the whole Government. If the law once gets hold of him some attorney general is found hurrying forward backed with the public rumor that he is a <cb n="2" />polygamist, and that, even though this fact be not shown in the trial, is made the basis of extending to him protection. A jury finds one man, only one, guilty of polygamy, and he is turned loose on bail, and through "forgetfullness," on the part of the Judge who tried the case, it runs on from term to terms.</seg></p>
+
+<p>Out upon all this. If the American people have any power left in America, let this system of crime, oppression and fraud be brought under subjection to law and government, and let it be possible for us to hold up our heads here in <placeName type="state" key="Utah Territory">Utah</placeName> when travelers from foreign lands remind us that we are American citizens.</p>
+
+</div1>
+<div1>
+
+<!-- Rest of Section Not Relevant
+
+<milestone unit="section" rend="horbar"/>
+
+<head>THE PRIESTHOOD ARRAIGNED.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="center">From the Salt Lake Daily Tribune of Jan 25th, 1876.</hi></p>
+
+<p>We find space to-day for Rev. Mr. <persName key="Lyford, C. P.">Lyford</persName>'s lecture delivered in the First M. E. Church on Sunday evening. It is, perhaps, the most severe arraignment of the Mormon preisthood that ever was made in a public discourse. His facts are gathered from authorities whose credibility is not to be doubted, and many of the assassinations he so hurriedly recapitulates are still matter of notoriety in the localitites where the bloody deeds were perpetrated. His incentive to this labr, as the preacher explains in his lecture, is the vituperation that has been poured upon his head by the Mormon priesthood and their slavish journals during his three years' ministration in <placeName type="state" key="Utah Territory">Utah</placeName>, and to rebut the charge, so constantly repeated that he was wantonly stirred up strife in a community exceptional for its peaceful, law-abiding habits.</p>
+
+<p>The Mormon scribes and their jack-Mormon aiders and abettors, of whom John Codman is a shining example, have a great fondness for resorting to figures to show that dees of violence are less frequent in the Latter-day community, than in other pioneer population of equal number. Such a statement is
+
+<pb n="14" xml:id="mmm.anti.lyford.1876.0014"/>
+    
+<cb n="1" />
+
+glaringly untrue, as comparative figures will show. It is estimated that no less than six hundred murders have been committed by the Mormons, in nearly every case at the instigations of their priestly leaders, during their occupation of this Territory. Giving a mean average of fifty thousand persons professing that fiath resident in <placeName type="state" key="Utah Territory">Utah</placeName>, we have a murder committed every year to every twenty-five hundred of population. The same raion of crime extended to the population of the United States would give sixteen thousand murders every year, and to the British Isles, 12,800 murders annually. The record of crime in these two countries show a minute fraction of this ratio.</p>
+
+<p>But these figures do not show the full enormity of the case. In every country a certain proportion of ignorance exists which takes revenge upon society in an outgrowth of violence and crime. But the efforts of the governmetn in all these countries are directed to dispell this ignorance by the diffusion of education, and repress crime by punishing criminals. But in <placeName type="state" key="Utah Territory">Utah</placeName> the shedding of blood is urged upon an ignorant, fanatical people by teachers, who claim infallibility, as a religious duty. Federal Judges and other officers of the law, who have honestly and fearlessly set about hte task of bringing known criminals to justice, have been paralyzed with the discovery that the wold community were in sympathy with these offenders, and that no amount of evidence produced would induce juries to indict or convict. Such was Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>t's experience when he held court in <placeName type="settlement" key="Provo, UT">Provo</placeName>, as the preacher shows in his narrative. And such was Judge <persName key="McKean, Jame B.">McKean</persName>'s experience when Mr. Baskin, acting as prosecuting attorney, procured indictments for murder against <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Wells, Daniel H.">Daniel H. Wells</persName> and other chief priests and rulers. Day after day the court house was thronged with armed and fanatical <choice><orig>ruf- <cb n="2" />fians</orig><reg>ruffians</reg></choice>, whose object was by threats and intimidation to deter the court from the proceeding with its duty. And at Beaver during the trial of <persName key="Lee, John D.">John D. Lee</persName>, the sympathy of the populance was openly with the prisoner. A swarm of glowering faces was present in the court-room during the trial, threats were made upon the strret of violence to the United States Marshal and the chief witnesses for the prosecution, and the city of Beaver band serenaded the red-handed assassin in his cell.</p>
+
+<p>Under such influences, the tendency to violence is constantly on the increase, and with the crazy notion dimned into the ears of an uninquiring community at every relgious gathering, that the whole unregenerate human race is doomed to speedy destruction, in order that God's chosen people may attain to universal dominion, it is easy to understand how a fanatical sect can be readily taught to believe that the "using up" of a few hundred obnoxious individuals is only aiding the Lord in this word, and that murder and spoliation are the most acceptable offerings that cna be made to an offended Deity.</p>
+
+<p>The object of the preacher, as he makes known in his lecture, is not so much to brign the attention of hi audience to the long catalogue of crime which reddens the annals of <placeName type="state" key="Utah Territory">Utah</placeName>, as to arouse the attention of the American people to the flagitious character of the Mormon preisthood, and the dangerous and blood-thirsty nature of the doctrines they inculcate. Outside of <placeName type="state" key="Utah Territory">Utah</placeName> it is popularly supposed that the filthy practice of polygamy is our only social bane. Whereas the truth is, that serious and debasing as are the effects of this twin relic of barbarism, this is the least of our evils. So foul a crime could never be tolerated by any people possessed of a healthy and correct sentiment, but as this is only a symptom of the religio-moral disease which effects "this <choice><orig>peo-
+
+<pb n="15" xml:id="mmm.anti.lyford.1876.0015"/>
+
+<cb n="1" />
+    
+ple</orig><reg>people</reg></choice>," that would die with the restoration of health to the body politic.</p>
+
+<p>What is required of the American people is first to disabuse themselves of the belief, so insiduously inculcated by the few and feeble Mormon prints and the lying tramps sent to propagand among the heathen, that the non-Mormons in <placeName type="state" key="Utah Territory">Utah</placeName> are a set of greedy adventurers whose sole object is raising a clamor against God's chosen people is to bring persecution upon their victims' heads, in order that they may sieze upon their fertile farms and eaceful homes. When we rebut this lie by asserting that in Salt Lake&#8212;which is <placeName type="state" key="Utah Territory">Utah</placeName>, the same as Paris is France&#8212;there is a high order of culture among the Gentile element, that they are liberal in the support of Churches, schools and useful literature, we assert a turth which will be corroborated by thousands of travelers who have looked in upon Zion and have not been caught by the blandishments of <persName key="Young, Brigham">Brigham</persName>'s intrusive courtiers. The vast mineral wealth of <placeName type="state" key="Utah Territory">Utah</placeName> has brought hither capital and enterprise from the States and from Europe; and it is safe to say that if they best farm in <placeName type="state" key="Utah Territory">Utah</placeName> were offered to any one of this class, with the ceaseless labor of irrigation and the <choice><orig>ab- <cb n="2" />sence</orig><reg>absence</reg></choice> of the railroads, on condition of his living upon it, not one could be found to accept the gift. All that we ask of Congress is an election lawy that will secure a free expression of the popular will at the polls; and all we ask of the Administration is to sustainn fearles sand incorruptible Judges and other officials in the honest performance of their duty. Or if marplot hands must be  laid upon the execution of the laws in <placeName type="state" key="Utah Territory">Utah</placeName>, and judicial causes decided in our courts must be appealed to the Cabinet, that the President will send us men free from the taint of corruption, and who have the will to do right without regard to the political air that reaches them from Washington. To solve this vexed <placeName type="state" key="Utah Territory">Utah</placeName> question, we only ask a free ballot, and amended jury law, and administrative support of men who honestly perform their duties. If Judge <persName key="McKean, James B.">McKean</persName> had been retained on the bench, the corrupt and law-breaking Mormon priesthood would ere now have been curbed in their soul-enslaving exercies of power; but this bumilation at the most critical moment has encourage them in their lawlessness, and plunged the loyal element of <placeName type="state" key="Utah Territory">Utah</placeName> into hopeless confusion.</p>
+
+-->
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.henry.1902">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">By Order of the Prophet: A Tale of Utah</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Alfred</forename> <forename type="middle">Hylas</forename> <surname>Henry</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.henry.1902</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">By Order of the Prophet: A Tale of Utah</title>
+                    <author><forename>Alfred</forename> <forename type="middle">Hylas</forename> <surname>Henry</surname></author>
+                    <publisher>Fleming H. Revell Co.</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>390</extent>
+                    <date when="1902">1902</date>
+                    <note type="source">Alfred Hylas Henry. <hi rend="italic">By Order of the Prophet; A Tale of Utah</hi> Chicago, IL: Fleming H. Revell Co., 1902. 390.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+<change when="2012-02-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2010-12-06"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<pb n="390" xml:id="mmm.fiction.henry.1902.413"/>
+
+<p>In the meanwhile, events of world-wide interest were happening in other portions of <placeName type="state" key="Utah Territory">the territory</placeName>. The fiendish crime <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> was perpetrated <seg type="Massacre" subtype="Dates">in September</seg>, whereby <seg type="Massacre" subtype="Casualties">one hundred and twenty unarmed, unresisting, innocent and inoffensive men, women and children</seg> were butchered in cold blood <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">by Indians and white men, instigated and led by members of the Mormon priesthood.</seg></seg></p>
+
+</body>
+</text>
+</TEI>

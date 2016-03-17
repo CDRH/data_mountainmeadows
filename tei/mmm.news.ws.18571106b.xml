@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.ws.18571106b">
+    <teiHeader>
+	<fileDesc>
+	   <titleStmt>
+		<title level="m" type="main">Untitled [The news brought from the East by the <hi rend="italic">John L. 	Stephens</hi>&#8230;]</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.ws.18571106</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="a">Untitled [The news brought from the East by the <hi rend="italic">John L. Stephens</hi>&#8230;]</title>
+		<title level="j">Western Standard</title>
+		<author>Editors, Western Standard</author>
+		<publisher>Western Standard</publisher>
+		<pubPlace>San Francisco, CA</pubPlace>
+		<date when="1857-11-06">1857-11-06</date>
+	    </bibl>
+	</sourceDesc>
+
+   </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+     <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>LDS</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-08"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2007-05-10"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+<pb n="unknown" xml:id="mmm.news.ws.18571106b.001"/>
+
+<p><seg type="Context" subtype="UtahWar">THE news brought from the East by the <hi rend="italic"><persName key="Stephens, John L.">John L. Stephens</persName></hi> relative to the <q>Mormon question,</q> is of a nature somewhat similar to that which has been going the rounds of the Press for two months past. There is nothing particularly new or starling. A letter from <placeName type="military_post" key="Fort Kearney">Fort Kearney</placeName>, under date of Sept. 5th, states that two companies of troops arrived there on that day en route to <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, and that the 5th and 10th regiments had reached <placeName type="military_post" key="Fort Laramie">Fort Laramie</placeName>; where we hope they will stay. We hear nothing about <persName key="Harney, George">Gen. Harney</persName> or the new Governor. By the last mail it as reported that they were to leave <placeName type="military_post" key="Leavenworth, KS">Leavenworth</placeName> at a certain time; but we can learn nothing by this mail of their departure.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Returning Californians informed the writer of the letter alluded to above, that the <q>Mormons</q> were making preparations for a fight, and did not conceal their movements. The report also is that they are fortifying <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, and are, determined to make a stand there. Editors and letter writers find it difficult to believe, however, that <persName key="Young, Brigham">Governor Young</persName>, is so "insane"&#8211;so they term it&#8211;as to make an armed resistance to the U.S. troops when they shall arrive in the Territory of Utah. They can not persuade themselves that he would take steps which would bring down upon him the "strong arm of the Federal Government." </seg>While they unjustly and unsparingly condemn the honest utterance of their sentiments by the people of Deseret, relative to the maintaining of their rights and the defending, of themselves against the aggressions of those who seek to deprive them of their political and religious liberties, they pretend to think that all this is no more than idle bravado. The <orgName type="newspaper" key="San Francisco Chronicle">Chronicle</orgName> of this city in an editorial last week, speaks the mind of many on this subject, only the editor candidly owns&#8211;an acknowledgement so truthful and unpalatable that very few ever make it, and one that we are surprised he should publish&#8211;that inhuman atrocities have been perpetrated upon us in days past. He says:</p>
+
+<p><q><seg type="Context" subtype="LDSPersecution">We have heard Mormon bluster before. When the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Church</orgName> was expelled from Missouri, where even to this day it is believed by them that the stakes of Zion have been set, weak in numbers though it was, the inhuman atrocities perpetrated by the border people should certainly have aroused a spirit of resistance, and prompted the defense of wives and children, had a defensive attitude been advisable. So also when the leader and prophet <persName key="Smith, Joseph">Smith</persName> was killed at Carthage, Illinois, his death it was predicted would create civil war; but they went not to battle, and have ever since been growing stronger for it. When they broke up their establishment at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, and turned their faces toward the wilderness, instead of evincing a vindictive and hostile feeling toward the U.S. Government, they responded to its call for volunteers, and enrolled a large number of their young men in a battalion for service in this country during the Mexican war. Thus it will be seen their policy has been from the beginning, non-resistance.</seg></q></p>
+
+<p>And he thinks that we will still pursue the non-resistance policy, as we have heretofore done from the beginning. This is without doubt the opinion of many other editors and writers, and, perhaps also, the opinions of the Administration. <seg type="Context" subtype="LDSPersecution">We have suffered oppression and wrong&#8211;numberless inhuman atrocities have been perpetrated upon us, which should have aroused a spirit of resistance, if such a spirit could be stirred up under any circumstances; but we submitted, and did not suffer a vindictive or retaliatory policy to actuate us, and, therefore, they think that we will still permit such a course to be unresistingly pursued toward us. The fact is, those who have been loudest in their denunciations of the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName>, and who have sought most diligently to blacken their character and to charge them with the commission of deeds of the most aggressive and vindictive nature, know full well that the Mormons, even when goaded to the utmost extent of human endurance, by the oppressive acts of their enemies, never suffered feelings of revenge to urge them to overstep the laws and Constitution.</seg> And they will not do so in this instance, the reports of letter writers, editors, etc., to the contrary notwithstanding.</p>
+
+<p><seg type="Context" subtype="UtahWar">What preparations have been made by the people of Deseret to defend themselves, or whether any have been made, we know not. But men deceive themselves when they think that their expressed determinations are but idle bravado, and that they will continue to suffer as they have heretofore done from the beginning, without making any effort to save themselves.</seg> The course that the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> have taken for the past twenty-seven years, when rightly and unprejudicedly viewed, has been such as to satisfy the most zealous advocates of the doctrine of non-resistance; we also know that it has been such as to satisfy the Lord. If it were not so, we would still continue to submit to every indignity and wrong until He should say that it was enough. In resenting these indignities, however, and in taking steps to prevent their further infliction, it will be found that the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> will tenaciously adhere to the Constitution, and will ask for nothing more than the rights guaranteed to them by its provisions. But the time has come when they feel determined to have these, even if they have to contend for them; not by being the aggressors and commencing the attack upon those who may be sent to carry out the wishes of the corrupt administrators of the Constitution and laws, but by acting on the defensive, and solemnly demanding their rights as American citizens and protesting against any infringement thereof under any circumstances.</p>
+
+<p><seg type="Context" subtype="LDSPersecution">Isolated though the people of Deseret have been, and shut out for a greater part of the year from the outside world, yet they have known the plans which have been concocted in secret chambers for their destruction, and they have made their preparations to anticipate them. They have been aware for some time that schemes have been suggested and put into operation for their destruction. Scarcely was <persName key="Buchanan, James">James Buchanan</persName> seated in the Presidential chair than the policy to be pursued towards the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> and the settlement of that vexed question, was decided upon. We heard an inkling of it some time ago in this country, and it came from authentic sources&#8211;from those who were no doubt acquainted with the whole plot; but we could scarcely credit it. Subsequent events, however, and the open avowals and acknowledgements of those who had every opportunity of knowing what the policy really was, and the undisguised delight they manifested at the anticipated success of the undertaking, have fully revealed and confirmed it. The plan was, to put an end to the Mormon question for ever by introducing division and strife in the midst of the people&#8211;by seducing them from their religion&#8211;by depriving the authorities of the church of their power, and, if the slightest pretext could be found, of their lives&#8211;<seg type="Context" subtype="Polygamy">by prohibiting polygamy, and by the introduction in its stead of the gentile practices of adultery and whoredom;</seg> if these things would not break up and annihilate the system, then the utter extermination of the people, it was thought, would do it. That this was the plan decided upon, there is no longer any room to doubt. If it could be carried out, thought its originators, it would be completely successful in solving the Mormon problem.</seg> But, unfortunately for its success, the people of Deseret were in possession of a means of knowing secrets on which their enemies did not calculate. They had prophets in their midst, and were, therefore, not prepared for what was coming.</p>
+
+<p>They may well feel that the time for action has arrived, and that they must make every preparation in their power to avert the contemplated catastrophe. To supinely await the blow, which is to rob them of their rights and privileges and enslave or destroy them, and not make an effort to ward it off, when they know it is coming and are aware of the consequences, would be in the highest degree reprehensible. The choice which is offered is, renunciation of the principles which they have obeyed, knowing them to be heaven's truths, and for the love of which they have already suffered so much, or extermination. The attempt has not been made of late by those who are posted up, to disguise the fact that this is what is intended for the people of Deseret. <seg type="Context" subtype="UtahWar"><seg type="Context" subtype="TerritorialAdministration">The <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> are compelled, however unwillingly, to believe it themselves, not only because it is the policy almost universally expressed as being that of the Administration, but because they are aware that the sending of troops to Deseret under the pretext of supporting the Federal officers, is but a miserable subterfuge to cover up iniquitous and deadly designs.They know that the Administration has been furnished with and is in possession of an abundance of incontestable evidence in proof of the loyalty and perfect willingness of the people of Deseret to conform to every constitutional requirement.</seg>  It can not be, then, to enforce constitutional requirements that they are sent there; for if that were the object for which the expedition had been planned, when the Administration was put in possession of evidence showing that the troops were not needed in Deseret for any such purpose, it would have been stopped and the expenditure of a large amount of treasure saved.</seg></p>
+
+<p>Viewing the present movements by the lights before them, and accepting the statements of those who profess to know, and who certainly ought to know all about what is intended to be done towards the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName>, who can blame the people of Deseret for feeling and acting as they do? <seg type="Context" subtype="UtahWar">If they were to garrison <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, and fortify every mountain pass between that place and the mouth of Emigration canon, they would do no more than ought to be expected under the circumstances. They have been unequivocally assured that the determination is to deprive them of their dearest rights and to compel them to submit to this deprivation, or destroy them. If they should submit, this would be the fate they might expect; if they were to defend themselves the knowledge that they had right on their side and that they were contending for their liberties, their families and homes, would nerve their arms and insure them with superhuman courage. Victory would eventually perch on their banners.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

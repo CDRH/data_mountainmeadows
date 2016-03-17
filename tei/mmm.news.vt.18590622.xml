@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590622">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Judge Strong on Hanging</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	 	<idno>mmm.news.vt.19590622</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Valley Tan</title>
+		<title level="a" type="main">The Judge Strong on Hanging</title>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1859-06-22">June 22, 1859</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-05"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.vt.18590622.001"/>
+
+<head>The Judge Strong on Hanging.</head>
+
+<p>The affidavit of <persName key="Miner, Aurelius">Aurelius Miner</persName>, counselor at law, sworn to before Justice <persName key="Smith, Elias">Smith</persName>, April 4, 1859, attests that <seg type="Source" subtype="Cradlebaugh">he heard Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, in a public sitting room at <placeName type="settlement" key="Provo, UT">Provo</placeName>, say <seg type="Blame" subtype="IndiansLDSInfluence"><q>"that he would hang <persName key="Kanosh">Kanosh</persName> if he could, without judge or jury, and that he would hang him whether he was guilty as one of the perpetrators of the Mountain Meadow massacre or not."</q></seg>  <seg type="Blame" subtype="LDS_LDS">And in speaking of the Mormons accused of participating in the same affair, he further said, <q>"if he could get one of them convicted he would hang him so quickly that he could not possibly have time to procure a pardon from <persName key="Cumming, Aflred">the Governor</persName>, unless the pardon was made out in advance."</q></seg></seg></p>
+
+<milestone unit="horbar" />
+
+<p><seg type="Context" subtype="WesternViolence">The catalogue of crime in <placeName type="state" key="Utah Territory">Utah</placeName> is still on the increase.</seg>  <seg type="Blame" subtype="LDS_LDS">The confession of <persName key="Durfee, Jabez">Durfee</persName>, one of the prisoners secured under Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>'s efficient exertions, discloses new features and participators, lifting the veil from off the <q>"holy of holies"</q> till we see blood upon the would be pure&#8212;the fountain that would send forth pure waters of itself impure; the Trinity of Zion conceiving doctrine, <q>"strong doctrine,"</q> and issuing orders that when carried out produce death. Verify, of such is not, cannot be the kingdom of God, but rather that of the devil.</seg></p>
+
+<p>Last week a youth, tired and ravel worn, trembling with fear and hoping for favor, entered the lines of the camp and sought the proper officers and prayed protection, stating that he had fled from <geogName type="valley" key="Tooele Valley">Tooele valley</geogName>, whither he had been restrained for months past under threats of death if he left or revealed the murderers of his father or brother, to him so well and sadly known.  Encouraged by the decided stand of the United States Judges for right, and their late efforts to bring criminals to justice, he made good his escape, and arrived in <orgName type="military" key="Camp Floyd">Camp Floyd</orgName> to tell his painful tale and seek redress.  <seg type="Massacre" subtype="Aftermath">A posse was dispatched to find the  remains of his relatives and their slayers, and in corroboration of his story they found the bones of father and brother were he directed, and secured the murderers or a portion of them.</seg>  <seg type="Blame" subtype="LDS_LDSZealots">Thus each week, yea almost each day, brings to light some new and damnable feature of this despotic fanaticism.</seg>  We might cite other instances, which we have from those who know them, but dare not at present, lest the ends of just exposition (for we despair of just punishment) be frustrated.  <seg type="Context" subtype="LDSPersecution">Parties who have suffered and have sorrowed under this yoke are flocking to the military and judicial authorities to disclose their wrongs and seek protection and redress.  Yet the church organ pretends ignorance of these outrages, proclaims peace and prosperity, loyalty and good will men, questions <cb n="2" />the actions of the officials, casts <sic>invendoes</sic> upon the Gentile sojourners, accuses correspondents of falsehood and misrepresentation, and, as is meet for such a tool and instrument, accuses the testimony in the late investigations of subornation, the disclosures of being batched up by unjust Judges and by <q>"contractors"</q> for the purpose of speculation and the detention of the army here, to the annoyance of quiet, peaceable and loyal citizens, and issues its stereotyped cry of <q>"religious persecution." </q></seg> But we suppose the editor imbibes the <q>"strong doctrine"</q> in such large draughts, that he considers the bloody, murderous, soul-thrilling facts which stare the whole church and <placeName type="state" key="Utah Territory">Territory</placeName>, and must look the whole nation and the world in the face, as mere sacrifices to appease an offended deity.  If such a palliative, such barbarous superstition, consoles his hardened heart and heated imagination, with those of his compeers, in crime and fanaticism, are of the law? to defeat the ends and arms of justice? to screen a horde of murderer under the plea of <q>"religious tolerance,"</q> and thus prostitute that sacred instrument, the constitution?  Or should it suffice to gull our administration and rulers, to lull a christian nation into fatal repose?  God forbid!</p>
+
+<p>A few days since a deserter from the United States army, who has been at work for <persName key="Young, Brigham">Brigham Young</persName> for some ten months past, whilst <q>"on a drunk"</q> became penitent, went to the United States marshal and confessed his crime, was put under guard, and returned to this army.  This is but one of the hundreds of instances of Mormon aid and succor to deserters. They deem it a special privilege to help the deserter on his way, as it weakens the force of the army in their <unclear />.</p>
+
+<milestone unit="horbar" />
+<div2>
+
+<p>[Correspondence of the <orgName type="newspaper" key="Missouri Republican">Missouri Republican</orgName>.]
+WASHINGTON, May 24.</p>
+
+<p>There was an extraordinary session of the Cabinet to-day, called to consult on business connected with the State Department.  It is understood that they passed upon the form of dispatches to our Ministers abroad, to the Courts to which they are respectively accredited, setting forth the neutral position of our Government in view of the pending hostilities in Europe.</p>
+
+<p>The <placeName type="settlement" key="Philadelphia, PA">Philadelphia</placeName> Post Office question continues to excite much comment, and it is now thought that <persName key="Robbins, John Jr.">John Robbins, Jr.</persName>, will succeed Mr. <persName key="Westcott">Westcott</persName>.</p>
+
+<p><persName key="Buchanan, James">The Presiden</persName>t has appointed Col. <persName key="Stambaugh, S. C.">Stanbaugh</persName>, of Pennsylvania, Surveyor General of <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+</div2>
+
+<milestone unit="horbar" />
+<div2>
+
+<dateline><placeName type="state" key="Washington, D. C.">WASHINGTON</placeName>, May 24.</dateline>
+
+<p>The War Department has ordered armed escorts to protect the trains with army supplies from the apprehended attacks of returning emigrants from <geogName type="mountain" key="Pike's Peak">Pike's Peak</geogName>, information having been received of the necessity for such protection.</p>
+
+</div2>
+<milestone unit="horbar" />
+<div2>
+
+<dateline>WASHINGTON, May 25.</dateline>
+
+<p>No further action, it is said, is considered necessary in consequence of the last reported accounts from <placeName type="state" key="Utah Territory">Utah</placeName>, as instructions recently forwarded to the Federal officers are calculated to prevent further conflict of jurisdiction among them, and will soon reach that Territory.</p>
+</div2>
+
+<milestone unit="horbar" />
+
+<div2>
+
+<p>We extract the following from the Washington correspondence of the <orgName type="newspaper" key="Missouri Republican">Missouri <hi rend="italic">Republican</hi></orgName> of May 18.</p>
+
+<p>I learn that very serious charges have been preferred at the War Department against Capt. <persName key="Van Vliet, Stewart">Vanvliet</persName>, of the Quarter Master's Office, who had the expenditure of near two millions of dollars in the purchase of mules for the late <placeName type="state" key="Utah Territory">Utah</placeName> Expedition.  These charges are filed by some of the parties who sold the mules to the government, and they specify various and sundry instances of bribery and corruption.  it will be remembered that the contractors were dissatisfied with the prices allowed them by Capt. <persName key="Van Vliet, Stewart">Vanvliet</persName>, and appealed to Secretary <persName key="Floyd, John B.">Floyd</persName>.  It was agreed that a court of three officers of distinction and experience should investigate and decide the point in dispute.  This court, after hearing all the evidence, decided that the contractors should receive twenty dollars additional for each mule sold to the government.  This award was reduced, by the advice of Quartermaster General <persName key="Jesup, Thomas Sidney">Jesup</persName>, to ten dollars a head, and the amount thus fixed, paid by the Secretary of War.  The claimants were still dissatisfied and contended for the full award allowed by the court of officers, when an agreed case was made up and submitted to the United States Court of Claims for an opinion as to the legal obligation of the government to pay the full amount.</p>
+
+<p>It is these contestants, I understand, who have preferred charges against Capt. <persName key="Van Vliet, Stewart">V.</persName>, a copy of which have been furnished him. He responds that so soon as he can hear from certain individuals, he will be ready with his defence, and although a court martial will be convened to investigate the charges, the friends of Capt. <persName key="Van Vliet, Stewart">Vanvliet</persName> feel every confidence in his entire innocence.  The temptation to fraud and peculation was indeed great, for two millions of dollars was an enormous sum to be expended by a single officer&#8212;yet if there was any officer in the public service entirely above temptation, that officer is believed to have been the accused.     X.</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

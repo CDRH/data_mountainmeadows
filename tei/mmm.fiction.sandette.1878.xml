@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.sandette.1878">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">My Queen: A Romance of the Great Salt Lake</title>
+                <title level="m" type="sub"></title>
+                <author><addName>"Sandette"</addName> [<forename>Marie</forename> <forename type="middle">A.</forename> <surname>Walsh</surname>]</author>          
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>                                                                         
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.sandette.1878</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>                                                                                                               
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">My Queen: A Romance of the Great Salt Lake</title>
+                    <author><addName>"Sandette"</addName> [<forename>Marie</forename> <forename type="middle">A.</forename> <surname>Walsh</surname>]</author>
+                    <publisher>G. W. Carelton &amp; Co.</publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent>80-81; 123-148; 203; 261-262; 364-366</extent>
+                    <date when="1878">1878</date>
+                    <note type="source">"Sandette" [Marie A. Walsh]. <hi rend="italic">My Queen: A Romance of the Great Salt Lake</hi>. New York: G. W. Carleton &amp; Co., 1878. 80-81; 123-148; 203; 261-262; 364-366.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+		<keywords scheme="original" n="category">
+		    <term>fiction</term>
+		</keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-28"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2010-11-18"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="80" xml:id="mmm.fiction.sandette.1878.085"/>
+
+<head>CHAPTER XVI.</head>
+
+<head>JED'S MULE.</head>
+
+<p>SOME writer has said that woman is at the bottom of all mischief. Had he lived among the "Saints" he might have added: "Sometimes it is a mule." Yes, once there was a great deal of mischief, and a woman had nothing to do with it.</p>
+
+<p>It was all about a mule.</p>
+
+<p>History does not mention any remarkable traits about the mule. It could not speak, like Balaam's ass; neither was it a mule of consequence because of its master's fame&#8212;on the contrary, this mule gave renown to his master. It gave him a vocation. But that mule did much more than this.</p>
+
+<p>It inaugurated the reform.</p>
+
+<p>The reform fostered blood-atonement.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">From blood-atonement sprang the Danites, alias the Destroying Angels, who polluted Columbia's fair brow with the gory stain of <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</seg></p>
+
+<p>Only a mule, yet it caused the world to shudder.</p>
+
+<p>It happened thus:</p>
+
+<p>The "Saints" were rapidly becoming monomaniacs. Their mania, repentance. For some time a crisis had seemed inevitable. Isolation, suffering, continual meditation upon the sanguinary record of the Israelites, and horrors of the book of Mormon, had done their work.</p>
+
+<p>The failure of the hand-cart expedition intensified this morbid sense of sin and fear of God's judgments.</p>
+
+<p>Reason was trembling, tottering upon its throne.
+
+<pb n="81" xml:id="mmm.fiction.sandette.1878.086"/>
+
+Such was the condition of the people that thronged one of the meeting-houses in Zion when a man suddenly cried out, as if inspired:</p>
+
+<p>"Woe, woe unto us! In vain have we fled from the iniquity of Babylon, when the children of God turn from holiness to abominations, when they seek after lying, and hunger for the flesh-pots of Egypt. Brother Grabbin stole my mule, and when God looks down upon us he sees that mule and turns away in wrath. Woe, woe unto us! Brother Grabbin denies he stole my mule, and the Lord visits us with condemnation, for we harbor iniquity. Repent, repent, children of Israel! Arise! confess your sins and repent. Quick, quick, before God destroys us with famine and the sword. Don't let ai mule kick us out of the celestial kingdom. Arise, brethren, before it is too late-arise, and repent."</p>
+
+<p>This address destroyed all mental equilibrium; it determined the crisis. Men and women accused themselves and each other of sins, real and imaginary. Faster, faster, accusation followed accusation; louder grew the cries. The meeting-house became a Babel with the sobs, groans, prayers, for baptism. The people were crazed; the craze extended far and wide. Every stream was thronged with men and women, imploring baptism. And as the madness grew, the chief looked on and smiled.</p>
+
+<p>"It is well," he murmured. "Now for the extermination of the enemies of Israel!"</p>
+
+<milestone unit="section" rend="horbar"/>
+
+</div1>
+
+<gap reason="irrelevant" />
+    
+<div1 type="chapter">
+    
+<pb n="123" xml:id="mmm.fiction.sandette.1878.130"/>
+
+<head>CHAPTER XXVI.</head>
+
+<head>THE CARAVAN.</head>
+
+<p><seg type="Emigrants" subtype="Route"><seg type="Massacre" subtype="Dates">ONE bright evening in August, 1857</seg>, <seg type="Emigrants" subtype="WagonTrain"><seg type="Emigrants" subtype="StateAffiliationArkansas">a goodly caravan of <placeName type="state" key="Arkansas">Arkansas</placeName> families</seg> bound for <placeName type="state" key="California">the Golden State</placeName></seg> descended the low hills to the north-east of the city of Zion.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">It was a goodly sight, that <seg type="Massacre" subtype="Spoils">rich, well-equipped train</seg> of stout-hearted, well-to-do colonists, taking civilization to the summer land of the west.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Emigrants" subtype="WagonTrain">First, drawn by strong-limbed horses, came comfortable, covered vehicles, which might be termed the family wagons, for in them sat the mothers, surrounded by their children, whose bright faces peered out eager and jubilant. Here and there a pet kitten nestled in the arms of its child-mistress; merry dogs gamboled around the horses, or leaped up to kiss baby hands, and in one of the wagons hung a bird cage, whence issued sweet notes and trills that filled the air with melody.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Spoils">These wagons also carried the clothing, camping necessaries and provisions required for daily use. Nothing was wanting, for the leaders knew well what was needful for the comfort of the travelers, and the emigrants fortunately possessed the means to procure those comforts.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Emigrants" subtype="WagonTrain">After the family wagons came others, larger and stronger, drawn by long teams of sturdy oxen and laden with household goods, implements, and provisions for the future use of the colony.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Spoils">Then followed some hundred head of cattle, kept from straying by trained dogs.</seg></seg></p>
+            
+<pb n="124" xml:id="mmm.fiction.sandette.1878.131"/>
+
+<p><seg type="Emigrants" subtype="WagonTrain">Horsemen galloped to and fro to maintain order. Youths and maidens walked along talking and laughing. Some couples absorbed in their own happiness sauntered behind the train.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">All were happy! Ambitious youth dreamed golden dreams; men builded golden castles, and women wove chaplets of golden immortelles wherewith to crown their loved ones.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">The captain of the band reined in his horse and gave a loud hurrah, then, pointing towards Zion, he said:</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">"Thank God, my friends, we are once more among our fellow men."</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">"Only they are Mormons, Cap."</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">"What does it matter? They are white men, their language is ours, they have been emigrants as we are now. A threefold tie binds us to them. It makes my heart glad to see that blue smoke curling up into the air; for it comes from a white man's home-like kitchen, not from the wigwam of a painted savage. Once more, hurrah!"</seg></p> 
+
+<p><seg type="Emigrants" subtype="WagonTrain">Men, women and children took up the cheer, the horses neighed, the dogs danced and barked, the bird carolled forth his gayest song.</seg></p>
+
+<p>But there was one whose voice did not shout hurrah,&#8212;one, whose brow grew dark at the sight of Zion,&#8212;a man who traveled with the train, but who was not one of them,&#8212;a moody, brooding man, whom they called "Stranger." The active youthful minds of the train, had imagined many a romance, having for its hero that gray-haired, care-worn man, aged by sorrow, But the stranger was reticent; He was going to Zion for his child; that was all they knew.</p>
+
+<pb n="125" xml:id="mmm.fiction.sandette.1878.132"/>
+
+<p>"Hi, Stranger, don't hurry off like that; stop for supper. There'll be plenty o' time to—morrow."</p>
+
+<p>"Thank you, Captain, but I must go on," replied the strange man, hastily striding on even as he spoke.</p>
+
+<p>Did he see a little face growing sad and pale watching for his coming? Did he hear a child's voice wearily sighing, "The leaves came long ago, and Papa's not here."</p>
+                   
+<p>"And now, friends, to supper."</p>
+
+<p>A hundred voices shouted, supper! At the word, Hero, Capt. Fancher's dog, started to make his evening tour of inspection, for Hero was the guardian in chief,the head sentinel of the train; eye and ear ever watchful, he kept a strict lookout, and never was known to give a false alarm.</p>
+
+<p>Supper was a very important event in the lives of the emigrants, and soon all hands were busy. <seg type="Massacre" subtype="Spoils">The men attended to the horses and cattle, milked the cows, and ranged the wagons, the boys gathered fuel, or fetched water from the creek. Some of the girls improvised tables upon which to spread the viands, others brought from the wagons coffee-pots, gridirons, baking pans, and waited upon the neat housewives who skillfully prepared the evening meal.</seg> A dozen fires flamed upon the hill-side. Snowy biscuits, baked in ovens hidden under the coals, huge, juicy beefsteaks broiled upon the gridirons, long, skewered rolls composed of layers of rabbit and bacon, roasted themselves to a turn on cunningly-devised spits, savory stews simmered in their bright pans, potatoes steamed into flakey balls or fried into crispy golden brown morsels, fragrant coffee emitted streams of vapor, and pails of milk, frothy and warm, stood temptingly around. The
+           
+<pb n="126" xml:id="mmm.fiction.sandette.1878.133"/>
+
+air was redolent with appetizing odors, most grateful to the hungry travelers.</p>
+
+<p>After supper our travelers turned their attention to the infant city, with its tree-fringed streets and rural dwellings. It all seemed so quiet and peaceful that the emigrants declared it was rightly called Zion.</p>
+
+<p>Ah! little did they dream that in that city madness reigned supreme, that the homes they so much admired were the abodes of terror, of crimes born of fanaticism,&#8212;that brother there feared brother, parents dreaded their children, and children their parents, that the destroying angels were ever on the wing with swords unsheathed ready to immolate victims. The air was heavy with woe. Could it have uttered its terrible secrets society would have risen in horror; but the wind floated by and spoke not, the sun shone with uuvailed radiance, the mountains trembled not, for nature works out her laws, heedless of the misery of the ephemeral being&#8212;man.</p>
+
+<p>But no such thoughts marred the happiness of the emigrants; Gaily they chatted about present pleasures and future projects, Utopian, as are all the visions that allure man to distant wilds. A fierce growl from Hero interrupted their conversation. Looking around, they saw a Zionite approaching the camp. It was Robert Delville, anxious to learn the condition and intentions of this colony, whose rich equipment had excited Mormondom.</p>
+
+<p>The emigrants were only too happy to have an attentive stranger to talk with, and Mr. Delville was soon acquainted with their history, condition and projects. Perhaps there was a little boastfulness in their manner when they emphatically declared:</p>
+
+<pb n="127" xml:id="mmm.fiction.sandette.1878.134"/>
+
+<p>"We ain't no needy adventurers, but honest folks <seg type="Emigrants" subtype="Route"><seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> going to <placeName type="state" key="California">California</placeName></seg> to make our everlasting fortunes. We want to show the world how this emigration business should be done. <seg type="Massacre" subtype="Surrender">Just look at our train; nothing wanting there.</seg> <seg type="Encounter" subtype="TradeLDS">Our flour and corn are getting rather low, for we didn't want to burden ourselves extra when we knew we could lay in a stock here in your country. That will make business lively for you, eh, stranger? But now, ain't we well fixed? Did you ever see anything completer?</seg>"</p>
+
+<p><seg type="Massacre" subtype="Spoils">Delville gazed upon the heavily-laden wagons, upon the cattle and horses, as if he had never seen anything finer; He noted the comfortable appearance of the travelers, and their air of calm assurance which the sense of plenty gives. He compared the luxuries of these Gentiles with the poverty of the Saints, and his soul filled with wrath. Should this thing be? Should the children of Baal exult over the children of God? Should those revel in riches while these starved? Of what avail was the birthright of the Elect, to whom God had given the earth and the fullness thereof, if hirelings could thus rob them of the gift?</seg></p>
+
+<p>These thoughts so tormented Delville, that he was obliged to leave the camp in order to conceal his agitation. But again and again he paused to look back upon the caravan and curse it. Slowly a project took form in his brain; a project worthy of a Danite. He hastened back to counsel with his brethren.</p>
+
+</div1>
+<div1 type="chapter">
+                
+<pb n="128" xml:id="mmm.fiction.sandette.1878.135"/>
+
+<head>CHAPTER XXVII.</head>
+
+<head>DEAD! DEAD!</head>
+
+<p><seg type="Context" subtype="UtahWar">THE Zionites, who lived in daily expectation of an invading army, were much alarmed at the approach of <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> train</seg>, and the leaders, objecting to the passage of Babylonish Gentiles through their sacred dominion, exerted all their influence to increase the general alarm.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Rumors were circulated that these emigrants were emmissaries of the army; <seg type="Context" subtype="LDSPersecution">that among them were the murderers of the prophets. This was enough to inflame, with hate and revenge, the half-crazed people. The Saints declared it would be a heinous crime to hold any communication with the enemies of God, and all, even the children, were strictly forbidden to speak with them.</seg></seg></p>
+
+<p>Two days before the caravan encamped upon the hills of Zion, Danite scouts brought full particulars to the priestly council, and Silvertung well knew the name of that stranger who traveled with the train. He had expected him. Elsie's confidences to Kitty had not been whispered softly enough to escape Silvertung's quick ear. But the news did not disturb his equanimity; he made his plans and waited.</p>
+
+<p>The stranger, who was no other than Edward Lascelle, soon reached Main street. The suspicious glances of the passers-by somewhat surprised him; still more the curt, "Don't know," with which they answered his inquiries about Julian. He walked about seeking, but not obtaining, information. A store, larger and finer
+            
+<pb n="129" xml:id="mmm.fiction.sandette.1878.136"/>
+
+than the others, with as sign-board announcing that Robert Delville dealt in general merchandise, attracted his attention. Delville! that was the name of Oreana's relatives. He entered; a stout man received him.</p>
+
+<p>"Can you tell me where to find Miss Brentford Oreana Brentford?"</p>
+
+<p>"Sister Young, she is now; and she lives in that fine house up there on the hill."</p>
+
+<p>"And Julian Bellew?"</p>
+
+<p>"Dead and buried."</p>
+
+<p>"Dead?"</p>
+
+<p>"Yes. Did you expect him to live forever?"</p>
+
+<p>The rough tone jarred upon Lascelle. He must hide his sorrow from this cruel jester.</p>
+
+<p>"And Oreana is married?"</p>
+
+<p>"The thirteenth wife of our president. She is the favorite, No wonder; magnificent girl, my cousin."</p>
+
+<p>The look of disgust with which this news was received delighted Delville, who knew full well who his questioner was, and framed his answers accordingly.</p>
+
+<p>"Where is Elder Silvertung?"</p>
+
+<p>Lascelle jerked out the name as if it tortured him to utter it.</p>
+
+<p>"His house is two blocks round the corner. Anyone will show it to you. Where the elder is just now I can't say. And, now, who are you?"</p>
+
+<p>"My name is Lascelle."</p>
+
+<p>"Ah, yes; I have heard Oreana speak of you,&#8212; yes,&#8212;weIl,&#8212;come in again;&#8212;yes, the ways of the Lord are past finding out. When he speaks, we must obey; that's what our president says, and he is right. Yes, the Lord&#8212;"</p>
+           
+<pb n="180" xml:id="mmm.fiction.sandette.1878.137"/>
+
+<p>Lascelle did not wait for the end of the phrase; he thanked Delville, and hurried out of the store. What did Delville mean by his strange, hesitating words? Julian was dead, Oreana in a harem. Had anything, more than he already knew of, happened to his Elsie? A dread suspense grew within him. He talked aloud to reassure himself.</p>
+
+<p>In a few minutes I shall see my Elsie; I shall clasp her in my arms. They can't hide her from me. My darling shall be saved."</p>
+
+<p>He reached Silvertung's house. It was closed&#8212; deserted. He inquired of the neighbors, but they knew nothing. Sick with disappointment, he sought the house upon the hill.</p>
+
+<p>Oreana was in the garden.</p>
+
+<p>The sight of her maddened him. Her father's grave, those desolate homes, his own dishonored hearth, the dead Julian,&#8212;he saw them all, accusing her, crying out against her: and there she stood, so gloriously beautiful, calmly smiling at the misery she had wrought. His long pent-up agony and passion burst forth; he rushed towards her, he clutched her arm.</p>
+
+<p>"Fiend, not woman, cruel daughter, false friend, murderess, parricide, how dare you live?"</p>
+
+<p>For the first time, perhaps, in her life, Oreana screamed; she would have fallen but for Lascelle's terrible grasp.</p>
+
+<p>"Ah! you may well tremble. I've come for my wife and child, the wife whom you enticed to dishonor, the child you so treacherously stole from me. Where are they? Give them up. Where's the false priest? Where? I will know."</p>
+        
+<pb n="131" xml:id="mmm.fiction.sandette.1878.138"/>
+          
+<p>Oreana was frightened into dumbness. She had expected Lascelle's arrival; but this fierce man, wrinkled and gray-haired, was not the Lascelle of her memory. His conversations disturbed her slumbering conscience. She could find no words to answer this awful accuser, before whom she quailed a thrice guilty woman.</p>
+
+<p>"Speak, answer me. If this cursed creed has left you any spark of humanity, tell me where are my child, my lost wife?"</p>
+
+<p>The insult to her creed nerved Oreana to action. She looked at Lascelle, and said: "Ask them of the Lord, not of me. He it is who giveth and taketh."</p>
+
+<p>"Ask them of the Lord? What do you mean? I don't understand, can't,&#8212;are they living or&#8212;"</p>
+
+<p>"Dead, yes, dead!" solemnly answered Oreana.</p>
+
+<p>"Dead," repeated Lascelle dropping Oreana's arm, and retreating a few steps, "Dead&#8212;perhaps it is well,&#8212;she could not survive dishonor. But Elsie, is&#8212;"</p>
+
+<p>"Dead. Seek them both in the grave."</p>
+
+<p>"No, it cannot be. Elsie, my little flower!"</p>
+
+<p>"Death loves to gather-flowers. Mary prayed for you to the last, Edward, that the Lord would enlighten you to see the heroism of her conduct. She only obeyed the commands of God,&#8212;and He exalted her by celestial marriage."</p>
+
+<p>A fierce gleam in Lascelle's eyes warned Oreana; She stopped suddenly, then added: "I have something to give you."</p>
+
+<p>She entered the house, and soon returned with a small envelope. Inside were a bright curl, and a thick clustering ring of dark-brown hair. Oreana gave them to Lascelle. "I cut them off for you."</p>
+            
+<pb n="132" xml:id="mmm.fiction.sandette.1878.139"/>
+
+<p>"Dead, dead," repeated Lascelle, mechanically. At that moment some people came into the garden. "Dead, dead," he repeated, too stunned to ask questions; then suddenly he turned upon Oreana: "It is your work! May their blood be upon your head." The next moment he was gone.</p>
+
+<p>He staggered on his way as if drunk,&#8212;drunk with grief and misery. At length, a ray of hope illumined the darkness. Perhaps Oreana had deceived him, as she had done on that never-to-be-forgotten night, when he kissed his little ones for the last time. He stopped and looked around him; the camp was near, and a "man was slowly coming from it. Although it was dusk, yet Lascelle recognized Delville.</p>
+
+<p>Delville could tell him.</p>
+
+<p>"Friend, you are a father, a husband?"</p>
+
+<p>"I should say so. Two of the prettiest girls in Zorn call me husband; am looking out for a third."</p>
+
+<p>This speech grated on Lascelle. He could not bandy words with this coarse jester. He spoke sternly:</p>
+
+<p>"Tell me, did Oreana deceive me? Are they dead?"</p>
+
+<p>"Who are dead? Lots of people die."</p>
+
+<p>"My little Elsie,&#8212;Elsie Lascelle and her mother."</p>
+
+<p>"Yes, yes, poor little Elsie; yes,I remember it all. Oreana's words are the words of the gospel. It is pretty rough on you, but become a Saint, and I'll find  you plenty of wives, and children will come as a matter of course. My wife died not long ago: bless you, I didn't miss her, the others were so affectionate."</p>
+
+<p>"When was it?"</p>
+
+<pb n="133" xml:id="mmm.fiction.sandette.1878.140"/>
+
+<p>"About two months ago. Silvertung felt awfully cut up. He is South."</p>
+
+<p>"South, is he? Thank you. Good night."</p>
+
+<p>Delville looked back at Laseelle, who was slowly climbing the hill to the camp.</p>
+
+<p>"Didn't he take that bait nicely? Only let us get you down South, my fierce fellow, and you won't care much who's dead or alive."</p>
+
+<p>Delville laughed at his joke.</p>
+
+<p>Lascelle reached the camp. Captain Fancher and Hero were taking a last look.</p>
+
+<p><seg type="Emigrants" subtype="Route">"Captain," said Lascelle, "you go South?"</seg></p>
+
+<p>"Yes."</p>
+
+<p>"I go with you. My heart is dead. I live now but for vengeance."</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">That night, while the emigrants slumbered peacefully on the hills, the destroyers plotted in the city below.</seg></seg></p>
+
+<milestone unit="section" rend="stars"/>
+
+<p>Early the next morning, Delville, mounted on a fleet-footed horse, took the road to the south-west, crying aloud, as he rode through farms and settlements:</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">"<seg type="Context" subtype="LDSPersecution">The murderers of our prophet approach.</seg> Sell them no grain, no food. Cursed be he who gives the stores of the Saints to the enemies of God."</seg></p>
+
+<p>To the right, the left, the watch-word flew, and the emigrants, as they passed along, wondered at the evil looks, the sullen answers they met with everywhere.</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">They had been disappointed in replenishing their stores in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. No one there had anything to sell them, but they hoped that in the country it would be diferent. A vain hope, as the result proved.
+            
+<pb n="134" xml:id="mmm.fiction.sandette.1878.141"/>
+
+In the farm-yards they saw barns full to bursting, they passed through towns whose store-houses were overflowing, yet everywhere they met the same answer: "We have nothing to sell you." Double, triple prices were ofered, but the Saints would not sell. This strange conduct made the emigrants uneasy; they felt themselves in an enemy's country, and longed for the wilderness.</seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<head>CHAPTER XXVIII.</head>
+
+<head>MOUNTAIN MEADOWS.</head>
+
+<p><seg type="Massacre" subtype="Location">A NARROW gap opened into a valley whose placid beauty and rich verdure contrasted strangely with the surrounding desert. There, the mountains lost their ruggedness, and descended in gentle rolling slopes, clothed with tall, luxuriant grass, somewhat yellowed on the upper slopes by the mid-summer sun; but on the bottom lands it was kept ever fresh and green by numerous crystal brooklets that flowed from two abundant springs, one near the northern, the other at the southern extremity of <geogName type="valley" key="Mountain Meadows">the meadows</geogName>. The meandering courses of these streamlets were overarched by the wild cherry, around which twined the virgin's bower, a mass of creamy-white, feathery festoons. Scattered here and there were oaks, clumps of cedars, fantastic rocks, and, near the northern gap, two giant cedars, lightning-scathed, reared their withered branches.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">A few tardy columbines nodded. their bright heads as if in welcome to the emigrants, and myriads of blackbirds, disturbed by their approach, fluttered in
+            
+<pb n="135" xml:id="mmm.fiction.sandette.1878.142"/>
+
+the air, their scarlet underwings aflame in the sunlight.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">To the wearied travelers it seemed a paradise. The children ran delightedly through the grass; the animals sniffed the perfume-laden air, and greedily began to feast upon the herbage. Hero, alone, was restless and discontented; growling and whining he followed his master, his nose to the ground, his ears pricked up. Evidently he scented danger.</seg></p>
+
+<p>His conduct excited the suspicions of his master, who believed firmly in Hero's wisdom. He called to him some of the more experienced of his band; together they scanned the valley, but not a shadow of danger was visible.</p>
+
+<p>"I tell you what, Cap, I don't like those hillocks over yonder; let us go and reconnoiter a little." </p>
+
+<p>The speaker was a frontiersman, whose advice was of great weight in the councils of the emigrants. The men were on the point of starting when Hero barked fiercely and dashed towards the hillocks in question.</p>
+                   
+<p><seg type="Massacre" subtype="Battle">A whirring sound, a piteous cry, and the brave dog rolled over dead, one arrow in his brain, and another in his heart.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"Boys, to your arms!" cried the captain. Scarcely was the command given when a bullet whizzed through the air, pierced the frontiersman's hat, struck the bird-cage, killing the bird, and at last lodged in the frame of a wagon. Another one, aimed at the captain, grazed his shoulder and struck one of the horses.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The utmost consternation prevailed; Mothers ran madly about seeking their children, who had wandered off in quest of Bowers. <seg type="Blame" subtype="IndiansIndependently">Men rushed for arms, and
+
+<pb n="136" xml:id="mmm.fiction.sandette.1878.143"/>
+
+shouted to those on the hills, "The Indians, the Indians."</seg> The bravest paled before this invisible foe. Balls rained around them: <seg type="Massacre" subtype="Casualties">one of their number lay wounded unto death</seg>: not a moment must be lost. The women and children were placed in a protected spot, and the men prepared for the defense. <seg type="Blame" subtype="IndiansIndependently">They were skillful marksmen, many already accustomed to Indian warfare; and when a momentary swaying of the brush or grass revealed to their quick eyes the tawuy forms crouching beneath, a well directed volley ushered many a savage into the happy hunting grounds.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Battle">Suddenly a band of red demons, hideous in warpaint and feathers, sprang out of the ground, the trees, and the rocks; a murderous swarm, yelling and whooping, flourishing aloft their tomahawks and guns. The contest waxed hot and furious: the air became murky with smoke, and rivulets of blood dyed the fair earth. <seg type="Massacre" subtype="Casualties">Desperately fought the emigrants, never missing a mark; but the Indians were strong in numbers: instead of decreasing, their ranks seemed to increase, while the numbers of the emigrants rapidly diminished.</seg> In the heat of the battle, two savages dashed across <geogName type="valley" key="Mountain Meadows">the meadows</geogName> and spoke to the warrior chief. Thereupon the latter signalled for the fight to cease; and <seg type="Massacre" subtype="Spoils">in a few minutes the Indians retreated, driving off several head of cattle.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">The emigrants saw this; it gave them hope. Yet not until the last savage was far beyond range did they breathe freely. The danger was past for a time; but they knew not how soon it might return, and they must be prepared.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">They lifted the dead and wounded into the wagons</seg> and moved to an open spot on the hill-side, where
+
+<pb n="137" xml:id="mmm.fiction.sandette.1878.144"/>
+
+they would be safe from any hidden foe or sudden attack. <seg type="Massacre" subtype="Casualties">Here they buried their dead in prayerful silence</seg>; and over the graves, despair and woe kept vigil.</p>
+
+</div1>
+<div1 type="chapter">
+
+<head>CHAPTER XXIX.</head>
+
+<head>THE SIEGE.</head>
+
+<p><seg type="Massacre" subtype="Battle">ALL through the night they listened and watched. As the hours flew by, and no sign of danger appeared, they began to hope. But the morning light brought despair; for it showed to them all the peril of their situation. They were corraled in a narrow valley, whose only outlets were two somber gaps, guarded by merciless savages. Even had the road permitted them to present a solid front to the enemy, to cut through the ranks of <seg type="Blame" subtype="IndiansIndependently">these war-breathing Indians</seg> would have been a daring imprudence; but for a long train, slowly filing through a narrow pass, to attempt it, was madness. Their only course was to entrench themselves on the hill, and prepare for a vigorous defense. They enclosed a square with the wagons, chaining the wheels together to make a solid barrier. In one corner they put the milch cows; and in the center a ride pit was dug, sudffciently large to shelter the entire company in case of an attack. Out of this excavation the men could fire without being seen by the enemy. Sentinels, relieved every three hours, kept ceaseless watch.</seg></p>
+
+<p>Slowly passed the hours of anxious waiting. To while away the tedium, the emigrants related all the
+
+<pb n="138" xml:id="mmm.fiction.sandette.1878.145"/>
+
+Indian adventures they knew, and tried to make the experiences of the past yield guidance for the future.</p>
+
+<p>Some of the more experienced declared that if no attack was made that night the danger would be over.</p>
+
+<p>The dawn of the second day assured them in this belief; for the passes were free. <seg type="Blame" subtype="IndiansIndependently">The Indians had left <geogName type="valley" key="Mountain Meadows">the meadows</geogName>.</seg> A few men were scattered here and there; but they were white men. Overjoyed at this discovery, the emigrants began their preparation or departure.</p>
+
+<p><seg type="Massacre" subtype="Battle">Some of the men left the camp to reconnoiter. Suddenly a sharp report was heard; another and another followed, bullets rained around them. The men hastened back to the camp. They reached it unhurt; but with hats pierced and hair singed by glancing balls.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The emigrants were crushed with despair; for they knew now it was a deadly siege. How would it end? <seg type="Massacre" subtype="Surrender">A white flag was hoisted, and there it fluttered unnoticed save by the breeze.</seg><seg type="Blame" subtype="LDS_LDS"> Were the white men blind, <seg type="Blame" subtype="IndiansLDSInfluence">or (horrible thought!) were they in league with the Indians?</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">The water in the camp was wholly insufficient for their need; still they dared not risk the lives of the men. The women volunteered, but their enemies paid no respect to sex. <seg type="Massacre" subtype="Casualties">The firing recommenced, and one woman fell wounded.</seg> They must go without water. But the peril made heroes of the children. Unknown to their parents, they crept out under the wagons and ran down to the creek. The firing ceased, for even the cruel besiegers respected childhood; and the brave
+            
+<pb n="139" xml:id="mmm.fiction.sandette.1878.146"/>
+
+little band constituted themselves the water-carriers for the camp.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="RescueAttempt">The emigrants talked and planned; for their position was fast becoming untenable. If help came not soon, they must all perish. Two brave young men&#8212;brothers &#8212;volunteered to go to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and implore help of the Mormon militia. In the shadowy twilight, they started on foot, the easier to escape observation. The distance was thirty-six miles; but they were strong, and love of life lent wings to their feet.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="RescueAttempt">Another day dawned, the third of the siege; a day of feverish excitement, when every eye and ear was strained to its utmost, to catch a glimpse or a sound of coming relief. Now hoping, now despairing, the emigrants watched and waited, neither speaking nor eating; shuddering, ever and again, when the report of guns fired in wanton sport startled the air. The sun slowly ascended the heavens, it passed the meridian, it sank towards the western horizon, and still no sign of aid.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="RescueAttempt">A creeping motion in the tall grass arrested the attention of the sentinels; <seg type="Blame" subtype="IndiansIndependently">What could it be&#8212;an Indian ambuscade?</seg> A friend would not approach in that snake-like manner: it must be a foe. The sentinel was about to fire, when a man, pale and bleeding, struggled to his feet and staggered towards the camp. It was one of the volunteers&#8212;only one. Where was the other? The corral opened, loving arms received the wounded man, and anxious hearts stood still to hear the tidings. He saw the madness of suspense in their dilated eyes, and, rallying himself, he cried:</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="RescueAttempt"><seg type="Blame" subtype="LDS_LDS">"The Mormons are against us: they killed my brother, and wounded me! No hope, no hope!" He fell back exhausted.</seg></seg></seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="140" xml:id="mmm.fiction.sandette.1878.147"/>
+
+<head>CHAPTER XXX.</head>
+
+<head>TWO PICTURES AND TWO PRAYERS.</head>
+
+<p><seg type="Massacre" subtype="Location">THE young moon shed a silvery radiance upon <geogName type="valley" key="Mountain Meadows">the green meadows</geogName></seg>, the crystal streamlets and the white-canopied wagons of the corral. Within, reigned the silence of sorrow and despair. There was nothing more to discuss, to plan, nothing to hope. Surrounded by fierce foes, none to help, no escape; nothing was left them but death. Oh! it was hard; young, strong, rich, loved and happy, to bid adieu to their dreams, their hopes. But death was not the worst. Captivity and torture confronted them, and the bravest quailed. <seg type="Massacre" subtype="Casualties">Tiny, innocent hands were raised towards heaven, and childish tongues lisped prayers for father and mother. Youths and maidens knelt in suppliance, and men with bowed heads silently repeated the earnest petitions of wives and mothers, who all through the night wept and prayed: "Father in Heaven, save us!"</seg></p>
+
+<milestone unit="section" rend="stars"/>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">Under the withered trees at the northern extremity of the valley, a camp-fire glowed. Dusky, tattoed savages crouched around, or moved stealthily to and fro seeking food for the fire, whose flames leaped and writhed, now gleaming on the dusky faces and snaky locks of the red men, now lending a weird life to the mis-shapen rocks and gnarled cedars whose skeleton arms seemed eager to clutch the forms beneath.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">At a little distance a band of pale-faces were exhorting and gesticulating. In their center was Delville.</seg></seg></p>
+            
+<pb n="141" xml:id="mmm.fiction.sandette.1878.148"/>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">"Saints of the Latter Days," he cried, "no more shrinking. The enemies of God must perish. The murderers of our prophet must die. Death to the murderers of the Saints! <seg type="Massacre" subtype="Spoils">Let their riches be given to the children of God.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">Not a drop of innocent blood shall stain your hands. Our brethren, the Lamanites, will attend to that. Will you not, my children?" For answer, the savages flourished their tomahawks, leaped for joy, and were about to yell triumphantly</seg>, when Silvertung, always wary, said:</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"Hush, my children; no noisy demonstrations. You will betray us to the Gentile. Be ready tomorrow."</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"Yes, be ready to-morrow; you understand the plan," exclaimed one who seemed to be the leader. "At the cry, 'Do your duty,' remember. And now, brethren, let us pray to the Lord to guide and strengthen our arms, that His enemies may be all destroyed."</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"Amen," responded the white saints. They knelt in prayer; the red savages looked on in wonder.</seg></seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<head>CHAPTER XXXL</head>
+<head>TREACHERY.</head>
+
+<p><seg type="Massacre" subtype="Dates">FRIDAY morning</seg> came, dark and ominous. But the clouds that obscured the sun were faint shadows of the black despair that brooded over the ill-fated camp.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">A great commotion prevailed in the valley. A number of men, some on horseback, some on foot, moved to and fro, seemingly in eager consultation.
+
+<pb n="142" xml:id="mmm.fiction.sandette.1878.149"/>
+
+The emigrants thought they perceived a military uniform. At lst, a man detached himself from the mass, and took the direction of the besieged. Soon the cry: "A white flag, a white flag!" resounded through the camp, and eyes, dim with hopeless watching, beamed with joy at the sight of a white man approaching, bearing in his hand the flag of peace.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">A deputation went out of the corral to meet the welcome visitor, who, after the usual salutations, said:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"My friends, I come from the commander of the troops, to offer you protection. We did not know of your peril until last night. We immediately hastened to your assistance.<seg type="Blame" subtype="IndiansIndependently"> The Indians are bent upon your destruction, and some of our own people aid and abet them, for they think you have entered our territory with evil intent.</seg> But we can save you, if you agree to our conditions, namely: <seg type="Massacre" subtype="Spoils">to deliver up your arms</seg>. This is absolutely necessary to pacify our own people, However, we will not hold them; they shall be placed in the wagons you see yonder, and which we have brought for those unable to walk. Your wagons must remain here. We cannot guarantee them a safe passage to-day, but they shall be guarded."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">The emigrants demurred to these terms; but they were not in a condition to refuse, surrounded as they were with enemies, and their ammunition nearly exhausted.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">Life was dear. <seg type="Massacre" subtype="Spoils">Even if they lost their goods</seg>, they still had health, strength, and <seg type="Massacre" subtype="Spoils">some money</seg>. They consented.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"Lastly," said the negotiator, "the men will be under guard until they are out of <placeName type="state" key="Utah Territory">the territory</placeName>."</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">This clause was scarcely heeded. As long as
+            
+<pb n="143" xml:id="mmm.fiction.sandette.1878.150"/>
+
+they and their families were safe, it mattered little whether or not a guard watched them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">But when the wagons, each under the charge of two sinister-looking men, drew up to receive the weapons, the emigrants repented of their consent. But there was no other alternative. <seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">The children over two and under five were placed in the wagons</seg>, also the wounded.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Spoils">While this was being done, the emigrants secured about their persons their money and some portable valuables.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">When all was ready, the order was given to march. The wagons took the lead, and <seg type="Massacre" subtype="Casualties">the women and larger children were ordered to follow.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"Why separate us?" asked Captain Fancher, who seemed to distrust this man&#339;uvre.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"It is necessary, if you wish protection," was the answer. The defenseless people were forced to submit.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">About a mile from the Southern gap, the road made a sudden bend. Upon the right was a clump of cedars, on the left a ridge of hillocks covered with brush. The road skirted the cedars for some dozen yards, and then passed over a mound-like elevation. A few yards north of the bend, the troops were drawn up in double file, wide enough apart to admit of the passage of the wagons and the women. As soon as the latter reached the bend, the soldiers dropped into single file, their guns on the left arm, and marched to the right of the emigrants, a soldier to each man.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">The emigrants marched in silence, depressed by a sense of coming evil. Mothers drew their children
+
+<pb n="144" xml:id="mmm.fiction.sandette.1878.151"/>
+
+closer. The once fearless, joyous youth tremblingly crept together. The men watched their guards, and chafed in helpless anger. Fear stalked by the side of all, and rang a death knell in their ears. The fluttering of a bird, the waving of the grass, the rustle of a leaf, the roll of a pebble startled them.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">The wagons passed over the brow of the hill, out of sight: between the cedars and the chapparal walked the women&#8212;far behind, hidden by a bend in the road, came the men.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">Little Amy Fancher crept to her mother's side and whispered: "Mother, look; there's something behind the trees."</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">Her mother looked; terror blanched her cheek, for there, behind the treacherous trunks, black savage orbs glared fiercely upon her, "Betrayed, betrayed."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Surrender">She ran back towards her husband. The women, alarmed, turned to follow her, when loud and clear rang out the words, "Do your duty." All stopped, bewildered. What did it mean? Ere the thought took form, a volley shook the earth, and rocks and trees vomited forth hundreds of yelling savages. Well planned was the fendish plot. An armed soldier to each unarmed man, a trio of savages to every  defenseless woman and child. <seg type="Massacre" subtype="Location">A moment changed the blooming, peaceful meadows into a field of carnage.</seg> <seg type="Massacre" subtype="Casualties">The crashing of bones, the lining of guns, the clashing of knives as the savages disputed over their victims, groans, shrieks, yells and curses affrighted the air</seg>; birds dropped dead, and <seg type="Massacre" subtype="Spoils">the cattle, frenzied by the roar, rushed madly bellowing over the hills</seg>.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">The soldiers did their work well; yet, quick as they were to fire, Captain Fancher dashed aside his
+
+<pb n="145" xml:id="mmm.fiction.sandette.1878.152"/>
+
+murderer's arm and ran to save his wife and child, or to die with them. He saw savage hands clutch the loved tresses; he saw the tomahawk gleaming above them. Ere he could arrest its descent, a ball pierced him to the heart. He fell across two mangled bodies.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Four minutes had barely elapsed since the signal was given, yet the massacre was complete. Bright hopes, roseate visions, golden dreams, castles and chaplets were drowned in blood, and naught remained of the brave, the loving and happy but inert, bleeding masses&#8212;dead&#8212;dead&#8212;dead. But a voice from the Beyond answers: "nay, not dead, but living ever, to condemn, to avenge."</seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<head>CHAPTER XXXII</head>
+
+<head>THE FIELD OF BLOOD.</head>
+
+<p>IT was the hour before dawn. The hour when darkeness grows ashen and chill, quivering in the throes of death.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">Upon the gore-matted grass lay <seg type="Massacre" subtype="Casualties">the murdered victims</seg>; from their bodies gleamed a spectral light; its half-revealments adding fresh horror to the scene.  Fetid exhalations from the reeking charnel-field, and hung over it in murky clouds, as if to hide the ghastly spectacle from the sight of heaven.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Upon the upper slopes glittered fiery eyes, and savage howlings broke the stillness of the night. The coyote and the wolf were there.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">Three horsemen rode among the nude, mangled <choice><sic>corses</sic><corr>corpses</corr></choice>. They were Delville, Silvertung, and one other, upon whom the law has visited retribution.</seg></seg></p>
+
+<pb n="146" xml:id="mmm.fiction.sandette.1878.153"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">The suggester, the planner, and the commander of the fiendish butchery came to contemplate their work. The sight appalled them. Even Delville's tigerish blood-thirstiness was glutted. These reeking shambles sickened him. Silvertung grew faint and dizzy. Cunning and cowardice had kept him away from the massacre; he only came when all was over, to assure himself that Edward Lascelle was among the victims, but he recoiled from the search; the ghastly stare of those sightless eyes burned into his brain.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath">"Come away, come away," he gasped, "they are all dead. Not one escaped? You are sure, not one?"</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS">"Not one. The boys did their work well."</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS">"Too well. Thank God, my hands had nothing to do with it."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"If your hands had nothing to do with it, your head had plenty to do with it."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Oh! that's a very diferent thing. I had no idea there were so many. It will be a bad day's work for you, some time or other. I wouldn't have it on my conscience."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"You needn't try to cry quits; you are as guilty as anyone, and take care how you throw off on those who obeyed your commands."</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS">"Didn't we obey the Lord?" cried Delville; "but let us get out of this. I can't breathe. I shall go mad. No more blood for me."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS">"Well, it's no use to be faint-hearted now the deed is done, but it <hi rend="italic">is</hi> horrible."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">The trio hastened along the road as fast as the stumbling and tripping of their horses permitted them. They had nearly passed <seg type="Massacre" subtype="Location">the scene of carnage</seg> when they were startled by a groan. There was an <choice><orig>unearth-
+
+<pb n="147" xml:id="mmm.fiction.sandette.1878.154"/>
+
+liness</orig><reg>unearthliness</reg></choice> about the sound which caused the men to stop aghast. The horses commenced to rear and plunge. Delville lost his seat, and fell, and, after many vain efforts to control their steeds, the others dismounted. The animals rushed away, leaving the men on foot amongst the dead.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath">The unearthly groans were repeated; the blood of the conscience-stricken men curdled. Bolder than the others, Delville advanced to the spot from whence came the sounds. He found the body of a young and beautiful woman. <seg type="Blame" subtype="IndiansLDSInfluence">The savages</seg> had spared the lovely features, and a mass of luxuriant, amber-tinted hair fell around her. A few crimson drops slowly trickled down her white cheeks. One arm, torn and mangled, had fallen by her side, the other pressed to her bosom a babe. Its head was cleft, and the weapon that had dealt death to the child had opened a ghastly wound in its mother's breast. Delville placed his hand upon her heart. The murderer's touch thrilled the dead. The woman rose, stared wildly around, then looked upon her babe. A fiery light, not of this earth, gleamed out of her stony eyes. She raised the bleeding arm, stretched forth the mutilated hand till it almost touched Delville, a voice dread and awful issued from the set lips. The three men, frozen with terror, speechless, motionless, gazed at this corpse, galvanized into life by the spirit of vengeance.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Extra-legalViolence">The voice pronounced their doom:</seg></seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Extra-legalViolence">"As you have shed blood, so yours shall flow. Years may roll on, but vengeance is sure. And you, you" (the hand pointed to Silvertung and the third one) "shall meet me here. Here will I demand your lives, your souls. Here will I be avenged."</seg></seg></seg></seg></p>
+            
+<pb n="148" xml:id="mmm.fiction.sandette.1878.155"/>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath">The light died out of the eyes. The spirit vanished. A corpse fell back; and, as the gray dawn crept over the hills of that valley of death, three panic-stricken men fled away, crime-haunted forevermore.</seg></seg></seg></p>
+
+<gap reason="irrelevant" />
+
+<pb n="203" xml:id="mmm.fiction.sandette.1878.210"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">Everything went well with this zealous servant of the Lord. If sometimes the doom pronounced against him <seg type="Massacre" subtype="Location">on <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> afrighted his memory, he soon laughed away the superstitious dread, for blessings, not curses, seemed to be his portion. Riches, power, and a numerous progeny, were his. What more could a Saint desire?</seg></p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<pb n="261" xml:id="mmm.fiction.sandette.1878.268"/>
+
+<div1 type="chapter">
+
+<head>CHAPTER XXVII.</head>
+
+<head>RUIN.</head>
+
+<p>DELVILLE'S store, usually the busiest on the street, was closed. For two days it had given no signs of life: dark, deserted, no customers, no clerks, the show windows empty.</p>
+
+<p>The passers-by shook their heads. Some of the bolder went to the door as if to enter: then they stopped, hesitated, and passed on to the new store&#8212;the Lord's store.</p>
+
+<p>The street gossips drew nearer together to discuss the question of Delville's ruin.</p>
+
+<p>"He's squelched," said one.</p>
+
+<p>"I'm mighty glad, for he gave himself no end of airs."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"It's a just judgment for his share in that Mountain Meadows business."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Do you think he had anything to do with that?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"'Tain't always best to tell one's thoughts; but I wouldn't have his conscience for all the gold mines in the world."</seg></p>
+
+<pb n="262" xml:id="mmm.fiction.sandette.1878.269"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Well, he wasn't alone in the business; and I'd stick it out with the old lion if it were me."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Yes, and get chawed up for your pains."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Tut, tut: those days are gone by."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Don't be too sure o' that. Any how, old Del is ruined: he's in a pretty tight fix, I can tell ye."</seg></p>
+
+<p>The gossips were right, as they often are. Mr. Delville was ruined. Relying upon his excellent business, he had expended beyond his means in building and speculations. Debt, the evil genius of the business man, held him.</p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<pb n="364" xml:id="mmm.fiction.sandette.1878.373"/>
+
+<div1 type="chapter">
+
+<head>CHAPTER XLIX.</head>
+
+<head>RETRIBUTION.</head>
+
+<p><seg type="Massacre" subtype="Location"><seg type="Massacre" subtype="Aftermath">A BELATED traveler rides into<geogName type="valley" key="Mountain Meadows"> Mountain Meadows</geogName>&#8212;meadows no more save in tradition. The hills are bare, and scarred by deep chasms and clefts, as if rent by horror and despair. The springs have disappeared into the earth. The trees are withered skeletons. The waving grass, the wild cherries festooned with virgin's bower, the bright flowers, are all dead, dead. The once blooming paradise is a desolate waste of alkali and sage brush&#8212;a spot accursed&#8212;the haunt of the wolf and coyote, whose howlings make terrible the night. Weird stories are whispered of phantom caravans that camp in the valley at moonless midnight, of restless spirits demanding vengeance; and the bravest quake when compelled to cross at night the field of blood. Swiftly they rush through it, with bated breath and closed eyes. <seg type="Reaction" subtype="Commemoration">On a hillock a pile of stones, heaped around a wooden cross, marked the graves of the massacred; but the stones have slipped away, the cross is broken.</seg> Ruin and desolation everywhere.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Absorbed in angry thoughts, the traveler rides on, heedless of surroundings. His journey has been disastrous. Failure has dogged his steps. Silvertung is now hastening homewards to solace his chafed spirit with domestic tyranny. How he will triumph over the proud Elsie! how he will break that fiery spirit! The anticipation is so delightful that he laughs aloud. Echo caught the sound, and answered a wailing shriek that roused him. He stopped and looked around. By the faint starlight he recognized the place; then
+            
+<pb n="365" xml:id="mmm.fiction.sandette.1878.374"/>
+ 
+cold drops of agony oozed from every pore. Like all tyrants, Silvertung was a moral coward; and now, alone in the darkness, upon <seg type="Massacre" subtype="Location">the crime-cursed field</seg>, his heart grew chill. The horrors of that fearful night closed around him.<seg type="Massacre" subtype="Casualties"> Again he saw the ground strewn with bleeding victims, again he heard the splash of blood, its reeking odor filled his nostrils.</seg> He spurred his horse; but the animal stumbled into one of the many hollows and lamed himself. He must, perforce, creep over the accursed valley, while ghastly specters crowd around him, their blood-stained skeleton fingers pointing at him, the unholy glare of their fiery eyes burning into his brain. In vain he tries to escape. To which ever side he turns the phantoms meet him, pursue him&#8212;crying, Vengeance! vengeance!</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">He reaches <seg type="Reaction" subtype="Commemoration">the grave mound</seg>. Guilty fear transforms the scattered stones into gleaming skulls. But ah! there is something yet more fearful&#8212;his horse scents danger, it trembles and plunges; looming up ominously near <seg type="Reaction" subtype="Commemoration">the broken cross</seg> is a figure of a horseman. The figure approaches&#8212;the elder sees a dark, scarred face and passion-lit eyes&#8212;eyes he thought were closed in death long years ago. His haunted soul shudders at the sight of this vengeful specter. The elder makes a desperate effort to flee. A voice, to him terrible, thunders out: "Seducer, murderer, halt! The avenger has come!" The terrified Saint stops&#8212;paralyzed&#8212;on the very spot where, years ago, <seg type="Massacre" subtype="Casualties">a murdered victim</seg> pronounced his doom. She rises up before him now, menacing, triumphant. By her side stands the avenger. Silvertung felt his hair turn white. The awful moment had come. The moment of doom.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The avenger spoke again: "I meet you at last, to
+
+<pb n="366" xml:id="mmm.fiction.sandette.1878.375"/>
+
+demand of you <seg type="Massacre" subtype="Casualties">my wife, my child, my home, my lost life</seg>. What have you to answer, seducer, liar, murderer? What, you tremble! Are you a coward? Then die a coward's death."</seg></p>
+
+<p>There was a dash, a detonation. The doom was fulfilled. Edward Lascelle was avenged. Elsie was
+free.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

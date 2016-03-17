@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590426">
+    <teiHeader>
+	<fileDesc>
+	   <titleStmt>
+	       <title level="m" type="main">Untitled ["And there have been more murders committed&#8230;"]</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.vt.18590426</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	   <sourceDesc>
+		<bibl>
+		   <title level="j">Valley Tan</title>
+		   <title level="a" type="main">Untitled ["And there have been more murders committed&#8230;"]</title>
+		   <publisher></publisher>
+		   <pubPlace>Salt Lake City, UT</pubPlace>
+		   <date when="1859-04-26">April 26, 1859</date>
+		</bibl>
+	   </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		   <term></term>
+	  	</keywords>
+		<keywords scheme="original" n="action">
+		   <term></term>
+	 	</keywords>
+		    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-18"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-29"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie Heupel</name> Original transcription</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.vt.18590426.001"/>
+
+<p><q><seg type="Source" subtype="Reprinted">"And there have been more murders committed and more blood shed in the country, within the last <choice><sic>eight eight</sic><corr>eight</corr></choice> months, than before, since its organization."</seg></q></p>
+
+<p><seg type="Source" subtype="Reprinted">We clip the above from the Church organ of the 20th inst., and its is a piece of the whole which abounds in self-laudation, and hypocritically assumes what a good people we are.</seg></p>
+
+<p><seg type="Blame" subtype="Gentiles">After assuming that innumerable murders have been committed within a specified time, the very period when the <q>"Gentiles"</q> have been more numerous than heretofore, the Editor, although he does not say it, seeks to leave the impression that they are the offending parties.</seg>  <seg type="Blame" subtype="LDS_LDS">It is the a species of deceit and chicanery peculiar to Mormonism, and so long practised that we are led to believe that they esteem falsehood a virtue when it can be made to suit their own purposes.</seg></p>
+
+<p>The facts, however, are not true, and we challenge their record to their proof.</p>
+
+<p>We would not pretend to say there had not been many murders committed here within the last six months.  God and the Church only know this, for the Hierarchy have a peculiar way of their own to dispose of offenders; and if the Editor will count them in, we, who are not posted in the premises, will at a venture coincide with him, for the inquisition is so mysterious in its operations and its executions so silent that <q>"out-siders"</q>are not informed, until some bold man like Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> rips open its dark and damning deeds and exposes them to the gaze of the world.</p>
+
+<p><seg type="Context" subtype="WesternViolence">But why, we ask, is crime limited to certain geographical boundaries of this "country, and thus set up the <placeName type="county" key="Great Salt Lake Countoy">county of Great Salt Lake</placeName> as the standard of morals for all the balance of <placeName type="state" key="Utah Territory">the Territory</placeName>, or is the Organ afraid to advance beyond its precincts, else by its tramp it should startle the affrighted ghosts of hundreds of men, women and even children, who have experienced the tender charities and mercies of the church by being butchered.</seg>  It is a very tender subject, we should think, for them to broach; but backed by the power of the church which, through its new jury law, enables them to pack juries, both grand and traverse, they feel doubtless a little emboldened.  <seg type="Context" subtype="ParrishMurder">The bloody record of the <persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrish</persName></persName> murder as already gone before the world.</seg>  <seg type="Reaction" subtype="FederalInvestigation">An investigation will doubtless be made of the wholesale slaughter <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, while crimes of equal magnitude, but not in so extensive a scale will, we are assured, be elicited, if there is power in the Federal authorities to do it&#8212;a slim chance to convict we admit&#8212;but then the facts can and will be established.</seg>  The Church Organ should be very cautious how they claim all the virtue and piety, as they have done repeatedly within the last six or eight months, Pharisee-like; for if they would take our advice, they would rather be smiting their breasts like the publican of old, and calling upon God to have mercy upon them as sinners.  As wickedness seems to have been charged upon a large and respectable portion of <placeName type="state" key="Utah Territory">this Territory</placeName>, the <q>"Gentiles,"</q> not only by their press, but through their pulpit or platform at the Tabernacle, it may not be amiss for us to ask a few questions, although it will be considered impertinent when measured by the Mormon rule, <q>"Mind your business."</q></p>
+
+<p>But this is our business&#8212;it is the business of every independent journalist to expose crime no matter by whom committed; to aid in bringing offenders to justice and thus do all in his power to reform society and thus establish a more pure and healthy social and political organization.  As the church by its vauntings and boastings has almost challenged the record, in addition to the Mountain Meadow massacre already referred to, and which they thought of not sufficient importance to notice, we would, in addition to what we have heretofore published, ask in relation to the following, because we have received several letters from friends of the slaughtered, one of which appears in our columns to-day.  We ask, then, for information if nothing else, as follows:</p>
+
+<p>The murder in the fall of 1857 of <persName key="Aiken, John">John</persName> and <persName key="Aiken, Thomas">Thomas Aiken</persName>, <persName key="Jones, Honesty">Honesty Jones</persName>, Mr. <persName key="Dichard">Dichard</persName> and another gentleman, residents of <placeName type="county" key="Mariposa County, CA">Mariposa county</placeName>, <placeName type="state" key="California">Cal.</placeName>, who came to this place on business connected with the army.  Of this party one was killed in the this city and his body thrown into the <geogName type="waterway" key="Jordan River">Jordan</geogName>.  The other four were taken South and two of them were murdered between <placeName type="settlement" key="Nephi, UT">Nephi (Salt creek <choice><sic>settlemet</sic><corr>settlement</corr></choice>)</placeName> and <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, by a party of white Indians, who attacked them on the road, the other two having made their escape from the murderers of their companions fled back to <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, where they were also killed.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.floyd.1858.1">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	        <title level="m" type="main">Message of the President of the United States: Report of the Secretary of War, 1857</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>John</forename> <forename type="middle">B.</forename> <surname>Floyd</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.floyd.1858.1</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+	        <title level="a">Report of the Secretary of War, War Department, Washington, December 5, 1857</title>
+	        <title level="m">Message of the President of the United States to the Two Houses of Congress at the Commencement of the First Session of the Thirty-Fifth Congress</title>
+	        <title level="s"> Vol. II.  US Senate. 35th Cong., 1st sess. Senate Exec. Doc. 11</title>
+	        <author><forename>John</forename> <forename type="middle">B.</forename> <surname>Floyd</surname></author>
+	        <publisher>William A. Harris, Printer</publisher>
+		    <pubPlace>Washington, DC</pubPlace>
+	        <extent>3-9</extent>
+		    <date when="1858">January 4, 1858</date>
+	        <note type="source">John B. Floyd. "Report of the Secretary of War, War Department, Washington, December 5, 1857," in James Buchanan. <hi rend="italic">Message of the President of the United States to the Two Houses of Congress at the Commencement of the First Session of the Thirty-Fifth Congress</hi> Vol. II.  US Senate. 35th Cong., 1st sess. Washington, DC: William A. Harris, Printer, 1858. Senate Exec. Doc. 11. 3-9.</note>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	     </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+    	    <keywords scheme="original" n="action">
+		<term></term>
+	   </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-24"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+    	<change when="2011-06-14"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Validation</change>
+    	<change when="2009-12-14"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+     </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<front>
+<div1>
+
+<pb n="1" xml:id="mmm.doc.floyd.1858.1.001"/>
+
+<head type="sub">35TH CONGRESS, 1st <hi rend="italic">Session</hi>	SENATE.     Ex. Doc.  No. 11.</head>
+<head type="main">MESSAGE<lb/>
+OF THE<lb/>
+PRESIDENT OF THE UNITED STATES,<lb/>
+TO THE<lb/>
+TWO HOUSES OF CONGRESS<lb/>
+AT THE<lb/>
+COMMENCEMENT OF THE FIRST SESSION<lb/>
+OF<lb/>
+THE THIRTY-FIFTH CONGRESS.</head>
+
+<milestone unit="section" rend="horbar"/>
+    
+<p><date>JANUARY 4, 1858.</date>&#8212;<hi rend="italic">Resolved</hi>, That the usual number of copies, and fifteen thousand additional copies of the Annual Message of the President of the United States and accompanying documents be printed for the use of the Senate.</p>
+    
+<p><hi rend="bold"><hi rend="center">Vol. II</hi></hi><lb/>
+<hi rend="center">WASHINGTON:<lb/>
+WILLIAM A. HARRIS, PRINTER.<lb/>
+1858.</hi></p>
+</div1>
+</front>
+    
+<body>
+    
+<div1 type="government_document">
+
+<pb n="3" xml:id="mmm.doc.floyd.1858.1.003"/>
+
+<head type="sub">REPORT OF THE SECRETARY OF WAR</head>
+
+    <milestone unit="section" rend="horbar"/>
+    
+<opener>WAR DEPARTMENT, <hi rend="italic">Washington, December</hi> 5, 1857</opener>
+
+<p>SIR: I have the honor to submit the following report of the condition and operations of the army during the past year.</p>
+ 
+<p>The army consists of nineteen regiments, divided into ten of infantry, four of artillery, two of dragoons, two of cavalry, and one of mounted riflemen. The whole strength of the army, as posted, consists of about 17,984 men; and the actual strength, on the first of July last, was 15,764. In addition to the movements which the troops have been called on to make this year, which are set forth in a separate paper, prepared by the Adjutent General and herewith transmitted, this force is called upon to garrison 68 forts of a large and permanent character, so far, at least, as it is possible to supply men for the purpose; and to occupy 70 posts less permanently established, where the presence of a three is absolutely required. The area over which these forts and posts are spread embraces a circuit of about 3,000,000 square miles, and requires a journey of many thousand miles to visit the principal ones of them.</p>
+
+<p>The external boundary of our country, requiring throughout a more or less vigilant military supervision, is 11,010 miles in length, presenting every variety of climate and temperature, from the inclement cold of our Canada frontier to the tropical regions of southern <placeName type="state" key="Texas">Texas</placeName>. But the occupation of this long line of frontier is a trifling difficulty in comparison with that of protecting the double line of Indian frontier, extending from the <geogName type="waterway" key="Lake of the Woods">Lake of the Woods</geogName> to the banks of the <geogName type="waterway" key="Rio Grande">Rio Grande</geogName>, on the east side of the <geogName type="mountain" key="Rocky Mountains">Rocky mountains</geogName>, and from beyond the <geogName type="waterway" key="Oregon River">river Oregon</geogName> on the British frontier to the head of the <geogName type="waterway" key="Gulf of California">Gulf of California</geogName>, on the western slope of those mountains. Superadded to these lines, requiring to he occupied, are the great lines of intercommunication between the valley of <geogName type="waterway" key="Mississippi River">the Mississippi</geogName> and the <geogName type="waterway" key="Pacific Ocean">Pacific ocean</geogName>, which imperatively demand that protection which only the United States troops can furnish. These lines are very long, and are now extremely important, whilst every year renders them more and more so. From our western frontier of settlements to those of northern <placeName type="state" key="Oregon">Oregon</placeName> the distance is about 1,800 miles; from the game frontier to the settlements of <placeName type="state" key="California">California</placeName>, via <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, is 1,800 miles; from the frontier of <placeName type="state" key="Arkansas">Arkansas</placeName>, at <orgName type="military" key="Fort Smith">Fort Smith</orgName>, by <placeName type="settlement" key="Albuquerque, NM">Albuquerque</placeName> or <placeName type="state" key="Santa Fe, NM">Santa Fe</placeName>, to <orgName type="military" key="Fort Tejon">Fort Tejon</orgName>, is about 1,700 miles; and from <placeName type="settlement" key="San Antonio, TX">San Antonio</placeName>, by <placeName type="settlement" key="El Paso, TX">El Paso</placeName>, to <placeName type="settlement" key="San Diego, CA">San Diego</placeName>, near the borders of the white settlements, is 1,400 miles; constituting an aggregate line of 6,700 miles which ought to
+
+<pb n="4" xml:id="mmm.doc.floyd.1858.1.004"/>
+
+be occupied, and which we pretend, in some sort, to keep open and defend.</p>
+
+<p>This simple statement of facts demonstrates, stronger than any arguments could do, the absolute necessity for an increase of the army.</p>
+
+<p>The policy of our government, and the spirit of our people, are alike opposed to a large standing army, and very properly so; but if an army is needful at all, it should be organized in such manner as to answer the purposes for which it is required. Its numbers should correspond with the service it is intended to perform. If from any disproportion in this respect it stops short of efficiency, it becomes insignificant, and entails upon the country expenditures wholly incommensurate with any service it can render.</p>
+
+<p>It will not be denied that an army, properly organized and of sufficient strength, constitutes at once the cheapest and most efficient means by which the indispensable services it is designed to perform can be secured by the government.</p>
+
+<p><seg type="Context" subtype="WesternViolence">There is no substitute for an army; and to render it at once economical and efficient, adequate numbers are essential. If there is a higher duty than another devolved upon a well regulated government, it is to afford perfect protection to its citizens against outrage and personal violence; yet this great obligation is not performed by the government of the United States. For a large portion of the year, scarcely a week elapses without bringing to us intelligence of some Indian massacre, or outrage more shocking than death itself; and it most frequently happens that these acts go unpunished altogether, either from the want of troops for pursuit, or from their remoteness from the scenes of slaughter, which renders pursuit useless.</seg></p>
+
+<p><seg type="Context" subtype="WesternViolence">In former times, when the hardy pioneer was allured away from the line of white settlements by fertile lands alone, he scarcely ventured so far as to be beyond succor and protection from those he left behind. But far different is the state of things at present. Our Pacific settlements, with their great inducements of rich lands, salubrious climate, and fabulous mineral treasures, present to the inhabit-ants of the Atlantic States temptations to emigration which the privations of an intervening wilderness and desert, and continual danger from roving bands of savages banging upon their march for many hundred miles together, cannot deter them from undertaking. This migration strengthens the natural tics between the Atlantic and Pacific States, and adds immensely to the defensive strength of that remote region. Justice and humanity alike demand protection for these emigrants at the hands of our government.</seg></p>
+
+<p>To render governmental protection to our vast frontier and emigration effect, a very large augmentation of <unclear>'	.</unclear> army would not be required. Five additional regiments would <unclear>	</unclear>the purpose if properly posted.</p>
+
+<p>It will be seen from a paper careful, prepared from reliable data by the Adjutant General, that no increase of our forces is so efficient, or near so cheap, as the augmentation of our regular army.</p>
+
+<p>A line of posts running parallel with our frontier, but near to the Indians' usual habitations, placed at convenient distances and suitable positions, and occupied by infantry, would exercise a saluvary
+
+<pb n="5" xml:id="mmm.doc.floyd.1858.1.005"/>
+
+restraint upon the tribes, who would feel that any foray by their warriors upon the white settlements would meet with prompt retaliation upon their own homes. In addition to this means of defence, there should be concentrated along our own frontier, at eligible points, large bodies of efficient horse, all or any portion of which could, upon the opening of spring and the first appearance of grass, march to punish aggression or repress any spirit of insubordination. These cantonments for cavalry should be established at points where corn and hay are abundant and cheap. The present is a favorable period for the choice of permanent locations, for the reason that upon a large proportion of our northwest frontier, particularly, settlements have nearly reached the limits of cultivable lands, beyond which, while there are spots of rich soil and tolerable pasturage, they are not sufficient for extended settlement. <seg type="Context" subtype="IndianRelationsUS">Hence there is no likelihood of military stations being left, as heretofore, in the heart of a thickly populated country, after the lapse of a very few years. The posts selected in the manner now indicated would become useless only when the Indian tribes ceased to be formidable, or disappear altogether, for they would be upon the line of permanent frontier, which has now been reached.</seg></p>
+
+<p>The concentration of these large bodies of horse at eligible points upon our borders would have the best influence both upon the discipline and effectiveness of the corps. Throughout the winter, when field operations were impossible, the men could be perfectly drilled, and the horses would be put in complete order for the most active and arduous service in the earliest spring. This double line of defence would constitute a perfect protection to the settlements, in the first place, and would soon prove far the most economical system of frontier protection, because it would greatly diminish and cheapen the transportation of military stores and munitions of war, which is now the chief source of our most unsatisfactory frontier expenditure. The infantry stations would not necessarily be large, and supplies could be furnished them from convenient points at very moderate rates.</p>
+
+<p>For these reasons, and many others which readily suggest themselves, I venture to submit to you the propriety of asking from Congress an increase of the army. I am strengthened in my convictions of its propriety from the recommendations of my predecessor, whose thorough knowledge of the army and its requirements give his opinions great weight, and from the recommmendations, also, of the general in chief.</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">The army has been very actively and constantly engaged in the performance of arduous and important duties. The Indian war in <placeName type="state" key="Florida">Florida</placeName> claimed the attention of a strong force, composed mainly of the fifth infantry and fourth artillery, during the spring and early part of the summer. This war has been prosecuted with all the vigor which the character of the country and the', of the enemy would admit of. The country is a perpetual succession of swamps and morasses, almost impenetrable, and the Indians partake rather of the nature of boasts of the chase than of men capable of resisting in fight a military power. Their only strength lies In a capacity to elude pursuit.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">Exigent affairs in the west demanded the removal of those <unclear>.;o</unclear> regiments from <placeName type="state" key="Florida">Florida</placeName> to the <placeName type="state" key="Kansas">Territory of Kansas</placeName>; but they have 
+
+<pb n="6" xml:id="mmm.doc.floyd.1858.1.006"/>
+
+been replaced by volunteers, and the pursuit of the Indians has been continued by the latter troops up to the present time. The services rendered by these volunteer troops have been spoken of in terms of merited commendation in the reports of officers in command.</seg></p>
+
+<p>Two very important and momentous subjects forced themselves upon the attention of this department at an early period of my incumbency. These were the complications growing out of the troubles in the <placeName type="state" key="Kansas">Territory of Kansas</placeName>, and the still more involved and difficult relations borne by the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> towards this government. The latter has recently assumed a very threatening attitude, of which I will presently speak.</p>
+
+<p>The very anxious and earnest representations of danger to the public peace which were made by the governor of <placeName type="state" key="Kansas">Kansas</placeName>, growing out of exasperations between the different political parties there, and his earnest call for a large body of troops, required the transfer of the tenth regiment of infantry and the fourth regiment of artillery to Fort Leavenworth, and also the recall of Colonel <persName key="Sumner, Edwin V.">Sumner</persName>'s command, then in the field, and that engaged in marking the southern boundary of <placeName type="state" key="Kansas">Kansas</placeName>, under the command of Lieutenant Colonel <persName key="Johnston, Albert Sidney">Johnston</persName>, of the first cavalry. From other quarters, likewise, troops were moved to <placeName type="state" key="Kansas">Kansas</placeName>, until a force was concentrated there sufficient, in the opinion of the governor, to repress all insubordination and to insure the peace of <placeName type="state" key="Kansas">the territory</placeName>. The result has fully answered the expectations of that distinguished functionary. The peace of <placeName type="state" key="Kansas">Kansas</placeName> has been undisturbed.</p>
+
+<p>The requisite provision, however, for this desirable object, agreeably to the wishes of the governor, necessitated a very important modification of the plans then already determined upon with regard to the movement of troops to <placeName type="state" key="Utah Territory">Utah</placeName>. A large portion of both horse and foot, intended for this distant service, was detached and remained behind, leaving the expedition to proceed with the fifth and tenth infantry, the batteries of Captains <persName key="Phelps, John W.">Phelps</persName> and <placeName type="settlement" key="Reno, NV">Reno</placeName>, with a part of the second dragoons, which followed long after the head of the column had set out on the march.</p>
+
+</div1>
+
+<div1>
+<head type="sub">UTAH AND THE EXPEDITION THITHER.</head>
+
+<p>This subject has very recently assumed so extraordinary and important an attitude, that I deem it proper to dwell upon it somewhat more at length than, under other circumstances, would have been required.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="LDSPersecution">The <placeName type="state" key="Utah Territory">Territory of Utah</placeName> is peopled almost exclusively by the religious sect known as MORMONS. From the time their numbers reached a point sufficient to constitute a community capable of anything like independent action, this people have claimed the right to detach themselves from the binding obligations of the laws which governed the communities where they chanced to live. They have substituted for the laws of the land a theocracy, having for its head an individual whom they profess to believe a prophet of God. This prophet demands obedience, and receives it implicitly from his people, in virtue <unclear>  </unclear>what he assures them to be authority derived from revelations <choice><orig>re-
+    
+<pb n="7" xml:id="mmm.doc.floyd.1858.1.007"/>
+
+ceived</orig><reg>received</reg></choice> by him from Heaven. Whenever he finds it convenient to exercise any special command, these opportune revelations of a higher law come to his aid. From his decrees there is no appeal; against his will there is no resistance. The general plan by which this system is perpetuated consists in calling into active play the very worst traits of the human character. Religious fanaticism, supported by imposture and fraud, is relied on to enslave the dull and ignorant; whilst the more crafty and less honest are held together by stimulating their selfishness and licensing their appetites and lusts. Running counter, as their tenets and practices do, to the cherished truths of Christian morality, it is not to be wondered at that, wherever these people have resided, discord and conflict with the legal authorities have steadily characterized their history.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="LDSPersecution">From the first hour they fixed themselves in that remote and almost inaccessible region of our Territory, from which they are now sending defiance to the sovereign power, their whole plan has been to prepare for a successful secession from the authority of the United States and a permanent establishment of their own. They have practised an exclusiveness unlike anything ever before known in a Christian country, and have inculcated a jealous distrust of all whose religious faith differed from their own; whom they characterize under the general denomination of GENTILES. They have filled their ranks and harems chiefly from the lowest classes of foreigners, although some parts of the United States have likewise contributed to their numbers. They are now formidable from their strength, and much more so from the remoteness of their position and the difficulty of traversing the country between our frontiers and <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake</placeName>. This Mormon brotherhood has scarcely preserved the semblance of obedience to the authority of the United States fir some years past; not at all, indeed, except as it might confer some direct benefit upon themselves, or contribute to circulate public money in their community. Whenever it suited their temper or caprice, they have set, the United States authority at defiance, Of late years, a well grounded belief has prevailed that <seg type="Context" subtype="IndianRelationsLDS">the Mormons were instigating the Indians to hostilities against our citizens, and were exciting amongst the Indian tribes a feeling of insubordination and discontent.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="LDSPersecution">I need not recite here the many instances in their conduct and history on which these general <unclear>allegations are</unclear> founded, especially the conduct they have adopted <unclear>'ritlet. -',</unclear> twelve months towards the civil authorities of the United States.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="LDSPersecution">It, has, nevertheless, <unclear>always </unclear>been the policy and desire of the federal government to avoid collision with this Morman community. It has borne with the insubordination they have exhibited under circumstances when respect for; their own authority has frequently counselled harsh measures discipline. And this forbearance might still be prolonged, and the <unclear>cads rife</unclear> amongst them be allowed to work out their own cure, if this community occupied any other theatre, isolated and remote from the seats of civilization, than the one they now possess. But, unfortunantely for these views, their settlements lie in the great pathway which leads from our Atlantic States to the new and flourishing communities growing up upon our Pacific seaboard.</seg></seg>
+
+<pb n="8" xml:id="mmm.doc.floyd.1858.1.008"/>
+    
+<seg type="Context" subtype="IndianRelationsLDS">They stand a lion in the path; not only themselves defying the military and civil authorities of the government, but encouraging, if not exciting, the nomad savages who roam over the vast unoccupied regions of the continent to the pillage and massacre of peaceful and helpless emigrant families traversing the solitudes of the wilderness.</seg> The rapid settlement of our Pacific possessions; the rights in those regions of emigrants unable to afford the heavy expenses of transit by water and the isthmus; the facility and safety of military, commercial, political, and social intercommunication between our eastern and western populations and States, all depend upon the prompt, absolute, and <unclear>thurough</unclear> removal of a hostile power besetting this path midway of its <unclear>;c,</unclear> at a point where succor and provisions should always be found, rather than obstruction, privation, and outrage. However anxiously the government might desire to avoid a collision with this or any other community of people under its jurisdiction, yet it is not possible for it to postpone the duty of reducing to subordination a rebellious fraternity besetting one of the most important avenues of communication traversing its domain, and not only themselves defying its authority, but stimulating the irresponsible savages hovering along the highway to acts of violence indiscriminately upon all ages, sexes, and conditions of wayfarers.</p>
+
+<p><seg type="Context" subtype="UtahWar">From all the circumstances surrounding this subject at the time, it was thought expedient during the past summer to send a body of troops to <placeName type="state" key="Utah Territory">Utah</placeName> with the civil officers recently appointed to <placeName type="state" key="Utah Territory">that Territory</placeName>. As the intention then was merely to establish these functionaries in the offices to which they had been commissioned, and to erect <placeName type="state" key="Utah Territory">Utah</placeName> into a geographical military department, the force then despatched and now en route to the Territory was thought to be amply sufficient for those purposes. Supplies were abundant there, and <seg type="Context" subtype="IndianRelationsUS">the position was favorable for holding the Indians in check throughout the whole circumjacent region of country.</seg> <seg type="Context" subtype="LDSPersecution">It was hardly within the line of reasonable probability that these people would put themselves beyond the pale of reconciliation with the government by acts of unprovoked, open, and wanton rebellion. It will he seen, however, from the documents accompanying this repo:, that flagrant acts of rebellion have been committed by them, In the face of positive assurances given them that the intention of the government in sending troops into the military department of <placeName type="state" key="Utah Territory">Utah</placeName> was entirely pacific.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Great care had been taken, in preparing for the march to <placeName type="state" key="Utah Territory">Utah</placeName>, that nothing should seem to excite apprehension of any action on the part of the army in the least conflicting with the fixed principles of our institutions, by which the military is strictly subordinate to the civil authority. The instructions to the commanding officer were deliberately considered and carefully drawn; and he was charged not to allow any conflict to take place between the troops end the people of <placeName type="state" key="Utah Territory">the Territory</placeName>, except only in case he should be called on by the governor for soldiers to act as a <unclear><hi rend="italic">posse cominas</hi></unclear> in enforcing obedience to the laws.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">In conformity with this sentiment, and to assure these people of the real intention of the movement, an active, discreet officer was sent in advance of the army to <placeName type="state" key="Utah Territory">Utah</placeName> for the purpose of purchasing <choice><orig>pro-
+
+<pb n="9" xml:id="mmm.doc.floyd.1858.1.009"/>
+
+visions</orig><reg>provisions</reg></choice> for it, and of assuring the people of <placeName type="state" key="Utah Territory">the Territory</placeName> of the peaceful intentions of the government. This duty was faithfully performed; the chief men of the fraternity were assured that no violence was intended towards them or any one, and that nothing could be further from the intention of the government or the army than to molest any one for their religious opinions, however abhorrent they might be to the principles of Christian morality. This officer found, upon entering the Territory, that these deluded people had already, in advance of his arrival, or of any information, except as to the march of the column, determined to resist their approach and prevent, if possible, and by force, the entrance of the army into the <geogName type="valley" key="Salt Lake Valley">valley of Salt Lake</geogName>. Supplies of every sort were refused him. The day after his departure from the city, on his way back, <persName key="Young, Brigham">Brigham Young</persName> issued his proclamation, substantially declaring war against the United States, and, at the same time, putting the Territory under martial law. The facts connected with this mission of Captain <persName key="Van Vliet, Stewart">Van Vliet</persName> will appear more in detail from his reports, herewith transmitted.</seg></p>
+
+<p><seg type="Context" subtype="WesternViolence">In view of the menacing attitude of affairs in <placeName type="state" key="Utah Territory">Utah</placeName>, and of the importance of a prompt and thorough suppression of the spirit of rebellion reigning there, I must repeat my recommendation of five new regiments which I am persuaded is the very smallest addition to the army hich the exigencies of the service will allow.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfh.18571012a">
+    <teiHeader>
+	<fileDesc>
+	   <titleStmt>
+		<title level="m" type="main">Topics of the Day</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfh.18571012a</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Editorial comments on the massacre and likely culpability of Mormons.</note>
+	    </notesStmt>
+
+	   <sourceDesc>
+		<bibl>
+		    <title level="a">Topics of the Day.</title>
+		    <title level="j">San Francisco Herald</title>
+		    <author>John Nugent, Editor</author>
+		    <publisher>San Francisco Herald</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1857-10-12">1857-10-12</date>
+		</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+   <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+			<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enchancement and Encoding Enhancement</change>
+    	<change when="2007-05-31"><name>Leslie Working</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+   
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.sfh.18571012a.001"/>
+
+<head>Topics of the Day.</head> 
+
+<p><ref target="mmm.news.sfh.18571012b" type="related">In another column </ref> will be found the details of <seg type="Blame" subtype="IndiansLDSInfluence">the horrible slaughter by the Indians of <seg type="Massacre" subtype="Casualties">more than one hundred emigrants</seg>, <seg type="Massacre" subtype="Location">at a point three hundred miles this side of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg> After reading them, the conclusion can hardly be resisted, that the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> have had something to do with this cruel butchery.</seg> <seg type="Encounter" subtype="TradeIndian"><seg type="Blame" subtype="EmigrantBehavior">The statement that the Indians were impelled to fall upon the emigrants because they gave them money instead of goods for the things which they had purchased from them</seg>, and also that <seg type="Encounter" subtype="Poison">they placed poison in the body of an ox which had died, and also poisoned the pools,</seg> is not entitled to much weight, for, as the <orgName type="newspaper" key="Los Angeles Star">Star</orgName>&#8212;the paper from which we copy&#8212;very justly remarks, "it is hardly creditable that a party traveling along a highway would act in the manner described, and endanger the lives of those coming after them."</seg> We are <choice><sic>loth </sic><corr>loathe</corr></choice> to believe that the Mormons, as bad as they may be, could have instigated this massacre; <seg type="Blame" subtype="LDS_LDS">but when we reflect that there are grounds for believing that they had a hand in the murder of <persName key="Gunnison, John">Gunnison</persName> and his party&#8212;that there is in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> an organization of blood-thirsty scoundrels, known as the "<orgName type="religious" key="Danites">Destroying Angels</orgName>," who stop at no villainy, and <seg type="Context" subtype="PrattMurder">that <seg type="Emigrants" subtype="StateAffiliationArkansas">the persons murdered were from the State in which the <persName key="Pratt, Parley Parker">Sainted Parley</persName> received the reward for his crimes</seg>, it is impossible to divert the mind from the suspicion that others besides the Indians had a hand in this horrible butchery.</seg></seg> <seg type="Source" subtype="Attributed_Christian">It will also be seen, that the <persName key="Christian, J. Ward">San Bernardino Mormon</persName>, whose letter detailing the circumstances is given in another column, expresses the belief that it will be attributed to the Mormons, and it is an old maxim, that he who "excuses, accuses himself;"</seg> but our readers are competent to form an opinion on the subject themselves. All the facts relating to the subject, as far as known, are before them.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18590511">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Visit of the Superintendent of Indian Affairs to Southern Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+                </editionStmt>
+	        <publicationStmt>
+	        <idno>mmm.news.dn.18590511</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Desert News</title>
+	        <title level="a" type="main">Visit of the Superintendent of Indian Affairs to Southern Utah</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1859-05-11">May 11, 1859</date>
+	    </bibl>
+	</sourceDesc>
+	
+	</fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-08-14"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-08-14"><name>Katie Heupel</name> Original Transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dn.18590511.001"/>
+
+<head>VISIT OF THE SUPERINTENDENT OF INDIAN AFFAIRS TO SOUTHERN UTAH.</head>
+
+<opener><dateline>G. S. L. CITY, May 5, 1850.</dateline>
+<salute>HON. ELIAS SMITH:</salute></opener>
+
+<p>DEAR SIR:&#8212;Yesterday I returned from a laborious, though interesting trip through the extreme southern portion of <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+
+<p>The purpose of my visit was to see and learn the condition, locality and character of the <orgName type="tribe" key="Paiute">Pi-ute tribe of Indians</orgName> and <seg type="Massacre" subtype="Survivors">to bring certain children to this city.</seg></p>
+
+<p>The Pi-ute Indians, living in the southern part of <placeName type="state" key="Utah Territory">the Territory</placeName>, are divided into ten bands, each band numbering from 60 to 150, which live and roam on and adjacent to the Southern California road, from <placeName type="settlement" key="Beaver, UT">Beaver</placeName> to the California line, and along the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>, Los Vegas, and the <geogName type="waterway" key="Virgin River">Virgen</geogName> rivers.  There is one principal chief, whose name is <persName key="Tut-se-guvvit">Tut-se-guvvit</persName>, whom all the bands recognize as their head.  Each band has one or more sub-chiefs.</p>
+
+<p>I saw all the chiefs, and many of the Indians during my recent visit.  The Pi-ute Indians are not an exception to the other Indians in <placeName type="state" key="Utah Territory">the Territory</placeName> in regard to poverty; if there is any difference, there are the most destitute.</p>
+
+<p>There is less game in the country claimed by the Pi-ute Indians than any other part of <placeName type="state" key="Utah Territory">the Territory</placeName>.  The vegetation consists on a few scrubby cedars; cottonwoods on the banks of rivers; the cactus, bearing large pods, which when roasted in ashes, are of indifferent taste; a few roots; some grass and weeds, the seeds of which are carefully gathered; and a peculiar shrub, called mesquite.</p>
+
+<p>A few bands cultivated small patches of land; already, however, most of the land, which is advantageously located for irrigation, is occupied.  By begging from the whites, and all sorts of shiftings, these Indians merely sustain life; and I very much fear that necessity has compelled them heretofore to steal cattle, horses and mules, and to commit the many crimes too fresh in our memory.  I will render them such assistance, in future, as will be in my power.</p>
+
+<p>There was during last winter, and still is considerable travel on the southern California road; most of which consisted in trains with goods from <placeName type="state" key="California">California</placeName> for <placeName type="state" key="Utah Territory">Utah Territory</placeName>.  This was during the season of the year when the Indians are most destitute; many, indeed, being in a starving condition, and, as I am informed, some of these trains were severely taxed by the Indians.</p> 
+
+<p>You are well aware that, owing to the entangled condition of affairs here, I could do but little officially until last June.  Since then I have been constantly engaged among the Indians in different parts of <placeName type="state" key="Utah Territory">the Territory</placeName>, endeavoring with my utmost to ameliorate their condition.  It was my desire to have visited the Pi-utes much sooner; this was impossible.</p>
+
+<p>The awful Mountain Meadow tragedy was perpetrated <seg type="Massacre" subtype="Location">in the Pi-ute country</seg>.  But more of this by and bye.</p>
+
+<p>On my way south I found the roads in an exceedingly bad condition, in consequence of snow, mud, tremendous hills, and innumerable rocks and stones.  One wheel of each wagon and my carriage <q>"smashed flat,"</q> besides minor accidents.  Occasionally my mules would stray away; and always at a place form ten to twenty miles from any place.  Patience would have been a great help, under such circumstances, but, never having, in my previous life, had occasion to very carefully cultivate this quality, I found, under these circumstances, some inducement to experiment on the cultivation of patience; which, I am happy to say, has resulted in the acquisition of a small store of that desirable commodity.</p>
+
+<p>After I got south of <placeName type="state" key="Fillmore, UT">Fillmore</placeName>, on my way south, I found it difficult to procure a sufficiency of grain for my stock; for what reason I cannot tell.  However, we finally got to Santa Clara.</p>
+
+<p>I neglected mentioning that Mr. <persName key="Rogers">Rogers</persName> accompanied and rendered me valuable assistance.</p>
+
+<p><seg type="Massacre" subtype="Location">I reached the memorable <geogName type="valley" key="Mountain Meadows">Mountain Meadow valley</geogName>, 300 miles south of this city, Wednesday, April 14, and nooned at the spring in the south end of the valley, where the unfortunate emigrant party was camped from five to eight days.</seg></p>
+
+<p><seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">This valley, usually called Mountain Meadows</geogName>, is about six miles long and from one to three wide, running in a southerly direction, almost a continuous meadow, and excellent grass already growing throughout the whole valley.  The road leading into the valley from the east goes through narrow kanyon; the road from the valley on the south turns abruptly to the eastward and passes over a considerable hill.  There are two narrow outlets from the valley, besides those already mentioned, through which the water runs.  The entire valley, excepting the roads and outlets above alluded to, is surrounded by high hills, with several small ravines or gulleys between broken and abrupt hills.  From several points within the valley proper I could have a distinct view of anything that might be transpiring in the whole valley.  There is one house in this valley, situated in the east end, where there is a corral, &amp;c.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">I have now traveled over much of this extensive Territory, and the Mountain Meadow valley is the most extraordinary formation west of the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName>; probably in a higher altitude than any other valley, small or large, on the continent, yet it is a continuous and handsome meadow, furnishing grass for much stock, but in too high altitude for agriculture of any kind, and, even if it would admit of agriculture, nature has not supplied it with sufficient water, there being but two springs in the whole valley.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">About the centre of the valley, in what is called the <q>"Rim of the Basin,"</q> or the point where the water either finds its way to the Pacific or lakes of <placeName type="state" key="Utah Territory">Utah Territory</placeName>, nature, always profuse in making provision for the weary traveler and his stock, has, it would seem, designed this extraordinary and beautiful little valley, in so high an altitude that it can never be despoiled by the hands of the agriculturist, as a resting place, and for resuscitating the broken down stock of the anxious traveler before reaching the deserts that all travelers over the southern California road must encounter before reaching the healthful and rich <placeName type="state" key="California">California</placeName> climate and soil, and on which deserts are now bleaching the bones of thousands of human beings and tens of thousands of animals.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">I fear I have taken up too much space in describing the Mountain Meadow valley.  But the terrible <q>"drama"</q> consummated in this little valley, <seg type="Massacre" subtype="Dates">hardly eighteen months ago</seg>, with the cries of women and children almost sound in one's ears, must necessarily make this peculiar valley among the clouds, a subject or concernment to the inquiring mind.</seg></p>
+
+<p>I informed my then guide and interpreter (Mr. <persName key="Hatch, Ira">Ira Hatch</persName>) that I was anxious to see the spot where the massacre took place, and also <seg type="Massacre" subtype="Aftermath">where the dead were buried.  I saw the three places where the dead are buried.</seg></p>
+
+<p><seg type="Source" subtype="Unattributed">Information received from persons in and out of the Mormon Church, and observations whilst at the place</seg>, enables me to say that the emigrant party in question arrived and camped <seg type="Massacre" subtype="Location">at the spring in the south end of the valley</seg>, <seg type="Massacre" subtype="Dates">Friday, Sept. 7th or 8th, 1857</seg>.  <seg type="Massacre" subtype="Spoils">The amount of property is estimated at from 200 to 700 head, with from ten to thirty wagons.  My own impression is, that they had 600 head of cattle and about 40 wagons.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">It is said that the firing commenced on <seg type="Massacre" subtype="Dates">Monday, Sept. 10, before daylight, and that <seg type="Blame" subtype="IndiansIndependently">the firing was by the Indians fighting the said emigrant party</seg> then in camp <seg type="Massacre" subtype="Location">at the spring</seg>, as already stated.  The firing was continued, some say five, others say seven days.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">During the five or seven days of firing and fighting by the Indians, the emigrant party was corralled, that is, they made a corral and temporary fort by their wagons and filled under the wheels and to the bed of the wagons with sand and earth dug in the centre of the corral.  I saw the ditch and other evidences of there having been a corral.</seg>  <seg type="Massacre" subtype="Dates">Sept. 17th, 1857, in the morning</seg>, a friendly Indian and one who could talk English, came into the corral.  The emigrants having then been without water from five to seven days, made arrangements or treaty with said Indian&#8212;in which <seg type="Massacre" subtype="Spoils">the Indians were to have the property</seg>, spare the lives of the whites, and permit them to return to <geogName type="waterway" key="Pinto Creek">Pinto Creek</geogName> and <placeName type="settlement" key="Cedar City, UT">Cedar city</placeName>.  <seg type="Massacre" subtype="Aftermath">From the spring and corral to the place where it is said they were murdered, and where I saw the graves (or imperfect holes) is at least one mile and a half.</seg></p>  
+
+<p><seg type="Massacre" subtype="Aftermath">I walked over the ground where it is supposed they were killed&#8212;the evidences of this being unmistakeable from skulls, and other bones and hair laying scattered over the ground.  There are there buried, as near as I can ascertain, <seg type="Massacre" subtype="Casualties">106 persons, men, women and children; and from one to two miles further down the valley, two or three who, in attempting to escape, were killed, partly up the hill, north side of the valley, and there buried, and three who got away entirely, but were overtaken and killed at or near the Vegas or Muddy; in all 115.  I made strict and diligent inquiry of the number supposed to have been killed, and 115 is probably about the correct number.</seg></seg></p>
+
+<p>April 15th&#8212;Arrived at Santa Clara this afternoon, and camped in town.  Here I met Mr. <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, who has been in my employ since last fall, <seg type="Massacre" subtype="Survivors">collecting certain children</seg>, and other business among the Indians.  Here (Santa Clara) myself and party were kindly treated during our stay&#8212;two days.</p>
+
+<p><seg type="Massacre" subtype="Survivors">I say in the beginning of my letter that I purposed bringing to this city certain children remaining of the Mountain Meadow massacre.  These children, sixteen in number, I have now in my possession.  Thirteen I got in <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, at Mr. <persName key="Hamblin, Jacob">J. Hamblin</persName>'s, who collected then in pursuance to my directions, and three I got in <placeName type="settlement" key="Cedar City, UT">Cedar city</placeName> on our way home, who were left there by Mr. <persName key="Hamblin, Jacob">Hamblin</persName>.  I am pleased to say that Mr. <persName key="Hamblin, Jacob">Hamblin</persName> has discharged his duty in relation to the collection and keeping of those children.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The following is all I have been able as yet to collect of the history of these unfortunate, fatherless, motherless and pennyless children:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="John Calvin">John Calvin</persName>, now 7 or 8 years old; does not remember his name; says his family lived at <placeName type="settlement" key="Horse Head, AR">Horse Head</placeName>, <placeName type="county" key="Johnson County, AR">Johnson co.</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Taggit, Ambrose Mirem">Ambrose Moroni</persName>, about 7 yeas, and <persName key="Taggitt, William Henry">William Taggit</persName>, 4 1-2 years, brothers.  These also lived in <placeName type="county" key="Johnson County, AR">Johnston co.</placeName></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Prudence Angeline">Prudence Angeline</persName>, 6 years, and <persName key="Annie">Annie</persName>, about 3 years.  These are said to be sisters.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Dunlap, Rececca">Rebecca</persName>, 9 years; <persName key=", Dunlap, Louisa">Louisa</persName>, 5 years, and <persName key="Dunlap, Sarah">Sarah</persName>, 3 1-2 years, named Dunlap.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Betsy">Betsy</persName>, 6 years, and <persName key="Annie">Annie</persName>, 3 years; said to be sisters.  These know nothing of their family or residence.</seg></p>
+
+ <p><seg type="Massacre" subtype="Survivors"><persName key="Francher, Kit Carson">Charles Francher</persName>, 7 or 8 years, and his sister <persName key="Francher, Tryphena D.">Annie</persName>, 3 1-2 years.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Huff, Nancy Sophronia">Sophronia or Mary Huff</persName>, 6 years, and <persName key="Huff, Elisha W.">Elisha W. Huff</persName>, 4 years.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">A boy&#8212;no account of him.  These among whom he lived called him <persName key="William">William</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Hown/Korn, Francis">Francis Hown or Korn</persName>, 4 1-2 years old.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">I have come to the conclusion, after different conversations with these children, that <seg type="Emigrants" subtype="StateAffiliationArkansas">most of them come from <placeName type="county" key="Johnston County, AR">Johnston co</placeName>., <placeName type="state" key="Arkansas">Arkansas</placeName></seg>.  Most of them have told me that they have grandfathers and grandmothers in the States.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Mr. <persName key="Hamblin, Jacob">Hamblin</persName> has good reasons for believing that a boy about 8 years, and belonging to the party in question, is among the <orgName type="tribe" key="Navajo">Navajo Indians</orgName>, at or near the <geogName type="waterway" key="Colorado River">Colorado river</geogName>.</seg></p>
+
+<p>My communication is already too long, but I must ask your indulgence for a few lines more.</p>
+
+<p><seg type="Massacre" subtype="Survivors">I will keep the children under my immediate supervision, until the person appointed to take then to <orgName type="military" key="Fort Smith">Fort Smith</orgName> arrives.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">The massacre of an entire train, not one remaining to speak of the <q>"drama"</q></seg> but sixteen fatherless, motherless and pennyless children, supposed, probably, to be too young to give the affair tangibility, cannot remain long uninvestigated.</seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">The cause or reason for the commission of a crime so terrible as that of killing <seg type="Massacre" subtype="Casualties">at least 115 persons</seg> must assuredly become a subject of inquiry with the proper legal authorities.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">The <orgName type="tribe" key="Paiute">Pi-Ute tribe of Indians</orgName> have been and are charged with the above crime.</seg>  Last August, my attention was called to the Mountain Meadow affair officially.  Since then I have made diligent inquiry, go the written statements of persons living in the neighborhood, and finally visited the southern country; and now, after full inquiry and examination, <seg type="Blame" subtype="IndiansLDSInfluence">I deem it to be my imperative duty to say that the Indians had material aid and assistance form whites; and, in my opinion, the Pi-Ute Indians would not have perpetrated the terrible massacre without such aid and assistance.</seg></p>
+
+<p>Mr. <persName key="Hamblin, Jacob">Jacob Hamblin</persName> and others, of <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, expressed much anxiety to bring the guilty to justice.</p>
+
+<closer><salute>I remain, very respectfully, yours, &amp;c.,</salute>
+<signed><persName key="Forney, Jacob">J. FORNEY</persName></signed>
+</closer>
+ 
+</div1>
+</body>
+</text>
+</TEI>

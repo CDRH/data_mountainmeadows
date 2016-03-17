@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18750724">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Mountain Meadows</title>
+                <title level="m" type="sub"/>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.nyt.18750724</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt>
+                <note type="summary"></note>
+            </notesStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <title level="j">New York Times</title>
+                    <title level="a" type="main">MOUNTAIN MEADOWS.</title>
+                    <title level="a" type="sub">THE STORY OF THE MORMON MASSACRE.</title>
+                    <publisher/>
+                    <pubPlace>New York, NY</pubPlace>
+                    <date when="1875-07-24">July 24, 1875</date>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+                </keywords>
+                <keywords n="culpability" scheme="original">
+                    <term> </term>
+                </keywords>
+                <keywords n="action" scheme="original">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding
+                Enhancement</change>
+            <change when="2011-04-25"><name>Jaclyn Cruikshank Vogt</name> Concept
+                Highlighting</change>
+            <change when="2009-10-06"><name>Kelsey F. Harris</name> Initial Encoding</change>
+            <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+
+        <body>
+
+            <div1 type="newspaper">
+                
+                <pb n="unknown" xml:id="mmm.news.nyt.18750724.001"/>
+
+                <head type="main">MOUNTAIN MEADOWS.</head>
+                <milestone unit="horbar"/>
+                <head type="sub">THE STORY OF THE MORMON MASSACRE.</head>
+                <head type="sub">TESTIMONY AT LEE'S TRIAL&#8212;OVERWHELMING EVIDENCE AGAINST
+                    THE MORMONS&#8212;THE MASSACRE PLANNED BY THE CHURCH&#8212;LEE THE
+                    LEADER OF THE INHUMAN BUTCHERY.</head>
+
+                <p><placeName type="settlement" key="Beaver, UT">BEAVER</placeName>, <placeName
+                        type="state" key="Utah Territory">Utah</placeName>, July 23. &#8212; At
+                    2 o’clock to-day, the first witness in the trial of <persName key="Lee, John D."
+                        >John D. Lee</persName> and others was called. <persName key="Keyes, Robert"
+                        >Robert Keyes</persName> came to <placeName type="state" key="Utah">Utah
+                        Territory</placeName> Oct. 2, 1857, <seg type="Massacre" subtype="Location"
+                        >through <geogName type="valley" key="Mountain Meadows">the Mountain
+                            Meadows</geogName></seg>; <seg type="Massacre" subtype="Aftermath">
+                        <seg type="Massacre" subtype="Casualties">saw two piles of bodies of women
+                            and children piled promiscuously, about sixty to seventy, the children
+                            from two months old to twelve years; the smaller ones were torn by
+                            wolves and crows; some bodies were shot, some had their throats cut,
+                            some were stabbed, and all were torn by wolves except one woman a little
+                            way off, who appeared as if she were asleep; there was a bullet hole in
+                            her left side; from appearances the bodies had been dead for fifteen
+                            days; seven of us saw them; the pile of men’s bodies was further on; did
+                            not go to see them; there was no clothing on the bodies except a sock on
+                            the foot of one man; none had been scalped.</seg>
+                    </seg></p>
+
+                <p><persName key="Benuette, Ashel">Ashel Benuette</persName>, called: Was at <seg
+                        type="Massacre" subtype="Location">the Meadows</seg> December, 1857; <seg
+                        type="Massacre" subtype="Aftermath"><seg type="Massacre"
+                            subtype="Casualties">saw bones there&#8212;a horrible sight of
+                            skeletons of women and children, with curls and long tresses of hair
+                            dried in blood; the children were from ten to twelve years of age; some
+                            of the skulls had the flesh dried on them; the bodies had been covered
+                            up, but wolves evidently dug them out</seg>.</seg></p>
+
+                <p>
+                    <seg type="Source" subtype="Attributed_Klingensmith"><persName
+                            key="Klingensmith, Philip">Phillip Klingen Smith</persName> a defendant
+                        of <placeName type="settlement" key="San Bernardino, CA">San
+                            Bernardino</placeName>, <placeName type="state" key="California"
+                            >Cal.</placeName>, was called. The prosecution entered a <hi
+                            rend="italic">nolle prosequi</hi> as to himself: lived in <placeName
+                            type="settlement" key="Cedar City, UT">Cedar City</placeName> in 1857
+                        since 1852; <seg type="Massacre" subtype="Location"><geogName type="valley"
+                                key="Mountain Medaows">the Meadows</geogName> are forty-five miles
+                            south of <placeName type="settlement" key="Cedar City, UT">Cedar
+                                City</placeName>, on <placeName type="route" key="California Road"
+                                >the California road</placeName></seg>; was at the massacre <seg
+                            type="Massacre" subtype="Dates">in September, 1857</seg>: <seg
+                            type="Encounter" subtype="TradeLDS">heard of emigrants coming; the
+                            people were forbidden to trade with them; felt bad about it; saw a few
+                            of them at <placeName type="settlement" key="Cedar City, UT">Cedar
+                                City</placeName>; this was on Friday; some swore, and Higbee fined
+                            them; they went on</seg>; heard rumors of trouble; <seg type="Massacre"
+                            subtype="Planning">
+                            <seg type="Blame" subtype="LDS_LDSLeadership">on Sunday it was the
+                                custom to have meetings of the President and Council, the Bishops
+                                and Council, and the High Council; I was a Bishop; the question as
+                                to their destruction came up for discussion; <persName
+                                    key="Haight, Isaac C.">Haight</persName>, <persName
+                                    key="Higbee, John H.">Higbee</persName>, <persName
+                                    key="Morrill, Laban">Morrill</persName>, <persName
+                                    key="Allen, Ira">Allen</persName>, <persName key="Willis, John"
+                                    >Willis</persName>, <persName key="Klingensmith, Philip"
+                                    >myself</persName>, and others, were there; some of the brethren
+                                opposed destruction; I did; <persName key="Haight, Isaac C."
+                                    >Haight</persName> jumped up and broke up the meeting; I asked
+                                what would be the consequences of such an act; Haight then got mad;
+                                the Indians were to destroy them on Monday; <persName
+                                    key="Higbee, John H.">Higbee</persName>, <persName
+                                    key="Haight, Isaac C.">Haight</persName>, <persName key="White"
+                                    >White</persName>, and I met and discussed the same subject
+                                again; I opposed their destruction; <persName key="Haight, Isaac C."
+                                    >Haight</persName> relented, and told <persName key="White"
+                                    >White</persName> and me to go ahead and tell the people that
+                                the emigrants should go through safely, we did so; on the road we
+                                met <persName key="Lee, John D.">John Lee</persName>, and told him
+                                where we were going; he replied that he had something to say about
+                                that matter;</seg>
+                        </seg> we passed the emigrants at <placeName type="settlement"
+                            key="Iron Springs">Iron Springs, UT</placeName>; next morning we passed
+                        them again as we came back; <seg type="Emigrants" subtype="WagonTrain">they
+                            had twenty or thirty wagons and numbered altogether <seg type="Massacre"
+                                subtype="Casualties">over 100 persons, old and middle-aged men and
+                                women, youths, and children</seg></seg>; <seg type="Massacre"
+                            subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">while
+                                near home we met <persName key="Allen, Ira">Ira Allen</persName>, he
+                                said that the doom of the emigrants was sealed, and that the die was
+                                cast for their destruction; also that Lee had orders to take men out
+                                and intercept the emigrants, and that <persName key="Allen, Ira"
+                                    >Allen</persName> was to go on and counteract what we had
+                                done;</seg> I went home. Three days afterward <persName
+                                key="Haight, Isaac C.">Haight</persName> sent for me, and said that
+                            orders had come from the camp that they did not get along, and wanted
+                            reinforcements; that he had been to <placeName type="settlement"
+                                key="Parowan, UT">Parowan</placeName> and got further orders from
+                                <persName key="Dame, William H.">Col. W. H. Dame</persName> to
+                            finish the massacre, to decoy the emigrants out, and <seg
+                                type="Massacre" subtype="Survivors">spare only the small children
+                                who could not tell the tale</seg>; I went off and met <persName
+                                key="Allen, Ira">Allen</persName>, our first runner, and others;
+                                <persName key="Higbee, John H.">Higbee</persName> came out, and said
+                            we were ordered out armed and equipped, so I went: <persName
+                                key="Hopkins, Charles">Hopkins</persName>, <persName
+                                key="Higbee, John H.">Higbee</persName>, <persName
+                                key="Willis, John">John Willis</persName>, and <persName
+                                key="Purdy, Sam">Sam Purdy</persName>, went along; we had two
+                            baggage-wagons with us; we got to <persName key="Hamblin, Jacob"
+                                >Hamblin</persName>’s ranch in the night, three miles from the
+                            emigrants. We there met <persName key="Lee, John D.">Lee</persName> and
+                            others from the general camp, where the largest number of men were. <seg
+                                type="Massacre" subtype="Survivors">We then found the emigrants were
+                                not all killed.</seg>
+                            <persName key="Lee, John D.">Lee</persName> called me out for
+                            consultation. He told me the situation. The emigrants, he said, were
+                            strongly fortified. There was no chance of getting them out. <persName
+                                key="Higbee, John H.">Higbee</persName> gave orders to decoy them
+                            out the best way we could. This was agreed to, and the command was given
+                            to <persName key="Lee, John D.">John D. Lee</persName> to carry out the
+                            whole plan. They went to the camp; <persName key="Lee, John D."
+                                >Lee</persName> placed all the soldiers in a hollow square and
+                            addressed them. They were all white men, about fifty in all. The Indians
+                            were in another camp; saw there <persName key="Slade, William Rufus"
+                                >Slade</persName> and his son; <persName key="Pearce, Jim">Jim
+                                Pearce</persName> and probably his sons, too, all those from
+                                <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>,
+                            and <persName key="Stewart, Bill">Bill Stewart</persName>, <persName
+                                key="Jacobs, Levin">Levin Jacobs</persName>; I think <persName
+                                key="McFarlan, Dan">Dan McFarlan</persName> too; <persName
+                                key="Slade, William Rufus">Slade</persName> and I were outraged, but
+                            we said, <q>“What can we do? We can’t help ourselves;”</q> just then the
+                            order to march was given, and we had to go; we were put in double file;
+                                <seg type="Blame" subtype="IndiansLDSInfluence"><persName
+                                    key="Higbee, John H.">Higbee</persName> had command of part of
+                                the men; it was the <orgName type="tribe" key="Nauvoo">Nauvoo
+                                    Legion</orgName>, organized from tens up to hundreds; <seg
+                                    type="Massacre" subtype="Surrender">we marched in sight of the
+                                    emigrants; either <persName key="Bateman, William Lehi"
+                                        >Bateman</persName> or <persName key="Lee, John D."
+                                        >Lee</persName> went out with a white flag. A man from the
+                                    emigrants met them. <persName key="Lee, John D.">Lee</persName>
+                                    and the man sat down on the grass and had a talk; don’t know
+                                    what they talked about. <persName key="Lee, John D."
+                                        >Lee</persName> went with the man into the entrenchments.
+                                    After some hours they came out and the emigrants came up with
+                                    the wounded in wagons ahead. The wounded were those hurt in the
+                                    three days’ previous fight; said the Mormons and Indians could
+                                    not oust the emigrants;</seg> next came the women and next the
+                                men; as the emigrants came up the men halted, and the women on foot
+                                with the children and wounded, went on ahead with <persName
+                                    key="Lee, John D.">John D. Lee</persName>; the soldiers had to
+                                be all ready to shoot at the word; when the word halt came the
+                                soldiers fired; <seg type="Massacre" subtype="Casualties">I fired
+                                    once; don’t know if I killed the men; they were not all killed
+                                    the first shot; saw the women afterward dead, with their throats
+                                    cut; I saw as I came up to them, a man kill a young girl;</seg>
+                                the men were marched in double file first, then thrown in single
+                                file with soldiers alongside; heard the emigrants congratulating on
+                                their safety from the Indians at last; <persName
+                                    key="Higbee, John H.">Higbee</persName> came and ordered my
+                                squad to fire; <persName key="Lee, John D.">Lee</persName>, like the
+                                rest, had fire-arms;</seg>
+                            <seg type="Massacre" subtype="Casualties">no emigrants escaped; saw
+                                soldiers on horses to take on the wing those who ran; saw a man run;
+                                saw <persName key="Stewart, Bill">Bill Stewart</persName>, on a
+                                horse, go after one and kill him; saw one wounded man beg for his
+                                life, but <persName key="Higbee, John H.">Higbee</persName> cut his
+                                throat; the man said, <q>“I would not do this to you, <persName
+                                        key="Higbee, John H.">Higbee</persName>;”</q> he knew
+                                him;</seg>
+                            <seg type="Massacre" subtype="Survivors">after I fired, was told to
+                                gather up little children</seg></seg>; <seg type="Massacre"
+                            subtype="Casualties">as I went I saw a large woman running toward the
+                            men crying <q>“My husband, my husband!”</q> a soldier shot her in the
+                            back and she fell dead. As I went on I found wagons, with wounded all
+                            out on the ground, with their throats cut.</seg>
+                        <seg type="Massacre" subtype="Survivors">I went on and found children, and
+                            put them in a wagon and took them to Hablin’s house. I saw no more. The
+                            soldiers had dispersed. Two of the children were wounded. One died at
+                            Hamblin’s. I think I had to leave it there. Many of the soldiers were
+                            from southern counties, and I did not know them. Next day, <persName
+                                key="Klingensmith, Philip">I</persName>, <persName key="McCurdy"
+                                >McCurdy</persName>, and <persName key="Willis, John"
+                                >Willis</persName> took the children to <placeName type="settlement"
+                                key="Cedar City, UT">Cedar City</placeName>, leaving one at
+                                <geogName type="waterway" key="Pinto Creek">Pinto Creek</geogName>.
+                            On the road we met a freight train of wagons. I went to old <persName
+                                key="Hopkins">Mrs. Hopkins</persName> and told her we had children
+                            with us. She bustled around and got places for them. I took one girl
+                            baby home, and my wife suckled her. I afterward gave it to <persName
+                                key="Birkbeck">Birkbeck</persName>, he having no children. The
+                            children were well treated, I believe. Good places were obtained for
+                            them.</seg></seg>
+                </p>
+
+                <p>
+                    <seg type="Source" subtype="Attributed_Klingensmith"><seg type="Massacre"
+                            subtype="Spoils">The question of allowing the statements of the
+                            co-conspirators as to to the disposal of the emigrants property after
+                            the massacre was here argued for an hour. The court held it
+                            admissible.</seg> During the argument, <persName key="Sutherland, Jabez"
+                            >Sutherland</persName>, for the defense, said it was an attempt to fix
+                        the crime on some one else, <persName key="Lee, John D.">Lee</persName>
+                        being only the figurehead.</seg>
+                </p>
+
+                <p>
+                    <seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Baskin, Robert N."
+                            >A. Baskin</persName>, for the prosecution, replied he wanted but the
+                        truth whoever it implicated; that <persName key="Sutherland, Jabez"
+                            >Sutherland</persName> feared his real client would be reached,(decided
+                        sensation, it being known that <persName key="Young, Brigham">Brigham
+                            Young</persName> was meant.)</seg>
+                </p>
+
+                <p>
+                    <seg type="Source" subtype="Attributed_Klingensmith"><persName
+                            key="Klingensmith, Philip">Witness</persName> resumed: <seg
+                            type="Massacre" subtype="Spoils">After several days <persName
+                                key="Haight, Isaac C.">Haight</persName></seg></seg>
+                </p>
+                <cb n="1"/>
+                <p>
+                    <seg type="Source" subtype="Attributed_Klingensmith"><seg type="Massacre"
+                            subtype="Spoils">sent me to the <placeName type="settlement"
+                                key="Iron Springs, UT">Iron Springs</placeName>, where the wagons,
+                            cattle, and goods of the emigrants were, to get them and put them in the
+                            tithing-house; I was to brand the cattle too; found there <persName
+                                key="Gorie, John">John Gorie</persName> and <persName key="Hunter"
+                                >Hunter</persName>, and <persName key="Allen, Ira">Allen</persName>;
+                            I put the goods in the Church tithing-office cellar; left the wagons in
+                            front of the tithing office; branded the cattle with the Church brand, a
+                            cross; <persName key="Lee, John D.">Lee</persName> was in the cellar
+                            with me and saw the goods;</seg>
+                        <persName key="Haight, Isaac C.">Haight</persName> and <persName
+                            key="Higbee, John H.">Higbee</persName> told me a council had been held
+                        and <persName key="Lee, John D.">Lee</persName> deputed to go to President
+                            <persName key="Young, Brigham">Brigham Young</persName> and report all
+                        the facts of the massacre; <persName key="Lee, John D.">Lee</persName> went,
+                        and <seg type="Massacre" subtype="Spoils">I followed to attend to conference
+                            Oct. 6 at <placeName type="settlement" key="Salt Lake City, UT">Salt
+                                Lake City</placeName>; met <persName key="Lee, John D."
+                                >Lee</persName> at <placeName type="settlement" key="Salt Lake City"
+                                >Salt Lake</placeName>; asked if he had reported to <persName
+                                key="Young, Brigham">Brigham Young</persName>; he said yes, every
+                            particular; same day <persName key="Klingensmith, Philip">I</persName>,
+                                <persName key="Lee, John D.">Lee</persName>, and <persName
+                                key="Hopkins, Charles">Charley Hopkins</persName> called on
+                                <persName key="Young, Brigham">Brigham Young</persName>; he there ,
+                            in presence of them, said, <q>“You have charge of that property in the
+                                tithing office, turn it over to <persName key="Lee, John D.">John D.
+                                    Lee</persName>. What you know of this, say nothing of it; don’t
+                                talk of it even among yourselves;</q> had to go to <placeName
+                                type="settlement" key="Las Vegas, NV">Vegas</placeName> Lead Mines
+                            to get more ore; while I was gone <persName key="Lee, John D."
+                                >Lee</persName> took the property, had an auction, and sold it off;
+                            so <persName key="Haight, Isaac C.">Haight</persName> and <persName
+                                key="Higbee, John H.">Higbee</persName> told me: <persName
+                                key="Haight, Isaac C.">Haight</persName> sold part of the cattle to
+                                <persName key="Hooper, William H.">Hooper</persName>, afterward
+                            Congressional delegate, for boots and shoes;</seg>
+                        <seg type="Blame" subtype="IndiansLDSInfluence">there were Indians at the
+                            massacre; the hills were pretty full of them; they were disputed to kill
+                            the women; <seg type="Massacre" subtype="Casualties">I saw an Indian cut
+                                a boy’s throat</seg>; I heard of no effort to restrain the Indians;
+                            three of them died from wounds received from the emigrants. The Indians
+                            came back to <placeName type="settlement" key="Cedar City, UT"
+                                >Cedar</placeName>, where they lived. Two of their chiefs’ names
+                            were Bill and Tom. <seg type="Massacre" subtype="Spoils">I saw some of
+                                the emigrants’ property in the possession of the Indians.</seg> I
+                            saw <persName key="Lee, John D.">Lee</persName> get dresses and jeans
+                            from the tithing office out of the emigrants’ plunder.</seg>
+                        <seg type="Blame" subtype="IndiansLDSInfluence">I learned from <persName
+                                key="Allen, Ira">Allen</persName> that <persName key="Lee, John D."
+                                >Lee</persName> was the one to gather up the Indians to attack the
+                            emigrants. I talked with <persName key="Lee, John D.">Lee</persName>
+                            about it afterward. <persName key="Lee, John D.">Lee</persName> was
+                            Indian agent at <placeName type="settlement" key="Harmony, UT"
+                                >Harmony</placeName>, traded with the tribes, and issued goods and
+                            rations from the Government to the Indians.</seg></seg>
+                </p>
+
+                <p>The court here adjourned.</p>
+
+                <p>After to-day night sessions will be held.</p>
+
+                <p>The court has warned the citizens not to speak to the jurors from the street, and
+                    declares that such an offense will be punished.</p>
+
+                <p>
+                    <seg type="Source" subtype="PublicMind">During the time that <persName
+                            key="Klingensmith, Philip">Klingen Smith</persName> was testifying,
+                        giving the horrible details of the massacre, the suspense was terribly
+                        painful. <persName key="Lee, John D.">Lee</persName>’s square, hard,
+                        low-browed face and neck became fairly purple and black. His wives scarcely
+                        breathed, straining forward to catch each syllable.</seg>
+                </p>
+
+                <p><seg type="Source" subtype="PublicMind">The excitement in town is intense.</seg>
+                    It is understood that <persName key="Klingensmith, Philip">Klingen
+                        Smith</persName>’s story, in all the material details, is the same as
+                        <persName key="Lee, John D.">Lee</persName>’s suppressed confession as to
+                    the massacre. <persName key="Klingensmith, Philip">Klingen Smith</persName>’s
+                    reputation here is that of a man of truth. He could not be impeached save by
+                    facts.</p>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

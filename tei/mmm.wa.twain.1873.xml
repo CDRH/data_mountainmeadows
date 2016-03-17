@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.twain.1873">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Roughing It</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Mark</forename> <surname>Twain</surname> <addName>[Samuel L. Clemens]</addName></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.twain.1873</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Roughing It</title>
+                    <author><forename>Mark</forename> <surname>Twain</surname> <addName>[Samuel L. Clemens]</addName></author>
+                    <publisher>American Publishing Company</publisher>
+                    <pubPlace>Hartford, Connecticut</pubPlace>
+                    <publisher>F. G. Gilman &amp; Co.</publisher>
+                    <pubPlace>Chicago, Illinois</pubPlace>
+                    <publisher>W. E. Bliss</publisher>
+                    <pubPlace>Toledo, Ohio</pubPlace>
+                    <publisher>Nettleton &amp; Co.</publisher>
+                    <pubPlace>Cincinnati, Ohio</pubPlace>
+                    <publisher>D. Ashmead</publisher>
+                    <pubPlace>Philadelphia, Pennsylvania</pubPlace>
+                    <publisher>J. W. Goodspeed</publisher>
+                    <pubPlace>New Orleans, Louisiana</pubPlace>
+                    <publisher>A. Roman &amp; Company</publisher>
+                    <pubPlace>San Francisco, California</pubPlace>
+                    <extent></extent>
+                    <date when="1873">1873</date>
+		    <note type="source">Mark Twain [Samuel L. Clemens]. <hi rend="italics">Roughing It.</hi>
+Hartford, CT: American Publishing Company; Chicago, IL: F. G. Gilman &amp; Company; Toledo, OH: W. E. Bliss; Cincinnati, OH: Nettleton &amp; Company; Philadelphia, PA: D. Ashmead; New Orleans, LA: J. W. Goodspeed; San Francisco, CA: A. Roman &amp; Company, 1873. 136-141, 576-579.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2011-09-22"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-07-15"><name>Rosie Hanneke</name> Initial Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+
+    <text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="136" xml:id="mmm.wa.twain.1873.149"/>
+
+<head>CHAPTER XVII.</head>
+
+<p>A<hi rend="smallcaps">t</hi> the end of our two days’ sojourn, we left <placeName type="settlement" key="Salt Lake City, UT">Great Salt
+Lake City</placeName> hearty and well fed and happy&#8212;physically
+superb but not so very much wiser, as regards the <q>"Mormon
+question,"</q> than we were when we arrived, perhaps. We had
+a deal more <q>"information"</q> than we had before, of course, but
+we did not know what portion of it was reliable and what was
+not&#8212;for it all came from acquaintances of a day&#8212;strangers,
+strictly speaking. <seg type="Blame" subtype="IndiansIndependently">We were told, for instance, that the dreadful <q>"Mountain Meadows Massacre"</q> was the work of the Indians entirely</seg>, <seg type="Blame" subtype="LDS_LDS">and that the Gentiles had meanly tried to fasten it upon the Mormons</seg>; <seg type="Blame" subtype="IndiansLDSInfluence">we were told, likewise, that the Indians
+were to blame, partly, and partly the Mormons;</seg> <seg type="Blame" subtype="LDS_LDS">and we were told, likewise, and just as positively, that the Mormons were almost if not wholly and completely responsible for that most
+treacherous and pitiless butchery.</seg> We got the story in all
+these different shapes, but it was not till several years afterward that Mrs. <persName key="Waite, C. V. (Catherine Van Valkenburg)">Waite</persName>’s book, <q>"The Mormon Prophet,"</q> came out with Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>’s trial of the accused parties in
+it and revealed the truth that the latter version was the 
+correct one and that the Mormons were the assassins. All our
+<q>"information"</q> had three sides to it, and so I gave up the idea
+that I could settle the <q>"Mormon question"</q>in two days. Still
+I have seen newspaper correspondents do it in one.</p>
+
+<p>I left <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake</placeName> a good deal confused as to what
+state of things existed there&#8212;and sometimes even questioning
+in my own mind whether a state of things existed there at all
+
+<pb n="137" xml:id="mmm.wa.twain.1873.150"/>
+
+or not. But presently I remembered with a lightening sense
+of relief that we had learned two or three trivial things there
+which we could be certain of; and so the two days were not
+wholly lost. For instance, we had learned that we were at last
+in a pioneer land, in absolute and tangible reality. The high
+
+<figure xml:id="mmm.wa.twain.1873.150.figure">
+<p>THREE SIDES TO A QUESTION.</p>
+<figDesc></figDesc>
+</figure>
+
+prices charged for trifles were eloquent of high freights and
+bewildering distances of freightage. In the east, in those days,
+the smallest moneyed denomination was a penny and it represented 
+the smallest purchasable quantity of any commodity.
+West of <placeName type="settlement" key="Cincinnati, OH">Cincinnati</placeName> the smallest coin in use was the silver five-
+cent piece and no smaller quantity of an article could be
+bought than <q>"five cents’ worth."</q> In <placeName type="settlement" key="Overland, MO">Overland City</placeName> the 
+lowest coin appeared to be the ten-cent piece; but in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>
+there did not seem to be any money in circulation smaller
+than a quarter, or any smaller quantity purchasable of any
+commodity than twenty-five cents’ worth. We had always
+been used to half dimes and <q>"five cents' worth"</q> as 
+the minimum of financial negotiations; but in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> if one wanted
+a cigar, it was a quarter; if he wanted a chalk pipe, it was a 
+
+<pb n="138" xml:id="mmm.wa.twain.1873.151"/>
+
+quarter; if he wanted a peach, or a candle, or a newspaper,
+or a shave, or a little Gentile whiskey to rub on his corns to
+arrest indigestion and keep him from having the toothache,
+twenty-five cents was the price, every time. When we looked
+at the shot-bag of silver, now and then, we seemed to be
+
+<figure xml:id="mmm.wa.twain.1873.151.figure">
+<p>N. York.  St. Louis. Overland City. Salt Lake City. 1 Cent. 5 Cents. 10 Cents. 25 Cents. Result of High Freights.</p>
+<figDesc></figDesc>
+</figure>
+
+wasting our substance in riotous living, but if we referred to
+the expense account we could see that we had not been doing
+anything of the kind. But people easily get reconciled to
+big money and big prices, and fond and vain of both&#8212;it is a
+descent to little coins and cheap prices that is hardest to bear
+and slowest to take hold upon one’s toleration. After a
+month’s acquaintance with the twenty-five cent minimum, the
+average human being is ready to blush every time he thinks of
+his despicable five-cent days. How sunburnt with blushes I
+used to get in gaudy <placeName type="state" key="Nevada">Nevada</placeName>, every time I thought of my first financial experience in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>. It was on this wise (which
+is a favorite expression of great authors, and a very neat one,
+too, but I never hear anybody <hi rend="italic">say</hi> on this wise when they are
+talking). A young half-breed with a complexion like a yellow-
+jacket asked me if I would have my boots blacked. It was
+at the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> House the morning after we arrived. I said
+yes, and he blacked them. Then I handed him a silver five-
+cent piece, with the benevolent air of a person who is conferring 
+wealth and blessedness upon poverty and suffering. The
+yellow-jacket took it with what I judged to be suppressed
+emotion, and laid it reverently down in the middle of his
+broad hand. Then he began to contemplate it, much as a
+philosopher contemplates a gnat’s ear in the ample field of
+
+<pb n="139" xml:id="mmm.wa.twain.1873.152"/>
+
+his microscope. Several mountaineers, teamsters, stage-drivers,
+etc., drew near and dropped into the tableau and fell to
+surveying the money with that attractive indifference to 
+formality which is noticeable in the hardy pioneer. Presently the
+yellow-jacket handed the half dime back to me and told me I
+ought to keep my money in my pocketbook instead of in
+my soul, and then 
+
+<figure xml:id="mmm.wa.twain.1873.152.figure">
+<p>A Shriveled Quarter.</p>
+<figDesc></figDesc>
+</figure>I wouldn’t get it cramped and shriveled up so!</p>
+
+<p>What a roar of vulgar laughter there was! I destroyed the mongrel
+reptile on the spot, but I smiled and smiled all the time
+I was detaching his scalp, for the remark he made <hi rend="italic">was</hi>
+good for an <q>"Injun."</q></p>
+
+<p>Yes, we had learned in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to be charged great prices without letting the inward shudder 
+appear on the surface&#8212;for even already we had overheard and noted the tenor
+of conversations among drivers, conductors, and hostlers, and
+finally among citizens of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, until <seg type="Blame" subtype="LDS_LDS">we were well aware
+that these superior beings despised <q>"emigrants."</q></seg> We 
+permitted no tell-tale shudders and winces in our countenances,
+for we wanted to seem pioneers, or Mormons, half-breeds,
+teamsters, stage-drivers, <seg type="Blame" subtype="LDS_LDS">Mountain Meadow assassins</seg>&#8212;anything
+in the world that the plains and <placeName type="state" key="Utah Territory">Utah</placeName> respected and admired&#8212;
+but we were wretchedly ashamed of being <q>"emigrants,"</q> and
+sorry enough that we had white shirts and could not swear in
+the presence of ladies without looking the other way.</p>
+
+<p>And many a time in <placeName type="state" key="Nevada">Nevada</placeName>, afterwards, we had occasion
+
+<pb n="140" xml:id="mmm.wa.twain.1873.153"/>
+
+to remember with humiliation that we were <q>"emigrants,"</q> and
+consequently a low and inferior sort of creatures. Perhaps
+the reader has visited <placeName type="state" key="Utah Territory">Utah</placeName>, <placeName type="state" key="Utah Territory">Nevada</placeName>, or <placeName type="state" key="California">California</placeName>, even in
+these latter days, and while communing with himself upon the
+sorrowful banishment of those countries from what he considers 
+<q>"the world,"</q> has had his wings clipped by finding that
+<hi rend="italic">he</hi> is the one to be pitied, and that 
+there are entire populations around him ready and willing 
+to do it for him&#8212;yea, who 
+
+<figure xml:id="mmm.wa.twain.1873.153.figure">
+<p>An Object of Pity.</p>
+<figDesc></figDesc>
+</figure>
+
+are complacently doing it
+for him already, wherever he steps his foot. Poor thing, they are making fun
+of his hat; and the cut of his <placeName type="state" key="New York">New York</placeName> coat; and his conscientiousness about
+his grammar; and his feeble profanity; and his consumingly ludicrous ignorance of
+ores, shafts, tunnels, and other things which he never saw before, and never felt
+enough interest in to read about. And all the time
+that he is thinking what a sad fate it is to be exiled to that
+far country, that lonely land, the citizens around him are 
+looking down on him with a blighting compassion because he is
+an <q>"emigrant"</q> instead of that proudest and blessedest 
+creature that exists on all the earth, a <q>"F<hi rend="smallcaps">orty</hi>-N<hi rend="smallcaps">iner</hi>."</q></p>
+
+<p>The accustomed coach life began again, now, and by midnight it 
+almost seemed as if we never had been out of our
+snuggery among the mail sacks at all. We had made one alteration, however. 
+We had provided enough bread, boiled ham and hard boiled eggs 
+to last double the six hundred miles of staging we had still to do.</p>
+
+<p>And it was comfort in those succeeding days to sit up
+and contemplate the majestic panorama of mountains and
+valleys spread out below us and eat ham and hard boiled
+
+<pb n="141" xml:id="mmm.wa.twain.1873.154"/>
+
+eggs while our spiritual natures revelled alternately 
+in rainbows, thunderstorms, and peerless sunsets. Nothing helps
+scenery like ham and eggs. Ham and eggs, and after these a
+pipe&#8212;an old, rank, delicious pipe&#8212;ham and eggs and scenery,
+a <q>"down grade,"</q> a flying coach, a fragrant pipe and 
+a contented heart&#8212;these make happiness. It is what all the ages
+have struggled for.</p> 
+
+<figure xml:id="mmm.wa.twain.1873.154.figure">
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+<div1>
+
+<pb n="576" xml:id="mmm.wa.twain.1873.599"/>
+
+<head>B. THE MOUNTAIN MEADOWS MASSACRE.</head>
+
+<p><seg type="Context" subtype="LDSPersecution">T<hi rend="smallcaps">HE</hi> persecutions which the Mormons suffered so long&#8212;and which they consider they still suffer in not being allowed to govern themselves&#8212;they have endeavored and are still endeavoring to repay.</seg> <seg type="Blame" subtype="LDS_LDS">The new almost forgotten <q>"Mountain Meadows massacre"</q> was their work.</seg> It was very famous in its day. The whole United States rang with its horrors. A few items
+will refresh the reader’s memory. A great emigrant train <seg type="Emigrants" subtype="StateAffiliationMissouri">from Missouri</seg>
+and <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansas</seg> passed through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and <seg type="Context" subtype="LDSApostates">a few disaffected Mormons
+joined it for the sake of the strong protection it afforded for their escape.
+In that matter lay sufficient cause for hot retaliation by the Mormon chiefs.</seg>
+Besides, these <seg type="Massacre" subtype="Casualties">one hundred and forty-five or one hundred and fifty unsuspecting emigrants</seg> <seg type="Context" subtype="PrattMurder"><seg type="Emigrants" subtype="StateAffiliationArkansas">being in part from Arkansas</seg>, where a noted Mormon
+missionary had lately been killed</seg>, and <seg type="Context" subtype="LDSPersecution"><seg type="Emigrants" subtype="StateAffiliationMissouri">in part from Missouri</seg>, a State
+remembered with execrations as a bitter persecutor of the saints when they
+were few and poor and friendless</seg>, here were substantial additional grounds
+for lack of love for these wayfarers. <seg type="Blame" subtype="LDS_LDSGreed">And finally, this train was rich, <seg type="Massacre" subtype="Spoils">very
+rich in cattle, horses, mules and other property</seg>&#8212;and how could the Mormons
+consistently keep up their coveted resemblance to the Israelitish tribes and
+not seize the <q>"spoil"</q> of an enemy when the Lord had so manifestly
+<q>"delivered it into their hand?"</q></seg></p>
+
+<p>Wherefore, according to <persName key="Waite, C. V. (Catherine Van Valkenburg)">Mrs. C. V. Waite</persName>’s entertaining book, "The
+Mormon Prophet," it transpired that&#8212;</p>
+
+<p><q><seg type="Blame" subtype="LDS_LDSLeadership">"A 'revelation' from <persName key="Young, Brigham">Brigham Young</persName>, as Great Grand Archee or God,
+was dispatched to President <persName key="Haight, Isaac C.">J. C. Haight</persName>, Bishop <persName key="Higbee, John M.">Higbee</persName> and <persName key="Lee, John D.">J. D. Lee</persName>
+(adopted son of <persName key="Young, Brigham">Brigham</persName>), commanding them to raise all the forces they
+could muster and trust, follow those cursed Gentiles (so read the revelation),
+attack them disguised as Indians, and with the arrows of the Almighty make
+a clean sweep of them, and <seg type="Massacre" subtype="Casualties">leave none to tell the tale</seg>; and <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Spoils">if they needed
+any assistance they were commanded to hire the Indians as their allies,
+promising them a share of the booty</seg>.</seg> They were to be neither slothful nor
+negligent in their duty, and to be punctual in sending the teams back to
+him before winter set in, for this was the mandate of Almighty God."</seg></q></p>
+
+<pb n="577" xml:id="mmm.wa.twain.1873.600"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">The command of the <q>"revelation"</q> was faithfully obeyed. <seg type="Massacre" subtype="Battle">A large party
+of Mormons, painted and tricked out as Indians, overtook the train of emigrant 
+wagons <seg type="Massacre" subtype="Location">some three hundred miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName></seg>, and made
+an attack.</seg> But the emigrants threw up earthworks, made fortresses of their
+wagons and defended themselves gallantly and successfully for five days!
+Your <seg type="Emigrants" subtype="StateAffiliationMissouri"><placeName type="state" key="Missouri">Missouri</placeName></seg> or <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName></seg> gentleman is not much afraid of the sort of
+scurvy apologies for <q>"Indians"</q> which the southern part of <placeName type="state" key="Utah Territory">Utah</placeName> affords.
+He would stand up and fight five hundred of them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">At the end of the five days the Mormons tried military strategy. They
+retired to <seg type="Massacre" subtype="Location">the upper end of <geogName type="valley" key="Mountain Meadows">the "Meadows,"</geogName></seg> resumed civilized apparel,
+washed of their paint, and then, heavily armed, drove down in wagons to
+the beleaguered emigrants, bearing a flag of truce! When the emigrants
+saw white men coming they threw down their guns and welcomed them
+with cheer after cheer! And, all unconscious of the poetry of it, no doubt,
+they lifted a little child aloft, dressed in white, in answer to the flag of
+truce!</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The leaders of the timely white "deliverers" were President <persName key="Haight, Isaac C.">Haight</persName> and
+Bishop <persName key="Lee, John D.">John D. Lee</persName>, of the Mormon Church.</seg> Mr. <persName key="Cradlebaugh, John">Cradlebaugh</persName>, who served
+a term as a Federal Judge in <placeName type="state" key="Utah Territory">Utah</placeName> and afterward was sent to Congress from
+<placeName type="state" key="Nevada">Nevada</placeName>, tells in a speech delivered in Congress how these leaders next proceeded:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><q>"<seg type="Blame" subtype="IndiansIndependently"><seg type="Context" subtype="IndianRelationsLDS">They professed to be on good terms with the Indians, and represented
+them as being very mad. They also proposed to intercede and settle the
+matter with the Indians. After several hours parley they, having (apparently) 
+visited the Indians, gave the <hi rend="italic">ultimatum</hi> of the savages</seg>; which was,
+that the emigrants should march out of their camp, leaving everything behind them, 
+even their guns. It was promised by the Mormon bishops that
+they would bring a force and guard the emigrants back to the settlements.</seg>
+The terms were agreed to, the emigrants being desirous of saving the lives
+of their families. The Mormons retired, and subsequently appeared with
+thirty or forty armed men. The emigrants were marched out, the women
+and children in front and the men behind, the Mormon guard being in the
+rear. When they had marched in this way about a mile, at a given signal
+the slaughter commenced. <seg type="Massacre" subtype="Casualties">The men were almost all shot down at the first
+fire from the guard. Two only escaped, who fled to the desert, and were
+followed one hundred and fifty miles before they were overtaken and
+slaughtered. The women and children ran on, two or three hundred yards
+further, when they were overtaken and with the aid of the Indians they
+were slaughtered.</seg> <seg type="Massacre" subtype="Survivors">Seventeen individuals only, of all the emigrant party,
+were spared, and they were little children, the eldest of them being only
+seven years old.</seg> Thus, <seg type="Massacre" subtype="Dates">on the 10th day of September, 1857</seg>, was consummated 
+one of the most cruel, cowardly and bloody murders known in our
+history."</q></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">The number of persons butchered by the Mormons on this occasion was
+<hi rend="italic">one hundred and twenty.</hi></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">With unheard-of temerity Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> opened his court and
+
+<pb n="578" xml:id="mmm.wa.twain.1873.601"/>
+
+proceeded to make Mormondom answer for the massacre. And what a spectacle
+it must have been to see this grim veteran, solitary and alone in his pride
+and his pluck, glowering down on his Mormon jury and Mormon auditory,
+deriding them by turns, and by turns <q>"breathing threatenings and slaughter!"</q></seg></p>
+
+<p>An editorial in the <hi rend="italic">Territorial Enterprise</hi> of that 
+day says of him and of the occasion:</p>
+
+<p><q>"He spoke and acted with the fearlessness and resolution of a <persName key="Jackson, Claiborne Fox">Jackson</persName>:
+but the jury failed to indict, or even report on the charges, <seg type="Reaction" subtype="Extra-legalViolence">while threats of
+violence were heard in every quarter</seg>, and an attack on the U. S. troops 
+intimated, if he persisted in his course.</q></p>
+
+<p>"<q>Finding that nothing could be done with the juries, they were discharged,
+with a scathing rebuke from the judge. And then, sitting as a committing
+magistrate, <hi rend="italic">he commenced his task alone.</hi> He examined witneses, made
+arrests in every quarter, and created a consternation in the camps of the
+saints greater than any they had ever witnessed before, since Mormondom
+was born. <seg type="Blame" subtype="LDS_LDS">At last accounts terrified elders and bishops were decamping to
+save their necks; and developments of the most startling character were
+being made, implicating the highest Church dignitaries in the many murders
+and robberies committed upon the Gentiles during the past eight years.</seg>"</q></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Had <persName key="Harney, William S.">Harney</persName> been Governor, <persName key="Cradlebaugh, John">Cradlebaugh</persName> would have been supported in
+his work, and the absolute proofs adduced by him of Mormon guilt in this
+massacre and in a number of previous murders, would have conferred 
+gratuitous coffins upon certain citizens, together with occasion to use them.
+But <persName key="Cumming, Alfred">Cumming</persName> was the Federal Governor, and he, under a curious pretense
+of impartiality, sought to screen the Mormons from the demands of justice.
+On one occasion he even went so far as to publish his protest against the use
+of the U. S. troops in aid of <persName key="Cradlebaugh, John">Cradlebaugh</persName>'s proceedings.</seg></p>
+
+<p><persName key="Waite, C. V. (Catherine Van Valkenburg)">Mrs. C. V. Waite</persName> closes her interesting detail of the great massacre with
+the following remark and accompanying summary of the testimony&#8212;and
+the summary is concise, accurate and reliable:</p>
+
+<p><q><seg type="Blame" subtype="LDS_LDS">"For the benefit of those who may still be disposed to doubt the guilt of
+<persName key="Young, Brigham">Young</persName> and his Mormons in this transaction, the testimony is here collated
+and circumstances given which go not merely to implicate but to fasten
+conviction upon them by 'confirmations strong as proofs of Holy Writ:'</seg></q></p>
+
+<p><q>"1. <seg type="Blame" subtype="LDS_LDS">The evidence of Mormons themselves, engaged in the affair, as shown
+by the statements of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> and Deputy U. S. Marshal <persName key="Rodgers, William H.">Rodgers</persName>.</seg></q></p>
+
+<p><q>"2. <seg type="Blame" subtype="LDS_LDS">The failure of <persName key="Young, Brigham">Brigham Young</persName> to embody any account of it in his Report as Superintendent of Indian Affairs. Also his failure to make any allusion to it whatever from the pulpit, until several years after the occurrence.</seg></q></p>
+
+<p><q>"3. <seg type="Blame" subtype="LDS_LDS">The flight to the mountains of men high in authority in the Mormom
+Church and State, when this affair was brought to the ordeal of a judicial
+investigation.</seg></q></p>
+
+<p><q>"4. <seg type="Blame" subtype="LDS_LDS">The failure of the <hi rend="italic">Deseret News</hi>, the Church organ, and the only paper then published in <placeName type="state" key="Utah Territory">the Territory</placeName>, to notice the massacre until several
+
+<pb n="579" xml:id="mmm.wa.twain.1873.602"/>
+
+months afterward, and then only to deny that Mormons were engaged
+in it.</seg></q></p>
+
+<p><q>"5. <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">The testimony of the children saved from the massacre.</seg></seg></q></p>
+
+<p><q>"6. <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">The children and <seg type="Massacre" subtype="Spoils">the property of the emigrants found in possession
+of the Mormons, and that possession traced back to the very day after the
+massacre</seg>.</seg></seg></q></p>
+
+<p><q>"7. <seg type="Blame" subtype="LDS_LDS">The statements of Indians in the neighborhood of the scene of the
+massacre: these statements are shown, not only by <persName key="Cradlebaugh, John">Cradlebaugh</persName> and
+<persName key="Rodgers, William H.">Rodgers</persName>, but by a number of military officers, and by <persName key="Forney. Jacob">J. Forney</persName>, who was,
+in 1859, Superintendent of Indian Affairs for <placeName type="state" key="Utah Territory">the Territory</placeName>. To all these,
+were such statements freely and frequently made by the Indians.</seg></q></p>
+
+<p><q>"8. <seg type="Blame" subtype="LDS_LDS">The testimony of <persName key="Campbell, Reuben P.">R. P. Campbell</persName>, Capt. 2d Dragoons, who was sent
+in the Spring of 1859 to <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, to protect travelers on the road to
+<placeName type="state" key="California">California</placeName> and to inquire into Indian depredations."</seg></q></p>
+
+</div1>
+</body>
+</text>
+</TEI>

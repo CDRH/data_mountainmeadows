@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18580803">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		 <idno>mmm.news.nyt.18580803</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+ 
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+ 
+	     <sourceDesc>
+		<bibl>
+  		    <title level="j">New York Times</title>
+		    <title level="a" type="main">Utah</title>
+		    <publisher></publisher>		    
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1858-08-03">August 3, 1858</date>
+ 		</bibl>
+	    </sourceDesc>
+     </fileDesc>
+ 
+         <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+ 		<term></term>
+	    </keywords>
+ 	</textClass>
+    </profileDesc>
+ 
+    <revisionDesc>
+	<change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-02-18"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+ 
+</teiHeader>
+ 
+<text>
+ 
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18580803.001"/>
+ 
+<head type="main">UTAH.</head>
+<milestone unit="horbar" />
+<head type="sub">General Description of Salt Lake Valley.</head>
+<milestone unit="horbar" />
+<head type="sub">Narrative of an American Citizen held as a prisoner of war.</head>
+<milestone unit="horbar" />
+<head type="sub">VIEW OF MORMON AFFAIRS</head>
+
+<div2>
+<head type="sub"> From Our Own Correspondent<lb/>
+Great Salt Lake City, Saturday, June 26, 1858.<lb/>
+General View Of The Salt Lake Valley.</head>
+ 
+<p>There has been no other time, during many
+years, probably, in which the valleys of the mountains
+could have been viewed by a stranger to so
+great an advantage as the present.  You are already
+aware that your correspondent emerged from
+<geogName type="mountain" key="Wasatch Mountains">Wasatch Mountains</geogName> to the great table overlooking
+<geogName type="waterway" key="Great Salt lake">SaltLLake</geogName> in the midst of a severe rain storm.  A
+shower of an hour's duration, at this season of advanced
+verdure, was never known here before during
+the occupation of this region by the <orgName type="religion" key="LDS">Church of the
+Latter-Day Saints</orgName>.  It came upon them just as their
+crops of grain and grasses were up finely under the
+influence of the Summer sun, having derived their
+needed moisture from the Winter snows and Spring
+rains.  But this moisture was now exhausted, the
+earth had begun to be parched, and the time had arrived
+when the tedious labor of irrigation must be
+undergone to save the crops.  Just then came the
+three or four days' rain, settling and fastening the
+dust, reviving the grass, raising the drooping heads of
+the now-forming grain, and clothing the whole country
+in its most beauteous garb of green.  Viewed from
+the point where the pass of the mountains opens on
+the plain, the scene was enchanting beyond descriptions
+upon the day of my arrival; dripping with rain
+though I was, chilled and weary with a long ride on
+horseback after a comfortless night's bivouac in the
+storm, I could not help checking my pony, and gazing
+awhile, with profoundest admiration, upon the enchanting
+scene.  But I have already given you a general
+idea of the appearance of the city and valley, from
+the "bench" overlooking them.  The term "bench"
+as you are probably aware, is applied to level and
+smooth elevations of land lying above the valleys&#8212;the
+same which are sometimes designated as steppes.
+The bench here is covered with gravelly soil, bearing,
+however, a thin coat of grass and weeds.  It
+slopes down gradually from the mountain base to the
+site of the city.  The <geogName type="mountain" key="Wasatch Mountains">Wasatch range</geogName> realizes to the
+traveler the idea of mountains more perfectly than
+many other ridges of greater altitude, for the reason
+that they rise almost perpendicular from the plains.</p>
+
+<p><placeName type="settlement" key="Salt Lake City, UT">The City</placeName>, lying upon the western slope their
+base, is regular in shape, laid out in squares, or
+blocks, of ten acres each, nine of which form a ward,
+governed in detail by a Bishop of the Church.  The
+streets are about eighty feet in width, intersect each
+other at right angles, are generally planted with
+shade-trees brought from the mountains, and are
+watered by little streams, conducted on each side in
+shallow graveled ditches, by which the water is
+brought from the mountains.  The popular idea
+that the City is six miles square is certainly erroneous
+&#8212;at least its buildings do not extend over a 
+space more than three or four miles long, by two
+and a half broad.  The buildings do not stand close
+together.  Every house nearly has a large garden
+attached, and sometimes there are only two or three
+buildings to a square.  In this way dwellings for
+perhaps ten thousand people are extended over the
+surface I have named.  The buildings are all constructed
+of the same material&#8212;a well-molded but
+sun dried brick, and of a light clay blue.  The walls
+are laid up evenly in line, and are pleasant to the
+eye.  The neighborhood affords great abundance of
+limestone, as well as of plaster of Paris, for finishing.
+The dwellings generally are very simple, a
+story, or story and half high-though those of the
+poorer classes are little more than mud hovels, and
+there are a few belonging to the higher Priesthood
+which are spacious and elegant, and furnished, when
+open, I am assured, with much richness and taste.</p>
+
+<p>The most casual observer cannot fail to be struck
+by the fact that this people have done wonders to
+build such a city in the comparatively short period of
+their sojourn here.  Surely, the task was an unpromising
+one in the beginning, for the soil must have
+been barren and forbidding.  The streets have been 
+graded and graveled where they needed it, many
+acres of gravel bed having been redeemed and are
+now in cultivation, and miles upon miles of canals,
+dykes, and ditches made for purposes of irrigation as
+absolutely essential to the raising of crops.  Without
+irrigation nor an ear of corn, or wheat, nor a hill of
+potatoes could be grown here; and so far as the V<geogName type="valley" key="Salt Lake Valley">alley
+of Salt Lake</geogName> is concerned, I can now say from
+personal observation, that there is not arable land
+enough to support decently the population already
+ere, even by dint of the most laborious industry&#8212;
+more than half of the land is full of saleratus, or covered
+by gravel or salt-water.  Among the spurs of
+the <geogName type="mountain" key="Wasatch Mountains">Wasatch</geogName>, lying nearest to the city, is one known
+as <geogName type="mountain" key="Ensign Peak">Ensign Peak</geogName>.  It is estimated to rise to the height
+of over tow thousand feet above <geogName type="valley" key="Salt Lake Valley">the Valley</geogName>.  I supposed
+it far higher, when it cost me three hours' hard
+labor, the other day, to reach its summit.  That attained,
+I had a glorious view of the valley below, with
+the <geogName type="waterway" key="Jordan River">Jordan</geogName>&#8212;the outlet of <geogName type="waterway" key="Utah Lake">Utah Lake</geogName>, far to the south
+&#8212;winding, like a silver thread through the emerald
+bottoms, away off towards its debouch into <geogName type="waterway" key="Great Salt Lake">Salt Lake</geogName>.
+The Lake, too, is plainly visible from the Peak for a
+distance of thirty or forty miles, and on a clear day
+the white shore of the desert, bounding it on the
+West, is easily discernible, though, probably, forty
+five miles distant.</p>
+
+<p>We have often heard of the great wall <q>"surrounding"</q>
+the city.  This too is a little imaginative, for
+the wall has never been even commenced in some
+places.  At most, the wall extends two thirds around
+the settlement.  It is a miserably poor affair, consisting
+of the sod and gravel piled up to a heigh
+varying from 3 to 8 feet, provided with embrasures
+at intervals pierced for cannon.  It never could have
+been proof against the lightest of artillery, and is now
+fast falling to ruin, crumbling and washing away
+with every Spring thaw or rain.  <seg type="Context" subtype="IndianRelationsLDS">Its estensible purpose
+when erected was defence against Indians.  A
+glance shows us the insincerity of such a pretence, for
+even if the entire population of the valley had been
+numerous enough to defend the wall during a siege at
+every point on its contemplated length of twenty-
+four miles, the heights upon the north and west command 
+it so completely that riflemen upon the hill
+could send their bullets across it with all ease.</seg>  Even
+the Mormons themselves now admit that the real object
+in building the wall was to furnish labor to the
+thousands of idle men who were here in 1854, and
+who would have been dangerous to the existence of
+Mormon theocracy, had not this plan of keeping
+their hands employed been devised.  You can have
+little appreciation of the deserted appearance of the
+city upon our arrival, with scarce a building open
+and nobody in town except the guard of two or three
+hundred who were left to take care of the property
+and apply the incendiary torch upon order.</p>
+
+<p>There were only two females in the city when the
+Gentiles entered, and even they were sent away at
+once; so that today there are absolutely no ladies
+here except the wife of <persName key="Cumming, Alfred">Governor Cummings</persName> and a 
+lady who spent the Winter at <orgName type="military" key="Camp Scott">Camp Scott</orgName> and who
+returned in our company.  There are now here
+probably five hundred men, the number having been
+increased by farmers who came up from their families
+to look after the crops.  The house windows
+still remain boarded up, and the gardens are luxuriant
+with the weeds that have checked out all more
+useful vegetation.  It would be difficult to imagine a
+scene of sadder desolation than that presented by this
+city now.  Indeed it looks as though some terrible
+pestilence had swept over its face, leaving the traces
+of it dread path vividly marked as the course
+of a tornado through a vigorous well-grown
+forest.  The workshops in Temple Block have all
+been despoiled of their roofs, and the foundations of
+the Temple covered with sods to hide them from
+the gaze of Gentile curiosity.  Temple Block, as is
+already known, is the square devoted to the construction
+of the great Mormon Temple, now in process
+of erection.  It is surrounded by a superior wall
+of stone, covered with a plastic, and some ten or
+twelve feet high; within the walls stand not only
+the wreck of extensive workshops, but the "Bowery"
+&#8212;or present church-meeting house-also, and
+the Endowment House, that scene of horrible mysteries
+which the initiated apostates from among the
+"Saints" unite in denouncing as the hell of hells.
+The "Bowery" is also closed up now.  It is an extensive
+building, fully capable, I should think, of
+seating three thousand persons, as claimed by it
+constructors.</p>
+
+<p>The square adjoining Temple Block, is occupied<cb n="2" />
+chiefly by the <q>" Tithing House"</q> and two of <persName key="Young, Brigham">BRIGHAM
+YOUNG</persName>'s palatial residences, including the celebrated
+"Lion" house, which he constructed with especial
+reference to the accommodation of an extensive and
+well-regulated harem. The "Lion" house is two
+stories and a half high, with a row of twelve Gothic
+gabled windows on each side, to the upper story,
+each window opening, it is said, into a separate
+room. Directly alongside this building, and connecting 
+with it by a range of offices, is another of liberal
+proportions, in which <persName key="Young, Brigham">BRIGHAM</persName> chiefly domiciles himself 
+and the elder Mrs. YOUNG, who is divided off
+from her numerous rivals by a high fence. This
+building is surmounted by the <q>"Bee Hive"</q> emblem
+of the Territory;&#8212;but a profane wretch at my elbow
+insists, that the more fitting location for this emblem
+of industry, would be upon the Lion House aforesaid.
+I neither ask his reasons for the suggestion, nor discuss 
+its soundness.</p>
+
+<p>The tithing stores and <persName key="Young, Brigham">BRIGHAM</persName>'S <q>"domestic institutions" </q>
+are surrounded by a fine and impenetrable wall
+of cobble-stones laid in cement, rising to a height of
+ten feet, three feet thick at the base and one foot thick
+at the top. This wall is divided into sections by columnar 
+buttresses, which rise above the wall about
+two feet each, and are designed eventually to form
+pedestals for a collection of statues. The walls are
+entered by heavy gates, constructed so that no outsider 
+could hope to got a peep at the mysteries inclosed, 
+nor any discontented female hope to escape
+from the grounds without the friendly aid of a turnkey. 
+Indeed, the whole establishment has very much
+the air of the desperate nunnery of the romances,
+the walls of which are understood to bury forever
+from the world those females who once pass their
+portals. Within this wall, too, <persName key="Young, Brigham">BRIGHAM</persName> has extensive
+stables and barns, sufficient in size for a stud of fifty
+or sixty horses. The dwelling which he first constructed 
+for his own use, and which is now occupied
+by one of his children, stands on the lower edge of
+the bench on the square east of that containing the
+Zion house. This building is the best located, and is
+altogether the cosiest house of the group. Back of it
+stands another of <persName key="Young, Brigham">BRIGHAM</persName>'S spacious barns, looking
+much more like a large country church. Opening the
+gate by which it is approached we read the injunction, 
+<q>"Shepherds, feed your flocks."</q></p>
+
+<p>Near by is a small saw mill, which is rim exclusively 
+for the purpose of cutting <persName key="Young, Brigham">BRIGHAM</persName>'S fire wood.
+The grounds about <persName key="Young, Brigham">YOUNG</persName>'s dwellings are not extensive 
+nor elegant, although kept in the finest order.
+They are filled chiefly with fruit trees, strawberry
+beds, and kitchen gardens, They are carefully guarded, 
+and strangers are generally excluded, although
+your correspondent was favored with an opportunity
+to ramble over them, and to luxuriate at some length
+in the luscious mysteries of the strawberry beds.</p>
+
+<p>The square, north of <persName key="Young, Brigham">BRIGHAM</persName>'S, is occupied chiefly
+by the group of a dozen houses, occupied by <persName key="Kimball, Heber C.">HEBER
+C. KIMBALL</persName> and his polygamous family. These, also,
+are surrounded by expensive and impenetrable walls.
+The dwellings of the <persName key="Young, Brigham">YOUNGS</persName>, and other leading
+men in the church, are generally fine, exhibiting in
+all their surroundings a vast amount of the hardest of
+later wrung from the people. This fact is evident to
+the most superficial observer. <persName key="Young, Brigham">BRIGHAM</persName> is immensely 
+rich, yet has he not toiled, and one cannot fail to
+see that this is no country in which a man may become 
+wealthy without labor or adventure, for scarce a
+blade of tame grass can be had without effort. <persName key="Young, Brigham">BRIGHAM</persName>'S 
+grounds occupy a site formerly covered by hard
+gravel, and every inch of soil has been carted upon
+it from a distance. The same is true of <persName key="Kimball, Heber C.">HEBER
+C. KIMBALL</persName>'S
+but the people, in their blind fanaticism, bow their
+necks readily to the yoke, and seem quite content to
+remain poor, that their prophets and priests may roll
+in wealth. On every hand, too, we see evidences of
+<persName key="Young, Brigham">BRIGHAM</persName>'S policy of keeping his people hard at work.
+I do not exaggerate in the least, when I say that it is
+with the utmost difficulties that the masses can eke
+out an existence by the most laborious industry; for
+their tithes and taxes, paid in work, time and produce, 
+take so largely from their means, and their soil
+is naturally so barren, that nothing less than the
+closest application saves them from starving. I would
+not be misunderstood. Their crops of grain and of
+vegetables are superior, when not cut off my insects,
+but the labor of reclaiming the soil and of irrigation,
+is so great as to absolutely forbid the cultivation of
+more than a small patch of land by each. On this
+score, it is clear that the most shameful imposition
+is practiced upon proselytes in the east and in the old
+world, who are continually urged to come to "Zion,"
+a land flowing with milk and honey, and assured that
+the earth here yields abundantly upon slight wooing.
+Thus thousands have been deceived into abandoning
+comfortable homes, and bringing their families here
+to suffer all the pangs of keenest poverty. If those
+who contemplate coming here will but send some
+trusty agent in advance to examine and make honest
+reports, fewer families will finally decide to come
+here, where they must necessarily wear out a
+wretched existence.</p>
+</div2>
+
+<div2>
+<head type="sub">SALT LAKE.</head>
+
+<p>Among the natural curiosities of this region, <geogName type="waterway" key="Great Salt Lake">Great
+Salt Lake</geogName> is preeminent. It has already been so
+fully described that I can add nothing new. A party
+of us visited it a day or two ago, and tested its saline
+virtue, floating like logs upon its surface, and strangling 
+desperately when a drop or two of the brine succeeded 
+in penetrating nostrils or mouth. This inland
+sea certainly is among the most remarkable facts in the
+geography of the world. If I remember aright, <persName key="Stansbury, Howard">Capt.
+STANSBURY</persName>'S soundings make it only thirty-five feet
+deep in its deepest part. Three rivers&#8212;the <geogName type="waterway" key="Weber River">Weber</geogName>,
+the <geogName type="waterway" key="Bear River">Bear</geogName> and the <geogName type="waterway" key="Jordan">Jordan River</geogName>&#8212;all empty into it, pouring 
+large bodies of fresh water into the basin continually; 
+nevertheless, although it has no visible outlet, 
+the water of <geogName type="waterway" key="Great Salt Lake">the Lake</geogName> maintains its character of
+strongest brine unimpaired. Standing upon the jutting 
+point of Black Rock, distance eighteen miles
+from <placeName type="settlement" key="Salt Lake City">the City</placeName>, and looking thence down upon the
+water, it seems of a bluish white color in body,
+though quite clear when taken up in a glass. The
+salt-boilers upon the banks state that four buckets of
+water will usually make one of salt, and a clearer,
+purer article could not be desired. I tried a bath,
+and found it impossible to sink; wading out far
+enough to bring the water up to one's arm-pits, it becomes 
+impossible to keep one's feet upon the sandy
+bottom, so buoyant is the water. Lay upon your
+back, double up your limbs, and lock your arms
+around your knees and you bob around in the ceaseless swell
+of the Lake like a stray cork. The water
+is so excessively salt as to be bitter. A drop in one's
+eye is painful as would be the same amount of tobacco 
+juice, and the greatest care is necessary to prevent 
+strangulation if the swimmer <q>"ships"</q> the
+smallest mouthful.</p>
+
+<p><seg type="Context" subtype="LDSApostates">We found only one salt-boiler at work. All the rest
+had "gone South," as we were informed by the now
+solitary monarch of the spot, Mr. <persName key="Warn">Warn</persName>, formerly
+of Salem, Mass. At his shanty, near the Black Rock
+on the shore of the lake, we found his wife&#8212;an intelligent 
+and practical woman from Cushing, Me.,
+and a pretty little flaxen-haired daughter nine or ten
+years of age, bringing vividly to the mind of your
+correspondent a blue eyed, brown-haired little one
+two or three thousand miles away in a happier land
+It is a sad sight to witness a naturally bright child
+growing up in such a spot, without a companion of
+her own years, or any means of education. <persName key="White">Mr.
+WHITE</persName> and his wife came here several years ago, undoubting 
+disciples of the Mormon faith. Some time
+since they lost several head of cattle, the responsibility 
+for which they traced directly to <persName key="Young, Phineas">PHINEAS
+YOUNG</persName>, a nephew of the Prophet. <persName key="White">WHITE</persName> did not
+hesitate to accuse him of the theft, and to demand
+justice. In response he was told by his priestly
+leaders to <q>"shut up,"</q>&#8212;and as he persisted in scandalizing 
+the Church by making oath that the Prophet's 
+nephew was a thief, he was cut off from the
+Church. This, however, had no terrors for him, as
+he and his wife had already become satisfied by the
+<q>"fruits"</q> of Mormonism, that the tree was vicious
+and corrupt, They assured us that even within a
+few days post, since the arrival of the Governor and
+the arrangement made by the Peace Commissioners,
+the Mormon Bishops have been engaged in driving 
+the people away from his neighborhood,
+some of them being reluctant to go South, but
+were afraid to <q>"disobey Council."</q> The effort was
+made to send the WHITES away, but they positively
+refused, notwithstanding they were told very distinctly 
+by the Bishop that the fractious Apostates
+would be put out of harm's way. <persName key="White">Mr. WHITE</persName> states,
+upon his own knowledge, that very many families
+went South under orders, who were loth to do so
+grumbling audibly at the tyranny to which they submitted. 
+I am assured that not a few of the people
+have been made to believe that Batons, as <q>"Governor," </q>
+has the right to order them where he will.
+We have abundant evidence of these tyrannical orders 
+to leave the city. I saw in Emigration Canon
+yesterday several apostatizing families, who had
+come up from the South. They desired to stop in
+this city and await the arrival of the army, but the<cb n="3" />
+<q>"Saints"</q> told them positively that they would allow
+no women to be in town while the army was
+here, and so compelled them to start to the Eastward.
+These and a dozen other families similarly
+situated, who are now camped on the <q>"bench,"</q> will
+come in here with the army and test the question
+with their persecutors.</seg></p>
+</div2>
+
+<div2>
+<head type="sub">THE HOT SPRINGS.</head>
+      
+<p>Returning from, this digression, I must say
+a word of the Hot and Warm Springs.
+The former boil up out of the Valley at
+the foot of the mountain three miles above
+the city; they are sulphurous, and of so high a tem-
+perature as to be unendurable, Indeed there can be
+little doubt that they would cook an egg, although I
+have had no opportunity to try the experiment, A
+story is told of a big Missourian; an emigrant to <placeName type="state" key="California">California</placeName>, who, passing these Springs in 1850 stripped
+for a bath. He had been assured that the Mormons
+bathed here, and so when cautioned against trying
+the experiment, swore that he'd be d&#8212;d
+if he couldn't stand anything that the Mormons could. With this declaration he plunged
+into the see thing pool. A yell of pain
+brought the bye-standers to his aid. They dragged
+him out,&#8212;for he was helpless to aid himself,&#8212;and
+carried him to town, where he lay for weeks before
+he was able to proceed on his journey. The Warm
+Springs are just outside the city wall noon the North.
+Their temperature is lower than that of the Hot
+Springs, affording an exceedingly agreeable bath.
+There is a bathhouse within the walls, supplied
+from the springs, but, like all else here at this
+time, has been broken up and left in ruins. Some of
+the Gentiles not long since went in, as the house
+was open, fixed up a bathing tub, and arranged it so
+that it could be used; but this was too much of luxury 
+for Gentile brethren, and some good Mormon
+brethren accordingly cut off the water and destroyed
+our plans of comfort. Fortunately they can't choke
+the springs themselves, which well up out of the
+ground, forming two or three natural basins, from 12
+to 18 inches deal), in which we roll and plunge ad
+libitum. The water is both sulphurous and saline,
+very clear, and possessing cleansing qualities which
+cannot but be healthy and invigorating to the skin.</p>
+</div2>
+
+<div2>
+<head type="sub">PEACE UNCERTAIN</head>
+       
+<p>Nobody has any confidence that the present season
+of peace can last. Indeed, I venture the assertion
+that if Commissioners <persName key="Powell, Lazarus">POWELL</persName> and <persName key="McCulloch, Benjamin">McCULLOCH</persName>&#8212;who
+have fulfilled their duties here with prudence, judgment 
+and fidelity&#8212;can be induced to give expression
+to their views upon the subject, it will be found that
+they have no idea that this people can live in peace
+under the Constitution and laws of the Union, to
+which they all <hi rend="italic">profess</hi> attachment the most profound.
+We see the symptoms of collision on every hand
+The Mormons themselves, though subdued, are surly,
+gloomy and discontented. They are impudent, too,
+in their manner and conversation, and will provoke
+personal difficulties by their conduct, out of which a
+general collision may spring at any hour. Get a
+Mormon in conversation, and, ten to one, he will tell
+you very soon how brave he is, and how they would
+have whipped the Army if the President had not offered 
+so large a price for peace. An amusing instance 
+of this sort occurred between a private of <persName key="Magraw">MAGRAW</persName>'S 
+company of volunteers and two Mormons, who
+went out to camp the other day with produce to sell.
+The soldier, after listening to their braggadocia
+awhile, suggested that they numbered about the same
+proportion to him that the Mormon army did to that
+of the United States, that this was a fair opportunity
+to test their relative strength, and that be intended to
+whip them both for their impudence. The braggarts
+were saved the flogging by the timely appearance of
+an officer.</p>
+
+<p>Again there are many Gentiles here and in the
+neighborhood, who have long been under the heel of
+Mormon oppression, suffering great loss and many
+hardships, as well as personal indignities. These
+begin to feel a little security now, and are turning
+upon their persecutors with a good deal of bitterness.
+One of them, a <persName key="McNeill">Mr. McNEILL</persName>, whose experience I
+propose to note more at length before I close, meeting 
+<q>"Adjutant-General"</q> <persName key="Ferguson, James">JAMES FERGUSON</persName>, last evening, 
+in the presence of sundry Government officials
+and others, denounced him bitterly as a scoundrel
+who had oppressed him, and demanded of him satisfaction 
+at any given number of paces, with weapons
+to be selected. <persName key="Ferguson, James">FERGUSON</persName> did not accept the invitation. 
+Scenes of this character will become more
+and more frequent day by day, and fan the insane
+zeal of not a few of the fanatics of these mountains
+who seem anxious to be made <q>"martyrs for the
+faith."</q></p>
+
+<p><seg type="Context" subtype="Polygamy">But polygamy is the rock on which they are most
+certain to split. To any interference with it they
+say they will not submit under any circumstances.
+This I have been told repeatedly by the chiefs
+among the Mormons here. They declare tha
+come what may, they will recognize no attempt 
+to break up the plurality system. They
+admit that their legislature has passed no law
+legalizing and establishing polygamy, and give as a
+reason therefor the certainty that Congress would
+disapprove and so annul such a law. This being so,
+there can be little doubt that the old Mexican law on
+that subject prevails here, and that polygamy can be
+punished under it.</seg> At any rate, Judge <persName key="Eckles, Delana">ECKLES</persName> will
+make the experiment, unless he should get instructions 
+from <placeName type="state" key="Washington, D. C.">Washington</placeName> to the contrary, which is
+hardly to be anticipated. The people themselves
+evidently expect a collision to arise out of this
+or some other cause, and I think they are
+carefully considering the policy of leasing the country 
+altogether, and going to some place where they
+can wield the civil as well as ecclesiastical authority.
+Meantime, a strong body of troops should always be
+stationed near the city, ready for instant duty, to
+maintain the laws and to prevent bloodshed by private 
+hands.</p>
+
+<p>Already the Mormon leaders here are at work to
+get rid of a portion of the federal officials sent among
+them, Major <persName key="Blair, S.M.">S. M. BLAIR</persName> told me that they had already 
+petitioned for the removal of Judge <persName key="Eckles, Delana">ECKLES</persName>,
+Postmaster. <persName key="Morrell, Hiram F.">MORELL</persName>, and Indian Agents <persName key="Hurt, Garland">HURT</persName> and
+<persName key="Craig, William">CRAIG</persName>. <persName key="Eckles, Delana">ECKLES</persName> has excited their hostility by his official course in <orgName type="military" key="Camp Scott">Camp Scott</orgName> last winter, where he had
+the unparalleled impudence to hold the Mormons to
+be traitors, and to indicate his disposition to execute
+upon them the laws against treason and sedition. The
+other officials mentioned have been among them be-
+fore; and of course as they drove them out by force,
+it is annoying and humiliating to find them back
+again. <persName key="Hurt, Garland">Dr. HURT</persName> certainly is a most honorable and
+excellent gentleman, loved and respected by all who
+know him, and one who has proven his patriotism
+within a year past by desperate public service, in
+which he has sacrificed comfort and health, and it is
+to be feared, has even cut short his life. We shall see
+now whether justice or the Mormons are strongest in
+their influence over the Administration of <persName key="Buchanan, James">JAMES
+BUCHANAN</persName>. <persName key="Cumming, Alfred">Governor CUMMING</persName>, who seems to
+have been taken into full communion by
+the brethren, evidently sympathizes with them
+in their kind intentions toward his brother
+officials, and will, doubtless, exert his influence
+in support of the petitions of removal, which, I
+am inclined to think, he forwards by this mail. The
+President, however, will be apt to await the return
+of the Peace Commissioners before he acts upon the
+petitions; and I am greatly in error if they do not
+see, what every other <q>"Gentile"</q> here sees clearly,
+that it is the <hi rend="italic">Governor</hi> who should be removed from a
+position which he is utterly unfit to fill. His official
+intercourse with the Mormons here is making smooth
+sailing for himself at the present; but it will assuredly, 
+in time, complicate the difficulties which cannot
+be avoided. Firmness and dignity are required in
+the Governor, but <persName key="Cumming, Alfred">CUMMING</persName> substitutes for these
+vulgar familial fly. Besides, he is naturally excitable, 
+and notoriously gets steam up to an alarming
+point over the whisky-jug. He is not the man for
+the position, and should be replaced forthwith by
+some one who will command respect for himself, and
+so be better able to exact respect for the Government
+he represents. He is, withal, vain as a boy of 13, and
+offensively imagines himself the embodiment of all
+that is great and grand. There can be no question
+that former Administrations have sent some appointees 
+here, justly obnoxious to the people; and it is of
+the highest importance that those who, in future, are
+sent to preside over them should be unobjectionable
+men in all respects, Probably the best mode of dealing 
+with this people would be to repeal the organic
+act altogether, and then appoint some such man as
+Gen. <persName key="Johnston, Albert Sidney">JOHNSTON</persName> both civil and military Governor.
+<persName key="Blair">BLAIR</persName>, and others of the most influential men in this
+community, do not hesitate to say, even today, that
+they will be d&#8212;d if they will submit to have <persName key="Morrell, Hiram F.">MORELL</persName>, 
+<persName key="Eckles, Delana">ECKLES</persName> &amp;Co. admininister the Post Office and
+other offices of the Government here. They demand,
+too, "as a right," a share of the offices for themselves
+its well as the appointment of men to all of the offices,
+whom they shall approve, and he adds that there are
+a thousand who will jump when he gives the word. I
+suggest that Mr. <persName key="Buchanan, James">BUCHANAN</persName> send his nomination here
+for confirmation, rather than to the Senate of the
+United States. It is rumored that <persName key="Blair">BLAIR</persName> rather expects 
+to be appointed to Judge <persName key="Eckles, Delana">ECKLES</persName> place; and if
+he falls to get it, I should not be surprised if Dr,
+<persName key="Bernhisel, John M.">BERNHISEL</persName> is requested to resign, to give the Major a
+chance to go to Congress.</p>
+</div2>
+
+<div2>
+<head type="sub">ADMISSION OF UTAH AS A STATE.</head>
+
+<p><seg type="Context" subtype="Polygamy">The Mormons have determined to make an earnest
+effort for immediate admission into the Union, in order
+that they may pass laws establishing the eminently
+<q>"domestic institution"</q> of Polygamy, and so defy
+interference therewith.</seg>  If they fail in that&#8212;as I take
+
+<pb n="2" />
+
+it for granted they must&#8212;they are likely to get out of
+the country as quickly as they can. Notwithstanding
+<persName key="Young, Brigham">BRIGHAM</persName> so recently declared the determination of
+himself or his people to <q>"live or die in these mountains,"</q> 
+it is very evident that he has not altogether rejected 
+the propositions made to him by Colonel <persName key="Kinney, John Fitch">KINNEY</persName> 
+for the sale of 3,000,000 acres of land in Mosqueto. 
+Messrs. <persName key="Cooper">COOPER</persName> and <persName key="Harbin">HARBIN</persName>, the Kinney Commissioners, 
+are still at <placeName type="settlement" key="Provo, UT">Provo</placeName> in consultation with
+<persName key="Young, Brigham">BRIGHAM</persName>, and the chances are that he will make some
+conditional arrangements. At least, such are the indications. 
+If so, it is supposed that Major <persName key="Hunt, Garland">HUNT</persName>
+the old Mormon pioneer&#8212;and another person will be
+sent down to take a look at the country and report,
+and if their report is favorable, that Missionaries will
+be sent there to receive and look after the foreign immigration 
+of proselytes, who will be directed to that
+new Mecca, and he followed, in time, by all of the
+faithful from this <q>"Zion"</q> as rapidly as they can get
+means of transportation. All this, however, is very
+vague and indefinite yet, and may never obtain further 
+development.</p>
+</div2>
+
+<div2>
+<head type="sub">AMERICANS HELD AS PRISONERS OF WAR.</head>
+     
+<p>There are now in this city two American citizens,
+who have been held, for months past, prisoners of
+war, and treated, in some respects, most shamefully.
+One of these is Mr. <persName key="McNeill, F. E.">F. E, McNEILL</persName>, of <placeName type="settlement" key="New Orleans, LA">New Orleans</placeName>,
+<placeName type="state" key="Louisiana">La</placeName>, who came to <orgName type="military" key="Fort Laramie">Fort Laramie</orgName> last year, as a guide
+to the Fifth Infantry. He came from <orgName type="military" key="Fort Laramie">Laramie</orgName> to
+<orgName type="military" key="Fort Bridger">Fort Bridger</orgName> in November last, with Rosser, &amp;
+<persName key="Waddell">WADDELL</persName>'S team, and arrived in this city on the 1st
+December, with several other teamsters, all of whom
+proposed to proceed at once to <placeName type="state" key="California">California</placeName>, from here.
+<seg type="Context" subtype="IndianRelationsUS"><persName key="McNeill">McNEILL</persName> went to see <persName key="Young, Brigham">BRIGHAM YOUNG</persName>, on learning
+that no one could move safely without his aid and assistance
+<persName key="Young, Brigham">YOUNG</persName> advised him not to go south, as the
+Indians were very bad, but said that, if he insisted
+upon going out of <geogName type="valley" key="Salt Lake Valley">the Valley</geogName>, he would give him and
+his friends an escort eastward as far as <orgName type="military" key="Fort Laramie">Fort Laramie</orgName>.
+The escort offered was to have been under the command 
+of <q>"Cherokee THOMPSON,"</q> the scoundrel who
+has been all Winter, and still is, a prisoner in Gen.
+<persName key="Johnston, Albert Sidney">JOHNSTON</persName>'S camp, and whom <persName key="McNeill">McNEILL</persName>, heard declare his intention to incite the Cheyennes to activity in
+cutting off <q>"American"</q> travelers across the Plains.
+It is a significant fact that this Southern route, on
+which the Indians are so bad, according to <persName key="Young, Brigham">BRIGHAM</persName>'S
+account, is the same over which the <placeName type="state" key="California">California</placeName> and
+Salt Lake mail has been carried now for two and a
+half years, by Mormons, without over having been interrupted in a single instance. <seg type="Context" subtype="IndianRelationsLDS">Yet very many
+travelers have there found graves, according to Mormon 
+accounts, entirely by Indian hands! The fact
+adds seeming corroboration to the charge so frequently 
+made against the Mormons, of having a
+secret understanding with the savages, by which they
+receive aid in, tied immunity for, robbing and murdering 
+others, so long as they let the Saints pass unmolested</seg>.</seg></p>
+
+<p><persName key="McNeill">McNEILL</persName> had seen enough of the Saints already
+to satisfy him that he must he very circumspect if
+he hoped to escape with safety, so he concluded
+not to accept an escort, and never called for it. After 
+remaining in <geogName type="valley" key="Salt Lake Valley">the Valley</geogName> for a month or more,
+during which time he traveled north a ways, to see the
+people, he determined some time in January to start
+for <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, which he did with three others, to
+wit: <persName key="MIles, C. L.">Mr. C. L, MILES</persName>, of <placeName type="state" key="Michigan">Michigan</placeName>, &#8212; <persName key="Brown">BROWN</persName>, of
+Southern <placeName type="state" key="Missouri">Missouri</placeName>, a one eyed and one-armed man,
+and <persName key="Fadens, Henry C.">HENRY C. FADENS</persName>, of <placeName type="settlement" key="Salem, MA">Salem</placeName>, <placeName type="state" key="Massachusetts">Mass</placeName>. This party
+of four plunged at once into the mountains, where
+they floundered about for 21 days in the snow, which
+oft times was neck deep. For six days they were entirely 
+without food. They were discovered at last
+near <geogName type="waterway" key="Yellow Creek">Yellow Creek</geogName> by the Mormon out-post force
+under Capt. <persName key="Winans">WINANS</persName>, brought back to this city, and
+put in imprisonment, under a guard of eight armed
+men <persName key="Brown">BROWN</persName>, however, escaped while at the Mormon 
+station on the <geogName type="waterway" key="Weber River">Weber River</geogName>, and is understood
+to have reached the Army in safety. After the prisoners 
+had been in custody four weeks, the Mormons
+wanted <persName key="McNeill">McNEILL</persName> to start for <placeName type="state" key="California">California</placeName> with the
+mall, which he refused to do, having been warned
+by friendly apostate Mormons that he would assuredly 
+be murdered if he went. Upon his refusal a
+heavy ball and chain were put upon him, and he was
+again confined. Subsequently he succeeded in getting 
+the guard drunk one day, and then got the Captain 
+to go with him to <persName key="Young, Brigham">BRIGHAM</persName>'S. Not finding the
+Prophet in he left a letter upbraiding him for his oppression. 
+Half an hour later an order came from
+<persName key="Young, Brigham">BRIGHAM</persName> directing the fetters to be removed. When
+Governor <persName key="Cumming, Alfred">CUMMING</persName> first came into the city <persName key="McNeill">McNEILL</persName>
+again succeeded in getting his guard under the influence
+of liquor, and then under pretence of going
+after beer, slipped away from his custodians and proceeded 
+to see the new Governor to claim his protection. 
+He found <persName key="Stains">STAINS</persName>' house, where the Governor
+was stopping, rigorously guarded,&#8212;but he pushed his
+way in, told the Governor his own story briefly, and
+claimed his protection. The Governor, who seemed
+to be alarmed and fearful of personal danger, failed
+to respond to his plea more than to take his name
+down.  He also stated to the Governor that he could
+tell him of some shocking murders perpetrated
+by <orgName type="tribe" key="Snake">Snake Indians</orgName>, with the cognizance and under the
+influence of prominent Mormons; and of cattle stealing 
+under the direction of <persName key="West, Chauncey W.">CHAUNCEY W. WEST</persName>,
+Bishop of Ogden. One case in particular, he mentions, 
+is that of an <placeName type="state" key="Arkansas">Arkansas</placeName> emigrant, who got his
+cattle back subsequently, by contracting with <persName key="West, Chauncey W.">WEST</persName> to
+give him a portion of them for returning the remainders. 
+A teamster, named <persName key="Rhodes">RHODES</persName>, who assisted in
+driving the cattle, while at the Indian camp of <persName key="Simons, Ben">BEN</persName>
+and <persName key="Simons, Jim">JIM SIMONS</persName>, was told by the Indians there that
+prior to the robbery <persName key="West, Chauncey W.">WEST</persName> asked <persName key="Simons, Jim">JIM</persName> to undertake the running off of the cattle. <persName key="Simons, Jim">JIM</persName> replied by suggesting
+to <persName key="West, Chauncey W.">WEST</persName> the propriety of running his own hand into
+the fire, promising if it didn't burn him, he also might
+be induced to try. The Indian cautioned him, however, 
+that it would burn badly. Somebody else was
+found to do the job, however, for the cattle were carried 
+off immediately after, and the owner, besides
+paying <persName key="West, Chauncey W.">WEST</persName> to find them for him, was also compelled 
+to pay for their herding during the Winter.
+<persName key="McNeil">McNEILL</persName> further states, that while on the <geogName type="waterway" key="Weber River">Weber River</geogName> during the Winter, some time, he saw the cattle
+which, were stolen from <persName key="Gilbert">GILBERT</persName> &amp; <persName key="Gerrisu">GERRISU</persName>, and
+<persName key="Radford, John">JOHN RADFORD</persName>, sutlers and merchants, while on the
+plains last Fall, herding under the care of a Mormon
+named <persName key="Thurston">THURSTON</persName>.</p>
+
+<p>As Governor <persName key="Cumming, Alfred">CUMMING</persName> could not or would not help.
+<persName key="McNeill">McNEILL</persName>, he returned to his prison. This was on
+Saturday. On Monday the Mormon guard renewed
+the ball and chain upon their victim, an American
+citizen, against whom no crime is alleged, and who
+was only held as a prisoner of war, as was confessed
+to me by prominent Mormons to whom I have addressed 
+inquiries on the subject within the last day
+or two.  On the midnight following the renewal 
+of his fetters, <persName key="McNeill">McNEILL</persName> was suddenly
+seized by an armed force under Adjutant-General
+<persName key="Ferguson">FERGUSON</persName>, and sent to the Penitentiary in irons, while
+his fellow prisoners were left in the City, in total ignorance 
+of his fate. There can be no doubt of the
+fact that this step was taken to prevent him from
+again communicating with the Gentile Governor,
+Three weeks later he was taken out of prison by an
+armed guard, carried over two hundred and fifty miles
+to the southward to the settlement of <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, and
+there turned loose in the vicinity of the most vicious
+Indians in this region, without provisions or arms or
+ammunition of any kind with which to help himself.
+The point of his desertion he supposed to be about
+400 miles distant from <placeName type="state" key="California">California</placeName>, the road lying in
+part across the Great Desert. <seg type="Massacre" subtype="Aftermath">He walked down as
+far as the scene of the Mountain Meadows massacre,
+where he saw the bones of the murdered emigrants
+lying in heaps;</seg> but <seg type="Massacre" subtype="Spoils">no traces of the wagons or other
+property belonging to them. <seg type="Context" subtype="LDSApostates">He saw in the care of
+good Mormons in that neighborhood a large number
+of cattle, which he was informed, by men who were
+secretly apostates to the Church, were those taken
+from the murdered emigrants.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">This corroborates the
+testimony of certain Indians, referred to in a former
+letter, who declared that the Mormons carried off the
+cattle, although when they induced the Indians to go
+into the massacre, they promised them that they
+should have all the plunder except the wagons.</seg></seg> 
+<seg type="Source" subtype="Unattributed">While upon this Subject, let me add
+the testimony of a very intelligent gentleman who
+has been traveling in the vicinity of the Mountain
+Meadows massacre, and who wormed out of some of
+his Mormon friends additional facts in connection
+with that catastrophe.  <seg type="Source" subtype="Indians"><seg type="Massacre" subtype="Battle">According to these admissions 
+the emigrants, finding themselves the subject of
+a continuous succession of Indian attacks, which were
+fast reducing and weakening them, (again confirming 
+the Indian story of my former communication,)</seg> to
+that extent, resolved to make a stand and prepare for
+vigorous defence. <seg type="Massacre" subtype="Location">They accordingly camped by a
+little stream, made a corral with their wagons, the
+wheels of which they sunk into the ground so as to
+make a sort of breastwork, and in this position recieved 
+<seg type="Blame" subtype="IndiansLDSInfluence">the assaults of their savage enemies under
+<q>"Saintly"</q> leaders</seg>, determined to die there rather
+than yield their, wives and children to the fury of
+their asailiants,</seg> Thus they defended themselves
+<hi rend="italic">nearly three weeks</hi>, <seg type="Massacre" subtype="Casualties">killing, it is estimated, over one
+hundred of the enemy</seg>, and they were beaten at last
+only by strategy&#8212;the assailants turning the stream of
+water away from the besieged, and then killing them
+as they came out one by one in search of the means of
+quenching their maddening thirst.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">It is fully admitted
+that this affair occured almost within sight
+and sound of the Mormon settlements, and that the
+Mormons knew day by day the progress of the fight.
+Had the <q>"Saints"</q> been disposed to assist the little
+band and save them, they could have sent even to<cb n="2" />
+
+<placeName type="settlement" key="Salt Lake City">Salt Lake City</placeName> for horsemen and had them upon the
+ground within the first week of the siege&#8212;,for a hundred 
+miles a day is no uncommon travel for these
+mountaineers.</seg> The conclusion is irresistable that
+they were content to see the Gentiles slaughtered
+and when we have this evidence of the extent to
+which their hearts were steeled against the pleadings
+of the commonest claims of humanity, it is easy to
+believe the declarations of the Indians that they engaged
+in the affair under Mormon influence and leadership,</seg> 
+<seg type="Massacre" subtype="Survivors">I learn also that a number of the children of <seg type="Massacre" subtype="Casualties">the murdered emigrants</seg> are in the hands of Indians and Southern Mormons. <persName key="Forney, Jacob">Dr. FORNEY</persName>, the Superintendent of Indian Affairs, designs
+taking a trip southward very soon, with a view to
+ransoming them and also of inquiring into the facts
+relative to the massacre.</seg> <seg type="Context" subtype="LDSPersecution">I fear, however, that the
+<persName key="Forney, Jacob">Doctor</persName> will never get at the bottom of the mystery&#8212;
+for although apparently an honest man, who desires
+to do his duty faithfully, he is exceedingly simple,
+easily influenced, and completely disarmed of all
+suspicion by the most superficial kindness. Already
+he has been taken complete possessession of by this
+people, and <hi rend="italic">upon their own testimony</hi>, is satisfied that they have been greatly abused and lied about, and that they are in reality among the most honest and
+most pious people upon earth,&#8212;<seg type="Context" subtype="Polygamy">notwithstanding their
+polygamy</seg>.</seg> Indeed, hath he and Governor <persName key="Cumming, Alfred">CUMMING</persName> 
+seem to be in the best possible frame of mind
+for the sowing of Mormon seed, and I should not be
+surprised if they became full converts to the doctrines 
+of <persName key="Smith, Joseph">JOSEPH SMITH</persName> before another month passes.
+I would be sorry to do the Doctor injustice&#8212;and
+wish again to express my full conviction that he <hi rend="italic">desires to do right</hi>,&#8212;but he seems to me to be moulded of entirely too malleable material for an independent
+and discriminating public officer among a people
+whose system and practice are entirely at war with
+the moral sentiment of the civilized and Christian
+world.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">But I have unintentionally wandered from the history of Mr. <persName key="McNeill">McNEILL</persName>, who on viewing the ghastly skeletons of his murdered countrymen, and obtaining
+evidence of the fact that <seg type="Blame" subtype="IndiansLDSInfluence">they were victims no less
+of Mormon than of Indian iniquity</seg>, determined at
+once that it would be madness for him to attempt the
+passage towards <placeName type="state" key="California">California</placeName>.</seg> He accordingly returned 
+at once to <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake</placeName>, arriving here two or
+three days ago, having walked two hundred and fifty
+or three hundred miles in six days, supporting himself
+on the way upon wild rabbits, which he killed with a
+rifle furnished by <seg type="Context" subtype="LDSApostates">a sympathizing apostate Mormon in one of the southern settlements</seg>. On his way he learned that peace had been made&#8212;but, in any event,
+he felt that his chance of life was better while wandering 
+in the neighborhood of settlements than it
+would be in plunging away from them into the southern 
+wilderness, where there would be no witnesses
+of any outrage to which it might be desired to subject
+him. I add the following items upon the testimony
+of <persName key="McNeill">McNEILL</persName>, some of which you will recollect have
+been already referred to by evidence from other
+sources.</p>
+
+<p><seg type="Context" subtype="WesternViolence">Last Fall six young men, came into <geogName type="valley" key="Salt Lake Valley">the Valley</geogName> from <placeName type="st" key="California">California</placeName>, intending to go to the East through the camp, of the U. S. Army. They were arrested here,
+searched, robbed of a portion of their personal property, 
+and then sent southward, to return to <placeName type="state" key="California">California</placeName>, 
+escorted by a band of Danites, under <persName key="Rockwell, Orrin Porter">PORTER
+ROCKWELL</persName>.  Arriving at one of the southern settlements, 
+<persName key="Rockwell, Orrin Porter">ROCKWELL</persName> told the men to go ahead, and he
+would soon overtake them They passed on, and
+that night were attacked, and some, if not all of them,
+were killed, by a party in ambush on their road.
+This was related to <persName key="McNeill">McNEILL</persName> by men professing to be
+privy to the facts, one of whom saw <persName key="Rockwell, Orrin Porter">ROCKWELL</persName> riding
+back on a mule belonging to the travelers. This incident 
+is probably the same narrated much more fully
+in the story told by <persName key="James, Richard">RICHARD JAMES</persName>, in my letter of the
+29th May, from <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>.  It will be remembered,
+that a man named <persName key="Yeates">YEATES</persName> was murdered in the
+Mountains last Fall, as was supposed, because he
+had sold ammunition to, the Army in hostility to Mormon 
+interests. The horse of the murdered man is
+now in the possession of a Mormon named <persName key="Conover">CONOVER</persName>
+at <placeName type="settlement" key="Provo, UT">Provo</placeName>.</seg></p>
+
+<p>A young man, whose name <persName key="McNeill">McNEILL</persName> does not remember, 
+came here from <placeName type="state" key="California">California</placeName> last year, and
+went to board with a man named <persName key="Terry">TERRY</persName>, at <placeName type="settlement" key="Springville, UT">Springville</placeName>. Some time afterwards his revolvers were stolen 
+from the house during the day-time, and his horse carried off from the field. <persName key="Terry">TERRY</persName> told him that they had been carried off by Indians, and he was never able to get any trace of them. On a Sunday evening,
+a little subsequent to the thefts, <persName key="Terry">TERRY</persName> started for Church, as he said, and the young man went out with him&#8212;which is the last time the latter was ever seen alive. Three days later an Indian reported a corpse
+lying three and a half miles below in the woods; which, upon examination, proved to be that of the young stranger; <hi rend="italic">and the next day <persName key="Terry">Terry</persName> was seen riding the stolen horse about town with the pistols of deceased in his belt!</hi> The facts of this case are certified by certain honest Mormons who knew them, who
+denounce them privately, and will probably testify to them as soon as the protection of the army is afforded. 
+One of these, an old gentleman named. <persName key="Warren">WARREN</persName>, for expressing his opinion on the subject
+rather freely, was dragged out of his house in the night, and would probably have been murdered had not his son come to his rescue in the nick of time with one of Colt's revolving persuaders. Of such crimes as these the theocracy with which <persName key="Young, Brigham">BRIGHAM YOUNG</persName> has practically displaced the Government and
+laws of the Union takes no cognizance whatever. A Mr. <persName key="Rhoades">RHOADES</persName>, of <placeName type="state" key="Arkansas">Arkansas</placeName>, was stopped in broad daylight upon the streets in <placeName type="settlement" key="Ogden City, UT">Ogden City</placeName>, and robbed of his brestpin and finger-ring. He represented the
+facts to Bishop <persName key="West, Chauncey W.">CHAUNCEY W. WEST</persName>, who took no notice of his complaint, nor made the least effort to ascertain who of his flock had thus earned their title to a call in the Penitentiary. A young man named <persName key="Miles, C. L.">C. L. MILES</persName>, was in the employ of Bishop <persName key="Andrus, Mellow">MELLOW ANDRUS</persName>,  of <placeName type="settlement" key="Cottonwood, UT">Cottonwood</placeName>, a settlement a few-miles from here, and boarded in his family. <persName key="Andrus, Mellow">ANDRUS</persName> had eight wives, of one of whom he became exceedingly jealous, suspecting her of improper intimacy, with <persName key="Miles, C. L.">MILES</persName>.
+He did not profess to have any proof, but said to <persName key="Miles, C. L.">MILES</persName> one day that if he was sure his suspicion was well grounded he would not hesitate to shoot him and cut his wife's throat. <persName key="Miles, C. L.">MILES</persName> protested his innocence, but, becoming alarmed, ran away from <geogName type="valley" key="Salt Lake Valley">the Valley</geogName>, and attempted to reach the army. He was subsequently arrested, however, by the Mormon out-post
+at <geogName type="waterway" key="Yellow Creek">Yellow Creek</geogName>, this side of <geogName type="waterway" key="Bear River">Bear River</geogName>, and brought back with several others, as already stated above. Upon his return he sent a Mormon to <persName key="Andrus, Mellow">ANDRUS</persName> to ask for his buffalo robe which he had left with him when he went off. <persName key="Andrus, Mellow">ANDRUS</persName> refused to deliver the robe, and told the messenger that he would kill <persName key="Miles, C. L.">MILES</persName> if he got where he was. The messenger, a man named <persName key="Sheen">SHEEN</persName>, who has the reputation of having murdered some one on <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName> a year or two ago, replied significantly that he must murder <persName key="Miles, C. L.">MILES</persName> then, because he was in his charge, intimating that another opportunity might be made. Five or six days later <persName key="Miles, C. L.">MILES</persName> was sent North, under Mormon escort, to meet a party of Cailfornians whom the Mormons said were going West by the northern route, since which time nothing has been heard of him by Gentiles here. Do his friends in <placeName type="state" key="Michigan">Michigan</placeName> know anything more of his <persName key="Miles, C. L.">fate? If they have not heard from him of late, there can be no doubt that he, too, was murdered. Within a fortnight after MILES'</persName> departure <persName key="Andrus, Mellow">ANDRUS</persName> went to the house of his suspected wife's father in this city, and cut her throat, but <persName key="Young, Brigham">BRIGHAM</persName> has passed the occurrence by without even a word of rebuke. Contrast this single incident with the fact that Mormons have kicked and beaten Gentiles to death here in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, confessedly for imprudent denunciation of the doctrines and practices  of the "Saints!'' These facts were narrated coolly and with evident satisfaction, by full-fledged Mormons, to Mr. <persName key="McNeill">McNEILL</persName> and to a Mr. <persName key="Fabens">FABENS</persName>, whose narrative I will give hereafter. Mormons have also boasted to him that the mules lost by <persName key="Johnston, Albert Sidney">General JOHNSTON</persName>'S picket-guard this Spring, during one night when Colonel <persName key="Kane, Thomas L.">KANE</persName> was in camp, were taken by the Mormon escort who accompanied him into <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, and were sent at once into <geogName type="valley" key="Salt Lake Valley">the Valley</geogName> by one of their number. General <persName key="Johnston, Alfred Sidney">JOHNSTON</persName> suspected the theft, and complained of it to Colonel <persName key="Kane, Thomas L.">KANE</persName> who, upon repeating the complaint to his Mormon friends, was answered by the suggestion that the mules had doubtless strayed away, and would turn up again. It is a favorite joke with the Mormons here, now that their treasonable robberies have been pardoned, to bay, with a contemptuous laugh, that the animals of <persName key="JohnSon, Albert Sidney">JOHNSTON</persName>'S army <q>"strayed"</q> into the herding grounds of the church.</p>
+
+<p> Mr. <persName key="McNeill">McNEILL</persName> has had considerable opportunity for observation here, and confirms the declaration that there are large numbers of men and women ready to abandon this community as soon as they see an opportunity 
+to do so safely, and to carry with them the means necessary for the long journey to the States. <persName key="Stewart, John M.">JOHN M. STEWART</persName>, one of the counselors of Bishop <persName key="Johnson, Aaron">JOHNSON</persName>, at Springville, attempted to escape to the Army this Spring&#8212;went up one canon towards the East, but lost way, and came down another canon back to <geogName type="valley" key="Salt Lake Valley">the Valley</geogName> when he was arrested and brought back. For this act of apostacy he was cut off from the Church, and his wife has abandoned him.</p>
+
+<p><persName key="Fabens, William H.">Wm H. FABENS</persName>, of <placeName type="settlement" key="Salem, MA">Salem</placeName>, <placeName type="state" key="Massachusetts">Massachusetts</placeName>, is
+another of the late prisoners of war in the Mormon
+hards. He started from <geogName type="waterway" key="Missouri River">the Missouri</geogName> last year with
+<persName key="Russell">RUSSELL</persName> &amp; <persName key="Waddell">WADDELL</persName>'S trains, with the intention 
+of pushing on to <placeName type="state" key="California">California</placeName>. He<cb n="3" />
+was with the trains burned on <geogName type="waterway" key="Green River">Green
+River</geogName> last October, and arrived in <placeName type="settlement" key="Salt Lake City">Salt Lake
+City</placeName> with his own horses on or about the 21st
+of October. Upon his arrival here he went to <persName key="Young, Brigham">BRIGHAM YOUNG</persName>, told him of his desire to go to <placeName type="state" key=" California">California</placeName>,
+and received from him a pass, which stated that he
+was a <q>"teamster from the expedition against <placeName type="state" key="Utah Territory">Utah</placeName>,"</q>
+and requested that he should be permitted to pass
+freely. Noticing that the pass was different in form
+from others issued by <persName key="Young, Brigham">BRIGHAM</persName>, and which did not
+state the former connection of those who held them
+with <q>"the enemy,"</q> he was afraid to use it. He
+started, however, for <placeName type="state" key="California">California</placeName> by the Southern road,
+in company with three others, <persName key="Donahue, James">JAMES DONAHUE</persName>, of <placeName type="county" key="Indiana County, PA">Indiana
+County</placeName>, <placeName type="state" key="Pennsylvania">Penn</placeName>., and two Irishmen who had been
+with <persName key="Russell">RUSSELL</persName>'S train, one of them called <persName key="Peter">PETER</persName>, and
+the other <persName key="Jimmy">JIMMY</persName>. The party went down to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>.
+Here DONAHUE and <persName key="Fabens, Willilam H.">FABENS</persName> stopped a little while to
+get feed for their horses, and the Irishman wont or
+ahead. When <persName key="Fabens, Willilam H.">FABENS</persName> and his companion followed
+they found the bodies of the Irishmen only four miles
+below the town, lying on the roadside, entirely
+stripped of clothing. They returned at once to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, 
+and were told that the murders were committed 
+by Indians, but <persName key="Fabens, Willilam H.">FABENS</persName> states that he saw no
+signs of Indians anywhere in the vicinity. Feeling
+unsafe, <persName key="Fabens, Willilam H.">FABENS</persName> and <persName key="Donahue">DONAHUE</persName> rode back to <placeName type="settlement" key="Springville, UT">Springville</placeName> 
+hard as they could drive. Finding their horses
+broken down they concluded to remain at that place
+a while to recruit, so they hired a horse and proceeded 
+to keep bachelors' hall. After they had been
+here for a fortnight, a Mormon, named <persName key="Daly, Moses">MOSES DALY</persName>,
+told <persName key="Fabens, Willilam H.">FABENS</persName> that his two sons were going to California, 
+and offered to take him through safely if he
+would give his horses for the service, and money to
+buy provisions for the road. <persName key="Fabens, Willilam H.">FABENS</persName> agreed to the
+terms, when the <persName key="daub">DAUB</persName> took the horses, sold them
+immediately, and then went north to do business as
+grain threshers. <persName key="Fabens, Willilam H.">FABENS</persName> went to the old man and
+demanded the fulfillment of the contract or the value
+of his horses. <persName key="Daly, Moses">DALY</persName> told him to hush up or he would
+get into difficulty, and that many a man had
+had his throat cut for far less than he had
+said. From this time <persName key="Fabens, Willilam H.">FABENS</persName> found himself
+the subject of continued surveillance of a sort of secret 
+police. On the 8th of February he escaped
+from <placeName type="settlement" key="Springville, UT">Springville</placeName> and went to <placeName type="settlement" key="Provo, UT">Provo</placeName>, from where he
+started with the <persName key="Brown">BROWN</persName> alluded to in <persName key="McNeill">McNEILL</persName>'S narrative, 
+across the mountains towards <orgName type="military" key="Camp Scott">Camp Scott</orgName>.
+In Weber Canon they met <persName key="McNeill">McNEILL</persName> and <persName key="Miles, Charles">CHARLES
+MILES</persName>, and proceded together. When within twenty
+or thirty miles of Camp, they were taken by the
+Mormon outposts and brought back. The party were
+entirely without arms, and were without provisions 
+during several days. The day subsequent to their
+capture, they were taken to the Weber, where they
+were detained in a log hut five days. During the 4th
+day, <geogName type="Brown" key="">BROWN</geogName>, who being a sort of cripple, was not
+watched very closely, slipped out while his guard
+were at <q>"evening prayer,</q>"(they forgot the scriptural
+injunction to watch, and pray,) and it is understood,
+made his way in safety to <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>. <persName key="Fabens, Willilam H.">FABENS</persName>
+fully confirms the story of McNEILL in various
+points, and especially in respect to the robbery and
+murder of the young man who boarded with TERRY.
+The fact that when the young man's body was found
+several days after death, his clothes were still upon
+him, presents abundant evidence that he was not
+killed by Indians. A Mr. HENLETT, as well as Mr.
+WARREN, knew the name of the murdered man, and
+are both understood to be able to fasten the crime
+upon his Mormon assassin. <persName key="Fabens, Willilam H.">FABENS</persName> was sent south
+with McNEILL, shared his fortunes there and returned 
+with him. He seems to be a of some education, 
+and good natural abilities, but is physical endurance 
+has been subjected to a serious test by his 
+recent sufferings.</p>
+</div2>
+
+<div2>
+<head type="sub">INHOSPITABLE TREATMENT OF GENTILES</head>
+     
+<p>We are still living out of doors.  It is evident that
+the people are pursuing a system of police, designed
+to render the neighborhood unpleasant to the Gentiles.
+Thus it is quite impossible yet to hire a room
+anywhere.  So universal is this Mormon exhibition
+of Christian charity which compels a man to sleep
+out of doors who would gladly pay for shelter, that
+we are entitled to consider it the result of something
+else than accident,&#8212;although <q>"General"</q> <persName key="Ferguson">FERGUSON</persName>
+requests me to state that the Church has not issued
+any orders to the people directing them to close their
+doors upon us.  As he evidently feels that such an
+order would reflect discredit upon "the Church," I
+wonder if it has occurred to him that an exhortation
+to the people to exhibit at least savage hospitality towards
+strangers whom they recognize as gentlemen,
+would be a more practical method of saving "the
+Church" from the suspicion which the General manifests
+a desire to avoid.</p>
+</div2>
+
+<div2>
+<head type="sub">MISCELLANEOUS <choice><sic>?????</sic><corr>?</corr></choice></head>
+     
+<p>As Mr. <persName key="Loba, Frederick">FREDERICK LOBA</persName> has been assaulted by some
+of your rivals, because of his narrative published in
+the <orgName type="newspaper" key="New York Times">TIMES</orgName>, it is but just to him to say that I have
+found no man where who ventures to make any specific
+charge reflecting upon his character.  The worst
+anybody will say of him is that they don't think him
+as <q>"smart"</q> a man as he pretends to be,&#8212;but, so far
+as I can judge, I have no found his equal here yet,
+either in natural intelligence or scholastic acquirements.
+I met here, a day or two ago, one of the victims
+of the misrepresentations to which Mr. <persName key="Loba, Frederick">LOBA</persName> referred
+as being continually made in Europe by the
+Mormon missionaries, who assert there that the
+ancient power of healing the sick, and the lame and
+blind has been fully restored to the Prophets here in
+<q>"<geogName type="valley" key="Salt Lake Valley">the Valley</geogName>."</q> A young Englishman, affected with
+paralysis, and having some little property, was converted 
+to the faith, induced to cross the ocean and
+traverse the plains to get to this modern pool of
+Bethesda, where he fully expected to become whole
+again. Of course, he was sadly disappointed.  When
+the people went South, he was left here to starve 
+and is subsisting now upon the charity of the Peace
+Commissioners and others.</p>
+
+<p> I omitted to mention sooner, that one of the causes
+which make it difficult for families to leave this community 
+after having lived some time in <geogName type="valley" key="Salt Lake Valley">the Valley</geogName>,
+arises from the fact that they have no titles to their
+lands, and so cannot leave then except by entirely
+abandening all their property. The public lands here
+have never been sold at all, and no man has a clear.
+title to a single foot of it, even in this city. It would
+be good policy for the Government to bring these
+lands as quickly as possible into the market, issue
+patents therefor to those entitled to preemptions
+and so make basis for titles. When this is done,
+the process of Mormon disintegration will be promoted, 
+because dissatisfed Mormons can then set
+readily and go away, while their places will often,
+be supplied by Gentiles. It certainly is important
+that the Federal Government should avail itself of
+all proper means of allaying the exclusiveness of the
+Mormon element by diffusing as widely as possible
+its antidote.</p>
+
+<p>It is not impossible that the will he quite a large
+emigration from this region to the Pacific coast before 
+Winter, if the road is found to be safe.
+The Mormon horsemen, militia and missionaries,
+tramping over the country in every direction, have
+found a now route to <placeName type="state" key="California">California</placeName>, which, seems to be a
+much better route than any now in use. Its direction
+is almost on a bee-line west from this City. It;
+distances are estimated as follows :</p>
+
+<p>To Black Rock on: <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>	        18 miles.<lb/>
+Thence to <geogName type="valley" key="Scull's Springs Valley">Scull's Springs Valley</geogName>	30 miles.<lb/>
+Thence to <geogName type="valley" key="Redding Springs Valley">Redding Springs Valley</geogName>	11 miles<lb/>
+Thence to <geogName type="valley" key="March Springs Valley">March Springs Valley</geogName>	        18 miles.<lb/>
+Here the road strikes <geogName type="valley" key="Reba Valley">Reba Valley</geogName>, in
+  which there is an abundance of wood
+  and water all the way down to the sink of
+  <geogName type="waterway" key="Humboldt Bay">the Humboldt</geogName>, estimated to be a distance
+  of					250 miles.<lb/>
+At this point the route strikes the old California 
+  road to <placeName type="settlement" key="Carson Valley, NV">Carson Valley</placeName>, supposed
+  to be distant about	           50 miles.<lb/>
+     Total                         380 miles.</p>
+
+<p> If these estimates prove to be correct upon examination, 
+it will be seen that the route hence to <placeName type="state" key="California">California</placeName> 
+may be shortened nearly one-half, simply by
+substituting a direct line for the circuitous one now
+in use. It is hoped that the army here will avail
+itself of an opportunity to make a satisfactory reconnoissance 
+of it.</p>
+
+<p> The new overland mail contracts are doing finely.
+The mail which left <placeName type="settlement" key="St. Joseph, MO">St. Joseph's</placeName>, <placeName type="state" key="Missouri">Mo.</placeName>, on the 5th of
+June, arrived here on the evening of the 24th, nineteen 
+and a half days' time, or two and a half less
+than that stipulated in the contract. The conductor
+states that with the arrangements now completed,
+there will be no difficulty in making the time through
+regularly in sixteen or eighteen days.	S.</p>
+</div2>
+ </div1>
+ </body>
+ </text>
+ </TEI>

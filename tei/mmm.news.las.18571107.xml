@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571107">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	        <title level="m" type="main">The Late Outrages on the Plains&#8212;Further Particulars</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571107</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Newspaper reports of the robberies perpetrated on the Dukes and Tanner trains are supplemented with reports of Mormon hostility towards the Baker/Fancher wagontrain.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">The late Outrages on the Plains&#8212;Further Particulars.</title>
+		    <title level="j">Los Angeles Star</title>
+		    <author>Editor, Los Angeles Star</author>
+		    <publisher>Los Angeles Star</publisher>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <date when="1857-10-24">October 24, 1857</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term>Mormon and Indian</term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+		    <term>Non-Mormon</term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+        <change when="2012-04-30"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+        <change when="2007-08-29"><name>Leslie Working</name> Initial Encoding</change>
+        <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.las.18571107.001"/>
+
+<head>The late Outrages on the Plains&#8212;Further Particulars.</head>
+
+<p><seg type="Context" subtype="TerritorialAdministration">For some time past, the all&#8212;engrossing topic with the people of this section of the State, has been the position assumed by the Mormon leaders in reference not alone to the people, but the Government of the United States.</seg> We have received numerous communications on this subject, some of which we place before our readers, to the exclusion of all other matters. We direct attention to the various documents, as they are well worthy a careful perusal:&#8212;</p>
+
+<p>STATE OF CALIFORNIA,<lb/>
+County of San Bernardino.<lb/>
+On this, the 2d day of November, A. D. one thousand eight hundred and fifty-seven, personally appeared before me, <persName key="Katz, Marcus">Marcus Katz</persName>, a Notary Public, duly commissioned and sworn, for, and in the county San Bernardino, State of California, <persName key="Aiken, John">John Aiken</persName>, made known to me to be the person herein described, who deposes and says:</p>
+
+<p>"I started from Port Gibson, State of Mississippi, in the summer of '56, to New York, to engage a passage by steamer to California, but I was taken sick, and returned to Texas, and thence to Kansas, where I took charge of a drove of cattle, of 973, for <persName key="Box, Thomas">Thomas Box</persName>, a Mormon, to deliver them at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>. <seg type="Context" subtype="UtahWar">We started from Leavenworth city on the 22d of June last. We proceeded quietly and uninterruptedly on our journey as far as <placeName type="settlement" key="Sweet Water">Sweet Water</placeName>. Here we saw about one hundred and fifty armed men, (all Mormon); they had established an observatory to watch the approach and movements of <persName key="Harney, William">Gen. Harney</persName>'s army. We was informed by them, that the surrounding mountains were alive with men, to watch the movements of the army. We understood that there would be no danger if we turned our stock out unguarded; which we found to be the case, because the proprietor was a Mormon. The owner gave them some beeves; and was on very intimate terms. We proceeded on our way as far as <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>; saw nothing of importance, except that several expresses passed us, to and from the various stations of their army. I learned nothing from any of the expresses, as they only conversed with the owner of the stock. We camped near <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, I suppose about one mile and a half; saw nothing of their preparations, as I did not go nearer than a mile within their battlements. We proceeded to <geogName type="feature" key="Echo Ca&#241;on">Echo Ca&#241;on</geogName>, forty miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>. We saw a number of Mormon soldiers in the ca&#241;on, guarding that pass, secreted in the brush; they made no fires at night and said that the U.S. army should not pass them. They had great confidence in their allies, the Indians; they did not intend to meet the army in open field, but to ambush them, and the Indians were to run of the horses, stock, &amp;c. We next met a company of armed men, with a train of wagons loaded with an outfit of provisions, munitions of war, &amp;c., about twelve miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>, on the 20th day of September, early in the morning. We learned from Dr. <persName key="Dunion">Dunion</persName>, surgeon to Brigham Young's army, that they had taken a vote at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>, that if the United States army forced its way into Utah, that they themselves would burn their city, towns, forts, &amp;c., and lay every habitation in ashes; they had already picked out secret places in the mountains, to "cache" their provisions, and make their future abode with the Indians. The Doctor stated that arrangements were already entered into, that provided the army should enter the settlements, that every city, town and village in the States of California, Missouri and Iowa should be burned immediately&#8212;that they had men to do this who were not known to be Mormons! And that they would cut off all the emigrant trains, army stores, stock, &amp;c.; that no man, woman or child should hereafter cross the plains, without being scalped. That they depended and expected the Indians to perform this infernal and cowardly part of the their designs.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">We arrived at the city in the afternoon of the same day. Here I found all that I had heard stated by the soldiers on their way out to their various stations assigned them, confirmed by the repetition of the same by the people of the city. I found here amongst the people of the city the most hostile feeling and bitter sentiments that the heart of man could possibly conceive. I was cautioned to be very cautious in my remarks, and say nothing against <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">the Mormons</orgName>, by a friend from Yankee land, who has to exercise the utmost discretion in all he said or done. Here I learned that it was necessary for me to get a passport form the War Department of Young's army, to secure my safety through the settlements, which I did, and found it very advantageous to me on my way through the settlements.</seg></p>
+<p>Adjutant General's office, Utah Territory<lb/>
+Great Salt Lake City, Sept. 21, 1857.<lb/>
+To all whom it may concern. This to certify that the bearer, Mr. <persName key="Aiken, John">John Aiken</persName>, who is peaceably traveling through the Territory, is permitted to pass on his way to California.<lb/>
+<persName key="Wells, Daniel H.">DANIEL H. WELLS</persName>,<lb/>
+Lt. General Commanding.<lb/>
+By order of the Lt. General Commanding,<lb/>
+<persName key="Ferguson, James">JAMES FERGUSON</persName>, Adjutant General.<lb/>
+Endorsed by <persName key="Dame, William ">Col. Dame</persName>, of Parowan,<lb/>
+Sept. 28, 1857.		WM. H. DAME,<lb/>
+Colonel Iron Military District.</p>
+
+<p>This may seem strange to Americans, that they are not permitted to travel on their own soil, in <placeName type="state" key="Utah Territory">Utah</placeName>, without first obtaining passports; this may be accounted for, on the ground that <placeName type="state" key="Utah Territory">Utah Territory</placeName> is placed under martial law, and none but those who are considered friendly to their cause, can obtain passports out of the Territory. I obtained my passport through the recommendation of Captain <persName key="Duncan">Duncan</persName>, a Mormon, who traveled to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> in the company with which I was engaged. I started from the <placeName type="settlement" key="Salt Lake City, UT">Mormon city</placeName> on the 23d of September, and traveled three hundred and twenty-five miles on the southern route to California by myself. <seg type="Context" subtype="IndianRelationsLDS"><seg type="Context" subtype="IndianRelationsUS">I passed through the principal towns on this route&#8212;being stopped by the Mormon officers and Indian chiefs, declaring that no American could leave the Territory without showing his authority and paying the Indians for the privilege; this I acceded to, by paying to the Indians about forty dollars, besides blankets and clothing, &amp;c.</seg> All this occurred within the limits of the Mormon settlements. After I left the Mormons, I got along peaceably with the Indians, who are not directly under Mormon influence.</seg> <seg type="Massacre" subtype="Location">I stayed at <placeName type="settlement" key="Painter Creek">Painter Creek</placeName> several days, within six miles of the scene of the late horrible massacre,</seg> where I joined the company of the U.S. mail to San Bernardino. <persName key="Hunt, John">John Hunt</persName>, the mail carrier, refused any protection whatever; said that I to fight my own battles, as they were friendly with the Indians, and did not wish to incur their displeasure. <seg type="Massacre" subtype="Spoils">While at <placeName type="settlement" key="Painter Creek">Painter Creek</placeName>, I saw the Mormon drawing some of the wagons belonging to persons who fell in the late massacre towards Cedar City; they did not explain to me anything of their business, or of their possession of the wagons; seemed very distant and indifferent in their communications.</seg> I asked no questions; I wished to avoid suspicion.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">After leaving <placeName type="settlement" key="Painter Creek">Painter Creek</placeName> , and arriving at the field of blood, I discovered several bodies that were slain, in a state of nudity and a state of putrefaction. I saw about twenty wolves feasting upon the carcases [sic] of the murdered. Mr. <persName key="Hunt, John">Hunt</persName> shot at a wolf, they ran a few rods and halted. <seg type="Massacre" subtype="Casualties">I noticed that the women and children were more generally eaten by the wild beasts than the men. Although <persName key="Baker, John">Cap. Baker</persName> and a number of others of the slain party were my acquaintances, yet I dared not express my sentiments in the company of <persName key="Hunt, John">Hunt</persName> and his companions</seg>, knowing that I was traveling with enemies to my country and countrymen. Mr. <persName key="Hunt, John">Hunt</persName> and his companions often laughed, and made remarks derogatory to decency, and contrary to humanity, upon the persons of those who were there rotting, or had become food to wild beasts. Although <seg type="Massacre" subtype="Location">this terrible massacre occurred within six miles of <placeName type="settlement" key="Painter Creek">Painter Creek</placeName> settlement, and thirty from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>,</seg> yet it appears that the Mormons are determined to suffer their carcasses to remain uncovered, for their bones to bleach upon the plains.</seg></p>
+
+<p>On the 17th day of October, I saw the tracks of a large herd of cattle going up the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>, toward the Mormon settlements, we supposed them to be the stolen cattle that were run off from the trains of Captains Dukes and Turner, as it was not customary for large herds of cattle to travel in that direction. I saw the tracks of several shod horses and mules following behind, supposed to be the animals used by the robbers. Where we first met the trail of these cattle, is where the road leaves the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>; ten miles from <placeName type="settlement" key="Hamblin's Fort">Hamblin's Fort</placeName>, the residence of the <persName key="Hamblin, Jacob">Hamblin</persName>s and <persName key="Hatch, Ira">Hatch</persName>, who were interpreters for the company. We continued on the trail of the cattle a distance of 100 miles, to the <geogName type="waterway" key="Muddy River">Muddy</geogName>, near the place to where they were taken. I judge from the appearance of the trail that they were at least the number of 300 head. I know nothing more of importance. I arrived at <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> on the 30th of October, and found the Mormons very distant and curious, very inquisitive about the affairs of Utah, but so far as I discovered, the Independent citizens are free and frank in their conversations and transactions.</p>
+
+<p>I forgot to mention, in the proper place, that I met <persName key="Johnson, Nephi">Nephi Johnson</persName>, one of the interpreters, at <placeName type="settlement" key="Painter Creek">Painter Creek</placeName>, of whom I inquired of the prosperity of the train to which he had been one of the interpreters and guides, to which he replied, that the train had passed safe; not even intimating that the emigrants had lost any of their cattle. Next day I met Mr. <persName key="Hatch, Ira">Hatch</persName>, at the same place, he told me that the train had lost over 200 head of cattle by the Indians.</p>
+
+<p>A conversation between Mr. <persName key="Hatch, Ira">Hatch</persName> and <persName key="Hamblin, Jacob">Hamblin</persName>, occurred at this place, which seemed to betray something connected with the stolen cattle. <persName key="Hamblin, Jacob">Hamblin</persName>, the President of this fort, told <persName key="Hatch, Ira">Hatch</persName> to go and brand his own cattle, before he turned them out with his. This occurred on the 15th day of October, a few days after the robbery occurred. This conversation excited my curiosity to listen. Mr. <persName key="Hamblin, Jacob">Hamblin</persName> sold a steer to one of the Mormons; the steer was very poor; this was accounted for, because the steer had been driven to the <geogName type="waterway" key="Muddy River">Muddy</geogName> and back.</p>
+
+<p>Sworn and subscribed to, on this second day of November, 1857.<lb/>
+<persName key="Aiken, John ">JOHN AIKEN</persName>.<lb/>
+In witness whereof, I have set my hand {seal} and affixed my official seal, on the day and year first above written.<lb/>
+<persName key="Katz, Marcus">MARCUS KATZ</persName>, Notary Public.</p>
+
+<p>SAN BERNARDINO, Nov. 3d, 1857<lb/>
+Editor of Los Angeles Star,</p>
+<p>Sir&#8212;After reading the statement of <persName key="Honea, S. B.">S. B. Honea</persName>, as published in the Star of the 24th ult., it appears to receive the approval of all the members of <orgName type="wagontrain" key="Dukes wagontrain"><persName key="Dukes, William C.">Captain Dukes'</persName> company</orgName>. And desirous that the facts connected with our misfortunes whilst traveling through the <placeName type="settlement" key="Mormon settlements">Mormon settlements</placeName> in <placeName type="state" key="Utah Territory">Utah Territory</placeName>, should be known, we hereby testify that Mr. <persName key="Honea, S. B.">S. B. Honea</persName> has simply stated the truth, and facts connected with the circumstances as described in his narrative, and not in any instance exaggerated.</p> <p>Signed,<lb/>
+	<persName key="Dukes, William C.">Wm. C. Dukes</persName>, Captain; from Missouri;<lb/>
+	<persName key="Bigham, James G.">James G. Bigham</persName>,		 "	 "<lb/>
+	<persName key="Wilson, William">Wm. Wilson</persName>,	 		"	"<lb/>
+	<persName key="Cooper, William">Wm. Cooper</persName>,			"	"<lb/>
+	<persName key="Cooper, James">James Cooper</persName>,			 "	"<lb/>
+	<persName key="Dole, William J.">Wm. J. Dole</persName>,(?)		" 	"<lb/>
+	<persName key="Combs, William">Wm. Combs</persName>,			"	"<lb/>
+	<persName key="Hays, Robert R.">Robert R. Hays</persName>,		 "	"<lb/>
+	<persName key="Wilson, James">James Wilson</persName>,			"	 "<lb/>
+	<persName key="Horton, W. H.">W. H. Horton</persName>,			"	Arkansas; <lb/>
+	<persName key="Horton, W.">W. Harton</persName>,			" 	 "<lb/>
+	<persName key="Horton, Orlon">Orlon Horton</persName>,			"	 "<lb/>
+	<persName key="Horton, William, Sr.">Wm. Horton, sen.</persName>,	"	 "<lb/>
+	<persName key="Baise, Isaiah">Isaiah Baise</persName>,			"	 "<lb/>
+	<persName key="Harrington, William H.">Wm. H. Harrington</persName>,	"	 "<lb/>
+	<persName key="Daurity, John">John Daurity</persName>,			"	 "<lb/>
+	<persName key="Daurity, Joseph F. M.">Joseph F. M. Daurity</persName>,	"	 "<lb/>
+	<persName key="Davis, George W.">George W. Davis</persName>,		"	 "<lb/>
+	<persName key="Crook, W. B.">W. B. Crook</persName>,			"	 "<lb/>
+	<persName key="Bevert, William L.">Wm. L. Bevert</persName>,		"	 "<lb/>
+	<persName key="Mount, Abner">Abner Mount</persName>,			"	 "<lb/>
+	<persName key="Hillhouse, John">John Hillhouse</persName>,		" Salt Lake city, Utah;<lb/>
+	<persName key="Hillhouse, William J.">Wm. J. Hillhouse</persName>,	"	"<lb/>
+	<persName key="Ashcroft, John">John Ashcroft</persName>,		"Battle Creek, Utah<lb/>
+	<persName key="Cook, George">George Cook</persName>,			" London, England;<lb/>
+	<persName key="Nelson, F. M.">F. M. Nelson</persName>			" Texas.<lb/></p>
+<p><seg type="Source" subtype="WordofMouth"><seg type="Blame" subtype="EmigrantBehavior">Mr. <persName key="Davis, G. W.">G. W. Davis</persName> adds that when he was at <placeName type="settlement" key="Fillmore City">Fillmore city</placeName>, <seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Encounter" subtype="TradeLDS">the <persName key="Brunson, Seymour">Bishop</persName> said that he could scarcely withhold the brethren from following after the <seg type="Emigrants" subtype="WagonTrain">train (which was afterwards massacred)</seg> and cutting it into pieces; because parties of that train cursed the Mormons for not selling them provisions. The <persName key="Brunson, Seymour">Bishop</persName> said that they had instructions from <persName key="Young, Brigham">Brigham Young</persName> not to sell any provisions to emigrants unless they could get guns, revolvers, or ammunition for pay&#8211;this very much enraged a Dutchman, who threatened, or said, that if he had a good riding horse, he would go back to Salt Lake and kill Brigham.</seg> The <persName key="Brunson, Seymour">Bishop</persName> said that the only way that he could control his men was that he promised them to set the Indians on the doomed train.</seg></seg> </seg><persName key="Davis, G. W.">Mr. Davis</persName> then proceeded as far as <placeName type="settlement" key="Beaver">Beaver</placeName>, where he found the Bishop very friendly with him; and as Davis had not attached himself to any train he deemed it necessary to do so, and accordingly he waited here two or three days for the arrival of <orgName type="wagontrain" key="Dukes wagontrain">Captain Dukes' company</orgName>.</p>
+<p>During his stay here, the Bishop frequented <persName key="Davis, G. W.">Mr. Davis</persName>'s wagon, and preached the Mormon doctrines, to which Davis listened without opposing it. Finally the Bishop solicited the hand of Miss <persName key="Davis, Eliza">Eliza</persName> in marriage, ("spiritual," of course,) at which <persName key="Davis, Eliza">Eliza</persName>, father, mother, and all the family, felt very indignant. The reverend gentleman almost insisted on the family wintering at that place, but <persName key="Davis, G. W.">Mr. Davis</persName> thought that he would go as far as San Bernardino any way. <seg type="Source" subtype="WordofMouth">The Bishop told Davis not to join the <seg type="Emigrants" subtype="StateAffiliationMissouri">Missouri train that was then coming up</seg>, because the Mormons were all down on the Missourians; and he anticipated trouble would ensue between them and the Indians before they left the Territory;</seg> but if he could not better [betray] himself, he would give him information how to escape trouble: If he would drop the two hind-most bows of his wagon, he would vouch for his safety; that the Indians would not hurt the first hair of his head! However, Mr. <persName key="Davis, G. W.">Davis</persName> joined <orgName type="Wagontrain" key="Dukes wagontrain">Captain Dukes company</orgName>, without paying much heed to the advice which he had received; and shared in the perils and dangers which followed; which you have already published in the statement of <persName key="Honea, S. B.">Mr. Honea</persName>.</p>
+
+<p>The first division of this company arrived in San Bernardino on the 31st of October, consisting of seventy-one souls altogether: twenty-two men, seventeen women, and thirty-two children; all enjoying good health. The second division of this train, under the supervision of Captain <persName key="Turner, Nicholas">Nicholas Turner</persName>, is expected to arrive in the course of five or six days.</p>
+
+<p>Having seen an article in the last issue of the Star, over the signature of <persName key="Eames, Ellis">Ellis Eames</persName>, to <persName key="Christian, J. Ward">J. Ward Christian</persName>, giving a list of the names of the gentlemen who so liberally subscribed provisions, groceries, &amp;c., for the relief of the suffering emigrants on the plains, I will say, for the benefit of those gentlemen who sent provisions to the emigrants, by Mr. <persName key="Daley, Phineas">Phineas Daley</persName>, that on his arrival at the first camp of the emigrants, he distributed a small portion of his load to the sufferers on the same terms as Messrs Van Luvan, J. H. Brooks, and P. Brown did theirs, namely "gratis." But Daley and his companions proceeded to the second encampment, where the provisions were most needed and passed themselves off as Anti-Mormons; and said that Van Luvan had sold all his load to the first camp (which was a lie.) Daley sold flour at eight cents per pound; coffee, twenty cents; sugar, twenty cents, tobacco, thirty-seven and a half cents per plug; and Spanish beef, which they killed on the Mohave, at eight cents; and some of the articles were not distributed on any terms.</p>		
+
+<p>Respectfully yours,<lb/>
+<persName key="Mogridge, Henry">HENRY MOGRIDGE</persName>.<lb/>
+STATE OF CALIFORNIA,}<lb/>
+Los Angeles County,} SCT.</p>
+<p><persName key="Webb, William">Wm. Webb</persName> being duly sworn deposeth and saith:</p>
+
+<p>I arrived in <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, Oct. 17th, 1857. I was a member of <orgName type="wagontrain" key="Dukes wagontrain">Captains Dukes</orgName> and <orgName type="wagontrain" key="Turner wagontrain">Turner's train</orgName> and in company with eight others left said train about 275 miles from San Bernardino, and traveled on foot to that city. We came in this way, because the train was not able to furnish us with animals to ride, and were nearly out of provisions, having been robbed of all their cattle, except those which were too lame to be run off, or too feeble to be driven by the robbers.</p>
+
+<p>On leaving the train, we were told by the Captains and the company that on arriving in <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, we must say nothing against the Mormons, as that city was composed of Mormons, and that we must not excite them, as they might cut them all off before they could get in, and also fail to get them to forward supplies to keep the company alive. Immediately on arriving in the city, we were surrounded by the Mormons and taken to a corral, and they there commenced questioning us. <persName key="Eames, Ellis">Ellis Eames</persName> asked the questions, and <persName key="Christian, J. Ward">J. Ward Christian</persName> done the writing. We had not been offered anything to eat, although we had had but one scanty meal for four days. They subjected us to an examination for several hours. The emigrants were not all together during the examination of this day. After they had got through questioning us, they asked myself and Mr. Baise to sign what they had written. <persName key="Christian, J. Ward">J. Ward Christian</persName> read the document, and we affixed our names thereto. I have read the statement published in the Los Angeles Star of October 31st, 1857, over my signature, Messrs <persName key="Baise, Isaiah">Baise</persName>, <persName key="Bledsoe, William S.">Bledsoe</persName>, <persName key="Tannehill, William H.">Tannehill</persName>, and say, that I never signed that statement; that the statement read to me by <persName key="Christian, J. Ward">Christian</persName> and which I signed without reading it myself, was altogether different from the published statement which is unqualifiedly false.</p>
+
+<p>I have read the statement made by <persName key="Honea, S. B.">Mr. Honea</persName>, who came in with us, which was published in the Los Angeles Star of October 27, 1857, and that statement is true and not exaggerated.</p>
+
+<p><seg type="Blame" subtype="LDS"><seg type="Blame" subtype="IndiansLDSInfluence">I have no hesitation in saying, that from my knowledge and belief, the late horrible massacre and robberies, perpetrated upon emigrant trains in Utah Territory, were committed by the Mormons and Indians under Mormon influence.</seg></seg></p>
+
+<p><persName key="Webb, William">WILLIAM WEBB</persName>,<lb/>
+Subscribed and sworn to before me, this second day of November, A.D. 1857.<lb/>
+<persName key="Dryden, W. G.">W. G. DRYDEN</persName>, County Judge.<lb/>
+We have received affidavits to the above effect, attested by Mr. M. Katz, notary public, San Bernardino, from Messrs <persName key="Tannehill, William H.">W. H. Tannehill</persName> and <persName key="Baise, Isaiah">Isaiah Baise</persName>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.paddock.1881">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Fate of Madam La Tour: A Tale of Great Salt Lake</title>
+                <title level="m" type="sub"></title>
+                <author><roleName type="honorific">Mrs.</roleName> <forename>A.</forename> <forename type="middle">G.</forename> <addName>[Cornelia]</addName> <surname>Paddock</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.paddock.1881</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Fate of Madam La Tour: A Tale of Great Salt Lake</title>
+                    <author><roleName type="honorific">Mrs.</roleName> <forename>A.</forename> <forename type="middle">G.</forename> <addName>[Cornelia]</addName> <surname>Paddock</surname></author>
+                    <publisher>Ford, Howard &amp; Hulbert</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <extent>vi; 128-129; 214; 226; 231; 254-256; 301-305; 347-348</extent>
+                    <date when="1881">1881</date>
+                    <note type="source">Mrs. A. G. [Cornelia] Paddock. <hi rend="italic">The Fate of Madam La Tour: A Tale of Great Salt Lake</hi>. New York: Fords, Howard &amp; Hulbert, 1881. vi; 128-129; 214; 226; 231; 254-256; 301-305; 347-348.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2011-01-19"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<pb n="vi" xml:id="mmm.fiction.paddock.1881.013"/>
+
+<p><hi rend="center"><hi rend="italic">From</hi> <hi rend="smallcaps">Mrs. <persName key="Cooke, Sarah A.">S. A. COOKE</persName></hi>, <hi rend="italic">President Woman's National Anti-Polygamy Society</hi>.</hi></p>
+
+<p><hi rend="right"><hi rend="right">SALT LAKE CITY, April 16, 1881.</hi></hi></p>
+
+<p>I have been a resident of <placeName type="settlement" key="Salt Lake City, UT">this city</placeName> since 1852, and have been personally acquainted with Mrs. <persName key="Paddock, Mrs. A. G.">Paddock</persName> since 1871, and believe she has access to <hi rend="italic">reliable</hi> sources of information on matters connected with Mormonism. <seg type="Massacre" subtype="Casualties">She mentioned my name in her former book, "In the Toils," as a lady who had care of two boys saved from the Mountain Meadow massacre. The eldest of the two boys had a perfect recollection of the scenes in that most horrible tragedy.</seg> I do not think <persName key="Paddock, Mrs. A. G.">Mrs. Paddock</persName> would overstate the facts respecting that or many other deeds that have darkened the history of <placeName type="state" key="Utah Territory">this Territory</placeName>.</p>
+
+<p><hi rend="right"><hi rend="smallcaps">MRS. <persName key="Cooke, Sarah A.">SARAH A. COOKE</persName>.</hi></hi></p>
+
+<gap reason="irrelevant" />
+
+<pb n="226" xml:id="mmm.fiction.paddock.1881.233"/>
+
+<gap reason="irrelevant" />
+
+<lg type="footnote"><l>* <seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="LDSReformation">A reign of terror inaugurated in 1857 by the preaching of such fanatics as <persName key="Grant, Jedediah M.">Grant</persName>, <persName key="Young, Brigham">Brigham</persName>'s Counselor. The Reformation was at fulltide when the Mountain Meadow massacre took place, and that most atrocious butchery was in accordance with the doctrines taught by the Mormon press and pulpit at the period named.</seg></seg></l></lg>
+
+<gap reason="irrelevant" />
+
+<pb n="128" xml:id="mmm.fiction.paddock.1881.135"/>
+
+<!-- The emigrants referred to in the following paragraph are not the emigrants who died at Mountain Meadows. This is a wagon train of Mormon settlers on their way to the California coast, by way of Arizona, who were traveling two years prior to the massacre, in September 1855 -->
+
+<p>The emigrants were well provided with necessaries for their journey, not because the Church authorities had concerned themselves about making such provision, but because they had suflicient means of their own to supply them
+with ordinary comforts. The first stage of their route lay through the settlements that had been made, at irregular
+
+<pb n="129" xml:id="mmm.fiction.paddock.1881.136"/>
+
+distances, all the way from Salt Lake to the southern line of the Territory. This portion of the joumey was not marked by any incidents worthy of notice, nor attended by any hardships, but after crossing the divide south-west of <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, the character of the country changed entirely. It was near the middle of September when the company encamped at Resting Springs&#8212;the last point at which pure water is found before entering the desert. They remained in camp several days to rest and recruit, for they knew that for the next hundred and fifty miles their powers of endurance would be taxed to the utmost.</p> 
+
+<gap reason="irrelevant" />
+
+<pb n="214" xml:id="mmm.fiction.paddock.1881.221"/>
+
+<!-- The following paragraph uses the Mountain Meadows as a comparison, to show a reason as to why the Mormon church would kill children.-->
+
+<p>The father and mother had revealed the iniquitous
+mysteries which they had sworn to keep secret, and their
+children had perished with them, because the bloody code of
+Mormon vengeance declares that the sin of the parents
+shall be visited upon the children unto the third and fourth
+generation. <seg type="Massacre" subtype="Casualties">Or perhaps the children had been killed, like those <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, lest they should some day bear testimony against the murderers of their parents.</seg></p>
+
+<gap reason="irrelevant" />
+
+<pb n="231" xml:id="mmm.fiction.paddock.1881.238"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="WesternViolence">THE southern portion of <placeName type="state" key="Utah Territory">Utah</placeName> has been the scene of many a bloody tragedy besides that of <geogName type="valley" key="Mountain meadows">Mountain Meadows</geogName>, but <seg type="Reaction" subtype="FederalInvestigation">as yet there had been no attempt on the part of the Government to seek out and punish the perpetrators of any of the crimes committed there; and if in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> and under the guns of the fort some feeble effort was made by the Federal authorities to investigate the murders committed at their very doors, the accused had only to betake themselves south to assure their perfect safety.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="MilitaryRetaliation">The idea of arresting a Mormon in one of the southern settlements without the aid of an armed force was so preposterous that the most courageous of the Federal judges would not send a United States marshal on such an errand; and even if the officers of the law should be sent after notorious offenders with troops at their back, it would be quite useless.</seg></seg></p>
+
+<p><persName key="Young, Brigham">Brigham</persName> assured his people that he had prepared a retreat in the mountains of the south in which the whole people might hide&#8212;a spot of which no white man knew anything except those in his confidence.</p>
+
+<p>This assurance was an exaggeration, like most of his public boasts; but it is certain that in the heart of the mountains he described there has always been a safe refuge for those of his followers who, after years of delay on the part of the Government, have at length been indicted for some of their many crimes.</p>
+
+<gap reason="irrelevant" />
+
+<pb n="254" xml:id="mmm.fiction.paddock.1881.261"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<hi rend="italic">Dec</hi>. 10, '57.&#8212;An awful crime&#8212;a deed whose blackness might quench the light of day&#8212;has come to my knowledge. I am suffocating with horror. Would that I had remained ignorant of it. A bloody vision follows me, haunts me, night and day, since the fearful tale came to my ears.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"After those strangers passed this way, and while I was still grieving over my lost opportunity, I began to perceive from my window the appearance of unusual idleness on the part of the men of the settlement, who are farmers, and should at this season have been attending to their crops. They were congregated in groups by the roadside, and those who were so near that I could observe their faces, I saw looked gloomy and sullen. Finally, one night, I heard the heavy tramp of many feet, going in and out of this house until midnight.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"I slept none that night. A vague uneasiness, a terror for which I could not account, kept me wakeful, and before day I rose from my bed, and sitting down beside my window watched the stars until they began to fade.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"When the day broke, my eyes were fixed on the highway, and presently a band of mounted men issued from a little lane near the house. Many of the faces I had seen before, as they passed day after day, and among them I recognized my jailer, whose wife, contrary to her usual
+    
+<pb n="255" xml:id="mmm.fiction.paddock.1881.262"/>
+
+custom, had kept away from my room the day before, sending the servant with my meals.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"All of the men were armed with guns, and as I watched them they rode away southward, two abreast.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"That day, and for many days afterward, I could not help seeing that my friend was in some great trouble, which she refused to confide to me. Thus nearly two weeks passed, and one morning, as I was looking southward, I saw the same body of men whose departure I had watched, riding into the settlement.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"As they came near I perceived that <persName key="Wells, Daniel H.">Wells</persName> was in advance, and that he carried something on his horse in front of him. As he reached the house I saw, to my surprise, that it was a child&#8212;a little girl, perhaps four years old. He dismounted at a side door, at the foot of the stairs leading to my room</seg>.</p>
+
+<p>"I heard his wife open the door&#8212;heard her exclamation, not only of surprise, but of dismay and terror&#8212;heard the man say,</p>
+
+<p>"'Hush, for God's sake!'</p>
+
+<p>"And then both seemed to pass into an inner room.</p>
+
+<p>"After that I saw no more of my friend for many days, and when she entered my room again she was changed more, it seemed to me, than even during those weeks of sickness the year before.</p>
+
+<p><seg type="Massacre" subtype="Survivors">"I knew something was wrong. An air of mystery brooded over the house. I heard the child sometimes&#8212;once it climbed up the stairs leading to my door, and more than once I distinguished a plaintive cry of,</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">"'Mamma! mamma!' Take me to my mamma!'</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">"It was a wail that pierced my heart. How often must my own children have uttered that cry!</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"When I spoke to my friend about the child, she turned a white, terrified face toward me, saying,</seg></p>
+
+<pb n="256" xml:id="mmm.fiction.paddock.1881.263"/>
+
+<p><seg type="Massacre" subtype="Survivors">"'How did you know? Have you seen&#8212;have you heard anything?'</seg></p>
+
+<p>"Why protract the recital? <seg type="Blame" subtype="LDS_LDS">In the end I learned the whole dreadful truth. <seg type="Massacre" subtype="Casualties">The company of emigrants had been followed by bodies of armed men from the settlements, surrounded, and butchered in cold blood. Neither age nor sex had been spared.</seg> <seg type="Massacre" subtype="Survivors">Only a few of the youngest children were rescued at the last by men who could not quite forget their own children. The little girl in the house was one of these.</seg></seg></p>
+
+<p>"I cannot bear to dwell here. There is only one thing which I feel compelled to leave on record, and it is this:</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">"<persName key="Young, Brigham">The man whom this people look up to as their Prophet</persName> ordered the butchery, and the men who did the deed were only his instruments. Many of them went most unwillingly. Some of them took no part in the massacre, and returned home with their faith in this man and his teachings destroyed forever. My friend's husband is one of those last named. He declares to his wife that he cannot remain here, and that he will watch night and day for an opportunity to escape.</seg></p>
+
+<p>"Should this be so, I too may yet be able to flee from this blood-stained spot.</p>
+
+<pb n="301" xml:id="mmm.fiction.paddock.1881.308"/>
+
+<p>In 1874 several persons implicated in the Mountain Meadows butchery were indicted for murder, and among them Bishop (also Colonel) <persName key="Dame, William H.">Dame</persName> of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, a town in Southern <placeName type="state" key="Utah Territory">Utah</placeName>. I saw <persName key="Dame, William H.">Dame</persName> while in the hands of the officers of the law. I had then recently furnished an article
+
+<pb n="302" xml:id="mmm.fiction.paddock.1881.309"/>
+
+to one of the <placeName type="settlement" key="Washington, DC">Washington</placeName> papers, giving an account of the massacre, and <persName key="Dame, William H.">Dame</persName>, aware of this fact, asked:</p>
+
+<p>"Did you say anything about me?"</p>
+
+<p>"No," was the answer.</p>
+
+<p><hi rend="italic"><persName key="Dame, William H.">Dame</persName></hi>. "Do you think me guilty?"</p>
+
+<p><hi rend="italic">The Writer</hi>. "I shall wait to hear the evidence before forming an opinion as to your guilt."</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><hi rend="italic"><persName key="Dame, William H.">Dame</persName></hi>. "Before God, madam, I am innocent. I did not give the order for the massacre, and I am not responsible for the orders that were passed over my head."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Dame, William H.">Dame</persName>, it will be remembered, was the <hi rend="italic">superior officer</hi> of <persName key="Lee, John D.">John D. Lee</persName>, who was made a scapegoat by the Mormon leaders, and sacrificed to save the real instigators of the massacre. The orders which were, as <persName key="Dame, William H.">Dame</persName> said, "passed over his head," must have emanated from <hi rend="italic">his</hi> superior officers. <persName key="Lee, John D.">Lee</persName> is in his grave, but his dying confession, which has been abundantly corroborated by the testimony of old residents of <placeName type="state" key="Utah Territory">the Territory</placeName>, is extant, and contains accusations that will not down, even at the bidding of ex-Delegate <persName key="Cannon, George Q.">Cannon</persName>.</seg></p>
+
+<p>The following are some of <persName key="Lee, John D.">Lee</persName>'s dying statements:</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">"The Mountain Meadow Massacre was the result of the direct teachings of <persName key="Young, Brigham">Brigham Young</persName>, and it was done by the order of those high in authority in the Mormon community. After the massacre I was sent to <persName key="Young, Brigham">Brigham Young</persName> to make a report of it. I went and <hi rend="italic">told him all</hi>. I said, 'Sustain me, or release me from my endowment oath to avenge the blood of the prophets.'</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<persName key="Young, Brigham">Brigham</persName> sent me away, telling me he would commune with God and let me know the result. The next morning I went back to him and he said: 'Brother <persName key="Lee, John D.">Lee</persName>, the people did just right&#8212;only they were a little too hasty. I have evidence from God that the act was right. I sustain you and the brethren in all that you did. All I fear is <choice><orig>treach-
+
+<pb n="303" xml:id="mmm.fiction.paddock.1881.310"/>
+
+ery</orig><reg>treachery</reg></choice> on the part of the brethren. Go home, tell the brethren I sustain them; and <seg type="Reaction" subtype="Silence">keep all as secret as the grave</seg>. <seg type="Blame" subtype="IndiansIndependently">Write me a letter throwing the blame on the Indians, and I will report it to the government as an Indian massacre.</seg>'</seg><ref target="n0001">*</ref></p>
+
+<p>"<persName key="Young, Brigham">Young</persName> was fully satisfied with me then and for years afterwards. <seg type="Context" subtype="Polygamy">He gave me three wives after that</seg>, and appointed me Probate judge of <placeName type="county" key="Washington County, UT">Washington County</placeName>. Nothing but cowardice has made him desert me now."</p>
+
+<p><seg type="Massacre" subtype="RescueAttempt">"<seg type="Blame" subtype="IndiansLDSInfluence">It was the first plan to have none but Indians take part in the massacre</seg>, but as <persName key="Stewart, William C.">William C. Stewart</persName>, <persName key="White, Joel">Joel White</persName>, and <persName key="Arthur, Benjamin">Benjamin Arthur</persName> were coming to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> on Wednesday night they met young <persName key="Aden, William Allen">Aden</persName> and another man from the emigrants' camp going to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for help. They told of the Indian attack and asked aid from the settlers. The only reply was a shot from <persName key="Stewart, William C.">Stewart</persName> which killed <persName key="Aden, William Allen">Aden</persName>. The other man, who was wounded by <persName key="White, Joel">White</persName> and <persName key="Arthur, Benjamin">Arthur</persName>, escaped and carried word to the emigrants that <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">the whites had come to help the Indians</seg></seg>. <seg type="Massacre" subtype="Casualties">After that the authorities said there was no safety except in killing all who could talk</seg>."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">Lee</persName> gives the names of many men holding official positions in the <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> Legion and in the Church, who were leaders in the bloody work. Five of these men, Bishops and Presidents of Stakes of Zion, fled to the mountains <seg type="Reaction" subtype="FederalInvestigation">as soon as it was known that the massacre would be investigated</seg>, and remained in hiding until after <persName key="Lee, John D.">Lee</persName>'s execution. Should any person be disposed to ask why <persName key="Lee, John D.">Lee</persName> was the only one of the fifty-eight white men engaged in the massacre who was ever brought to trial, I refer him for an answer to the prosecuting attorney at the time of the <persName key="Lee, John D.">Lee</persName> trial.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Three of the men whose names are conspicuous among the Mountain Meadow murderers&#8212;<persName key="Haight, Isaac C.">Haight</persName>, <persName key="Higbee, John M.">Higbee</persName>, and</seg>
+
+<note xml:id="n0001">* <persName key="Young, Brigham">Brigham Young</persName> was at that time Governor of <placeName type="state" key="Utah Territory">Utah</placeName> and Indian Agent.</note>
+ 
+<pb n="304" xml:id="mmm.fiction.paddock.1881.311"/>
+
+<seg type="Blame" subtype="LDS_LDS"><persName key="Stewart, William C.">Stewart</persName>&#8212;are still hiding from justice, remaining much of the time in the mountains, but occasionally visiting those Mormon settlements in which there are no Gentile residents to give information against them. I am informed by the judge who tried and sentenced <persName key="Lee, John D.">Lee</persName> that these men might have been taken at any time during the past five years if means had been provided for their capture, but as the general government <hi rend="italic">does</hi> not, and the Territorial authorities <hi rend="italic">will</hi> not furnish money to defray the expenses of arresting them, it is not probable that they will ever be held to answer for the atrocious crime committed by them in obedience to the "council" of their spiritual teachers.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">In the same year <persName key="Reynolds, George">George Reynolds</persName> was convicted of polygamy and sentenced to imprisonment in the penitentiary but the execution of his sentence was delayed more than two years by an appeal to the Supreme Court of the United States; and meanwhile he continued to live openly with his plural wife, and was elected to one or more municipal offices by his admiring fellow-saints.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">In the spring of 1879 one <persName key="Miles, John">John Miles</persName> was convicted of the same offense, but the convict is still at large, and happy in the belief that his appeal to the Supreme Court will result favorably. This completes the list of convictions.</seg></p>
+
+<p>Mr. <persName key="Cannon, George Q.">Cannon</persName>'s statements with regard to the testimony of parties traveling through <placeName type="state" key="Utah Territory">Utah</placeName>, to the "remarkable security of life and property there," should be qualified somewhat. A good many travelers who attempted to cross <placeName type="state" key="Utah Territory">the Territory</placeName> previous to 1870 are not now in a condition to give testimony, as, for example, the Aiken party, robbed and murdered by the Danites; the party murdered in <persName key="Kimball, Heber C.">Kimball</persName>'s barn; and many others.</p>
+
+<p>On page 460 of <hi rend="italic">The North American Review</hi>, Mr. <persName key="Cannon, George Q.">Cannon</persName> says: "The whole foundation of the charge about 'blood-atonement' is that the people believe in the Biblical
+
+<pb n="305" xml:id="mmm.fiction.paddock.1881.312"/>
+
+doctrine that men who commit murder, adultery, and other gross crimes, should be executed."</p>
+
+<p>The following affidavit may serve to show just how the doctrine of "blood-atonement" is understood by Mr. <persName key="Cannon, George Q.">Cannon</persName> himself.</p>
+
+<pb n="347" xml:id="mmm.fiction.paddock.1881.354"/>
+
+<gap reason="irrelevant" />
+
+<p><hi rend="center"><hi rend="smallcaps">NOTE L</hi> (<hi rend="smallcaps">PAGE</hi> 176).</hi></p>
+
+<p>Out of a multitude of cases that might be adduced in support of this statement, I will quote two of the most notorious:</p>
+
+<pb n="348" xml:id="mmm.fiction.paddock.1881.355"/>
+
+<p><persName key="Hickman, Bill">Bill Hickman</persName>, the Danite, who according to his own confession committed nineteen murders, was a Mormon in good standing throughout his career of crime, and was a member of the <placeName type="state" key="Utah Territory">Utah</placeName> Legislature at a time when he was killing men in obedience to "counsel" every few months.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName>, one of the principal actors in the butchery of <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, was rewarded for his share in the massacre by a seat in the Legislature, though at the time he held several other offices of trust and profit; for a plurality of offices is allowed in <placeName type="state" key="Utah Territory">Utah</placeName> <seg type="Context" subtype="Polygamy">as well as a plurality of wives.</seg></seg></p>
+
+</body>
+</text>
+</TEI>

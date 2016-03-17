@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.lds.haslam.1885">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Supplement to the Lecture on the Mountain Meadows Massacre (by Charles William Penrose): Important Additional Testimonies Recently Received</title>
+                <title level="m" type="sub"></title>
+                <author><forename>James</forename> <forename type="middle">Holt</forename> <surname>Haslam</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.lds.haslam.1885</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Supplement to the Lecture on the Mountain Meadows Massacre (by Charles William Penrose): Important Additional Testimonies Recently Received</title>
+                    <author><forename>James</forename> <forename type="middle">Holt</forename> <surname>Haslam</surname></author>
+                    <publisher>Juvenile Instructor Office</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>83-104</extent>
+                    <date when="1885">1885</date>
+                    <note type="source">James Holt Haslam. <hi rend="italic">Supplement to the Lecture on the Mountain Meadows Massacre (by Charles William Penrose): Important Additional Testimonies Recently Received.</hi> Salt Lake City, UT: Juvenile Instructor Office, 1885. 
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>lds_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-07-13"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+
+<pb n="83" xml:id="mmm.lds.haslam.1885.083"/>
+
+<head>TESTIMONY OF JAMES HOLT HASLAM.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<head>TAKEN AT WELLSVILLE, CACHE COUNTY, UTAH,</head>
+
+<head>DECEMBER 4, 1884.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><persName key="Haslam, James Holt">JAMES HOLT HASLAM</persName>, being interrogated by <persName key="Kenner, S. A.">S. A. Kenner</persName>, Esq., answered the interrogatories to him propounded as follows:</p>
+
+<p>What is your full name?</p>
+
+<p><persName key="Haslam, James Holt">James Holt Haslam</persName>.</p>
+
+<p>And where do you now reside?</p>
+
+<p>In <placeName type="settlement" key="Wellsville, UT">Wellsville</placeName>, <placeName type="county" key="Cache County, UT">Cache County</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<p>How long have you resided in <placeName type="state" key="Utah Territory">this Territory</placeName>? </p>
+
+<p>Since the Fall of 1851.</p>
+
+<p>Have you been here continuously from that time?</p>
+
+<p>You mean in <placeName type="state" key="Utah Territory">Utah</placeName>?</p>
+
+<p>Yes.</p>
+
+<p>Yes, sir.</p>
+
+<p>In what part of <placeName type="state" key="Utah Territory">Utah</placeName> were you residing in the year 1857.</p>
+
+<p>In the year 1857 I was residing at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, in <placeName type="county" key="Iron County, UT">Iron County</placeName>.</p>
+
+<pb n="84" xml:id="mmm.lds.haslam.1885.084"/>
+
+<p>What part of <placeName type="county" key="Iron County, UT">Iron County</placeName>?</p>
+
+<p><placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</p>
+
+<p>Do you remember September of that year?</p> 
+
+<p>I remember it well.</p>
+
+<p>Do you remember the incident in the history of <placeName type="state" key="Utah Territory">Utah</placeName> known as the Mountain Meadows massacre or murder?</p>
+
+<p>Yes, sir.</p>
+
+<p>What time of the year did it occur?</p>
+
+<p><seg type="Massacre" subtype="Dates">It was in September</seg>.</p>
+
+<p>In 1857 or 1858?</p>
+
+<p><seg type="Massacre" subtype="Dates">In 1857</seg>.</p>
+
+<p>Did you perform any office or any service in connection with those engaged in that transaction?</p>
+
+<p>All that I performed was to carry an express from <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</p>
+
+<p>Who sent you on that errand?</p>
+
+<p><persName key="Haight, Isaac C.">Isaac C. Haight</persName>.</p>
+
+<p>What position, if any, did he hold in that community where you lived?</p>
+
+<p>President of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</p>
+
+<p>By virtue of what authority was he president, if you know?</p>
+
+<p>No more than he was called to that office.</p>
+
+<p>I mean under what dispensation or government? </p>
+
+<p>Under the church government of the Church of Jesus Christ of Latter-day Saints.</p>
+
+<p>Did he hold any other position?</p>
+
+<p>I believe he was colonel of militia of what is called the Nauvoo Legion.</p>
+
+<p>As the presiding officer of that community, were you subject to his order?</p>
+
+<pb n="85" xml:id="mmm.lds.haslam.1885.085"/>
+
+<p>Yes, in a church capacity I was.</p>
+
+<p>Do you remember <seg type="Massacre" subtype="Casualties">the company of emigrants that were massacred at the Mountain Meadows</seg>?</p>
+
+<p><seg type="Emigrants" subtype="Route">I remember seeing them pass through <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> on their way south</seg>.</p>
+
+<p>About what time was that with reference to your receiving this dispatch?</p>
+
+<p>A few days after, I should say it must have been somewhere about the fifth or sixth of September, 1857.</p>
+
+<p>Was it before or after you received the dispatch?</p>
+
+<p>Oh, before I received the dispatch.</p>
+
+<p>About how many days before?</p>
+
+<p>I should judge from one to two days, but I could not say positively.</p>
+
+<p>State now, as nearly as you can, considering the state and circumstances leading to Mr. <persName key="Haight, Isaac C.">Haight</persName> giving that dispatch and with orders to convey it there.</p>
+
+<p>Word came up to Mr. <persName key="Haight, Isaac C.">Haight</persName> from <persName key="Lee, John D.">John D. Lee</persName>, stating that <seg type="Blame" subtype="IndiansIndependently">the Indians had got the emigrants corralled on <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, and wanted to know what he should do.</p>
+
+<p>Who brought that word?</p>
+
+<p>I don't know, I did not see the man who brought the word to <persName key="Haight, Isaac C.">Haight</persName>.</p>
+
+<p>What did Mr. <persName key="Haight, Isaac C.">Haight</persName> tell you in relation to the matter at that time?</p>
+
+<p>He sent for me. He had a message written to send up to <persName key="Young, Brigham">Brigham Young</persName>, and he wished to get a man to take it up. He had not found one when I went down there to his house, and he asked me
+
+<pb n="86" xml:id="mmm.lds.haslam.1885.086"/>
+
+if I would take it. I told him I would if it was possible to take it.</p>
+
+<p>Did he then state the nature of that message that he wanted you to carry and deliver?</p>
+
+<p>He gave me the message to read.</p>
+
+<p>Did you read it?</p>
+
+<p>Yes, sir.</p>
+
+<p>State the contents of it as near as you possibly can.</p>
+
+<p>The same as I stated before: that <seg type="Blame" subtype="IndiansIndependently">the Indians had got the emigrants corralled at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, and <persName key="Lee, John D.">Lee</persName> wanted to know what should be done. <seg type="Context" subtype="IndianRelationsLDS"><persName key="Lee, John D.">Lee</persName> at this time was major of what was called the Post, and he was the Indian agent.</seg></p>
+
+<p>My question was in relation to the emigrants&#8212;what do you mean by the Post?</p>
+
+<p>It was a fort and intended to devise means of protection from the Indians.</p>
+
+<p>Was that message placed in an envelope and sealed?</p>
+
+<p>Yes, sir.</p>
+
+<p>To whom was it addressed?</p>
+
+<p>To <persName key="Young, Brigham">Brigham Young</persName>, governor of <placeName type="state" key="Utah Territory">Utah Territory</placeName>.</p> 
+
+<p>What did you do with it when you took possession of it?</p>
+
+<p>I wrapped it up carefully and put it away where no one would get it until I delivered it.</p>
+
+<p>How long after receiving it was it before you started for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>?</p>
+
+<p>Just as quick as I could go home, put on a shirt and saddle a horse.</p>
+
+<pb n="87" xml:id="mmm.lds.haslam.1885.087"/>
+
+<p>About how far did you live from <persName key="Haight, Isaac C.">Haight</persName>'s, or from where you received the message?</p>
+
+<p>About a quarter of a mile.</p>
+
+<p>How long did it take you to go and do that?</p>
+
+<p>Probably from ten to fifteen minutes.</p>
+
+<p>Is it a fact that after the receipt of that message you were in the saddle ready to depart and did depart within fifteen minutes from the time of its reception?</p>
+
+<p>Yes, sir.</p>
+
+<p>What kind of a horse did you start on.</p>
+
+<p>A spanish horse.</p>
+
+<p>Please state as to its fleetness.</p>
+
+<p>I could not state as to that.</p>
+
+<p>How long did it take you to arrive at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>? </p>
+
+<p>I could not say exactly, might be about two hours. </p>
+
+<p>What is the distance?</p>
+
+<p>Between eighteen and twenty miles.</p>
+
+<p>Did you proceed on the same horse from there? </p>
+
+<p>Yes, sir, to <placeName type="settlement" key="Beaver, UT">Beaver</placeName>.</p>
+
+<p>Do you know about what time you arrived at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>?</p>
+
+<p>To the best of my recollection now, Bishop <persName key="Farnsworth, P. T.">P. T. Farnsworth</persName> was Bishop there, and to the best of my recollection when I arrived at <placeName type="settlement" key="Beaver, UT">Beaver</placeName> he said it was nine o'clock, or a little past, in the evening.</p>
+
+<p>Do you remember the time when you left <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>? </p>
+
+<p>A little past four o'clock in the afternoon.</p>
+
+<p>Did you change horses at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>?</p>
+
+<p>Yes, sir.</p>
+
+<pb n="88" xml:id="mmm.lds.haslam.1885.088"/>
+
+<p>How long were you in effecting the change of horses?</p>
+
+<p>While I was eating supper they got the horse and put the saddle on it. They got the horse from <persName key="Thompson, Edward">Edward Thompson</persName>, Sen.</p>
+
+<p>Did you state the nature of your mission to the Bishop?</p>
+
+<p>I did, sir.</p>
+
+<p>And he then proceeded immediately to get you a fresh horse?</p>
+
+<p>Yes, sir.</p>
+
+<p>So you immediately got on and went as fast as possible, did you?</p>
+
+<p>Yes, sir; I got a note from Col. <persName key="Dame, William H.">Dame</persName> to all the Bishops, stating my business, and for them to furnish me horses.</p>
+
+<p>And it was by virtue of you showing this note that the Bishop at <placeName type="settlement" key="Beaver, UT">Beaver</placeName> furnished you a horse?</p> 
+
+<p>Yes, sir.</p>
+
+<p>Did you proceed immediately on your journey to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>?</p>
+
+<p>Right away.</p>
+
+<p>How long did you ride after that?</p>
+
+<p>From that to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>.</p>
+
+<p>Without stopping?</p>
+
+<p>Without stopping, on the same horse, yes, on the same horse to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>.</p>
+
+<p>Can you remember the time you arrived at <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>&#8212;time of day or night?</p>
+
+<p>I could not recollect exactly.</p>
+
+<p>Can you remember how many hours?</p>
+
+<pb n="89" xml:id="mmm.lds.haslam.1885.089"/>
+
+<p>No, sir; I got to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> sometime before daylight, but I could not say exactly what time of the following day.</p>
+
+<p>How long did you stay in <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>?</p>
+
+<p>I had to stay till the Bishop came, and that was pretty near evening. He was off on a hunt, he and his horses too.</p>
+
+<p>Who was Bishop there at that time?</p>
+
+<p><persName key="Brunsen, Seymour">Seymour Brunsen</persName>.</p>
+
+<p>Were you resting during this time?</p>
+
+<p>I had to do: my horse could not go any further without urging him very much, as he had come from <placeName type="settlement" key="Beaver, UT">Beaver</placeName>.</p>
+
+<p>How long were you there waiting for the Bishop to arrive?</p>
+
+<p>That day; and after he arrived I did not stop but a little while.</p>
+
+<p>Did he get you a horse immediately?</p>
+
+<p>Yes, sir; but it was a horse that I could only ride ten miles. I rode to <placeName type="settlement" key="Cedar Spring, UT">Cedar Springs</placeName>, or <placeName type="settlement" key="Holden, UT">Holden</placeName>. </p>
+
+<p>Did you there obtain another horse?</p>
+
+<p>They hadn't got one in <placeName type="settlement" key="Holden, UT">Holden</placeName>&#8212;had to send back to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> and get another one.</p>
+
+<p>How much time did that occupy?</p>
+
+<p>That occupied, before they got back with another horse, till three o'clock in the morning next day.</p>
+
+<p>Did you then immediately proceed?</p>
+
+<p>Yes, sir.</p>
+
+<p>How far did you go that time?</p>
+
+<p>To <placeName type="settlement" key="Salt Lake City, UT">Salt Creek</placeName>, or <placeName type="settlement" key="Nephi, UT">Nephi</placeName>.</p>
+
+<p>In about what time did you make that journey?</p> 
+
+<p>I was there at seven o'clock in the morning.</p>
+
+<pb n="90" xml:id="mmm.lds.haslam.1885.090"/>
+
+<p>And you obtained another horse there, did you?</p> 
+
+<p>Yes, sir.</p>
+
+<p>How much time did that occupy there?</p>
+
+<p>Just long enough to eat breakfast&#8212;not to exceed half an hour.</p>
+
+<p>And you then proceeded northward?</p>
+
+<p>Yes, sir.</p>
+
+<p>How far did you go that time?</p>
+
+<p>To <placeName type="settlement" key="Payson, UT">Payson</placeName>.</p>
+
+<p>How long did you stay there?</p>
+
+<p>Just long enough to change horses.</p>
+
+<p>That would be but a few minutes?</p>
+
+<p>That is all.</p>
+
+<p>How far did you go next time?</p>
+
+<p>To <placeName type="settlement" key="Provo, UT">Provo</placeName>.</p>
+
+<p>Did you get another horse there?</p>
+
+<p>Yes, sir.</p>
+
+<p>How much time did you spend in <placeName type="settlement" key="Provo, UT">Provo</placeName>?</p>
+
+<p>An hour.</p>
+
+<p>Then proceeded on your journey again?</p>
+
+<p>Yes, sir.</p>
+
+<p>Where was your next stopping place?</p>
+
+<p>At <placeName type="settlement" key="American Fork, UT">American Fork</placeName>.</p>
+
+<p>Did you get another horse there?</p>
+
+<p>Yes, sir.</p>
+
+<p>How long did you stay there?</p>
+
+<p>Well, about half an hour.</p>
+
+<p>And then went on continuously?</p>
+
+<p>Went right on.</p>
+
+<p>Where did you arrive at next?</p>
+
+<p>I went right on to <placeName type="settlement" key="Salt Lake Ciy, UT">Salt Lake City</placeName> from <placeName type="settlement" key="American Fork, UT">American Fork</placeName>.</p>
+
+<pb n="91" xml:id="mmm.lds.haslam.1885.091"/>
+
+<p>How long did it take you to go from <placeName type="settlement" key="American Fork, UT">American Fork</placeName> to <placeName type="settlement" key="Salt Lake Ciy, UT">Salt Lake City</placeName>?</p>
+
+<p>I could not say exactly how long it was, but I went right on, yet got kind of sleepy that night.</p>
+
+<p>What day of the week was it you arrived at <placeName type="settlement" key="Salt Lake Ciy, UT">Salt Lake City</placeName>?</p>
+
+<p>I can't remember that, but think it was Thursday morning.</p>
+
+<p>Can you give me the time you occupied from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to <placeName type="settlement" key="Salt Lake Ciy, UT">Salt Lake City</placeName>, altogether, including stoppages and everything?</p>
+
+<p>I left <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> at four o'clock in the afternoon, and it was the morning of the third day from then that I got to <placeName type="settlement" key="Salt Lake Ciy, UT">Salt Lake City</placeName>.</p>
+
+<p>After you left <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>?</p>
+
+<p>Yes, sir; I was at the Lion House just after daybreak, where <persName key="Young, Brigham">Brigham Young</persName> had his office, or it was then.</p>
+
+<p>That would be, then, about sixty hours, would it not, on your journey?</p>
+
+<p>Yes, sir, somewhere along there: two whole days and a little more than half of another.</p>
+
+<p>Well was it not about sixty hours?</p>
+
+<p>Yes, about that time.</p>
+
+<p>How many hours were taken up by these stoppages and delays altogether?</p>
+
+<p>Well, about fifteen&#8212;yes, there was all of twenty hours taken up.</p> 
+
+<p>What was the first thing you did when you arrived at <placeName type="settlement" key="Salt Lake Ciy, UT">Salt Lake City</placeName>?</p>
+
+<p>To go to <persName key="Young, Brigham">Brigham</persName>'s office.</p>
+
+<p>Did you see him there?</p>
+
+<p>Yes, sir.</p>
+
+<pb n="92" xml:id="mmm.lds.haslam.1885.092"/>
+
+<p>Immediately upon your arrival?</p>
+
+<p>You might call it immediately. It was not over fifteen minutes.</p>
+
+<p>Did you see him in his office?</p>
+
+<p>Yes, sir.</p>
+
+<p>What did you do when you first saw him?</p> 
+
+<p>I handed him my message.</p>
+
+<p>Did you tell him whom you received it from?</p> 
+
+<p>Not until he asked me the question.</p>
+
+<p>Did you then?</p>
+
+<p>Yes, sir, I did.</p>
+
+<p>What did he do?</p>
+
+<p>He opened it and read it.</p>
+
+<p>What, if anything, did he say after he read it?</p> 
+
+<p>He told me I had better go and lie down and take a little sleep.</p>
+
+<p>What else, if anything?</p>
+
+<p>He told me to be there again at such a time, and he would be ready to give me an answer.</p>
+
+<p>Did he mention any time?</p>
+
+<p>Yes, sir.</p>
+
+<p>What time was it that he suggested?</p>
+
+<p>One o'clock in the afternoon of the same day.</p>
+
+<p>Were there any others present besides President <persName key="Young, Brigham">Young</persName> on that occasion?</p>
+
+<p>Yes, sir.</p>
+
+<p>State, if you can recollect, who they were.</p>
+
+<p>I can't recollect all, but <persName key="Wells, Daniel H.">Squire Wells</persName>, <persName key="Taylor, John">John Taylor</persName> and I should think about as many as half a dozen.</p>
+
+<p>Do you remember <persName key="Cannon, George Q.">George Q. Cannon</persName> and <persName key="Taylor, John">John Taylor</persName>?</p>
+
+<pb n="93" xml:id="mmm.lds.haslam.1885.093"/>
+
+<p>I cannot say whether <persName key="Cannon, George Q.">George Q.</persName> was there or not; I cannot say as to him positively, because I don't recollect.</p>
+
+<p>Mention as many as you can remember.</p>
+
+<p>That is about as many as I can remember&#8212;<persName key="Wells, Daniel H.">Daniel H. Wells</persName> and <persName key="Taylor, John">John Taylor</persName>.</p>
+
+<p>How many were there altogether?</p>
+
+<p>I should think there was all of half a dozen or more in a council.</p>
+
+<p>Was this at the time you first went in&#8212;who was there when you first went to President <persName key="Young, Brigham">Young</persName>?</p>
+
+<p>I don't recollect only seeing one clerk in the office.</p>
+
+<p>Was this at the time you first went into the office?</p>
+
+<p>No, it was in the afternoon when I went for the answer.</p>
+
+<p>Do you know for what purpose the council was assembled?</p>
+
+<p>I do not.</p>
+
+<p>What were they doing when you went in?</p>
+
+<p>Sitting in council.</p>
+
+<p>Do you know what they were sitting in council about?</p>
+
+<p>I do not.</p>
+
+<p>Did you hear or did you learn at the time what the nature of the council was?</p>
+
+<p>No, sir.</p>
+
+<p>And you know nothing about what they were doing?</p>
+
+<p>No, sir; only that the council was being held in President <persName key="Young, Brigham">Young</persName>'s office.</p>
+
+<pb n="94" xml:id="mmm.lds.haslam.1885.094"/>
+
+<p>Did President <persName key="Young, Brigham">Young</persName> read the message aloud when you first delivered it to him, or silently?</p>
+
+<p>He did not read it aloud.</p>
+
+<p>What did he do after he read it?</p>
+
+<p>He read it and told me to go and take a little sleep.</p>
+
+<p>As to the message&#8212;what did you do with reference to that?</p>
+
+<p>He asked if I could stand the trip back; <seg type="Blame" subtype="IndiansIndependently">he said the Indians must be kept from the emigrants at all cost, if it took all of <placeName type="county" key="Iron County, UT">Iron County</placeName> to protect them</seg>.</p>
+
+<p>You remember he said that very distinctly?</p>
+
+<p>I do, I know he said it.</p>
+
+<p>Was there anything said with reference to that
+subject by any other person that was present there? </p>
+
+<p>No, sir; <persName key="Young, Brigham">Brigham Young</persName> did all the talking.</p> 
+
+<p>What disposition did he make of the message after he read it?</p>
+
+<p>That I do not know.</p>
+
+<p>Did you then immediately depart?</p>
+
+<p>No.</p>
+
+<p>You took the rest that he suggested?</p>
+
+<p>Yes, sir.</p>
+
+<p>Were you there at the time he mentioned for you to come?</p>
+
+<p>I was.</p>
+
+<p>What took place then?</p>
+
+<p>He told me to start and not to spare horseflesh, but to go down there just as quick as possible.</p> 
+
+<p>Did he give you any written message?</p>
+
+<p>Yes, sir.</p>
+
+<p>Was it sealed or unsealed?</p>
+
+<pb n="95" xml:id="mmm.lds.haslam.1885.095"/>
+
+<p>It was not sealed, but I never opened it.</p>
+
+<p>Did you know the contents of it?</p>
+
+<p>I did not&#8212;I could have done.</p>
+
+<p>Did you see it subsequently or after?</p>
+
+<p>When I handed it to Brother <persName key="Haight, Isaac C.">Haight</persName> he offered it to me to read.</p>
+
+<p>About how long were you on the road taking the message down and going to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>?</p>
+
+<p>About the same as I was coming up, as near as I can think.</p>
+
+<p>What did Mr. <persName key="Haight, Isaac C.">Haight</persName> say to you when you handed him the message or answer and he read it?</p> 
+
+<p>He said, "Too late, too late." The massacre was all over before I got home.</p>
+
+<p>Did he say anything further on that subject?</p> 
+
+<p>No, sir; he cried like a child.</p>
+
+<p>How long were you in his company at that time?</p> 
+
+<p>About half an hour.</p>
+
+<p>Did he make any further reference to the subject?</p>
+
+<p>No, sir; he could not talk about it at all.</p>
+
+<p>At what place was this, and where?</p>
+
+<p>In <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</p>
+
+<p>Was he at his home at the time you delivered this message to him?</p>
+
+<p>No.</p>
+
+<p>At what place was he?</p>
+
+<p>Between his house and mine, on the way coming down to see if I had got back.</p>
+
+<p>Did he, at that time or afterwards, say anything with reference to his being at the massacre or not? </p>
+
+<p>Never to my knowledge.</p>
+
+<pb n="96" xml:id="mmm.lds.haslam.1885.096"/>
+
+<p>Did you see <persName key="Lee, John D.">John D. Lee</persName> then at that time? </p>
+
+<p>No, sir, I did not.</p>
+
+<p>Have you seen him since?</p>
+
+<p>Yes, sir, many times.</p>
+
+<p>How long after that before you saw him first?</p> 
+
+<p>About two weeks.</p>
+
+<p>Did he make any reference to the subject?</p> 
+
+<p>No, sir.</p>
+
+<p>Did you?</p>
+
+<p>No, sir.</p>
+
+<p>Have you at any time since that date heard <persName key="Lee, John D.">him</persName> or <persName key="Haight, Isaac C.">Haight</persName> speak in reference to  that subject?</p>
+
+<p>No, sir.</p>
+
+<p>Do you know <persName key="Higbee, John M.">John M. Higbee</persName>?</p>
+
+<p>Yes, sir.</p>
+
+<p>Have you ever heard him say anything about it? </p>
+
+<p>No, sir.</p>
+
+<p>Have you heard the subject discussed by anyone there or elsewhere about that time?</p>
+
+<p>No more than common rumor since that date.</p>
+
+<p>Have you ever heard Mr. <persName key="Dame, William H.">Dame</persName> talk about it?</p> 
+
+<p>No, sir.</p>
+
+<p>Do you know what became of that dispatch?</p> 
+
+<p>You mean the one I brought back?</p>
+
+<p>Yes.</p>
+
+<p>I do not.</p>
+
+<p>Did you see what disposition Mr. <persName key="Haight, Isaac C.">Haight</persName> made of it?</p>
+
+<p>He put it in his pocket after he read it.</p> 
+
+<p>Have you ever seen it since?</p>
+
+<p>No, sir.</p>
+
+<pb n="97" xml:id="mmm.lds.haslam.1885.097"/>
+
+<p>Have you ever heard it mentioned in Church meetings or anywhere else?</p>
+
+<p>No, sir.</p>
+
+<p>Was there at that time a telegraph line in <placeName type="state" key="Utah Territory">the Territory</placeName>?</p>
+
+<p>No, sir.</p>
+
+<p>What was the mail service, if any, through the <placeName type="state" key="Utah Territory">the Territory</placeName> at that time, if you know?</p>
+
+<p>Mails were carried just as it happened.</p>
+
+<p>Was there a regular through mail?</p>
+
+<p>The mail came now and then about as it happened, as near as I can remember. If anybody went up to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> they would bring back what mail there was there.</p>
+
+<p>About how often did the mail come there? </p>
+
+<p>Only as it was brought, kind of promiscuous.</p> 
+
+<p>Did it come as often as once a month?</p>
+
+<p>I don't think it did.</p>
+
+<p>Was it any oftener than that?</p>
+
+<p>No, sir, I don't think it was.</p>
+
+<p>How long was it after that time that you next met President <persName key="Young, Brigham">Young</persName>?</p>
+
+<p>I can't say, for I don't recollect. I came up to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> in 1859 and worked there till Fall; I can't remember any particular date.</p>
+
+<p>But you have met him since?</p>
+
+<p>Oh, yes, many times.</p>
+
+<p>And heard him speak in places, in pulpits?</p> 
+
+<p>Yes, sir.</p>
+
+<p>Have you ever heard him, in his house, in any place, or in any of the streets, or in any place of worship, or pulpit, or at any place whatever, make
+
+<pb n="98" xml:id="mmm.lds.haslam.1885.098"/>
+
+any reference to the subject that you have just testified to and under discussion?</p>
+
+<p>I have.</p>
+
+<p>Will you, according to your best recollection, give me, as near as possible, the nature of what he said at any of these places or times?</p>
+
+<p>If I can recollect anything he said at all, he said it was one of the worst things that ever happened or could have happened in <placeName type="state" key="Utah Territory">Utah</placeName>, and those that had perpetrated that deed would go to hell for it. I have heard him use such an expression as that.</p>
+
+<p>Then, to the best of your recollection, from what you have seen of him, what you have known of him, what you have heard him say, he was not only bitterly opposed to that whole proceeding, but discountenanced the men who engaged in it?</p>
+
+<p>He did.</p>
+
+<p><seg type="Massacre" subtype="Spoils">Do you know anything concerning any spoils or property that accrued from that massacre?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Only from hearsay.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Have you ever seen any of it?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Oh, yes.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">In whose possession did you see it?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><persName key="Lee, John D.">John D. Lee</persName>'s.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Did you ever see any in anybody else's possession?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">I can't say that I did, unless they bought it from <persName key="Lee, John D.">Lee</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Did you ever know or hear of <persName key="Young, Brigham">Brigham Young</persName> having any property or money that was obtained from that affair at that time?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">No, sir.</seg></p>
+
+<pb n="99" xml:id="mmm.lds.haslam.1885.099"/>
+
+<p><seg type="Massacre" subtype="Spoils">Did you ever hear of any having been offered him?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Only by report to me from a man that <persName key="Lee, John D.">Lee</persName> told.</seg></p> 
+
+<p><seg type="Massacre" subtype="Spoils">What was the nature of that report?</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">The nature was that <persName key="Lee, John D.">Lee</persName> offered him money that he had got from that company, and he told him to take it out of his sight and not let him see him any more, didn't want to even see him, let alone the money; that is only common report.</seg></p>
+
+<p>Did you immediately after that?</p>
+
+<p>Many times.</p>
+
+<p>Do you know what his relations were after that with <persName key="Young, Brigham">Brigham Young</persName>?</p>
+
+<p>I do not; but as far as I know I don't believe there was any.</p>
+
+<p>Do you know whether or not either ever visited the other after?</p>
+
+<p>I don't know, but I don't believe they ever did.</p>
+
+<p>You were in such a position at that time, were you not, that anything of that nature going on in the community would have most likely reached you, if it had taken place?</p>
+
+<p>I think it would.</p>
+
+<p>Were you in as good a position for knowing such things as other people at that time?</p>
+
+<p>Yes, sir.</p>
+
+<p>Do you know what the sentiment of the people of the Church was at that time&#8212;I mean those that you were intimately associated with&#8212;in relation to that affair?</p>
+
+<p>Yes, sir; the sentiment was it never ought to have happened.</p>
+
+<pb n="100" xml:id="mmm.lds.haslam.1885.100"/>
+
+<p>Have you heard members of the Church, in good standing, speak of it since?</p>
+
+<p>Yes; that it never ought to have happened. </p>
+
+<p>What was the state of the community at that time&#8212;at the time you took this dispatch to be carried to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>?</p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="IndiansIndependently">On the way through the Indians were very bad&#8212;they were excited, and they were up in arms on account of the treatment they had received from this company of emigrants.</seg></seg></p>
+
+<p>Do you know anything of this treatment they complained of?</p>
+
+<p><seg type="Source" subtype="Indians">I know what the Indians told me when I was on the road carrying the dispatch.</seg></p>
+
+<p>State what it was.</p>
+
+<p><seg type="Source" subtype="Indians"><seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">They told me the emigrants had poisoned their water and had done everything that was mean for them, and that they were going to kill the emigrants for doing it.</seg></seg></seg></seg></p>
+
+<p>Did the Indians at that time know the nature of your message?</p>
+
+<p>Of what I was carrying?</p>
+
+<p>Yes.</p>
+
+<p>Yes, sir.</p>
+
+<p>Did they oppose you in any way?</p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="IndiansIndependently">No more than to stop me and inquire if I was going to see the "big captain," and I told them I was. They wanted to know what it was about and I told them they were not to kill the "Mericats," but to let them go about their business; for the "big captain" would be angry with them if they did it.</seg></seg></p>
+
+<pb n="101" xml:id="mmm.lds.haslam.1885.101"/>
+
+<p>Who was meant by the "big captain?"</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p>What did they say to that?</p>
+
+<p><seg type="Source" subtype="Indians"><seg type="Blame" subtype="IndiansIndependently">They said they should not do it; they were mad and they were going to kill the emigrants. They said they were going to do it before I came back.</seg></seg></p>
+
+<p>Can you remember the precise place where this conversation with the Indians occurred?</p>
+
+<p>The place was down between what was called Cedar Ridge, or Pine Creek Hill, and Cove Creek.</p>
+
+<p>How long, if you know, had it been before that that the emigrants had passed there?</p>
+
+<p>There was one company camped in <placeName type="settlement" key="Beaver, UT">Beaver</placeName>.</p>
+
+<p>When you were going up with the dispatch? </p>
+
+<p>Yes, sir.</p>
+
+<p>Were there any others ahead of them?</p>
+
+<p><seg type="Massacre" subtype="Casualties">This company that was massacred</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg> was ahead of them.</p>
+
+<p>And those that were in <placeName type="settlement" key="Beaver, UT">Beaver</placeName> were not massacred?</p>
+
+<p>No; but two of them were shot in <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, but not killed.</p>
+
+<p>By whom were they shot, if you know?</p>
+
+<p>By the Indians.</p>
+
+<p><seg type="Encounter" subtype="Poison">Did the Indians point out to you, or tell you on your journey, where any of these poisoned springs were?</seg></p>
+
+<p>Yes, sir.</p>
+
+<p>Where were they?</p>
+
+<p>On the north of Salt Creek, where the Willow Creek is now.</p>
+
+<p>Were there any other places?</p>
+
+<pb n="102" xml:id="mmm.lds.haslam.1885.102"/>
+
+<p>Yes, sir; down below <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, between <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> and Corn Creek, at some springs down there in the bottom.</p>
+
+<p><seg type="Encounter" subtype="Poison">Do you know of any fatality resulting to the Indians by reason of this poisoning?</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">No.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">Did the Indians claim of any?</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">No.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">By what means did they tell you, if they told you at all?</seg></p>
+
+<p><seg type="Source" subtype="Indians"><seg type="Encounter" subtype="Poison">They didn't tell me by what means, only they knew that the "Mericats" had done it.</seg></seg></p>
+
+<p>Were the Indians pretty boisterous in their behavior?</p>
+
+<p>Yes, sir; threatening all along through the settlements, that is what they were.</p>
+
+<p>And this had caused the excitement in the community?</p>
+
+<p>Yes, sir.</p>
+
+<p>What, if anything, do you know concerning any orders issued to <persName key="Lee, John D.">John D. Lee</persName> previous to the massacre by any one in authority?</p>
+
+<p>There was an order issued to <persName key="Lee, John D.">John D. Lee</persName> by <persName key="Haight, Isaac C.">Isaac C. Haight</persName> to keep the Indians in check till I came back from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and that I was starting right then.</p>
+
+<p>Did you see that order?</p>
+
+<p>I saw that order and read it and those words were on it&#8212;I know this to be the fact.</p>
+
+<p>When did you first learn of the massacre?</p>
+
+<p>Not till I got home again. Never heard of it from the time I left till I got back.</p>
+
+<pb n="103" xml:id="mmm.lds.haslam.1885.103"/>
+
+<p>You said when you gave the dispatch to <persName key="Haight, Isaac C.">Haight</persName> he read it and burst into tears and said it was too late?</p>
+
+<p>Yes, sir.</p>
+
+<p>Who was, to the best of your knowledge and belief, duly considering your opportunities for knowing, responsible, or held responsible, for the massacre at Mountain Meadows?</p>
+
+<p><seg type="Blame" subtype="Lee"><persName key="Lee, John D.">John D. Lee</persName>.</seg></p>
+
+<p>Was it by authority from any one or upon his own responsibility?</p>
+
+<p>On his own responsibility.</p>
+
+<p>Is that all you know of the transaction of a material nature?</p>
+
+<p>I guess that is about all.</p>
+
+<p>Do these answers that you have given here embrace the sum and substance of your testimony given at the second trial of <persName key="Lee, John D.">John D. Lee</persName>, in <placeName type="settlement" key="Beaver, UT">Beaver City</placeName>?</p>
+
+<p>That is the sum and substance of it.</p>
+
+<p>Does it embrace all you gave there?</p>
+
+<p>Yes, sir; and more.</p>
+
+<closer>TERRITORY OF UTAH, County of Cache, }SS.
+
+<salute>Personally appeared before me, the undersigned, this 12th day of January, 1885, a Notary Public in and for said <placeName type="county" key="Cache County, UT">County of Cache</placeName>, <persName key="Haslam, James Holt">James H. Haslam</persName>, of said county; who, being first duly sworn, says upon his oath that the above and foregoing answers to the questions propounded to him are full, true and correct so far as his best knowledge
+
+<pb n="104" xml:id="mmm.lds.haslam.1885.104"/>
+
+and judgment and recollection enable him to answer the same.</salute>
+
+<signed><persName key="Haslam, James Holt">JAMES HOLT HASLAM</persName>.</signed>
+
+<salute>Subscribed and sworn to before me this 12th January, 1885.</salute>
+
+<signed><persName key="Howell, Joseph">JOSEPH HOWELL</persName>,</signed>
+
+[SEAL.]	Notary Public.</closer>
+
+</body>
+</text>
+</TEI>

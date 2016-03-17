@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfh.18571027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Untitled [From the news published in another column&#8230;]</title>
+                <title level="m" type="sub"/>
+                <author/>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.sfh.18571027</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in
+                    Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2010</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all
+                        rights reserved. Redistribution or republication in any medium, except as
+                        allowed under the Fair Use provisions of U.S. copyright law, requires
+                        express written consent from the editors and advance notification of the
+                        publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt>
+                <note type="project"/>
+            </notesStmt>
+
+            <sourceDesc>
+
+                <bibl>
+                    <title level="j">San Francisco Herald</title>
+                    <title level="a">Untitled [From the news published in another column&#8230;]</title>
+                    <pubPlace>San Francisco, CA</pubPlace>
+                    <date when="1857-10-27">October 27, 1857</date>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding
+                Enhancement</change>
+            <change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept
+                Highlighting</change>
+            <change when="2010-02-16"><name>Kelsey F. Harris</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+
+            <div1 type="newspaper">
+                
+                <pb n="unknown" xml:id="mmm.news.sfh.18571027.001"/>
+                
+                <p><seg type="Source" subtype="Reprinted">From the news published in another
+                        column</seg>, <seg type="Blame" subtype="IndiansLDSInfluence">there can be
+                        no doubt of the complicity of the Mormons with the Indians, <seg
+                            type="Context" subtype="WesternViolence">in all the outrages which have
+                            of late been committed on the middle plains</seg>.</seg>
+                    <seg type="Context" subtype="IndianRelationsLDS">
+                        <seg type="Blame" subtype="LDS_LDSGreed">
+                            <seg type="Blame" subtype="IndiansLDSInfluence">There is no longer any
+                                safety for the emigrant&#8212;he is forced on one side to submit
+                                to the extortions of the Mormon guides, and on the other, to the
+                                exactions of the Indians, [and is] too happy to escape with life.
+                                Both have united to fleece, rob and murder all those who fall into
+                                their hands.</seg>
+                        </seg>
+                    </seg> We are very much afraid we have not heard the last of the massacres by
+                    the Indians this year. Whatever trains may yet be in the way, will not escape
+                    without attacks. <seg type="Source" subtype="Attributed_Powers">
+                        <seg type="Source" subtype="Attributed_Warn">It will be seen from the
+                                [<persName key="Powers, James Willson">Power</persName> and
+                                <persName key="Warn, P.M.">Warn</persName>] statements <seg
+                                type="Source" subtype="Reprinted">published in another column</seg>,
+                            that <seg type="Massacre" subtype="Planning">
+                                <seg type="Blame" subtype="IndiansLDSInfluence">there is little
+                                    doubt that the Mormons had a knowledge beforehand of what the
+                                    Indians were going to do&#8212;were in constant
+                                    communication with them during the time that <seg
+                                        type="Massacre" subtype="Battle">the hapless emigrant train
+                                        was battling against the savage foe, by whom they were
+                                        assaulted</seg>&#8212;that, though fully aware that <seg
+                                        type="Massacre" subtype="Casualties">men, women and children
+                                        were being cruelly murdered</seg>, they neglected to render
+                                    any assistance, and did not even go so far as to remonstrate,
+                                    and that they openly rejoiced with the Indians in the successful
+                                    accomplishment of their bloody work.</seg>
+                            </seg>
+                        </seg>
+                    </seg><seg type="Source" subtype="Attributed_Powers">
+                        <seg type="Source" subtype="Attributed_Warn">
+                            <seg type="Source" subtype="Attributed_Honea">Indeed, according to the
+                                statements of Messrs. <persName key="Powers, James Wilson"
+                                    >Power</persName>, <persName key="Warn, P. M.">Warn</persName>
+                                and <persName key="Honea, S. B.">Honea</persName>, <seg type="Blame"
+                                    subtype="IndiansLDSInfluence">
+                                    <seg type="Blame" subtype="LDS_LDS">the Mormons cannot be
+                                        separated from the Indians in all these terrible outrages.
+                                        They were the prompters, if not actors in the dreadful
+                                        scenes which have been enacted on the middle plains. <seg
+                                            type="Context" subtype="IndianRelationsLDS">How well
+                                            they have succeeded in moulding the savages, with whom
+                                            they dwell, for the accomplishment of whatever objects
+                                            they may have in view, is sufficiently evidenced by the
+                                            distinction they now make between Mormons and
+                                            Americans.</seg></seg>
+                                </seg>
+                                <seg type="Context" subtype="IndianRelationsLDS">They have been
+                                    taught to believe there are two races of white men in
+                                    existence&#8212;Mormons and Indians, and that while the
+                                    former are their fast friends, the latter are their dreaded and
+                                    uncompromising foes. It is horrible to contemplate that white
+                                    men should be engaged in stirring up and goading on
+                                    blood-thirsty savages to the commission of deeds of atrocity and
+                                    blood&#8212;to <seg type="Massacre" subtype="Casualties">the
+                                        massacre of defenseless women and children of their own race
+                                        at least</seg>; but we are afraid it is but too
+                                true.</seg></seg>
+                        </seg>
+                    </seg>
+                    <seg type="Encounter" subtype="Poison">The poisoning of a dead ox, for which the
+                        Indians asked, is stated as the main cause of the massacre; <seg
+                            type="Blame" subtype="LDS_LDS">but that poisoning may have been done by
+                            the Mormons.</seg></seg>
+                    <seg type="Emigrants" subtype="Route">The swaggering course pursued by the
+                        emigrants</seg>, and which no one will seek to justify, excited a thirst for
+                    vengeance in their minds, and this may have been the plan they adopted to
+                    gratify it, knowing the fearful vengeance it would bring down on the heads of
+                    the emigrants, if the act could be fastened on them. Such a theory is by no
+                    means improbable or far-fetched. The spirit by which the Mormons are actuated is
+                    no longer a secret; and no act or proceeding of theirs, no matter how fiendish
+                    or blood-thirsty, should excite astonishment. <seg type="Reaction"
+                        subtype="FederalInvestigation">The people of <placeName type="settlement"
+                            key="Los Angeles, CA">Los Angeles</placeName>, at a meeting recently
+                        held, adopted a preamble and resolutions calling on the <persName
+                            key="Buchanan, James">President of the United States</persName> to take
+                        measures for the punishment of the authors of the recent wholesale butchery
+                        on the plains</seg>; and also <seg type="Reaction"
+                        subtype="StateInvestigation">calling on the <persName
+                            key="Johnson, J. Neely">Governor of the State</persName> to enforce the
+                        laws in <placeName type="settlement" key="San Bernardino, CA">San
+                            Bernardino</placeName></seg>, <seg type="Reaction"
+                        subtype="Extra-legalViolence">pledging themselves to respond to the call of
+                        the proper authorities, if necessary in enforcing obedience. Matters wear a
+                        menacing aspect!</seg></p>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

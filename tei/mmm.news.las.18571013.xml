@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571013">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Public Meeting</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571013</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+	                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">An account of the public meeting held at Los Angeles; anti-Mormon sentiment prevailed.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">Public Meeting.</title>
+		    <title level="j">Los Angeles Star</title>
+		    <author>Editors Los Angeles Star</author>
+		    <publisher>Los Angeles Star</publisher>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <date when="1857-10-13">1857-10-13</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	    </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enchancement</change>
+	<change when="2007-04-23"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.las.18571013.001"/>
+
+<head>Public Meeting.</head>
+
+
+<p><seg type="Reaction" subtype="StateInvestigation">A mass meeting of the citizens of <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, convened at the Pavillion, on the Plaza, October 12th, 1857, to investigate the facts in the recent massacre, <seg type="Massacre" subtype="Location">on the Salt Lake road</seg>, of <seg type="Massacre" subtype="Casualties">more than one hundred Americans</seg>.</seg></p>
+
+<p>The meeting was organized by the election of Mr. <persName key="Whitman, George N.">George N. Whitman</persName>, chairman, and Mr. <persName key="Peterson, William H.">W. H. Peterson</persName>, secretary.</p>
+
+<p>The object of the meeting was stated by Mr. <persName key="Chapman, Charles">Charles Chapman</persName>.</p>
+
+<p><seg type="Source" subtype="Warn"><seg type="Source" subtype="Attributed_Powers">Mr. <persName key="Wallace, W. A.">W. A. Wallace</persName> read the statements of Messrs. <persName key="Powers, George">Powers</persName>, of Arkansas, and <persName key="Warn, P. M.">Warn</persName>, of Genessee, N.Y., which will be found elsewhere.</seg></seg></p>
+
+<p>The meeting was then addressed, in a eloquent manner, by Dr. <persName key="Andrews, Dr.">Andrews</persName>, Messrs. <persName key="Sparks, Q. S.">Sparks</persName>, <persName key="Margrudge">Margrudge</persName>, <persName key="Chapman, Charles">Chapman</persName>, and others.</p>
+
+<p>Upon the motion of Mr. <persName key="Sparks, Q. S.">Sparks</persName>, a committee of five, consisting of Messrs. <persName key="Sparks, Q. S.">Q. S. Sparks</persName>, <persName key="Wallace, W. A.">W. A. Wallace</persName>, Dr. <persName key="Andrews, Dr.">Andrews</persName>, <persName key="Drown, Ezra">Ezra Drown</persName>, and <persName key="Twist, W. W.">W. W. Twist</persName>, was appointed to draft resolutions expressive of the sense of the meeting, and to report at an <choice><sic>adjeurned</sic><corr>adjourned</corr></choice> meeting:</p>
+
+<p>Meeting adjourned to 13th inst., at 8 o'clock P.M.<lb/>
+	October 13, 1857. </p>
+
+<p>Meeting met pursuant to adjournment. Committee reported the following preamble and resolutions, which were unanimously adopted:&#8212;</p>
+
+<p>WHEREAS, After a careful examination into all the circumstances connected with the late horrible massacre <seg type="Massacre" subtype="Location">in <placeName type="state" key="Utah Territory">Utah Territory</placeName></seg>, <seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS">we firmly believe the atrocious act was perpetrated by the Mormons, and their allies the Indians</seg></seg></seg>; and<lb/></p>
+
+<p><seg type="Coverage" subtype="California"><seg type="Context" subtype="TerritorialAdministration">WHEREAS, We perceive the rapidly gathering cloud of troubles caused by a long, undisturbed, <choice><sic>systemized</sic><corr>systemic</corr></choice> course of thefts, robberies, and murders, promoted and sanctioned by their leader, and head prophet, <persName key="Young, Brigham">Brigham Young</persName>, together with the Elders and followers of the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormon Church</orgName>, upon American citizens, who necessity has compelled to pass through their Territory.<seg type="Context" subtype="UtahWar"> Aware of their bitter hostility to our republican government, and all its Institutions; their rejection, insult, oppression, and in some cases murder, of the Federal officers, sent by the President to enforce the laws of the United States; </seg>believing that <seg type="Massacre" subtype="Casualties">the late massacre in cold blood of one hundred and eighteen persons, included in which number, were sixty women and children</seg>, <seg type="Context" subtype="WesternViolence">is but the commencement of a series of such fiendish atrocities that the many emigrant trains, now on their way from the Western States to California, are liable to meet the same fate</seg>;</seg> that unless speedy measures are taken by the Government of the United States, the tide of emigration by this route will be entirely stopped.</seg></p>
+
+<p><seg type="Coverage" subtype="California"><seg type="Reaction" subtype="FederalInvestigation"><seg type="Reaction" subtype="MilitaryRetaliation">Therefore, be it resolved, That we respectfully petition the President of the United States, to exert the authority vested in him by the Constitution; that prompt measures may be taken for the punishment of the authors of the recent appalling and wholesale butchery of innocent men, women and children.</seg></seg></seg></p>
+
+<p><seg type="Reaction" subtype="StateInvestigation">Resolved, That as there are at the present time, a large community of Mormons residing in the adjoining county of <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, many of whom are living in open violation of one the most important and scared laws of our State.</seg></p>
+
+<p><seg type="Reaction" subtype="StateInvestigation">Be it Resolved, That we hereby respectfully request the Chief Executive of this State, to enforce its laws upon the people.</seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">Resolved, That we hold ourselves ready at all times to respond to the call of the proper authority, to assist, if necessary, in enforcing obedience to the laws.</seg></p>
+
+<p>Upon motions, ordered that the proceedings be printed in the <hi rend="italic">Los Angeles Star</hi> and <hi rend="italic">El Clamor Publico</hi>.</p>
+
+<p>Meeting adjourned <hi rend="italic">sine die</hi>.<lb/></p>
+
+<closer>
+<signed><persName key="Whitman, George N.">GEORGE N. WHITMAN</persName>, Chairman.</signed><lb/>
+<signed><persName key="Peterson, William H.">Wm. H. PETERSON</persName>, Secretary</signed><lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI>

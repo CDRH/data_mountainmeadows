@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.paddock.1879">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">In the Toils: or, Martyrs of the Latter Days</title>
+                <title level="m" type="sub"></title>
+                <author><roleName type="honorific">Mrs.</roleName> <forename>A.</forename> <forename type="middle">G.</forename> <addName>[Cornelia]</addName> <surname>Paddock</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.paddock.1879</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">In the Toils: or, Martyrs of the Latter Days</title>
+                    <author><roleName type="honorific">Mrs.</roleName> <forename>A.</forename> <forename type="middle">G.</forename> <addName>[Cornelia]</addName> <surname>Paddock</surname></author>
+                    <publisher>Dixon &amp; Shepard</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>226-235</extent>
+                    <date when="1879">1879</date>
+                    <note type="source">Mrs. A. G. [Cornelia] Paddock. <hi rend="italic">In the Toils: or, Martyrs of the Latter Days.</hi> Chicago, IL: Dixon &amp; Shepard, 1879. 226-235. 
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>                
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-11-29"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+    
+<div1 type="chapter">
+
+<pb n="226" xml:id="mmm.fiction.paddock.1887.235"/>
+
+<head>PART II.&#8212;Chapter V.</head>
+
+<head>THE MOUNTAIN MEADOW MASSACRE.</head>
+
+<p><seg type="Massacre" subtype="Location">Nearly three hundred miles south of Great Salt Lake, and not far from the line which divides <placeName type="state" key="Utah Territory">Utah</placeName> and <placeName type="state" key="Arizona">Arizona</placeName>, lies what is well named <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>,&#8212;a valley thousands of feet above the level of the sea; a grassy park, walled in by the peaks of the Sierras.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">The streams which feed the Colorado and Rio Virgin have their source here. Mere rivulets they are, tiny threads of silver, almost hidden by the tall rich grass.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">Myriads of wild flowers, wonderfully beautiful in form and coloring, dot the surface of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> and bloom and die unnoted,&#8212;for the solitude is seldom broken human foot-steps.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">To the traveler whom chance may lead thither, the mountain valley seems the abode of Silence and Peace; and so it seemed to <seg type="Massacre" subtype="Survivors">the company of emigrants</seg>, who reached it, tired and travel worn, <seg type="Emigrants" subtype="Route">after their long march through an enemy's country</seg>.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Casualties">The party whose sudden and mysterious disappearance from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> gave so much anxiety to some who hoped for help from them</seg>, had traveled as fast as <seg type="Massacre" subtype="Spoils">their tired animals</seg> could be urged to go, through <placeName type="state" key="Utah Territory">the inhospitable Territory</placeName> in which they found themselves, and <seg type="Massacre" subtype="Dates">early in September</seg> arrived at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> where they hoped to rest and recruit themselves before starting to cross the Desert.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">It seemed to them, as they entered the narrow defile
+
+<pb n="227" xml:id="mmm.fiction.paddock.1887.236"/>
+                
+leading into the park, that they had at length found a haven of safety, and they pitched their camp and lay down to sleep that night with thankful hearts. The next day passed quietly and with no foreboding of danger on the part of the emigrants. When night fell again, they prepared for rest without taking any precaution save such as had been their custom throughout the journey. Two men only were left on watch, one at the camp, and one where <seg type="Massacre" subtype="Spoils">their animals were corralled, a few hundred yards away</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">The hours of the night wore on. The stars that rose over the valley when they lay down to rest, looked from mid-heaven upon the sleeping company,&#8212;mothers with their babes nestled in their arms, children breathing softly in unbroken slumber of youth and health, and strong men wrapped in oblivion of the day's fatiguing cares.</seg></p>
+
+<p>Midnight and all is well!</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">But in the nearest settlements might be heard the stealthy tread of armed assassins, and half-suppressed sounds of warlike preparations.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">The Nauvoo Legion, obedient to "orders from head-quarters," have surrounded <seg type="Massacre" subtype="Casualties">the unsuspecting emigrants</seg>, and while they sleep, the plot for their destruction is maturing.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">A portion of the Legion painted and disguised as Indians, have been sent on in company with savages less cruel than themselves to attack the train. The remaining companies of the Mormon militia have other orders.</seg></seg></p>
+
+<p>As the first glimmer of dawn appeared in the sky, the guard at the emigrants camp discerned dark forms moving on the hill-sides around them. Fearing, he scarce knew what, he aroused his comrades.</p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">"Indians," was the word passed from lip to lip, as the figures showed more plainly in the growing light.</seg></p>
+                    
+<p><seg type="Massacre" subtype="Battle">Before the sun rose the scattering forms in sights had
+
+<pb n="228" xml:id="mmm.fiction.paddock.1887.237"/>
+                
+increased to scores, and as an attack was plainly intended, a barricade was hastily formed with the wagons of the company, and <seg type="Massacre" subtype="Casualties">manned by husbands and fathers, who knew that on the issue of the fight depended the safety of the lives dearest to them</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Their hurried preparations for defence were scarcely concluded, when the sharp crack of rides and the whizzing of bullets announced that the battle had begun.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">It was already only too plain that their assailants greatly outnumbered them, and from savages, as they supposed them to be, no quarter was expected.</seg> It was a fight against desperate odds, but love stronger than death nerved their arms and strengthened their hearts.</seg></seg></p>
+
+<p>Let the father who reads these pages by his own fireside, with the bright heads of his little children clustering round him, ask himself against how great odds <hi rend="italic">he</hi> could fight, if a cruel and lingering death menaced his darlings.</p>
+
+<p>Let him take his youngest born on his knee and while the soft, baby eyes are uplifted to his, let him measure, if he can, the anguish of <seg type="Massacre" subtype="Casualties">those fathers who turned from a last look at just such faces, to meet the fierce onset of their murderous foes</seg>.</p>
+
+<p><seg type="Massacre" subtype="Battle">All day long the unequal battle raged. At nightfall the fire from the attacking party slackened, but the light from piles of burning brushwood showed that they still surrounded the emigrant's camp on every side.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Before sunrise, a murderous rain of bullets commenced, and again continued till nightfall.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Access to the springs and streams of water was now cut off and the horrors of death from thirst stared them in the face, but they fought with desperate courage, and when the sun went down the second day, still held their position, and kept the foe at bay.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The morning of the third day found them worn, exhausted,
+                   
+<pb n="229" xml:id="mmm.fiction.paddock.1887.238"/>
+                
+tortured by burning thirst, but with hearts as undaunted as ever.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Late in the afternoon, the steady firing of the besiegers ceased, and when they looked out to ascertain the cause, they saw, oh joy! a body of white men entering the valley, their leader bearing a dag of truce.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="IndiansIndependently">Be it remembered, the emigrants had never doubted that those who attacked them were Indians</seg>, and the sight of white men, coming, as they believed, to their rescue, was welcome as a vision of angels.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">Unbounded rejoicing now took the place of despair. <seg type="Massacre" subtype="Casualties">Mothers, who during all those dreadful days had knelt with their babes in their arms and besieged heaven with agonized prayers, began to pour out thanksgivings with a rain of grateful tears. Strong men, who had kept up the desperate light without wavering for a moment, broke down at the prospect of deliverance and wept like children.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">In answer to the flag of truce, a little girl was dressed in white and placed on one of the wagons.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">In view of what followed, this act was full of unutterable pathos.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">Truly, they had decked a lamb for sacrifice.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The white men, as they approached the camp, proved to be a detachment of Mormon militia headed by their officers, who were likewise the Bishops of the surrounding settlements.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">After a brief parley with these officers the beleagured emigrants, seeing no other hope of saving their wives, accept the terms, which they proposed. These were, that <seg type="Massacre" subtype="Spoils">they should surrender all their possessions <seg type="Blame" subtype="IndiansIndependently">to the "Indians,"</seg> stack their arms</seg>, and march out of the valley under the protection of the militia.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">After making this surrender, they were divided into three companies. The <seg type="Massacre" subtype="Casualties">men</seg> went first, under the escort of a
+
+<pb n="230" xml:id="mmm.fiction.paddock.1887.239"/>
+                
+detachment of the Nauvoo Legion. The <seg type="Massacre" subtype="Casualties">women and children</seg> followed at some distance, and a wagon containing <seg type="Massacre" subtype="Casualties">the wounded</seg> brought up the rear.</seg></p>
+ 
+<p><seg type="Reaction" subtype="Silence">And now comes the blackest page in this chapter of treachery and murder; a page that the most callous historian might shrink from recording.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">At a given signal from the officer in command, <seg type="Massacre" subtype="Casualties">the unarmed men, who were being marched out under guard were shot down like dogs, and when the last one lay dead or dying on the bloody sod, the slaughter of the women and children and the butchery of the wounded began</seg>.</seg></seg></p>
+
+<milestone unit="section" rend="stars"/>
+                    
+<p><seg type="Reaction" subtype="Silence">The closing atrocities of that day of blood may not be written nor told.</seg></p>
+
+<p>When the sun set that night upon the reddened and trampled <geogName type="valley" key="Mountain Meadows">Meadows</geogName>, <seg type="Massacre" subtype="Casualties">one hundred and twenty corpses strewed the ground. <seg type="Massacre" subtype="Aftermath">The men lay where they fell, in pools of stiffening gore. The bodies of the women and children were scattered over the hillside, toward which they fled in their frantic fear. Away to the north of the camp, half hidden by a clump of bushes, lay Margaret Cleveland and her daughter, still clapsed in each others arms. A merciful bullet, from the gun of the nearest savage, had passed through the body of the child and entered the mother's heart, sparing both a more horrible fate.</seg></seg></p>
+                    
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">As the veil of night and silence fell upon the awful scene, the murderers, encamped just outside the valley, gathered up the money and jewels taken from their victims and delivered them to the officer, in command.</seg> Among those who come on this business was one who asked to speak apart with the Colonel. "Brother <persName key="Dame, William H.">Dame</persName>" he said, "I wish you'd tell me what to do with that white-livered chap that was send down from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>. He fainted away at the first smell of blood, and was brought from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>
+                    
+<pb n="231" xml:id="mmm.fiction.paddock.1887.240"/>
+
+in my wagon. He's a layin' there now, sick with a fever or somethin' worse, it seems like, and ravin' about 'murder' and all that. Sech kid-glove gentry air no manner o' count when there's rough work on hand. I wonder who was fool enough to send him."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"That's none of you business," was the curt rejoinder, "I will go and see him. Lead on."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It was a walk of nearly a quarter of a mile from the "Colonel's" headquarters to the camp-fire of his subordinate, where lying in a covered farm wagon, Charles Wallace alternately raved in delirium, or moaned in a stupor that was not deep enough to shut out the awful sights which had burned themselves in upon his brain.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"He talks altogether too much for a sick man. Shouldn't wonder if I was obliged to give him something to make him sleep soundly" said the Colonel grimly.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Then after a few minutes' reflection he added:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Stay, I have thought of a plan. There is nobody here to be disturbed by his talk to-night, and in the morning you can take him to Bill Stewart's ranch down the river. His woman there is Danish and won't understand a word that may be said. I will send Bill down himself some time to-morrow, and under his care our fine gentlemen will do well enough. How long has he been with you?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Since yesterday. I was in the same squad with him when we got our orders to go and help the emigrants? He seemed mighty uneasy, and asked a heap of questions about the errand we had been sent on. <seg type="Massacre" subtype="RescueAttempt"><seg type="Blame" subtype="IndiansIndependently">Brother Allen told him the Injuns was usin' up the emigrants</seg>, and we was goin' to try and save them.</seg> I did'nt say anything. for I wa'ant asked to, and besides I make it a pint to let folks do their own lyin'."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"You've got altogether too free a tongue, Brother Jim. Mind that it don't get you into trouble some day."</seg></p>
+
+<pb n="232" xml:id="mmm.fiction.paddock.1887.241"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Oh as to that I always have a care where I do my talkin'.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Well as I was sayin', this new recruit, Wallace I believe they call him, was uncommon pertickler to know why we had been ordered out, and I don't think he felt just satisfied when them chaps stacked their arms, but he kept his place in the ranks till he heard the word 'fire,' and then his gun dropped from his hands. Five minutes after, when the smoke cleared so's to show what the shot had done, he dropped too, and rolled almost under my feet.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"I picked him up, (there wa'ant more heft to him than a girl), and dragged him out of the way, and after it was all over, old man Davis helped carry him to one of the wagons, I had'nt any orders to do it, but seein' he was in Colonel Rick's company and they made somethin' of him, I sposed they'd want him looked after. They put him in my wagon after they got to my camp."</seg></p>
+                    
+<p><seg type="Blame" subtype="LDS_LDS">"Well, all you have to do is to obey orders. Take care of him yourself to-night and don't stop anywhere on your way to Stewart's to-morrow."</seg></p>
+                    
+<p>With these words the "Colonel" turned away, leaving Wallace in the hands in which he found him; and here for the present we will leave him also, and go back a couple of months to the night on which poor Pauline met her fate.</p>
+                    
+<p>It will be remembered that on the evening referred to Wallace received a summons to attend a meeting of the brethren, to be held at the house of the Ward Bishop. This was no uncommon occurrence, and at such meetings hitherto, no business of very great importance had been transacted.</p>
+                    
+<p>On this particular night, Wallace went as usual without knowing or caring particularly why he was sent for. When he arrived he found the room well filled with men, most of whom were strangers to him. Several persons whom he
+
+<pb n="233" xml:id="mmm.fiction.paddock.1887.242"/>                
+
+knew to belong to the police force were also present, occupying the seats next the door.</p>
+                   
+<p>There was a little talking in a subdued tone, and in answer to a question from Wallace, the Bishop said they were waiting for the brother who was to speak to them.</p>
+                    
+<p>Wallace sat with his back to the door and did not notice when it was opened, or hear the sound of footsteps, until the Bishop, turning round, offered his hand to some one who had entered, saying, "good evening, Brother Harwood."</p>
+                    
+<p>Raising his eyes with a start, he encountered the fixed gaze of the man whom he supposed to be hundreds of miles away. Somehow, this unexpected meeting with the returned missionary gave the convert less pleasure than might be supposed;&#8212;he was even conscious of a shiver of dread and repulsion, when the new-comer grasped his hand, with great seeming cordiality, and inquired after his family.</p>
+
+<p>By this time, several other brethren had gathered round, and Harwood, after exchanging greetings with them, asked the Bishop to open the meeting with prayer.</p>
+                   
+<p>Then rising, and speaking in a low voice, scarcely above a whisper but so distinctly that no one could lose a word, he said:</p>
+
+<p>"Brethren when the Lord gave us these valleys of the mountains for an inheritance, he commanded us not to suffer sin among us. If we disobey this command, we lose all he has given us.</p>
+
+<p>"Do you ask how we are to keep it? Why, as his people of old kept it;&#8212;by cutting off sinners from the earth. If we find one among us who will not keep the law and will not be admonished, it is better for that one to die than for the whole people to perish.</p>
+                    
+<p>"It is to decide the fate of such a one that we are met to-night."</p>
+                    
+<p>For half an hour he continued talking in the same strain,
+                    
+<pb n="234" xml:id="mmm.fiction.paddock.1887.243"/>
+
+withholding the name of the doomed one until the last sentence, but when he pronounced the final words:</p>
+                    
+<p>"All of you whose mind it is that Pauline R,&#8212;should be cut off for her sins, raise your right hand,"&#8212;it was evident that he knew his audience, for every hand was raised. Wallace sat directly before the speaker, whose baleful eyes, fixed on him with mesmeric power, seemed to paralyze his faculties and control his will. When the fatal words were spoken that doomed a fellow creature to death, his hand was raised with the others, but dropped immediately by his side.</p>
+
+<p>Staring straight before him, conscious of nothing but the glittering eyes that held him, he heard, without comprehending the next words, addressed to the policemen.</p>
+
+<p>"Brethren do your duty."</p>
+
+<p>There was a little stir near the door, as the men spoken to, passed out, then the voice of the leader was heard again.</p>
+
+<p>"Let us pray."</p>
+
+<p>And in awful though possibly unconscious mockery of the Being whose laws they were breaking, the Bishop, again prayed for a blessing on the night's work.</p>
+
+<p>It was not until the meeting broke up, and he found himself alone, with the cool breeze from the mountains blowing in his face, that Wallace awoke as from a frightful dream, and began to realize what he had done.</p>
+
+<p>"I am a murderer," he said half aloud;&#8212;and he held up his hands in the moonlight, as though expecting to find the stain of blood on them.</p>
+
+<p>With his brain in a whirl, feeling every moment as though he should go mad, and yet conscious of the necessity of silence and watchfulness over himself he turned his steps homeward.</p>
+
+<p>In the midst of his mental confusion and bewilderment,
+
+<pb n="235" xml:id="mmm.fiction.paddock.1887.244"/>                    
+                    
+one thought was only too clear. He was accessory to the murder of the unhappy girl who was perhaps already in the hands of her assassins;&#8212;and even while he was striving to banish the dreadful picture conjured up by his tortured brain, her cry for help rang out on the still midnight air.</p>
+
+<p>Fairly stopping his ears, he hurried from the spot to his own door, there to be met, as we have seen, by his wife's accusing question: "Is it possible that you have witnessed a murder without raising a hand to save the victim?"</p>
+
+<p>He passed the following week in a state bordering on insanity, and finally settled down into a state of mind which if he had been forced to describe, he would have expressed somewhat in this manner:</p>
+
+<p>"I am not a free agent. I came here consenting to subject my reason to my faith. I have no right to reason about this matter. If the girl was guilty as alleged, it is not for me to say that the Priesthood had no right to decree her punishment. I will leave the responsibility where it belongs&#8212;with those who planned the deed." Full of contradictions as this attempt at self-justification may appear, it is a fair sample of the defence made by Wallace's fellow-believers who have been guilty of actual crime; and these may be numbered by thousands.</p>
+                    
+<p>Still, in spite of all his efforts to silence reason and conscience, he could not wholly put away the awful feeling of blood-guiltiness which haunted him at first.</p>
+                    
+<p>Besides this there was the fear, always present with him now, that he might be called at any day to assist in some other deed of darkness, and the consciousness that he would not dare to disobey such a call.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">No wonder then that after the experience of the past two months, the little which he saw of the bloody tragedy of <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> was sufficient to strike him down senseless at the feet of the murderers who called him "Brother!"</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

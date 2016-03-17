@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18750730">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Mountain Meadow Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+	    	<edition>
+		    <date>2012</date>
+	    	</edition>
+	   </editionStmt>
+	   <publicationStmt>
+		<idno>mmm.news.nyt.18750730</idno>
+
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">New York Times</title>
+		    <title level="a" type="main">THE MOUNTAIN MEADOW MASSACRE.</title>
+		    <title level="a" type="sub">OPENING FOR THE DEFENSE&#8212;THEIR THEORY OF THE CRIME.</title>
+		    <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1875-07-30">July 30, 1875</date>
+		</bibl>
+	    </sourceDesc>
+	    
+	    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	   	<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2011-04-25"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2009-10-01"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+	
+	<pb n="unknown" xml:id="mmm.news.nyt.18750730.001"/>
+	
+<head type="main">THE MOUNTAIN MEADOW MASSACRE.</head>
+<head type="sub">OPENING FOR THE DEFENSE&#8212;THEIR THEORY OF THE CRIME.</head>
+
+<p><placeName type="settlement" key="Beaver, UT">BEAVER</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, July 29.&#8212;In the Mountain Meadow massacre trial, <persName key="Spicer, Wells">Mr. Spicer</persName> occupied all the morning in addressing the jury for the defense. <seg type="Blame" subtype="EmigrantBehavior">He stated the theory of the defense to be that the emigrants, by their own misconduct at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, so<seg type="Blame" subtype="IndiansIndependently">enraged the Indians that they sent runners ahead, gathering help from other tribes, till at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> they numbered 400 or 500</seg>; <seg type="Encounter" subtype="TradeLDS">that the whites did sell supplies to the emigrants and treated them well</seg>; that <persName key="Lee, John D.">Lee</persName> held no military or church office, but was simply a farmer to the Indians; that on the grounds he tried to protect the emigrants, and wept when the massacre was proposed; <seg type="Massacre" subtype="Surrender">that not <persName key="Lee, John D.">Lee</persName>, but William Botement, went with the flag of truce, and <persName key="Lee, John D.">Lee</persName> went to the corral and stayed there two hours, believing the treaty was bona fide</seg> ; that <seg type="Massacre" subtype="Planning">while in the emigrant's corral, <persName key="Haight, Isaac C.">Haight</persName>, <persName key="Higbee, John H.">Higbee</persName>, and <persName key="Klingensmith, Philip">Klingen Smith</persName> were plotting to kill them</seg>; <seg type="Massacre" subtype="IndiansIndependently"><seg type="Blame" subtype="LDS_LDS">that what the whites did was through fear of death at the hands of the Indians, who threatened that if they did not help to kill the emigrants they would kill them.</seg></seg></seg></p>
+
+<p>At the conclusion of <persName key="Spicer, Wells">Mr. Spicer</persName>'s address, <persName key="Pollock, Samuel">Samuel Pollock</persName> was called and sworn: <persName key="Curtis, Ezra">Ezra Curtis</persName>, Lieu-tenant of the Militia, called him out from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to go to <seg type="Massacre" subtype="Location">the Meadows</seg>; <seg type="Massacre" subtype="Aftermath">was told to save the emigrants and bury the dead</seg>; took guns and spades; lay in camp in sight of the emigrants; <seg type="Blame" subtype="IndiansIndependently">saw no one but Indians who were shooting from various points</seg>; next morning <persName key="Lee, John D.">Lee</persName> arrived and more men and more Indians; <seg type="Massacre" subtype="Surrender">the flag of truce went out and the emigrants' messenger met it; saw the emigrants come out soon ahead of these men and walk with the Militia</seg>; hoard the report of guns, but could not then see them; when I did sue them <seg type="Blame" subtype="IndiansIndependently">I saw the Indians rushing in</seg>.</p>
+
+<note>Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+</note>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.ct.18720930">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	    <idno>mmm.news.ct.18720930</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+
+		<bibl>
+		    <title level="j">Chicago Tribune</title>
+		    <title level="a" type="main">Utah</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Chicago, IL</pubPlace>
+		    <date when="1872-09-30">September 30, 1872</date>
+		</bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		<term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		<term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment and Concept Highlighting</change>
+	<change when="2010-04-26"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.ct.18720930.001"/>
+
+<head type="main">UTAH.</head>
+
+<head type="sub">Mormon Conference&#8212;Railroad Enterprises&#8212;The Mountain Meadow Massacre&#8212;Suits to be Commenced.</head>
+
+<dateline><placeName type="settlement" key="Salt Lake City, UT">SALT LAKE</placeName> Sept 28</dateline><p>&#8212;Great preparations are making for the Mormon Semi-annual Conference, on Oct. 6.</p>
+
+<p>Work on the narrow-gauge railway from Utah Southern to the mining district in Bingham Canon is to be commenced immediately. The distance is 17 miles. The American Fork Narrow-Gauge is finished 20 miles. A road from Echo, on the line of the Union Pacific, through Parly Park Mine to Provo, is now under way.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The Nevada papers indorse ex-Bishop <persName key="Klingensmith, Philip">Smith</persName> who made the affidavit of the Mountain meadow massacre, and deny the assertion of the Mormon organs that he is either a murderer or a perjurer. The Mormon press does not contradict the truth of the affidavit.</seg></p>
+
+<p>Suits are about to be commenced against the Mormon city authorities for the recent destruction of property in houses of ill-fame.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18650203">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Causes and Effects</title>
+		<title level="m" type="sub"></title>
+	    <author></author>
+	        <author></author>
+	        <principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+	        <edition>
+	            <date>2012</date>
+	        </edition>
+	    </editionStmt>
+	    <publicationStmt>
+	      			<idno>mmm.news.uv.18650203</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+
+		<bibl>
+		    <title level="j">Union Vedette</title>
+		    <title level="a" type="main">Causes and Effects</title>
+		    <author></author>
+		    <pubPlace>Camp Douglas, UT</pubPlace>
+		    <date when="1865-02-03">February 3, 1865</date>
+		</bibl>
+  	    </sourceDesc>
+    
+	</fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enchancement</change>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+  	<change when="2010-04-01"><name>Kelsey F. Harris</name> Initial Encoding</change>
+  	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18650203.001"/>
+
+<head>Causes and Effects.</head>
+
+<p><seg type="Context" subtype="Polygamy">When the Sanhedrim of Polygamy decided to posses themselves of the estates
+of the devoted dupes, who had followed their fortunes hither, to enforce compliance with their demands they prepared themselves with all the devilish enginery their fruitful inventions could suggest to excite the proud fanaticism of zealots and intimidate any whose suspicions became aroused by this daring scheme of wholesale spoliation.  That a fraud so stupendous could not be accomplished without a struggle, which would call into exercise all the powers of church authority and exhaust every weapon priestly ingenuity could invent, may well be supposed.</seg></p>
+
+<p>The plan of operations was fully organized and inaugurated at least as early as the spring of 1854, as foreshadowed in a discourse by <persName key="Grant, Jedediah M.">Jedediah M. Grant</persName>, than whom a more hardened criminal never went unhung, if his atrocious sentiments are at all indicative of the depravity of the man.  From that time forth, the files of the <orgName type="newspaper" key="Desert News"><hi rend="italic">Deseret News</hi></orgName>, in which the harangues of the leading spir-<unclear></unclear> appear, teem with multiplied evidence that there was no relenting on their part, but that the scheme of high-handed robbery was being carried out to the very utmost of their power, limited only by popular endurance.  Their so-called sermons through the three succeeding years consist of little else than downright abuse of the latter in their most outrageous terms.  The vocabulary of vituperation is exhausted in the efforts of those disinterested advocates, and the ears of their unfortunate victims are stunned with a clamor of mingled appeals to their fanaticism and anathemas upon those who should prove unfaithful.</p>
+
+<p>It is not to be supposed that an entire people, thus outraged, would be brought to terms without much resistance.  Indeed, unmistakable symptoms are evinced of a disposition on the part of many to revolt, or to attempt escape, at least from this unsatisfied and merciless monster of extortion, which had not only already exacted its tenth pound of flesh but, not claimed a bond on futurity for all they might ever hope to possess.</p>
+
+<p>But those who had set their greedy eyes on this golden prize were not to be easily foiled in their evil designs, nor would without an effort allow it to slip from their ravenous clutches.  This was breaking their covenant, was apostatizing,  in short, and these refractory traitors must be brought under subjugation and taught the duty of implicit obedience to the mandates of their masters, however seeping or inhuman.  The Mormon <q>"reformation"</q> began and followed
+its ruthless course in a reign of terror utterly without parallel in American
+history.</p>
+
+<p>Then <persName key="Young, Brigham">Brigham Young</persName>, then <persName key="Grant, Jedediah M.">Jedediah M. Grant</persName> and we know not how many of lesser note, with fiendish diabolism which must have challenged the admiration
+of the arch-demon himself, stood up and in the name of that Heaven their ferocity blasphemed, incited their deluded followers to nameless deeds of rapine and blood.</p>
+
+<p>This murderous purpose was urged by the man, who now stands at the head of the Mormon Church in <placeName type="state" key="Utah Territory">Utah</placeName>, with subtle devices of argument that would not have dishonored the diplomacy of the very Devil.  Who can read this awful record without feeling his blood run cold in his veins with horror?  We defy any to so
+read in the light of events that swiftly followed, and escape the conviction that the instigators are guilty accessories in the tragedies that ensued.</p>
+
+<p>No mark the coincidence.  On the 21st day of September, 1856, the two men above named, advocated the immolation<cb n="2" />of apostates.  On the 2d of November succeeding, <persName key="Young, Brigham">Brigham Young</persName> said <q>"to the authorities, to the elders of Israel, etc::"</q> <q>"If you will appoint meetings <hi rend="italic">and have only those present whom we wish to be there, I will then tell you how to commence a reformation.</hi>"</q>  On the 8th of February, 1857, three months later, he taught the people with specious sophistries, which sought to disguise the horrid aspect of murder, how to <hi rend="italic">love their neighbors and their enemies</hi> by shedding their blood to save their souls.</p>
+
+<p>WE call especial attention to this discourse, its date, and the results which followed.  <hi rend="italic">The bolt launched from the Tabernacle on that day fell in <placeName type="settlement" key="Springville, UT">Springville</placeName></hi>  on the 11th of March, one month later. <seg type="Context" subtype="ParrishMurder"><seg type="Context" subtype="ParrishMurder">The carnival of crime commenced in the Parrish tragedy</seg></seg>, and culminated <seg type="Massacre" subtype="Dates">on the 19th day of September of the same year</seg> in that frightful jubilee of fiends, known as the Mountain Meadow Massacre.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">These are some of the facts, the accusing facts of history.  They point with
+unerring finger to the criminal.  Had any attempt, or even the pretense of an attempt, to bring the perpetrators to punishment ever been made, the chain of evidence might have seemed less complete, but it is a fact of startling significance
+that no effort of the kind has been made by Mormons, and when others sought to ferret out the offenders, they were thwarted in the search.  Others may ascribe all these coincidences to chance, to us they seem like effects, so closely united to their causes that only one willfully blind can fail to trace the connection.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

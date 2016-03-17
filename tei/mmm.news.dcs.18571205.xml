@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dcs.18571205">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Late Massacre of Emigrants in the Mormon Settlements</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+		<edition>
+		    <date>2012</date>
+		</edition>
+	    </editionStmt>
+	    <publicationStmt>
+	    <idno>mmm.news.dcs.18571205</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Daily Chronicle &amp; Sentinel</title>
+		<title level="a" type="main">THE LATE MASSACRE OF EMIGRANTS IN THE MORMON SETTLEMENTS</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Augusta, GA</pubPlace>
+		<date when="1857-12-05">December 5, 1857</date>
+	   </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+		<keywords scheme="original" n="category">
+			<term>newspaper</term>
+		</keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	    	<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-08-14"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-08-14"><name>Katie Heupel</name> Original Transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+	
+	<pb n="unknown" xml:id="mmm.news.dcs.18571205.001"/>
+
+<head>THE LATE MASSACRE OF EMIGRANTS IN THE MORMON SETTLEMENTS&#8212;</head>
+
+<p><seg type="Source" subtype="Government">An officer of the army who was stationed nearly a year in <placeName type="state" key="Utah Territory">Utah</placeName>, and who passed over the <placeName type="route" key="Spanish Trail"><hi rend="italic">Spanish trail</hi></placeName>&#8212;from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName> in command of a detachment of United States troops in 1855&#8212;informs us that he camped for several days <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, the scene of the late horrible massacre</seg> of <seg type="Massacre" subtype="Casualties">over one hundred emigrants</seg>, and that <seg type="Blame" subtype="LDS_LDS">there is no room for the shadow of a doubt but that the Mormons were cognizant of and instigated this horrible butchery.</seg>  <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="IndianRelationsLDS">The Indians in the vicinity of <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and all the southern settlements extending to the <geogName type="waterway" key="Virgin River">Virgin river</geogName>, are entirely under the control of the Mormons; the chiefs are recognized member of the Mormon church, and missionaries are constantly residing with them.  He further informs us that it would be impossible for the Indians to plan an attack upon even a single train, for years no small party of Americans has ever been safe in travelling this route.  As a matter of necessity, all small trains have assumed the name of Mormons to travel safely.</seg>  These Indians are well armed with rifles, and supplied with ammunition by the Mormon, and at the time of the passage of the United States troops through their country in 1855 every effort was made by the Mormons to induce the Indians to attack them&#8212;and they were only prevented from so doing by the superior strength and great precaution shown by the troops.</seg>  This fact was communicated to the War Department at the time in an official report.</seg>&#8212;<hi rend="italic">N. Y. Jour. of Com.</hi></p>
+
+</div1>
+</body>
+</text>
+</TEI>

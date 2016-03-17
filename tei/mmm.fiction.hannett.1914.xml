@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.hannett.1914">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">In the Days of Brigham Young</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Arthur</forename> <surname>Thomas</surname> <addName>[Hannett]</addName></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.hannett.1914</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">In the Days of Brigham Young</title>
+                    <author><forename>Arthur</forename> <surname>Thomas</surname> <addName>[Hannett]</addName></author>
+                    <publisher>Broadway Publishing Company</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <extent>7-12</extent>
+                    <date when="1914">1914</date>
+                    <note type="source">Arthur Thomas [Hannett]. <hi rend="italic">In the Days of Brigham Young</hi>. New York: Broadway Publishing Company, 1914. 7-12.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2010-12-07"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="7" xml:id="mmm.fiction.hannett.1914.018"/>
+
+<head>CHAPTER II.</head>
+
+<p><seg type="Context" subtype="Polygamy"><hi rend="smallcaps">IN</hi> the little family circle, composed of mother, sister Ruth and me, life was peaceful and free from discord. But Henry Lorenzo found difficulty which called forth the exercise of all his diplomacy in keeping his less spiritually minded wives from quarreling. This was especially true of those who had personal charms and influence with him; each tried to obtain the most favors and good things for herself and children. There was seldom an open break, but always an undercurrent of strife and jealousy.</seg></p>
+    
+<p><seg type="Context" subtype="Polygamy">I recall the advent of the seventh wife when I was about fourteen years old, which caused a disturbance that was common. He installed the new "star" in a new addition, furnished in a manner considered sumptuous in our community, and provided her with a horse and carriage for her exclusive use. No comment was made as to the apartments, but the horse and wagon caused the undercurrent to appear on the surface in the shape of a violent domestic storm, owing to the jealousy of the hitherto favorite wife. She came to our apartments in a rage to pour out her troubles, as she knew that mother was the only one not glad to see her shorn of her power with the Lord of the household. It happened that he came in before mother calmed her, and a stormy scene ensued. Joseph assumed his best patriarchal dignity and evidently expected to put an end to the matter with a stern look and a few quotations from the book of Mormon. He was
+
+<pb n="8" xml:id="mmm.fiction.hannett.1914.019"/>
+
+unable, however, to lay hold offhand on a passage that warranted this providing one wife with a private carriage while the others walked, or rode with the whole family, if I may call our multitudinous household such; so he resorted to the never failing threat, that it was only by his consent, that she or any of his wives could hope to enjoy the kingdom of heaven. She retorted that she would rather smoulder in h&#8212;&#8212; than see the new wife enjoying a private carriage while she walked, and went out slamming the door. She never regained favor, and it is safe to say, that she is not one of his consorts in the world to come, if he has anything to say about it.</seg></p>
+
+<p>My first real adventure, arising out of the faith, it occurred when I was a lad of fourteen. One evening I was at a dance in the Stake house and had gone outside partly because I wanted to enjoy a breath of air, and partly because I was jealous of my oldest half-brother, who was dancing with a girl over whom I was having my first attack of love sickness. It was a warm evening in the early fall, and, seating myself on the ground with my back against a tree, I proceeded to nurse my wounded heart, and to plan some deed of valor that would call the attention of the lady of my desires to my superior qualities. I noticed two men seated in a wagon standing near, talking in low tones and thought I recognized two gentile cattle buyers who had been at the farm the day before to buy cattle. I was in no mood for company and continued to nurse my wounded feelings, and to plan some feat of daring, some deed of valor that would cause all "Zion," and incidentally, a particular young lady, to wonder. I had been occupied with such thoughts for perhaps ten minutes, when I caught a remark of one of the strangers that caused me to listen to them, tense with interest.</p>
+                
+<pb n="9" xml:id="mmm.fiction.hannett.1914.020"/>
+
+<p>"L. D. S., Latter Day Saints! Look at old Hank Lorenzo. Do you know what L. D. S. stands for as far as he is concemed? I'll tell you: 'Lorenzo draws the spoils.' Why, the old cuss has money enough to buy the biggest ranch west of the Mississippi River; and if he keeps on corraling wives he'll soon have enough human live-stock to graze it down. Did you see the old Turk patting that little fifteen year old girl on her pretty blonde head just as we came out? Hank has a weakness for blondes. <seg type="Context" subtype="Polygamy">I'll bet my profits on this trip against your old felt hat, that it will be revealed to Hank inside of a year, that it is the Lord's will that she should brighten up his crown a bit</seg>, and if there's any kicking, some one will stand a fine chance of being 'blood atoned.'"</p>
+
+<p>"Go easy; hold that bull's bellow of yours," the other stranger cautioned. "If some 'saint' hears you you will stand as good a chance for the atonement job as anyone."</p>
+
+<p>How dared these men speak thus of God's chosen people! I was paralyzed with anger and astonishment.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The first speaker continued in a more subdued tone. "The old rascal is a mixture of fox, billy goat and grizzly bear, with a man's body. He is an old timer &#8212;I have heard it pretty straight that he was the one that planned the 'Mountain Meadow Massacre,' and he sure looks like he would be up to such tricks."</seg></p>
+
+<p>His companion was uneasy and got out of the wagon, grumbling something unintelligible. The first speaker stretched his long limbs lazily and followed. My anger was at the boiling point and it suddenly occurred to me that this was the opportunity I was longing for, that God had sent these men that I might have an opportunity to prove my devotion to the faith, and win a place in His favor and in the
+
+<pb n="10" xml:id="mmm.fiction.hannett.1914.021"/>
+
+sight of man. With the rashness of youth and the strength of anger upon me, I sprang to my feet and confronted the strangers with clinched fists, and glared at the face of the man who had dared to speak slightingly of the things I held holy and sacred. They were evidently surprised, to put it mildly; and even in the dim moonlight I could see that they were considerably perturbed.</p>
+
+<p>"What's biting you, sonny?" drawled the one who had done the talking.</p>
+
+<p>I do not know what I hoped to accomplish alone and single-handed against two full grown men, but with no thought of consequences, I sprang at him, vainly endeavoring to strike him in the face.</p>
+
+<p>He grasped me by the front of my shirt and easily held me at a safe distance, saying, "Easy boy, you'll hurt yourself.”</p>
+
+<p>I began to bite, kick and scratch in impotent fury. The other man caught my hands and said soothingly: "What's the matter, boy, are you crazy?" and to his partner; "You have stirred this young whelp up and he will have the whole pack on us in a minute, and we'll be in a fine mess."</p>
+
+<p>For the first time it occurred to me to call for help, but exaggerated boyish pride came with the, thought. All this occurred within a few yards of the Stake House where the dance was going merrily forward. I struggled desperately, and evidently thinking I would cry out, one of them put his hand roughly over my mouth. I prayed silently as I struggled, that the Lord might give me strength even as he did David of old, so I might conquer and annihilate these ungodly giants. The hand on my mouth almost suffocated me. I succeeded in getting a hold on it with my teeth and bit deep with the strength of fury. I do not know whether the man I bit
+
+<pb n="11" xml:id="mmm.fiction.hannett.1914.022"/>
+
+struck me or hurled me against the wagon. I have a dim recollection of a shock, and remember nothing until I came to consciousness, lying on the ground near the wagon. At first I did not know where I was, but the sound of music and dancing quickly brought the realization of what had occurred. I was weak, sick, and trembling. All the fight had gone out of me leaving me as frightened as though I had wakened from a nightmare. I was conscious of a dull ache in the back of my head and felt there expecting to find it wet with blood, and was relieved to find only a good-sized lump. I stood up and started to go into the Stake House but changed my mind and directed my steps homeward.</p>
+
+<p>I found mother up working over her carpet loom. She was shocked at my appearance, which clearly indicated fighting, of which I had oftentimes been guilty. She said nothing as it was her custom (not prevalent among mothers) to pass judgment after she had learned the facts. When she had heard my story she kissed me, and set about administering all the home remedies available. By that time the wagon-load of people from our house who had been at the dance drove up, and mother called Henry Lorenzo that she might communicate something of importance to him. I heard him ask if I had returned, as they had missed me, and knew he was coming with reluctance, fearing, no doubt, that mother wanted to discuss some point of faith, as she often did at any hour, if troubled over some problem. He was very much surprised at my story, and I think he would have discredited it if it had not been for the sudden disappearance of the cattle-buyers, who were the guests of a neighbor. He administered a rebuke for my failing to come quickly to him and tell him what I had heard&#8212;tempered with a compliment for 
+
+<pb n="12" xml:id="mmm.fiction.hannett.1914.023"/>
+
+my zealous defense of him and the faith, and promised to take me to town the next day to a celebration, as a reward for my action.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

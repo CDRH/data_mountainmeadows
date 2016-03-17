@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.ellsworth.1972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Utah's Heritage</title>
+                <title level="m" type="sub"></title>
+                <author><forename>George</forename> <forename type="middle">S.</forename> <surname>Ellsworth</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.ellsworth.1972</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Utah's Heritage</title>
+                    <author><forename>George</forename> <forename type="middle">S.</forename> <surname>Ellsworth</surname></author>
+                    <publisher>Peregrine Smith, Inc.</publisher>
+                    <pubPlace>Santa Barbara, CA</pubPlace>
+                    <extent>216-217</extent>
+                    <date when="1972">1972</date>
+                    <note type="source">S. George Ellsworth. <hi rend="italic">Utah's Heritage.</hi> Santa Barbara, CA: Peregrine Smith, Inc., 1972. 216-17.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-06-28"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+<pb n="216" xml:id="mmm.uh.ellsworth.1972.216"/>
+
+<p><seg type="Context" subtype="UtahWar">The most terrible event of the Utah War took place <seg type="Massacre" subtype="Location">in southern <placeName type="state" key="Utah Territory">Utah</placeName> at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, about thirty-five miles southwest of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName></seg>. <seg type="Context" subtype="LDSPersecution">To alert the settlers to the invasion of <persName key="Johnston, Albert Sidney">Johnston</persName>'s army, <persName key="Smith, George A.">George A. Smith</persName>, founder of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and apostle to the southern settlements, spent August preaching fiery sermons and reminding the settlers of past persecutions, stirring them to resist the coming enemy.</seg></seg> About the same time a group of emigrants <seg type="Emigrants" subtype="Route">came through <placeName type="state" key="Utah Territory">Utah</placeName> en route to <placeName type="state" key="California">California</placeName></seg>, consisting of the Fancher train and <seg type="Blame" subtype="MissouriWildCats">a group of horsemen who called themselves "Missouri Wildcats."</seg> <seg type="Encounter" subtype="TradeLDS"><persName key="Smith, George A.">Smith</persName> had instructed the settlers to save all food stuffs and not to sell any to emigrants.</seg> <seg type="Blame" subtype="EmigrantBehavior"><seg type="Emigrants" subtype="StateAffiliationMissouri">This <placeName type="state" key="Missouri">Missouri</placeName> group</seg> missed this expected food supply and resented the Mormon action.</seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="MissouriWildCats">The "Wildcats" stirred up trouble: one claimed to have helped kill <persName key="Smith, Joseph">Joseph Smith</persName>; another wanted to go back and kill <persName key="Young, Brigham">Brigham Young</persName> and <persName key="Kimball, Heber C.">Heber C. Kimball</persName>. <seg type="Encounter" subtype="Poison">Settlers believed these men poisoned a spring resulting in the death of cattle and people, and that they fed poisoned beef to Indians, causing deaths.</seg></seg></seg> <seg type="Blame" subtype="IndiansIndependently">The Indians were enraged. <seg type="Context" subtype="IndianRelationsLDS">Governor <persName key="Young, Brigham">Young</persName> wondered whether or not the Indians could be controlled. He feared for the settlers. He had hoped for an alliance between Mormons and Indians against the army if necessary.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The settlers of southern <placeName type="state" key="Utah Territory">Utah</placeName> were already tense. <seg type="Context" subtype="IndianRelationsUS">Added to the threat of an army from the north was the possibility of an Indian war at home.</seg></seg> In this atmosphere southern <placeName type="state" key="Utah Territory">Utah</placeName> leaders met at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, Sunday afternoon, September 6. Some argued for vengeance, others for peace. A rider was sent to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to get <persName key="Young, Brigham">Brigham Young</persName>'s direction. The rider left on Monday and reached Governor <persName key="Young, Brigham">Young </persName>at noon on Thursday. Within the hour Governor <persName key="Young, Brigham">Young </persName> wrote instructions
+
+<pb n="217" xml:id="mmm.uh.ellsworth.1972.217"/>
+
+to let all emigrants pass through in peace and sent the rider back at top speed. But the rider arrived too late. On the same day the rider left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <seg type="Blame" subtype="IndiansIndependently">Indians attacked the emigrants at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. When word of the Indian attack reached <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, Mormon volunteers were sent to bury the dead. At night three emigrants slipped away to seek help from the people of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, but one was killed by Indian ambush, so the other two fled to <placeName type="state" key="California">California</placeName>. This event compounded the fears of Mormon military leaders that an Indian war would break out. With an army invading <placeName type="state" key="Utah Territory">Utah</placeName>, an Indian war had to be avoided at all costs.</seg> We do not know who decided what should follow, but orders were given and <seg type="Massacre" subtype="Dates">on Friday, September 11</seg>, Indians and men of the <placeName type="state" key="Utah Territory">Utah</placeName> militia went to the emigrant camp. <seg type="Massacre" subtype="Surrender">The emigrants (<seg type="Massacre" subtype="Casualties">about 120</seg>) were lured from their defenses, disarmed, and slain.</seg> <seg type="Massacre" subtype="Survivors">Seventeen children were spared and taken to the settlements.</seg> The affair is the darkest event in <placeName type="state" key="Utah Territory">Utah</placeName> history. <seg type="Context" subtype="UtahWar">It can be accounted for only in relation to the hysteria of war: <seg type="Blame" subtype="IndiansIndependently">the threat to life from an invasion from without and Indians at home who demanded vengeance on the emigrants or on the settlers.</seg></seg></p>
+
+</body>
+</text>
+</TEI>

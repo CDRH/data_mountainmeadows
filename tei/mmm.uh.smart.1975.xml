@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.smart.1975">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Deseret, 1776-1976: A Bicentennial Illustrated History of Utah by the Deseret News</title>
+                <title level="m" type="sub"></title>
+                <author><forename>William</forename> <forename type="middle">B.</forename> <surname>Smart and</surname></author>
+                <author><forename>Henry</forename> <forename type="middle">A.</forename> <surname>Smith</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.smart.1975</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Deseret, 1776-1976: A Bicentennial Illustrated History of Utah by the Deseret News</title>
+                    <author><forename>William</forename> <forename type="middle">B.</forename> <surname>Smart and</surname></author>
+                    <author><forename>Henry</forename> <forename type="middle">A.</forename> <surname>Smith</surname></author>
+                    <publisher>The Deseret News Publishing Company</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>73-76</extent>
+                    <date when="1975">1975</date>
+                    <note type="source">William B. Smart and Henry A. Smith. <hi rend="italic">Deseret, 1776-1976: A Bicentennial Illustrated History of Utah by the Deseret News.</hi> Salt Lake City, UT: The Deseret News Publishing Company, 1975. 73-76. 
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-07-12"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<pb n="73" xml:id="mmm.uh.smart.1975.073"/>
+
+<p>The overland trails across <placeName type="state" key="Utah Territory">Utah</placeName>, while a windfall to the Mormons, contributed also their darkest hour of tragedy.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The tragic event is known historically as the Mountain Meadows Massacre. When smoking guns <seg type="Blame" subtype="IndiansIndependently">of Indians</seg> and whites ceased firing</seg> that <seg type="Massacre" subtype="Dates">September, 1857</seg>, upwards of <seg type="Massacre" subtype="Casualties">120 <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansas</seg> and <seg type="Emigrants" subtype="StateAffiliationMissouri">Missouri emigrants</seg>, including women and older children</seg>, lay dead <seg type="Massacre" subtype="Location">in the meadows of southwestern <placeName type="state" key="Utah Territory">Utah</placeName></seg>&#8212;treacherously slain.</p>
+
+<p><seg type="Context" subtype="UtahWar">A series of unfortunate circumstances had serious bearing on the tragedy. The <placeName type="state" key="Utah Territory">Utah</placeName> pioneers had learned, while celebrating the tenth anniversary of their arrival in the valley, that a federal army was approching to unseat Governor <persName key="Young, Brigham">Young</persName> and control the people who allegedly were defying the U. S. government. False accusations had resulted in what became widely known as "<persName key="Buchanan, James">Buchanan</persName>'s Blunder," in sending troops to put down an insurrection that did not exist.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Governor <persName key="Young, Brigham">Young</persName> had not been previously notifed of his ouster, nor was he aware until that July 24, that an army was on its way to <placeName type="state" key="Utah Territory">Utah</placeName>.</seg> <seg type="Context" subtype="LDSPersecution">Such secrecy naturally alarmed the Mormons
+
+<pb n="74" xml:id="mmm.uh.smart.1975.074"/>
+
+who felt they were again being subjected to undue persecution. Had they not previously faced mobs in the East with armed militia among them?</seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="LDSPersecution">The Mormon leaders determined the people would not submit to further oppression nor to an exodus from their newly built communities.</seg> <persName key="Young, Brigham">Brigham Young</persName> decreed a "scorched earth" policy, and preparations were made to evacuate and burn houses, barns and haystacks in advance of the army.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">The year was also a time of partial famine. Word had been spread to the settlements to conserve grain, feed none to the stock, sell none to passing emigrants for stock feed. Only sufficient supplies could be sold to help emigrants on elsewhere to make needed purchases. Testimony later indicated that enough grain was sold to <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> company</seg> to see them through.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">As the mixed company of <seg type="Emigrants" subtype="StateAffiliationMissouri">Missourians</seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansans</seg> passed through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> late in July, they apparently attracted no special interest or attention, for no mention was made of them in the Deseret News, the city's seven-year old newspaper. After a false start northward around Great Salt Lake, they turned back at the Bear River and headed down the southern route, passing through <placeName type="settlement" key="Provo, UT">Provo</placeName> and other towns to Corn Creek, fifteen miles south of <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>.</seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="MissouriWildCats">Rumors, with some color of fact, spread about <seg type="Emigrants" subtype="StateAffiliationMissouri">the "Missouri Wildcats"</seg>. They were said to have made threats to destroy the town of Corn Creek; <seg type="Encounter" subtype="Poison">to have poisoned a spring and carcass of a dead cow, resulting in the death of ten Indians</seg>; <seg type="Context" subtype="LDSPersecution">to have boasted that they had taken part in the Haun's Mill Massacre and other events in the expulsion of the Mormons from <placeName type="state" key="Missouri">Missouri</placeName> two decades earlier</seg>.</seg></seg></p>
+
+<pb n="75" xml:id="mmm.uh.smart.1975.075"/>
+
+<p><seg type="Blame" subtype="IndiansIndependently">Anger, resentment, and excitement spread among the Indians</seg> and throughout settlements of southern <placeName type="state" key="Utah Territory">Utah</placeName>. A September 6 council session at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> resulted in a dispatch being sent to Governor <persName key="Young, Brigham">Young</persName> in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. <seg type="Blame" subtype="IndiansIndependently">The messenger,<persName key="Haslam, James Holt"> James Haslam</persName>, informed the governor that the Indians had <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> emigrants</seg> surrounded <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> and said "<persName key="Lee, John D.">John D. Lee</persName>, farmer to the Indians in southern <placeName type="state" key="Utah Territory">Utah</placeName>, wanted to know what should be done."</seg></p>
+
+<p><persName key="Young, Brigham">Young</persName>'s verbal message that "the emigrants must not be meddled with, if it takes all <placeName type="county" key="Iron County, UT">Iron County</placeName> to prevent it," arrived back in <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> on Sunday, September 13, and was delivered to <persName key="Haight, Isaac C.">Isaac C. Haight</persName>. His tearful response, said <persName key="Haslam, James Holt">Haslam</persName>, was "too late, too late." <persName key="Haslam, James Holt">Haslam</persName> added, "the massacre was all over before I got home."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Evidence seems substantial that the killing was done largely by whites</seg> <seg type="Blame" subtype="IndiansIndependently">as well as by the aroused Indians</seg>. <seg type="Massacre" subtype="Survivors">Only seventeen young children of the party remained alive and were provided homes among the settlers. Two years later, they were rounded up by the government and returned to relatives, but most reportedly ended up in an orphanage in <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>.</seg></p>
+
+<p><seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">Countless investigations were conducted into
+
+<pb n="76" xml:id="mmm.uh.smart.1975.076"/>
+
+the affair by the government, the Indian bureau and the church.</seg></seg> In 1870 convinced of <persName key="Lee, John D.">John D. Lee</persName>'s responsibility in the affair and the neglect of <persName key="Haight, Isaac C.">Haight</persName> for failure to restrain him as <persName key="Lee, John D.">Lee</persName>'s superior church officer, <persName key="Young, Brigham">Brigham Young</persName> led the unanimous action of the Council of Twelve to excommunicate <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Haight, Isaac C.">Isaac C. Haight</persName>. Some mitigating circumstances were learned later regarding <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Lee, John D.">Lee</persName> and both were restored to church fellowship.</p>
+
+<p><seg type="Reaction" subtype="Commemoration">A bronze marker at the site records the grim finale: <persName key="Lee, John D.">John D. Lee</persName>, who confessed participation as the leader, was legally executed here, March 23, 1877."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Ironically the politically-induced invasion of the United States's troops into <placeName type="state" key="Utah Territory">Utah</placeName> which caused much of the agitation leading to the massacre was handled peacefully by conference and negotiation; the only blood spilled was <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</seg></p>
+
+<!-- Remainder not directly relevant to Mountain Meadows Massacre:
+
+<p><seg type="Context" subtype="UtahWar">After shivering in a bitter-cold <placeName type="state" key="Wyoming">Wyoming</placeName> winter, the <placeName type="state" key="Utah Territory">Utah</placeName> Expedition, by a negotiated compromise, was allowed to move through the Salt Lake Valley and on south 40 miles to Cedar Valley, where they established Camp Floyd. Strict discipline attended the troop movement, and there were no incidents. Mormon settlers, who had deserted their homes in a southern exodus (<placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> became the temporary territorial capital as it had been in 1855-56) were invited back, with <persName key="Young, Brigham">Brigham Young</persName> leading.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">It took approximately two months for 30,000 Mormons to resettle in their homes. The settlers were destitute as a result of the exodus, which had followed closely upon the grasshopper-induced famine of 1855 and 1856. One of the soldiers who witnessed the returning refugees, wrote, "They were wretched-looking beings,&#8212;men, women, boys and girls, old and young, halt and blind, without shoes or stockings, ragged and dirty, though some of the young girls had endeavored to make as respectable an appearance as possible, by making garments out of corn sacks. They were driving a number of animals, consisting of cows, sheep, and pigs. They were very demure and manifested no resentment at our jeers."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The jeering soldiers presented a decided contrast. They were well dressed, abundantly fed and supplied, and comfortably established. But not for long. Three years later, America's Civil War erupted and the soldiers left <placeName type="state" key="Utah Territory">Utah</placeName>.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Trade with the army post had the same stimulating effect on the deteriorated Mormon economy as had the trade a decade earlier with the '49ers. At a peak period, 1858-60, the military contingent at Camp Floyd numbered 4,000, plus 3,000 suppliers and other camp followers. The force was reduced to 1,500 soldiers in mid-1860 and a year later the camp was completely evacuated.</seg></p>
+
+<p>Their evacuation was a windfall for the Mormons. Sold at auction&#8212;mostly to Mormons for a fraction of their worth&#8212;were scores of big wagons, tons of beans, flour, and other foods, plus livestock, stock feed, and equipment, including tons of iron in discarded tools. It is estimated that an auction of July 15, 1861, saw $4 million worth of government surplus sold for $100,000&#8212;most of
+
+<pb n="77" xml:id="mmm.uh.smart.1975.077"/>
+
+what was acquired being turned over to the city's Department of Public Works. Pioneer historian <persName key="Clayton, William">William Clayton</persName> wrote of "the great <persName key="Buchanan, James">Buchanan</persName> <placeName type="state" key="Utah Territory">Utah</placeName> Expedition, costing the government millions, and accomplishing nothing, except making many Saints comparatively rich, and improving the circumstances of most of the people of <placeName type="state" key="Utah Territory">Utah</placeName>."</p>
+
+<p>As Mormon colonies spread out through <placeName type="state" key="Utah Territory">Utah</placeName> and adjacent states, there was need for skilled iron and metal workers, potters, builders and artisans of all classes, including textile workers. The resourceful <persName key="Young, Brigham">Brigham Young</persName> set about securing them. His solution was the Mormon Perpetual Emigrating Company, an ingenious assistance plan to recruit the needed labor and bring it to <placeName type="state" key="Utah Territory">Utah</placeName>. The preamble to the territorial legislative act setting it in motion read; "Labor, industry, and economy is wealth, and all kinds of mechanics and laborers are requisite for building-up and attending the benefits of civilized society, subduing the soil, and otherwise developing the resources of a new country." Emphasis placed on bringing to <placeName type="state" key="Utah Territory">Utah</placeName> machinery, tools, blueprints, seeds, etc. was second only to that placed on "integrity and moral worth" of the people themselves.</p>
+
+<p>The Perpetual Emigrating Fund, administered also in European lands as well as at the <placeName type="state" key="Missouri">Missouri</placeName> westward starting points of covered wagon and handcart caravans, advanced needed funds to bring Mormon converts to their "Zion" in the Rocky Mountains. The immigrants were expected to reimburse the P.E.C. after becoming established in the Great Basin colonies.</p>
+
+<p>By 1855, a total of 21,911 Europeans had been transported across the ocean and most of them had reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. The P.E.C. assisted a total of 51,000 church members from Europe to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> before the 1869 advent of the railroad. 38,000 were from Great Britain and over 13,000 from the continent and Scandinavia. The Mormon colonies were becoming strongly cosmopolitan.</p>
+
+<p><persName key="Young, Brigham">Brigham</persName>'s aim was colonization of the entire area he envisioned as a Mormon state, giving it the name of Deseret&#8212;a Book of Mormon term signifying "honey bee." The beehive became the territorial symbol. He petitioned Congress, May 1, 1849, proposing the State of Deseret which would include all country between <placeName type="state" key="Oregon">Oregon</placeName> and Mexico and between the Rockies and the Sierra Nevadas, plus a strip of the southern <placeName type="state" key="California">California</placeName> seacoast. From 1847 until his death in 1877, <persName key="Young, Brigham">Brigham Young</persName> directed establishment of 349 colonies in the west. Many of today's towns and cities in <placeName type="state" key="Idaho">Idaho</placeName>, <placeName type="state" key="Arizona">Arizona</placeName>, <placeName type="state" key="Nevada">Nevada</placeName>, <placeName type="state" key="Wyoming">Wyoming</placeName>, <placeName type="state" key="Colorado">Colorado</placeName> and southern <placeName type="state" key="California">California</placeName> began as Mormon colonies.</p>
+
+-->
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.lyford.1886">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mormon Problem: An Appeal to the American People</title>
+                <title level="m" type="sub"></title>
+                <author><forename>C.</forename> <forename type="middle">P.</forename> <surname>Lyford</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.lyford.1886</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Mormon Problem: An Appeal to the American People</title>
+                    <author><forename>C.</forename> <forename type="middle">P.</forename> <surname>Lyford</surname></author>
+                    <publisher>Hillips &amp; Hunt</publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent>271-323</extent>
+                    <date when="1886">1886</date>
+                    <note type="source">C. P. Lyford. <hi rend="italic">The Mormon Problem: An Appeal to the American People.</hi> New York, NY: Phillips &amp; Hunt, 1886. 271-323.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-11-10"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="appendix">
+
+<pb n="271" xml:id="mmm.anti.lyford.1886.278"/>
+
+<head>THE MOUNTAIN MEADOWS MASSACRE OF 1857.</head>
+
+<p><hi rend="smallcaps">THE</hi> following is probably the most complete and truthful account of this dreadful event ever published. It was furnished the "Chicago Tribune" by a special correspondent in January, 1875. It is altogether too valuable an historic paper to be lost. The details were gathered with the utmost care, and are related with the strictest regard for accuracy. Many of these details I have also heard from old residents of <placeName type="state" key="Utah Territory">Utah</placeName>, some of whom had personal knowledge of the same. I have thought it best to present the whole story to the world in this form, as given by the narrator, with only a few slight abbreviations.</p>
+
+<p><hi rend="center"><hi rend="smallcaps">AUTHENTIC HISTORY OF THE HORRIBLE SLAUGHTER OF ONE HUNDRED AND TWENTY-FIVE EMIGRANTS.</hi></hi></p>
+
+<p>One cannot gain an intelligent idea of any great event without knowing the causes by which it was produced. Waterloo could never be understood if only the incidents of the battle were narrated.</p>
+
+<pb n="272" xml:id="mmm.anti.lyford.1886.279"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">The causes which led to the Mountain Meadows massacre are interwoven with the fundamental principles of the strange religion of the Mormons. Place yourself in sympathy with these principles, and you can obtain a faint conception of the motives which actuated those whose hands bear the dreadful stain. Plunder, lust, and personal animosity would never have prompted men to commit such a cruel, merciless slaughter, had not the teachings of a fanatical religious belief sanctioned the crime.</seg></p>
+
+<p>The good precepts of the Mormon faith render the people generous, kind, hospitable. <seg type="Blame" subtype="LDS_LDS">The black precepts are all embodied in this one fiendish act.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">AT THE OUTSET</hi></hi>
+
+let me state that I have no desire to make history. My duty is not to create events, but to record them. Where authorities cannot be cited&#8212;where I have not the names of authentic men to corroborate statements&#8212;I shall always mention the fact. Some of the incidents are probably fictitious; of such I shall state that they are only rumors: yet I shall record no rumors which are not believed by those who ought to know the truth.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Seventeen years of mysterious darkness <choice><orig>overshad-
+
+<pb n="273" xml:id="mmm.anti.lyford.1886.280"/>
+
+ows</orig><reg>overshadows</reg></choice> the crime, and where the truth cannot be separated from the falsehoods, both will be given, and time and the courts of justice will distinguish between them. I have received the following "causes" from the lips of Mormons. From the "first presidency" down to the humblest farmer, I have diligently sought out reasons. While they all attempt to soften the wiry edge of public opinion by mentioning the provocations which brought on the deed, I must bear witness that
+
+<hi rend="center"><hi rend="smallcaps">THE MORMONS REPUDIATE THE CRIME.</hi></hi></seg></p>
+
+<p>From no one have I obtained a single word of approval, or aught that could be construed into a sanction, of the massacre. For several weeks I have been mingling with all the various ranks and classes, and, in justice to myself, I must emphatically deny that this great crime ought to rest upon the shoulders of the people. <seg type="Blame" subtype="LDS_LDSZealots">No denunciation can be too severe for those who planned and urged on the crime; but do not infer that all this people are guilty.</seg></p>
+
+<p>The revelations of <persName key="Smith, Joseph">Joseph Smith</persName> made the Mormons the one chosen people of God. "Gentiles" and "Babylonians" are terms which indicate that outsiders have no rights which ought to be respected.
+
+<pb n="274" xml:id="mmm.anti.lyford.1886.281"/>
+
+<seg type="Blame" subtype="LDS_LDSZealots">As the Israelites, the, ancient people of God, dealt with the Egyptians, the Philistines, or the tribes that opposed them, so, if necessary, might the Mormons deal with "outs." This "cause" had much to do with the massacre. A prayerful assemblage were "counseled" to the deed, and prayerful men led on the slaughter. From <persName key="Lee, John D.">John D. Lee</persName>'s conversation I have no doubt the story is true which says "he waved his sword above his head after the massacre, and shouted: This day has the name of Israel's God been glorified!'"</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">AVENGING A PROPHET'S BLOOD.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Context" subtype="LDSPersecution"><persName key="Smith, Joseph">Joseph Smith</persName> is regarded by the Mormons as the Saviour is by other Christian denominations. The Mormons believe in Jesus Christ, but not more firmly than in this latter day prophet. Both suffered martyrdom at the hands of infuriated mobs. The murderers of <persName key="Smith, Joseph">Joseph Smith</persName> are regarded with the same intense hatred that would attach to those of our Saviour, had he been crucified in this age and day. <seg type="Emigrants" subtype="StateAffiliationMissouri">One part of the great emigrant-train came from the portion of <placeName type="state" key="Missouri">Missouri</placeName></seg> from which the Mormons had been driven, and at least one person claimed to have been at <placeName type="state" key="Illinois">Illinois</placeName> when the prophet was killed. It is
+
+<pb n="275" xml:id="mmm.anti.lyford.1886.282"/>
+
+currently believed that one of the emigrants swung a pistol above his head, and swore that it helped kill "<persName key="Smith, Joseph">Joe Smith</persName>," and was then loaded for "Old <persName key="Young, Brigham">Brigham</persName>." I have asked Mormons whether their religion would exonerate the man who should kill the desperado that boasted of murdering the prophet, and they bluntly answered "Yes."</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">AN APOSTLE'S MURDERERS.</hi></hi></p>
+
+<p>A well-known tenet of the Mormon faith is, that husbands may forsake wives, and wives may desert husbands, for religon's sake. To gain admission into the one true Church is worth infinitely more than family ties. At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> a gray-haired man was pointed out to me, with the boastful assertion: "There is a man who left a wife and four children in England, that he might join the Mormons in <placeName type="state" key="Utah Territory">Utah</placeName>." The results of this accursed doctrine are prominently connected with the bloody events of the massacre.</p>
+
+<p><seg type="Context" subtype="PrattMurder"><persName key="Pratt, Parley P.">Parley P. Pratt</persName> was a bright and shining light among the early Mormons. He was one of the "Twelve Apostles," and his influence was powerful and wide spread. He practiced the doctrine he preached, and one of his wives, <persName key="McLean Pratt, Eleanor">Eleanor M'Lean</persName>, was the wife of an <placeName type="state" key="Arkansas">Arkansas</placeName> man. Deserting her <choice><orig>hus-
+
+<pb n="276" xml:id="mmm.anti.lyford.1886.283"/>
+
+band</orig><reg>husband</reg></choice> and children, she eloped to <placeName type="state" key="Utah Territory">Utah</placeName> with Apostle <persName key="Pratt, Parley P.">Pratt</persName>. Pining for her children, she induced <persName key="Pratt, Parley P.">Parley P. Pratt</persName> to return to <placeName type="state" key="Arkansas">Arkansas</placeName> to obtain them.</seg></p>
+
+<p><seg type="Context" subtype="PrattMurder">Yet the Mormons see nothing criminal in <persName key="Pratt, Parley P.">Parley P. Pratt</persName>'s action, and follow, with dire vengeance, the friends of <persName key="McLean, Hector">M'Lean</persName>. <persName key="Pratt, Parley P.">Pratt</persName> was a martyr. His autobiography is selling rapidly through <placeName type="state" key="Utah Territory">Utah</placeName> at present. The wife, <persName key="McLean Pratt, Eleanor">Eleanor Pratt</persName>, died three weeks ago in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and a young man, who was her son and <persName key="McLean, Hector">M'Lean</persName>'s, followed with the mourners. <seg type="Emigrants" subtype="StateAffiliationArkansas">The emigrant train contained several persons who came from <persName key="McLean, Hector">M'Lean</persName>'s neighborhood.</seg> At least one man was believed to have been interested in the killing of Apostle <persName key="Pratt, Parley P.">Parley P. Pratt</persName>. You see the connection.</seg></p>
+
+<p>The very groundwork of the Mormon theocracy rests upon unbounded reverence for President <persName key="Young, Brigham">Young</persName>, their prophet, seer, and revelator. It is charged that the emigrants wove his name into vulgar songs, which were chanted through the streets.</p>
+
+<p><hi rend="center"><hi rend="smallcaps">PROFANITY&#8212;POISONING SPRINGS&#8212;CHICKEN-STEALING.</hi></hi></p>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Encounter" subtype="Slander"><seg type="Blame" subtype="EmigrantBehavior">There is, or was, a Territorial law prohibiting profanity. Some of the emigrants were said to be terribly profane, and upon entering a town invariably inquired: "Where is your d&#8212;d old bishop, or
+
+<pb n="277" xml:id="mmm.anti.lyford.1886.284"/>
+
+president?" Their profanity at last caused the authorities to attempt to arrest them at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. Resistance was made, and the authorities were compelled to abandon the attempt.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior">Again, it is told that a teamster, in passing through the streets of <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>, brought his heavy whiplash down among Widow Evans's chickens and killed two. <persName key="Lee, John D.">Lee</persName> says, that while camped two miles beyond the town they tore down and burned fifteen rods of fence, and turned their stock upon the standing grain.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">It is rumored that at Corn Creek they poisoned a beef, or a spring, or a running stream, and the Indians suffered from the effects. One Indian is said to have died, and the rest were terribly incensed against the emigrants. A bishop informs me that Indian runners were sent all over Southern <placeName type="state" key="Utah Territory">Utah</placeName> to arouse the tribes to vengeance.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><hi rend="center"><hi rend="smallcaps">THE GREAT CAUSE,</hi></hi>
+
+however, was, that <persName key="Johnston, Albert Sidney">Albert Sidney Johnson</persName>'s army was entering <placeName type="state" key="Utah Territory">Utah</placeName>, and that Mormons were marshaling to oppose him with force and arms. The United States was considered as an enemy, and its subjects were treated as foes.</seg> Practically, <placeName type="state" key="Utah Territory">the Territory</placeName> was under martial law, and the Nauvoo Legion drilled
+
+<pb n="278" xml:id="mmm.anti.lyford.1886.285"/>
+
+regularly each week. <seg type="Massacre" subtype="Spoils">Here was the richest and most powerful company that ever traveled <seg type="Emigrants" subtype="Route">the Southern route to <placeName type="state" key="California">California</placeName></seg>. Their wagons, teams, and loose stock, alone, amounted to over $300,000, and they had the costliest apparel and jewelry.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">The wildest excitement prevailed, and murders were frequent. Driven from place to place in the East, the Mormons resolved to fight for <placeName type="state" key="Utah Territory">Utah</placeName>.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">BLOOD ATONEMENT</hi></hi>
+
+is said to have had its share in urging on the deed. <seg type="Context" subtype="LDSApostates">Certain disaffected Mormons joined the train to go to <placeName type="state" key="California">California</placeName>. When their bodies were found after the massacre it is said they were clothed in their endowment shirts. From these causes, gleaned from the sayings of Mormons, a little idea may be gained of the reasons which actuated the murderers.</seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Context" subtype="LDSPersecution">The emigrants were charged with having their hands crimsoned with the blood of <persName key="Smith, Joseph">Joseph Smith</persName> and <seg type="Context" subtype="PrattMurder"><persName key="Pratt, Parley P.">Parley P. Pratt</persName></seg></seg>; they were said to be quarrelsome, abusive, profane, chicken-thieves; <seg type="Context" subtype="UtahWar">they threatened war</seg>, and <seg type="Encounter" subtype="Poison">poisoned springs</seg>; and <seg type="Encounter" subtype="Slander">they grossly insulted leading Mormons</seg>, and <seg type="Context" subtype="LDSApostates">harbored apostates</seg>.</seg></p>
+
+<p>I give all the reasons I ever heard assigned, because, when the provocation is all summed up, there
+
+<pb n="279" xml:id="mmm.anti.lyford.1886.286"/>
+
+is not sufficient cause to justify the dashing out of a single babe's brains.</p>
+
+<p><hi rend="center"><hi rend="smallcaps">THE OTHER SIDE.</hi></hi></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">In rebuttal, abundant proof can be furnished to show that the company was orderly, highly respectable, and composed principally of quiet, Sabbath-loving, Christian people. They held religious services each Sunday, and reverenced the teachings of God's holy word. <persName key="Kelsey, Eli B.">Eli B. Kelsey</persName> traveled with them from Fort Bridger to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and he spoke of them in the highest terms. <persName key="Hamblin, Jacob">Jacob Hamlin</persName>, an honest old Indian interpreter, who has four wives, twenty children, and eighteen grandchildren, said to me of this train: "They seemed like real old-fashioned farmers." A resident of <placeName type="settlement" key="Parowan, UT">Parowan</placeName> told me he had visited them often, and became well acquainted with them, and he had never seen a company of better people.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS"><hi rend="center"><hi rend="smallcaps">ENTERING SALT LAKE,</hi></hi>
+
+they found, to their great surprise, that nothing could be procured of the Mormons for love or money. <seg type="Massacre" subtype="Spoils">Their cash, their cattle, their immense wealth</seg>, could not purchase provisions enough to keep them from starving. Trains were always accustomed to obtain a fresh outfit at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> prior to crossing the deserts
+
+<pb n="280" xml:id="mmm.anti.lyford.1886.287"/>
+
+intervening between <placeName type="state" key="Utah Territory">Utah</placeName> and <placeName type="state" key="California">California</placeName>. <persName key="Young, Brigham">Brigham Young</persName> may not have been guilty of the after events, but, beyond the peradventure of a doubt, he is responsible for whatever suffering may have been endured because of an insufficiency of food. He was Governor of <placeName type="state" key="Utah Territory">Utah</placeName>, one of the Territories  of the United States, and certainly he ought to have permitted citizens of the Union to purchase necessary provisions while passing peaceably through his confines. As it was, they would have died of starvation had they not been massacred, though there was an unusually abundant harvest that year. As a climax to this inhospitable reception they were peremptorily ordered to break camp and move away from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route"><hi rend="center"><hi rend="smallcaps">THE SOUTHERN ROUTE</hi></hi>
+
+to <placeName type="state" key="California">California</placeName> was the only one that could be traveled at that season, as the Sierras would be covered with impassable snow-barriers. Slowly they passed down through the villages that blossomed at the foot of the Wasatch range, expecting to reach <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName> by the <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> route. <seg type="Encounter" subtype="TradeLDS">The corn had ripened, and the wheat had been harvested. Every granary was filled to bursting, and yet money could not purchase food. At <placeName type="settlement" key="American Fork, UT">American Fork</placeName>, <placeName type="settlement" key="Battle Creek, UT">Battle Creek</placeName>, <placeName type="settlement" key="Provo, UT">Provo</placeName>,
+
+<pb n="281" xml:id="mmm.anti.lyford.1886.288"/>
+
+<placeName type="settlement" key="Springville, UT">Springville</placeName>, <placeName type="settlement" key="Spanish Fork, UT">Spanish Fork</placeName>, <placeName type="settlement" key="Payson, UT">Payson</placeName>, <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, and <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, they received the same harsh refusal to their requests for trading or buying. They were ordered away from at least two places where they were halting to rest and refresh their weary cattle.</seg></seg><seg type="Encounter" subtype="TradeLDS"> All emigrants who have traveled through <placeName type="state" key="Utah Territory">Utah</placeName> to <placeName type="state" key="California">California</placeName> remember how friendly and hospitable the Mormons usually were to passing trains. The unusual policy pursued toward these people leads to the inevitable conclusion that some very important order had been issued from head-quarters. Sure enough we find that
+
+THE AVENGER
+
+had preceded them in the person of <persName key="Smith, George A.">George A. Smith</persName>, now <persName key="Young, Brigham">Brigham</persName>'s first counselor, and the second man in the theocracy. Riding swiftly, his fleet horse far outstripped the slow-moving emigrant-train. At every settlement he preached to the Mormons, and gave strict orders to sell no food or grain to emigrants, under pain of excommunication. To the earnest, sincere Mormon, death is preferable to being "cut off" from the privileges of his religion. At least three men have told me that <persName key="Smith, George A.">George A. Smith</persName> gave these orders. The enormity of the crime is apparent when we remember that certain death awaited these
+
+<pb n="282" xml:id="mmm.anti.lyford.1886.289"/>
+
+poor emigrants in the shape of starvation.</seg> Even the Mormon side of the story differs but little. I received it from a zealous defender of the Mormon religion, and give it in the very words of the honest old man. He enjoys the highest confidence of <persName key="Young, Brigham">Brigham Young</persName>, and gives me full permission to use his name.</p>
+
+<p><hi rend="center"><hi rend="smallcaps">AT CORN CREEK</hi></hi>
+
+<persName key="Smith, George A.">George A. Smith</persName> and his companion met the emigrants, and camped side by side with them. Only a little stream intervened between the train and the camp-fire of the man who carried the fatal instructions. The emigrants even solicited advice from <persName key="Smith, George A.">Smith</persName> as to where they could find a suitable spot to encamp and recruit their teams previous to crossing the desert. He and his companion referred them to Cane Spring, the identical place where they were attacked!</p>
+
+<p><seg type="Encounter" subtype="TradeIndian">The Indians at Corn Creek furnished them with thirty bushels of corn! Prior to this no aid or kindness had been received from any quarter, save when some Mormon, braver than his fellows, would clandestinely steal into camp at dead of night, bearing whatever he could in his arms. The Indians befriended them! <seg type="Encounter" subtype="Poison">That, too, at the very spot, Corn
+
+<pb n="283" xml:id="mmm.anti.lyford.1886.290"/>
+
+Creek, where the emigrants are said to have been poisoned by the Indians!</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">ABOUT THAT POISONING.</hi></hi></p>
+
+<p><seg type="Encounter" subtype="Poison"><persName key="Lee, John D.">Lee</persName> says they poisoned a spring, and that from drinking its waters, or from some other cause, an ox became poisoned and died. The flesh of this ox was given to the Indians, and one or two of them died. The Widow <persName key="Tomlinson, ">Tomlinson</persName>, just this side, also had an ox poisoned, and, in attempting to save the hide and tallow, the poison entered her system and she lost her life. Her son came very near dying also.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">The story is doubted by even the Mormons. Relating, or rather reading it from my note-book to the honest old man who camped beside the emigrants, and who ought certainly to have known the truth, he said: "Don't say that I told you that I think it is true, but I don't know. And," continued he, "if you publish that story, folks will disbelieve all you write."</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">The United States officials, with Deputy United States Marshal <persName key="Rogers, William">Rogers</persName> and a competent military surgeon at the head-quarters, gave the most thorough examination to the spring alleged to have been poisoned, and this is their report: "It sends out a
+
+<pb n="284" xml:id="mmm.anti.lyford.1886.291"/>
+
+stream as large as a man's body, and a barrel of arsenic would not poison it."</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">ON SHORT ALLOWANCE.</hi></hi></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">At <placeName type="settlement" key="Beaver, UT">Beaver</placeName> the emigrants met with the same cold treatment. They were actually compelled to place themselves on short allowance, although traveling through a land flowing with milk and honey. <placeName type="settlement" key="Parowan, UT">Parowan</placeName> is a walled town. The train was refused permission to even enter its streets, and was forced to leave the road and pass around the town. <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">The only theory ever advanced for this strange proceeding is, that fatal preparations had already been made inside the walls of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>. Some say that the militia were even then assembled under Colonel <persName key="Dame, William H.">William H. Dame</persName>.</seg></seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">PREPARING FOR THE MASSACRE.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Planning">From the sworn affidavits of those who participated in the slaughter, it is conclusively established that Brigadier-General <persName key="Smith, George A.">George A. Smith</persName>, Colonel <persName key="Dame, William H.">William H. Dame</persName>, Lieutenant-Colonel <persName key="Haight, Isaac C.">I. C. Haight</persName>, and Major <persName key="Lee, John D.">John D. Lee</persName> held a council of war at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>. They determined upon the place, the manner, and all the minor details of the massacre.</seg></p>
+
+<pb n="285" xml:id="mmm.anti.lyford.1886.292"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Location">Where the <placeName type="state" key="California">California</placeName> road crosses the Santa Clara canyon the crime was to be perpetrated. Shut in between the perpendicular walls of rock, the very wagons were to be piled up as a blockade to prevent the escape of a single soul. To make doubly sure, however, <persName key="Hatch, Ira">Ira Hatch</persName> was sent, with others, beyond the canyon to the "Muddy," to cut off stragglers. Guards were also placed at Buckhorn Springs, nearly seventy miles this side of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, and at all the springs and watering-places near <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and <placeName type="settlement" key="Parowan, UT">Parowan</placeName>. These guards would be certain to discover and shoot down any fugitives who might have escaped.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><hi rend="center"><hi rend="smallcaps">THE UTAH MILITIA</hi></hi>
+
+received a positive military order to report for duty. The very language of this written order was, that they must come "armed and equipped as the law directs, and prepared for field operations." A highly respectable gentleman tells me that he happened to be lying on one side of a high adobe wall while the order was being read to two men on the other side. He did not dare leave for fear of being discovered, and was forced to listen to the conversation. They were directed to be in readiness within one hour, with forty rounds of ammunition. These
+
+<pb n="286" xml:id="mmm.anti.lyford.1886.293"/>
+
+two men knew the import of their instructions, and at down and cried like children at the thought of the horrible deed they were compelled to perform. They both said they would rather leave <placeName type="state" key="Utah Territory">the Territory</placeName> and desert homes and families than to engage in the bloody work. To refuse to comply with the order, however, was certain death, for the guards stationed at the watering-places rendered escape impossible.</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">IS BRIGHAM YOUNG IMPLICATED?</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">Thousands of people are asking this question. There is no evidence in existence, so far as is known, to criminate him as being accessory before the fact, unless it is connected with his military position. It was claimed, all the way through, that orders had come from head-quarters. He was commander-in-chief of the <placeName type="state" key="Utah Territory">Utah</placeName> militia, and it hardly seems possible to suppose that the militia would be detailed to do such sanguinary work without some sanction from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">READY FOR THE SLAUGHTER.</hi></hi></p>
+
+<p><seg type="Emigrants" subtype="Route">From <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> the emigrants proceeded south-west to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, a distance of about forty miles.</seg> <seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Location">Camping at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, they were quietly resting
+
+<pb n="287" xml:id="mmm.anti.lyford.1886.294"/>
+
+their cattle and gaining strength to cross the desert.</seg> Suddenly, unexpectedly, <seg type="Massacre" subtype="Dates">at day-break on Monday morning, September 10, 1857</seg>, <seg type="Blame" subtype="IndiansLDSInfluence">they were attacked by Indians.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Battle">At the very first fire seven were killed and fifteen wounded.</seg> Thoughtless of danger, totally unprepared, and, in fact, while most of them were yet asleep, they fell hopelessly before the bullets of their unseen foes. Had they possessed less bravery, less determination, the entire party would have been massacred on the spot. With a promptness unparalleled in all the history of Indian warfare, these emigrants wheeled their wagons into an oblong <hi rend="italic">corral</hi>, and, with shovels and picks, threw up the earth from the center of the <hi rend="italic">corral</hi> against the wagon wheels. In an incredibly short space of time they had an excellent barricade. An eye-witness says that it was done with such remarkable celerity that the plans of the painted assassins were completely frustrated.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><hi rend="center"><hi rend="smallcaps">THE ORIGINAL PLAN</hi></hi>
+
+had been, as before stated, to attack them at Santa Clara canyon, but the Indians became too impatient. These "battle-axes of the Lord" had responded to the call of the Indian agent, <persName key="Lee, John D.">John D. Lee</persName>, and the
+
+<pb n="288" xml:id="mmm.anti.lyford.1886.295"/>
+
+liberal promises they had received caused the premature attack. <seg type="Massacre" subtype="Spoils">The large herds and the rich spoils&#8212;the blankets, clothing, and trinkets&#8212;the guns, pistols, and ammunition&#8212;a portion of all of which was to be theirs, induced them to make the attack at Cane Spring.</seg> They intended to kill as many as possible at the first fire, and then charge upon the remainder. The charge never was made. There were crack marks-men in the train, and <seg type="Massacre" subtype="Casualties">in a few moments there were
+
+<hi rend="center"><hi rend="smallcaps">THREE WOUNDED INDIANS.</hi></hi></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">The redskins had crept up close to the train, and lay concealed along the banks of the creek, in the little hollows, and behind the low sage-brush. They never dreamed of a repulse. Disconcerted by the prompt, decisive action of the emigrants, they incautiously exposed their bodies. <seg type="Massacre" subtype="Casualties">One account says they actually charged upon the guard; but, at all events, one was slightly wounded in the shoulder and two were shot in the left thigh. There was not an inch difference in the location of the wounds of the last two. The bones were crushed to splinters, and both Indians died. Prior to their death they were conveyed to the camp near <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>, and Bishop <persName key="Higbee, John M.">Higbee</persName> anointed their wounds with consecrated oil!</seg> It may
+
+<pb n="289" xml:id="mmm.anti.lyford.1886.296"/>
+
+not be generally known that this oil is blessed and set apart for the healing of the sick. Instead of calling a physician, many of the Mormons, to this day, no matter what may be the nature of the disease, pour on this oil, and attempt to effect a cure by prayer and</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><hi rend="center"><hi rend="smallcaps">THE LAYING ON OF HANDS.</hi></hi></seg></p>
+
+<p>It is true biblical doctrine, and it is claimed that wondrous cures are effected through the instrumentality of faith. Bishop <persName key="Higbee, John M.">Higbee</persName> went out to the camp after these murderers had been brought from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, anointed the wounded limbs, went through all the process of "laying on of hands," and fervently prayed that the Lord Jesus would heal them. My informant says: "I stood by and watched his motions and listened to his prayers."</p>
+
+<p>Leaving the emigrants safely intrenched behind their hastily-improvised fortifications, let us return to President <persName key="Haight, Isaac C.">Haight</persName> at <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>. He had preached from the pulpit before the train arrived in his town that the people were not to trade with the Gentiles. One man heard that a young gentleman by the name of<persName key="Aden, William"> William A. Aden</persName> was with the train. <persName key="Aden, William">Aden</persName>'s father had once, in <placeName type="state" key="Tennessee">Tennessee</placeName>, saved the life of this Mormon, and, out of gratitude, he befriended the young man
+
+<pb n="290" xml:id="mmm.anti.lyford.1886.297"/>
+
+in some way. Soon afterward a party of Mormons came up to the gate of the disobedient brother and struck him over the head with a club. His skull was cracked, and, although he is still living, his mind is seriously impaired. The murderer of young <persName key="Aden, William">Aden</persName> boasts that the latter was
+
+<hi rend="center"><hi rend="smallcaps">HIS FIRST VICTIM.</hi></hi></p>
+
+<p><persName key="Aden, William">Aden</persName> and a companion were returning to the settlements, probably to attempt to obtain assistance or food. At all events, they met <persName key="Stewart, Bill">Bill Stewart</persName> and a companion at Pine Creek, seven miles this side of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>. <persName key="Stewart, Bill">Stewart</persName> had a revolver, and his companion, a boy, had a shot-gun. The former said he would shoot one, and told the boy he must kill the other. As good as his word, <persName key="Stewart, Bill">Stewart</persName> sent a bullet crashing through <persName key="Aden, William">Aden</persName>'s brain, while the horse of his unsuspecting victim was quietly drinking at a little creek. The boy's courage failed, and the other emigrant escaped to the train.</p>
+
+<p><hi rend="center"><hi rend="smallcaps">A HARDENED VILLAIN.</hi></hi></p>
+
+<p>Years after the murder, <persName key="Stewart, Bill">Stewart</persName> and a Mormon friend were passing the spot, and the former related the circumstance. The friend asked what had been done with the body, and <persName key="Stewart, Bill">Stewart</persName> pointed to a clump
+
+<pb n="291" xml:id="mmm.anti.lyford.1886.298"/>
+
+of bushes as the place where it had been concealed. "Is it there now? " asked the traveler. "I don't know," coolly responded <persName key="Stewart, Bill">Stewart</persName>; "let's go and see! "Accordingly they went, and the horrified friend tells me that to this day he shudders to think how <persName key="Stewart, Bill">Stewart</persName> went to the spot and brutally kicked about the poor bleached bones, and examined the fragments of clothing and scattered locks of hair.</p>
+
+<p><persName key="Aden, William">Aden</persName>'s gray-haired father advertised for his lost son, and offered a reward of one thousand dollars for information of his whereabouts. Surely it was a kind Providence that kept him in ignorance of the fact that the boy's body was food for wolves, and that for years the whitened bones bleached unburied. He has since learned that his son was with the emigrants, but probably he never knew that his boy was the first victim, and that he was killed by a Mormon who still lives in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. I would not dare publish this horrible tale, did I not have it direct and positive from the lips of highly-respectable gentlemen whose oaths are ready to back their assertions.</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS"><hi rend="center"><hi rend="smallcaps">AN INDIAN RUNNER</hi></hi>
+
+came into <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> the first night, and reported the unsuccessful assault.</seg> The Mormons immediately
+
+<pb n="292" xml:id="mmm.anti.lyford.1886.299"/>
+
+started to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg> to assist. <persName key="Haight, Isaac C.">Haight</persName> told a certain man that orders had come from head-quarters to massacre every one of them. The man's boy, now grown to middle age, overheard the remark, and is my authority. The same person says he saw eight or ten men start out about nine o'clock that night. They were armed with shot-guns, Kentucky rifles; flint-locks, and every imaginable fire-arm, and went under military orders. Major <persName key="Lee, John D.">John D. Lee</persName> had command of the forces which started from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and, finding these inadequate, sent back to <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> and <placeName type="settlement" key="Washington City, UT">Washington</placeName> for re-enforcements.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">Sworn affidavits tell us that when the auxiliaries arrived, the entire command was assembled about half a mile from the intrenchments of the fated emigrants, and were there coolly informed that <seg type="Massacre" subtype="Casualties">the whole company was to be killed</seg>, and <seg type="Massacre" subtype="Survivors">only the little children who were too young to remember any thing, were to be spared</seg>.</seg></seg> (See <persName key="Stenhouse, Fanny">Fanny Stenhouse</persName>'s "Tell It All," p. 329.)</p>
+
+<p><seg type="Massacre" subtype="Battle">But the order could not be immediately carried out because of the
+
+<hi rend="smallcaps"><hi rend="center">DETERMINED RESISTANCE</hi></hi>
+
+of the emigrants.</seg> <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">The Meadows</geogName> are a mile and a half long and a mile wide, but the mountains which
+
+<pb n="293" xml:id="mmm.anti.lyford.1886.300"/>
+
+form the high rim of the little basin converge at the lower end and form a wild, rugged canyon. Just at the mouth of this canyon is Cane Spring. Some confusion has arisen among authorities by confounding this spring with another "Cane" Spring, two and a half miles south. There was but one attack, and that was made at the Meadow Spring, then called " Cane," because of the peculiar rush, resembling canebrake, which grew near its waters. My authority is the man who was the owner of the ground then and now.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Location">A mound some two hundred feet long by one hundred wide rose from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> about thirty rods above the spring, and completely shut out the view. Low hills with deep ravines came down on either side, and completely hemmed in the party.</seg> Bullets from every side of the
+
+<hi rend="center"><hi rend="smallcaps">DEATH PEN</hi></hi>
+
+swept the inclosure, and whistled through the wagon covers. <seg type="Massacre" subtype="Spoils">Such cattle as were inside the <hi rend="italic">corral</hi> were shot down, and the herds outside were stampeded.</seg> Yet for seven or eight days they bravely held out, and seemed to be masters of the situation. Water was their great need. A little babbling brook murmured along not forty feet away, and the fine, clear
+
+<pb n="294" xml:id="mmm.anti.lyford.1886.301"/>
+
+spring was not more than two rods off, but yet they suffered indescribably from thirst.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><hi rend="center"><hi rend="smallcaps">THE MORMONS WERE PAINTED AND DISGUISED</hi></hi>
+
+to appear like their savage allies. Not content with the superior advantages which nature had given to their position, they threw up breastworks of stone on the adjacent hill-sides. From behind these their rifles could sweep the little grassy plain below without a single portion of their body being exposed. Every attempt to obtain water, either day or night, awakened a score of deadly reports from the arms of the concealed foe. It was supposed at first that none but the men were in danger. <seg type="Massacre" subtype="Casualties">A woman, who stepped outside the <hi rend="italic">corral</hi> to milk a cow, fell pierced with bullets. Two innocent little girls were sent down to the spring. Hand in hand, tremblingly, these dear little rosebuds walked toward the spring. Their tender little bodies were fairly riddled with bullets.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Aftermath"><hi rend="center"><hi rend="smallcaps">THE OLD BREASTWORKS</hi></hi>
+
+still remain in places, and no one can visit the spot without being surprised that the emigrants held out so long.</seg> Behind the mounds, and just beyond the low foothills and the mound, are level flats concealed from the emigrants' view. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">Here the Mormons and
+
+<pb n="295" xml:id="mmm.anti.lyford.1886.302"/>
+
+Indians were pitching horseshoes, and amusing themselves in various ways.</seg></seg> The cowards well understood that cruel, pitiless hunger and burning thirst were their powerful allies inside that <hi rend="italic">corral</hi>. Wagon-loads of provisions were arriving from <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> for the besiegers, and each day lessened the scanty stock of the emigrants. Who can picture the torments of mind and body which those poor people suffered? In a bleak, desolate country, hundreds of miles from help, surrounded by painted fiends, and dying of thirst and starvation, how deep must have been the gloom!</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning"><hi rend="center"><hi rend="smallcaps">THREE SPIES</hi></hi>
+
+had been sent with the train from <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>. <seg type="Context" subtype="LDSApostates">Ostensibly they were apostates going to <placeName type="state" key="California">California</placeName>, but in reality they were sent to learn the strength of the party, the scarcity of provisions, etc.</seg> I heard the names of these men, but did not note them down when my informant gave them, and may be mistaken. I think they were <persName key="Wilden, Elliot">Elliot Wilden or Willets</persName>, a man by the name of <persName key="Reeves">Reeves</persName>; and <persName key="Stewart, Bill">Bill Stewart</persName>. They are well known in Southern <placeName type="state" key="Utah Territory">Utah</placeName> as "the three boys." They were unable to accomplish any thing after the siege began, and so escaped to the Indians. They dressed in savage costume, put war-paint on their
+
+<pb n="296" xml:id="mmm.anti.lyford.1886.303"/>
+
+faces, and throughout the black days of the horrible siege and butchery, they played a bloody part.</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">A CRY OF DISTRESS.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Battle">One thrillingly horrible incident gives a vivid idea of the anguish of the emigrants. It shows that the brave, true hearts of <seg type="Emigrants" subtype="StateAffiliationArkansas">those <placeName type="state" key="Arkansas">Arkansas</placeName> men</seg> scorned death and danger if only a little hope could be seen of saving their wives and babies. Monday, Tuesday, Wednesday, and Thursday passed. The weary hours of fear and suffering dragged slowly by. The whizzing arrows, the whistling bullets, the cheers and ribald laughter of the coarse, brutal assassins, told how blood-thirsty were the besiegers. Thursday night the emigrants drew up a petition, or an humble
+
+<hi rend="center"><hi rend="smallcaps">PRAYER FOR AID.</hi></hi></seg></p>
+
+<p><seg type="Massacre" subtype="RescueAttempt">It was addressed to any friend of humanity, and stated the exact condition of affairs. <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">It told that on the morning of the 10th the train was attacked by Indians, and that the siege had continued uninterruptedly. There was reason to believe, it stated, that white men were with the Indians, as the latter were well supplied with powder and weapons.</seg></seg> In case the paper reached <placeName type="state" key="California">California</placeName>, it was hoped that <choice><orig>assist-
+
+<pb n="297" xml:id="mmm.anti.lyford.1886.304"/>
+
+ance</orig><reg>assistance</reg></choice> would be sent to their rescue. <seg type="Emigrants" subtype="WagonTrain">Then followed a list of the emigrants' names, each name was followed by the age, place of nativity, latest residence, position, rank, and occupation of its owner. The number of clergymen, physicians, farmers, carpenters, etc., was given. Among other important particulars, the number of
+
+<hi rend="center"><hi rend="smallcaps">FREEMASONS AND ODD-FELLOWS</hi></hi>
+
+was stated, with the rank, and the name and number of the lodge of which they were members.</seg> It was a forlorn hope, this letter&#8212;a sad despairing cry of distress. It is the only expression that ever came from within that <hi rend="italic">corral</hi>, but it gives such a thrilling picture of their torture and mental anguish as nothing else could. Seventeen years have elapsed since that signal of distress was made. Yet it is not too late to answer. There is many a strong heart in the world to-day that will feel its pulses thrill faster when it hears that these men, in their strong death agony, appealed for aid to their brethren of the mystic tie. <seg type="Massacre" subtype="Spoils">The paper, also, contained an itemized list of their property, such as wagons, oxen, horses, etc.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="RescueAttempt">Who should attempt to break through the line, and bear this letter to <placeName type="state" key="California">California</placeName>? It was a desperate
+
+<pb n="298" xml:id="mmm.anti.lyford.1886.305"/>
+
+undertaking, but it was the last hope. Volunteers were called for, and three of the bravest men that ever lived stepped forward and offered to attempt to dash through the enemy, and cross the wilderness and desert. Before they started, all knelt in the <hi rend="italic">corral</hi>, and the white-haired old Methodist pastor prayed fervently for their safety. In the dead of night they passed the besiegers, <seg type="Blame" subtype="IndiansLDSInfluence">but Indian runners were immediately placed on their track</seg></seg>.</p>
+
+<p><hi rend="center"><hi rend="smallcaps">FLEEING FOR THEIR LIVES.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="RescueAttempt"><seg type="Blame" subtype="IndiansLDSInfluence">They traveled until completely exhausted. <seg type="Massacre" subtype="Casualties">An Indian chief, named <persName key="Jackson">Jackson</persName>, boasts of having killed the first, having found him lying on his back asleep, between the Clara and the Rio Virgin. The savage crept stealthily up to the sleeping man, placed the flinty arrow-point just above the collar bone, drew back the bow-string, and sent the shaft down into the sleeper's throat. Springing to his feet, he ran nearly forty yards before he fell, faint and dying. There is every reason for supposing that he lived long enough to be tortured. In after years my informant was taken by <persName key="Jackson">Jackson</persName> to the remains. The skull and larger bones were charred and burned, and the smaller ones were wholly reduced to ashes. Whether
+
+<pb n="299" xml:id="mmm.anti.lyford.1886.306"/>
+
+tortured or not, his body was burned by his fiendish murderers.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><hi rend="center"><hi rend="smallcaps">THE LETTER WAS FOUND</hi></hi>
+
+on a divide, near <seg type="Massacre" subtype="Casualties">the murdered man</seg>. <persName key="Jackson">Jackson</persName> discovered it, and gave it to my informant, who kept it safely for months. Happening to show it one day to a man who was a leader in the massacre, he promptly destroyed it. The honest old Mormon, however, is perfectly acquainted with the nature of its contents, and has no sympathy with the tragedy or its perpetrators. In his simple, straightforward style he said: "I believe that, if the Masons and Odd-fellows knew how many of their brethren were in the train, they wouldn't let the accursed murderers go unpunished." He is willing at the proper time to testify to the contents of the letter.</seg></p>
+
+<p><seg type="Massacre" subtype="RescueAttempt"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">The two other emigrants traveled forty miles farther and came to the Virgin Hills. Here the Indians overtook and surrounded them. The deadly arrows wounded one, and both were captured. The Indians stripped them stark naked, and gave them to understand that they must
+
+<hi rend="center"><hi rend="smallcaps">RUN FOR LIFE!</hi></hi></seg>
+
+Both started, but the one was so badly wounded that he could not run. The other bounded away with
+
+<pb n="300" xml:id="mmm.anti.lyford.1886.307"/>
+
+the swiftness of a deer. <seg type="Blame" subtype="IndiansLDSInfluence">The fleetest runners were engaged in the pursuit, and, to use the language of my informer, "he ran right away from them." Even the shower of arrows missed his flying body, save one, which struck his arm, inflicting a severe wound. Meantime, savages had gathered around the fainting form of the man who could not run, and had tied him to a stake. Fagots were soon blazing around his quivering body, and he died amid all the excruciating agony known to savage torture.</seg></seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">HUNTED TO THE DEATH.</hi></hi></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="RescueAttempt"><seg type="Massacre" subtype="Casualties">The third and last&#8212;naked, wounded, without weapons, food, fire, or drink, without map, compass, or guide&#8212;made his way across the desert, fifty-four miles! The Vagas Indians, another band of Piutes, discovered him in such a weak, exhausted state, that they pitied him. Yes, these hostile savages pitied the condition of the white man who was fleeing from the cruelty of white men. They gave him a pair of pants and moccasins, and let him have some musquit bread. The musquit is a thorny shrub, one species of which has a pod containing a sort of bean. These beans are ground by the Indians in stone mortars, and from them is made an inferior kind of bread.
+
+<pb n="301" xml:id="mmm.anti.lyford.1886.308"/>
+
+He was able to travel eighteen miles farther to what is known as Cottonwood. Here he met two young gentlemen from <placeName type="state" key="California">California</placeName>, Henry T. Young and Cau Young. They gave him a horse and some clothing, and bade him Godspeed to <placeName type="state" key="California">California</placeName>. He started off, but Boon came riding back and overtook them. He was so weary and feverish, and his arm pained so dreadfully, that he feared that he could not make the trip. He wanted to return with them to Salt Lake, and would run the risk of being known. They had gone but a little way when they met the Indians tracking him.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><hi rend="center"><hi rend="smallcaps">THE CRUEL BLOOD-HOUNDS</hi></hi>
+
+seemed bound that not one of <seg type="Massacre" subtype="Casualties">the doomed emigrants</seg> should live to tell the tale. <seg type="Massacre" subtype="Casualties">Instantly recognizing him, the Indians would have fired at once, but for the efforts of the Young brothers. These gentlemen drew down their rifles, and kept the Indians at bay. Hardly had they traveled two miles before they met more Indians and <persName key="Hatch, Ira">Ira Hatch</persName>, the interpreter. <persName key="Hatch, Ira">Ira</persName> told the Young boys that they were "all right," but that the man must die. No sooner had he said the word than the Indians discharged a shower of arrows at the poor fellow. Pierced by a score of the sharp
+
+<pb n="302" xml:id="mmm.anti.lyford.1886.309"/>
+
+headed arrows, be fell from his horse. The Young brothers had all they could do to preserve their own lives. The last they saw of the fugitive, he was crawling away on his hands and knees, and an old Indian was stabbing at his throat with a butcher's knife. It seems that one of the savages put an end to the torture by striking the man on the head with a stone, crushing his skull. Thus perished the forlorn hope of the emigrants.</seg></seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">FALSE SIGNALS.</hi></hi></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">The besiegers found it impossible to take the train by storm or by fair means. Evidently the poor victims had resolved to perish fighting rather than deliver up their wives and daughters into the hands of brutal villains.</seg> <seg type="Massacre" subtype="Surrender">But lo! an emigrant train is seen coming down <geogName type="valley" key="Mountain Meadows">the meadows</geogName> bearing a white flag! Ah, what tumultuous hopes crowded the breasts of that famishing, perishing people. It is said they cried for joy, and danced and embraced each other, and gladly rushed out to meet their supposed friends. They were armed friends, too, as soon turned out, for they were no less than <persName key="Lee, John D.">John D. Lee</persName> and the officers of the <placeName type="state" key="Utah Territory">Utah</placeName> militia. How sweet it must have been, after those terrible days and nights, to have seen the
+
+<pb n="303" xml:id="mmm.anti.lyford.1886.310"/>
+
+<hi rend="center"><hi rend="smallcaps">STARS AND STRIPES,</hi></hi>
+
+and to know that the militia of a Territory of the United States was come to their rescue! <persName key="Young, Brigham">Brigham Young</persName>, the great governor of <placeName type="state" key="Utah Territory">Utah</placeName>, commander-inchief of the military forces, was supposed to have sent them to deliver them, and how perfectly safe it was to accept shelter under his protecting arm! The "Indians" were awed by the very presence of the Mormons, and had ceased firing. Surely the painted savages were perfectly controlled by their white superiors! How kindly and tenderly these officers talked. <persName key="Lee, John D.">Lee</persName> is said to have wept like a child as he sympathized with their sufferings. How providential it was that such tender-hearted Christian gentlemen should have learned of their dreadful situation, and have come to their aid! A man so eloquent! so smooth-tongued as was good Mr. <persName key="Lee, John D.">Lee</persName>! A man who was himself Indian Agent, and for whom the Indians had the most marked respect! A major, too, in the militia!</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><hi rend="center"><hi rend="smallcaps">LAY DOWN THEIR ARMS?</hi></hi>
+
+Certainly they would. If protection could so easily be guaranteed by these philanthropic gentlemen and their regiment, what reason for letting their wives and little ones die of starvation?</seg></p>
+
+<pb n="304" xml:id="mmm.anti.lyford.1886.311"/>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="Lee, John D.">Lee</persName> was too politic to make many promises at first. He must consult with the "Indians." Having just arrived, he had not an opportunity of learning their terms or intentions! Accordingly he went back and pretended to hold a council. Was there ever such base perfidy? Were white men&#8212;prayerful, God-fearing white men&#8212;ever guilty of such unprincipled treachery? Well might such a dastardly coward hide in a chicken-coop when the officers came to arrest him! Again he came, bearing once more the white flag, that pure
+
+<hi rend="center"><hi rend="smallcaps">SYMBOL OF PEACE AND TRUTH.</hi></hi>
+
+An angel from heaven would not have been a more blessed sight to those tired, anxious, tearful eyes. They laid down their trusty rifles that had been their strong defense. Taking off their belts, they delivered up their good revolvers and faithful bowie-knives.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="Lee, John D.">John D. Lee</persName> is as smooth a talker as I ever heard. While I listened to him last week in <placeName type="settlement" key="Beaver, UT">Beaver</placeName> jail, I kept constantly thinking of how he talked those emigrants out of the intrenchments from which powder and ball could not dislodge them. <seg type="Massacre" subtype="Casualties">Only fifteen had been killed in eight days.</seg> The <hi rend="italic">corral</hi> was a bulwark
+
+<pb n="305" xml:id="mmm.anti.lyford.1886.312"/>
+
+of safety, but the honeyed words of a white man won their hearts.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><hi rend="center"><hi rend="smallcaps">A GUARD OF SOLDIERS,</hi></hi>
+
+well armed, were drawn up to escort them in safety. <seg type="Massacre" subtype="Casualties">The men marched on first, then the women, and lastly the children.</seg> Did nothing whisper to those brave hearts the horrible fate in store for them and their dear ones? Was there no pang of regret at stepping out of that strong fortification? Certainly not. Here was the American flag, the dear old flag, and, rallying beneath its folds, they felt that the strong arms of the Union enfolded them.</seg></seg></p>
+
+<p>And now,
+
+<hi rend="center"><hi rend="smallcaps">GOD HELP THEM!</hi></hi>
+
+As I write the events of the massacre I almost shriek with terror. It is too terrible to believe or talk about; but seventeen years of silence and peace is quite as much as those scoundrels deserve, and I shall write every incident. I shall write each one without divesting it of a single horror that it received as it came direct from the lips of eye-witnesses.
+
+<seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><hi rend="center"><hi rend="smallcaps">SUDDENLY, AT A GIVEN SIGNAL,</hi></hi>
+
+the troops halted, and down the line passed the fatal
+order, "Fire!"</seg></seg></p>
+
+<pb n="306" xml:id="mmm.anti.lyford.1886.313"/>
+
+<p>It was given by <persName key="Lee, John D.">John D. Lee</persName>, and was repeated by the under-officers. <seg type="Massacre" subtype="Casualties">The poor, pitiful emigrants</seg> gave one
+
+<hi rend="center"><hi rend="smallcaps">AGONIZING SHRIEK,</hi></hi>
+
+    <seg type="Blame" subtype="LDS_LDS">and fell bleeding to the earth. <seg type="Blame" subtype="IndiansLDSInfluence">The Indians lay ambushed near the spot, and joined in the slaughter when they saw the white men begin.</seg> Sworn statements of participators say the militia fired volley after volley at the defenseless, unarmed men who had intrusted their lives to the militia's keeping. It is the most heartless, cold-blooded deed that ever disgraced the pages of history. The cowardly assassins could not have performed one single act that would have added to the blackness of their perfidy. They feigned friendship and sympathy, and induced <seg type="Massacre" subtype="Casualties">these brave men</seg> to lay aside every weapon, and then shot them down like dogs! <seg type="Massacre" subtype="Casualties">The venerable, gray-headed clergyman, the sturdy farmers, the stalwart young men and the beardless youth, all were cut down, one by one, and above their dead bodies waved the stars and stripes!</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">BUT THIS WAS NOT ALL.</hi></hi>
+
+<seg type="Massacre" subtype="SexualViolence">The women were not all killed just yet! Many fell by <seg type="Massacre" subtype="Casualties">their husbands and fathers and brothers</seg>; but others were not permitted to die yet. It was by deliberate, predetermined forethought that the women
+
+<pb n="307" xml:id="mmm.anti.lyford.1886.314"/>
+
+were separated from their husbands' sides as they left the <hi rend="italic">corral</hi>. Men who had proved themselves fiends had yet to prove themselves brutes. And they did so!</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="SexualViolence">O, God! had not the weary, terror-stricken women and maidens suffered enough to have merited at least a speedy death? It seems not. Their pure bosoms could not quiver 'neath the plunge of the cold steel blade, nor their white throats crimson before the keen knife's edge, until they had suffered the torments of a thousand deaths at the hands of their brutal captors. Yet this was done in the latter half of the nineteenth century, and the cruel, heartless beasts are living peacefully in the midst of the American nation.</seg></seg></p>
+
+    <p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="SexualViolence">There were two or three
+
+<hi rend="center"><hi rend="smallcaps">SICK WOMEN,</hi></hi>
+
+who were unable to walk out from the <hi rend="italic">corral</hi>. They were driven up to the scene of the massacre, shot, stripped of their clothing, and their bodies thrown from the wagon with the others.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Some of the younger men refused to join in the dreadful work. <persName key="Pearce, Jim">Jim Pearce</persName> was shot by his own father for protecting a girl who was crouching at
+
+<pb n="308" xml:id="mmm.anti.lyford.1886.315"/>
+
+his feet! The bullet cut a deep gash in his face, and the furrowed scar is there to-day.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><persName key="Lee, John D.">Lee</persName> is said to have shot a girl who was clinging to his son. A score of heart-rending rumors are afloat about the deeds of that hour; but there is no proof adduced, and as yet, nothing can be proven. One rumor, however, comes from a girl who lived in <persName key="Lee, John D.">Lee</persName>'s own family for years. She told Mr. <persName key="Beadle, John Hanson">Beadle</persName>, the author of several valuable works, that one young woman drew a dagger to defend herself against <persName key="Lee, John D.">John D. Lee</persName>, and he killed her on the spot.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><hi rend="center"><hi rend="smallcaps">A HORRIBLE STORY</hi></hi>
+
+is believed by several people in southern <placeName type="state" key="Utah Territory">Utah</placeName> with whom I conversed. I give it for what it is worth: A young mother saw her husband fall dead. He lay with his face upward and the purple life-blood crimsoned his pallid cheeks. She sprang to his side just as a great brutal ruffian attempted to seize her. Laying her tiny babe on her husband's breast she drew a small dirk-knife, and like a tigress at bay confronted the vile wretch. He recoiled in terror, but at the next instant a man stepped up behind the brave woman and drove a knife through her body. Without a struggle she fell dead across her husband's feet.
+
+<pb n="309" xml:id="mmm.anti.lyford.1886.316"/>
+
+Picking up the dirk she had dropped, the fiend deliberately pinned the little babe's body to its father's, and laughed to watch its convulsive death struggles.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">There, it is all over! The brawny muscled men lie stark and cold, and their sweet, saintly wives have finally passed beyond the reach of their tormentors.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">BUT THE CHILDREN!</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">The orders were to kill all except those who were too young to remember. <persName key="Stewart, Bill">Bill Stewart</persName> and <persName key="White, Joel">Joel White</persName> were "set apart" to kill all the rest. My informant was first told the following by an Indian who witnessed the transaction, and afterward heard it from white men. The old Indian cried while telling it. My informant has testified to the fact that the statement is just as he received it:</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"The little boys and girls were too frightened, too horror-stricken, to do aught but fall at the feet of their butchers and beg for mercy. Many a sweet little girl knelt before <persName key="Stewart, Bill">Bill Stewart</persName>, clasped his knees with her tiny white arms, and with tears and tender pleadings besought him not to take her life. Catching them by the hair of the head, he would hurl them to the ground, place his foot upon their little bodies, and cut their throats!"</seg></seg></p>
+
+<pb n="310" xml:id="mmm.anti.lyford.1886.317"/>
+
+<p><hi rend="center"><hi rend="smallcaps">THE AWFUL SCENE.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Aftermath">A man who saw the field eight days after the massacre related to me the following: <seg type="Massacre" subtype="Casualties">Men, women, and children</seg> were strewn here and there over the ground, or were thrown into piles. Some were stabbed, others shot, and still others had their throats cut. The ghastly wounds showed very plainly, for there was not a single rag of clothing left on man, woman, or child, except that a torn stocking clung to the ankle of one poor fellow. The wolves and ravens had lacerated every one of the corpses except one. <seg type="Massacre" subtype="Casualties">There was one hundred and twenty-seven in all</seg>, and each bore the marks of wolves' teeth except just one. It was the body of a handsome, well-formed lady, with beautiful face, and long flowing hair. A single bullet had pierced her side, and stilled the beatings of her heart. It seemed as if the gaunt, merciless wolves had deemed her too noble and queen-like for their fangs to mar.</seg></p>
+
+<p><hi rend="center">THE HEAPS OF SLAIN.</hi></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Most of the bodies had been thrown into three piles, distant from each other about two and a half rods. <seg type="Massacre" subtype="Casualties">Old and young, matron and maid, white-haired men and tiny suckling babes, boys and girls</seg>, all were thrown indiscriminately together.</seg></p>
+
+<pb n="311" xml:id="mmm.anti.lyford.1886.318"/>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">One young woman lay in the sage-brush in a hollow or sag one hundred and seventy-five yards southwest from the main body. She was badly mutilated by the wild beasts, but it was plainly to be seen that her head had been half cut off!</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS">There were
+
+<hi rend="center"><hi rend="smallcaps">NO SCALP MARKS.</hi></hi>
+
+Indians would certainly have taken scalps or burned bodies if savage revenge had been the only thought. The closest examination was made, and not the slightest traces of the scalping-knife could be discerned.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration">Two months afterward, a single Mormon&#8212;all honor to the man&#8212;gathered up the bones and placed them in the very hollow the emigrants had dug inside the <hi rend="italic">corral</hi>. He acted upon his own responsibility, and went alone and unaided. He did the very best he could, but the task was horribly disagreeable, and the covering of earth which he placed over the bodies was necessarily light. The ravenous wild beasts soon dug up the bones, and they became scattered all over the ground. The kind-hearted old Mormon deserves none the less credit, and all good men will pray God to bless him for doing what he could for the bones of <seg type="Massacre" subtype="Casualties">the murdered party</seg>.</seg></seg></p>
+
+<pb n="312" xml:id="mmm.anti.lyford.1886.319"/>
+
+<p><seg type="Massacre" subtype="Casualties">There has been much doubt as to the number of the slain. <seg type="Massacre" subtype="Aftermath">This man tells me that just one hundred and twenty-seven skulls were found.</seg> This does not include <persName key="Aden, William">Aden</persName>'s, nor the three killed on the desert. The total number of the emigrants massacred, so far as is known, is one hundred and thirty-one. Two children are said to have been murdered afterward, making one hundred and thirty-three.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">THE BLOODY GARMENTS.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">A boy who lived in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> tells me that every night during the battle, and for a short time after the slaughter, wagons and men were hurrying through the streets at all hours of the darkness. Supplies and re-enforcements were constantly being sent out to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>. A distillery had been established at <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>, and its owner was with the militia. It is said he furnished large quantities of liquor to the soldiers. He was exceedingly enthusiastic over the bloody work.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">The garments of the mangled dead were <seg type="Blame" subtype="IndiansLDSInfluence">partly divided among the Indians</seg>, and a part was brought to the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> tithing office. This boy&#8212;seventeen years have made him a man&#8212;tells me that he slept in the tithing office, with two other boys, on the night the gory spoils were brought into town.</seg></seg></p>
+
+<pb n="313" xml:id="mmm.anti.lyford.1886.320"/>
+
+<p><hi rend="center"><hi rend="smallcaps">A HAUNTED TITHING OFFICE.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils"><persName key="Klingensmith, Philip">Klingon Smith</persName> had come in during the early part of the night, and had lain down in an adjacent room without seeing the boys. Early in the evening, several blood-stained garments had been thrown on the floor and piled in the cellar. At some time in the night the wagons arrived with the remainder of the plundered goods. There were large quantities of them. The cellar was partly filled, besides the huge stack of articles in the main office. Bedding, clothing, pans, cooking utensils, chains, yokes, and, in fact, every thing that could be taken from a body of wealthy emigrants, were stored in God's holy tithing office! This edifice is sacredly dedicated to the Lord, and to the produce and gifts which are donated by his holy people. After such unhallowed use had been made of the building, it is hardly strange that even unsuperstitious people should have deemed the house haunted. After the murderers had gone away, suddenly the room and cellar resounded with groins, cries, sobs, shrieks, and death-screams. This boy says that he and his comrades will testify that such was the case. <persName key="Klingensmith, Philip">Klingon Smith</persName> heard the ghostly din, and, after listening for a time, he dashed wildly from
+
+<pb n="314" xml:id="mmm.anti.lyford.1886.321"/>
+
+the house, out into the night. He locked the door after him, and the boys were prisoners. Shut in with gory spoils, they would have gone stark mad ere morning but that the house was unfinished, and a portion of the roof had not been nailed down. They managed to clamber up and escape. "Do you still believe that supernatural groans and cries were heard that night in the tithing office?" I asked. "No," replied he. "I don't believe&#8211;I <hi rend="italic">know</hi> there were!"</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Two months afterward the spoils were sold at
+
+<hi rend="center"><hi rend="smallcaps">PUBLIC AUCTION.</hi></hi></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">Bishop <persName key="Higbee, John M.">John M. Higbee</persName> acted as auctioneer. Prior to the sale the people had been urged to give up all the articles that had fallen into their hands! The insatiate greed of the leaders is shown by the fact that sermons were preached on the enormity of the crime of Ananias and Sapphira in withholding a part of their goods from the Lord. Just what the Lord wanted with Mountain Meadows spoils did not appear.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="LDS_LDS">Every article that could be obtained was disposed of to the highest bidder—bake-ovens, frying-pans, pails, saws, chisels, augers, axes, log-chains, ox-bows, bedding, etc. "I saw <persName key="Lee, John D.">John D. Lee</persName> selling oxen at private sale."</seg></seg></p>
+
+<pb n="315" xml:id="mmm.anti.lyford.1886.322"/>
+
+<p><hi rend="center"><hi rend="smallcaps">THE BIDDING RAN HIGH.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Spoils">The payment was to be made in wheat after harvest, and the bidding was accordingly very high. Every article brought nearly or quite its value. I saw a gentleman who bought some carpenter's tools. They were of excellent metal, and he has always regretted that he did not bid on more of them; because, first, he needed the tools, and, secondly, the articles were never paid for. A few people did pay cash down for whatever they bought, and the money went to the tithing office. <seg type="Context" subtype="UtahWar">Before the harvesting was done, Gen. <persName key="Johnston, Albert Sidney">A. S. Johnston</persName> had entered <placeName type="state" key="Utah Territory">Utah</placeName>, the wildest excitement prevailed, <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> had been deserted, people had flocked from all parts of <placeName type="state" key="Utah Territory">the Territory</placeName> to the southern settlements,</seg> and payment for the goods of <seg type="Massacre" subtype="Casualties">the murdered emigrants</seg> was never demanded.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">OBLITERATING TRACKS.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">As Bishop <persName key="Higbee, John M.">Higbee</persName> stood auctioneering the spoils, he was careful to erase or destroy all traces of names. It was quite evident that the friends of the deceased should not be permitted to trace them to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. Many fine books were sold, and if the fly-leaves contained names or writing, they were carefully torn out or the writing erased.</seg></seg></p>
+
+<pb n="316" xml:id="mmm.anti.lyford.1886.323"/>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="LDS_LDS">All accounts of the sale were kept in a certain book, which is said to have been burned the next year. Probably. nothing remains to-day but the testimony of witnesses to show how rich, how immense, was the plundered property of the people who were massacred. Much was never offered for sale. It was distributed among the perpetrators.</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">QUARRELING OVER SPOILS.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">It may have been a plan of the Almighty to bring the circumstances to light, but certain it is there was much quarreling, bitterness, and heart-burnings over the division of the property. <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Lee, John D.">Lee</persName> quarreled. <seg type="Blame" subtype="IndiansLDSInfluence">The Indians complain to this day that they were badly used.</seg> The people were greatly dissatisfied over their portion, claiming that the leaders&#8212;<persName key="Lee, John D.">Lee</persName>, <persName key="Haight, Isaac C.">Haight</persName>, Dame, and <persName key="Higbee, John M.">Higbee</persName>&#8212;took the lion's share.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">Some of the participants were partially rewarded. A man who had but one cow before suddenly had four or five, and one who had a poor wagon previous to the massacre was discovered to have an excellent new one.</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">LEE TELLS THE CRIME.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName> was the first to disclose the horrible news. It seems to have gnawed so hard at the old
+
+<pb n="317" xml:id="mmm.anti.lyford.1886.324"/>
+
+man's heart that he could not conceal it longer. <seg type="Blame" subtype="IndiansIndependently">He traveled up through <placeName type="state" key="Utah Territory">the Territory</placeName> and told, everywhere, that the Indians had massacred a train!</seg> The world believed the tale, and no hearts shuddered with more intense horror than those of the Mormon people. A marked peculiarity of this strange people is, that they seldom ask questions. The Mormons deserve to be as celebrated for their secretiveness as the Yankees are for their inquisitiveness. A Mormon can travel through the whole of southern <placeName type="state" key="Utah Territory">Utah</placeName> and never be asked his name, occupation, or destination. They strictly mind their own business; for this reason news travels slowly.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">HOW THE TRUTH WAS TOLD.</hi></hi></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">At last it was whispered that white men helped the Indians. No one believed it at first. The terrible rumors began to multiply rapidly. The secret which is shared by scores of people cannot be kept a secret long if it involves such horrible bloodshed. A large train passed through to <placeName type="state" key="California">California</placeName> soon after the massacre, and learned some things. Friends in the States became worried over the mysterious silence of their loved ones, and advertised. <persName key="Aden, William">Aden</persName>'s father was one of these. Trains from <placeName type="state" key="Arkansas">Arkansas</placeName> and
+
+<pb n="318" xml:id="mmm.anti.lyford.1886.325"/>
+
+<placeName type="state" key="Missouri">Missouri</placeName> asked what had suddenly become of their old friends and neighbors. A party of young Mormons first brought the news to <placeName type="state" key="California">California</placeName>. They heard the story in southern <placeName type="state" key="Utah Territory">Utah</placeName>, and gave it very correctly. Next came the confession of <persName key="Spencer, George">Spencer</persName>, a Mormon school teacher, who became quite a monomaniac on the subject. He talked constantly of the part he had enacted in the frightful tragedy.</seg></seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">CONFESSIONS BECAME FREQUENT.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="young, J. M.">J. M. Young</persName>, another participant, told the entire history of the deed. About this time the "Deseret News" devoted an editorial to the subject of the massacre, and bitterly denied Mormon complicity. <seg type="Blame" subtype="IndiansLDSInfluence">The statement of the old Mormon chieftain, <persName key="Kanosh">Kanosh</persName>, was next made public. <seg type="Massacre" subtype="Spoils">The white Mormons had dealt unfairly with this red brother in dividing the spoils</seg>, and he gave full particulars of the affair.</seg> I am under obligations to Mr. <persName key="Beadle, J. H.">J. H. Beadle</persName> for the information in this paragraph.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">RESTING AT LAST.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Aftermath">We know little about death, yet our ideas of the
+
+<hi rend="center"><quote>"Sweet rest in heaven"</quote></hi>
+
+are certainly not connected with bleaching bones which the gaunt wolves gnaw nightly. Mayhap the
+
+<pb n="319" xml:id="mmm.anti.lyford.1886.326"/>
+
+daisies and violets will never grow above our graves, and, perchance, no sorrowing tears will ever fall on the sod above our heads; yet we all hope for peaceful, quiet resting-places. <seg type="Massacre" subtype="Casualties">These poor emigrants</seg> were denied even this slight boon. Their bodies were given as a prey to the beasts of the field and the vultures of the air; and the rain and snow, the storm and sleet, bleached and whitened the bones when the wolves had finished. <seg type="Massacre" subtype="Survivors"><seg type="Reaction" subtype="Commemoration">In August, 1858, Government sent Brig. Gen. <persName key="Carleton, James Henry">Carleton</persName> to bury the bones</seg>, and ordered Dr. <persName key="Forney, Jacob">Forney</persName>, the Indian Agent, who superseded <persName key="Young, Brigham">Brigham</persName>, to collect the surviving children.</seg> Two companies of dragoons camped on the spot nine or ten days.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">GHASTLY RELICS.</hi></hi></p>
+
+<p><seg type="Massacre" subtype="Aftermath">They found bones scattered for two hundred yards.<seg type="Blame" subtype="LDS_LDS"> The skulls bore no marks of scalping-knives</seg>, and whole heads of women's hair were found, tied just as when the owners were murdered. For convenience, the women who crossed the plains often bound up their hair with shoe-strings or strong cords, and many bunches were found thus tied together. There were also found old wagon-boxes, broken and splintered pieces of boards, and fragments of clothing, shivered arrows, and flinty barbs that had lain buried in
+
+<pb n="320" xml:id="mmm.anti.lyford.1886.327"/>
+
+human flesh until liberated by wolf-fangs. Many of the bones had been partially concealed in the dust and mud along the creek</seg><choice><sic></sic><corr>.</corr></choice>
+
+<seg type="Massacre" subtype="Casualties"><hi rend="center"><hi rend="smallcaps">SQUADS OF MEN</hi></hi>
+
+were sent thirty miles to get the little ones from the Mormon families in which they were placed. Seventeen were found&#8212;fifteen girls and two boys. Their ages varied from four to thirteen years. Most of them had received names from the Mormons, and knew no others.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">TESTIMONY OF THE CHILDREN.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">It was a great mistake to suppose children would not remember. Impress such a scene of horror upon a child's mind, and time would have little power to erase the memory of the deed. One girl was nearly thirteen years old. Her testimony was clear and unwavering, and firmly established facts that had before been doubted. Two boys, named <persName key="Sorrow, John Calvin">John Calvin</persName> and <persName key="Taggit, Abrose Mirem">Myron Tackett</persName>, aged respectively nine and seven, were brought to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and placed under the charge of a most estimable lady until arrangements could be made for sending them to <placeName type="state" key="Arkansas">Arkansas</placeName>. <persName key="Sorrow, John Calvin">John</persName> would often tell how he
+
+<pb n="321" xml:id="mmm.anti.lyford.1886.328"/>
+
+<hi rend="center"><hi rend="smallcaps">PICKED ARROWS FROM HIS MOTHER'S BODY</hi></hi>
+
+<seg type="Blame" subtype="IndiansLDSInfluence">as fast as the Indians would shoot them into her flesh</seg>. He saw <seg type="Massacre" subtype="Casualties">his grandfather, grandmother, aunt, father, and mother</seg> murdered.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Spoils">Many of the children saw Mormon women wearing their mother's dresses. <persName key="Haight, Isaac C.">Haight</persName>'s wives and <persName key="Lee, John D.">Lee</persName>'s wives were often seen in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> wearing silks and satins that came from the Mountain Meadow women. Jewelry and ornamental articles found their way through almost all the southern settlements. <persName key="Sorrow, John Calvin">John Calvin</persName> says that <persName key="Lee, John D.">Lee</persName> drove his father's gray horses for a few days, and then a bishop obtained possession of them.</seg> Mrs. <persName key="Worley, ">Worley</persName> went to the States with these children, and most of them were placed in the care of friends or relatives. Seventeen years have elapsed, but some of these children would be valuable witnesses should the murderers be brought to trial.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Klingensmith, Philip">Philip K. Smith</persName>, an apostate bishop, fled to <placeName type="settlement" key="pioche, NV">Pioche</placeName>, and made a full and complete affidavit of the events of the massacre. He was present, and engaged in the bloody work. Two others went, like <persName key="Klingensmith, Philip">Smith</persName>, to a justice of the peace, and made lengthy affidavits of the particulars.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">When the facts became notoriously public <persName key="Lee, John D.">Lee</persName> and
+
+<pb n="322" xml:id="mmm.anti.lyford.1886.329"/>
+
+<persName key="Haight, Isaac C.">Haight</persName> were cut off from the Church. <persName key="Young, Brigham">Brigham Young</persName>, on his southern trips, used always to associate with these worthies, however, and a southern bishop says <persName key="Haight, Isaac C.">Haight</persName> has since been restored. <persName key="Lee, John D.">Lee</persName> rode through the streets of Kauarra last April in the president's carriage, sat beside <persName key="Young, Brigham">Brigham</persName> in the pulpit, and was <persName key="Young, Brigham">Brigham</persName>'s host at <placeName type="settlement" key="Harmony, UT">Harmony</placeName>. <persName key="Lee, John D.">Lee</persName> tells me, that, although "cut off," he considers himself as much of a Mormon as ever.</seg></p>
+
+<p><hi rend="center"><hi rend="smallcaps">SKULKING COWARDS.</hi></hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">From <placeName type="settlement" key="Beaver, UT">Beaver</placeName> and <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> a general stampede has been made since the sitting of the Grand Jury in the Second District. <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John M.">Higbee</persName> are in the neighborhood of <placeName type="settlement" key="Kanab, UT">Kanab</placeName>, below <placeName type="settlement" key="St. George, UT">St. George</placeName>. <persName key="Stewart, Bill">Bill Stewart</persName> is in the same locality. <persName key="M'Farlane, ">M'Farlane</persName>, the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> postmaster, has not dared to make an appearance at home except on one evening, when he came from the south in the stage just after dark. He was closely muffled and disguised, and left in half an hour. He is said to have been very active during the massacre.</seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration"><hi rend="center"><hi rend="smallcaps">THE MONUMENT</hi></hi>
+
+is a heap of large stones gathered from the neighboring hill-sides. It is an irregular pile, twenty feet
+
+<pb n="323" xml:id="mmm.anti.lyford.1886.330"/>
+
+long and seven feet wide. It is highest in the middle, and slopes, like the roof of a house, to each side. It is only three or four feet high, and bears no cross or inscription. The first monument and cross were totally destroyed, and when rebuilt by the United States soldiers, the cross was again demolished.</seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration">Perhaps the perpetrators disliked the inscription, "Vengeance is mine, I will repay, saith the Lord." Poor fools! The sentiment is today stamped upon thousands of American hearts, and, while vandals destroy the poor wooden cross above the murdered emigrants, they only succeed in impressing the word "Vengeance" more deeply upon the hearts. May God speed the triumph of justice!</seg></p>
+
+<p><hi rend="right">A. M. P. O.</hi></p>
+
+<p><hi rend="center"><hi rend="smallcaps">THE END.</hi></hi></p>
+</div1>
+
+        </body>
+    </text>
+    </TEI>

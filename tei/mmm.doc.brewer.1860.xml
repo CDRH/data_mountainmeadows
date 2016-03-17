@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.brewer.1860">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Message of the President of the United States: Brewer's Report</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>Charles</forename> <surname>Brewer</surname></author>
+		<principal>Douglas Seefeldt</principal>
+		</titleStmt>
+		<editionStmt>
+		    <edition>
+			<date>2012</date>
+		    </edition>
+		</editionStmt>
+		<publicationStmt>
+    		<idno>mmm.doc.brewer.1860</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+	        <title level="a">Brewer’s Report, Camp at Mountain Meadows, Utah Territory, May 6, 1859.</title>
+	    	<title level="m">Message of the President of the United States, Communicating, in compliance with a resolution of the Senate, information in relation to the massacre at Mountain Meadows, and other massacres in Utah Territory</title>
+	        <title level="s">US Senate. 36th Congress, 1 Sess. Senate Exec. Doc. 42, Serial 1033</title>					<author><forename>Charles</forename> <surname>Brewer</surname></author>
+    		<publisher>Government Printing Office</publisher>
+		    <pubPlace>Washington, DC</pubPlace>
+	        <extent>16-17</extent>
+		    <date when="1860">1860</date>
+	        <note type="source">Charles Brewer. "Brewer’s Report, Camp at Mountain Meadows, Utah Territory, May 6, 1859," in James Buchanan. <hi rend="italic">Message of the President of the United States, communicating, in compliance with a resolution of the Senate, information in relation to the massacre at Mountain Meadows, and other massacres in Utah Territory</hi>. US Senate. 36th Cong., 1st Sess. Washington, DC: GPO, 1860. Senate Exec. Doc. 42, Serial 1033. 16–17.</note>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-17"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+    	<change when="2011-05-31"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-01-08"><name>Laura Weakly</name> Encoding enhancement, validation</change>
+    	<change when="2009-10-29"><name>Kelsey F. Harris</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1 type="doc">
+
+    <pb n="16" xml:id="mmm.doc.brewer.1860.016" />  
+    
+    
+<head type="main">BREWER’S REPORT
+</head>
+   
+<opener>Camp at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>,
+<dateline><placeName type="state" key="Utah Territory">Utah Territory</placeName>, May 6, 1859</dateline>
+</opener>
+
+    <p>Captain: I have the honor to report, that this morning, accompanied by the detachment of men furnished by your orders, <seg type="Massacre" subtype="Aftermath">I proceeded to inter the remains of the men, women, and children</seg> of the <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName> emigrant train</seg>, <seg type="Blame" subtype="LDS_LDS">massacred by the Mormons</seg> <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName></seg>, <seg type="Massacre" subtype="Dates">in the month of September, 1857</seg>.</p>
+
+    <p><seg type="Massacre" subtype="Aftermath">At the scene of the first attack, in the immediate vicinity of our present camp, marked by a small defensive trench made by the emigrants, a number of human skulls and bones and hair were found scattered about, bearing the appearance of never having been buried; also remnants of bedding and wearing apparel.</seg></p>
+    
+    <p><seg type="Massacre" subtype="Aftermath">On examining the trenches or excavations, which appear to have been within the corral, and within which it was supposed some written account of the massacre might have been concealed, some few human bones, human hair, and what seemed to be the feathers of bedding, only were discerned.</seg></p>
+    
+    <p><seg type="Massacre" subtype="Aftermath">Proceeding twenty-five hundred yards in a direction N.15 W., I reached a ravine fifty yards distant from the road, bordered by a few bushes of scrub oak, in which I found portions of the skeletons of many bodies&#8212;skulls, bones, and matted hair&#8212;most of which, on examination, I concluded to be those of men.  Three hundred and fifty yards further on, and in the same direction, another assembly of human remains were found, which, by all appearance, had been left to decay upon the surface.  Skulls and bones, most of which I believed to be those of women, some also of children, probably ranging from six to twelve years of age.  Here, too, were found masses of women's hair, children's bonnets, such as are generally used upon the plains, and pieces of lace, muslin, calicoes, and other material, part of  women's and children’s apparel.  I have buried thirteen skulls, and many more scattered fragments.</seg></p>
+
+    <p><seg type="Massacre" subtype="Aftermath">Some of the remains above referred to were found upon the surface of the ground, with a little earth partially covering them, and at the 
+        
+    <pb n="17" xml:id="mmm.doc.brewer.1860.017" />          
+        
+place where the men were massacred; some lightly buried, but the majority were scattered about upon the plain.  Many of the skulls bore marks of violence, being pierced with bullet holes, or shattered by heavy blows, or cleft with some sharp-edged instrument.  The bones were bleached and worn by long exposure to the elements, and bore the impress of the teeth of wolves or other wild animals.</seg></p>
+    
+    <p><seg type="Massacre" subtype="Aftermath">The skulls found upon the ground near the spring, or position of first attack, and adjoining our camp, were eight in number.  These, with the other remains there found, were buried, under my supervision, at the base of the hill, upon the hill-side of the valley.</seg></p>
+    
+    <p><seg type="Massacre" subtype="Aftermath">At the rate 2,500 yards distant from the spring, the relative positions and general appearance of the remains seemed to indicate that the men were there taken by surprise and massacred.  Some of the skulls showed that fire-arms had been discharged close to the head.  I have buried eighteen skulls and parts of many more skeletons, found scattered over the space of a mile towards the lines, in which direction they were no doubt dragged by the wolves.</seg></p>
+    
+    <p><seg type="Massacre" subtype="Aftermath">No names were found upon any article of apparel, or any peculiarity in the remains, with the exception of one bone, the upper jaw, in which the teeth were very closely crowded, and which contained one front tooth more than is generally found.</seg></p>
+    
+    <p><seg type="Massacre" subtype="Aftermath">Under my direction, the above-mentioned remains were all properly buried, the respective locality being marked with mounds of stone.</seg></p>
+    
+<p>I have the honor to be, captain, very respectfully, your obedient servant.</p>
+<closer>
+    <signed><hi rend="right"><persName key="Brewer, Charles">CHARLES BREWER</persName>,
+Assistant Surgeon United States Army.</hi>
+</signed>
+
+<signed>Captain <persName key="Campbell, R. P.">R. P. Campbell</persName>,
+    Second Dragoons, Commanding Paymaster's Escort.</signed>
+</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

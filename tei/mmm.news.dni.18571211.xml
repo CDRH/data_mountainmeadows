@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dni.18571211">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Late Emigrant Massacre Exaggerated</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+	   	<edition>
+		    <date>2012</date>
+		</edition>
+	    </editionStmt>
+	    <publicationStmt>
+		<idno>mmm.news.dni.18571211</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Daily National Intelligencer</title>
+		<title level="a" type="main">THE LATE EMIGRANT MASSACRE EXAGGERATED</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Washington, DC</pubPlace>
+		<date when="1857-12-11">December 11, 1857</date>
+	    </bibl>
+	</sourceDesc>
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+    	   <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-05"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-02"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-08-14"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-08-14"><name>Katie Heupel</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+	
+	<pb n="unknown" xml:id="mmm.news.dni.18571211.001"/>
+
+<head>THE LATE EMIGRANT MASSACRE EXAGGERATED.</head>
+
+<p><seg type="Source" subtype="Reprinted"><orgName type="newspaper" key="Memphis Bulletin">The Memphis Bulletin</orgName> of December 3d publishes a new version of the recent massacre of emigrants <seg type="Blame" subtype="IndiansIndependently">by Indians</seg> in <placeName type="state" key="Utah Territory">Utah</placeName>, which, if correct, shows that the accounts of that tragedy heretofore received were much exaggerated.</seg>  <seg type="Source" subtype="Unattributed">The Bulletin's authority is a letter by a citizen of <placeName type="state" key="New Madrid, MO">New Madrid</placeName> from a relative who was in the company alleged to have been massacred.</seg>  <seg type="Blame" subtype="IndiansIndependently">According to this the train was attacked by a very large body of Indians</seg>, but the latter were repulsed with the loss of only a few lives.  <seg type="Source" subtype="Reprinted">The <orgName type="newspaper" key="Journal of Commerce">Journal of Commerce</orgName> remarks:</seg></p>
+
+<p><seg type="Source" subtype="Reprinted"><seg type="Source" subtype="Attributed_Warn"><seg type="Source" subtype="Attributed_Powers">"These statements wear an air of probability, and are rather confirmed than disproved by the reports already published.  The two men (Messrs. <persName key="Powers, James Wilson">Power</persName> and <persName key="Warn, P. M.">Warn</persName>) whose statements have been received as a corroboration of the massacre obtained their information, not by personal observation, but form the Mormons through whom they passed, who seemed anxious to impress upon them the belief that <seg type="Massacre" subtype="Casualties">the entire company had perished</seg>.</seg></seg></seg>  There is very little to substantiate the truth of this outrage exception these reports.  These men travelled the entire route in the rear of the train, but saw no dead bodies, and but few evidences of any act of outrage.  <seg type="Blame" subtype="IndiansLDSInfluence">They met a company of Indians and white men, with a wagon, coming from the scene of slaughter.</seg>  <seg type="Massacre" subtype="Spoils">These were driving 'several head of the emigrant's cattle,' and many of them had shawls and bundles of women's clothes tied to their saddles.  If this was all the plunder obtained it was but a small quantity to take from one hundred and eighteen persons, and showed that the attack could not have been very successful.</seg>  <seg type="Source" subtype="Attributed_Warn">Moreover, Mr. <persName key="Warn, P. M.">Warn</persName> says in his report, that when he was at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> an express arrived from the Indians stating that one of their warriors had run up and looked into their corral, (their barricade,) and <seg type="Massacre" subtype="Casualties">he supposed that 'only five or six of the emigrants were killed yet.'</seg></seg>  <seg type="Context" subtype="WesternViolence">The whole truth in the matter seems to be that one of those attacks so often made upon wagon trains was exaggerated by the Mormons into a wholesale slaughter to subserve their own purpose.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

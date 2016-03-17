@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.cdt.18571204b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Murderous Outrages by the Mormons and their Indian Allies Confirmed</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.cdt.18571204b</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+     
+             <notesStmt>
+                 <note type="summary">In this report, sections from the Los Angeles Star are reprinted.
+                 </note>
+             </notesStmt>
+
+             <sourceDesc>
+
+                 <bibl>
+                     <title level="a">Murderous Outrages by the Mormons and their Indian Allies Confirmed.</title>
+                     <title level="j">Chicago Daily Tribune</title>
+                     <author>Editor Chicago Daily Tribune</author>
+                     <publisher>Publisher Chicago Daily Tribune</publisher>
+                     <pubPlace>Chicago, IL</pubPlace>
+                     <date when="1857-12-04">1857-12-04</date>
+                 </bibl>
+             </sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+       
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term> 
+                </keywords>
+                <keywords scheme="original" n="culpability">
+                    <term>Mormon and Indian</term>
+                </keywords>
+                <keywords scheme="original" n="sympathy">
+                    <term>Non-Mormon</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+    <revisionDesc>
+        <change when="2011-06-16"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+        <change when="2008-04-07"><name>Leslie Working</name> Initial Encoding</change>
+        <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.cdt.18571204b.001"/>
+
+<head>Murderous Outrages by the Mormons and their Indian Allies Confirmed.</head>
+
+    <p>The <hi rend="italic">Northern Light</hi> arrived at <placeName type="settlement" key="New York, NY">New York</placeName> on Monday morning with two weeks later news from <placeName type="state" key="California">California</placeName>. The news is down to the 19th from <placeName type="settlement" key="San Francisco, CA">San Francisco</placeName>. She brings 603 passengers, the usual Pacific and Atlantic mails and $2,118,652 78; in treasure, as follows: For New York, 1,744,672 78; for New Orleans, 366,350; and for Havana, $7,650.</p>
+
+<note type="editorial" resp="Leslie Working">[Three paragraphs of unrelated news]</note>
+
+<p><hi rend="bold"><hi rend="center">Great Massacre of Emigrants.</hi></hi>
+The news published on the arrival of the last steamer, of the massacre of <seg type="Massacre" subtype="Casualties">118 emigrants</seg>, is fully confirmed. <seg type="Source" subtype="PublicMind"><seg type="Blame" subtype="LDS_LDS">The evidence establishing the complicity of the Mormons in this outrage, is now sufficient to banish all doubt on that subject:</seg></seg></p>
+
+<p><hi rend="bold"><hi rend="center">Indignation Meeting at Los Angeles</hi></hi>
+We learn from the <orgName type="Newspaper" key="Los Angeles Star">Los Angeles Star</orgName> that a mass meeting of citizens was held in that city on the 12th of October to investigate the facts in the <seg type="Massacre" subtype="Location">recent massacre, on the Salt Lake road</seg>, of <seg type="Massacre" subtype="Casualties">more than one hundred and twenty Americans</seg>, "Mr. <persName key="Wallace, W. A. ">W. A. Wallace</persName> read a statement of Mr. <persName key="Powers, George">George Powers</persName>, of Little Rock, Ark., who had just arrived across the Plains. Mr. <persName key="Powers, George">Powers</persName> says; on his, arrival last August, at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>: <seg type="Source" subtype="Attributed_Powers">"<seg type="Context" subtype="UtahWar">We found the Mormons making very determined preparations to fight the United States troops, whenever they may arrive. On their way in, we met three companies of one hundred men each, armed, and on the road towards the pass above Fort Bridger. <seg type="Context" subtype="IndianRelationsLDS">I was told at <orgName type="military" key="#Fort Bridger">Fort Bridger</orgName>, that at <orgName type="military" key="#Fort Supply">Fort Supply</orgName>, there were four hundred armed Indians awaiting orders; they also said that</seg> there were 50,000 pounds of flour stored at <orgName type="military" key="#Fort Bridger">Fort Bridger</orgName> for the use of their army. We found companies drilling every evening in the city. The Mormon declared to us that no United States troops should ever cross the mountains; and they talked and acted as if they were willing to take a brush with Uncle Sam.</seg> Mr. <persName key="Powers, George">Powers</persName> kept onto <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, 230 miles west of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, when he met three Mormons from the scene of slaughter, in company with a band of some twenty Indian warriors. One of the men in company with Mr. <persName key="Dame, William">Dame</persName>, was Mr. <persName key="Haight, Isaac">Haight</persName>, President of <placeName type="settlement" key="Cedar City">Cedar City</placeName>. <seg type="Massacre" subtype="Aftermath">Mr. <persName key="Dame, William">Dame</persName> said they had been out to see to the burying of the dead; <seg type="Massacre" subtype="Casualties">but the dead were not buried. From what I heard, I believe the bodies were left lying naked upon the ground, having been stripped of their clothing by the Indians.</seg></seg> <seg type="Massacre" subtype="Spoils">These Indians had a two horse wagon, filled with something I could not see, as blankets were carefully spread over the top. The wagon was driven by a white man, and beside him, there were two or three Indians in it. Many of them had shawls, and hundreds of women's clothing were tied to their saddles. They were also supplied with guns or pistols, besides bows and arrows. The hindmost Indians were driving several head of the emigrant's cattle,</seg> <seg type="Context" subtype="IndianRelationsLDS">Mr. <persName key="Dame, William">Dame</persName> and Mr. <persName key="Isaac Haight">Haight</persName>, and their men, seemed to be on the best of terms with the Indians and they were all in high spirits, as if they were mutually pleased with the accomplishment of some desired object. They thronged around us and greeted us with noisy cordiality.</seg> We did not learn much from them. They passed on and we drove all night in silence, and at daylight camped, and were told we were three miles beyond the scene of slaughter.</seg></p>
+
+<p><seg type="Context" subtype="LDSApostates">Mr. <persName key="Powers, George">Powers</persName> and his train arrived at <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, and he was advised by Mr. <persName key="Mathews, William">Mathews</persName>, who, he learned, was a President or Elder in that place, not to associate with the damned apostates that they were cut-throats of the worst character.</seg> If he wished, they would give him constant work at their mill in the mountains, and he must be careful not to talk too much of what he had seen. When in <placeName type="county" key="Ssan Bernardino County, CA">San Bernardino</placeName>, he heard many persons express gratification at the massacre. At the church services on Sunday, <persName key="Hunt">Capt. Hunt</persName> occupied the pulpit, and, among other things, he said that the hand of the Lord was in it; whether it was done by white or red skins, It was right! The prophesies concerning <placeName type="state" key="Missouri">Missouri</placeName> were being fulfilled, and they would all be accomplished. <persName key="Mathews, William">Mr. Mathews</persName> said the work had just begun, and it should be carried on until Uncle Sam and all his boys that were left should come to Zion and beg for bread.</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">WHEREAS, After a careful examination into all the circumstances connected with the late horrible massacre <seg type="Massacre" subtype="Location">in <placeName type="state" key="Utah Territory">Utah Territory</placeName></seg>, we firmly believe the atrocious act was perpetrated by the Mormons, and their allies, the Indians</seg>; and</p>
+
+<p>WHEREAS, We, perceive the rapidly gathering clouds of trouble, caused by a long, undisturbed, systematized course of thefts, robberies and murders, promoted and sanctioned by their leader and head prophet, <persName key="Young, Brigham">Brigham Young</persName>, together with the elders and followers of the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormon Church</orgName>, upon American citizens, whom necessity had compelled to pass through their Territory; aware of their bitter hostility to our Republican Government, and all its institutions; their rejection, insult, oppression; and in some cases murder, of the Federal officers, sent by the President to enforce the laws of the United States; <seg type="Reaction" subtype="MilitaryRetaliation"><seg type="Reaction" subtype="FederalInvestigation">believing that the late massacre in cold blood of <seg type="Massacre" subtype="Casualties">one hundred and eighteen persons, included in which number were sixty women and children</seg>, is but a commencement of a series of such fiendish atrocities, that the many emigrant trains now on their way from the Western States to California, are liable to meet the same fate unless speedy measures are taken by the Government of the United States, the tide of emigration by this route will be entirely stopped.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Therefore be it Resolved, That we respectfully petition the President of the United States to exert the authority vested in him by the Constitution, that prompt measures may be taken for the punishment of the authors of <seg type="Massacre" subtype="Casualties">the recent appalling and wholesale butchery of innocent women and children.</seg></seg></p>
+
+<p>Resolved, That as there are at the present time a large community of Mormons residing in the adjoining county of San Bernardino, many of whom are living in open violation of one of the most important and sacred laws of our State.</p>
+
+<p>Be it Resolved, That we hereby respectfully request the Chief Executive of this State enforce its laws upon the people.</p>
+
+<p><seg type="Reaction" subtype="Anti-MormonAction">Resolved, That we hold ourselves ready at all times to respond to the call of the proper authorities to assist, if necessary, in enforcing obedience to the laws.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

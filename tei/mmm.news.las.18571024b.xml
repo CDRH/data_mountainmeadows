@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571024b">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">More Outrages on the Plains</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+        <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571024b</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">With the arrival of emigrants, stories of massacres and Mormon hostility along the trail spread in Los Angeles.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">More Outrages on the Plains!! Two Men Wounded!! 320 Head of Cattle Run Off, &amp;C, &amp;C!!</title>
+		    <title level="j">Los Angeles Star</title>
+		    <author>Editor, Los Angeles Star</author>
+		    <publisher>Los Angeles Star</publisher>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <date when="1857-10-24">October 24, 1857</date>
+		</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+  	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement, Encoding Enhancement</change>
+	<change when="2007-05-31"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.las.18571024b.001"/>
+
+<head type="main">More Outrages on the Plains!!</head> 
+    <head type="main">Two Men Wounded!!</head> 
+        <head type="sub">320 Head of Cattle Run Off, &amp;C, &amp;C!!</head>
+
+<p>The surprise and excitement, following the receipt of the intelligence of the late horrible massacre on the Plains, had not abated when, when we find ourselves called on to record another attack on peaceable citizens traveling along the common highway.</p>
+
+<p>It was known that another train was following that which has been so ruthlessly assassinated, and but a few days march behind it, and great fear was entertained for its safety. This alarm has been but too well founded as the following detail of their sufferings will exhibit. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="IndianRelationsLDS"><seg type="Source" subtype="Attributed_Honea">No one who reads the statement given below by <persName key="Honea, S. B. ">Mr. Honea</persName></seg>, can for a moment doubt the complicity of the Mormon leaders in these scenes of crime and outrage. The immense sums paid to the interpreters, and their refusal to fulfill the terms of their contracts&#8212;not to say, what is very plainly charged against them by our informant&#8212;that they conspired with the Indians to commit the depredations and outrages complained of&#8212;would alone convict them of a participation in these murderous assaults.</seg></seg> <seg type="Reaction" subtype="MilitaryRetaliation">What course the Government will take in the matter we cannot say, but we think another year will not roll round without a sufficient force being stationed along the road to protect the people in their journey. This we think the Government owes to its citizens, whether or not it will inflict punishment on these wrongdoers.</seg></p>
+
+<p>From the statements made regarding the preaching of the <persName key="Young, Brigham">Mormon Prophet</persName>, and the sentiments of the people, there can be do doubt but a deep rooted animosity exists amongst them against the people and Government of the United States. <seg type="Context" subtype="UtahWar">It will be seen that the Mormon troops had actually moved out to engage and drive back the men under the command of <persName key="Johnston, Albert Sidney">Col. <choice><sic>Johnson</sic><corr>Johnston</corr></choice></persName>, who had succeeded <persName key="Harney, William S.">Gen. Harney</persName> in command of the Utah expedition. What the result of this movement has been, a short time will tell; but the first shot fired against that band of "Uncle Sam's boys," will be the signal for lighting the torch of a long and sanguinary war, which will not be quenched till Mormonism is exterminated from the soil of the United States.</seg></p>
+
+<p>We commend the following statement to the careful perusal of our readers. We have full confidence in the candor and veracity of the gentleman who furnishes the information. He is well known to a large number of our most respectable citizens, who were formerly residents of Franklin county, in the State of Arkansas, from which he has just emigrated:&#8212;</p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><persName key="Honea, S. B.">S. B. HONEA</persName></seg>, of Franklin county, State of Arkansas, left home on the 9th of May, 1857, for California, in company with the <orgName type="wagontrain" key="Crook and Collins company">Crook &amp; Collins company</orgName>, and afterwards fell in with the <orgName type="wagontrain" key="Williamson company">Williamson company</orgName>, from Pope county. With the exception of an attack by the <orgName type="native" key="Arapaho">Rappaho Indians</orgName>, on the Arkansas river, on the 20th of June, on the company of Captain Henry of Texas, who lost 151 head of cattle, <seg type="Context" subtype="UtahWar">nothing of interest occurred on the journey, nor did they perceive any symptoms of opposition, or of armed bands, till they came to <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, in <placeName type="state" key="Utah Territory">Utah Territory</placeName>. Here they saw a large quantity of provisions stored, a considerable number of Indians encamped all round the fort, and heard the people generally speaking of making preparations to go out and meet <persName key="Harney, William">General Harney</persName>. At <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, was told by a merchant that at <placeName type="military_post" key="Fort Supply">Fort Supply</placeName> over 400 Indians were encamped, awaiting orders to attack the U.S. troops. About thirty miles from <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, met three companies of men, generally mounted, and all well armed, having abundance of baggage, their wagons being numbered in messes.</seg></p>
+
+<p><hi rend="center">THE ARMY OF OBSERVATION.</hi><lb/>
+Here had a conversation with one of the Mormon soldiers, an Englishman, who camped with our company, and over the camp fire became communicative. <seg type="Context" subtype="LDSPersecution">He referred in bitter terms to the treatment the Mormons had received in Illinois and Missouri, reflected on the unjustness and tyranny of the people of the United States, and said that the time was come to get even.</seg> <seg type="Context" subtype="UtahWar">He said they were on their way to meet <persName key="Harney, William">Gen. Harney</persName>, to see what he was coming for; "if he was coming peaceably, we will let him come, but if not, we will drive him back," were the words used. Another Mormon, named Killion, an old man, who lives about seven miles <choice><sic>[out]</sic><corr>out</corr></choice> of Salt Lake city, spoke bitterly against the United States, denounced <persName key="Drummond, William W.">Judge Drummond</persName>, and all the Federal officers, and rejoiced that the time had come when the saints would be avenged on their enemies&#8212;that men were found who could face the enemy, and that <persName key="Harney, William">Harney</persName>, with his 2,500 men, never would enter <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>. He also stated that <persName key="Young, Brigham">Governor Brigham Young</persName> had ordered the people to prepare for war; that they should not sell emigrants anything; that they must lay up provisions; that the men and women must not dress up in store clothes any more, but that all must be saved to forward the cause of the church against the common enemy&#8212;that the men must be content with buckskin instead of broadcloth, and have plenty of guns and ammunition.</seg></p>
+
+<p><hi rend="center">DECLARATION OF INDEPENDENCE.</hi><lb/>
+On the 17th of August, passed through the city of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>. Remained only three or four hours. <seg type="Context" subtype="TerritorialAdministration">Had a conversation with a merchant, a Gentile, who stated that on the previous Sunday, <persName key="Young, Brigham">Brigham Young</persName> had declared, in the Temple, that henceforth Utah was a separate and independent Territory, and owed no obedience or allegiance to any form or laws, but those of their own enactment, and called upon the people to stand together, and support him in maintaining the cause of God and the church.</seg> Was told that house of Gilbert &amp; Garrison, had orders from Brigham to pack up and leave before the 1st of November.</p>
+
+<p><hi rend="center">RUMORS OF THE MISSING TRAIN.</hi><lb/>
+Nothing occurred worthy of <choice><orig>not</orig><reg>note</reg></choice>, till we arrived at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>. Here had a conversation with a man who represented himself as the Indian agent.  <seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">He told us that a train had passed a short time before us, who had poisoned an ox, and that they had been attacked by the Indians.</seg> <seg type="Encounter" subtype="Slander">He spoke in abusive terms of the men of that train, for having acted in an improper manner.</seg></seg></p>
+
+<p>One of our company, named <persName key="Lane, Joseph">Joseph Lane</persName>, lost three oxen, which had been run off from him. He offered a reward to the Indians to bring them back, which they said they could not do, as they knew nothing of them, but three white men came into camp and offered to bring them back for $15, to which he agreed. They brought two of them and claimed the money, which was paid them. They then said the Indians had shot an arrow into the other, but that they would go and find him for $10, which was agreed to, and they then brought the missing animal into camp, which had no appearance of having been wounded. Here traded off a horse with an Indian, the agent acting as interpreter. From this we proceeded to <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, passing <orgName type="wagontrain" key="Turner wagon train"><persName key="Turner, Nicholas">Capt. Turner</persName>'s train, of Missouri</orgName>, about seven miles north of Beaver. Here we were informed that <seg type="Massacre" subtype="Battle"><seg type="Emigrants" subtype="StateAffiliationArkansas"><orgName type="wagontrain" key="Baker Fancher wagon train"><persName key="Baker, John T.">Capt. Baker</persName>'s train, of Carroll county Arkansas</orgName></seg>, had been murdered</seg>, and that it would not be safe for us to proceed any further.</p>
+
+<p><hi rend="center">ATTACK BY INDIANS.</hi><lb/>
+We camped that evening within half a mile of <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, and were informed that the Indians intended to attack <orgName type="wagontrain" key="Turner wagon train"><persName key="Turner, Nicholas">Captain Turner</persName></orgName> that night. The Mormons proposed that five of their men would go back with five of our men, in order to assist <orgName type="wagontrain" key="Turner wagon train">Turner's train</orgName>, but in reality to prevent us from firing on the Indians in their attack. Before we got there, firing had commenced, the Indians having begun to rifle the camp; one Indian was wounded. <orgName type="wagontrain" key="Turner wagon train">Turner's train</orgName> was harnessed up to join <orgName type="wagontrain" key="Dukes wagon train">our train</orgName>, the Indians keeping up a fire on them, wounding some of the cattle, but doing no other injury. <seg type="Context" subtype="IndianRelationsLDS">The interpreters prevented the men of the train from firing on the Indians, saying that if they injured an Indian we would all be killed. From this we became more apprehensive of the interpreters than of the Indians, feeling that we were completely in the power of an unscrupulous enemy.</seg></p>
+
+<p><hi rend="center">INDIANS LEVYING CONTRIBUTION.</hi><lb/>
+<seg type="Context" subtype="IndianRelationsLDS">Next morning, the Indians sent down an order by the <persName key="Farnsworth, Philo">Bishop of Beaver</persName>, demanding cattle from us. Whilst in consultation on this demand, intelligence was received that five of the <orgName type="native" key="Corn Creek Indians">Corn Creek Indians</orgName> had come down, and the <persName key="Farnsworth, Philo">Bishop</persName> went off with the Indians, without waiting for our answer.</seg> Here it was considered necessary to remain some time, as the grass was good, and our men went up to the <persName key="Farnsworth, Philo">Bishop</persName> to obtain permission to stop, and also to have smithwork done in town.</p>
+
+<p><hi rend="center">ANOTHER ATTACK BY INDIANS&#8212;TWO MEN WOUNDED.</hi><lb/>
+At this place, we were joined by <orgName type="wagontrain" key="Turner wagon train">Turner's train</orgName>. Whilst <persName key="Turner, Nicholas">Turner</persName>, and <persName key="Dukes, William C.">Duke</persName>, our captain, were standing in the street, they were fired on by the Indians, and <persName key="Turner, Nicholas">Captain Turner</persName> was shot through the hip, and <persName key="Dukes, William C.">Capt. Dukes</persName> was grazed by two or three bullets. Mr. <persName key="Collins">Collins</persName> was standing in front of the blacksmith shop, and went in and begged protection, when he was pushed out of the house and the Indians shot him, breaking his arm, shattering the bone very loudly. A Mormon then came galloping to our camp, and told us to remain by the wagons. Supposing that something was wrong, four of our men started to the town to see what had happened, when we saw <persName key="Turner, Nicholas">Turner</persName>, <persName key="Dukes, William C.">Capt. Dukes</persName>, and <persName key="Collins">Collins</persName> coming to us in a circuitous route, who called to us to return, as they had been attacked by the Indians and were badly wounded. We then made preparations for a fight, made a corral of the wagons, and prepared our arms, but no fight took place.</p>
+
+<p>This evening, an Indian chief, named <persName key="Ammon">Ammon</persName> came to our camp, in company with the <persName key="Farnsworth, Philo">Bishop</persName>, and said he had just come from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>&#8212;that all was peace, and demanded cattle. We gave him six head of cattle. Here <persName key="Honea, S. B.">Mr. Honea</persName> had to give up the horse for which he <choice><sic>he</sic><corr></corr></choice> had traded with an Indian, because, it was said, the Indians knew the horse and were angry at seeing him in possession of an American.</p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">Here heard a Mormon named Hooper say, that he was glad the train had been killed, for they carried poison with them, and had only got their just reward.</seg></seg></p>
+
+<p>Next morning left <placeName type="settlement" key="Beaver, UT">Beaver</placeName>. We now came to the conclusion that it would be better to hire interpreters, and we accordingly hired three Mormons, named <persName key="Carter, David">David Carter</persName>, <persName key="Johnson, Nephi">Nephi Johnson</persName>, and <persName key="Shirts, Carl">&#8212;Shirts</persName>, who agreed to come with us to the divide between the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName> and the <geogName type="waterway" key="Virgin River">Rio Virgin</geogName>. Before we got to the divide, two of them turned back&#8212;<persName key="Johnson, Nephi">Johnson</persName> came on, one of them, <persName key="Shirts, Carl">Shirts</persName>, stealing a horse. <persName key="Dame, William">President Dame</persName> had been paid in advance for their services.</p>
+
+<p><hi rend="center">THE DEAD UNBURIED.</hi><lb/>
+<seg type="Massacre" subtype="Aftermath"><persName key="Dame, William">Dame</persName> advised us not to pass where the other train had been massacred, but to take a left-hand trail, which we finally did, having first proposed to go and bring our deceased countrymen, but the interpreters objected, saying that the Indians would serve us the same way.</seg> Here we met the two horse thieves, the <persName key="Young, Cau"><persName key="Young, Henry T.">brothers Young</persName></persName>, who stated that the Indians were very troublesome on the <geogName type="waterway" key="Muddy River">Muddy</geogName>, and advised us to hire additional interpreters, especially <persName key="Hatch, Ira">Hatch</persName>. We hired <persName key="Hatch, Ira">Hatch</persName> and four others, paying them $500 in advance. Their contract was, to come with us to the <geogName type="waterway" key="Cottonwood Springs">Cottonwood Springs</geogName>.</p>
+
+<p><hi rend="center">THE INTERPRETERS LEVY BLACKMAIL.</hi><lb/>
+While they were with us, they made us give beeves to the Indians on the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>, and advised us not to swear before the Indians, as they would know us to be Americans and probably kill us.</p>	
+
+<p>On passing down the <geogName type="waterway" key="Virgin River">Rio Virgen</geogName>, we had to give more beeves to the Indians, who stole a horse from one of the company. We lost several head of cattle; <persName key="Hamblin, Oscar">Hamblin</persName>, the interpreter, sent Indians to search for them, who drove them back to <persName key="Hamblin, Oscar">Hamblin</persName>'s house; other cattle strayed off, and were immediately killed by the Indians. On the <geogName type="waterway" key="Virgin River">Virgin</geogName>, Mr. <persName key="Weeks, Samuel">Samuel Weeks</persName> lost $302.50 from his wagon. A thorough search was made in the train, but it could not be found. The opinion was, that the interpreters had stolen it, as most of the company knew of the money being there. A man named <persName key="Lovett">Lovett</persName>, joined us here, who had no ostensible reason for coming to us. He lived with <persName key="Hamblin, Oscar">Hamblin</persName>; and it was the opinion of the company afterwards that the plan was concocted here, between <persName key="Hamblin, Oscar">Hamblin</persName> and <persName key="Hatch, Ira">Hatch</persName>, for our robbery.</p>
+
+<p>On leaving the <geogName type="waterway" key="Virgin River">Virgin</geogName>, we were advised by the interpreters to make up a present of tents, blankets, &amp;c, and send to the Indians at the <geogName type="waterway" key="Muddy River">Muddy</geogName>. This was done, to the amount of six or seven tents and several bundles of blankets, and a considerable amount of clothing. The interpreters took charge of the goods and left the same night in advance, for the <geogName type="waterway" key="Muddy River">Muddy</geogName>.</p>
+
+<p>Next night, we encamped about mid-way between the <geogName type="waterway" key="Virgin River">Virgin</geogName> and the <geogName type="waterway" key="Muddy River">Muddy</geogName>, where two of the interpreters came back to us, saying that the Indians were peaceable, being well pleased with the presents sent them. <persName key="Hamblin, Oscar">Hamblin</persName> observed that there was one captain, with 100 men, not there, and that there was nothing to fear, except from him, as he did not know where he was.</p>
+
+<p>Next day we reached the <geogName type="waterway" key="Muddy River">Muddy</geogName>. The interpreters told us the Indians wanted ten beeves. We gave them six, and thought they were well satisfied. Here we made particular observation to see whether any of the Indians had any of the tents or clothing sent them, but could not see any; we concluded that the interpreters kept them for themselves. We stayed here three or four hours, and then started for the Desert, leaving two of the interpreters, and <persName key="Lovett">Lovett</persName> with their own wagons, on the <geogName type="waterway" key="Muddy River">Muddy</geogName>.</p>
+
+<p><hi rend="center">ATTACK BY INDIANS&#8212;LOSS OF STOCK.</hi><lb/>
+Proceeded about eight or ten miles along the ca&#241;on. The cattle were in advance of our wagons about half a mile. The cattle were stopped to enable the wagons to come up. While waiting, observed <persName key="Hamblin, Oscar">Hamblin</persName> on the top of the hill, apparently looking for Indians. He came down from the hill, and by this time the wagons had joined the advance party, and the train moved on. Before this, however, <persName key="Hamblin, Oscar">Hamblin</persName> had a conversation with a young Indian who accompanied us from the <geogName type="waterway" key="Muddy River">Muddy</geogName>, and who pointed out to him where the Indians were located. When we started on, the Indian asked for water; there was none in any of the vessels, and he then ran in advance of the cattle and gave a whoop. The yelling then became general along the hills, where previously we could not perceive a single Indian. At this time, three of the four interpreters who remained with us were in the rear of the train. The other advised the captains to fall back and leave the cattle, and guard the wagons with the women and children. This was done&#8212;when a large body of Indians, over two hundred, made a descent on the cattle and run them off&#8212;to the number of 326 head, and five horses. Some of the party prepared to fire on the Indians, but the interpreter prevented them, saying we would all be killed. He then rode in among the Indians and soon returned, saying that they had sent word, if we wanted to fight to come on. He was requested to go again to the Indians, when he asked to exchange an old gun for a valuable navy revolver. It was given him; then he started off, in company with some of the train, on the condition that if danger threatened, he would fire the pistol, which would be the signal for them to return to the wagons. He fired the pistol, all the interpreters left the train, and were not again seen.</p>
+
+<p>We stayed here but a short time, and proceeded on our way to the <geogName type="waterway" key="Vegas Riner">Vegas</geogName>, which we reached without molestation. The Indians were peaceable, and the interpreters not being with us, we had to give them only one animal.</p>
+
+<p>From this we came to <geogName type="waterway" key="Cottonwood Springs">Cottonwood Springs</geogName>, about 275 miles from San Bernardino. Here the Indians were also perfectly peaceable. The remaining cattle being almost wornout, it was resolved to remain here to recruit. Nine of the company started off on foot, and after enduring almost incredible sufferings from the want of food and water, reached <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> almost exhausted.</p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">It should be added that <persName key="Hamblin, Oscar">Hamblin</persName>, the interpreter, stated on being hired, that if there was to be any fighting the interpreters should take no part in it; that they were friendly with the Indians who were Mormons.</seg></p>
+
+<p>The train, at the time of the attack, consisted of 125 persons, forty-four of whom were men, bearing arms. They had 440 cattle, 130 work oxen, and forty-five mules and horses, and twenty-three wagons.</p>
+
+<p>The party left at <geogName type="waterway" key="Cottonwood Springs">Cottonwood Springs</geogName>, intend to remain until their animals are recruited, as the grass was good; and there being no Mormons, the Indians peaceable and friendly. They will probable arrive at <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> within a week or ten days. The distance is 275 miles.</p>
+
+<p><hi rend="center">THE MURDERED TRAIN.</hi><lb/>
+The train which has been so cruelly massacred, was under the charge of <seg type="Emigrants" subtype="StateAffiliationArkansas"><persName key="Baker, John T.">Captain Baker</persName>, familiarly known as "Uncle Jack," from Carroll county Arkansas</seg>&#8211;<persName key="Edwards, Silas">Silas Edwards</persName> and <persName key="Baker, George W.">William Baker</persName>, son of the captain, are also known to have been in the train.<seg type="Massacre" subtype="Spoils"> At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <persName key="Honea, S. B.">Mr. Honea</persName> saw <persName key="Haight, Isaac">President Haight</persName> riding a large bay horse which he recognized as having belonged to Mr. <persName key="Edwards, Silas">Silas Edwards</persName>.</seg> <seg type="Massacre" subtype="Casualties">Was informed by <persName key="Hatch, Ira">Hatch</persName>, that young <persName key="Baker, Abel">Baker</persName> had an opportunity of escaping, went a short distance but returned; was afterwards wounded in the arm; again escaped from the massacre, and had proceeded about ten miles this side the <geogName type="waterway" key="Muddy River">Muddy</geogName>, when he met the <persName key="Young, Cau"><persName key="Young, Henry T.">Youngs</persName></persName> who had escaped from San Bernardino. He was advised to return to the <geogName type="waterway" key="Muddy River">Muddy</geogName>, which he did, when he was met by <persName key="Hatch, Ira">Hatch</persName> and the Indians, and by them cruelly murdered.</seg></p>
+
+<p><hi rend="center">AMMUNITION FOR SALT LAKE.</hi><lb/>
+<persName key="Honea, S. B.">Mr. Honea</persName> says that in coming into <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, about fifteen miles the other side of the sink of the <geogName type="waterway" key="Mojave River">Mohave river</geogName>, he met the mail wagon, for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>, having a large quantity of pistols and ammunition. The driver wished to purchase arms from the party, but they refused to sell.</p>
+
+<p><hi rend="center">PAYING INTERPRETERS.</hi><lb/>
+To give an idea of the fraud and extortion <choice><sic>practised</sic><corr>practiced</corr></choice> by the Mormons on emigrants, Mr. <persName key="Honea, S. B.">Honea</persName> states, that their company paid to interpreters, six in all, the enormous sum of $1815. The duty to be performed by these guides and interpreters, was, to conduct the company from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to <geogName type="waterway" key="Cottonwood Springs">Cottonwood Springs</geogName>, a distance not over 300 miles. Yet this contract was not fulfilled, although payment was made in advance.</p>
+</div1>
+</body>
+</text>
+</TEI>

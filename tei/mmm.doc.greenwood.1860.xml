@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.greenwood.1860">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Report of the Commissioner Of Indian Affairs: Report, Department of the Interior, Office of Indian Affairs</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>A.</forename> <forename type="middle">B.</forename> <surname>Greenwood</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.greenwood.1860</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+    <sourceDesc>
+	<bibl>
+	    <title level="a">Report, Department of the Interior, Office of Indian Affairs, November 26, 1859</title>
+	    <title level="m">, Accompanying the Annual Report of the Secretary of the Interior, for the year 1859</title>
+	    <author><forename>A.</forename> <forename type="middle">B.</forename> <surname>Greenwood</surname></author>
+	    <publisher>George W. Bowman, Printer</publisher>
+	    <pubPlace>Washington, DC</pubPlace>
+	    <extent>9-26</extent>
+	    <date when="1859">November 26, 1859</date>
+	    <note type="source">A. B. Greenwood. "Report, Department of the Interior, Office of Indian Affairs, November 26, 1859," in <hi rend="italic">Report of the Commissioner of Indian Affairs, Accompanying the Annual Report of the Secretary of the Interior, for the year 1859</hi>. Washington, DC: George W. Bowman, Printer, 1860. 9-26.</note>
+	</bibl>
+    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+		<term>government_document</term> 
+	     </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	    	<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-24"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-07-28"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-01-13"><name>Laura Weakly</name> Validation</change>
+    	<change when="2009-12-14"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="doc">
+
+<pb n="009" xml:id="mmm.doc.greenwood.1860.009"/>
+
+<head type="main">REPORT OF COMMISSIONER OF INDIAN AFFAIRS.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<opener>DEPARTMENT OF THE INTERIOR,<lb/>
+OFFICE INDIAN AFFAIRS.<lb/>
+<dateline><hi rend="italic">November</hi> 26, 1859.</dateline>
+
+<salute>SIR:</salute>
+    </opener>
+    <p><seg type="Context" subtype="IndianRelationsUS">In compliance with custom and regulation, I have the honor to submit the following annual report on Indian Affairs for the present year, accompanied by reports of the superintendents and agents, to which I would refer for particulars respecting the present condition, progress, and prospects of the different tribes within our jurisdiction.</seg></p>
+
+    <!-- 
+<p>The amount applicable during the last fiscal year for fulfilling the stipulations of our numerous treaties with various tribes, and for other necessary purposes connected with our Indian policy, was $4,852,407 34. The amount drawn from the treasury, and paid and expended or remitted therefor, was $3,402,014 52. The amount of the estimates submitted to Congress for appropriations for the present fiscal year, was $2,575,271 94. The amount.appropriated was $2,484,271 94, making applicable for expenditure during this year, including the unexpended balance from the previous year, and interest, amounting to $202,002 89 on trust funds invested in stocks, the sum of $4,136,667 65. The amount estimated as necessary for the next fiscal year, including the fulfillment of the stipulations of new treaties ratified by the Senate at the last session, is $2,505,990 38. Of these new treaties, twelve in number, ten are with fifty different tribes and bands in Washington Territory and Oregon, embracing about nineteen thousand Indians, and by which their title is extinguished to a very large extent of country required for the extension of our settlements in that distant but growing portion of our confederacy. It is estimated that 58,992,770 acres have thus been added to the disposable public domain, at a cost of about five and three fifth cents per acre; and it is believed that if the provisions and purposes of these treaties shall be properly and judiciously carried out, there will be no further recurrence of difficulties of a serious character with the Indians in that region.</p>
+
+<p>The agent for the Indians remaining in the State of New York, reports favorably of their continued but gradual improvement. These Indians comprise the remnant left of the once famed and formidable confederacy of the Six Nations, whose dominion and despotic sway at one time extended from the shores of Lake Michigan to the Carolinas and from the Saint Lawenceence river to the Wabash. Though much reduced in numbers, their decline in that particular has been far less than that of most if not all the tribes who have suffered the evils of continued removal from place to place as the white population has advanced. At the commencement of the war of the Revolution, they are estimated to have numbered not more than nine thousand. Their present population is about four thousand. They are comfortably
+-->
+
+<pb n="21" xml:id="mmm.doc.greenwood.1860.021"/>
+
+<!-- 
+of the right of way through their country, and agreed to observe peaceful relations with the whites, the United States stipulating to allow them a moderate annuity in goods and provisions, and to protect them from injury and acts of injustice by our people. The Indians, or portions of them, have, in several instances, violated their obligations under these treaties, and had to be chastised therefor; but, considering their wild habits, the straits to which they have been subjected by the increasing difficulty of procuring subsistence, and the provocations given them by lawless persons passing through their country, their occasional bad conduct has not been a matter of much surprise. A crisis has now, however, arrived in our relations with them. Since the discovery of gold in the vicinity of "Pike's Peak," the emigration has immensely increased; the Indians have been driven from their local haunts and hunting grounds, and the game so far killed off or dispersed, that it is now impossible for the Indians to obtain the necessary subsistence from that source. In fact, we have substantially taken possession of the country and deprived them of their accustomed means of support. These circumstances have been well calculated to alarm and exasperate them; but, by good management on the part of their agents, and assurances that the government would not let them suffer, they have thus far been kept quiet. They have also been brought to realize that a stern necessity is impending over them; that they cannot pursue their former mode of life, but must entirely change their habits, and, in fixed localities, look to the cultivation of the soil and the raising of stock for their future support. There is no alternative to providing for them in this manner but to exterminate them, which the dictates of justice and humanity alike forbid. They cannot remain as they are; for, if nothing is done for them, they must be subjected to starvation, or compelled to commence robbing and plundering for a subsistence. This will lead to hostilities and a costly Indian war, involving the loss of many lives, and the expenditure of a much larger amount of money than would be required to colonize them on reservations, and to furnish them with the necessary facilities and assistance to enable them to change their mode of life; which change of them-selves, and without such assistance, it is impossible for them to make. Good policy, as well as justice, requires that we shall thus provide for them; and the exigency of the case forbids any avoidable delay in the adoption of the necessary measures for the purpose. New treaties with them will be required; and I therefore, respectfully, recommend that Congress be requested to appropriate such an amount as may be necessary to defray the expense thereof.</p>
+-->
+    
+<gap reason="not relevant" />
+    
+<p><seg type="Context" subtype="IndianRelationsUS">The reports of the condition of the Indians in <placeName type="state" key="Utah Territory">Utah</placeName> present a melancholy picture. The whites are in possession of most of the little comparatively good country there is, and the game has become so scarce as no longer to afford the Indians an adequate subsistence.</seg> They are often reduced to the greatest straits, particularly in the winter, which is severe in that region; and when it is no uncommon thing for them to perish of cold and hunger. Even at other seasons, numbers of them are compelled to sustain life by using for food reptiles, insects, grass seed, and roots. Several farms have been opened for their benefit in different localities, and many of them have manifested a disposition to
+
+<pb n="22" xml:id="mmm.doc.greenwood.1860.022"/>
+    
+aid in their cultivation; but, unfortunately, most of the crops were this year destroyed by the grasshopper and other insects. Many of the numerous depredations upon the emigrants have, doubtless, been committed by them in consequence of their destitute and desperate condition. They have at times been compelled to either steal or starve; but <seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="IndiansLDSInfluence">there is reason to be apprehended that in their forays they have often been only the tools of the lawless whites residing in <placeName type="state" key="Utah Territory">the Territory</placeName>. In some of the worst outrages of this kind, <seg type="Massacre" subtype="Spoils">involving the lives as well as the property of our emigrants</seg>, the latter are known to have participated. That this was the case in the atrocious and dreadful massacre <seg type="Massacre" subtype="Location">at "<geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>,"</seg> <seg type="Massacre" subtype="Dates">in September, 1857</seg>, the facts stated in <seg type="Source" subtype="Government">the report of the superintendent</seg>, in regard to that occurrence, leave no room for doubt.</seg></seg> <seg type="Massacre" subtype="Casualties">The lives of from one hundred and fifteen to one hundred and twenty peaceable emigrants, of all ages, and both sexes</seg>, were inhumanly and brutally sacrificed on that occasion; <seg type="Massacre" subtype="Survivors">some young children, only, being spared. These children, seventeen in number, were afterwards, under instructions from the department, found and taken possession of by the superintendent; and, Congress having made an appropriation to defray the expense, fifteen of them have been brought back and restored to <seg type="Emigrants" subtype="StateAffiliationArkansas">their relatives in <placeName type="state" key="Arkansas">Arkansas</placeName></seg>. The remaining two are now probably on their way in.</seg></p>	
+
+<p><seg type="Context" subtype="WesternViolence"><seg type="Context" subtype="UtahWar">The presence of the military in <placeName type="state" key="Utah Territory">the Territory</placeName> during the last two years has, doubtless, tended materially to check these outrages</seg>; yet they still, and will continue to occur, so long as the administration of the criminal laws shall depend, in any degree, upon <seg type="Blame" subtype="LDS_LDSZealots">the fanatical and vengeful people who comprise the population of <placeName type="state" key="Utah Territory">the Territory</placeName></seg>, who contemn and disregard our laws, and are, therefore, practically in a state of rebellion; and yet whom the presence of the army is absolutely enriching.</seg> Until some means shall be devised for the certain and prompt punishment of the perpetrators of crime, it will be impossible to protect the emigrants from being murdered and plundered by the lawless and fiendish whites and Indians; and <seg type="Reaction" subtype="MilitaryRetaliation"><seg type="Reaction" subtype="Extra-legalViolence">I know of none that would be effectual for that purpose but declaring martial law, and placing the administration of affairs entirely in the hands of the military.</seg></seg></p>
+
+<p>I regret extremely to have to report the existence of an entirely unsatisfactory condition of things in this branch of the public service in <placeName type="state" key="California">California</placeName>, and that the Indian reservation policy, as it has there been pursued, has almost wholly failed to accomplish the beneficent purposes for which it was inaugurated. It is difficult to trace this failure to the true cause which has prevented its success; perhaps it may justly be attributable to several, not the least of which is the fact that the reservations are within the limits of a sovereign State, and the Government nor <placeName type="state" key="California">California</placeName> recognizes any right in the Indians of that State to one foot of land within her borders. An unnecessary number of reservations and separate farms have been established; the locations of many of them have proved to be unsuitable, and have not been sufficiently isolated; too many persons have been employed to aid and work for the Indians, instead of their being thrown more upon their own resources and required to labor for themselves; while ell tile operations seem to have been more or less characterized by want of system, administrative ability and faithfulness on the part of the <choice><orig>prin-
+    
+<pb n="23" xml:id="mmm.doc.greenwood.1860.023"/>
+        
+cipal</orig><reg>principal></reg></choice> officers and agents. The consequence has been an extravagant and wasteful expenditure of public money, with comparatively little good results. At the outset it was confidently expected that, in the course of a year or two, the expenses would diminish, and in the mean-time, the Indians would be taught to labor and to support themselves by their own exertions. This expectation has not been realized. While it is easy to point out defects in any system, it is extremely difficult to suggest the remedy. It is evident, however, that some change in the policy for California must take place; indeed, from the reports received from the recently appointed superintendent, almost any change would be better than the present system as administered. From his reports all the reservations, except Klamath, are in a dilapidated condition, and in a short time will go entirely to waste unless immediate steps are taken to prevent it. Under these circumstances, and being desirous to initiate a policy for California which will secure our own citizens from annoyance, and, at the same time, save the Indians from the speedy extinction with which they are threatened, I feel constrained to recommend the repeal of all laws authorizing the appointment of superintendent, agents, and sub-agents for California, and the abandonment of the present, and the substitution of a somewhat different plan of operations. This office has attempted to correct the errors in the administration of the system adopted for California without success. In the first place, the State should be divided into two districts, and an agent appointed for each, with a supervisor to lead and direct the Indians in their labors, with only such laborers and mechanics, at first, as may be necessary to keep the tools and implements in repair. It should be the duty of the agent for each district to keep a vigilant watch over the subordinate employes in his district, and from time to time keep the department regularly and fully advised of the condition and progress of the reservations within his district. The agents should give the Indians in their respective districts to understand that they are not to be fed and clothed at government expense; but that they must supply all their wants by means of their own labor. From the report of G. Bailey, special agent, printed with the last annual report, it would seem that a policy which would be suitable to the Indians in southern California could not be made applicable to the Indians occupying the Coast range, north and east of Mendocino. The southern Indians are represented as subsisting principally from the products of their fields . Mr. Bailey recommended that the possession of the lands occupied by the second class of Indians spoken of in his report should be secured to them, in which I fully concur. The Indians occupying the northern and eastern portions of the State are a people of a wholly different character and habits. There is no community of feeling among them, and, therefore, it would be proper to select as many different reservations for their occupancy and use as the condition, circumstances, disposition, and habits of the Indians would seem to require. Some of the reservations now held in California for Indian purposes are unsuited for that purpose, and should any change in the present system meet the approval of Congress, it would be proper to authorize the sale of such of the improvements as the department might deem unnecessary for Indian purposes, and apply the proceeds in making improvements  
+        
+<pb n="24" xml:id="mmm.doc.greenwood.1860.024"/>       
+
+in more suitable localities. Should Congress authorize a change in the present system, and new reservations be established, great care should be taken so as to isolate the Indians from contact with the whites. Fertile lands should be selected which will repay the efforts to cultivate them; and, while upon this branch of the subject, I would respectfully call attention to a portion of the last annual report of my predecessor, which fully reflects my views. In speaking of the reservations in California, he says: "No white persons should be suffered to go upon the reservations; and, after the first year, the lands should be divided and assigned to the Indians in severalty, every one being required to remain on his own tract, and to cultivate it." In another portion of his report he says: "They should, also, have the advantage of well conducted manual labor schools, for the education of their youth in letters, habits of industry, and a knowledge of agriculture, and the simpler mechanic arts. By the adoption of this course, it is believed that the colonies can very soon be made to sustain themselves, or so nearly so that the government will be subjected to but a comparatively trifling annual expense on account of them. But it is essential to the success of the system that there should be a sufficient military force in the vicinity of the reservations to prevent the intrusion of improper persons upon them, to afford protection to the agents, and to aid in controlling the Indians and keeping them within the limits assigned to them."</p>
+
+<p>If the State of California would so far relinquish to the general government her jurisdiction over the reservations that may be established, as to admit of the trade and intercourse laws being put in force within her limits, so as to secure the Indians against improper interference, and to prevent the traffic with them in ardent spirits, it would afford the department material aid in its effort to successfully carry out a proper system for the Indians in that State. This recommendation was made by my predecessor in his last annual report, and which I have thought proper to repeat here. If the legislation of Congress should be such as to meet the views here expressed, I feel confident that many of the abuses now complained of would be corrected; and I would also respectfully suggest that, to enable this office to fully carry out its policy, much should be left to the sound discretion of the department, for it is not supposed that every difficulty can be anticipated, and if a reasonable discretion is left to it, many evils which would naturally arise in the development of a policy, in a measure new, could be corrected and steps taken to prevent their recurrence. In submitting these views in regard to the evils existing in our Indian policy for California, and suggesting such remedies as I believe to be proper, I have been actuated alone by a high regard for the citizens of California, and their welfare, on the one hand, and stern official duty and humanity towards the Indians within her borders, on the other; and it is to be hoped that the wisdom of Congress will devise some system, at least, that is less objectionable than the present, and that the Indians may yet be permitted to remain there in quiet, and become cultivators of the soil.</p>
+
+<p>The superintendent for Oregon and Washington reports favorably in regard to the general condition of affairs in that quarter, except that the Shoshone or Snake Indians still continue their hostilities and
+
+<pb n="25" xml:id="mmm.doc.greenwood.1860.025"/>
+    
+outrages. In the month of August last, they attacked one of the reservations; killed and took captive several of the Indians; compelled the government employes to flee for their lives; drove off a large quantity of stock, and did great damage to the crops which were in course of cultivation for the support of the Indians. The superintendent estimates the loss and injury thus sustained, on the reservation, at $16,000. He states that these lawless Indians have been. notorious from the early settlement of Oregon for their outrages upon emigrants, and that "it is believed that at least a hundred whites, many of them women and children, within the last ten years, have fallen by their hands." They should be severely chastised for their cruel and inhuman conduct.</p>
+
+<p>This officer represents that the necessity is constantly becoming more urgent for a small and swift armed steamer in the waters of Puget's Sound, for protection against the marauding expeditions of the piratical Coast Indians, north of our territory, who move so rapidly in their large war canoes that they cannot be intercepted except by means of such a vessel.</p>
+
+<p>The appointment of an additional superintendent for the Indians in Oregon and Washington was recommended in the last two annual re-ports from this office, and the carrying out of the new treaties with those Indians will materially increase the superintendent's duties, and create a still greater necessity for a second officer of that grade.</p>
+
+<p>Two reservations have been established in Oregon, on which 3,000 Indians have been colonized, and are gradually being taught to labor for themselves. The new treaties provide for ten more such colonies three in Oregon, six in Washington Territory, and one, the boundaries of which embrace a portion of both the State and Territory. This reservation system is costly at first; because, for the first year or two, the Indians have to be supplied with everything, but within a reasonable period it can be made self-sustaining; and while far more effectual, as a means of controlling and domesticating the Indians, it will, with proper management, be in the end more economical than the old and pernicious system of large and continuous money annuities. It is the last resort to save the race from extermination; and, if it fails or is abandoned, their doom may then be pronounced.</p>
+
+<p>As stated in last year's report, serious errors were committed in the commencement of the system, by which it was made more expensive than it should have been, and without the expected advantages to the Indians. Too much was attempted to be done for them; they were not thrown sufficiently on their own resources, and compelled to realize the necessity of trying to help themselves. A reform in these particulars was promised, and, as far as practicable, it is now being carried out.</p>
+
+<p>By the seventh section of the act <q>" making appropriations for the current and contingent expenses of the Indian department, and for fulfilling treaty stipulations with various Indian tribes, for the year ending June 30, 1860,"</q> approved February 28, 1859, the Commissioner of Indian Affairs, under the direction of the Secretary of the Interior, was required to prepare rules and regulations for the government of the Indian service, and for trade and intercourse with the Indian tribes; which rules and regulations, when approved by the President, are to be submitted
+
+<pb n="26" xml:id="mmm.doc.greenwood.1860.026"/>
+
+to Congress for its approval. The regulations contemplated by the act referred to are in course of preparation, and will be ready for submission at the convening of Congress. The many defects in the present intercourse law have made it necessary to bestow much time and reflection as to the required remedies, so as to obviate, if possible, any further amendments in the future. The present law, enacted in 1834, was eminently proper at that date; but the numerous changes that have taken place in regard to our Indian policy required rules that are adapted to the present condition of affairs, as well as the rapid advance many of our Indian tribes are making in civilization.</p>
+
+<p>Among the accompanying papers will be found the usual annual statement of Godard Bailey, disbursing clerk, with schedules exhibiting the condition of the Indian trust fund.</p>
+
+<closer>
+<salute>Very respectfully, your obedient servant,</salute>
+<signed><persName key="Greenwood, A. B.">A. B. GREENWOOD</persName>, 
+<hi rend="italic">Commissioner.</hi></signed>
+ 
+<signed>Hon. <persName key="Thompson, J.">J. THOMPSON</persName>,
+<hi rend="italic">Secretary of the Interior.</hi></signed>
+</closer>
+ 
+</div1>
+</body>
+</text>
+</TEI>
+

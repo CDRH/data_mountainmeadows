@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyh.18571204">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	        <title level="m" type="main">Complicity of the Mormons in the Late Emigrant Massacre&#8212;The Indians were Tools in the Hands of the Saints</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyh.18571204</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">A letter from "Army" to the editor of the Herald, blaming the Mormons for exciting the Indians into committing the Mountain Meadows Massacre.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+  	    	<bibl>
+  	    	<title level="j">New York Herald</title>
+  	    	    <title level="a">Complicity of the Mormons in the Late Emigrant Massacre&#8212;The Indians were Tools in the Hands of the Saints.</title>
+		    <author>Editor New York Herald</author>
+		    <publisher>New York Herald</publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1857-12-04">1857-12-04</date>
+		</bibl>
+	    </sourceDesc>
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+	 	<keywords scheme="original" n="culpability">
+		    <term>Mormons and Indians </term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+		    <term>Non-Mormon</term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2007-05-02"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyh.18571204.001"/>
+
+<head>Complicity of the Mormons in the Late Emigrant Massacre&#8212;The Indians were Tools in the Hands of the Saints.</head>
+
+<p>TO THE EDITOR OF THE HERALD.</p>
+
+    <p>The late horrible massacre of <seg type="Emigrants" subtype="Route"><seg type="Massacre" subtype="Casualties">more than one hundred emigrants</seg> <seg type="Massacre" subtype="Location">on the <placeName type="route" key="Spanish Trail">Spanish trail from Utah to California</placeName></seg></seg>, deserves more than a passing notice at the hands of the press. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Source" subtype="UnattributedPublishedAccount">The San Francisco papers give the substance of several statements, tending to show the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> were cognizant of the massacre and probably instigated it.</seg> The fact is undoubtedly this: The Mormons must have planned and executed it with the Indians, or it could not have occurred.</seg> The writer has spent a year in <placeName type="state" key="Utah Territory">Utah</placeName>, and during the spring of 1855 passed over <placeName type="route" key="Spanish Trail">the route from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, <placeName type="state" key="California">California</placeName></placeName>, in command of a detachment of <orgName type="military" key="United States Army">United States troops</orgName> Previous to this march he had seen several months service among the <orgName type="native" key="Pahvant">Indians</orgName> who occupy the country in the vicinity of the late massacre. <seg type="Context" subtype="IndianRelationsLDS"><orgName type="native" key="Pahvant">These Indians</orgName> have for years been under the tutelage of the Mormons. Their chiefs, <persName key="Kanosh">Canoshe</persName>, <persName key="Ammon">Ammon</persName>, and others, are members of the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormon church</orgName>. Their villages are in close proximity to the Mormon towns, and their fields of grain are adjacent to those of the Mormons. Missionaries reside constantly with the Indians and control their movement. In the event of the death of a chief, his successor is always the one designated by the Mormons. The Indians are armed with rifles and have an abundance of ammunition supplied by the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName>, and these supplies are purchased with United States money, supplied to <persName key="Young, Brigham">Brigham Young</persName> in his capacity of Superintendent of Indian Affairs. <seg type="Context" subtype="IndianRelationsUS">The whole instruction of the Mormon missionaries has been that the Americans area weak and infirm nation compared with the Mormons, and the natural enemies of the Indian.</seg></seg> <seg type="Context" subtype="IndianRelationsUS">For years past no small party of Americans has ever traveled this route without assuming the character and name of Mormons as an absolutely necessary precaution to pass through safely. </seg>The <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormon</orgName> settlements stretch from <placeName type="settlement" key="Fillmore, UT">Fillmore City</placeName> to the <geogName type="waterway" key="Vegas River">Vegas river</geogName>, at intervals of a few miles; and <seg type="Context" subtype="IndianRelationsLDS">so close is the connection between the Mormon people and the Indians, that it is absolutely impossible for a train to be attacked anywhere on this route without the knowledge and consent of the Mormons.</seg> I beg leave to say that this is no charge hastily made&#8212;no inconsiderate evidence&#8212;but an incontestable fact; and its truth can be attested by hundreds of people in California who have traveled the route, and called themselves Mormon to avoid a fate similar to that of <seg type="Massacre" subtype="Casualties">the hundred and eighteen men, women and children slaughtered <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</seg></p>
+
+<p>The writer of this letter camped two days at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, two days on the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>, and two days on the <geogName type="waterway" key="Muddy River">Muddy</geogName>. <seg type="Context" subtype="IndianRelationsUS">At the approach of the troops the Mormon missionaries left the Indian tribes and went to the nearest Mormon settlement, after instructing the Indians to attack the troops. Nothing but an exhibition of superior strength and constant vigilance prevented repeated attacks. Several times the mules and horses were driven oft by the Indians, and as often recovered. </seg>The chiefs of the tribes on the <geogName type="waterway" key="Virgin River">Virgin</geogName> and <geogName type="waterway" key="Muddy River">Muddy rivers</geogName> told the writer of their instructions to attack the troops, and of the representations of the Mormons that the Americans were a weak people and the enemy of the Indian. <seg type="Blame" subtype="IndiansLDSInfluence">I repeat that it is not reasonable to suppose that this massacre could have been committed without the complicity of the Mormons.</seg> <seg type="Massacre" subtype="RescueAttempt">The circumstances of the case show that they could have prevented it, or rescued the greater portion of the train, as the fight lasted many hours, and they were made aware of it by expresses.</seg></p> 
+
+<p>The facts here stated with reference to the Instructions of the Mormon missionaries, and the march of the troops, have been on file in the <orgName type="governmental" key="War Department">War Department</orgName>, in the form of an official report, more than three years.</p>
+
+<p>ARMY.<lb/>
+ASTOR HOUSE, <date when="1857-11-30">Nov. 30, 1857</date>.</p>
+</div1>
+</body>
+</text>
+</TEI>

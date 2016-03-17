@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfdeb.18590531">
+    <teiHeader>
+	<fileDesc>
+   	    <titleStmt>
+   	        <title level="m" type="main">The Mountain Meadows Massacre: Surviving Children of the Murdered fix the Crime upon the Mormons.</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfdeb.18590531</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">As juvenile victims of the Massacre are retrieved from Mormon homes, details of the battle emerge.</note>
+	    </notesStmt>
+
+	   <sourceDesc>
+		<bibl>
+		    <title level="a">The Mountain Meadows Massacre: Surviving Children of the Murdered fix the Crime upon the Mormons.</title>
+		    <title level="j">San Francisco Daily Evening Bulletin</title>
+		    <author>Salt Lake Correspondent, San Francisco Daily Evening Bulletin</author>
+		    <publisher>Publisher San Francisco Daily Evening Bulletin</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1859-05-31">1859-05-31</date>
+		</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+     <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-17"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2008-05-31"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.sfdeb.18590531.001"/>
+
+<head type="main">The Mountain Meadows Massacre.</head>
+<milestone unit="horbar" />
+<head type="sub">Surviving Children of the Murdered Fix the Crime upon the Mormons.</head>
+
+<p>We have received, form our Salt Lake correspondent, a copy of the following thrilling statement, made by <persName key="Lynch, John">John Lynch</persName>, who accompanied <persName key="Forney, Jacobs">Dr. Forney</persName>, the Utah Superintendent of Indian affairs, to <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, on his recent trip in search of <seg type="Massacre" subtype="Survivors">the surviving children of the Mountain Meadows massacre</seg>. It is the clearest and most interesting narrative of facts, in connection with that terrible tragedy, which has yet been given:
+</p>
+<p>About three months since, I started to go to Arizona. When I arrived at <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, I was overtaken by <persName key="Forney, Jacobs">Dr. Forney</persName>, the Indian Superintendent, who was going to the Mountain Meadows for the <seg type="Massacre" subtype="Survivors">thirteen surviving children of the Mountain Meadows massacre</seg>. He told me he was doubtful about the Mormons he had with him, and asked me if I would assist him in case they deserted him. My party consisted of twenty-five men. I told him I would do so, and would return with him to <placeName type="military_post" key="Camp Floyd">Camp Floyd</placeName> myself, if he could get no other assistance. When the Doctor arrived at <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, as was anticipated, the Mormons deserted with out apprizing him of their intention &#8211;&#8211; supposing that he would be unable to go further in his unassisted condition. I found him about 11o'clock at night guarding his mules &#8211;&#8211; told him to go to bed, and I would relieve him. I persuaded two of my party to assist me: and with their aid, drove his teams down to the Mountain Meadows, and gave up my intention of going further south. We pursued our course to <placeName type="settlement" key="Parowan, UT">Parrowan</placeName>. In this place, which is inhabited almost entirely by English and Danes -- as are most of the southern settlements-- the greatest hostility was evinced towards us. The people would hold no communication with our party and spoke in the most insulting terms of the <hi rend="italic">Americans</hi>, as they designate all who are not Mormons.</p>
+
+<p>We continued our journey to the Meadows, passing through <placeName type="settlement" key="Painter Creek, UT">Painter Creek</placeName> and <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. . <seg type="Massacre" subtype="Aftermath">The scene of the massacre is a broad, level meadow, encompassed by a chain of hills</seg>. Upon careful inquiry, <seg type="Massacre" subtype="Battle">we learn that the emigrants had been harassed by bands of men, whom they supposed to be Indians, during their journey from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to the Meadows, and at the latter place, made a corral of their wagons for defence.</seg> <seg type="Massacre" subtype="Aftermath">The corral was near a spring, which is the source of a small stream running through the plain. Words cannot describe the horrible picture which was here presented to us. Human skeletons, disjointed bones, ghastly skulls and the hair of women, were scattered in frightful profusion over a distance of two miles. Three mounds, partially exposing the remains of some of the murdered, indicated the careless attempt that had been made to bury the unfortunate victims; we remained two or three hours at the Meadows, and occupied ourselves in burying the uncovered remains of the massacred.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">This done, we proceeded to the residence of the man <persName key="Hamblin, Jacob">Hamblin</persName>, a Mormon, in whose possession the children were. We found them in a most wretched condition, half starved, half naked, filthy, infested with vermin, and their eyes diseased from the cruel neglect to which they had been exposed. After three days at <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>, where clothing was made for the children, we returned with <persName key="Hamblin, Jacob">Hamblin</persName> and ten of the children to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, there obtained two more, and another at <placeName type="settlement" key="Painter Creek, UT">Painter Creek</placeName>.</seg> When we passed through <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, some of the Mormon men hooted at the children, and called them the survivors of Sebastopol and Waterloo. <seg type="Source" subtype="Children">Among the children are some who retain a very vivid impression of much connected with the massacre. A very intelligent little girl, named <persName key="Dunlap, Becky">Becky Dunlap</persName>, pointed out to me at Santa Clara an Englishman named <persName key="Tellus">Tellus</persName>, whom she says <hi rend="italic">she saw murder her father</hi>. She also states that <persName key="Hamblin, Jacob">Hamblin</persName>'s Indian boy killed her two sisters. Both she and a boy named Miram <hi rend="italic">recognized dresses and a part of the jewelry belonging to their mothers, worn by the wives of <persName key="Lee, John D.">John D. Lee</persName></hi>, the Mormon Bishop of Harmony. The boy Miram, also <hi rend="italic">identified his father's oxen, which are now owned by Lee</hi>. <seg type="Massacre" subtype="Battle">The two oldest boys told me that after they had been fighting for eight days, during four of which they were in the corral, from whence the water had been cut off, Bishop <persName key="Haight, Isaac">Hight</persName> of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, came into the corral, and told the emigrants that the Indians did not want anything but their cattle, and that if they would lay down their arms their lives would be spared. They did so, and started to go to Santa Clara, when they were attacked by a mixed party of whites and Indians, and all killed except the children. The boy Miram stated, that after the massacre was over, <hi rend="italic">he saw the Bishop of Coal Creek washing the paint from his face, which he had used to disguise himself as an Indian.</hi></seg></seg></p>
+
+<p>The man <persName key="Hamblin, Jacob">Hamblin</persName> seemed perfectly conversant with the circumstances of the massacre, and told me that at one time he had a good many of the cattle in his possession. A Mormon named <persName key="Hatch, Ira">Ira Hatch</persName> also told me that <seg type="Massacre" subtype="Survivors">he found the only man that escaped about one hundred miles form the Meadows, persuaded him to return with him, but when they had gone about 40 miles, the Indians murdered him in his presence.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">There were 18 wagons, 820 head of cattle, and 113 persons in the train. It is supposed there was also a great deal of money, as the Mormons say it was the richest train that ever crossed the plains.</seg> I believe Dr. <persName key="Jacob, Forney">Forney</persName> to be acquainted with all the circumstances I have narrated.</p>
+</div1>
+</body>
+</text>
+</TEI>

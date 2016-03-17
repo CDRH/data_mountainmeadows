@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dag.18750901">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Mountain Meadow Massacre: Statement of one of the Few Survivors</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	    <idno>mmm.news.dag.18750901</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Daily Arkansas Gazette</title>
+		    <title level="a" type="main">The Mountain Meadows Massacre: Statement of One of the Few Survivors</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Little Rock, AR</pubPlace>
+		    <date when="1875-09-01">September 1, 1875</date>
+		</bibl>
+	    </sourceDesc>
+
+	    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement and Concept Highlighting</change>
+	<change when="2010-04-29"><name>Kelsey F. Harris</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+<pb n="unknown" xml:id="mmm.news.dag.18750901.001"/>
+
+<head type="main">The Mountain Meadow Massacre</head>
+<head type="sub">Statement of one of the Few Survivors</head>  
+
+<p><seg type="Source" subtype="Children"><seg type="Source" subtype="Reprinted"><orgName type="newspaper" key="Dardanelle Independent">The Dardanelle Independent</orgName> published the statement of <seg type="Massacre" subtype="Survivors">Mrs. <persName key="Cates, Nancy S>">Nancy S. Cates</persName>, of <placeName type="county" key="Yell County, AR">Yell county</placeName>, one of the seventeen children who survived after the terrible massacre <seg type="Massacre" subtype="Dates">in 1857</seg></seg>:</seg></seg></p>
+
+<p><seg type="Source" subtype="Children">I am the daughter of <persName key="Huff, Peter">Peter Huff</persName>; my mother’s maiden name was <persName key="Huff, Salidia Brown">Salidia Brown</persName>, daughter of <persName key="Brown, Alexander">Alexander Brown</persName> of <placeName type="state" key="Tennessee">Tennessee</placeName>. <seg type="Emigrants" subtype="StateAffiliationArkansas">I was born in <placeName type="county" key="Benton County, AR">Benton county</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>, in 1853.</seg> My father started to move from that county in the spring of 1857, with the ill fated train <seg type="Emigrants" subtype="Route">bound for <placeName type="state" key="California">California</placeName></seg>. I was then a little past four years old. I can recollect my father and mother very well, as [well as] many little incidents that occurred about that time&#8212;our travels on the road, etc. <seg type="Emigrants" subtype="Route">I recollect passing through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and passing through other places, and I recollect we were in a small prairie.</seg> <seg type="Massacre" subtype="Battle">One morning before day I was woke up by the firing of guns, and learned that our camp had been attacked, <seg type="Blame" subtype="IndiansIndependently">we suppose[d], by Indians.</seg> Some of the men folk were wounded. The men dug a ditch around our camp, and fortified [the camp] the best they could. The women and children got in the ditches, and were <choice><sic>comparitively</sic><corr>comparatively</corr></choice> out of danger.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Battle">The fighting went on at intervals for six days, when failing to drive our men from their fortifications, the attacking party went off.</seg> <seg type="Massacre" subtype="Surrender">Soon afterward a party that we thought to be friends came up with a white flag, and said that they could protect us. They said they were our friends, and if we would come out and leave what we had they would take us to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, where we would be safe, and that they would protect us, and see that none of us were hurt. Our people agreed to this, and all started out, men, women and children, and <seg type="Massacre" subtype="Spoils">left everything we had behind.</seg> When we had got out a short distance from the wagons, where we had been fortified, we came to a place where tall sage brush was growing on both sides of the road, and as we were passing through this place we found we were trapped, as men had hid in it, and began to shoot among us, and then rushed upon our people from both sides, killing everybody they came to. <seg type="Massacre" subtype="Casualties">Capt. <persName key="Baker, John T.">Baker</persName> had me in his arms when he was shot down, and fell dead. I saw my mother shot in the forehead and fall dead. The women and children screamed and clung together. Some of the young women begged the assassins after they had run out on us not to kill them, but they had no mercy on them, clubbing [them with] their guns and beating out their brains.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Blame" subtype="LDS_LDS">Some of the murderers were white men and <seg type="Blame" subtype="IndiansLDSInfluence">some I supposed were Indians from their dress.</seg></seg> <seg type="Massacre" subtype="Survivors">At the close of the massacre there was eighteen children still alive, <seg type="Massacre" subtype="Casualties">one girl, some ten or twelve years old, they said was too big and could tell, so they killed her</seg>, leaving seventeen.</seg> <seg type="Massacre" subtype="Survivors">A man, I afterwards learned to be named <persName key="Willils, John">John Willis</persName>, took me in his charge (the children were divided) and carried me to his house next day in a wagon; he lived at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and was a Mormon; he kept me there that winter. Next spring he moved to a place called <placeName type="settlement" key="Toquerville, UT">Topersville [Toquerville]</placeName>. I stayed there about a year, until Dr. <persName key="Forney, Jacob">Forney</persName> had us children gathered up and carried us to <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, from there we went to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and remained two months, from there we came back to the states.</seg> <seg type="Blame" subtype="LDS_LDS">I know that most of the party that did the killing were white men. <seg type="Massacre" subtype="Spoils">The Mormons got all the plunder. I saw many things afterward.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Spoils"><persName key="Willis, John">John Willis</persName> had, in his family, bed clothes, clothing, and many other things that I recognized as having belonged to my mother. When I claimed the things, they told me I was a liar, and <seg type="Blame" subtype="IndiansIndependently">tried to make me believe it was the Indians that killed and plundered our people</seg>, <seg type="Blame" subtype="LDS_LDS">but I knew better, because I recollected seeing them kill our folks, and knew many things that they carried off that I saw in their possession afterward.</seg></seg> <seg type="Blame" subtype="LDS_LDS">I saw <persName key="Willis, John">Willis</persName> during the massacre; he carried me off from the spot; I could not be mistaken. Living with him made me know him beyond a doubt. <seg type="Massacre" subtype="Casualties">I saw them shoot the girl after we were gathered up.</seg></seg> <seg type="Massacre" subtype="Casualties">I had a sister that was nearly grown, and four brothers that they killed.</seg> <seg type="Massacre" subtype="Survivors">I was the youngest child of our family&#8212;the only one that was spared. They kept the children all separated whilst we remained with them. The scenes and incidents of the massacre were so terrible that they were indelibly stamped on my mind, notwithstanding I was so young at the time.</seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

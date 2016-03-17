@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.forney.1860">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Report of the Commissioner of Indian Affairs: Utah Superintendency</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>Jacob</forename> <surname>Forney</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.forney.1860</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">Utah Superintendency</title>
+		    <title level="m">Report of the Commissioner of Indian Affairs, Accompanying the Annual Report of the Secretary of the Interior, for the year 1859</title>
+		    <title level="s"></title>
+		    <author><forename>Jacob</forename> <surname>Forney</surname></author>
+		    <publisher>George W. Bowman, Printer</publisher>
+	   	    <pubPlace>Washington, DC</pubPlace>
+		    <extent>369-372</extent>
+		    <date when="1860">1860</date>
+		    <note type="editorial">Reprinted in President's message from the Report of the Secretary of the Interior.</note>
+		    <note type="source">Jacob Forney. "Utah Superintendency," in <hi rend="italic">Report of the Commissioner of Indian Affairs, Accompanying the Annual Report of the Secretary of the Interior, for the year 1859</hi>. Washington, DC: George W. Bowman, Printer, 1860. 369-372.</note>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	    <keywords scheme="original" n="category">
+		<term>government_document</term> 
+	     </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+	 	</keywords>
+	    </textClass>
+	</profileDesc>
+
+<revisionDesc>
+    <change when="2011-08-23"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+    <change when="2011-06-14"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+    <change when="2010-01-13"><name>Laura Weakly</name> Validation</change>
+    <change when="2009-12-01"><name>Kelsey F. Harrisy</name> Initial Encoding</change>
+<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="doc">
+
+<pb n="369" xml:id="mmm.doc.forney.1860.369"/>
+    
+<gap reason="not relevant" />
+
+<head>MOUNTAIN MEADOW MASSACRE.</head>
+
+<p><seg type="Emigrants" subtype="StateAffiliationArkansas">A company of emigrants from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, emigrating <seg type="Emigrants" subtype="Route">to <placeName type="state" key="California">California</placeName></seg>, <seg type="Massacre" subtype="Dates">arrived and camped <seg type="Massacre" subtype="Location">at a spring in the west end of <geogName type="valley" key="Mountain Meadows">Mountain Meadow valley</geogName></seg>, on the 3d or 4th September, 1857. On the 9th of said month, and near the said spring</seg>, <seg type="Massacre" subtype="Casualties">one hundred and fifteen to one hundred and twenty were inhumanly massacred</seg>. <seg type="Massacre" subtype="Survivors">The lives of seventeen children were spared, who were from two months to seven years old. This massacre was brought to my official notice by a letter from the Honorable <persName key="Mix, C. E.">C. E. Mix</persName>, received June, 1858, instructing me to make inquiry, and recover, if possible, certain children, who, it was supposed, were saved from the massacre and were supposed to be living with Mormons and Indians. Sixteen of the surviving children were collected in July, 1858, and were placed in a respectable family in <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, 350 miles south of this city, and were provided for by my directions.</seg></p>
+
+<pb n="370" xml:id="mmm.doc.forney.1860.370"/>
+
+<p><seg type="Massacre" subtype="Survivors">The seventeenth child was recovered last April. None of the children were claimed by or were living with or among the Indians. They were taken from the field of slaughter the evening of the day their friends were killed, and conveyed in a wagon to Mr. <persName key="Hamblin, Jacob">Hamblin</persName>'s house, in the east end of <geogName type="valley" key="Mountain Meadows">the valley</geogName>, by <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Tullis, Daniel">Daniel Tullis</persName>, and perhaps others. The following day the children were divided out and placed in different Mormon families, in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, &amp;c., from whence they were collected, in pursuance of my directions.</seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">A massacre of such unparalleled magnitude, on American soil, must sooner or later demand thorough investigation.</seg> I have availed myself, during the last twelve months, of every opportunity to obtain reliable information about the said emigrant company, and the alleged causes of and circumstances which led to their treacherous sacrifice.</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">Mormons have been accused of aiding the Indians in the commission of this crime. I commenced my inquiries without prejudice or selfish motive, and with a hope that, in the progress of my inquiries, facts would enable me to exculpate all white men from any participation in this tragedy, and saddle the guilt exclusively upon the Indians; but, unfortunately, every step in my inquiries satisfied me that the Indians acted only a secondary part.</seg> <seg type="Blame" subtype="EmigrantBehavior">Conflicting statements were made to me of the behavior of this emigrant company, while traveling through <placeName type="state" key="Utah Territory">the Territory</placeName>. I have accordingly deemed it a matter of material importance to make strict inquiry to obtain reliable information on this subject; not that bad conduct on their part could in any degree palliate the enormity of the crime, or be regarded as any extenuation. My object was common justice to the surviving orphans. The result of my inquiries enables me to say that the company conducted themselves with propriety. They were camped several days at <geogName type="waterway" key="Corn Creek">Corn creek</geogName>, <geogName type="valley" key="Fillmore Valley">Fillmore valley</geogName>, adjacent to one of our Indian farms.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">Persons have informed me that, whilst there camped, they poisoned a large spring with arsenic, and the meat of a dead ox with strichnine. This ox died, unquestionably, from eating a poisonous weed, which grows in most of the valleys here. Persons in the southern part of <placeName type="state" key="Utah Territory">the Territory</placeName> told me last spring, when on a southern trip, that from fifteen to twenty Pah-vant Indians (of those on Corn Creek farm) died from drinking the water of the poisoned spring and eating of the poisoned meat. Other equally unreasonable stories were told me about these unfortunate people.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">That an emigrant company, as respectable as I believe this was, would carry along several pounds of arsenic and strichnine, apparently for no other purpose than to poison cattle and Indians, is too improbable to be true.</seg> I cannot learn that the Pah-vants had any difficulty with these people. <seg type="Massacre" subtype="Location">The massacre took place only about one hundred miles south of <geogName type="waterway" key="Corn Creek">Corn creek</geogName></seg>, and yet not any of those Indians were present. Bad white men have magnified a natural cause to aid them in exciting the southern Indians, hoping that, by so doing, they could be relied upon to exterminate the said company and escape detection themselves. <seg type="Massacre" subtype="Battle">'thus, <seg type="Massacre" subtype="Dates">on the Monday morning subsequent to the Friday, 4th or 5th of September, the day they camped at the spring</seg>, the Indians commenced firing upon them, and continued daily until and during the
+
+    <pb n="371" xml:id="mmm.doc.forney.1860.371"/>
+
+eighth day of their encamping, but without accomplishing much. Several were killed, however, and a few wounded. When the company first apprehended an attack, they formed a corral with their wagons, and filled up with earth to the wagon-beds, which made a protective fort.</seg> <seg type="Blame" subtype="LDS_LDS">White men were present and directed the Indians. <persName key="Lee, John D>">John D. Lee</persName>, of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, told me, in his own house, last April, in presence of two persons, that he was present three successive days during the fight, and was present during the fatal day. The Indians alone made their last attack on <seg type="Massacre" subtype="Dates">the 8th of September</seg>. <seg type="Massacre" subtype="Surrender">On the 9th, <persName key="Lee, John D.">John D. Lee</persName>, and others whose names I gave in my letter of the 23d ultimo, displayed a white flag, and approached the corral with two wagons, and had a long interview with the company, and proposed a compromise. What there occurred has not transpired. The emigrant company gave up all their arms, with the expectation that their lives would be spared and they be conducted back to <geogName type="waterway" key="Panther Creek">Panther creek</geogName> and <placeName type="settlement" key="Cedar City">Cedar city</placeName>. The old women, children, and wounded, were taken in the wagons, and the company proceeded towards <geogName type="waterway" key="Panther Creek">Panther creek</geogName>, when suddenly, at a signal, the work of death commenced, <seg type="Massacre" subtype="Location">about one and a half miles from the spring, at a place where there was about an acre of scrub-oak brush</seg>. <seg type="Massacre" subtype="Casualties">Here not less, I think, than one hundred and fifteen men, woman, and children, were slaughtered</seg> <seg type="Blame" subtype="IndiansLDSInfluence">by white men and Indians</seg>. <seg type="Massacre" subtype="Casualties">Three men got out of <geogName type="valley" key="Mountain Meadows">the valley</geogName>, two of whom were soon overtaken and killed; the other reached <geogName type="waterway" key="Muddy Creek">Muddy creek</geogName>, over fifty miles off, and was overtaken and killed</seg> <seg type="Blame" subtype="IndiansLDSInfluence">by several Indians and one white man</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSGreed">Thus terminated the most extensive and atrocious massacre recorded in American history. Whoever may have been the perpetrators of this horrible deed, no doubt exists in my mind that they were influenced chiefly by a determination to acquire wealth by robbery</seg>. It is in evidence, from respectable sources, that material changes have taken place in the pecuniary condition of certain individuals suspected of complicity in this affair. It is to be regretted that no well-directed effort has been made to bring the guilty to trial and punishment. I furnished to the proper officials the names of some of the persons who, I had reason to suppose, were instigators and participators in this unparalleled massacre, and also with the names of witnesses.</p>
+
+<p><seg type="Massacre" subtype="Survivors">It was my intention to visit the southern portion of <placeName type="state" key="Utah Territory">the Territory</placeName> early last fall, for the purpose of bringing to this city the surviving children; but the public interest, the safety of emigrants, and of the United States mail, then carried on the northern California road, required my presence among the Indians in the <geogName type="valley" key="Humboldt Valley">Humboldt Valley</geogName>, which place I visited in September and October, 1858. Upon my return from that region, the weather was too inclement to travel, with so many little children, northwardly.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">I started as early this spring as practicable, and arrived back with the children the beginning of May. It is proper to remark that when I obtained the children they were in a better condition than children generally in the settlements in which they lived.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">In pursuance of instructions, I started fifteen of the surviving children the 29th of last June for <placeName type="settlement" key="Leavenworth City, KS">Leavenworth City</placeName>, under the general supervision of Major Whiting, United States army, and special care of
+
+    <pb n="372" xml:id="mmm.doc.forney.1860.372"/>
+
+several females. When I leave for the States, under your authority, I will take with me the two boys, who, at the time of the massacre, were, respectively, six and seven years old, and who were detained here by the United States attorney general in the hope that important facts for testimony might be elicited from them.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">It is proper, in connection with the foregoing, to state that this emigrant party, previous to the massacre, was in possession of a large quantity of property, consisting of horses, mules, oxen, wagons, and other valuables, as well as money, clothing, &amp;c., not one particle of which has been satisfactorily accounted for, and which, <seg type="Blame" subtype="LDS_LDS">in my opinion, was distributed among the <hi rend="italic">white </hi>inhabitants who participated in this affair.</seg></seg></p>
+</div1>
+
+<div1>
+<head>NORTHERN DIFFICULTY.</head>
+
+<p><seg type="Massacre" subtype="Spoils">On the 3d of August last, I received a letter from a reliable person in <placeName type="settlement" key="Box Elder, UT">Box Elder</placeName>, in the extreme northern part of <placeName type="state" key="Utah Territory">the Territory</placeName>, advising me that an emigrant train had been attacked by Indians on Sublet's Cut-off, in <placeName type="state" key="Oregon">Oregon</placeName>; that the Indians had brought into the settlements horses, mules, cattle, and other property, which they attempted to sell to the inhabitants, but without success.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Reaction" subtype="MilitaryRetaliation">Upon the receipt of this information, I addressed a note to his excellency, Governor <persName key="Cumming, Alfred">Cumming</persName>, requesting that a military force be dispatched without delay to that point, and proceeded myself immediately to <placeName type="settlement" key="Box Elder, UT">Box Elder</placeName>.</seg> Upon my arrival, I learned that the Indians had fled with their stolen property, and had gone north, through <geogName type="valley" key="Cache Valley">Cache Valley</geogName>, towards <geogName type="waterway" key="Bear River Lake">Bear River lake</geogName>.</seg> I was subsequently advised by his excellency, <persName key="Cumming, Alfred">the governor</persName>, that General <persName key="Johnston, Albert Sidney">Johnston</persName>, commander of this department, had ordered a company of dragoons to repair to the northern settlements. I have no information relative to the character of the orders issued by General <persName key="Johnston, Albert Sidney">Johnston</persName> to the officer in command of this detachment.</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">I was further advised by his excellency that the general in command of this department had notified him that the military force had been ordered north, not in consequence of his official requisition, but as a matter of public service, based upon what seemed to be reliable information. I therefore inferred that the general in command had assumed the exclusive control of all matters connected with these Indian outbreaks, and acted in virtue of his command of the army in <placeName type="state" key="Utah Territory">this Territory</placeName>.</seg> Under the circumstances, I deemed it proper to return to this city, where my presence seemed more likely to promote the public interest, than by remaining where my official authority, to say the least, was considered questionable.</p>
+
+<p>Soon after my return, I met Lieutenant <persName key="Gay, E.">Gay</persName>, who was in command of the company of dragoons above alluded to, who was then <hi rend="italic">en route</hi> to the north. Our interview was entirely unofficial, he making no report to me in relation to his orders.</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">Under the circumstances, however, I deemed it my duty to furnish him with every item of information that might facilitate him in operating successfully against the hostile Indians. I have been informed
+
+    <pb n="373" xml:id="mmm.doc.forney.1860.373"/>
+
+(unofficially) that Lieutenant <persName key="Gay, E.">Gay</persName> had a skirmish with a party of Indians near <placeName type="settlement" key="Box Elder, UT">Box Elder</placeName>. This officer subsequently formed a junction with Major <persName key="Lynde, I.">Lynde</persName>, who, in command of four companies of United States troops, was on his return march from the <geogName type="waterway" key="Humboldt River">Humboldt river</geogName> and <geogName type="mountain" key="Goose Creek Mountain">Goose Creek mountain</geogName>.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">Since that time, I have learned that another train has been attacked and destroyed, near <geogName type="waterway" key="March Creek">Marsh creek</geogName>, in <placeName type="state" key="Oregon">Oregon</placeName>.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">After inquiry on this subject, I am induced to believe that the parties who have committed these outrages are renegades from the Bannacks of Oregon and Sho-sho-nes: depredations of a similar character have been committed by these outlaws for many years.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">I presume the proper department will consider it necessary to establish permanent posts between <orgName type="military" key="Fort Hall">Fort Hall</orgName> and the <geogName type="mountain" key="Goose Creek Mountains">Goose Creek mountains</geogName>.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">The Sho-sho-ne Indians of the <geogName type="waterway" key="Humboldt River">Humboldt</geogName> and the <geogName type="mountain" key="Goose Creek Mountains">Goose Creek mountains</geogName>, and who claim a home in <placeName type="state" key="Utah Territory">Utah Territory</placeName>, have not committed any depredations since my visit among them last fall. It is quite obvious to me that the Bannack Indians of <placeName type="state" key="Oregon">Oregon</placeName> have instigated all the northern difficulties; and that the Sho-sho-nes of <placeName type="state" key="Utah Territory">this Territory</placeName> are only performing a secondary part.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS"><persName key="Jarvis, Robert B.">Robert B. Jarvis</persName>, Esq., appointed Indian agent for <placeName type="state" key="Utah Territory">Utah</placeName> in October 1858, entered upon his official duties January 1, 1859, and, in pursu ance of my instructions, he visited <geogName type="waterway" key="Deep Creek">Deep creek</geogName> and <geogName type="valley" key="Ruby Valley">Ruby valleys</geogName> last March and April, to determine upon the practicability of commencing an Indian farm in each of those valleys for different portions of Shosho-nes Indians. Mr. <persName key="Jarvis, Robert B.">Jarvis</persName> resigned June 30, 1859.</seg></p>
+
+<p><persName key="Humphreys, Andrew">Andrew Humphreys</persName>, Esq., successor to Agent <persName key="Hurt, Garland">Garland Hurt</persName>, whose commission expired in August, 1858, arrived here last June, and entered on the duties of his office on the 1st July last.</p>
+
+<p>I remain, very respectfully, your obedient servant,</p>
+<closer>
+    <signed><persName key="Forney, Jacob">J. FORNEY</persName>, <hi rend="italic">Superintendent Indian Affairs <placeName type="state" key="Utah Territory">U. T.</placeName></hi></signed>
+
+<signed>Hon. <persName key="Greenwood, A. B.">A. B. GREENWOOD</persName>,
+<hi rend="italic">Commissioner Indian Affairs, <placeName type="state" key="Washington D. C.">Washington, D. C.</placeName></hi></signed>
+    </closer>
+
+</div1>
+</body>
+</text>
+</TEI>

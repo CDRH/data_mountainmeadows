@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.lds.morgan.1882">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Opinions of the Leading Statesmen of the United States on the Edmunds Law,” “Gentile Opinions of the 'Mormon' People,” “Statistics of Crime and Education,” “Refutation of the Spaulding Story,” “Judge Sumner Howard on the Mountain Meadows Massacre." [Tract no. 3]</title>
+                <title level="m" type="sub"></title>
+                <author><forename>John</forename> <surname>Morgan</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.lds.morgan.1882</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">"Opinions of the Leading Statesmen of the United States on the Edmunds Law," "Gentile Opinions of the 'Mormon' People," "Statistics of Crime and Education," "Refutation of the Spaulding Story," "Judge Sumner Howard on the Mountain Meadows Massacre." [Tract no. 3]</title>
+                    <author><forename>John</forename> <surname>Morgan</surname></author>
+                    <publisher>Juvenile Instructor Office</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>23-24</extent>
+                    <date when="1882">ca. 1882</date>
+                    <note type="source">John Morgan. "Opinions of the Leading Statesmen of the United States on the Edmunds Law," "Gentile Opinions of the 'Mormon' People," "Statistics of Crime and Education," "Refutation of the Spaulding Story," "Judge Sumner Howard on the Mountain Meadows Massacre." [Tract no. 3]. Salt Lake City, UT: Juvenile Instructor Office, ca. 1882: 23-24.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>lds_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-05-12"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<pb n="23" xml:id="mmm.lds.morgan.1882.023"/>
+
+<!-- Sections referring to Sumner Howard also appear in B. H. Roberts's <hi rend="italic">The Character of the Mormon People.</hi> (ca. 1884-1888), and Rudger Clawson's <hi rend="italic">The Mountain Meadows Massacre</hi> (ca. 1912-1913). -->
+
+<head>MOUNTAIN MEADOWS MASSACRE.</head>
+
+<p><seg type="Blame" subtype="Lee">We give below an extract from the <persName key="Lee, John D.">Lee</persName> trial, showing briefly and conclusively that the authorities of the Church a Jests Christ of Latter-day Saints, and the "Mormon" people, were innocent of any complicity whatever, in the terrible tragedy enacted at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, that on the contrary President <persName key="Young, Brigham">Brigham Young</persName> sought by every means in his power save the unfortunate emigrants.</seg></p>
+
+<p>Remarks made by Mr. <persName key="Howard, Sumner">Sumner Howard</persName>, Ex-Chief Justice of <placeName type="state" key="Arizona">Arizona</placeName>, and United States Prosecuting Attorney at the second trial of <persName key="Lee, John D.">John D. Lee</persName>:</p>
+
+<p><seg type="Blame" subtype="Lee">"He proposed to prove that <persName key="Lee, John D.">John D. Lee</persName>, without any authority from any council or officer, but in direct opposition to the feelings and wishes of the officers of the Mormon Church, had gone to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, where the
+
+<pb n="24" xml:id="mmm.lds.morgan.1882.024"/>
+
+Indians were then encamped, accompanied only by  a little Indian boy, and <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="IndianRelationsLDS">had assumed command of the Indians, whom be had induced, by promises of great booty, to attack these emigrants</seg></seg>. All these charges against <persName key="Lee, John D.">John D. Lee</persName>, he (District Attorney <persName key="Hoard, Sumner">Howard</persName>) proposed to prove the jury by competent testimony, beyond any reasonable doubt, or beyond any doubt, and thought to appeal to the jury would be required to induce them to give a verdict in accordance with the evidence.</seg></p>
+
+<p>"<persName key="Haslam, James Holt">James Haslam</persName>, of <placeName type="settlement" key="Wellsville, UT">Wellsville</placeName>, <placeName type="county" key="Cache County, UT">Cache County</placeName>, was sworn.  He lived in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> in 1857; was ordered by <persName key="Haight, Isaac C.">Haight</persName> to take a message to President <persName key="Young, Brigham">Young</persName> will all speed; knew the contents of the message; left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> September 7, 1857, between 5 and 6 p. m., and arrived at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> on Thursday at 11 a. m.; started back at 3 p. m., and reached <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> about 11 a. m. Sunday morning, September 13th; deliverd the answer from President <persName key="Young, Brigham">Young</persName> to <persName key="Haight, Isaac C.">Haight</persName>, who said it was too late. Witness testified that when leaving <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to return, President <persName key="Young, Brigham">Young</persName> said to him: 'Go with all speed, spare no horseflesh. The emigrants must not be meddled with, if it takes all <placeName type="county" key="Iron County, UT">Iron County</placeName> to prevent it. They must go free and unmolested.' Witness knew the contents of the answer. He got back with the message the Sunday after the massacre and reported to <persName key="Haight, Isaac C.">Haight</persName>, who said, 'It is too late.'"</p>
+
+<p><seg type="Blame" subtype="Lee">At the second trial the evidence was plain and direct as to <persName key="Lee, John D.">Lee</persName>'s complicity in the massacre; he was convicted by "Mormon" testimony, and a verdict of "guilty" was brought against him by a "Mormon" jury.</seg></p>
+
+<p><seg type="Blame" subtype="Lee">At the close of the second trial U. S. District Attorney <persName key="Howard, Sumner">Sumner Howard</persName>, in his opening address, repeated again that he had come for the purpose of trying <persName key="Lee, John D.">John D. Lee</persName>, because, the evidence led and pointed to him as the main instigator and leader, and he given the jury unanswerable documentary evidence, proving that the authorities of the Mormon Church knew nothing of the butchery until after it was committed, and that <persName key="Lee, John D.">Lee</persName>, in his letter to President <persName key="Young, Brigham">Young</persName> a few weeks later, had knowingly misrepresented the actual facts relative to the massacre; seeking to keep him still in the dark and in ignorance. He had received all the assistance any United States official could ask on earth in any case. Nothing had been kept back, and he was determined to clear the calendar of every indictment against any and every actual guilty participator in the massacre.</seg></p>
+
+</body>
+</text>
+</TEI>

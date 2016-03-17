@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.cpt.18590707">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Mormon Problem</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+	        <edition>
+		    <date>2012</date>
+		</edition>
+	    </editionStmt>
+	    <publicationStmt>
+	    <idno>mmm.news.cpt.18590707</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+
+	    <bibl>
+		<title level="j">Chicago Press and Tribune</title>
+		<title level="a" type="main">The Mormon Problem</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Chicago, IL</pubPlace>
+		<date when="1859-07-07">July 7, 1859</date>
+	    </bibl>
+	</sourceDesc>
+
+       </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term> 
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-04-18"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-08-14"><name>Katie M. Heupel</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-08-14"><name>Katie Heupel</name>Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+	
+	<pb n="unknown" xml:id="mmm.news.cpt.18590707.001"/>
+
+
+<head>THE MORMON PROBLEM.</head> 
+
+<p>Late advices from <placeName type="state" key="Utah Territory">Utah</placeName> confirm previous reports as to <seg type="Blame" subtype="LDS_LDS">the complicity of the Mormons in the horrible massacre</seg> of <seg type="Emigrants" subtype="WagonTrain">one hundred and twenty-three emigrants</seg> perpetrated <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadow">Mountain Meadow</geogName></seg>, <seg type="Massacre" subtype="Dates">two or three years ago</seg>. <persName key="Cradlebuagh, John">Judge Cradlebaugh</persName> instituted a rigid examination into the affair, eliciting testimony which resulted in the issuing of <seg type="Blame" subtype="LDS_LDSLeadership">warrants for the arrest of forty men, some of them being high dignitaries of the Mormon Church</seg>. <seg type="Blame" subtype="LDS_LDS">Other instances of massacre were also inquired into, and the whole number of Mormons implicated therein and for whom warrants have been issued is nearly one hundred.</seg> Of the guilt of these parties, and of the frequent practice, by order of the Mormon Hierarchy, or the most revolting atrocities upon peaceable emigrants, as well as upon those or their own communion who were seeking to escape from the tyranny of <persName key="Young, Brigham">Brigham</persName> and the Twelve, the testimony was full and irresistible. <seg type="Blame" subtype="IndiansLDSInfluence">The attempt to palm off these infernal acts upon the Indians was so entirely unsupported by evidence, except where they had been employed for the purpose by Mormon leaders, that it was entirely abandoned</seg>, and bishops and other church dignitaries against whom the evidence pointed, fled incontinently to the fastnesses of the Mountains and other places of concealment to avoid arrest.</p>
+
+<p>Meanwhile the sympathies of Gov. <persName key="Cumming, Alfred">Cumming</persName> are known to be on the side of the Mormons, and the administration sustains him in his efforts to prevent the execution of justice upon these mountain desperadoes. They have not been arrested, nor will they be. <seg type="Reaction" subtype="MilitaryRetaliation">Our readers have not forgotten the scenes that transpired at <placeName type="settlement" key="Provo, UT">Provo</placeName> when Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> endeavored to enforce the execution of the laws, through the aid of the military, against offenders, For that he was condemned by the Administration, and orders were dispatched to <placeName type="state" key="Utah Territory">Utah</placeName> forbidding the military to give him further aid in guarding his court and shielding witnesses from the fury of the Mormon priesthood.</seg> As soon as these orders reach the Territory, the Mountain Meadow murderers will come out from their hiding places, and openly set Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> at defiance; and <seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="USGovernment">so long as Gov. <persName key="Cumming, Alfred">Cumming</persName> continues to be the supple tool of <persName key="Young, Brigham">Brigham Young</persName>, both United States Judges and the Federal troops will be powerless against them.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">We are not astonished to learn, as we do through private sources, that disgust with the Administration and an unwillingness to be longer placed in contact with so much villainy without the power to suppress or punish it, is the common feeling of both officers and men now stationed in <placeName type="state" key="Utah Territory">Utah</placeName>. We are assured that this feeling is universal throughout the army&#8212;that it is participated in by all ranks from Gen. <persName key="Johnson">Johnson</persName> down is the most obscure private in his command. Nor are rumors wanting of a settled determination on the part of the officers of the Utah Army, as well as the judges of the United States Court, to resign their respective commissions in a body and return home. Such a proceeding&#8212;though attended with great personal sacrifice in every instance&#8212;would undoubtedly be the best thing they could do, and would justly entitle them to the gratitude and respect or every honest man in the country.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">It is difficult to divine the motives that actuate the administration in its Utah policy. We can understand why it takes advantage of the condition of things there to make its retainers rich, by corruptly and fraudulently awarding them contracts for army supplies, at rates ten times beyond what others would take the job for. We can also understand why such creatures as <persName key="Cumming, Alfred">Cumming</persName> and <persName key="Hartnett, John">Hartnett</persName> are selected to till the offices of the Territory: but wherein the administration expects to derive advantage from protecting the polygamists, robbers and murderers of that modern Gomorrah from the majesty of violated law is wholly beyond our comprehension. Is it done to establish a precedent by virtue of which the South may hope hereafter to carry slavery into that and the other territories? Or is it the result of judicial blindness, inflicted by a higher power, and which is intended to fill up the cup of this Administration's iniquities until the people shall hurl it and the party which supports it from the high places of the land?</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

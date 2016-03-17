@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18600807">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Affairs in Utah</title>
+		<title level="m" type="sub">The New Judges&#8212;The Mountain Meadows Massacre></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18600807</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	   <notesStmt>
+		<note type="summary"></note>
+	   </notesStmt>
+
+	   <sourceDesc>
+		<bibl>
+		    <title level="j">New York Times</title>
+		    <title level="a" type="main">Affairs in Utah</title>
+		    <title level="a" type="sub">The New Judges&#8212;The Mountain Meadows Massacre</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1860-08-07">August 7, 1860</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>^%culpability%</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>^%sympathy%</term>
+	    </keywords>
+	</textClass>
+   </profileDesc>
+
+   <revisionDesc>
+  	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+  	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+  	<change when="2009-10-01"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18600807.001"/>
+
+<head type="main">AFFAIRS IN UTAH.</head>
+
+<head type="sub">The New Judges&#8212;The Mountain Meadows Massacre&#8212;Merine Sheep&#8212;The Crops&#8212;
+  Brigham Young.</head>
+
+<head>From Our Own Correspondent.</head>
+
+<dateline>Great Salt Lake City, Friday, July 13, 1860.</dateline>
+
+<p>The last express brought news of the appointment 
+of Judge <persName key="Kinney, John F.">KINNEY</persName> as Chief Justice of <placeName type="state" key="Utah Territory">Utah</placeName>,
+and of <persName key="Wilson, Alexander">ALEXANDER WILSON</persName> as Associate Justice. Of
+course, the majority of the community here would
+vastly prefer to have their Judges, and indeed all
+their public officers, chosen from the inhabitants of
+<placeName type="state" key="Utah Territory">the Territory</placeName>, and a little rather from the Mormon
+portion thereof. As there seems, however, no chance
+of such an arrangement, the next wish is that persons 
+may be appointed who have no Anti-Mormon-
+prejudices, but who evince a disposition to pursue a
+conciliatory course, and do not manifest any particular
+desire to get <persName key="Young, Brigham">BRIGHAM</persName>, or other high Mormon dignitaries 
+into trouble. Consequently, the appointment of
+<persName key="Kinney, John F.">KINNEY</persName> and <persName key="Wilson, Alexander">WILSON</persName> is looked on with satisfaction,
+and as an evidence that the Administration, having
+tried force with the Mormons and virtually failed, is
+now fully determined to try what can be done by
+purely civil means. The antecedents of both these
+men are of such a nature that the Mormons think
+there will be some chance of fair trials and an impartial 
+administration of the law, which none of the
+Mormons imagine was possible under the regime of
+<persName key="Eckels, Delana R.">ECKLES</persName>, <persName key="Cradlebaugh, John">CRADLEBAUGH</persName> and <persName key="Sinclair, Charles">SINCLAIR</persName>. People in the
+States, perhaps, cannot fully realize the utter detestation 
+and contempt in which the two Judges first
+named are held by the majority of the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> population.</p>
+
+ <p>I believe that both Judge <persName key="Kinney, John F.">KINNEY</persName> and <persName key="Wilson, Alexander">WILSON</persName> are
+firm in their conviction that they can hold United
+States Courts in <placeName type="state" key="Utah Territory">this Territory</placeName> without calling bayonets 
+to their aid ; that a tolerable degree of justice
+can be meted out to Jew and Gentile by United
+States Judges of the proper stamp ; and that the Mormons, 
+like a <placeName type="state" key="California Territory">California</placeName> horse which is utterly intractable 
+in certain hands, can actually be made something
+of by men who know how to handle them to advantage. 
+Whether or not these convictions are well
+founded, time must prove. <seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">It has been currently reported
+in this city that the Mormon President
+and other high dignitaries have frequently expressed
+their wishes for, and offered to exert their influence
+to effect, a thorough and impartial judicial investigation 
+of the Mountain Meadows massacre, when an
+unbiased Court can be held. If this is the case the
+appointments referred to may produce good. Certain 
+it is, that that fearful tragedy should be inquired
+into, and the responsibility thereof placed upon the
+right shoulders.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The last Eastern mail arrived on Wednesday night,
+about ten and a half days from <placeName type="settlement" key="St. Joseph's, MO">St. Joseph</placeName>'s, nearly
+four days within its usual time. The <placeName type="state" key="California">California</placeName> mail,
+which is a week over due, has not yet come to hand.
+Nothing is known here of the condition of affairs near
+<geogName type="valley" key="Canon Valley">Canon Valley</geogName>, as the express from the West starts
+from <geogName type="valley" key="Ruby Valley">Ruby Valley</geogName>. The last express that came through
+from <placeName type="state" key="California">California</placeName> accompanied the mail from <geogName type="valley" key="Carson Valley">Carson
+Valley</geogName> to <geogName type="valley" key="Ruby Valley">Ruby Valley</geogName>. As the sixty troops from <orgName type="military" key="Camp Floyd">Camp
+Floyd</orgName>, or a portion of them, went West some time
+ago with the mail, it is supposed that the mail is
+either coming this way slowly, escorted by the soldiers, 
+or that the troubles with the Indians between
+<geogName type="valley" key="Ruby Valley">Ruby</geogName> and <geogName type="valley" key="Carson Valley">Carson</geogName> still maintain a serious aspect. The
+Indians immediately around <geogName type="valley" key="Ruby Valley">Ruby</geogName> are still very hostile 
+and exhibit no disposition to make peace.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The Mormon newspapers have been very sarcastic
+regarding the sending of Col. <persName key="Howe, Charles W.">HOWE</persName> with two hundred 
+dragoons to <orgName type="military" key="Fort Hall">Fort Hall</orgName>, where there is no war,
+no mail and little emigration, and at the same time
+sending but sixty infantry on the central route, where
+there is a mail, an express, and where serious difficulties 
+with the Indians call for settlement.</seg></p>
+
+<p>Emigrants for <placeName type="state" key="California">California</placeName> are continually passing
+through our city. Some go by the northern route,
+and some by the central. Among the emigrants who
+lately passed here was Mr. <persName key="McCommons">McCOMMONS</persName>, of <placeName type="state" key="Wisconsin">Wisconsin</placeName>, 
+with, about three acore Merino sheep, which he
+was conveying in Wagons to <placeName type="state" key="California">California</placeName>. As some
+of his horses were worn down, he found himself compelled 
+to exchange a few of his sheep in this city for
+fresh horses. About a dozen, mostly bucks, were
+bought at from $125 to $150 each ; lambs dropped on
+the plains brought $50 each. When one of the bucks
+was shorn his fleece weighed fourteen pounds. Fleeces
+of ordinary sheep in <placeName type="state" key="Utah Territory">this Territory</placeName> weigh three or
+four pounds each. The Merino bucks were bought to
+cross with the common breed.</p>
+
+<p><persName key="San Pitch">SAN PITCH</persName>, an lndian chief, with about a hundred
+followers, made his appearance at <placeName type="settlement" key="Brigham City, UT">Brigham City</placeName> on
+the 29th ult., and said that Dr. <persName key="Forney, Jacob">FORNEY</persName> had sent to
+him to come there aim receive presents. When told
+that no presents had been deposited there, <persName key="San Pitch">SAN PITCH</persName>
+became sulky, and went off. This is not the first
+time <persName key="Forney, Jacob">FORNEY</persName> has been charged with forgetting his
+promises, either to the red or the white man.</p>
+
+<p>It is stated that Dr. <persName key="Forney, Jacob">FORNEY</persName> and Sub-Agent ROGERS
+recently found themselves passengers us the same
+mail-coach for the States, and that the Doctor got out
+at Bridger, and preferred staying another week to going 
+to the States in the same vehicle with <persName key="Rogers, William">ROGERS</persName>
+The reasons for their conduct are not given, out may
+be inferred.</p>
+
+<p>Late papers tell us of a great drouth in the Western
+States. It is remarkable that in this valley the present 
+season we have had more frequent rains than
+usual. Just at present we are in the midst of the hay
+harvest. Rye and barley are being cut, and early
+wheat is about ready. In <placeName type="county" key="Utah County, UT">Utah County</placeName> I am told
+teat the crops are excellent.</p>
+
+<p>Speculators are busy calculating the chances of
+supplying <placeName type="county" key="Carson County, UT">Carson</placeName> with bread from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>. Cash,
+it is expected, will soon buy wheat for about a dollar
+pet bushel, flour tor $3 50 per hundred. The cost of
+freight to <placeName type="county" key="Carson County, UT">Carson</placeName> is reckoned at nine or ten cents per
+pound, which, it is thought, will enable <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>
+merchants to sell at <placeName type="county" key="Carson County, UT">Carson</placeName> as cheaply as <placeName type="state" key="California">California</placeName>
+merchants can afford to.</p>
+
+<p>On Sunday <persName key="Young, Brigham">BRIGHAM</persName> preached twice in the Bowery.
+A fair sprinkling of emigrants attended. In the
+morning the drift of his discourse was that Jesus
+Christ was but a man, though he was, perhaps, a trifle
+better than most of us. In the afternoon he told the
+people they could not make any sacrifices. He said
+that the word was anomalous, and but another mode
+of expressing the act of <q>"rendering to God the things
+that are God's."</q></p>
+
+</div1>
+</body>
+</text>
+</TEI>

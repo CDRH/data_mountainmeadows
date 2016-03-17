@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.smith.1862">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	    <title level="m" type="main">Accounts of Brigham Young, Superintendent of Indian Affairs in Utah Territory</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>Caleb</forename> <forename type="middle">B.</forename> <surname>Smith</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.smith.1862</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="m">Accounts of Brigham Young, Superintendent of Indian Affairs in Utah Territory. Letter from the Secretary of the Interior, transmitting report of the investigation of the acts of Governor Young, ex-officio Superintendent of Indian Affairs in Utah Territory</title>
+		    <title level="s">US House. 37th Cong. 2d sess. House Exec. Doc. 29, Serial 1128</title>
+		    <author><forename>Caleb</forename> <forename type="middle">B.</forename> <surname>Smith</surname></author>
+		    <publisher>Government Printing Office</publisher>
+		    <pubPlace>Washington, DC</pubPlace>
+		    <date when="1862">January 15, 1862</date>
+		    <note type="source">Caleb B. Smith. <hi rend="italic">Accounts of Brigham Young, Superintendent of Indian Affairs in Utah Territory. Letter from the Secretary of the Interior, transmitting report of the investigation of the acts of Governor Young, ex-officio Superintendent of Indian Affairs in Utah Territory</hi>. US House. 37th Cong. 2d sess. Washington, DC: 1862. House Exec. Doc. 29, Serial 1128.</note>
+		</bibl>
+	</sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	    <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	     </keywords>
+	     	<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+     <revisionDesc>
+	<change when="2011-08-18"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-06-14"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2011-05-02"><name>Laura Weakly</name> Validation</change>
+	<change when="2009-12-10"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="doc">
+    <pb n="1" xml:id="mmm.doc.smith.1862.001" />
+
+<head type="main">37th Congress 2nd Session<lb/>
+House of Representatives Ex. Doc. No. 29<lb/></head>
+
+<head type="sub">Accounts of Brigham Young, Superintendent of Indian Affairs in Utah Territory</head>
+
+<milestone unit="horbar" />
+
+<head type="sub">Letter<lb/>
+From<lb/>
+The Secretary of the Interior,<lb/> 
+Transmitting<lb/>
+
+<hi rend="italic">Report of the investigation of the acts of Governor Young, ex officio superintendent of Indian affairs in Utah Territory.</hi></head> 
+
+<milestone unit="horbar" />
+
+<p>January 15, 1862 Referred to the Committee on Indian Affairs and ordered to be printed.</p> 
+
+<milestone unit="horbar" />
+<floatingText>
+<body>
+<opener>Department of the Interior,
+ 
+<dateline>January 13, 1862</dateline></opener>
+
+<p>SIR: The 6th section of the <q>“act making appropriations for sundry civil expenses of the government for the year ending June 30, 1862,”</q> enacts <q>“that the Commissioner of Indian Affairs be directed to examine the accounts of <persName key="Young, Brigham">Brigham Young</persName>, late governor of <placeName type="state" key="Utah Territory">Utah Territory</placeName>, and <hi rend="italic">ex officio</hi> superintendent of Indian affairs, for disbursements alleged to have been made by him on account of the Indian service in <placeName type="state" key="Utah Territory">said Territory</placeName>, and report a statement thereof to Congress.”</q></p>
+ 
+<p>I have the honor to transmit herewith a communication of the 11th instant from the Commissioner of Indian Affairs, and accompanying papers, embracing a report of <persName key="Davies, Benjamin">Benjamin Davies</persName>, late superintendent Indian affairs, <placeName type="state" key="Utah Territory">Utah Territory</placeName>, of his investigation of the accounts of Governor Young, and copies of said accounts, for the consideration and action of Congress, as contemplated by the act herein referred to.</p> 
+
+<closer><salute>Very respectfully, your obedient servant,</salute> 
+<signed><persName key="Smith, Caleb B.">CALEB B. SMITH</persName>,<lb/>
+Secretary</signed>
+
+<signed>Hon. <persName key="Grow, Galusha A.">Galusha A. Grow</persName>,
+Speaker of the House of Representatives</signed></closer>
+
+<milestone unit="horbar" />
+
+<note>[Ed. Note: This document contains a record of Brigham Young’s expenditures and allocation of resources as Superintendent of Indian affairs in Utah. The excerpt below is from pages 29-30 of the document.]</note>
+</body>
+</floatingText>
+    
+<pb n="29" xml:id="mmm.doc.smith.1862.029" />   
+
+    <p><seg type="Source" subtype="Government"><persName key="Rogers, William H.">William H. Rogers</persName>, of lawful age, being produced, sworn, and examined, states: I came into <placeName type="state" key="Utah Territory">this Territory</placeName> in August, 1858. I am an agent in the Indian service in <placeName type="state" key="Utah Territory">Utah Territory</placeName> at the present time, and have been for more than eighteen months. I have no knowledge of the value of services performed for the Indian service in <placeName type="state" key="Utah Territory">Utah Territory</placeName> in 1856 and 1857. I have no knowledge of the value of such services in 1858. I have no knowledge of the prices of such articles as were generally distributed among the Indians as presents at that time. From what I have learned from the former agents and from common report, the Indians in this Territory were always in a bad condition, without much variation, up to the present time. <seg type="Massacre" subtype="Survivors">In the spring of 1859 I accompanied Superintendent <persName key="Forney, Jacob">Forney</persName>, on an expedition to recover the children who survived the Mountain Meadow massacre, to the southern part of this Territory, to the Santa Clara settlement.</seg> <seg type="Source" subtype="Attributed_Hamblin">At Jacob's Twist, on the <geogName type="waterway" key="Santa Clara River">Santa Clara</geogName>, I saw the remnant of a dam which I was informed by Mr. <persName key="Hamblin, Jacob">Jacob Hamblin</persName> had been built for the Indians for purposes of irrigation. I also saw, some three or four hundred yards below, three or four acres of land which had been in cultivation the year previous, which I learned from Mr. <persName key="Hamblin, Jacob">Hamblin</persName> had been cultivated by the Indians.</seg></seg></p>
+
+<pb n="30" xml:id="mmm.doc.smith.1862.030" />
+
+    <p><seg type="Source" subtype="Government"><seg type="Source" subtype="Attributed_Hamblin">I saw several other places which had the appearance of having been cultivated, and was informed by said Hamblin that it had been done by the Indians.</seg> Cornstalks and vines were still upon the ground. <seg type="Massacre" subtype="Survivors">Mr. <persName key="Hamblin, Jacob">Hamblin</persName> was employed by Superintendent <persName key="Forney, Jacob">Forney</persName> to gather the Mountain Meadow massacre children.</seg> There were evidence of wheat having been cultivated there. The ground consisted of a sand-bank, and the mode of cultivation by the Indians was to dig it with sticks prepared for that purpose. I saw no evidences of ploughs having been used in the cultivation of the land. The wheat was cultivated in small patches, and the whole included may have been perhaps as much as twenty acres.  It may have been more or it may have been less. The Indians in small bands were cultivating the ground above and below the dam referred to, but I heard nothing of but one dam in the <geogName type="waterway" key="Santa Clara RIver">Santa Clara</geogName>. There appeared to be no one superintending or managing there Indian improvements. <seg type="Massacre" subtype="Survivors">I saw Mr. <persName key="Lee, John D.">John D. Lee</persName> at his residence at Harmony on our return with the children of the massacre and camped at his house.</seg> I should think his residence at that time about fifty miles from the evidences of cultivation by the Indians at the place referred to. Do not know whether he lived in the same place or not in 1856. <seg type="Massacre" subtype="Survivors"><seg type="Source" subtype="Indians">I returned a second time to the same place with troops, for the purpose of recovering two more of the children, who I was informed by Chief <persName key="Kanosh">Kanosh</persName> had been left behind.</seg></seg> I do not know the value of services paid hands by the day in 1856 or 1859. Forty dollars per month was the rate paid by Dr. <persName key="Forney, Jacob">Forney</persName> and board to working hands on the farms, and that I presume to have been the current price of the country for such labor.  The soil along the Santa Clara could not be cultivated without irrigation, and irrigation could not be done without the damming of that stream. The ground did not appear to have been cultivated since the dam had given way. All the blacksmithing that has been done here to my knowledge for the Indian service since my connexion with it has been done by Mr. <persName key="Cuthbert">Cuthbert</persName>. I have never heard of a blacksmith shop being connected with the Indian service in <placeName type="state" key="Utah Territory">this Territory</placeName>. Before I became agent in this superintendency I was in the employment of Dr. <persName key="Forney, Jacob">Forney</persName>, and I know that during that time he had all his blacksmithing done by Mr. <persName key="Cuthbert">Cuthbert</persName>. I know of no other person having been employed by the superintendency as blacksmith or assistant blacksmith for the United States, or of any building for blacksmithing tools or implements being connected with the Indian service here as United States property. I know of no persons of the name of Pendleton or Whiston as connected with the Indian service here as blacksmiths. The articles mentioned in the bill of <persName key="Stewart, Levi">Levi Stewart</persName>, in voucher No. 13, of 4th quarter, 1856, are such as have been commonly distributed to the Indians since I have been agent. I know nothing about the current prices of such goods at that time.</seg></p>
+
+<closer>
+<signed><persName key="Rogers, William H.">WILLIAM H. ROGERS</persName></signed>
+</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.triplett.1883">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Conquering the Wilderness</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>Frank</forename> <surname>Triplett</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.triplett.1883</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>            
+            <notesStmt>
+                <note type="project">This record contains Chapters 22 and 23 pgs 520-536. </note>
+            </notesStmt>            
+            <sourceDesc>                
+                <bibl>
+                    <title level="m" type="main">Conquering the Wilderness; or New Pictorial History of the Life and Times of the Pioneer Heros and Heroines of America.</title>
+		    <title level="m" type="sub">A Full Account of The Romantic Deeds, Lofty Achievements and Marvelous Adventures of Boone, Kenton, Clarke, Logan, Harrod, The Wetzel Brothers, The Bradys, Poe, And Thirty Other Celebrated Frontiersmen and Indian Fighters; Crocket, Houston, Kit Carson, Buffalo Bill, Wild Bill, and All The Famous Plainsmen; Graham, Sutter, Marshall Fremont, Kearney, and Other Historic Names of the Pacific Coast.</title>
+		    <title level="m" type="sub">With Picturesque Sketches of Boarder Life, Past and Present; Backwoods Camp meetings, Schools and Sunday Schools; Heroic Fortitude and Noble Deeds of the Pioneer Wives and Mothers.</title>
+		    <title level="m" type="sub">Flatboating; The Overland Route and Its Horrors; The Gold Fever and Filibustering Expeditions; Vigilance Committees; Lafitte, Walker, Brigham Young, Etc.; Eccentricities and Self&#8212;Sacraficing Labors of Cartwright, Axley and Other Celebrated Pioneer Preachers, And Describing Life and Adventure on the Plains and in the Mining Camps of Today, Including Hunting, Trapping, Freighting, Ranching, Herding, Post-trading, Indian Agencies, Scouts, Guides and Desperadoes; Immense Fortunes of Western Millionaires, How Made; Etc, Etc.</title>
+                    <author><forename>Frank</forename> <surname>Triplett</surname></author>
+                    <publisher>The Northwestern Publishing Co.</publisher>
+                    <pubPlace>Minneapolis</pubPlace>
+                    <extent></extent>
+                    <date when="1883">1883</date>
+		    <note type="source">Frank Triplett. <hi rend="italic">Conquering the Wilderness</hi>. Minneapolis, MN: The Northwestern Publishing Company, 1883. 520-528, 529-536.</note>
+                </bibl>
+            </sourceDesc>            
+        </fileDesc>        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>        
+        <revisionDesc>
+	    <change when="2011-09-22"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-07-15"><name>Stephen Pipkin</name> Initial Encoding
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+<text>    
+<body>
+<div1 type="chapter">
+
+<pb n="520" xml:id="mmm.wa.triplett.1883.527"/>
+
+<head>CHAPTER XXII.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<head>THE MORMONS</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="center">THEIR BEASTLY SENSUALITY&#8212;UNDENIABLE INDUSTRY&#8212;THEIR RELIGION&#8212;
+BARE&#8211;FACED FRAUDS&#8212;IGNORANT CONVERTS&#8212;JOE SMITH&#8212;A THEIVING
+WELL&#8211;DIGGER&#8212;"THE MANUSCRIPT FOUND"&#8212;SPAULDING'S NOVEL&#8212;
+STOLEN BY SMITH&#8212;USES IT AS HIS BIBLE&#8212;EXAMPLES&#8212;THEIVES AND
+THUGS&#8212;HORRIBLE RITE8&#8212;LUST AND MURDER&#8212;HOW THE CHURCH
+WAS FORMED&#8212;REVELATIONS&#8212;JOHN THE BAPTlST&#8212;SMITH'S BANK&#8212;
+THE PERMANENT ZION&#8212;WAX RICH AND NUMEROUS&#8212;ENRAGED MISSOURIANS
+&#8212;DRIVE OUT THE MORMONS&#8212;NAUVOO, ILLINOIS&#8212;THEIR
+POWER&#8212;CRIMES&#8212;THE lLLINOISANS RISE AGIANST THEM&#8212;DEATH OF
+JOSEPH AND HYRUM SMITH&#8212;FLIGHT TO NEBRASKA&#8212;BRIGHAM YOUNG
+&#8212;THE NEW LEADER&#8212;A NEW ZION&#8212;THE DANITES&#8212;FIRST ORGANIZED
+&#8212;THE MORMON SYSTEM OF MURDER&#8212;THEIR TOOLS&#8212;FILLMORE’S FOLLY
+&#8212;JOHN D. LEE'S ACCOMPLICES IN MURDER&#8212;A TERRIBLE DEED</hi></p>
+
+<p>With characteristic American impulsiveness we are certain to go
+to extremes in everything we undertake, and in judging this abnormal
+civilization in our midst, we have all blame and no praise to
+bestow. We see their beastial sensuality, their unrepublican 
+clannishness, and their readiness to commit any crime, even murder, to
+uphold their religion, but we never allow them credit for their
+patient industry, that has founded an empire in the wilderness, nor
+their indomitable perseverance, that has enabled them to maintain,
+against all the power of the United States, their depraved and 
+disgusting custom of polygamy. Their economy, too, is something
+remarkable, and that, their patience and their toil has made the
+wilderness to blossom as the rose.</p>
+
+<p>Their religion is founded on the most bare-faced frauds, and was
+the conception of an ignorant, but cunning imposter, who seems to
+have turned from the digging of wells and more questionable
+practices, to the making of creeds, rather from a desire to gain an easy
+living, than an ambition to found a sect. This shrewed Yankee,
+who had migrated from his native State of Vermont to New York,
+seems to have stolen the manuscript of a novel, written in a style
+similar to that of the scriptures, and entitled, <q>"The Manuscript
+Found."</q></p>
+
+<pb n="521" xml:id="mmm.wa.triplett.1883.528"/>
+               
+<p>This has been proved, by unimpeachable evidence, to have been 
+the work of one Josiah Spaulding, a lawyer, (some accounts say a 
+minister) of considerable erudition. Being unable to get it published,
+he laid it away in an old trunk, from which it was filched by
+Joseph Smith, who afterward pretended to have been directed in a 
+vision to dig in a fabulous hill, (Cumorah) where he would find the 
+true bible, written on plates of gold. The plates of gold were
+
+<figure xml:id="mmm.wa.triplett.1883.528.figure">
+ <p><hi rend="smallcaps">The Hill of Cumorah&#8212;Morman Hill</hi>.</p>
+<figDesc></figDesc>
+</figure>
+
+entirely imaginary; the hill, Cumorah, was Spaulding’s trunk, and
+the new bible the lawyer's novel.</p>
+
+<p>The hill which the Mormons call Cumorah, is called by the neighbors
+Mormon Hill, and the cut is a perfect representation of it,
+showing even the hole dug by the knavish prophet and in which he
+pretended to find the plates.</p>
+
+<pb n="522" xml:id="mmm.wa.triplett.1883.529"/>
+
+<p>Upon this slender foundation has been built up one of the most
+stupendous and lasting humbugs that the world ever saw. The Old
+Man of The Mountain had not more fanatical followers; the Veiled
+Prophet of Kohrassan had not a more sensual and infamous creed.
+The alleged prophet, Smith, saw that if, in the guise of religion,
+man’s basest passions could be pandered to, he would become an
+easy convert, and hence he formulated a creed, in which license
+waited on lust and assassination was not denied to revenge.</p>
+
+<p>Searching the scriptures for his evil purpose, he selected the most
+hideous examples in the Old Testament, and entirely ignored the
+gentle precepts and pure morality of <q>"the lowly Nazarene."</q> Abraham,
+David and Solomon were stock characters in his facile theology,
+but the noble, learned, spotless Paul and He who died on Calvary,
+do not figure therein. His doctrines made polygamy a necessity,
+and did not admit of celibacy or the clinging to one wife. His
+polity civil and religious was a step backward for over twenty
+centuries.</p>
+
+<p> The government was one of priestcraft; the police the most
+infamous ever devised since the reign of Thugism in lndia, or the
+banding of the assassins under the <q>"Old Man of the Mountain."</q> 
+The Danites perpetrated massacres, from which the whole world
+shrank aghast and in their temple, in the short lulls between infamous
+blasphemy and riotous lechery, the head of the church publicly
+thanked the head of the assassins for the cold&#8211;blooded murder
+of women and children.</p>
+
+<p>The dark vaults of the Endowment House have witnessed scenes
+of sacrificial torture and murder, that outdo in savagery the stake
+fires of the Apache or the Sioux, and its open halls have looked on
+sights of bestial lust, that would bring a blush to the cheeks of the
+most besotted harlot&#8212;and all this in the sacred name of religion.</p>
+
+<p> After Smith had collected around him a few followers from the
+more ignorant, idle and vicious persons of his neighborhood, he
+began eagerly to proselyte, and approaching only persons whose
+passions or policy made them ready believers, he soon saw himself
+at the head of a suilicient number to begin the organization of his
+church. This he did by calling down John the Baptist, who, according
+to them, readily ordained Oliver Cowdery and Joseph Smith as
+priests of the Alamonic order.</p>
+
+<pb n="523" xml:id="mmm.wa.triplett.1883.530"/>
+ 
+<p>This event occurred on the 6th (it should have been the lst) of
+April, 1830, near Manchester, Ontario County, New York, and in
+addition to these two the church consisted, at that time, of four
+others; three of them belonging to the Smith family. Oliver H
+Cowdery, a wandering school teacher, seems, next to Joseph Smith,
+to have been for a long time the leading spirit amongst the disciples
+of this religion based on virility. He preached its first sermon,
+though Joseph, during his life, always monopolized the revelation
+part of the business.</p>
+
+<p>Promising to his male converts a gratification of their sensuality
+and terrifying the females with revelations of the coming destruction
+of the world, this fit son of a knavish father and a mother
+equally tricky, soon had around him a small congregation of brutish
+men and idiotic women, and then his revelations increased at a 
+wonderful rate. One of these miracles warned the people that they
+must go West, an advice afterward offered by Horace Greeley to all I
+young men, and early in 1831 all of the saints had made their way
+to Kirtland, Ohio.</p> 
+<p>At Kirtland, Joseph Smith and Sidney Rigdon had opened a bank,
+and in order to prepare the way for its full&#8212;handed failure, Joseph
+here had an unusually heavy revelation. It was that Jackson County,
+Missouri, was <q>"the Zion, which never should be moved,"</q> and which
+<q>"had been solemnly dedicated to the Lord and his saints,"</q> and
+accordingly the Mormons began a march to that section. It was
+about this time that Brigham Young, another delectable product of
+the State of Vermont, joined the church, together with his four
+brothers and six sisters.</p>
+
+<p>The Mormon fold, grew rapidly, owing to vigorous missionary
+work amongst the ignorant, and they began to wax insolent as their
+numbers increased, until at last the Missourians, never too patient, 
+determined to drive these thievish knaves from their midst. Assembling 
+at Independence, they broke up the Mormon newspaper, tarred
+and feathered some of the disciples, banished others, and after a
+conflict, in which both sides had some dead and wounded on their
+hands, the saints fled from their <q>"everlasting Zion, which would
+never be moved,"</q> and sought refuge in Illinois&#8212;after a short stay
+in Clay, Davis, Carroll, and Caldwell Counties, Missouri.</p>
+
+<p> Here they settled in Hancock County, founded Nauvoo, obtained
+an ascendency in that section, and began openly the practice of
+
+<pb n="524" xml:id="mmm.wa.triplett.1883.531"/>         
+           
+polygamy. To vile adultery, they added high handed robbery,
+assassination, and all other crimes. The cholera had decimated their
+Missouri army of invasion; writs were out for most of their leaders,
+but still their converts poured in. Their experience in Missouri had
+taught them nothing, and at last their evil conduct led to the arrest
+and imprisonment of several of them, amongst them Joseph Smith
+and his brother, Hyrum.</p>
+
+<p>The Mormons at this time maintained a military organization, and
+terrorized the entire section. Tired of their insolent airs, the 
+Illinoisans at last raised a mob, broke into the jail at Carthage, and shot
+Hyrum Smith. Joseph determined, if possible, to escape, and 
+jumping from an upper story of the jail, was so seriously hurt
+
+<figure xml:id="mmm.wa.triplett.1883.531.figure">
+<p><hi rend="smallcaps">Joe Smith</hi>.</p>   
+<figDesc></figDesc>
+</figure>
+
+as to be unable to fly. The mob now sat him against a well curb
+and shot him to death, but strange to say, no atmospheric, or other
+disturbances, took place at the demise of <q>"the prophet."</q></p>
+
+<p>Amidst the dissensions which took place at the death of Smith,
+Brigham Young seized the reins of government by force of his
+superior will, courage and tact and by theft and murder, when
+necessary to remove obstacles. It was undoubtedly the best thing
+that could have happened to the sect, for under his management the
+church throve apace, and the city of Nauvoo, in the early part, of
+1845, covered six square miles, and had a population, by actual
+count, of iifteen thousand.</p>
+
+<pb n="525" xml:id="mmm.wa.triplett.1883.532"/>
+
+<p>Owing to the low character of the entire body of these people,
+it was impossible for them to forego theft, murder, counterfeiting,
+and other crimes, and their extermination was actually contemplated 
+by the outraged people of Illinois. Brigham Young
+with the genius of a true ruler, saw that he could not maintain 
+himself against the coming storm, whose mutterings were plainly to be
+heard, and he also knew that, cemented by suffering and what they
+considered persecution, if he could find some uninhabited section,
+he could band them together against the world&#8212;a sect apart from
+all others.</p>
+
+<p>Accordingly, in the dead of winter, he evacuated Nauvoo, with
+its comfortable houses and its costly temple, and with his entire 
+following, set his face toward the West. Despise them and their
+beastiality as we may, yet we cannot but admire their heroism and
+their endurance on this long and dreary winter’s march. At last
+they reached the vicinity of Omaha and here they went into camp,
+to recruit until the coming spring. The able management of Young
+had convinced the Mormons that he was the leader for them, and at
+this point he was proclaimed the successor of the prophet, Joseph;
+many of the ignorant creatures swearing that they beheld the mantle
+of the prophet visibly descend upon him.</p>
+
+<p>From Omaha Young started, April 14, 1847, with seventy wagons
+and one hundred and forty&#8212;three men, as an advance guard, to
+seek anew a permanent Zion. On the 24th of July, the same year,
+he entered the valley of the Great Salt Lake, and its advantages at
+once struck him. Its isolated position was just what he wanted;
+for here, he reasoned, the Mormons would be a nation to themselves,
+and here they might, for years, remain in undisturbed possession,
+until their accumulated numbers had made them a foe, that it might
+puzzle the entire force of the United States to dispossess.</p>
+
+<p>Our French cousins say: <q>"<hi rend="italic">L’homme propose, mais L’Dieu
+diapose</hi>,"</q> and the discovery of gold in California, in a year or two
+after their settlement, was destined to open a way through their new
+kingdom, that would give it as great publicity, as any of the American
+States possessed. Their very trail to their hiding&#8212;place in the
+wilderness, became the pathway of the overland gold&#8212;seeker, and
+invaded by countless swarms of these adventurers, their 
+wilderness&#8212;surrounded city became noted as an oasis in the desert. Young's
+
+
+
+<pb n="526" xml:id="mmm.wa.triplett.1883.533"/>
+          
+judgment, however, was not at fault, for had not gold been discovered 
+in California, and had not, suddenly, all ways lead to that
+golden center, year after year must have sped away and his people
+grown to wealth and power, before he would have been disturbed
+in his lakeside Zion, by the sacriligious feet of outside barbarians.</p>
+
+<p> In 1849, the Mormons formed of their section the State of Deseret,
+and burdened with all of their peculiar institutions, knocked for
+admission at the door of the American Union. This they did not
+obtain, and their State was made into the Territory of Utah, in 1850,
+and Young appointed by Filmore as governor. That this was an
+unwise move is doubted by no one, as it enabled this unscrupulous
+sooundrel to so arrange the internal affairs of the territory, that the
+laws of the United States have been a dead letter therein ever
+since.</p>
+
+<p>It is here that the Danites of the Mormon church have operated
+chiefly; though, contrary to the general opinion, they were first
+organized at Nauvoo. These fanatical assassins were often used by
+Joseph Smith, and many a gentile and even troublesome Mormon
+was buried in the suburbs of Nauvoo, or quietly sunk in the turbid
+waters of the Mississippi. Under the government of Brigham,
+Young, they became a favorite instrument and fairly rioted in
+murder and other crimes.</p>
+
+<p>Did the disgusted Mormon attempt to fly from his infernal 
+delusion, the Danites speedily <q>"blood—atoned"</q> him.</p>
+
+<p>Did an obnoxious gentile obstruct some plan of this sensual brute,
+under the guidance of these <q>"avenging angels"</q> he would soon <q>"go
+over the rim of the basin,"</q> and months afterward, in some lonely
+gulch or some mountain stream, his mouldering remains would be
+found, and the murder laid to the charge of accident or Indians.</p>
+
+<p>When it was not deemed politic for the Danites to dispose of a
+man in Utah, another agent was brought into play; the knavish
+Mormon Indian trader, who robbed alike friend and foe; savage
+ally and hated gentile. For a few trinkets from his convenient
+pack, a brace of savages would dog the victim, and at some convenient
+time put him out of the way with bows and arrows, so that
+the handiwork might proclaim the Indian, and the Danite escape
+suspicion.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Perhaps the most horrible of all their crimes was that which has
+passed into history as the <q>"Mountain Meadow Massacre."</q> It is
+
+<pb n="527" xml:id="mmm.wa.triplett.1883.534"/>
+
+one that, for cold-blooded barbarity and infernal cruelty, dwarfs the
+massacres of our border Indians into insignificance. To the shame
+of the country, be it said, that but one of the vile wretches that
+instigated and committed this outrage, has ever been brought to
+
+<figure xml:id="mmm.wa.triplett.1883.534.figure">
+<p><hi rend="smallcaps">A Mormon Indian Trader</hi>.</p>
+<figDesc></figDesc>
+</figure>
+  
+punishment. This wholesale murder will be described as briefly as
+possible.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">One hundred and thirty-two <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName> immigrants</seg></seg>, <seg type="Emigrants" subtype="Route">on their way
+to <placeName type="state" key="California">California</placeName>, were passing through <placeName type="state" key="Utah Territory">Utah</placeName></seg> <seg type="Context" subtype="UtahWar">at a time when <persName key="Young, Brigham">Young</persName>,
+<persName key="Wells, Daniel H.">Wells</persName>, <persName key="Hyde, Orson">Hyde</persName>, <persName key="Stout, Hosea">Stout</persName>, <persName key="Dame, William H.">Dame</persName>, <persName key="Haight, Isaac C.">Haight</persName>, <persName key="Lee, John D.">Lee</persName>, and other prominent
+
+<pb n="528" xml:id="mmm.wa.triplett.1883.535"/>   
+            
+Mormons, had determined to spare none of the gentiles who should
+enter <placeName type="state" key="Utah Territory">the territory</placeName></seg>. <seg type="Encounter" subtype="TradeLDS">After reaching the Mormon settlements, the
+immigrants were met with a determined hostility and while having
+done nothing to awaken enmity, they were surprised to find that they
+could neither buy food for themselves nor for their stock.</seg></p>
+
+<p>The latter were becoming weak, when the party came to <seg type="Massacre" subtype="Location">the
+<geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, and they determined to rest here a few days to
+recruit them, as there was good water and luxuriant grass. This
+camp they were destined never to leave again.</seg> <seg type="Blame" subtype="LDS_LDS">Under instructions
+from <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Smith, George A.">George A. Smith</persName>, <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, <persName key="Dame, William H.">William
+H. Dame</persName> and other leaders, the fanatical <persName key="Lee, John D.">Lee</persName>, <persName key="Higbee, John M.">Higby</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName>, <seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="IndiansLDSInfluence">(having recruited all of the Indians, over whom the Mormons
+had any authority,)</seg></seg> with fifty-eight Mormons, <seg type="Massacre" subtype="Battle">surrounded these
+immigrants and <seg type="Massacre" subtype="Dates">at daylight on the morning of Tuesday, September
+13th, 1857,</seg> attacked them fiercely, <seg type="Massacre" subtype="Casualties">killing seven and wounding
+sixteen.</seg></seg></seg></p>
+
+<figure xml:id="mmm.wa.triplett.1883.535.figure">
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+    
+<div1 type="chapter">
+
+<pb n="529" xml:id="mmm.wa.triplett.1883.536"/>	
+ 
+<head>CHAPTER XXIII.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<head>THE MOUNTAIN MEADOW MASSACRE.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="center">
+A DOOMED BAND&#8212;IN SEARCH OF SUCCOR&#8212;MORMONS UNMASKED&#8212;
+A DESPERATE DEFENSE&#8212;REPEATED CHARGES&#8212;SWARMING SAVAGES&#8212;TWO
+HEROS&#8212;TRIBUTE FROM THE INFAMOUS LEE&#8212;AMMUNITION RUNS LOW
+&#8212;THE FLAG OF TRUCE&#8212;THE PARLEY&#8212;PROMISES&#8212;THE MORMON
+COUNSIL&#8212;A MORMON BISHOP&#8212;PLAN OF THE MASSACRE&#8212;THE SIGNAL
+&#8212;<q>"DO YOUR DUTY"</q>&#8212;ATTACK ON UNARMED MEN,WOMEN AND CHILDREN
+&#8212;SICK AND THE WOUNDED BUTCHERED&#8212;INCIDENTS OF THIS HORROR&#8212;
+NAMES OF THE PARTICIPANTS&#8212;ESCAPE OF THREE MEN&#8212;PURSUED AND
+KILLED&#8212;THE CAPTIVE GIRLS&#8212;THEIR BUTCHERY&#8212;SEARCHING THE
+DEAD&#8212;MUTUAL RECRIMINATIONS&#8212;ACCURSED GROUND&#8212;TARDY JUSTICE
+&#8212;A SINGLE PARTICIPANT PUNISHED&#8212;A MURDER IN CONGRESS&#8212;
+&#8212;CHARACTER OF LEE&#8212;YOUNG'S INFAMY&#8212;A SELFISH BEAST&#8212;HIS
+COURSE&#8212;HIS GLUTTONY&#8212;A FATAL FEAST&#8212;DEATH OF A DOG</hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">Although taken by surprise, the immigrants fought bravely and
+repulsed their assailants, who were more than four hundred in number.
+<seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="IndiansLDSInfluence">In the fight they killed and wounded some of the Indians</seg>, but
+unluckily, not a single Mormon was touched.</seg></seg> The latter, it is most
+likely, went into this first fight painted like the Indians. <seg type="Massacre" subtype="RescueAttempt">One of
+the chief reasons for this belief is, that that night two of the 
+immigrants made their way out of the camp through the Indian lines, and
+hastened to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for succor, supposing that the Mormons
+would not suffer them to be massacred. On the way they met, at a
+roadside spring, <persName key="Stewart, William C.">William C. Stewart</persName>, <persName key="Arthur, Benjamin">Benjamin Arthur</persName> and <persName key="White, Joel">Joel
+White</persName>, and stated their business to them. <persName key="Stewart, William C.">Stewart</persName> immediately shot
+one of them, a young man named <persName key="Aden, William A.">Aden</persName>, and <persName key="White, Joel">Joel White</persName> wounded 
+the other, who escaped again to the beleaguered camp <seg type="Massacre" subtype="Location">on <geogName type="valley" key="Mountain Meadows">the
+meadows</geogName></seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">The immigrants now learned, for the first time, that the Mormons
+were not only the instigators, but were also actors in the attack, and
+they prepared for a desperate defense.</seg> The wagons were in corral
+shape&#8212;that is, almost a complete circle with a narrow opening
+toward the front&#8212;and they now closed up the gaps by locking the
+wheels together with chains, and then dug a large rifle&#8212;pit, in which
+the women and children were placed. <seg type="Blame" subtype="LDS_LDS">Dash after dash was made by
+
+<pb n="530" xml:id="mmm.wa.triplett.1883.537"/>
+              
+the godless Mormons <seg type="Blame" subtype="IndiansLDSInfluence">and their savage allies</seg></seg>, but <seg type="Massacre" subtype="Casualties">each time the handfull
+of brave men swept them back with loss</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle">One small band of Indians deserted, but their place was more
+than supplied by Mormons and Indians from outlying camps and 
+
+<figure xml:id="mmm.wa.triplett.1883.537.figure">
+<p><hi rend="smallcaps">Morman Militia Going to the Mountain Meadow Massacres</hi>.</p>
+<figDesc></figDesc>
+</figure>
+
+settlements, who, on the wings of the wind, sped on to the doomed
+train. Indian runners and Mormon messengers were hurrying
+from place to place to bring up reinforcements, and the condition of
+the immigrants hourly grew more critical.</seg> They had camped two
+hundred feet from the spring and to obtain water, a dash of that
+
+<pb n="531" xml:id="mmm.wa.triplett.1883.538"/>    
+                
+distance and back had to be made. Two men were sent out to cut
+wood, so that cooking could be done. These heroes never flinched,
+but composedly performed their duty under a perfect storm of bullets.</seg>
+Their courage extorted a tribute even from the infamous
+<persName key="Lee, John D.">John D. Lee</persName>, who had performed as many of <persName key="Young, Brigham">Brigham Young</persName>’s 
+villainous errands and requirements as any other of that sect of thieves
+and murderers.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The days wore on wearily; <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">the firing from the Mormons and
+Indians</seg></seg> being constant day and night. That from the corral had
+slackened&#8212;the besieged were almost out of ammunition. It was
+now Friday&#8212;for four days and nights <seg type="Emigrants" subtype="StateAffiliationArkansas">the Arkansans</seg> had been cooped
+in the fatal corral, and still the furious fire of the hellish besiegers
+was kept up. <seg type="Massacre" subtype="Surrender">Two little boys; some say, and for a long time it was
+not denied, two little girls clad all in white, came out with a flag of
+truce to <persName key="Lee, John D.">John D. Lee</persName>&#8212;who, in advance of his savages, was endeavoring
+to spy out a weak place in the fortified corral&#8212;and made overtures 
+of peace. They were harshly repelled, but that afternoon,
+not having been able to take the place by assault, <persName key="Lee, John D.">Lee</persName> and another
+wretch&#8212;either <persName key="Klingensmith, Philip">Klingensmith</persName> or <persName key="Bateman, William L.">Bateman</persName>&#8212;advanced with a flag of 
+truce, and were met by a man from the corral, probably Captain
+<persName key="Fancher, Alexander">Fancher</persName>, its commander.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS">It may seem strange that the immigrants were willing to treat with
+men, in whom they could not have had the slightest confidence, and
+who, by this time, they must have known as infinitely worse than
+<seg type="Blame" subtype="IndiansIndependently">their Indian allies</seg>.</seg> The matter is easily explained&#8212;there were not
+twenty loads of ammunition left amongst the besieged and they
+took the desperate chance of surrender to a foe who never knew
+pity nor regarded honor.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Planning">It had been agreed, in a council held by the Mormon officers, that
+they would never be able to take these men by assault, and that
+strategy must be used <seg type="Massacre" subtype="Casualties"><q>"to <hi rend="italic">decoy</hi> them from their fortifications,
+when all who were of age sufficient to talk of the matter, were to be
+<hi rend="italic">exterminated</hi>."</q> This strategy was now being put in force.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="Lee, John D.">Lee</persName> says that <persName key="Bateman, William L.">Bateman</persName> carried the flag of truce, and when he was
+met by the man from the wagons he, himself, went up and arranged
+the details as agreed upon by <persName key="Higbee, John M.">John M. Higbey</persName>, Major of Mormon
+militia; <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, Colonel; and <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, Bishop
+of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. <seg type="Massacre" subtype="Planning">These arrangements were according to the general
+plans of <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Smith, George A.">George A. Smith</persName>, <persName key="Well, Daniel H.">Daniel H. Wells</persName>, <persName key="Hyde, Orson">Hyde</persName>
+
+<pb n="532" xml:id="mmm.wa.triplett.1883.539"/>
+
+and other dignitaries of this church, that permits incest and 
+inculcates adultery and assassination.</seg></seg></seg></p>
+
+<p>The children of tender years were to be put into one wagon, the
+wounded into another. All arms were to be given up and the
+women and men, in two separate bodies, were to be marched to
+<placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and there held in safety until they could go through to
+<placeName type="state" key="California">California</placeName> with some other train. <seg type="Massacre" subtype="Casualties">When <persName key="Lee, John D.">Lee</persName> entered the corral, the
+immigrants were burying two of their men, who had died of wounds
+received in Tuesday morning’s fight. These made three, of the
+seventeen wounded, who had died and with the seven killed outright,
+made ten men lost in the assaults by their foes.</seg></p>
+
+<p>The two wagons being loaded, they were driven North toward
+<persName key="Hamblin, Jacob">Jacob Hamblin</persName>’s ranche, at the upper end of <geogName type="valley" key="Mountain Meadows">the meadows</geogName> and in
+a short time had crossed a hill, which hid the corral from their view.
+The women followed the wagon rather closely, the men being halted
+at the corral, so as to string out the whole line as much as possible.
+<seg type="Blame" subtype="LDS_LDS">Everything was now ready for this deed, whose conception was that
+of incarnate fiends, and whose execution could only have been
+performed by the dastards who carried it into effect.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">At the fatal words, <q>"Do your duty,"</q> shouted out by <persName key="Higbee, John M.">John M.
+Higbe</persName>, Indians and Mormons began firing upon their defenseless foes.
+It was a scene of horror never equalled upon this continent; it is 
+doubtful, if in all the annals of the human race, there is a parallel
+to this Mormon infamy. <seg type="Massacre" subtype="Casualties">At the first fire all of the men, except two
+or three fell, and these were pursued by mounted men and cut down.
+Tender children&#8212;one six months old&#8212;gentle girls, wives, maidens
+and mothers, were ruthlessly butchered.</seg></seg></seg></p> 
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS">One girl fell on her knees, the blood pouring from a wound in
+her shoulder, and begged for life, saying that she would forever
+serve the man, at whose feet she knelt, if he would save her life.
+With a horrible oath, he snatched a tomahawk from the hands of
+a more merciful savage, and sank it into her skull.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">The wounded in the wagons were butchered by <persName key="Lee, John D.">John D. Lee</persName>,
+<persName key="McMurdy, Samuel">Samuel McMurdy</persName>, and <persName key="Knight, Samuel">Samuel Knight</persName>, who, having completed this
+part of the infernal work, then proceeded to aid their comrades in
+killing the men and women who were on foot. Strange as it may
+appear, three of the immigrants escaped, but after traveling for
+many days and enduring every privation, they were overtaken by
+Danites and Indians, and killed.</seg></seg></p>
+
+<pb n="533" xml:id="mmm.wa.triplett.1883.540"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">Two girls, about fifteen years old, had, in the confusion, dashed
+into some brush, and for a time escaped. A <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> chief 
+followed their trail, captured them, and brought them back to the 
+terrible scene. Here he wished to save their lives, but <persName key="Lee, John D.">Lee</persName> ordered
+him to shoot one of them, while he himself dashed the other one to
+
+<figure xml:id="mmm.wa.triplett.1883.540.figure">
+<p><hi rend="smallcaps">The Mountain Meadow Massacre By Mormons and Indians</hi>.</p>
+<figDesc></figDesc>
+</figure>
+
+the ground and cut her throat, the blood pouring in a torrent over
+him and dyeing his clothes with the horrid hue of murder.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">The bodies were now searched by major <persName key="Higbee, John M.">Higbe</persName>, Bishop <persName key="Klingensmith, Philip">Klingensmith</persName>
+and <persName key="Stewart, William C.">William C. Stewart</persName>, and were then left the ground,
+where they were stripped by the Indians and horribly mutilated.
+
+<pb n="534" xml:id="mmm.wa.triplett.1883.541"/>
+
+The next day they were thrown into a slight depression in the
+ground, and so lightly covered with earth,that the next heavy rain
+exposed the mass of decomposed corpses. The murderers slept on
+the ground near the victims of their hellish work</seg>, and the next
+morning departed,<seg type="Massacre" subtype="Spoils"> driving off the stock and wagons of the
+immigrants; a spoil for which they had paid the fearful price of broken
+truth, bankrupt honor, and horrid, wholesale murder.</seg> <seg type="Massacre" subtype="Survivors">The children
+were eventually collected by the Government and returned to their
+friends.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Beginning the morning after the massacre, charges and countercharges
+were made, and to the present day the quarrels&#8212;as to their
+part and responsibility in this day’s work&#8212;engendered by the
+mutual recriminations of the Mormons, have done more to disrupt
+them than everything else combined. Many of those who engaged
+in it are dead, and those still living carry about with them their own
+curse. Even <persName key="Lee, John D.">Lee</persName>, hardened, fanatic and brutal assassin as he was,
+said, with a felon’s death staring him in the face, that he was as well
+satisfied at the prospect of his fate, as he had been for twenty years.
+For their faithful execution of this task, these men were loaded
+with favors; offices and concubines were showered upon them by
+the church, but still they carry, and will to their graves, the gnawing 
+unrest of remorse.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">The Meadow</geogName></seg> is accursed ground&#8212;its luxuriant verdure has passed
+away, and its gushing springs are now but a mere thread of silver,
+creeping sluggishly along like some guilty thing, shunning the gaze
+of men. Over its wide space broods the sadness of despair and
+desolation. Here is no blossom of flower, no blade of grass, no
+song of birds, but enthroned in her unutterable loneliness, Horror
+claims sole dominion and Murder seems fit genius of the scene. This
+arena of perjury and assassination has felt the curse of God, and
+for each of the actors in that horrible butchery, we involuntarily
+exclaim:</seg></p>
+
+<lg type="poem">
+<l>"0h, for a tongue to curse the knave</l>
+<l>Where treason, like a deadly blight,</l>
+<l>Comes o’er the councils of the brave</l>
+<l>And blasts them in their hour of might:</l>
+<l>May life’s unhallowed cup for him</l>
+<l>Be drugged with treacherles to the brim;</l>
+<l>With hopes that but allure to fly,</l>
+<l>With joys that vanish as he sips,</l>
+<l>Like Dead Sea fruits that tempt the eye,</l>
+<l>And turn to ashes on the lips.</l>
+
+<pb n="535" xml:id="mmm.wa.triplett.1883.542"/>
+
+<l>Outcast of virtue, peace and tame,</l>
+<l>May he at last with lips of flame,</l> 
+<l>On the parched desert thirsting die,</l>
+<l>While lakes, that shone in mockery nigh,</l>
+<l>Are fading off untouched, untasted,</l>
+<l>Like the once glorious hopes he blasted;</l>
+<l>And when from earth his spirit flies,</l>
+<l>Just prophet let the damned one dwell</l>
+<l>Full in the sight of paradise, I</l>
+<l>Beholding heaven, and feeling hell!"</l>
+</lg>
+
+<p><seg type="Blame" subtype="LDS_LDS">Of all the participants in this crime, the government of the
+United States has brought but one&#8212;<persName key="Lee, John D.">John D. Lee</persName>&#8212;to punishment.
+This was in 1877, twenty years after its perpetration. One of his
+accessories after the fact, if not an adviser of it, <persName key="Cannon, George Q.">George Q. Cannon</persName>,
+sits in the halls of Congress, and blackened with every crime known
+to the decalogue, raises his voice in the councils of the nation,
+when he should be incarcerated within some penitentiary cell, or
+swinging from a gibbet.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Young, Brigham">Brigham Young</persName> waxing greater in crime, as he grew in years, was
+at last stricken with death, just five months, to a day, after his faithful 
+tool, <persName key="Lee, John D.">Lee</persName>, was executed. His seventy&#8212;six years of life show
+nothing worthy of admiration, save his genius as a ruler, and his
+determined will. The first obtained for him the control over a low,
+ignorant and lawless people; the latter made him fearless in the
+exercise of any means, however desperate, that served to perpetuate
+his power, or augment his wealth and influence.</seg></p>
+
+<p>As an individual, he was coarse and beastly; a sensualist, a hypocrite, 
+and a tyrant. His rule was founded in theft and trickery, and
+perpetuated by fraud and violence. In the course of an unusually
+long life, he was never known to do a generous or unselfish action,
+and it is safe to say that he did not possess a single disinterested
+friend; being incapable of knowing, or inspiring such a feeling as
+true friendship.</p>
+
+<p>If we search history for his prototypes, we find him a mixture of
+Mokanna, the veiled prophet of Kohrassan, and that terrible chief
+of the assassins, the Old Man of the Mountain. No danger could
+bend him from his purpose; no crime appalled him, and no treachery 
+dismayed. Without a single virtue, he died as he had lived the
+
+<pb n="536" xml:id="mmm.wa.triplett.1883.543"/>
+
+victim of his appetites; his fatal illness being brought on by eating
+an enormous mess of green corn and half&#8212;ripe peaches. So perished
+
+<figure xml:id="mmm.wa.triplett.1883.543.figure">
+<p><hi rend="smallcaps">Brigham Young, The Apostle of Lust and Murder</hi>.</p>
+<figDesc></figDesc>
+</figure>
+
+this prophet of treachery and assassination; this apostle of fraud
+and lust.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

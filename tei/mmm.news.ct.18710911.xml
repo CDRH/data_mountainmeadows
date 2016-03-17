@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.ct.18710911">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Utah</title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt><idno>mmm.news.ct.18710911</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+            </notesStmt>
+
+	    <sourceDesc>
+
+	    <bibl>
+		<title level="j">Chicago Tribune</title>
+		<title level="a" type="main">Utah</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Chicago, IL</pubPlace>
+		<date when="1871-09-11">September 11, 1871</date>
+	    </bibl>
+ 	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		     <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-07-28"><name>Jaclyn Cruikshank Vogt</name> Encoding Enchancement and Concept Highlighting</change>
+	<change when="2010-04-13"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.ct.18710911.001"/>
+
+<head type="main">UTAH.</head>
+<head type="sub">The Emma Mine Case and the Politicians.</head>
+<head type="sub">A Review of the Late Election.</head>
+<head type="sub">Prosecutions for Polygamy.</head>
+<head type="sub">Banks, Railroads, and the Mining Business.</head>
+
+<dateline>[FROM OUR SPECIAL CORRESPONDENT.] SALT LAKE CITY, UTAH, Sept. 2</dateline>
+
+<p>THE EMMA MINE CASE.</p>
+  
+<p><persName key="Stewart, Bill">Bill Stewart</persName>, <persName key="Lyon, Jim">Jim Lyon</persName>, <persName key="Chaffee, Jo">Jo Chaffee</persName>, Judge <persName key="Hillyer">Hillyer</persName>, and <q>"the Committee of <placeName type="state" key="Nevada">Nevada</placeName> and <placeName type="state" key="California">California</placeName> Capitalists"</q> didn't get away with the <placeName type="state" key="Utah Territory">Utah</placeName> Judges, but it is understood that they have with a good share or the stock of the Emma Mine.  After failing to supersede <q>"the corrupt scoundrel"</q> McKean by Tom Fitch, or some other <q>"gentleman of integrity,"</q> they proposed the submission of the case to arbitration, supposing the other side would not agree to it, when they could charge with some plausibility that Judge <persName key="McKean">McKean</persName> was corruptly in their interest.  This trap caught no game, however, for the other side agreed to it without hesitation. That not being precisely what they wanted, they began to negotiate from compromise, and within a week they have all left <placeName type="state" key="Utah Territory">Utah</placeName> with their carpetbags, smiling, while the other side looks serious, not to say annoyed.  Wherefrom it is surmised that a compromise has been effected, and that the carpet-bags of the retiring crusaders, are plethoric with Emma Mine stock. So that this great, grab game, which threatened Grant's policy in <placeName type="state" key="Utah Territory">Utah</placeName> with defeat, apparently, for a moment, has been eliminated from the seething elements of the <placeName type="state" key="Utah Territory">Utah</placeName> problem.</p>
+</div1>
+
+<div1>
+<head type="sub">POLITICS.</head>
+
+<p>That problem seems to be ripening favorably, in spite of the blunders of the agents at work on it.  We are having a fine exemplification of the force of events; and how the current sometimes flows of itself, not only without human help, but against human resistance.  It appears to be impossible to unite the incongruous forces opposed to Brighamism in any sustained political action.</p>
+
+<p>The Liberal party was organized by general convention, held at Corinne, July 16, 1870, on an unequivocal anti-polygamy platform. The regular forces of the Gentiles, and the guerillas and free-lances as well, were marshalled, without difficulty on this platform, but there was little discipline possible&#8212;everybody knew too much to follow, and too little lead&#8212;and it was hard work to keep open mutiny from breaking out along the line when it came to the question of leadership. The rebellious Mormons, supposed followers of Godbe and Harrison, didn't like the platform, and so they stood
+aloof. Governments had not right, they maintained, to regulate the relations of the sexes; it should be left to the choice of the persons individually concerned.  If polygamy in <placeName type="state" key="Utah Territory">Utah</placeName> was to be attacked at all, it should be by <q>"reason."</q>  If, then, they had proceeded to attack it by <q>"reason,"</q> no fault would have been found, because their votes never numbered one-fourth of a thousand, and would only have slightly swelled a trifling minority at best; but to this day they have never done so, and this year they have rather taken up its defence.  But of that anon.  Election came, after a spirited canvass of two or three weeks, and we polled 1,500 votes, including those cast by mining camps where the Mormons would not establish voting precincts.</p>
+
+<p>Another year came round and is now nearly gone. It brought a few thousand adventurers from different quarters who had heard of the Emma Mine, and were consumed by the desire to become suddenly rich regardless of expense of wear and tear.  A
+large division of this crew appears to have taken its cue from Stewart and Fitch, for they either stood aloof from our politics entirely, or threw their influence, such as it was, with the Mormons. Stewart took occasion, at a reception given him as Senator in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, to give in his adhesion, practically, to Brighamism. Fitch went up to the Tabernacle on the Fourth of July, and, while professing to disapprove of polygamy, misrepresented, calumniated, and condemned those who are trying to set bounds to it.</p>
+
+<p>That day in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> (the 4th) is worthy of a word in passing.  The Gentiles first asked permission to be <q>"the yaller dog"</q> under <persName key="Young, Brigham">Brigham</persName>'s wagon on that occasion. They were cruelly snubbed, and then went to work and got up a very creditable celebration of their own.  The Mormons, encouraged by the substantial adhesion of Stewart and Fitch, determined to parade a corps of the Nauvoo Legion, although that disloyal and illegal organization had been disbanded last fall by the Governor, and on its issuing to recognize the Governor's authority the question at issue was got into the courts, where it was and is still pending. Governor Woods was obliged to call on Col. <unclear> </unclear>commanding at Camp <unclear></unclear> to enforce his authority, and the <unclear></unclear> only gave it up when the Colonel told them that if they persisted he would <unclear> </unclear>them at all hazards.  Had a colli-<unclear> </unclear>then, it would have stuck close <unclear> Stewart as long as he lived.</unclear></p>
+
+<p><unclear></unclear>The Liberal Executive Committee assemb-<unclear> </unclear>about the time to prepare for the ap-
+<unclear> </unclear>campaign.  Having <unclear> </unclear>the body which created <unclear> </unclear>within the year, at least in their own <unclear> </unclear>they issued an address to the people <unclear> </unclear>as to polygamy.  Then <unclear> </unclear>the District Convention of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, <unclear> </unclear>Counties, and followed <unclear> </unclear>to catch the <unclear></unclear>.  Please <unclear> the afterclap.</unclear></p>
+
+<p><unclear></unclear> appeared at this<unclear></unclear> and took an active part in its <unclear> </unclear>They had also been very prominent to what was called the Gentile celebration of Independence Day, which, together with Mr. <unclear> </unclear>large ownership in the <unclear></unclear> of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, professed Liberal <unclear></unclear> gave Tom Fitch occasion to say to the Tabernacle that he didn't propose to act with a party led by one who had gone back on everything Mormon but polygamy.  This was a bad body blow, but it was regarded as <q>"foul"</q> at the time.  The God-<unclear></unclear>were supposed to have concluded that polygamy was wrong, and to be moving heaven and earth to get out of it honorably.
+But what a mistake!</p>
+
+<p>Soon came a ratification meeting, and had you been at this gathering of the clans, and known the chiefs, you would not have been surprised at what followed.  Governor <persName key="Woods, George Lemuel">Woods</persName>, was President of the meeting, supported by Colonel <persName key="Warren">Warren</persName>, late of the Confederate army, as Vice President.  The speakers embraced a Catholic Irishman, whose whole being revolts at the idea of an American Pope and hierarchy preaching and practicing the vices of the Grand Turk:a Union General, or what remains of one, who can fight better than he can talk,&#8212;whose talk indeed bristles with fight; a polygamist, ten years older in that sin than the <q>"revelation"</q> commanding its practice is, now in high old rebellion against <persName key="Young, Brigham">Brigham</persName>; and one unmistakable lunatic. The clans were more motley, if possible,in their composition. Judge <persName key="Toohey">Toohey</persName>, the Catholic Irishman aforesaid, of Corinne, was the sensation of the evening. Following is a specimen of his style, to wit:</p>
+
+<p><q>"There is no such thing as a polygamist religion. No religion in American has any polygamy in it.  I might as well go into a hog pen and take the morality of swine and call it a religion.  Out here in Cottonwood the miners have a name for polygamy, which is the true name, but not to be repeated here &#8212;they have a just conception of polygamy, and they agree with me that it must be rooted out of this Territory."</q> <q>"The priesthood of the robber: not priesthood for the good
+of the people, but a priesthood which builds palaces, every tone of which is stained with the blood of the innocent, and wet with the tears of widows and orphans."</q></p>
+
+<p>Kelsey, the polygamist, was called for, and upon denouncing Judge <persName key="Toohey">Toohey</persName>'s speech, and saying that he (Kelsey) was a polygamist and not ashamed of it, he was hissed down, and would have been turned out but for Governor Woods, who exerted himself successfully to stay the rising storm.</p>  
+
+<p>Thus was the bubble pricked. The chiefs retired, glaring, each to his corner, and the clans scattered.  The Godbeites cried in full pack, <q>"Hands off! Polygamy may be right and it may be wrong, but it musn't be touched.  It is taught in your Bible, we learned itin your Sunday Schools, and if it isn't a man's constitutional right to live in open adultery with all the women he wants to, provided they are agreeable to it, what constitutional right has he!  At all events, don't touch it; let it alone, and public opinion will soon strangle it."</q>  <q>"Good dogs!"</q> said <persName key="Young, Brigham">Brigham</persName>. <q>"Aren't we?"</q> chimed Tray, Blanche, and Sweetheart. <q>"Let them touch a hair of your hoary head, Brother <persName key="Young, Brigham">Brigham</persName>, and our last drop of blood is yours."</q></p>
+
+<p>And now the Gentiles of <placeName type="state" key="Utah Territory">Utah</placeName> did cease to hope anything from the little band of hairsplitting lunatics called Godbeites, who for a year or two have imagined they were proving their claims to the leadership of mankind by bunting their heads against everything that has received the sanction of human experience.</p>
+
+<p>This astounding new departure of theirs to the rear, in the full summer of 1871,  A. D., left the Gentiles of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> without an organ, and so the <orgName type="newspaper" key="Corinne Journal">Corinne <hi rend="italic">Journal</hi></orgName>, a stripling of three months, was taken there and called the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> <hi rend="italic">Review.</hi>  It immediately began bull-ragging and slang-whanging the saintly polygamists, <q>"reformed"</q> and otherwise, in a many very painful to witness.</p> 
+
+<p>The election came on in the fulness of time, and I suppose we polled about 1,500 votes, no more, mark it, than last year, when the Godbeites didn't favor us with their assistance, and when there weren't so many Gentiles in the Territory as this year by a long shot.  So much for a sacrifice of principle for votes.  So much for enlisting deserters from the enemy.  Deserted in turn, and in the crisis of battle.  So much for a professed, opposition to polygamy by men who yet cling to it&#8212;by men with several women, each of whom they cannot in decency live with nor in honor get rid of.  This is the afterclap I referred to. The attempt to yoke the Gentiles and Godbeites made a farce of the campaign.  Only at Corinne were the old colors displayed.  A district convention at that place readopted the original anti-polygamy platform, and
+denounced all compromise with the great wrong on which Mormonism is confessedly based.</p>
+
+<p>Without all this tomfooling, the election was tarcical enough.  The idea of less than 10,000 people trying to make headway at the polls against Brighamism, which possesses all power, has outlawed free voting, and can by the crook of its elbow return as many votes as it wants to, is absurd, though we confess to having sometimes entertained it.</p>
+
+<q><p>"THOU CANST NOT SAY I DID IT."</p></q>
+
+<p>But <q>"the Colfax carpet-baggers,"</q> as he of the <orgName type="newspaper" key="Omaha Herald">Omaha Herald</orgName> dubbed the Federal officers in <placeName type="state" key="Utah Territory">Utah</placeName>, have had better luck.  Allowing the grist in the political hopper to grind as it<cb n="2" /> might, they have quietly stuck to their work. They have substantially wrested the courts  from Mormon control, and, with the Gentiles flocking in the canons, making it unhealthy  for the Church to assassinate obnoxious people, the wires of <placeName type="state" key="Utah Territory">Utah</placeName> are beginning to raise their long-bowed heads.  One, named <persName key="Hawkins">Hawkins</persName>, has complained that her liege lord brought home a woman a few years ago, and still later, a second, with both of whom he lived as a man and wife right under her nose, after failing by the most brutal violence to thrust her out of the house.  The villain is in the clutches of the proper officers, and is to be prosecuted under the Territorial statute, which provides twenty years imprisonment for adultery, and prohibits complaint except from husband or wife. That, you see, was to close us out, but how it does close them in!  The mills of the gods grind slow, but they grind exceeding time. The Mormons, in the dilemma, appear to think the courts won't dare to pronounce this offence adultery, although Christ did, and the laws do, because it was or is committed in the name of religion! Perhaps not many persecutions of this kind will follow&#8212;perhaps there will. Under another clause of the same law a person may be severely punished for lascivious conduct.  And what is what keeping four or five women in one house, and having children by them, seems a good deal like to a decent man or woman.</p>
+
+<p>Added to these things, <persName key="Hickman, Bill">Bill Hickman</persName>, the notorious Danite Captain, has given himself up to the officers of justice, thinking himself safer in <orgName type="military" key="Camp Douglas">Camp Douglas</orgName> than at large.  He has lived in constant fear of assassination by Church order for years, and is tired of it.  Now, it is supposed, he is willing to endeavor or to alone in some measure for his crimes by open confession.  Two or three other Danite desperadoes were taken with him, and there is a shoal more of them.  Should they make statements damaging to the Church, it may be cried down as an attempt on the part of the thorough villains to lighten the punishment of their own crimes by packing the blame on some one else, but it will be hard to cry down the same damning story in the mouths of numerous witnesses, corroborated, morally, by the notorious fact that countless secret murders have been committed in <placeName type="state" key="Utah Territory">Utah</placeName>, always of Gentiles or Mormons who refused to <q>"obey counsel,"</q> and that no effort was ever made by the Mormon authorities, ecclesiastical or civil, to trace the murderers.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">Two years ago I wrote you, after a close study of things in <placeName type="state" key="Utah Territory">Utah</placeName>, that, in my judgment, the best way to reach and break down Mormonism, in its political character, was to confront its head chiefs with their undoubted crimes, including Mountain Meadow massacre, one of the darkest on record.</seg> It could not be done then; it never could until now, because there were few but Mormons in the country, and all power was in their hands. Now it is different, and the victims of their crimes, of both sexes, are beginning to get courage to rise up against them. If it goes on it will corner them. They can't be so hopelessly demented and deluded as to attempt seriously to resist the Federal authority. The chiefs can't afford to face their crimes if brought unmistakably home to them on unimpeachable evidence. They can't reform any of them. Mormonism, if once taken into the system, taints the blood.  The Mormons, high and low, are the veriest trash on earth, and everybody who comes in contact with them finds them so, unless it is to his interest not to. It is their religion to wrong the Gentile in any way they can with impunity.  Talk about what they have done for the country! Sweep  them out, as with a broom, to the last baby; remand <placeName type="state" key="Utah Territory">Utah</placeName> to its primitive state, and it will be worth ten-fold to the country what it is worth now. Why, it is as truly to-day a penal or convict colony of Great Britain as every any part of Australia or New Zealand was. If filling the ground and creating material wealth is a virtue, one-fourth the number of white people have done twice as much in that line in either of the surrounding communities in ten years as the Mormons have in twenty-four.</p>
+
+<p>Let them get out.  There isn't room on this continent for Asia and America both. If pressed to the wall, Asia will leave.  And it is likely to be done, in spite of timer-servers and trucklers, knaves, idiots, and lunatics. <persName key="Young, Brigham">Brigham</persName> may go to the Sandwich Islands with the ringleaders, and the mass of fools follow as they can, and God grant they may pay their expenses, and something has got to give somewhere, soon.  The strain is too great. And whoever thinks it will be Mormonism counts without his host.  It may flee, but it won't give up, nor a jot nor a tittle. Fail to sustain the courts, recall <q>"the troublesome Federal officers,"</q> consolidate <placeName type="state" key="Utah Territory">Utah</placeName> and Nevada in one State, if it were possible, would soon precipitate war. You put 40,000 Americans beneath the heel of 90,000 Mormons, and they will fight. If you don't believe it, try it.  A crisis in <placeName type="state" key="Utah Territory">Utah</placeName> affairs is approaching, in my opinion. What wants to be done is to simply and rigidly enforce the laws; that, and that only.</p></div1>
+
+<div1>  
+<head type="sub">BANKS AND RAILROADS.</head>
+
+<p>Meanwhile, they are branching out.  <persName key="Young, Brigham">Brigham</persName> has gone into banking.  Hooper, Eldredge &amp; Co.'s Bank, at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, <unclear> </unclear>been made <q>"The Bank of Deseret,"</q> with <persName key="Young, Brigham">Brigham</persName> for President, and the good boys all round the table.  They are building a railroad from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to <placeName type="settlement" key="Provo, UT">Provo</placeName>, and projecting another from Ogden, through Cache Valley, to Soda Springs.  They are likely to get the first done this fall, to all appearance.  The other, not commenced yet, and promising nothing, financially, but only for the present a contrivance to isolate the Gentile town of Corinne from the Saints in that section, will doubtless be completed some time; and it is so written. The steamboat on <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> is temporarily laid up for want of business, and the steam-wagon from California has gone home. The steamer was designed to pick up business with the southwestern shore of the lake, and to provide overland tourists with the means of traversing that strange sea.  For the first, the mines of that section, about which such a lusty crowing has been kept up, are either not yet opened, or else have opened and shut again, or else  they are neither one nor the other, nor yet what they have been held to be.  For the second, it wants another host and a place of railroad, 22 miles long, from the southern landing to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, when the lake would become part of the tourist's overland trip, keeping him only a few hours longer <hi rend="italic">en route</hi>, but amply repaying that in the novel experience afforded.</p>
+</div1>
+
+<div1>
+<head type="sub">MINES AND MINING.</head>
+<p>And, by the way, it is rather against the <placeName type="state" key="Utah Territory">Utah</placeName> mines, so called, that out of the hundreds of croppings discovered, it would be hard to find tons that are not for sale.  Men hunt them to sell, men buy them to sell again.  In a late tour through the mining districts I heard of but one person or firm that was not on the sell.  And you never heard of such fancy prices.  A hole twenty feet deep, with any showing of ore at all, is held at from $20,000 to $200,000, according to the check of the owner.  And, usually, he will neither work it nor allow you to.  He is afraid it will pinch out. I suppose some few mines have been found and opened that are playing, but there is no telling.  To be sure, 14,000 to 15,000 tons of ore have been sent off to date, last year and this, and about 12,000 tons of base bullion. But four-fifths of the ore was from the Emma mine, and, while there are at least a dozen furnaces of three to five tons capacity per day, the shipments prove that they are not doing well&#8212;that they are not doing much of anything.  Twelve hundred tons ought to be run out by the furnaces erected in thirty days.  But it counts all that has ever been run out in the Territory, and there is no knowing how much of that has been done at a loss for the sake of backing up a selling speculation.  In short, mining is not yet in a very healthy state, whether it ever becomes so or not.</p>
+</div1>
+
+<div1>
+<head type="sub">IN GENERAL.</head>
+<p><placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> is improving some under the rush and fever. The buildings so far put up are lath and plaster concerns, and not of much account, however. The season has been very dry; <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> has fallen a foot or more, yet the crops are harvested, and were scarcely ever better. Certainly so much ground was never copped before in one year. One realizes, in such a season, the value of a stream of fine, fresh water. <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> has got to resort to some other supply than <placeName type="settlement" key="City Creek, UT">City Creek</placeName>, if she is to be a great town. Water is very scarce there this summer, either for irrigation or anything else. Some standard trees are dying for want of it, and many families are sorely pushed to get enough to use. But they can bring in the Cottonwood, and even the <geogName type="waterway" key="Jordan River">Jordan</geogName>, if necessary.</p>
+
+<signed>DOUGLAS.</signed>
+</div1>
+
+</body>
+</text>
+</TEI>

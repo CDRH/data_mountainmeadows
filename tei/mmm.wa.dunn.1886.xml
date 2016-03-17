@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.dunn.1886">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Massacres of the Mountains</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>J.</forename> <forename type="middle">P.</forename> <surname>Dunn</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.dunn.1886</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+    <addrLine>319 Love Library</addrLine>
+    <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+    <addrLine>Lincoln, NE 68588-4100</addrLine>
+    <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+<p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>            
+            <notesStmt>
+                <note type="project">This record contains Chapter 10 pgs 273-323. </note>
+            </notesStmt>            
+            <sourceDesc>                
+                <bibl>
+                    <title level="m" type="main">Massacres of the Mountains: A History of the Indian Wars of the Far West</title>
+                    <author><forename>J.</forename> <forename type="middle">P.</forename> <surname>Dunn</surname></author>
+                    <publisher>Harper&amp;Brothers</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <extent>273-323</extent>
+                    <date when="1886">1886</date>
+		    <note type="source">Jacob Piatt Dunn. <hi rend="italic">Massacres of the Mountains</hi>. New York, NY: Harper &amp; Brothers, 1886. 273-323.</note>
+                </bibl>
+            </sourceDesc>            
+        </fileDesc> 
+      
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>        
+
+      <revisionDesc>	    
+            <change when="2011-02-21"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-07-15"><name>Stephen Pipkin</name> Initial Encoding
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+<text>
+<body>
+      
+<div1 type="chapter">
+
+<pb n="273" xml:id="mmm.wa.dunn.1886.295"/>
+             
+<head>CHAPTER X</head>
+
+<head>MOUNTAIN MEADOWS.</head>
+
+<p>D<hi rend="smallcaps">uring</hi> these years whose happenings we have been recording, 
+there has been a community existing in the centre
+of our region that we have barely noticed. Their history, at
+any period, is a subject which a conscientious writer 
+approaches unwillingly, for it involves a certain consideration
+of the merits of Mormonism and the Mormons, and that means
+wholesale denunciation, almost always of the Mormons, and
+very frequently of their enemies. Sweeping accusations
+must be made, and these, he knows, weaken alike the testimony
+of a witness, the plea of an orator, and the statement of
+an author. It is repugnant to man to believe that the 
+majority of mankind are evil, and it is contrary to ordinary 
+experience that any large class or sect of men should be radically
+bad. Besides this, all candid men will admit that the
+Mormons have at times been treated badly; that the killing
+of <persName key="Smith, Joseph">Joseph Smith</persName>, their prophet, was one of the most disgraceful 
+murders ever known in this country; and that they were
+driven from their homes in Missouri and Illinois under 
+circumstances of cruel severity. But candid men must also 
+admit that past sufering is no excuse for continuing crime, and,
+leaving out of consideration all of their offences that preceded
+or followed it, it has not fallen, nor shall fall, to the lot of any
+man to record a more atrocious crime than that of the 
+Mountain Meadows. <seg type="Blame" subtype="LDS_LDS">For this crime all Mormondon has voluntarily
+shown itself responsible, offering no excuse but fanaticism
+and revenge; and, worse than nothing as these excuses are, the
+moral obliquity of the deed is, if possible, increased by the
+desire of plunder, which was also an actuating motive.</seg></p>
+
+<p>To themselves, the Mormons are, of course, justified in any
+act that is approved by their priesthood. They are the chosen
+
+<pb n="274" xml:id="mmm.wa.dunn.1886.296"/>
+  
+people whose inheritance is the earth, and in spoiling the
+Gentiles they are simply taking their own. They are the 
+appointed agents of a vengeful God, and can do nothing but
+their duty in obeying his mandates, as pronounced by his
+holy prophets. They are under a <q>"higher law"</q> and the 
+direct control of an inspired guide. They carry the higher
+law theory farther than even the extreme Jesuits, and in this
+dogma centre all the objectionable features of their religion.
+When any sect receives a dispensation which permits its 
+members to transgress the laws of man, and the commonly recognized
+laws of God, <q>"for righteousness' sake"</q> &#8212;whenever it
+publicly confesses that it owns no obligation of truthfulness,
+or honesty, or humanity, to outsiders&#8212;it has put itself 
+outside the pale of our civilization, and can no longer justly 
+complain of the lawlessness of any person. More than that, none
+of its members can consistently ask to be believed in any statement,
+except its truth be otherwise established, and this is the
+only safe rule of procedure with the testimony of Mormons
+or persons who have ever been Mormons. It will be made
+manifest, in the course of this chapter, that Mormon declarations
+and oaths are worth less than the breath in which they
+are uttered, or the paper on which they are written. It does
+not follow that everythinglsaid against them is to be believed,
+nor that they cannot tell the truth when it is to their interest
+to do so; but it is evident that their statements must be 
+received with the utmost caution. Put it in what language you
+may, no really harsher criticism of their veracity can be made
+than their own claims of obedience to a <q>"higher law."</q></p>
+
+<p>When the Mormons left Nauvoo it was not certain where
+they were going. They profess to have moved under divine
+guidance, which all may believe who choose. The common
+understanding was that they were going to California, and a
+statement to that effect was commonly made in newspapers
+at the time. It is known also that Governor Ford, of Illinois,
+gave <persName key="Young, Brigham">Brigham Young</persName> a copy of Fremont's report of his second
+and third expeditions, and recommended him to go to some of
+the larger valleys of the Wahsatch. However that may have
+been, a party of explorers went out in 1847 and selected a place
+and a path for the mass of the people, who did not seem ready
+
+<pb n="275" xml:id="mmm.wa.dunn.1886.297"/>
+  
+to trust divine guidance without an exploring expedition ahead. 
+The Great Basin, in which they settled, was not wholly a desert,
+as they have claimed and as has been too commonly believed.
+Colonel Fremont had examined it carefully several years before
+the Mormons came, and he said of it: <q>"Partly arid and sparsely 
+inhabited, the general character of the Great Basin is that
+of a desert, but with great exceptions, there being many parts
+of it very fit for the residence of a civilized people; and, of
+these parts, the Mormons have lately established themselves
+in one of the largest and best. Mountain is the predominating 
+structure of the interior of the basin, with plains between
+&#8212;the mountains wooded and watered, the plains arid and
+sterile .... These mountains had very uniformly this belt of
+alluvion, the wash and abrasion of their sides, rich in excellent
+grass, fertile and light, and loose enough to absorb small
+streams."</q> Much of the land then considered sterile has since
+been made fruitful by irrigation, but it is erroneous to suppose 
+that cultivation and improvement have been more rapid 
+in <placeName type="state" key="Utah Territory">Utah</placeName> than in other equally sterile parts of the West. The 
+contrary is the case.</p>
+
+<p> The Indians who inhabited this country were diverse in 
+character, although originally of the same stock and speaking
+dialects of the same language&#8212;the Shoshonee or Snake.
+They have three principal divisions, the Snakes proper, the
+Bannocks, and the Utes, but these relate only to race. In 
+tribal government they were separated into more than a hundred 
+small bands, each entirely independent. The country
+was divided among them in small districts, the boundaries being
+fixed by natural monuments. Only the principal divisions 
+can be noticed here. The Eastern Snakes ranged from
+the South Pass to Bear River and Wind River; they numbered
+one hundred and twenty&#8212;five lodges, and subsisted largely on
+buffalo meat, for which reason they are called Kool&#8212;sa&#8212;ti&#8212;ka&#8212;ra,
+or Buffalo Eaters. They have been very reliable in their
+friendship to Americans, their chief, Wash&#8212;i&#8212;kee (Gambler`s
+Gourd), otherwise known as Pina&#8212;qua&#8212;na (Smell of Sugar),
+having attained a wide notoriety on this account. He was a
+half&#8212;breed, tall, well&#8212;formed, superior to his people, and
+exercising strong control over them. The Took&#8212;a&#8212;ri&#8212;ka, or
+
+<pb n="276" xml:id="mmm.wa.dunn.1886.298"/>
+
+<figure xml:id="mmm.wa.dunn.1886.298.figure">
+<p>WASHAKIE.</p>
+<figDesc></figDesc>
+</figure>
+
+Mountain&#8212;Sheep Eaters
+ranged high up
+on the mountains,
+Usually, and had little
+to do with the whites.
+They were an extraordinary
+people, building 
+their rude houses
+above timber line on
+the mountain henghts,
+and seeming doomed
+to so cheerless a life
+that the Canadian
+trappers gave them
+the name <q>“<hi rend="italic">les dignes
+de pitie</hi>,"</q> or, the 
+objects of pity. On the
+Salmon River was a
+mixed band, largely
+of their people, which 
+numbered fifty lodges. Its principal chief was Qui&#8212;tan&#8212;i&#8212;wa
+(Foul Hand), and his sub&#8212;chiefs were <q>"Old Snag,"</q> an Eastern
+Snake, and <q>"Grand Coqnin,"</q> a Bannock. Their friendship was
+always questionable. The Western Qngkes were in two main
+bands,one under Am&#8212;a&#8212;ro&#8212;ko (Buffalo Meat under the Shoulder),
+ranging on Camas Prairie, and the other under Po&#8212;ca&#8212;ta&#8212;ra
+(White Plume), ranging in the Goose Creek Mountains and
+on the Humboldt. They numbered about one hundred and
+fifty lodges, and were on good terms with the Mormons, but
+not with other whites. They are commonly called Sho&#8212;sho&#8212;
+kos, or <q>"White Knives,"</q> from the white flint knives they
+formerly used. A large band of the Bannocks ranging west
+of the Blue Mountains were known as thc War&#8212;g&#8212;ri&#8212;kgs, or
+"Sunflower&#8212;Seed Eaters.They numbered one hundred and
+fifty lodges, were commanded by Pa&#8212;chi&#8212;co (Sweet Root), a
+mighty medicine man, and were hostile when favorable 
+opportunities occurred. In the neighborhood of Fort Boisée were
+one hundred lodges of Bannocks, under Po&#8212;e&#8212;ma&#8212;chee&#8212;ah
+(Hairy Man), who were the most friendly of their race towards
+
+<pb n="277" xml:id="mmm.wa.dunn.1886.299"/>
+
+the Americans. Ranging about Salt Lake, especially on
+Bear River, was a band led by <q>"Long Beard"</q> and Pag&#8212;e&#8212;ah
+(The Man who Carries the Arrows), numbering about fifty
+lodges, and known variously as Ho&#8212;kan&#8212;di&#8212;ka, the Salt Lake
+Diggers, Southern Snakes, Mormon Snakes, or Cache Valley
+Indians. They were the worst of all these Indians, so far as
+Americans generally were concerned, but were haud&#8212;in&#8212;glove
+with the Mormons. Commonly associating with these were
+the Mo&#8212;pe&#8212;,so called after their chief Mo&#8212;pe&#8212;ah (Bunch&#8212;of
+Hair&#8212;in&#8212;the&#8212;Forehcad), who boasted himself a friend of the
+Mormons. They numbered sixty lodges. The Utes were
+much the largest division, and held the country to the south
+of the other two, occupying practically all of <placeName type="state" key="Nevada">Nevada</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>,
+and the mountainous part of Colorado, with a considerable
+portion of Northern New Mexico. The eastern bands, the
+Tabgquaches, Mohuaches, Grand Rivers, Capotes, Uintas, and
+others occupying the country east of the Wahsatch Mountains,
+were the best warriors among them; they were less influenced 
+by the Mormons, and most friendly to Americans.
+The Pali&#8212;Utes, or, of the Sierra Nevada, and the
+western part of <placeName type="state" key="Nevada">Nevada</placeName>, commonly called the Monos and the
+Waslioes, were also good warriors. Of intermediate grade
+were the Gosi&#8212;Utes (Goships, Goshoots) of Eastern <placeName type="state" key="Nevada">Nevada</placeName>,
+the Sanpitches (Sinpichi, or, as now corrupted in <placeName type="state" key="Utah Territory">Utah</placeName>, San
+Petes), Timpanagos, and others of Eastern <placeName type="state" key="Utah Territory">Utah</placeName>. The lowest
+as warriors were the Bah&#8212;Utes, or Pi&#8212;Utes of Southern <placeName type="state" key="Utah Territory">Utah</placeName>
+and the desert portions generally, several bands of miserable
+beings, who were getting into a more wretched state each
+generation,through starvation and their defenceless condition.
+They were decreasing in numbers, in stature, and in physical
+strength, and were constantly preyed upon by their neighbors. 
+Their food consisted of snakes, lizards, roots, berries, 
+grass&#8212;seed, worms, crickets, grasshoppers, and, in short,
+anything that conld be chewed, swallowed, and partly digested.</p>
+
+<p>The Mormons had but little trouble with Indians, for they
+approached them as brothers and equals, without any desire
+to force civilization upon them. The negroes, the descendants 
+of accursed Ham, were originally barred from the Mormon 
+
+<pb n="278" xml:id="mmm.wa.dunn.1886.300"/>
+  
+heaven, though latterly a revelation has been made which
+lets them in, but the Indians were always brothers. They are
+<q>"Lamanites,"</q> the <q>"remnant"</q> of the lost tribes of Israel, lineal 
+descendants of Abraham, sprays from the <q>"fruitful bough
+by a well, whose branches run over the wall,"</q> who are to be
+reclaimed by Mormon righteousness, and in due time to become
+<q>"a fair and delightsome people."</q> The Mormons brought to
+the Indians a religion and customs differing in but one essential 
+respect from what they already had, and that was obedience 
+
+<figure xml:id="mmm.wa.dunn.1886.300.figure">
+<p>UTE SQUAWS OF UTAH.</p>
+<figDesc></figDesc>
+</figure>
+
+to the Mormon prophet. This duty was largely bought
+by presents (usually purchased with United States' funds) and
+protection, and was further induced by missionary work and
+intermarriage. Their protection of the Indians who adhered
+to them was sufficient to prevent any punishment for their
+crimes. The case of the murderers of Lieutenant Gunnison
+will illustrate this. Gunnison had wintered at Salt Lake in
+company with the remainder of Captain Stansbury's party,
+
+<pb n="279" xml:id="mmm.wa.dunn.1886.301"/>
+
+and all had been treated kindly by the Mormons. Gunnison 
+repaid their kindness by serving as a volunteer in their
+Indian war during the winter, and by eulogizing them in his
+reports. But in 1853 he was on a mission which the Mormons 
+did not wish accomplished, that of selecting a route for
+a Pacific railroad by way of Salt Lake, and he, with seven of
+his party, were killed by the Indians near Sevier Lake. In
+1854 Colonel Steptoe reached Salt Lake with a body of soldiers, 
+captured the murderers of Gunnison, and brought them
+to trial. A clear case was made against them; the judge
+charged the jury that they must either be found not guilty or
+guilty of murder; and the Mormon jury returned a verdict
+of manslaughter. The highest possible sentence, three years'
+imprisonment, was pronounced, but the murderers escaped <q>"by
+oversight"</q> of their jailers, and regained their tribes, where
+they remained undisturbed. The Mormons announced that
+they had treated Gunnison's party well, as he testified himself,
+and that they had done all they could to bring his murderers
+to justice, to which facts they still point with pride.</p>
+
+<p>  The war in which Lieutenant Gunnison assisted was the
+only real trouble that the Mormons ever had with the Indians. 
+At that time there were but two settlements in the
+beautiful borders of Utah Lake, one on the American Fork,
+and one on Provo River. The Indians there, a band of Pah&#8212;
+Utes, did not appreciate good treatment, and from begging
+went to robbing. Finding they were not punished, they attributed 
+their safety to the cowardice of the Mormons, and
+became so bold as to shoot people who tried to hinder them
+from taking what they wanted. They little dreamed of the
+claws of the velvet paw they had been playing with. The
+people on the <placeName type="settlement" key="Provo, UT">Provo</placeName> sent for assistance, and one hundred and
+fifty men went to them from Salt Lake. They found the
+Indians posted in the brush and cottonwoods along the Provo,
+and fought them there for two days. Then Sunday came, and
+the Saints rested, as is their custom, while the Indians fled.
+On Monday secular occupation was resumed. The Indians
+at the southern end of the lake were first proceeded against,
+and about thirty of their warriors killed. They then returned
+to their first opponents, who had fled up a canon, and killed
+
+<pb n="280" xml:id="mmm.wa.dunn.1886.302"/>
+
+all but seven or eight of their men. Some fifty women and 
+children were taken prisoners and distributed among the 
+settlements, but afterwards allowed to join other bands if they
+so desired. After this there was no trouble that could be I
+dignified by the name of war. <persName key="Young, Brigham">Brigham Young</persName> was governor 
+and <hi rend="italic">ex&#8212;offcio</hi> Superintendent of Indian Afairs. The agents, 
+farmers, and interpreters were all Mormons. It was repeatedly 
+charged that all the government annuities were represented 
+to the Indians to be Mormon gifts, and numerous official 
+
+<figure xml:id="mmm.wa.dunn.1886.302.figure">
+<p>SNAKE INDIANS OF UTAH.</p>
+<figDesc></figDesc>
+</figure>
+
+reports of this, based on the statements of the Indians
+and other evidence, show their truth. Pocatara told Superintendent 
+Lander that <q>“whenever he should feel certain that
+the White Father would treat him as well as <persName key="Young, Brigham">Big-um (Brigham
+Young)</persName> did, then he would be the kindest friend to the Americans 
+that they had ever known."</q> The hostile Indians in <placeName type="state" key="Utah Territory">Utah</placeName>
+were often accompanied and led by painted whites, and 
+emissaries were kept constantly at work among the more remote
+
+<pb n="281" xml:id="mmm.wa.dunn.1886.303"/>
+
+tribes. While the troops were fighting Indians, who were 
+furnished with Mormon gnns and ammunition, in the Yakima 
+country, the people of Southern California were holding 
+mass&#8212;meetings and denouncing the Mormon bishop, Tinney,
+who had been among the San Luis Rey and Carvilla Indians,
+telling them that the Mormons and Indians must act together 
+against their common enemies, the Americans. While the
+Pelouses were receiving aid and bad counsel from Salt Lake, 
+an Indian emissary to the Navahos, bearing letters which certified 
+his conversion and membership of the Mormon Church,
+was taken in New Mexico, and confessed that he was sent by
+the Mormons to urge the Navahos to war. And so, in almost
+every war in the Rocky Mountains, the same complaint has
+been made, down to the last outbreak of the Utes in Colorado, 
+when Ouray certified to its truth. To these charges no defence 
+is made, except the denunciation of their authors as liars.</p>
+
+<p>As might naturally be supposed, the Mormons did not feel
+kindly towards the people who had expelled them from their
+homes in the East and murdered their <q>"prophet,"</q> and their
+friendship was not increased by the treatment which their 
+missionaries occasionally received. But there was a more potent
+cause for their disloyalty than persecntion,or mere allegiance to
+a Church which asserted and maintained temporal power. The
+Mormons are chiliasts, and for thirty years have been looking
+for the millennium to be ushered in very soon, their millenarian 
+doctrines being perhaps the strongest feature of their
+religion as presented in missionary work. The millennium,
+by prophecy, is to follow at once on the disruption of the
+Union, which is to be caused by civil war, and "<q>Zion"</q> is to be
+set up on the ruins of this nation, with headquarters in Jackson 
+County, Missouri. The principal basis of this belief is
+the following prophecy of <persName key="Smith, Joseph">Joseph Smith</persName>, said to have been
+delivered in 1832, and certainly published as early as 1854:</p>
+
+<q>"<p><hi rend="center"><hi rend="smallcaps">WAR</hi></hi></p>.
+
+<p>"Verily thus saith the Lord concerning the wars that will shortly come
+to pass, beginning at the rebellion of South Carolina, which will eventually
+terminate in the death and misery of many souls. The days will come that
+wars will be poured out upon all nations, beginning at that place; for, behold,
+the Southern States shall be divided against the Northern States; and 
+the Southern States will call upon other nations, even the nation of Great
+
+<pb n="282" xml:id="mmm.wa.dunn.1886.304"/>
+
+Britain, as it is called, and they shall also call upon other nations, in order
+to defend themselves against other nations: and thus war shall be poured
+out upon all nations. And it shall come to pass, after many days, slaves
+shall rise up against their masters, who shall be marshalled and disciplined
+for war. And it will come to pass, also, that the remnant which are left of
+the land [i. e., the Indians] shall marshal themselves and shall become 
+exceedingly angry, and shall vex the Gentiles with a sore vexation. And 
+thus, with the sword and by bloodshed, the inhabitants of the earth shall 
+mourn, and with famine and plagues and earthquakes, and the thunder of {
+heaven, and the fierce and vivid lightning, also, shall the inhabitants of the 
+earth be made to feel the wrath and indignation and chastening hand of an
+Almighty God, until the consumption decreed hath made an end of all nations; 
+that the cry of the saints and of the blood of the saints shall cease to
+come up into the ears of the Lord of Sabaoth, from the earth, to be avenged
+of their enemies. Wherefore stand ye in holy places, and be not moved
+until the day of the Lord come; for, behold, it cometh quickly, saith the
+Lord! Amen."</p></q>
+
+<p>It would be difficult to find, in the entire range of prophecy, 
+a prediction more remarkably fulfilled in many respects,
+and more possible of explanation and delay as to the 
+unfulfilled portions. The best proof of its earthly origin will be
+found in unfulfilled prophecies from the same source, by those
+who are curious enough to examine them. Its effect on the
+loyalty of the Mormons was necessarily disastrous. They 
+could not feel an attachment for a country whose destruction
+must precede their entry into millennial bliss. When the
+civil war began, <q>"We told you so"</q> was heard wherever a Mormon
+ was found; and when that war was concluded. without
+embroiling <q>"all nations,"</q> the ready interpreter showed that
+the time was not yet full. It has been expected to break out
+again at every national election, especially those of 1876 and
+1884, each failure of fulfilment being only the result of 
+misinterpretation. They cling to it still with more than 
+<q>"Millerite"</q> patience, and its fulfilment is only a question of 
+<q>"a few more years."</q> Then will come the time mentioned by 
+Isaiah, when <q>"Seven women shall take hold of one man, saying,
+We will eat our own bread, and wear our own apparel:
+only let us be called by thy name, to take away our reproach "</q>
+&#8212;the reproach referred to being childlessness, by Mormon 
+interpretation; the men Mormons, and the women Gentiles.</p>
+
+<p>Decided changes took place in the Mormon community
+after the exodus from Nauvoo. There was a weeding out of
+
+<pb n="283" xml:id="mmm.wa.dunn.1886.305"/>
+  
+a majority of the weaker brethren, to begin with, leaving the
+assemblage in <placeName type="state" key="Utah Territory">Utah</placeName> fairly united in credulity and fanaticism.
+Relieved of any prohibitory power, polygamy was openly 
+announced as a doctrine in 1852 at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and in the
+following year abroad. This caused a split in the Church, and
+an extensive desertion at all points outside of <placeName type="state" key="Utah Territory">Utah</placeName>. The
+dissenters maintained that the doctrine was an introduction
+of <persName key="Young, Brigham">Brigham Young</persName>'s, and in proof cited the express prohibitions 
+of it in the <q>" Book of Mormon,"</q> and also in the <q>"Doctrines 
+trines and Covenauts,"</q> the latter adopted in open conference
+after Smith's death. The Brighamites showed that in fact it
+had been practised and taught by Smith and other leaders.
+Moreover, both sides proved their claims by the solemn statements 
+of the principal men of the Church, made at different
+times, and thus it was demonstrated that the principal men,
+including Smith and President Taylor, were unblushing liars,
+no matter whether the doctrine were new or old. It is fairly
+assured, however, that the doctrine was privately promulgated 
+from about 1844. Under this doctrine a woman may
+possibly attain salvation, but never an <q>"exaltation,"</q> when not
+the wife of a saint, and, as a corollary to this proposition, it
+is both lawful and commendable to induce any woman, 
+married or single, to leave her sinful relatives and seek the
+higher heaven in company with a Mormon. The doctrine
+was at first treated rather as a matter of privilege; but as
+months passed away, and its peculiar fitness to their theory of
+pre&#8212;existent spirits, anxiously waiting for earthly bodies, was
+seen, it became more and more a thing of duty. It reached
+its grossest form during the reform period of 1855&#8212;6.</p>
+
+<p>The <q>"Reformation"</q> was the result of distress. The 
+removal across the plains involved large losses; the work of
+the last two years had been rendered unprofitable by drought
+and grasshoppers; the Saints were reduced to a condition of
+general poverty. The leaders accounted for it as a punishment
+sent on them for sin and want of faith. Under the preaching 
+of men who, in charity, may be called demented, the people 
+were wrought up to an extravagant pitch of religious
+frenzy. Men were exhorted everywhere to repent, confess
+their sins, and be rebaptized, for the day of the Lord was at
+
+<pb n="284" xml:id="mmm.wa.dunn.1886.306"/> 
+
+<figure xml:id="mmm.wa.dunn.1886.306.figure">
+<p>PRESIDENT JOHN TAYLOR.</p>
+<figDesc></figDesc>
+</figure>
+
+hand; and from all
+that land there rose
+a wail of, <q>"Unclean!
+unclean!"</q> It floated
+out over the desert,
+and Over the mountains,
+and from the extreme 
+southern settlements 
+it was echoed
+back, <q>"Uncleanl 
+unclean!"</q> Men and
+women bared their
+hearts' darkest corners 
+to the public 
+congregations,and many,
+whom suspicion itself 
+had marked pure,
+confessed the perpetration 
+of horrible
+crimes. Polygamy
+took on its most 
+revolting shape; children of twelve and thirteen years were
+married to gray&#8212;haired elders; whole families of girls were
+wedded to one man; uncles united with nieces; in at least
+one instance half&#8212;brother and sister were married; men met
+in the streets and exchanged daughters; divorce and remarriage 
+became so common that some women had eight or ten
+husbands in almost the same number of months. All of the
+people were rebaptizcd, and started anew on their peculiar
+path, determined to gain heaven at any cost.</p>
+
+<p>Out of this groaning for sin there arose the most villainons
+of all the doctrines of the Mormon Church&#8212;that of the
+<q>"blood&#8212;atonement."</q> It is, in brief, that there are certain sins
+which are unpardonable, except the blood of the sinner be
+shed; and the people were exhorted: <q>"Let your blood be
+shed, and let the smoke ascend, that the incense thereof may
+come up before God as atonement for your sins."</q> The chief
+of these unpardonable sins is the <q>"shedding of innocent
+blood,"</q> which means the blood of Mormons, and possibly of
+
+<pb n="285" xml:id="mmm.wa.dunn.1886.307"/>
+
+Gentiles who have not reached years of accountability, and
+whose parents have not been guilty of injuring Mormons or 
+associating with people who have. Adultery, under certain
+circumstances, procurement of abortion, and the <q>"violation
+of a sanctified oath"</q> are also unpardonable, and for these 
+offences many of these enthusiasts gladly submitted to death.
+But it did not stop there. They were not satisfied with
+throwing themselves under the wheels of Juggernant, but
+must also have the privilege of sacrificing others to save
+them from their sins. <q>"It is to save them,"</q> said <persName key="Young, Brigham">Brigham
+Young</persName>, in a sermon reported in their Church organ, the Deseret
+News, on October 1, 1856, <q>"not to destroy them. It is true
+that the blood of the Son of God was shed for our sins, but
+men can commit sins which it can never remit."</q> Again, on
+February 8, 1857, he said: <q>"I could refer you to plenty of
+instances where men have been righteously slain in order to
+atone for their sins. I have seen scores and hundreds of 
+people for whom there would have been a chance (in the last
+resurrection there will be) if their lives had been taken, and
+their blood spilled on the ground as a smoking incense to the
+Almighty, but who are now angels to the devil,until our 
+elder brother, Jesus Christ, raises them up, conquers death, hell,
+and the grave."</q> These are but brief selections from the
+many blood&#8212;seeking sermons of those days, and the zealous
+churchmen took eager hold of this doctrine which the world
+had been growing out of for a score of centuries.</p>
+
+<p>Just after the Church was fairly encompassed in this blaze
+of zeal, it was announced, on July 24, 1857, to the great 
+gathering of Mormons at Cottonwood Park, where they had met
+to celebrate the anniversary of the arrival of their exploring
+party in the Basin, that there was an army under way for
+<placeName type="state" key="Utah Territory">Utah</placeName>, escorting the new territorial officers. It was true.
+Crime in the guise of religion had become so rampant in
+<placeName type="state" key="Utah Territory">Utah</placeName>, and its repression by the people there so hopeless, that
+an external executive agency had to be sought. The courts
+had been overawed by armed mobs and the judges had fled.
+A lawyer who protested against such proceedings had been
+murdered. Indian agent Hurt had reported something of
+their connection with the Indians, and, believing his life in
+
+<pb n="286" xml:id="mmm.wa.dunn.1886.308"/>
+
+danger, had slipped away through the mountain passes,
+guided by Indian friends. He resigned, declining reappointment. 
+Such troubles had been growing since 1851, and almost 
+every Gentile official that went there had died suddenly,
+or been driven away on account of <q>"immorality."</q> In his
+message of 1857, President Buchanan said: <q>"Without entering 
+upon a minute history of occurrences, it is sufficieut to
+say that all the officers of the United States, judicial and 
+executive, with the single exception of two Indian agents, have
+found it necessary for their own personal safety to withdraw
+from the territory, and there no longer remains any  
+government in <placeName type="state" key="Utah Territory">Utah</placeName> but the despotism of <persName key="Young, Brigham">Brigham Young</persName>."</q>
+Whether the officials had been blameworthy or not is inunaterial;
+the fact remains that <placeName type="state" key="Utah Territory">Utah</placeName> was in a state of confusion
+and lawlessness, and it was necessary to send troops with the
+new officials, who should act as a <hi rend="italic">posse comitatus</hi> on their call.</p>
+
+<p>From the official instructions given at the time it is easily 
+seen that, in the eyes of the administration, the state of  
+affairs in <placeName type="state" key="Utah Territory">Utah</placeName> was very similar to what had recently existed in <placeName type="state" key="Kansas">Kansas</placeName>, with the difference that the trouble was over another question. But in reality the situation was very diferent. 
+In <placeName type="state" key="Utah Territory">Utah</placeName> the people were united, but they wanted no
+government except that of their own leaders, no matter what .
+the United States desired. The majority of them were ready
+for war. They had been apart from the Gentiles long
+enough to let the delusion of divine aid grow up again, and 
+the belief was general, as it was in <placeName type="state" key="Missouri">Missouri</placeName>, that one should
+<q>"chase a thousand, and two put ten thousand to flight."</q> The
+leaders were not so pugnacious. The plan they adopted was
+to hold the army back until they were ready to move, and 
+then desert the northern part of the territory, destroying
+everything behind them&#8212;to make a second Moscow of Salt
+Lake City. For this active preparations were made; grain 
+was hoarded up and cached in the mountains; hiding-places 
+were sought out; and all the people prepared for a journey. 
+The Mormons in California were recalled, and all returned to 
+<placeName type="state" key="Utah Territory">Utah</placeName>. Fort Bridger and Fort Supply, under control of Mormon 
+Indian agents, were vacated and burned down, in order 
+that they might not furnish shelter to the troops when they 
+
+<pb n="287" xml:id="mmm.wa.dunn.1886.309"/>
+
+came. The Nauvoo Legion was brought into active discipline,
+and a general martial spirit pervaded the entire community, 
+such as is shadowed in this verse from one of their
+favorite songs:</p>
+
+<lg type="poem">
+<l>"Old squaw&#8212;killer Harney is on the way</l>
+<l>The Mormon people for to slay;</l>
+<l>Now, if he comes, the truth I'l1 tell,</l>
+<l>Our boys will drive him down to hell."</l>
+</lg>
+
+<p>General Harney did not come until after the difficulty
+was adjusted. He was succeeded by Colonel <persName key="Johnston, Albert Sidney">Albert Sidney
+Johnston</persName>, who reached the army in the early winter. No 
+resistance being anticipated, Captain <persName key="Van Vliet, Stewart">Van Vliet</persName>, a discreet officer,
+was sent ahead to purchase supplies for the army and 
+explain its purpose to the Mormons. He arrived at Salt Lake
+early in September and found them preparing for war. He
+was treated with consideration, but could purchase no 
+supplies. They told him that they had been persecuted, robbed,
+and murdered in the East, and now would resist all persecution 
+at the outset; <q>"that the troops now on the march for
+<placeName type="state" key="Utah Territory">Utah</placeName> should not enter Salt Lake Valley."</q> <persName key="Van Vliet, Stewart">Van Vliet</persName> called
+their attention to the fact that resistance could only be 
+temporary; that if the army were kept out over winter the 
+government would send an overwhelming force which would
+crush them. <persName key="Young, Brigham">Young</persName> replied: <q>"We are aware that such will
+be the case, but when those troops arrive they will find <placeName type="state" key="Utah Territory">Utah</placeName>
+a desert; every house will be burned to the ground, every
+tree cut down, and every Held laid waste. We have three
+years' provisions on hand, which we will cache, and then
+take to the mountains, and bid defiance to all the powers of
+the government."</q> On Sunday <persName key="Van Vliet, Stewart">Van Vliet</persName> attended their services, 
+and when Elder Taylor, now President, after presenting
+the probabilities to them, <q>"desired all present who would apply 
+the torch to their own buildings, cut down their trees
+and lay waste their fields, to hold up their hands, every hand
+in an audience numbering over four thousand persons was
+raised at the same moment."</q> He also stated that, <q>"The 
+ALmighty had appointed a man to rule over and govern his
+Saints, and that man was <persName key="Young, Brigham">Brigham Young</persName>, and that they
+would have no one else to rule over them."</q>
+</p>
+
+<pb n="288" xml:id="mmm.wa.dunn.1886.310"/>
+
+<p>On September 14 <persName key="Van Vliet, Stewart">Van Vliet</persName> left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and on
+the 15th <persName key="Young, Brigham">Young</persName> issued a proclamation, in which he recited
+the wrongs and misfortunes of the Mormons, and <q>"forbid&#8212;
+First, All armed forces of every description from coming into
+this territory under any pretence whatever. Second, That all 
+the forces in said territory hold themselves in readiness to 
+march at a moment's notice to repel an and all such invasion.
+Third, Martial law is hereby declared to exist in this territory
+
+<figure xml:id="mmm.wa.dunn.1886.310.figure">
+<p>BRIGHAM YOUNG.</p>
+<figDesc></figDesc>
+</figure>
+
+from and after the publication of this proclamation; and no
+person shall be allowed to pass or repass into, or through, or
+from this territory without a permit from the proper oflicer."</q>
+A copy of this was sent to Colonel Alexander, commanding
+the advance of the army. On September 21 <persName key="Van Vliet, Stewart">Van Vliet</persName> met
+the advance, on his return, and reported his failure. On 
+September 29 <persName key="Young, Brigham">Young</persName> again addressed the commanding officer,
+calling his attention to his disregard of the former <choice><orig>proclama-
+
+<pb n="289" xml:id="mmm.wa.dunn.1886.311"/>
+
+tion</orig><reg>proclamation</reg></choice>, and adding: <q>"I now further direct that you retire forthwith from the territory by the same route you entered. Should
+you deem this impracticable, and prefer to remain until spring
+in the vicinity of your present encampment, Black Fork, or
+Green River, you can do so in peace, and unmolested, on 
+condition that you deposit your arms and ammunition with
+<persName key="Robinson, Lewis">Lewis Robinson</persName>, Quartermaster&#8212;general of <placeName type="state" key="Utah Territory">the Territory</placeName>, and
+leave in the spring as soon as the condition of the roads will
+permit you to march."</q> This was accompanied by a note from
+<q>"<persName key="Wells, Daniel H.">Daniel H. Wells</persName>, Lieutenant&#8212;general commanding Nauvoo
+Legion,"</q> stating, <q>" I am here to aid in carrying out the 
+instructions of Governor <persName key="Young, Brigham">Young</persName>."</q> The army was then in what is
+now the southwestern corner of <placeName type="state" key="Wyoming">Wyoming</placeName>, straggling over a
+hundred miles or more of country, and not yet apprehensive
+of actual resistance; Colonel <persName key="Johnston, Albert Sidney">Johnston</persName> was at Fort Laramie;
+the supply trains were not guarded. On October 5 the Mormons, 
+under <persName key="Smith, Lot">Lot Smith</persName>, one of their great "war&#8212;captains," 
+attacked and destroyed a train on Green River, another on the
+Big Sandy, and a number of wagons belonging to the sutler
+of the 10th infantry, also on the Sandy, making a total loss
+of seventy&#8212;five wagons, with their contents, and several 
+hundred animals. About the same time it was learned that the
+mountain passes were barricaded and held by Mormon troops.
+It was considered impracticable to force them in the winter,
+so the army went into winter camp.</p>
+
+<p><seg type="Emigrants" subtype="Route"><seg type="Context" subtype="UtahWar">During the long summer days that the Mormons passed 
+in preparation for war</seg>, an emigrant train, known on the road as Captain <persName key="Fancher, Alexander">Fancher</persName>'s train, was passing through <placeName type="state" key="Utah Territory">Utah</placeName>. It reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> in August, and took the <q>"southern route"</q> which led through <placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, <placeName type="state" key="Fillmore, UT">Fillmore</placeName>, <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, and <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and at the last&#8212;named place joined the Spanish trail from <placeName type="state" key="Los Angeles, CA">Los Angeles</placeName> to <placeName type="state" key="New Mexico">New Mexico</placeName>, which ran thence southwest to the coast of <placeName type="state" key="California">California</placeName>. <seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Casualties">These emigrants numbered originally fifty-six men and sixty-two women and children</seg>, <seg type="Emigrants" subtype="StateAffiliationArkansas">most of them being from <placeName type="county" key="Carroll County, AR">Carroll</placeName>, <placeName type="county" key="Johnson County, AR">Johnson</placeName>, <placeName type="county" key="Marion County, AR">Marion</placeName>, and other northern counties of <placeName type="state" key="Arkansas">Arkansas</placeName></seg>. At <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> they were joined by several disaffected Mormons. <seg type="Massacre" subtype="Spoils">They had thirty
+good wagons, about thirty mules and horses, and six hundred
+cattle. Dr. <persName key="Brewer, Charles">Brewer</persName>, of the army, who met them on the Platte,
+  
+<pb n="290" xml:id="mmm.wa.dunn.1886.312"/>
+
+in June, said it was <q>"probably the finest train that had ever
+crossed the plains. There seemed to be about forty heads of
+families, many women, some unmarried, and many children.
+They had three carriages, one very fine, in which ladies rode."</q></seg></seg>
+Slowly this long line wound its way up the Jordan, around the
+sedgy border of Utah Lake, through Juab Valley, and down
+the long, dreary stretch of road from the Sevier to Little Salt
+Lake. At <placeName type="settlement" key="Beaver, UT">Beaver</placeName> they were joined by a Missourian, who had
+been held in custody there for some alleged offence, and he
+urged them to hurry on beyond the power of the Mormons.
+They passed through settlements from day to day, but they
+were friendless as in the voiceless desert. <seg type="Encounter" subtype="TradeLDS">They wished to
+buy grain and hay to recruit their failing stock, but the edict
+had gone forth for all supplies to be "hid up" in the mountains, 
+and there was no grain to be bought by their money.
+One man did trade them a small cheese, but he was seen by
+the special policeman who was detailed to watch the train, and
+was <q>"cut off"</q> from the church for it. Sell supplies to these
+Gentiles? Oh, no! <seg type="Context" subtype="UtahWar">They were but a portion of the mob that
+would soon be battering at the gates of Zion.</seg></seg> <seg type="Blame" subtype="EmigrantBehavior">Rumor wearied
+her countless wings in incessant flight, carrying before them
+the reports of their evil deeds, which grew and spread until
+their original inventors might have blushed for them. It was
+said that they were taking property by force; that they broke
+down and burned fences; <seg type="Encounter" subtype="Slander">that they insulted men</seg>; that they
+ravished Mormon women; <seg type="Context" subtype="LDSPersecution">that they were a part of the mob
+that drove the Saints from <placeName type="state" key="Missouri">Missouri</placeName>; that they boasted of having 
+the pistol with which the Prophet <persName key="Smith, Joseph">Joseph</persName> was killed ; that
+they were connected with the recent murder of the apostle,
+<persName key="Pratt, Parley P.">Parley Pratt</persName>; that they threatened to return from <placeName type="state" key="California">California</placeName>
+with enough men to destroy all the Mormon settlements</seg>; <seg type="Encounter" subtype="Poison">that
+they poisoned an ox with strychnine, causing the death of
+some Indians and one white man; that they poisoned the spring
+at Corn Creek with arsenic, causing the death of twenty Pah-
+Vaut Indians</seg>; that they were, in short, a crowd of hardened, 
+godless wretches, whose sins could never be washed away except 
+in their own blood. The chief hierarch of Southern <placeName type="state" key="Utah Territory">Utah</placeName>
+announced that he believed there was not <q>"a d&#8212;d drop
+of innocent blood among them."</q> The charges made against
+
+<pb n="291" xml:id="mmm.wa.dunn.1886.313"/>  
+                
+them were to the people of Southern <placeName type="state" key="Utah Territory">Utah</placeName> as words of certain truth, for the fanaticism and bigotry of Northern <placeName type="state" key="Utah Territory">Utah</placeName> was only lukewarmness in the southern settlements.<placeName type="settlement" key="Beaver, UT">Beaver</placeName> Men scowled
+and women glared their righteous hatred at the doomed party, 
+and little children peered through half-opened doors, in curious 
+fear, at the wicked people who had raised their hands
+against God's anointed. True, they saw none of this evildoing 
+as the emigrants passed them, but their belief in it was
+not shaken by that. They had Mormon testimony to its truth,
+and that was sufficient.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="Route">The emigrants kept on as fast as they could conveniently.
+They crossed the Great Basin; they climbed up the southern
+rim; and on this border of Mormondom they stopped for a
+few days to let their cattle revel in the rank, coarse mountain
+grass, before they went on into <q>"the Ninety-Mile Desert."</q>
+<seg type="Massacre" subtype="Location">The location of the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, their stopping-place, is in the southwestern corner of <placeName type="state" key="Utah Territory">Utah</placeName>, in the present <placeName type="county" key="Washington County, UT">county of Washington</placeName>, about eight miles south of the village of <placeName type="settlement" key="Pinto, UT">Pinto</placeName>. The place is a pass&#8212;sometimes called a valley&#8212;about
+five miles in length and one in width, but running to a rather
+narrow point at the southwest end. At about its centre,
+lengthways, is the <q>"divide"</q> between the Basin and the 
+Pacific slope, the ascents being very gradual, and at each end is
+a large spring, the waters of the eastern one flowing into the
+Basin, and those of the western one to the Santa Clara, and
+thence to the Rio Virgen.</seg> At the eastern spring was the
+house and corral of <persName key="Hamblin, Jacob">Jacob Hamlin</persName>, Mormon sub-agent for the
+Pah-Utes, who, with some assistants, all Mormons, was pasturing 
+cattle on <geogName type="valley" key="Mountain Meadows">the meadows</geogName>. The train passed his place on the
+3d of September, and camped at the western spring on the
+4th. The spring, which is a large one, is in the southern end
+of the narrow part. The bank rises from it to a height of
+about eight feet, and from its top there reaches a level stretch
+of some two hundred yards. Beyond this there comes an 
+irregular ridge or row of hills, fifty or sixty feet in height, back
+of which is a valley of considerable extent, which opens into
+the main <geogName type="valley" key="Mountain Meadows">Meadows</geogName> three or four hundred yards below the
+spring. The emigrants were camped on the level ground just
+north of the spring. They were now on the edge of the 
+
+<pb n="292" xml:id="mmm.wa.dunn.1886.314"/>
+
+<figure xml:id="mmm.wa.dunn.1886.314.figure">
+<p>CACTUS IN DESERT.</p>
+<figDesc></figDesc>
+</figure>
+
+Pacific slope, and must have felt the gladness of the wayworn
+traveller who knows that another stage of his journey is 
+finished. Just across there, to the southwest, was golden 
+<placeName type="state" key="California">California</placeName>&#8212;they could almost see it&#8212;a few more miles of desert, a few more days of dust and alkali water, and they would be 
+through.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">In the chilly dawn of Monday, September 7</seg>, as they were
+grouped about their camp-fires, preparing and eating their
+breakfasts, they were stunned by a volley of guns from the
+little gully through which the waters of the spring ran away.
+
+<pb n="293" xml:id="mmm.wa.dunn.1886.315"/>
+
+<seg type="Massacre" subtype="Casualties">Seven of their number were killed</seg>, sixteen were wounded, 
+and the remainder thrown into confusion; but it was only for
+a moment. They were brave men, and they had lived too long
+on the frontier not to be ready for an Indian attack on short
+notice. The women and children were hastily placed in the
+shelter of the corralled wagons, and the rifles of the men were
+soon replying effectually to those of their foes. This was 
+discouraging to their assailants, for they had counted on a 
+massacre, not a fight. They were not warriors of much eminence.
+On the contrary, Captain <persName key="Campbell, Reuben P.">Campbell</persName> afterwards classed them as
+<q>"a miserable set of root&#8212;diggers,"</q> and said, <q>"nothing is to be
+apprehended from them but by the smallest and most careless
+party."</q> <seg type="Blame" subtype="IndiansLDSInfluence">They were Pah-Utes from the neighborhood of <placeName type="settlement" key="Cedar City, UT">Cedar
+City</placeName>, under <persName key="Moquetas">Moquetas</persName>, <persName key="Big Bill">Big Bill</persName>, and other chiefs; and others
+from the Santa Clara settlements, extending thirty-five miles
+below, under <persName key="Jackson">Jackson</persName> and his brother; Upper Pi-Edes, under
+<persName key="K-nar-rah">K-nar-rah</persName>, and Lower Pi-Edes under <persName key="Tal-si-Gob-beth">Tal-si-Gob-beth</persName>; but at this time they were all directed and controlled by <persName key="Lee, John D.">John D. Lee</persName>,
+sub-agent, <persName key="Johnson, Nephi">Nephi Johnson</persName>, interpreter, and two or three others,
+all disguised as Indians. It required all their efforts to keep
+the Indians at their work. <seg type="Massacre" subtype="Casualties">Several were killed early in the
+engagement, and two of their war-chiefs had their knee-joints
+shattered by rifle-balls, from the effects of which both died.</seg>
+The Indians moved back to safer quarters, and, after driving
+away all the cattle that were out of range of the spring, vented
+their rage by shooting the remainder that they dared not
+attempt to drive away.</seg> An occasional shot was fired at the
+emigrants, as a reminder that they were still in the 
+neighborhood. White reinforcements were sent for at once, after
+the first repulse, and began to arrive on the following day.
+They stopped out of sight of the emigrants to camp. 
+Occasionally they would put on a little paint and go take a shot
+at the wagons; then they would return and amuse themselves 
+by pitching quoits. The little party of the besieged 
+mean-while were improving their time. They drew their wagons
+close together, chained them wheel to wheel, and banked up
+earth to the beds, making a fortress which they could easily
+hold against all the Indians within a hundred miles of them.</seg></p>
+
+<p>On Wednesday night a young man named <persName key="Aden, William A.">Aden</persName>, a son of
+
+<pb n="294" xml:id="mmm.wa.dunn.1886.316"/>
+
+Dr. <persName key="Aden, Sidney B.">Aden</persName> of <placeName type="state" key="Kentucky">Kentucky</placeName>, with one companion, stole out of the
+valley and started to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for aid. At Richards'
+Springs they met three <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> men, <persName key="Stewart, William C.">William C. Stewart</persName>,
+<persName key="White, Joel">Joel White</persName>, and <persName key="Arthur, Benjamin">Benjamin Arthur</persName>. As their horses drank
+from the spring, <persName key="Stewart, William C.">Stewart</persName> shot and killed <persName key="Aden, William A.">Aden</persName>, and <persName key="White, Joel">White</persName>
+wounded his companion, but the latter escaped and made his
+way back to the camp. The emigrants now began to realize
+the desperation of their situation. <persName key="Aden, William A.">Aden</persName> might surely have
+hoped for assistance if any one could, for <persName key="Aden, Sidney B.">his father</persName> was known
+to have saved the life of a Mormon bishop of the neighborhood; 
+yet he was assassinated by a Mormon. <seg type="Blame" subtype="LDS_LDS">There could be
+little doubt that the white men, of whom occasional glimpses
+had been caught by them, were Mormons, and that <seg type="Blame" subtype="IndiansLDSInfluence">they were
+aiding the Indians</seg>.</seg> <seg type="Massacre" subtype="RescueAttempt">They prepared a statement of their 
+situation, giving their reasons for believing that the Mormons
+were their real besiegers, and directed it to Masons, Odd
+Fellows, the leading religious denominations, and to <q>"good 
+people generally."</q> This they intrusted to three of their best
+scouts, who, on Thursday night, slipped down through the
+arroyo of the spring-branch, across the strip of valley, and off
+towards <placeName type="state" key="California">California</placeName>. The paper implored assistance, if assistance could reach them, and, if not, that justice might be meted
+to their murderers.</seg></p>
+
+<p>While these men were endeavoring to slip through the
+meshes of the net that was drawn about them, a strange scene
+was to be witnessed just over the little divide of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>. <seg type="Blame" subtype="LDS_LDS">There were now fifty-four white men in the attacking party
+and <seg type="Blame" subtype="IndiansLDSInfluence">about two hundred Indians</seg>, all of whom were satisfied that no direct assault on the camp could be successful. The 
+resolute defence of the emigrants had made a change of procedure 
+necessary, and they were now obliged to obtain 
+<q>"counsel"</q> from those in authority, and the approval of the Lord.
+Up to this time every step had been taken in that way. <persName key="Smith, George A.">George
+A. Smith</persName>, one of the Twelve Apostles, had gone through the
+settlements and arranged the preliminaries; <seg type="Massacre" subtype="Planning">the day after the
+train passed through <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> a Church council was held, at which women were present, and, after due consideration, it
+was decided, by a unanimous vote, to be the will of the Lord
+that the Fancher outfit should be exterminated. The manner
+
+<pb n="295" xml:id="mmm.wa.dunn.1886.317"/>
+
+selected was an Indian massacre, but this had failed. A council 
+of the Mormons in <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> was held on Thursday 
+evening, and the orders from President <persName key="Haight, Isaac C.">Haight</persName> of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>
+were read. They directed that the emigrants should be 
+decoyed from their stronghold and exterminated. <persName key="Haight, Isaac C.">Haight</persName> was
+lieutenant&#8211;colonel of the militia, and had received his 
+directions to this effect from Colonel <persName key="Dame, William H.">Dame</persName>, commander of the
+militia of the district, which was known as <q>"the Iron militia."</q>
+The men in <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> were all members of it, and were
+commanded by Major <persName key="Higbee, John M.">John Higbee</persName>. There was some feeble
+remonstrance to the orders, so, after a little talk, they all
+knelt, with elbows touching, in <q>"a prayer circle,"</q> and asked
+for divine guidance. On the still night air of that mountain
+pass, one voice after another rose in fervent prayer, asking
+God to say to them whether or not they should betray and
+murder one hundred and twenty of their fellow-men. The
+last voice ceased; a moment of silence ensued; then Major
+<persName key="Higbee, John M.">Higbee</persName> announced, in confident tone, <q>"I have the evidence
+of God's approval of our mission. It is God's will that we
+carry out our instructions to the letter."</q> In that declaration
+the <q>"higher law"</q> stands out in all its naked enormity. <seg type="Context" subtype="Polygamy">Mere
+polygamy is a virtue compared with such a devils' faith.</seg> The
+council remained in session until daybreak, and all the minutiae 
+of the following day's work were arranged for. A hasty
+breakfast was despatched, and the preparation for the Lord's
+work was begun at once.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="IndiansLDSInfluence">The Indians were concealed in a thicket a mile and three quarters from the camp, on the road back to the Basin.</seg> The
+Mormons procured two wagons, with which they moved on
+towards the western spring. They stopped out of gun-shot,
+and <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Bateman, William">William Bateman</persName> advanced under a
+white flag. An emigrant came out to meet them. They
+talked over the situation. <persName key="Lee, John D.">Lee</persName> said that <seg type="Blame" subtype="IndiansIndependently">the Indians were
+much excited, on account of injuries done them by former
+parties, and could scarcely be controlled, but he had got them
+to promise that no harm should be done to the emigrants if
+they surrendered to the Mormons. Part of them had left 
+already. It would be necessary to make a form of surrendering; 
+the guns could be placed in the wagons brought by the
+
+<pb n="296" xml:id="mmm.wa.dunn.1886.318"/>              
+
+Mormons, together with the sick, wounded, and small 
+children; the men must march unarmed, each accompanied by a
+Mormon, to make the Indians believe they were captives.</seg> To
+this the emigrants consented. They were putting themselves
+wholly in the power of the Mormons, but it was all they could
+do. There was no escape without Mormon aid. <seg type="Massacre" subtype="Spoils">Even if the
+
+<figure xml:id="mmm.wa.dunn.1886.318.figure">
+<p>JOHN D. LEE.</p>
+<figDesc></figDesc>
+</figure>
+
+Indians left them, their stock was all gone, and they were 
+unable to move. Perhaps they thought the Mormons would be
+satisfied with getting their property and would save their
+lives, <seg type="Blame" subtype="IndiansIndependently">blaming what had happened to the Indians</seg>.</seg> Perhaps they did not suspect the Mormons any longer. No one
+knows. The book is sealed till the last day. The wagons are
+
+<pb n="297" xml:id="mmm.wa.dunn.1886.319"/>
+
+driven up; the corral is opened; the guns are loaded in, also 
+the sick, the wounded, and the smaller children; the wagons
+drive on. The women and older children follow, on foot.
+<seg type="Massacre" subtype="Casualties">The men, part of whom have just finished burying two of
+their number, who had died of their wounds, making ten
+deaths at the spring, come last.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">It is just after noon, and the day is bright and clear.
+Tramp, tramp, tramp; they march down from the camping-
+place. The men have reached the militia, and give them
+three hearty cheers as they take their places, murderer and
+victim, side by side. Tramp, tramp, tramp. They are rounding 
+the point of the ridge which has served as a screen for
+the Mormons and Indians for the past week. A raven flies
+over them, croaking. What called him there? Does he
+foresee that he shall peck at the eyes of brave men and gentle
+women who are looking at him? Tramp, tramp, tramp.
+The wagons with the wounded and the children are passing
+the hiding-place of the Indians. How quietly they lie among
+the gnarly oak bushes! but their eyes glisten, and their necks
+stretch out to see how soon their prey will reach them. The
+women are nearly a quarter of a mile behind the wagons, and
+the men as much farther behind the women. A half-dozen
+Mormon horsemen bring up the rear. Tramp, tramp, tramp.
+The wagons have just passed out of sight over the divide.
+The men are entering a little ravine. The women are 
+opposite the Indians. They have regained confidence, and several
+are expressing their joy at escaping from their savage foes.
+See that man on the divide! It is <persName key="Higbee, Isaac C.">Higbee</persName>. He makes a 
+motion with his arms and shouts something which those nearest
+him understand to be: "Do your duty." In an instant the
+militiamen wheel, and each shoots the man nearest him; the
+Indians spring from their ambush and rush upon the women;
+from between the wagons the rifle of <persName key="Lee, John D.">John D. Lee</persName> cracks, and
+a wounded woman in the forward wagon falls off the seat.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">Swiftly the work of death goes on. <persName key="Lee, John D.">Lee</persName> is assisted in
+shooting and braining the wounded by the teamsters <persName key="Knight, Samuel">Knight</persName>
+and <persName key="McMurdy, Samuel">McMurdy</persName>, and as the latter raises his riiie to his shoulder
+he cries: <q>"O Lord, my God, receive their spirits, it is for thy
+kingdom that I do this."</q> The men all fell at the first fire
+
+<pb n="298" xml:id="mmm.wa.dunn.1886.320"/>
+ 
+but two or three, and these the horsemen ride down, knock
+over with their clubbed guns, and finish with their knives.
+Their throats are cut, that the atoning blood may flow freely.
+<seg type="Blame" subtype="IndiansLDSInfluence">The women and older children are not hurried out of the
+world quite so quickly as the others. Some are on their
+knees begging for life. Others run shrieking over <geogName type="valley" key="Mountain Meadows">the 
+Meadows</geogName>. They receive but two answers&#8212;the tomahawk crashing
+through the skull,and the knife plunging through the heart.
+These are all left to the Indians, for fear there may be 
+<q>"innocent blood "</q> among them, which no Mormon may shed.</seg>
+There is alarm on this account already, for one of the
+emigrants had carried his infant child in his arms, and the bullet
+that pierced the father's heart went through the babe's brain.
+It is decided, however, that it was accidental and that no
+criminal wrong is done. Several of the Mormons run to the
+Indians, to see that they do their work properly. Among
+them is <persName key="Lee, John D.">Lee</persName>. It is discovered that two of the girls are missing. 
+Some one saw them run to a ravine fifty yards away.
+<persName key="Lee, John D.">Lee</persName> and one of the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> chiefs run to the place and
+find there the Indian boy, <persName key="Hamblin, Albert">Albert</persName>, who lives with <persName key="Hamblin, Jacob">Hamlin</persName>.
+<seg type="Massacre" subtype="SexualViolence">He says the girls came there, and shows where they hid in
+the brush. They drag them forth and brutally ravish them.
+This was the only act on that field that was not inspired.
+Was it wrong, under the Mormon code of morality? The
+question is too subtle for me to answer; certainly it was not
+punished.</seg> <persName key="Lee, John D.">Lee</persName> next tells the chief the girls must be killed.
+The chief answers: <q>"No, they are too pretty to kill; let us
+save them ;"</q> but he meets a grim refusal. The unhappy child
+that <persName key="Lee, John D.">Lee</persName> holds, with the terror of death upon her, flings her
+arms round his neck and promises to love him as long as he
+lives, if he will spare her life. The wolf has keener fangs
+but no more merciless heart. He throws her head back with
+his arm, and with one stroke of his keen bowie-knife severs
+her neck to the spine. The chief brains the other with his
+tomahawk.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">This finished the slaughter at <geogName type="valley" key="Mountain Meadws">the Meadows</geogName>; but there 
+remained a little more to do. <seg type="Massacre" subtype="Casualties">The trail of the three scouts,
+who went out on the night before, had been discovered, and
+<persName key="Hatch, Ira">Ira Hatch</persName>, <seg type="Blame" subtype="IndiansLDSInfluence">with a party of Indians</seg>, was sent after them. The
+
+<pb n="299" xml:id="mmm.wa.dunn.1886.321"/>
+
+fugitives were found sleeping, in the Santa Clara Mountains,
+and, from the volley fired at them, two slept on in death. The
+third fled with a bullet-hole through his wrist. He met two
+Mormons, who were much afflicted over his sad plight, and
+persuaded him that he could not get across the desert. They
+induced him to turn back with them, promising to smuggle
+him through <placeName type="state" key="Utah Territory">Utah</placeName>. They soon met <persName key="Hatch, Ira">Hatch</persName>'s party and the 
+man was killed; but they did permit him to pray first. The
+paper calling for assistance, which he carried, was in Mormon
+custody for some time, and is said to have been destroyed by
+<persName key="Lee, John D.">John D. Lee</persName>. The man killed by <persName key="Hatch, Ira">Hatch</persName>'s party brings the
+number killed to one hundred and twenty-one &#8212;ten at the
+camp, young <persName key="Aden, William A.">Aden</persName> at Richards' Springs, one hundred and
+seven on <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, and the three messenger scouts.</seg> <seg type="Massacre" subtype="Dates">The
+main massacre was on Friday, September 11, 1857. There
+has been some confusion as to this, arising from a failure to
+consult calendars. Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> fixed the date as 
+September 10; Dr. <persName key="Forney, Jacob">Forney</persName> as <q>"Friday, September 9 or 10 ;"</q> all
+the Mormon witnesses, and <persName key="Lee, John D.">Lee</persName>, in his confessions, fixed the
+day of the week as Friday, and the second Friday in September 
+was the 11th, in the year 1857.</seg> <seg type="Massacre" subtype="Survivors">On the evening of the
+same day the surviving children, seventeen in number, ranging 
+in age from three to eight years, were taken to <persName key="Hamblin, Jacob">Hamlin</persName>'s,
+and afterwards divided out among Mormon families.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">The property still remained to be disposed of. A part of
+it was given to the Indians, and for this, <persName key="Lee, John D.">Lee</persName> as Indian agent,
+in his report of November 20, 1857, charged the government
+over fifteen hundred dollars. The bodies of the dead were
+searched by <persName key="Higbee, Isaac C.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName>, the Bishop of <placeName type="settlement" key="Cedar City, UT">Cedar
+City</placeName>, and the money found is supposed to have been kept by
+them. The remaining property was put in <persName key="Klingensmith, Philip">Klingensmith</persName>'s
+custody temporarily, and afterwards, on instructions from
+<persName key="Young, Brigham">Brigham Young</persName>, was turned over to <persName key="Lee, John D.">Lee</persName> and sold by him for
+the benefit of the Church. The bodies were stripped entirely
+naked, and fingers and ears were mutilated in tearing from
+them the jewelry, to them no longer valuable. The bloody
+clothing and the bedding on which the wounded had lain were
+piled in the back room of the tithing-office at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for
+some weeks, and when Judge <persName key="Cradlebaugh, John">Cradlehaugh</persName> examined the
+  
+<pb n="300" xml:id="mmm.wa.dunn.1886.322"/>
+
+room, eighteen months later, it still stank of them. These
+goods were commonly known as <q>"property taken at the siege
+of Sevastopol."</q>  Carriages and wagons of the emigrants were
+in use long afterwards, and some of the jewelry is said to be
+worn yet in <placeName type="state" key="Utah Territory">Utah</placeName>. The value of all the property taken, as
+nearly as it can be ascertained, was over $70,000. People
+in <placeName type="state" key="Arkansas">Arkansas</placeName> who saw the organization of the train estimated
+its value at $100,000.</seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDS">It was for many years a hotly debated question whether
+<persName key="Young, Brigham">Brigham Young</persName> was connected with this crime or not. To
+those who were familiar with the subordination of the 
+Mormon Church, its system of espionage, its compulsory confessional,
+its obedience to <q>"counsel,"</q> and its prompt punishment
+of everything contrary to the will of those in authority, his
+guilt was a matter of course. But many did not believe it.
+In 1875 he published a deposition in which he acknowledged
+himself accessory after the fact, saying that, within two or
+three months after the affair, <persName key="Lee, John D.">Lee</persName> began giving him an 
+account of it, and, says the deposition, <q>"I told him to stop, as,
+from what I had already heard by rumor, I did not wish my
+feelings harrowed up by a recital of detail."</q> <persName key="Lee, John D.">Lee</persName> and 
+<persName key="Klingensmith, Philip">Klingensmith</persName> say they reported it fully to him, and <persName key="Hamblin, Jacob">Hamlin</persName> says
+he did also. To <persName key="Lee, John D.">Lee</persName>, by his account, <persName key="Young, Brigham">Young</persName> professed to be
+much shocked by the killing of the <seg type="Massacre" subtype="Casualties">women and children</seg>, but,
+after considering it over-night, he said: <q>"I have made that
+matter a subject of prayer. I went right to God with it, and
+asked him to take the horrid vision from my sight, if it were
+a righteous thing that my people had done in killing those
+people at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>. God answered me, and at once the vision was removed. I have evidence from God
+that he has overruled it all for good, and the action was a
+righteous one and well intended. The brethren acted from
+pure motives. The only trouble is that they acted a little
+prematurely; they were a little ahead of time. I sustain you
+and all of the brethren for what they did. All that I fear is
+treachery on the part of some one who took a part with you,
+but we will look to that."</q> There is testimony also that he
+was accessory before the fact, and his proclamation, that <q>"No
+person shall be allowed to pass or repass, into or through or 
+
+<pb n="301" xml:id="mmm.wa.dunn.1886.323"/>                   
+ 
+from this territory without a permit from the proper officer,"</q>
+surely indicates that he was in an aggressive mood at the time.
+But this is now immaterial. He has passed beyond human
+punishment, and his moral guilt is sufficiently established out
+of his own mouth. On occasions of self-gratulation he 
+sometimes exposed his methods. On August 12, 1860, he said, in
+the Tabernacle: <q>"All the army, with its teamsters, hangers-on,
+and followers, with the judges and nearly all the rest of the
+civil officers, amounting to some seventeen thousand men,
+have been searching diligently for three years to bring one
+act to light that would criminate me; but they have not been
+able to trace out one thread or one particle of evidence that
+would criminate me; do you know why? Because I walk
+humbly with my God, and do right so far as I know how. I
+do no evil to any one; and as long as I can have faith in the
+name of the Lord Jesus Christ to hinder the wolves from tearing 
+the sheep and devouring them, without putting forth my
+hand,I shall do so. I can say honestly and truly, before God
+and the holy angels and all men, that not one act of murder or
+disorder has occurred in this city or territory that I had any
+knowledge of, any more than a babe a week old, until after the
+event had transpired; that is the reason they cannot trace any
+crime to me. If I have faith enough to cause the devils to eat
+up the devils, like the Kilkenny cats, I shall certainly exercise it.
+<persName key="Smith, Joseph">Joseph Smith</persName> said that they would eat each other up as did
+those cats. They will do so here and throughout the world.
+The nations will consume each other and the Lord will suffer
+them to bring it about. It does not require much talent or
+tact to get up opposition in these days; you see it rife in
+communities, in meetings, in neighborhoods, and in cities;
+that is the knife that will cut down this government. The
+axe is laid at the root of the tree, and every tree that bringeth 
+not forth good fruit will be hewn down."</q></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">His guilt is most fully shown in the subsequent course of
+himself and the Mormon Church. <seg type="Blame" subtype="LDS_LDS">It was unquestionably the
+intention of the Mormon Church to keep the participation of
+white men in the massacre a secret, and <seg type="Blame" subtype="IndiansIndependently">lay the blame on the Indians.</seg></seg> On January 6, 1858, after he was acquainted with
+the general facts, according to his deposition, <persName key="Young, Brigham">Brigham Young</persName>
+
+<pb n="302" xml:id="mmm.wa.dunn.1886.324"/>   
+               
+reported to Commissioner <persName key="Denver, James W.">Denver</persName>: <q>"<seg type="Massacre" subtype="Dates">On or about the middle of last September</seg> <seg type="Massacre" subtype="Casualties">a company of emigrants</seg>, <seg type="Emigrants" subtype="Route">travelling the southern route to <placeName type="state" key="California">California</placeName></seg>, <seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">poisoned the meat of an ox that died, and gave it to the Indians to eat, causing the immediate
+death of four of their tribe, and poisoning several others. This company also poisoned the water where they were encamped. This occurred at Corn Creek, fifteen miles south of <placeName type="settlement" key="Fillmore City, UT">Fillmore City</placeName>. <seg type="Blame" subtype="IndiansIndependently">This conduct so enraged the Indians that they immediately took measures for revenge.</seg></seg></seg> I quote from a letter written to me by <persName key="Lee, John D.">John D. Lee</persName>, farmer to the Indians in <placeName type="county" key="Iron County, UT">Iron</placeName> and <placeName type="county" key="Washington County, UT">Washington counties</placeName>. <q>'<seg type="Massacre" subtype="Dates"><seg type="Blame" subtype="IndiansIndependently">About the 22d of September</seg>, Captain <persName key="Fancher, Alexander">Fancher</persName> and company fell victims to the Indians' wrath near <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>.</seg> <seg type="Massacre" subtype="Spoils">Their cattle and horses were shot down in every direction; their wagons and property mostly committed to the flames.</seg>'</q> Lamentable as this case truly is, it is only the natural consequence of that fatal policy which treats the Indians like the wolves, or other ferocious beasts."</q> <seg type="Massacre" subtype="Planning">This plan was, perhaps, as ingenious as any that could have been adopted, but there is no possibility of keeping such a crime secret.</seg> A murder by a single hand, under carefully planned circumstances, seldom fails to come to light, but with a crime of this magnitude the exposure of the truth is only a question of time, and a short time at that.</seg></p>
+
+<p>On October 2, 1857, eleven men, partly Mormons,who were
+secretly escaping from <placeName type="state" key="Utah Territory">Utah</placeName>, passed through <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> and saw the fruits of divine guidance. One of them afwards  described it, on the witness-stand, thus: <q>"<seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">Saw two
+piles of bodies, one composed of women and children, the
+other of men; the bodies were entirely nude, and seemed to
+have been thrown promiscuously together; they appeared to
+have been massacred. Should judge there were sixty or 
+seventy bodies of women and children; saw one man in that
+pile; the children were aged from one and two months up to
+twelve years; the small children were most destroyed by
+wolves and crows; the throats of some were cut, others
+stabbed with knives; some had balls through them. All the
+bodies were more or less torn to pieces, except one, the body
+of a woman, which lay apart, a little southwest of the pile.
+This showed no signs of decay, and had not been touched by
+
+<pb n="303" xml:id="mmm.wa.dunn.1886.325"/>
+
+<figure xml:id="mmm.wa.dunn.1886.325.figure">
+<p>SCENE OF MASSACRE.</p>
+<figDesc></figDesc>
+</figure>
+              
+<pb n="305" xml:id="mmm.wa.dunn.1886.327"/>  
+                
+the wild animals. The countenance was placid and seemed
+to be in sleep. The work was not freshly done&#8212;supposed
+the bodies had been here fifteen or sixteen days.</seg></seg>"</q> These
+men went on to <placeName type="state" key="California">California</placeName> and told their story. <seg type="Blame" subtype="LDS_LDS">A meeting 
+of citizens at <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName> examined the testimony, decided that the Mormons had committed the crime, and <seg type="Reaction" subtype="FederalInvestigation">called
+on the President for protection.</seg></seg> The report flew on wings
+of the wind to every part of the country, which was already
+excited over the resistance offered to the army. How secret
+the brethren in <placeName type="state" key="Utah Territory">Utah</placeName> kept it! On December 31, fifteen brief weeks after it occurred, <persName key="Mitchell, William C.">William C. Mitchell</persName>, of <placeName type="settlement" key="Dubuque, AR">Dubuque</placeName>,
+<placeName type="state" key="Arkansas">Arkansas</placeName>, wrote to Senator <persName key="Sebastian, William K.">Sebastian</persName> of that state: <q>"Two
+of my sons were in the train that was massacred, on their
+way to <placeName type="state" key="California">California</placeName>, three hundred miles beyond <placeName type="settlement" key="Salt Lake City, UT">Salt Lake
+City</placeName>, <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">by the Indians and Mormons</seg></seg>. <seg type="Massacre" subtype="Casualties">There were one hundred 
+and eighteen unmercifully butchered; the women and
+children were all killed</seg> <seg type="Massacre" subtype="Survivors">with the exception of fifteen infants</seg>. One of my sons, <persName key="Sebastian, Charles">Charles</persName>, was married and had one son,
+which I expect was saved, and at this time is at <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>,
+I believe in the limits of <placeName type="state" key="California">California</placeName>. I could designate
+my grandson if I could see him .... <seg type="Reaction" subtype="Extra-legalViolence">Four regiments, together
+with what regulars can be spared, is too small a force to whip
+the Mormons and Indians, for rest assured that all the wild
+tribes will fight for <persName key="Young, Brigham">Brigham Young</persName>. I am anxious to be in
+the crowd</seg>&#8212;I feel that I must have satisfaction for the inhuman
+manner in which <seg type="Massacre" subtype="Casualties">they have slain my children, together
+with two brothers-in-law and seventeen of their children</seg>."</q></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">The people of the neighborhoods whence the emigrants
+went were satisfied with the evidence they had. The press
+announced the organization of volunteer companies in a
+dozen counties of <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg> The government,
+however, did not decide so quickly. Many wild reports 
+concerning the situation in <placeName type="state" key="Utah Territory">Utah</placeName> had been curren&#8212;reports of battles in which seven or eight hundred on a side had been
+killed&#8212;of the army being captured and the officers hung&#8212;
+and possibly this was only a canard too. <seg type="Reaction" subtype="FederalInvestigation">It was decided to
+investigate first, and Dr. <persName key="Forney, Jacob">Forney</persName>, Superintendent of <placeName type="state" key="Utah Territory">Utah</placeName>, was
+instructed to look into the matter.</seg> The Western men did not
+let the case drop, however. On March 18, 1858, Mr. <persName key="Gwin, William">Gwin</persName>,
+
+<pb n="306" xml:id="mmm.wa.dunn.1886.328"/>
+
+of <placeName type="state" key="California">California</placeName>, introduced a resolution of inquiry in the Senate, asking what steps had been taken to punish <seg type="Massacre" subtype="Casualties">the murderers of the one hundred and eighteen emigrants</seg>. <seg type="Blame" subtype="IndiansIndependently">He said he knew the Indians were guilty, and it had been charged</seg>, <seg type="Blame" subtype="LDS_LDS">and was 
+believed, that the Mormons were, but at any rate the guilty
+should be punished</seg>. <seg type="Massacre" subtype="Survivors">On June 22, 1858, Dr. <persName key="Forney, Jacob">Forney</persName> reported:
+<q>"It affords me great pleasure to inform you, and the friends
+of the children in question through you, that I learned to-day
+where the children are. In my inquiries about the children
+I met a gentleman who lives at or near where the massacre took
+place. This gentleman, Mr. <persName key="Hamblin, Jacob">Hamlin</persName>, has one of the children, and informs me that all the children (fifteen) in question
+are in his immediate neighborhood in the care of whites.
+<seg type="Blame" subtype="IndiansIndependently">These unfortunate children were for some days among Indians;
+with considerable effort they were all recovered, bought
+and otherwise, from the Indians.</seg>"</q> <persName key="Forney, Jacob">Forney</persName> was as impartial
+a man as the Mormons could have asked for&#8212;in fact, he was
+prejudiced in their favor. He evidently believed <persName key="Hamblin, Jacob">Hamlin</persName>,
+of whom more anon, but, as he went south and gathered facts,
+here and there, the truth gradually forced itself upon him,
+and on May 1, 1859, when he had recovered sixteen of the
+children, he wrote: " Four of the oldest of the children
+know, <hi rend="smallcaps">WITHOUT DOUBT KNOW</hi>, enough of the material facts of
+the Mountain Meadow affair, to relieve the world of <seg type="Blame" subtype="LDS_LDS">the white hell-hounds who have disgraced humanity by being mainly
+instrumental in the murdering of <seg type="Massacre" subtype="Casualties">at least one hundred and fifteen men, women, and children</seg>, under circumstances and
+manner without a parallel in human history for atrocity.</seg>"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Dr. <persName key="Forney, Jacob">Forney</persName> had cause to change his mind, outside of the evidence of the children. <seg type="Encounter" subtype="Poison">He went first among the Pah-Vant
+Indians under chief <persName key="Kanosh">Kanosh</persName>, at Corn Creek&#8212;the Indians who had been poisoned by the emigrants and taken vengeance on
+them. He found that none of them had been poisoned by the
+waters of the spring; that the spring ran so strong that a barrel 
+of arsenic would not have poisoned it; that an ox belonging
+to Dr. <persName key="Ray">Ray</persName>, a Mormon living at <placeName type="settlement" key="Fillmore City, UT">Fillmore City</placeName>, had died
+about the time the emigrants were camped at Corn Creek, from I
+eating a poisonous weed&#8212;a not unusual occurrence&#8212;and some 
+Indians who ate of the ox were poisoned, but they had made
+
+<pb n="307" xml:id="mmm.wa.dunn.1886.329"/>   
+                
+<figure xml:id="mmm.wa.dunn.1886.329.figure">
+<p>KANOSH.</p>
+<figDesc></figDesc>
+</figure>
+
+no complaints of the emigrants, and had no trouble of anykind with them;</seg>
+that none of the Pah-Vants were at the Mountain Meadow massacre; 
+that the conduct of the emigrants all through <placeName type="state" key="Utah Territory">Utah</placeName> had been most exemplary;
+ that <seg type="Massacre" subtype="Survivors">none of 
+the children had been with the Indians for an hour. And yet, as if
+desirous of adding a little more to the awful infamy of 
+this affair, all the Mormons who had had custody of these
+children put in claims for the purchase-money expended in
+buying them from the Indians, as well as for their maintenance,
+the total claimed amounting to over $7000. Of this
+amount <persName key="Forney, Jacob">Forney</persName> paid $2961.77 for what he considered proper charges, and reported as to the rest that he <q>"cannot condescend
+to become the medium of even transmitting such claims
+to the department."</q></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">In the spring of 1859 a company of dragoons and two
+companies of infantry, under Captain <persName key="Campbell, Reuben P.">R. P. Campbell</persName>, passed
+through <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> and buried the remains. Theirs was
+the last view of the Lord's work. Dr. <persName key="Brewer, Charles">Charles Brewer</persName>, in
+charge of the burying-party, reported:<q> "At the scene of the
+First attack, in the immediate vicinity of our present camp,
+marked by a small defensive trench made by the emigrants,
+a number of human skulls, and bones and hair, were found
+scattered about, bearing the appearance of never having been
+buried; also remnants of bedding and wearing apparel. On 
+examining the trenches, which appear to have been within the
+  
+<pb n="308" xml:id="mmm.wa.dunn.1886.330"/>
+
+corral, and within which it was supposed some written account
+of the massacre might have been concealed, some few human
+bones, human hair, and what seemed to be the feathers
+of bedding, only were discerned. Proceeding 2500 yards
+in a direction N. 15° W., I reached a ravine fifty yards
+distant from the road, bordered by a few bushes of scrub
+oak, in which I found portions of the skeletons of many
+bodies&#8212;skulls, bones, and matted hair&#8212;most of which, on
+examination, I concluded to be those of men. 350 yards
+farther on, and in the same direction, another assembly of
+human remains were found, which, by all appearance, had
+been left to decay upon the surface&#8212;skulls and bones, most
+of which I believed to be those of women, some also of 
+children, probably ranging from six to twelve years of age. Here,
+too, were found masses of women's hair, children's bonnets,
+such as are generally used upon the plains, and pieces of lace,
+muslin, calicoes, and other material, part of womcn's and 
+children's apparel. I have buried thirteen skulls, and many more
+scattered fragments. Some of the remains above referred to
+were found upon the surface of the ground, with a little earth
+partially covering them, and, at the place where the men were
+massacred, some lightly buried, but the majority were scattered
+about upon the plain. Many of the skulls bore marks of violence,
+being pierced with bullet-holes, or shattered by heavy
+blows, or cleft with some sharp-edged instrument. The bones
+were bleached and worn by long exposure to the elements, and
+bore the impress of the teeth of wolves or other wild animals.
+The skulls found upon the ground near the spring, or position
+of the first attack, and adjoining our camp, were eight in number. 
+These, with the other remains there found, were buried,
+under my supervision, at the base of the hill, upon the hillside 
+of the valley. At the rate of 2500 yards distant from the
+spring, the relative position and general appearance of the 
+remains seemed to indicate that the men were there taken by
+surprise and massacred. Some of the skulls showed that 
+fire-arms had been discharged close to the head. I have buried
+eighteen skulls and parts of many more skeletons, found scattered 
+over the space of a mile towards the lines, in which 
+direction they were, no doubt, dragged by the wolves. No
+
+<pb n="309" xml:id="mmm.wa.dunn.1886.331"/>
+
+names were found upon any article of apparel, or any peculiarity 
+in the remains, with the exception of one bone, the upper 
+jaw, in which the teeth were very closely crowded, and
+which contained one front tooth more than is generally found.
+Under my direction, the above mentioned remains were all
+properly buried, the respective localities being marked with
+mounds of stone."</q> <seg type="Reaction" subtype="Commemoration">Major (since General) <persName key="Carleton, James Henry">Carleton</persName> afterwards
+erected a monument in <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, of a large pile of rocks surmounted by a rude wooden cross, between twelve and fifteen 
+feet in height, bearing the inscription: <q>"Vengeance is
+mine; I will repay, saith the Lord."</q> On one of the stones he
+caused to be engraved: "Here lie the bodies of <seg type="Massacre" subtype="Casualties">one hundred and twenty men, women, and children</seg>, <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, murdered 
+<seg type="Massacre" subtype="Dates">on the 11th day of September, 1857</seg>." It is said that the cross and the inscribed stone mysteriously disappeared
+the first time <persName key="Young, Brigham">Brigham Young</persName> came into the southern 
+settlements.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">On June 29, seventeen of the children having been recovered, fifteen of them were sent East, overland, in spring-wagons,
+escorted by soldiers. Every possible provision was made for
+their comfort, and four women were sent with them to attend
+to their wants. Two boys about seven years of age, <persName key="Sorrow, John Calvin">John C.
+Miller, known to the Mormons as John Calvin Sorel</persName>, and
+<persName key="Tackett, Milum">Milum Tackett, who was known to the Mormons as Ambrose
+Miram Taggit</persName>, were retained as witnesses. Those returned
+were <persName key="Miller, Mary">Mary Miller, called by the Mormons Mary Sorel</persName>; <persName key="Tackett, William">William Tackett, known to the Mormons as William Taggit</persName>; <persName key="Dunlap, Prudence Angeline">Prudence Angeline Dunlap</persName> and <persName key="Dunlap, Georgiana">Georgiana Dunlap</persName>, known to the Mormons as <persName key="Dunglap, Angeline">Angeline Huff</persName> and <persName key="Dunlap, Georgiana">Annie Huff</persName>; <persName key="Jones, Sophronia">Sophronia Jones, called by the Mormons Sophronia Huff</persName>; <persName key="Jones, T. M.">T. M. Jones, called by the Mormons Ephraim W. Huff</persName>; <persName key="Fancher, Kit Carson">Kit Carson Fancher, called Charley Fancher</persName> by the Mormons; his cousin <persName key="Fancer, Tryphena D.">Tryphena Fancher, called Annie Fancher</persName> by the Mormons, and supposed by them to be Charley's sister; <persName key="Baker, Betsy">Betsy Baker</persName>, <persName key="Baker, Sarah Jane">Sarah Jane Baker</persName>,
+<persName key="Baker, William">William Baker</persName>, <persName key="Dunlap, Rebecca">Rebecca Dunlap</persName>, <persName key="Dunlap, Louisa">Louisa Dunlap</persName>, <persName key="Dunlap, Sarah">Sarah Dunlap</persName>, and <persName key="Miller, Joseph">Joseph Miller, called by the Mormons Samuel Dunlap</persName>. 
+They were met at Fort Leavenworth by Mr. <persName key="Mitchell, William C.">Mitchell</persName>, whose great bereavement by this horrible afair has been 
+mentioned. His little grandchild was not among the saved, as he
+ 
+<pb n="310" xml:id="mmm.wa.dunn.1886.332"/>
+  
+had hoped. With heart bowed down by the completeness of his loss, he bore the little ones tenderly on to <placeName type="county" key="Carollton County, AK">Carrollton</placeName> and gave them into the arms of their friends. It was a sad day in the little county-seat. Nearly every one had lost some relative in the massacre, and bitter tears were accompanied by
+bitter curses on the murderers. The two boys kept as witnesses were afterwards taken to <placeName type="state" key="Washington, D. C.">Washington</placeName>, and then returned to their homes. In addition to these children, two others were made orphans <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountian Meadows">Mountain Meadows</geogName></seg>, although they were not there; they were <persName key="Rush, Alfred">Alfred Rush</persName> and his sister <persName key="Rush Campbell, Martha">Martha&#8212;now Mrs. Campbell</persName>&#8212;who live at present in <placeName type="state" key="Texas">Texas</placeName>. T<seg type="Blame" subtype="LDS_LDS">he misfortunes of these children did not end with their return. In attempting to justify themselves the Mormons have forged most shameful lies about them, and have so often 
+repeated them that they have obtained credence with outsiders.</seg>
+It was told, and currently believed in <placeName type="state" key="Utah Territory">Utah</placeName>, that <persName key="Sloan, William (Idaho Bill)">Idaho Bill</persName>, a noted desperado who served a long term in the <placeName type="state" key="Utah Territory">Utah</placeName> penitentiary for horse-stealing, was <persName key="Fancher, Kit Carson">Charley Fancher</persName>, and yet it can be proven by a large number of witnesses, whose characters are above reproach, that this boy was raised by his uncle, <persName key="Fancher, H. B.">H. B. Fancher</persName>, in <placeName type="county" key="Carroll County, AR">Carroll County</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>, and died at his house some years ago. It was told that the children were sent to the poor house in <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>. There was just one of them that went to <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>, but not to the poor-house. <persName key="Dunlap, Sarah">Sarah Dunlap</persName>, blind from her birth, and with one arm shattered and crippled for life by a Mormon rifle-ball, went to the Institute for the Blind in that city. They were all raised by their relatives and friends, and most of them still live in the neighborhood of their former homes. <persName key="Baker, William">William Baker</persName>, <persName key="Baker, Betsy">Betsy Baker, now
+Mrs. Terry</persName>, and <persName key="Baker, Sarah">Sarah Baker, now Mrs. Gladden</persName>, live at <placeName type="settlement" key="Harrison, AR">Harrison</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>; <persName key="Dunlap, Rebecca">Rebecca Dunlap, now Mrs. Evans</persName>, is at
+<placeName type="settlement" key="Hampton, AR">Hampton</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>; <persName key="Dunlap, Louisa">Louisa Dunlap, now Mrs. Lynton</persName>, is at <placeName type="settlement" key="Scottsville, AR">Scottsville</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>; her sister <persName key="Dunlap, Sarah">Sarah</persName> lives with her. <persName key="Dunlap, Samuel">Samuel Dunlap</persName> is at <placeName type="settlement" key="Lead Hill">Lead Hill</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>. <persName key="Fancher, Tryphena">Tryphena Fancher</persName> is the wife of <persName key="Wilson, J. C.">J. C. Wilson</persName>, of <placeName type="settlement" key="Rule, AR">Rule</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>. <persName key="Huff, Nancy Sophronia"><persName key="Huff, Elisha W.">The Huff children</persName></persName>
+live in Eastern <placeName type="state" key="Tennessee">Tennessee</placeName>. <persName key="Tackett, William">William Tackett</persName> is at <placeName type="settlement" key="Protem, MO">Protem</placeName>, <placeName type="state" key="Missouri">Missouri</placeName>; Milum Tackett lived for some years in <placeName type="state" key="Texas">Texas</placeName>, but is now in <placeName type="state" key="Arizona">Arizona</placeName>.</seg></p>
+
+<p>There is nothing in the character of any of them that any
+
+<pb n="311" xml:id="mmm.wa.dunn.1886.333"/>
+
+one need apologize for, and if there were, the Mormons should
+be the last ones to upbraid them for it. <seg type="Blame" subtype="LDS_LDS">Whatever any of
+them may lack of the comforts or the accomplishments of life
+is due to the Saints.</seg> <seg type="Massacre" subtype="Spoils">They have the money, the cattle, the jewelry, and the other property that should have gone for the
+education and maintenance of these orphans.</seg> Is it not enough
+that they should have been made to eat the bread of charity,
+aud to make their own ways over the rugged paths of 
+struggling poverty, without being weighted down with slander?
+There is something, too, most strangely inconsistent in the
+fact that while the whole country has raved about the murder
+done at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, and clamored for the punishment of the criminals, <seg type="Massacre" subtype="Spoils">nothing has been done for the relief of the unhappy survivors, whose property, as well as protectors,
+was swept away on that bloody day.</seg> It is true that Congress
+passed a law donating 320 acres of land to each of them, but
+any citizen can have that for little more than the taking, and 
+besides, as one of them writes to me, "Public lands in this
+country (<placeName type="state" key="Arkansas">Arkansas</placeName>) are almost worthless, and but few of them are able to emigrate. <seg type="Massacre" subtype="Spoils">Congress ought to make the Mormon Church disgorge the $70,000, or more, that it took from these
+people, with usury, and if it be not able to do so, it ought to
+make good the loss from the public treasury. It is notorious
+that the Church received the greater part of the proceeds of
+that butchery.</seg> It has been proven by the testimony of Mormon 
+witnesses. <seg type="Context" subtype="UtahWar">It was done at a time when the Mormon
+Church was in armed resistance to the government. It was
+done when the government was not enforcing its laws in that 
+portion of its territory.</seg> The wronged people are unable to
+obtain redress by any authorized means. They are poor; and
+it would take fortunes to prosecute their claim. <seg type="Massacre" subtype="Spoils">Why should the Mormon Church be allowed to retain the plunder, while its
+victims still live in poverty?</seg> If it is permitted so to do, the
+government should make them whole. If the <q>"Gentiles"</q> of
+<placeName type="state" key="Utah Territory">Utah</placeName> wish to make an issue on which they will have the sympathy of the whole American people, let them demand the
+righting of this wrong. It is a far more urgent cause than
+preventing the Mormons from hanging a flag at half-mast on
+the Fourth of July. Ay! <seg type="Massacre" subtype="Spoils"><seg type="Context" subtype="Polygamy">it is far more worthy of attention
+
+<pb n="312" xml:id="mmm.wa.dunn.1886.334"/>
+
+than prohibiting a half-dozen female cranks from living with
+a male fanatic</seg>, that the Mormon Church should give back to
+the rightful heirs the property that it took with bloody hands,
+on <seg type="Massacre" subtype="Dates">September 11, 1857</seg></seg>.</p>
+
+<p><seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">At the same time that <persName key="Forney, Jacob">Forney</persName> was pursuing his inquiries, Judge <persName key="Cradlebaugh, John">John Cradlebaugh</persName>, one of the associate justices of the Supreme Court of <placeName type="state" key="Utah Territory">Utah</placeName>, came south to hold court there, and to aid in investigating the massacre. <seg type="Blame" subtype="LDS_LDS">He was accompanied
+by <persName key="Young, Brigham">Brigham Young</persName>, who was <q>"extending every assistance in ferreting out the perpetrators of the crime."</q></seg></seg> <persName key="Lee, John D.">John D. Lee</persName> says that while on this trip <persName key="Young, Brigham">Young</persName> said to a congregation of the faithful, at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>: <q>"I am told that there are many of the brethren who are willing to swear against the brethren
+who were engaged in that affair. I hope there is no truth in
+this report. I hope there is no such person here under the
+sound of my voice. But if there is I will tell you my 
+opinion of you, and the fact so far as your fate is concerned.
+Unless you repent at once of that unholy intention, and keep
+the secret of all that you know, you will die a dog's death,
+and be damned, and go to hell. I do not want to hear of any
+more treachery among my people." </q>Inasmuch as <persName key="Young, Brigham">Young</persName> admits in his deposition that he was familiar with the facts of
+the affair long before this; inasmuch as apostates from that
+section corroborate <persName key="Lee, John D.">Lee</persName>'s statement; inasmuch as no one was brought to justice at the time, we may fairly believe this
+statement to be true. There was evidence obtained, nevertheless, 
+and apostates in the South promised that, if Judge 
+<persName key="Cradlebaugh, John">Cradlebaugh</persName> would hold court with enough troops at hand to protect the witnesses and the court, they would insure the
+conviction of nearly all the guilty parties. Warrants were 
+issued for thirty-eight of the assassins, but just then another
+complication occurred. A great outcry had been raised because 
+troops had been stationed near the court in <placeName type="settlement" key="Provo, UT">Provo</placeName>, during some recent Danite trials, and General <persName key="Johnston, Albert Sidney">Johnston</persName> received instructions that the troops must be used only as a <hi rend="italic">posse comitatus</hi>, on due call of the executive department. <seg type="Reaction" subtype="FederalInvestigation">He notified
+Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> of this fact, and the judge, having had experience in holding a court of justice in a Mormon community, 
+without protection, very sensibly dropped the Mountain
+              
+<pb n="313" xml:id="mmm.wa.dunn.1886.335"/>
+
+Meadows investigation for the time. Indeed, it was a matter
+of necessity, for no witness would have dared to testify without 
+protection.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Investigation was smothered temporarily, but the affair
+was too horrible for any ban of Church or State to keep it
+down, especially among such a people as the Mormons; for
+from their intense superstitions it is but a step to others, and
+they are believers, with scarcely an exception, in spirits, goblins, 
+ghosts, visions, trances, and other supernatural phenomena. 
+It is admitted, by the most bitter anti-Mormons, that a
+thrill of horror was felt by many Mormons, especially in the
+northern settlements, as the truth concerning the Fancher
+train was gradually revealed in mysterious whispers; but that
+was little to the feelings of those in Southern <placeName type="state" key="Utah Territory">Utah</placeName> from whose consciences the impressions of the teachings of earlier
+and better days had not been wholly effaced. The war feeling 
+quieted down, and they realized that the day of the Lord
+had not yet come. They saw their leader openly pretending
+friendship with the officers of justice, who were searching,
+not for priests of the atoning blood, but for murderers. They
+saw men of their neighborhoods riding away on midnight 
+expeditions, and heard reports of other murders that appeared
+more like the deeds of pirates than of priests. They heard
+of the attack on Shepherd's train, in Hedspeth's cut-off, where
+a child of eighteen months was wantonly tossed on the rocks
+and its limbs broken, three of the attacking party being recognized
+as painted whites. They heard of Lieutenant Gay's
+party, intentionally led into an ambuscade by a Mormon guide.
+They heard of a white woman of one train, ravished by five
+men, and then shot, who lived long enough to tell the next
+party that her assailants were all painted whites. They heard
+of the attack on Miltimore's train, in Lander's cut-off, where
+five were killed, three carried or driven off so that they were
+never found, and one child of five years was left with its legs
+and ears cut off, scalped, and its eyes gouged out, and that
+these Indians, by the affidavits of those who escaped, all spoke
+good English&#8212;that some had light hair and several had beards.
+Was the atoning blood always to flow? Was there to be no
+end of sacrifices? <seg type="Massacre" subtype="Aftermath">It was not strange that the Mormons came
+
+<pb n="314" xml:id="mmm.wa.dunn.1886.336"/>
+
+to believe <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> were haunted. It was not strange that men told in low tones how the spirits of the dead met
+nightly at the old camp and reenacted the bloody tragedy. It
+was not strange that the lives of those who neither dared to
+speak while living, nor to die without speaking, became hideous 
+nightmares. It was not strange that a lad of <placeName type="settlement" key="Beaver, UT">Beaver</placeName> drank deeply of rum, without staggering, and horrified his
+acquaintances with recitals of the visions that he saw. It 
+was not strange that young <persName key="Spencer">Spencer</persName>, the school-teacher at <placeName type="settlement" key="St. George, UT">St. George</placeName>, wasted to a skeleton, and, after writing piteously to his bishop and to <persName key="Young, Brigham">Brigham Young</persName> for some assurance that could drive away the terrors that haunted him, died in <choice><sic>grewsome</sic><corr>gruesome</corr></choice> tortures of remorse. <seg type="Context" subtype="LDSApostates">It was not strange that, from time to time, as opportunity offered, Mormons escaped from the territory, apostatized, and relieved their guilt-laden souls by confession.</seg> But it was strange that the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, whose verdant heath had induced its name, became barren
+and sterile, and to this day remains the abode of desolation.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">And what did the Mormons all this time? <seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="IndiansIndependently">They bent
+every power to show that the massacre was the deed of 
+Indians</seg> who had been incensed by outrageous conduct of the
+emigrants. They slandered the victims in the most vindictive 
+manner. They said the relatives of the surviving children 
+refused to receive them, saying that <q>"they were the
+children of thieves, outlaws, and murderers, and they would
+not take them, they did not want anything to do with them,
+and would not have them around their houses,"</q> and that in
+consequence the children were sent to <q>"the poor-house in
+<placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>."</q></seg> There was not a Mormon of any prominence who did not know the truth about the massacre, and not one who
+did not take part in this deception. <seg type="Blame" subtype="IndiansIndependently"><persName key="Cannon, George Q.">George Q. Cannon</persName>, late Representative in Congress, wrote articles to prove the
+Indians guilty.</seg> <persName key="Young, Brigham">Brigham Young</persName> maintained it for years, and then swore that he knew the truth within three months after
+the crime occurred. <persName key="Hooper, William H.">William H. Hooper</persName>, for some time Representative 
+in Congress, asserted it again and again in the most
+solemn manner; he denounced the enemies of his people as
+the basest of liars, and extolled the Mormons as <q>"the most
+peaceful and persistently industrious people on the  
+
+<pb n="315" xml:id="mmm.wa.dunn.1886.337"/>
+
+<figure xml:id="mmm.wa.dunn.1886.337.figure">
+<p>GEORGE Q. CANNON.</p>
+<figDesc></figDesc>
+</figure>
+
+continent;"</q> and yet it was
+proven that <seg type="Massacre" subtype="Spoils">he traded
+boots and shoes for 
+forty of the cattle 
+taken at the 
+Meadows, soon after the 
+murder was done.</seg> 
+The Mormons, from 
+the first, assumed an 
+air of injured  
+innocence.</seg> While the
+army was in winter
+quarters, Colonel
+<persName key="Kane, Thomas L.">Kane</persName>, an old friend 
+of the Saints, went
+into <placeName type="state" key="Utah Territory">Utah</placeName>, by way of
+<placeName type="state" key="California">California</placeName>, to negotiate
+with them. Under
+his care Governor
+<persName key="Cumming, Alfred">Cummings</persName> started to 
+<placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, accompanied by two servants, on April 5. He
+received military salutes as he passed the Mormon troops;
+the walls of Echo Canon were made light with bonfires in his 
+honor, and on April 15 he was duly installed in his office and
+received ceremonial calls from leading Mormons. The people,
+who were all moving from the northern settlements, were
+begged to come back. <persName key="Powell, L. W.">L. W. Powell</persName> and <persName key="McCulloch, Ben">Ben McCulloch</persName>
+were sent as commissioners to treat with them, and it was
+agreed that the army should not be further resisted, it being
+understood that it would not camp close to any town or city.
+The army entered the Basin and went into camp in Cedar
+Valley, three miles west of Utah Lake, and thirty-six miles
+south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. The government resumed operations.
+<persName key="Haight, Isaac C.">Haight</persName> and <persName key="Lee, John D.">Lee</persName> came to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> as Senator and 
+Representative, and each received a young wife from the hands of
+<persName key="Young, Brigham">Brigham</persName>. All the murderers retained respectable standing in
+the community and in the Church&#8212;<persName key="Lee, John D.">Lee</persName>, <persName key="Haight, Isaac C.">Haight</persName>, and <persName key="Dame, William H.">Dame</persName>
+all being bishops for years.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">But conscience did not die, and people did not forget.
+
+<pb n="316" xml:id="mmm.wa.dunn.1886.338"/>
+
+Instead of growing faint with age, the color of the crime seemed
+to heighten. The civil war did not result in the destruction of
+the Gentile men, and seven women did not take hold of one
+man. Gentiles kept settling in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and apostates no longer fled. The younger generation of Saints did
+not hold to the faith of their fathers with much steadfastness.
+Something more of conformity to the ideas of the world at
+large was necessary, and the more extreme doctrines of the
+Church were put in the background. <persName key="Lee, John D.">Lee</persName> was <q>"cut off"</q> from fellowship; so were <persName key="Hickman, Bill">Bill Hickman</persName> and other Danites. <persName key="Lee, John D.">Lee</persName>
+went on a <q>"mission"</q> outside the limits of <placeName type="state" key="Utah Territory">Utah</placeName>. He kept a ferry on the Colorado, down in the deserts of <placeName type="state" key="Arizona">Arizona</placeName>, where for convenience he was known as Major <persName key="Lee, John D.">Doyle</persName>. In January,
+1874, the Gentiles held a public meeting in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and a committee of forty-five drafted a memorial to Congress,
+showing the utter perversion of justice in <placeName type="state" key="Utah Territory">the territory</placeName>. 
+Congress passed a law which took the selection of jurors out of
+the control of the Mormon Church, and it was left with no
+refuge but the perjury of witnesses, and such Mormon jurors
+as came on in regular order. In the same year <persName key="Lee, John D.">Lee</persName> came up to <placeName type="settlement" key="Panguitch, UT">Panguitch</placeName>, on the Sevier, to visit some of his younger wives (he had eighteen, besides one whom he married <q>"for her
+soul's sake,"</q> and did not count). While there, Deputy-
+Marshal <persName key="Stokes, William">William Stokes</persName> received warrants for the arrest of <persName key="Lee, John D.">Lee</persName>, <persName key="Haight, Isaac C.">Haight</persName>, and others. He located <persName key="Lee, John D.">Lee</persName>, and went after him with
+a posse of four men. The object of their search was found
+concealed in a log chicken-coop, and taken away peaceably,
+after much talk and threatening. He was brought to trial in
+the following summer.</seg></p>
+
+<p>The trial was a farce. Three of the jurors were Gentiles,
+and nine were Mormons who took their seats by dint of sturdy
+swearing. Men who had lived in <placeName type="state" key="Utah Territory">Utah</placeName> for years and never heard of the massacre&#8212;men who resided in the southern 
+settlements before and ever since the crime, and formed no opinion 
+about it&#8212;men who long lived in the same town with <persName key="Lee, John D.">Lee</persName> and never heard much about him&#8212;men who had seen the
+monument in <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> and never asked what it was for, were accepted as jurors. They were <q>"counselled"</q> beforehand
+that <persName key="Lee, John D.">Lee</persName> was not guilty. The prosecution made a much
+
+<pb n="317" xml:id="mmm.wa.dunn.1886.339"/>
+
+stronger case than had been anticipated. They had witnesses
+who, it had been supposed, would not dare to return to <placeName type="state" key="Utah Territory">Utah</placeName>. The Mormons tried to get hold of them by arresting them on
+various charges, but the United States Marshal ordered his
+deputies to prevent their removal for any cause, and they did
+so. <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, ex-Bishop of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, who had
+fled into <placeName type="state" key="Nevada">Nevada</placeName> and thence to <placeName type="state" key="California">California</placeName>, went on the  
+witness-stand and told the whole story. He was corroborated by
+other witnesses. <seg type="Encounter" subtype="Poison">The defence tried to prove the old stories
+of poisoning the spring and the ox, but under cross-examination 
+the perjured witnesses broke down.</seg> The Church authorities 
+became alarmed and decided to sacrifice <persName key="Lee, John D.">Lee</persName>, but no 
+opportunity for communicating with the jury was allowed them.
+The jury went out, and these nine Mormons, who knew nothing
+about the case, and had formed no opinions, proceeded to
+demonstrate from facts within their own knowledge that <persName key="Lee, John D.">Lee</persName> could not have been guilty. The Gentiles held out for two
+days, and consented to a disagreement. Then came an era of
+excitement. The Mormons and their friends through the country 
+claimed that they were vindicated, but the evidence that
+had been sent out over the wires every day, and printed in
+every corner of the country, was too strong to be cried down in
+that way. Public sentiment grew bitter. There were still
+many who believed that <persName key="Young, Brigham">Brigham Young</persName> was innocent, but <persName key="Lee, John D.">Lee</persName>
+had been proved guilty and should have been punished; he
+had been saved from punishment by Mormon jurors.</p>
+
+<p>The second trial was a worse farce than the first. In fatal
+folly the Mormon authorities permitted themselves to be 
+persuaded that they could sacrifice <persName key="Lee, John D.">Lee</persName> and better their own standing. They forgot that in so doing they must give the
+lie to their professions of nineteen years. They forgot that
+they must give testimony which would implicate themselves.
+They forgot that though a prosecuting attorney may promise
+immunity, he cannot prevent cross-examination or restrain
+public opinion. They forgot everything except that the
+country demanded the punishment of <persName key="Lee, John D.">John D. Lee</persName>, and they dared no longer refuse it. Of course, <persName key="Lee, John D.">Lee</persName> was not informed of this. He passed the fourteen months that intervened between 
+his two trials relying on the protestations of friendship
+
+<pb n="318" xml:id="mmm.wa.dunn.1886.340"/>
+
+of the leading men. The first thing was to fix the jury. A
+list of the <hi rend="italic">venire</hi> was obtained, and submitted, by the  
+defendant's attorneys, to a Mormon committee of professed friends
+of <persName key="Lee, John D.">Lee</persName>, who were to mark with a dash (&#8212;) those who would convict, with an asterisk (*) those who would rather not convict, 
+and with two asterisks (* *) those who would not convict 
+under any circumstances. There was no trouble in 
+getting that jury. The defence thought they knew who they
+wanted, and the prosecution seemed willing to humor them.
+Every juror was a * * man. The jury was impanelled and
+the testimony began. Then the defence realized that they
+were entrapped. The depositions of <persName key="Young, Brigham">Brigham Young</persName> and
+<persName key="Smith, George A.">George A. Smith</persName>, which had been objected to by the prosecution in the former trial, were now offered by the prosecution.
+Mormons who previously had known nothing of the massacre,
+and had aided <persName key="Lee, John D.">Lee</persName> in the former trial, now became possessed of remarkable memories&#8212;as to <persName key="Lee, John D.">Lee</persName>. <persName key="Knight, Samuel">Samuel Knight</persName>, who
+lived at <persName key="Hamblin, Jacob">Hamlin</persName>'s, and drove one of the wagons at the massacre, but who formerly knew nothing about the matter, <seg type="Massacre" subtype="Casualties">now
+recollected that he saw <persName key="Lee, John D.">Lee</persName> shoot a woman in his wagon.</seg> He saw a number of white men at the place, but no one that he
+knew except <persName key="Lee, John D.">Lee</persName>. <persName key="Johnson, Nephi">Nephi Johnson</persName>, another shining example of previous ignorance, now remembered enough as to <persName key="Lee, John D.">Lee</persName> and <persName key="Haight, Isaac C.">Haight</persName> and two or three who were dead, but as to others his memory was fatally defective. Finally, under cross-examination, he said: <q>"I don't want to bring in new names."</q> He was
+further tortured sufficiently to cause him to drop the facts
+that the few Mormons who objected, at the councils, did not
+dare to say anything; that persons had been injured for not
+obeying counsel; that the whole matter was talked over 
+afterwards, and it was decided to keep it secret. <persName key="Hamblin, Jacob">Jacob Hamlin</persName> recollected that <persName key="Lee, John D.">Lee</persName> told him all about the massacre, within a few days after it occurred; he recounted <persName key="Lee, John D.">Lee</persName>'s story to the jury. On cross-examination he remembered that he reported 
+the matter fully to <persName key="Young, Brigham">Brigham Young</persName> and <persName key="Smith, George A.">George A. Smith</persName>, 
+<q>"pretty soon after it happened,"</q> and that <persName key="Young, Brigham">Brigham Young</persName> said: <q>"As soon as we can get a court of justice, we will ferret 
+this thing out, but till then don't say anything about it."</q> In
+accordance with this injunction he kept quiet until the second 
+                
+<pb n="319" xml:id="mmm.wa.dunn.1886.341"/>
+
+trial. He said: <q>"It is the first time I ever felt any good
+would come of it. I kept it to myself until it was called for
+in the proper place .... I had an idea that if I came here 
+that it would be a pretty good place to tell it."</q> This man's
+story to Dr. <persName key="Forney, Jacob">Forney</persName> has been given. To Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>
+and various military officers who investigated the affair he 
+professed to know nothing that would implicate any white man.
+He did not feel called upon to speak at <persName key="Lee, John D.">Lee</persName>'s first trial. He gave to the jury the statement of the Indian boy <persName key="Hamblin, Albert">Albert</persName>, who
+saw the massacre and <seg type="Massacre" subtype="Casualties">the killing of the two girls</seg>, <seg type="Blame" subtype="IndiansIndependently">yet this boy told Dr. <persName key="Forney, Jacob">Forney</persName> that it was all done by Indians. The inference is irresistible that <persName key="Hamblin, Jacob">Hamlin</persName> induced him to lie about it,and this although anti-Mormons concede <persName key="Hamblin, Jacob">Hamlin</persName> to be an unusually honorable Mormon. <seg type="Massacre" subtype="Survivors">This boy <persName key="Hamblin, Albert">Albert</persName>, by the way, first revealed the fact that the children were brought directly to <persName key="Hamblin, Jacob">Hamlin</persName>'s house on the evening of the massacre. The good people, who had bills for purchasing them from the Indians,
+had probably forgotten to instruct him on that point.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">When <persName key="Lee, John D.">Lee</persName> heard the testimony of these men he knew
+that the Church had abandoned him and he was lost. He
+broke down completely and was taken to his cell, where he
+paced the floor, cursing the Mormon leaders. The defence
+offered no testimony; their witnesses of the previous trial
+had forgotten everything. The jury was out three hours, and
+brought in a verdict of guilty of murder in the first degree.
+The prisoner was brought to the bar, and, after a few impressive 
+words, Judge <persName key="Boreman, Jacob S.">Boreman</persName> informed him that, under the statute, 
+he had his choice of being hung, shot, or beheaded. <persName key="Lee, John D.">Lee</persName> said: <q>"I prefer to be shot."</q> He was accordingly sentenced,
+and on March 23, 1877, the sentence was executed in the
+<geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, at the scene of the massacre. <seg type="Massacre" subtype="Casualties">At the last moment <persName key="Lee, John D.">Lee</persName> confessed to his attendant minister, Mr. <persName key="Stokes, George">Stokes</persName>, that he killed five of the emigrants with his own
+hands.</seg> This was his fourth confession, each one differing
+from all the others, and yet each one lifting the veil from
+around the affair enough to give a glimpse of its actual 
+horrors. He made a short speech, declaring his faith in 
+Mormonism, as originally taught by <persName key="Smith, Joseph">Joseph Smith</persName>, and his  assurance of a place in the Mormon heaven, but stated that
+
+<pb n="320" xml:id="mmm.wa.dunn.1886.342"/>
+
+<persName key="Young, Brigham">Brigham Young</persName> was leading the people astray. He closed, and sat down on his coilin. A prayer was offered, the word
+was given, live rifles were discharged, and he fell back without 
+a struggle.</seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDS">So justice was done&#8212;not rightly justice either, for this
+man was not convicted as men are required to be convicted
+under our laws. The jury that pronounced him guilty had 
+morally no more right to do so than the Sultan of Turkey
+had legally. They were murderers as truly as <persName key="Lee, John D.">Lee</persName> was. 
+<persName key="Lee, John D.">John D. Lee</persName> was not a victim to justice. He was murdered
+by his accomplices for their own safety&#8212;as much so as if 
+they had shot him themselves. Personally they attained
+safety, though not as they expected. The greater criminals
+of the active participants hid for a time in the mountains,
+and are now probably in foreign countries. <persName key="Young, Brigham">Brigham Young</persName>
+died peacefully in his home, five months after <persName key="Lee, John D.">Lee</persName>'s execution. 
+The remainder were not molested. But in the public 
+eye the Mormon Church stands as the guilty criminal, and it
+seems destined to expiate the crime. In that respect the
+Mountain Meadows massacre has had a mission. It is the 
+one complete and unanswerable exposure of Mormon deceit
+hypocrisy, and crime, under the <q>"higher law"</q> dogma. Every
+other crime charged against them they can defend, not having 
+admitted their guilt, but in this one they have been
+forced, step by step, from an indignant denial to a defiant
+confession. They cannot evade it; their apologists can make
+no explanation of it; and in its lustration their denials of
+other crimes become faint and sickly. It is admitted that
+they are industrious and thrifty, but the American people
+realize that thrift has its crimes as dark as any of those of
+dissipation. <persName key="Chuzzlewit, Jonas">Jonas Chuzzlewit</persName> was thrifty; so was <persName key="Iscariot, Judas">Judas
+Iscariot</persName>.</seg> It is true that, according to their standard of virtue,
+they are fairly virtuous, but the people understand that, under 
+the <q>"higher law,"</q> their virtue is, to the civilized world, 
+crime. They understand it so well that the American heart,
+which warms most quickly to any persecuted for religion's 
+sake, is icy towards the Saints. Only a few weeks since, a
+murderous attack was made on one of their meetings in
+<placeName type="state" key="Tennessee">Tennessee</placeName>, and a bitter local persecution followed. Had the
+
+<pb n="321" xml:id="mmm.wa.dunn.1886.343"/>
+
+<figure xml:id="mm.wa.dunn.1886.343.figure">
+<p>EXECUTION OF JOHN D. LEE.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="323" xml:id="mmm.wa.dunn.1886.345"/>
+
+people assailed been Buddhists, or Brahmins, or Voudooists
+the country would have been in an uproar of indignation.
+What comment did it receive? Generally, none; and 
+occasionally a growl that it would be well to follow the example
+elsewhere. The Mormons are right in their superstition that
+a Nemesis stands, ever threatening them, on the mountains 
+of Southern <placeName type="state" key="Utah Territory">Utah</placeName>. She does stand there, and in her outstretched hands, for the ash-branch and the scourge, she
+holds a blight and a curse over the doomed theocracy, while
+from her ghastly lips there comes the murmur of those words,
+which no prophet can still: <q>"Vengeance is mine, I will repay,
+saith the Lord."</q></p>
+
+</div1>
+</body>               
+</text>
+</TEI>

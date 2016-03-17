@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.tullidge.1889">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Tullidge's Histories, Volume II</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Edward</forename> <forename type="middle">W.</forename> <surname>Tullidge</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.tullidge.1889</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Tullidge's Histories, vol. II</title>
+                    <author><forename>Edward</forename> <forename type="middle">W.</forename> <surname>Tullidge</surname></author>
+                    <publisher>Juvenile Instructor's Office</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>72-73, 160</extent>
+                    <date when="1889">1889</date>
+                    <note type="source">Edward W. Tullidge. <hi rend="italic">Tullidge's Histories, Vol. II.</hi> Salt Lake City, UT: Juvenile Instructor's Office, 1889. 72-73, 160.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-06-27"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+<div1>
+
+<pb n="72" xml:id="mmm.uh.tullidge.1889.072"/>
+
+<p>December 8th I was elected clerk of the Representatives, Territorial Legislature which convened in <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> that day. A resolution having passed, changing its sessions to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, the Legislature adjourned to the latter city, arriving there on the 14th. After its adjournment I started on my return
+
+<pb n="73" xml:id="mmm.uh.tullidge.1889.073"/>
+
+to <placeName type="settlement" key="Parowan, UT">Parowan</placeName> on January, 19th 1857 the snow being about two feet deep, and got home on the 28th. April the 6th I was elected alderman in <placeName type="settlement" key="Parowan, UT">Parowan city</placeName> by a unanimous vote. June 28th, 1857, I was appointed captain of topographical engineers, Nauvoo Legion. August 2nd receiving news of the approach of the U. S. army, Col. <persName key="Dame, William H.">Dame</persName> reorganized the militia of the Iron Military District, comprising nine companies, appointing me regimental adjutant. From this time we drilled constantly, I being drill-master. <persName key="Smith, George A.">Geo. A. Smith</persName> arrived August the 6th, having been appointed general in command of Southern <placeName type="state" key="Utah Territory">Utah</placeName>. He proceeded on a tour through the settlements, with Col. <persName key="Dame, William H.">Dame</persName> and myself, organizing and inspecting the militia of the district, September 4th four of us went scouting in the mountains, expecting to meet a detachment of U. S. dragoons, and were gone eight days. <seg type="Source" subtype="WordofMouth">On my return I heard that <seg type="Blame" subtype="IndiansIndependently">Indians</seg> had killed <seg type="Massacre" subtype="Casualties">a company of emigrants</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> <seg type="Encounter" subtype="Poison"><seg type="Blame" subtype="EmigrantBehavior">in revenge for the death of six braves poisoned by the emigrants</seg> at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName> some time previously</seg>.</seg> Another company following the first applied to Col. <persName key="Dame, William H.">Dame</persName> for help, and was furnished by him with five Mormon interpreters, to help them through the Indian country, which they succeeded in doing, but with much difficulty. March 19th, 1858, <persName key="Lyman, Amasa">Amasa Lyman</persName> arrived as military commander of Iron District. Up to this date I had been constantly drilling our troops in all the settlements. April 23rd, 1858, I started exploring in the desert with Col. <persName key="Dame, William H.">Dame</persName> and a party of sixty men. Our object was to find a place of refuge for the people of <placeName type="state" key="Utah Territory">Utah</placeName>, who were to move south, and burn everything behind them. I left my house, expecting never to see it again, but that my family, after burning it, would meet me in the desert; but I did so cheerfully. We were absent on this expedition until the last of July, and explored a large part of what is now Nevada, suffering considerably at times for want of water. At one place we discovered a great cave which we explored for three quarters of a mile without finding its terminus. The Indians said it led into the interior of the earth, and where people lived as we do on the outside; they were afraid to venture in. I was historian of this expedition and made a map of the country. <seg type="Context" subtype="UtahWar">President <persName key="Young, Brigham">Young</persName> having made a treaty of peace with Gen. <persName key="Johnston, Albert Sidney">Johnston</persName> and the U. S. Army, we were released to return to our families.</seg></p>
+
+<p>August 2nd, I was elected county surveyor for <placeName type="county" key="Iron County, UT">Iron County</placeName>. September 18th 1858, I surveyed <placeName type="settlement" key="Summit, UT">Summit</placeName>, on Summit Creek, and about the same time surveyed Fort Johnson. Nov, 5th, I went to Camp Floyd, and sold my pony and saddle for a good wagon and load of yokes, chains, etc., and a fine yoke of oxen. On my return home I nearly perished with cold in sight of my house, and was speechless when rescued. Jan. 14th, 1859, I was again elected alderman for <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and reappointed notary public. May 2nd, 1859, a large force of infantry and cavalry and Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> passed south through <placeName type="settlement" key="Parowan, UT">Parowan</placeName> and proceeded to the Santa Clara, remaining there some time while they endeavored to arrest many prominent Mormons for alleged rebellion against the government. Quite a number, myself included went to the hills until danger was passed. Although President <persName key="Buchanan, James">Buchanan</persName> had pardoned us, we could not trust Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, knowing we could not get a fair trial. The soldiers made many threats, said they would make the country a desert, hang the men, take the women, and do as they pleased. But they returned to Camp Floyd very humble and peaceful being hastily summoned back to Camp Floyd by Gen. <persName key="Johnston, Albert Sidney">Johnston</persName>.</p>
+
+</div1>
+<div1>
+
+<pb n="160" xml:id="mmm.uh.tullidge.1889.160"/>
+
+<p>While at Camp Floyd the company to which Mr. <persName key="Cardon, Thomas B.">Cardon</persName> belonged was detailed to go south to meet the United States pay-master, who was <hi rend="italic">en route</hi> under escort from <placeName type="state" key="California">California</placeName> to <placeName type="state" key="Utah">Utah</placeName>. They marched as far as Santa Clara River, where they met the pay officer and escorted him to Camp Floyd. Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> was with the escort going south. He went out to investigate the matters connected with the horrible massacre, which was perpetrated <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> in <seg type="Massacre" subtype="Dates">1857</seg>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

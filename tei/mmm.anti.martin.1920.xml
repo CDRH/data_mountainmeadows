@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.martin.1920">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mystery of Mormonism</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Stuart</forename> <surname>Martin</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.martin.1920</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Mystery of Mormonism</title>
+                    <author><forename>Stuart</forename> <surname>Martin</surname></author>
+                    <publisher>Odhams Press Limited</publisher>
+                    <pubPlace>London, ENG</pubPlace>
+                    <extent>140-154</extent>
+                    <date when="1920">ca. 1920</date>
+                    <note type="source">Stuart Martin. <hi rend="italic">The Mystery of Mormonism.</hi> London, ENG: Odhams Press Limited, ca. 1920. 140-154.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-11-17"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+<pb n="140" xml:id="mmm.anti.martin.1920.160"/>
+
+<head>CHAPTER NINE</head>
+
+<head type="sub">THE MOUNTAIN MEADOWS MASSACRE</head>
+
+<p><hi rend="smallcaps">IN</hi> order to relate the full story of the worst of the crimes charged against the Mormons&#8212;the Mountain Meadows massacre&#8212;it is necessary to stray for a little from the main chronicle. <seg type="Context" subtype="UtahWar">The massacre occurred at the time the "war" was agitating the public mind</seg>, and, though explanations have been made by the Saints with the object of proving the blamelessness of their leaders in the sordid affair, an entirely satisfactory account of this, the blackest page in their history, has never been given.</p>
+
+<p><seg type="Massacre" subtype="Casualties">More than 130 immigrants, men, women, and children</seg>, were foully murdered <seg type="Massacre" subtype="Location">in the ravine known as <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> on the "divide" between the waters which flow to the Salt Lake Valley and those which flow into <choice><sic>Colerado</sic><corr>Colorado</corr></choice></seg>; and, in spite of the fact that many Mormons knew of the shameful crime almost as soon as it occurred, nearly twenty years passed before the ringleader was executed for his part in the affair. Over and over again has the author been told by Mormons that the leaders of the Church knew nothing about the massacre until the searchlight of the courts was trained on the matter, and that then they shared the public horror, and at once "cut off" <persName key="Lee, John D.">the man who was found guilty</persName>. But that plea, as will be seen, is useless. The prominent Mormons could not have been in ignorance of the crime all those years. They <hi rend="italic">must</hi> have known.</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName>, according to sworn testimony, certainly knew of the massacre immediately after it took
+
+<pb n="141" xml:id="mmm.anti.martin.1920.161"/>
+
+place; and it has been alleged that if he did not direct it, at any rate all his energies were not exercised to prevent it. Yet, strange to say, it is hard to put one's finger on the direct origin of the crime. Those writers and other persons who know least of the circumstances have got over the difficulty by stating that the real origin was that <seg type="Blame" subtype="LDS_LDSGreed">the Mormons coveted the goods of the immigrants</seg>; <seg type="Blame" subtype="LDS_LDSZealots">others have suggested their fanatical hatred of Gentiles</seg>; <seg type="Blame" subtype="LDS_LDSRetribution">a few have traced the cause to the desire for revenge</seg>.</p>
+
+<p>It is probable that all three motives played a part. <seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Context" subtype="PrattMurder">A non-Mormon who lived for many years in <placeName type="settlement" key="Salt Lake City">Salt Lake City</placeName>, having arrived there about the time of the <persName key="Lee, John D.">Lee</persName> trial, gave it to the author as his opinion that the massacre was the Mormons' revenge for the killing of Apostle <persName key="Pratt, Parley P.">Parley P. Pratt</persName> by <persName key="McLean, Hector">Hector McLean</persName>. <persName key="Pratt, Parley P.">Pratt</persName> was one of the best known and most enthusiastic of Mormon missionaries of his day. He was adored by his followers, and he had written much on behalf of his creed.</seg></seg></p>
+
+<p><seg type="Context" subtype="PrattMurder">On his return from one of his missionary tours in <placeName type="state" key="Arkansas">Arkansas</placeName>, <persName key="Pratt, Parley P.">Pratt</persName> brought with him one of his converts, <persName key="McLean, Eleanor">Mrs. Hector McLean</persName>, and in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> the two were married. <persName key="McLean, Eleanor">Mrs. McLean</persName> had left her husband for the missionary; and <persName key="Pratt, Parley P.">Pratt</persName> had already five wives when this marriage took place. In the year 1856 <persName key="Pratt, Parley P.">Pratt</persName> and his latest wife went back to <placeName type="state" key="Arkansas">Arkansas</placeName> on another missionary tour, and while on this journey <persName key="McLean, Eleanor">Mrs. McLean</persName> made an attempt to take her children&#8212;who were then with their father, her legal husband&#8212;back to <placeName type="state" key="Utah Territory">Utah</placeName>. This fresh invasion of his home aroused <persName key="McLean, Hector">McLean</persName> more than the loss of his wife did, and he came after <persName key="Pratt, Parley P.">Pratt</persName>, thirsting for revenge. An opportunity presented itself in due time. A charge of abducting <persName key="McLean, Hector">McLean</persName>'s children was brought against <persName key="Pratt, Parley P.">Pratt</persName> at Fort Smith, <placeName type="state" key="Arkansas">Arkansas</placeName>; but to save her new husband from the law <persName key="McLean, Eleanor">Mrs. McLean</persName> took all the blame, and <persName key="Pratt, Parley P.">Pratt</persName> was released. He fled, pursued by <persName key="McLean, Hector">Hector McLean</persName>.</seg></p>
+
+<p><seg type="Context" subtype="PrattMurder"><persName key="McLean, Eleanor">Mrs. McLean</persName> (or, as she may be called, Mrs. Pratt)
+
+<pb n="142" xml:id="mmm.anti.martin.1920.162"/>
+
+afterwards gave an account of the incident, and told how the people of Fort Smith regarded the chase as good sport, and cheered her ex-husband on the way. <persName key="McLean, Hector">McLean</persName> overtook <persName key="Pratt, Parley P.">Pratt</persName> on the plains. Riding up behind him, he struck the Mormon down with his bowie-knife, and shot him as he lay on the ground. <persName key="McLean, Hector">McLean</persName> was not arrested for this, his plea being the "unwritten law."</seg></p>
+
+<p><seg type="Context" subtype="PrattMurder">There is no direct evidence to show that the murder of <persName key="Pratt, Parley">Parley Pratt</persName> had any connection with the massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, and in dealing with this dark tragedy it is specially necessary to sift all evidence carefully.</seg> <seg type="Blame" subtype="LDS_LDS">The account given in these pages is culled from sources most likely to be reliable: the confession of <persName key="Lee, John D.">John D. Lee</persName>, the Mormon Bishop who led the murderers, the main witnesses at the trial of <persName key="Lee, John D.">Lee</persName>, and the confessions of the militia who acted under <persName key="Lee, John D.">Lee</persName>'s directions.</seg> A considerable amount of "evidence," more livid than accurate, has been advanced, and has found acceptance in certain quarters in regard to the massacre; but it will be seen that the facts are sufficiently terrible in themselves, and require no "writing up" to cause the reader to experience a thrill of horror.</p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">There were <seg type="Massacre" subtype="Casualties">130 persons</seg> in the "train" of immigrants <seg type="Emigrants" subtype="Route">bound for <placeName type="state" key="California">California</placeName></seg>; many were related, and several were comparatively wealthy. Among them were a number of young women, a German doctor, and some young men from the town of Vermont; while there were several children under the care of their parents. <seg type="Massacre" subtype="Spoils">They had 40 waggons, about 200 horses and cattle, some riding horses, and their goods were considered to be of more than ordinary value.</seg></seg> <seg type="Context" subtype="UtahWar">The Mormon "war" had made the Latter-day Saints suspicious of newcomers</seg>; but this company did not show any inclination to loiter in <placeName type="state" key="Utah">the Territory</placeName>, and owing to the frigid, not to say hostile, reception with which they were met in various towns, <seg type="Emigrants" subtype="Route">they left the beaten track and began a detour over the plains.</seg> At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> they saw signs of trouble ahead, judging from the attitude of the citizens; but
+
+<pb n="143" xml:id="mmm.anti.martin.1920.163"/>
+
+they kept going till <seg type="Massacre" subtype="Location">they reached the ravine known as <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. Here they camped in order to overhaul their vehicles and rest their horses before starting the long desert journey that lay ahead. And here the bloody tragedy took place.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName>, Bishop of the Mormon Church and agent for the Indians in that part of the country, called a council of his fellow Mormons, and informed them that he had received a revelation to "attack the cursed Gentiles, and let the arrows of the Almighty drink their blood." <seg type="Context" subtype="LDSPersecution">The Mormons at this meeting were reminded that the Gentiles in this "train" came from <seg type="Emigrants" subtype="StateAffiliationMissouri">Missouri</seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansas</seg>, in both of which Territories the Saints had been persecuted and derided.</seg> <seg type="Blame" subtype="LDS_LDSRetribution">It was pointed out that the first prophet of the Church, <persName key="Smith, Joseph">Joseph Smith</persName>, and his brother <persName key="Smith, Hyrum">Hyrum</persName> had been murdered in <placeName type="state" key="Missouri">Missouri</placeName>, and past events were recalled for the purpose of showing the Mormons their present "duty."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Whatever may be said as to the ignorance of the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> leaders in regard to those murmurings, it is certain that a section of the Mormons were determined to vent their smouldering wrath on the immigrants. <seg type="Encounter" subtype="TradeLDS"><persName key="Smith, George A.">George A. Smith</persName>, First Councillor to <persName key="Young, Brigham">Brigham Young</persName>, went ahead of the "train," advising the country people to refuse to sell or give them anything.</seg> <persName key="Young, Brigham">Brigham</persName> may not have known about the deeper plot at this juncture, but it is very singular that he should not have been aware of the call soon to be made for the militia to mobilise. The men who issued that call were Bishops <persName key="Dame, William H.">W. D. Dame</persName>, <persName key="Lee, John D.">John D. Lee</persName> (the former being colonel of the force, and the latter major), and two captains, <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John M.">Higby</persName>. Two members of the force thus called up for the work on hand afterwards stated that they kept awake all night praying and asking for forgiveness if they were about to do wrong.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansLDSInfluence">But during this interval the Ute Indians, who were acting with the Mormons, unable to restrain their savage nature, began the attack which had been designed.
+
+<pb n="144" xml:id="mmm.anti.martin.1920.164"/>
+
+In the early morning they crept close to the camp of the immigrants, which had been pitched in a hollow, and, taking careful aim as the party were at breakfast, fired, <seg type="Massacre" subtype="Casualties">killing and wounding about a dozen</seg>. Those shots began the brutal murders.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Though taken by surprise, the immigrants hastily prepared to sell their lives dearly. They quickly corraled their horses, drew their waggons together, sinking the wheels to the axles in the ground, and then they returned the fire of the Indians. If the attackers expected an easy victory, they were disappointed, for the immigrants knew how to fight, and they wasted little powder. In that little camp, huddled together in what was at best an exposed position, they kept the enemy at bay for nearly a week. Had they known the district better, they would have suspected that the Ute Indians in that part of the country were not so daring or so numerous as to attempt the massacre of a large "train" by them-selves; but the immigrants did not dream that white men were capable of this atrocity.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Mrs. <persName key="Leavitt, Sarah Priscilla ">Hamlin</persName>, whose <persName key="Hamblin, Jacob">husband</persName> had a ranch near by, has placed it on record that parties of Mormons were, during this time, constantly coming and going to and from the ranch, and were actually amusing themselves at games, though the shots were plainly heard.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">At length the immigrants, who were being worn out by constant watching and fighting, were on the border of despair, when the firing ceased.</seg> <seg type="Massacre" subtype="Surrender">Help, they now thought, was surely at hand. As they looked through their loopholes they saw a waggon filled with white men enter the valley. The new comers raised a white flag, and the <seg type="Emigrants" subtype="StateAffiliationMissouri">Missouri</seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansas</seg> men and women raised a shout of joy as their "deliverers" approached. They held up a little girl dressed in white as a reply to the flag, and their leading men stepped out into the open. The men in the approaching waggon were Bishop <persName key="Lee, John D.">Lee</persName> and his party. A short council was held, and on <persName key="Lee, John D.">Lee</persName>'s advice the immigrants agreed to surrender and
+
+<pb n="145" xml:id="mmm.anti.martin.1920.165"/>
+
+give up their arms, the Mormons to take them under their care until the "war" was ended. Relying on the word of the Mormon Bishop and his party, the immigrants hurriedly packed their goods and prepared to return with them.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">In the company were <seg type="Massacre" subtype="Casualties">60 men, 40 women, and 48 young people</seg>; two waggons containing the wounded led the procession, then came the women and children, the fighting men bringing up the rear. On either side of the men marched Mormons, and mounted Mormons outflanked the whole cavalcade.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">They reached a part of the trail where the road dipped. The waggons passed over. The women and children were crossing, when a Mormon, standing on a mound above, waved his hand as a signal. As he did so a Mormon captain shouted, "Halt! Fire!"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">At once the Mormons turned on the helpless immigrants and fired point-blank. The man who gave this order to fire was <persName key="Haight, Isaac C.">Haight</persName>. <seg type="Blame" subtype="IndiansLDSInfluence">The women and children turned and ran, screaming, back to the men who had fallen; and as the frantic creatures came towards them the Mormons and a band of Ute Indians, who had been in ambush, rushed upon them with guns, tomahawks, and knives.</seg> It was commonly stated that not a few of the "Indians" were Mormons disguised to appear as Redskins. The scene that ensued for the next half-hour beggars description. <seg type="Massacre" subtype="Casualties">Women and children were felled, brained, or shot in-discriminately.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">A son of Bishop <persName key="Lee, John D.">Lee</persName>, who was one of the murderers, came face to face with a terrified girl, who threw herself at his feet and pleaded for life. As the son hesitated, Bishop <persName key="Lee, John D.">Lee</persName> came up and shot her dead. Two other girls escaped, and raced down the side of the dip and hid in a clump of bushes. They were seen by an Indian boy, named <persName key="Hamblin, Albert">Albert</persName>, who, under threats, was forced to point them out to <persName key="Lee, John D.">Lee</persName> and another Mormon, named <persName key="Stewart">Stewart</persName>. The girls were dragged from their refuge.
+
+<pb n="146" xml:id="mmm.anti.martin.1920.166"/>
+
+Trembling with panic, they passionately begged for mercy, promising to be the Mormons' slaves if their lives were spared. One of the poor, demented creatures clung to <persName key="Lee, John D.">Lee</persName>'s knees in agony as she pleaded for her life. <persName key="Lee, John D.">Lee</persName> jerked her from him, and as she fell he seized her and cut her throat. The other girl fled in terror, but she had not gone far before she was overtaken and her skull crushed by a blow.</seg></seg></p>
+
+<p>That those two murders took place as described is proved by the testimony which later became available. <persName key="Hamblin, Jacob">Hamlin</persName>, the ranch-owner, was in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> at the time; but when he returned to his home, ten days later, <persName key="Hamblin, Albert">the Indian lad</persName> who had seen the crimes told him, giving information as to the girls' hiding-place, and pointing the bodies out to him. <seg type="Massacre" subtype="Aftermath">The parties who had buried the others had missed those poor victims; and <persName key="Hamblin, Jacob">Hamlin</persName>, in his statement, remarks that the wild beasts and birds of the hills had not touched them, and that neither body showed sign of decay, the air at that altitude being so pure as to act as a preservative.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Of the whole band of immigrants who entered <placeName type="state" key="Utah Territory">Utah</placeName> so full of hope and vigour, only one man escaped, and he must have lost his way and died in the mountains, for he was never seen or heard of afterwards.</seg> Nothing was lacking to complete that day's horror and crime. It was one of the awful occasions in which men become more savage than animals and more frightful than devils.</p>
+
+<p><seg type="Massacre" subtype="Survivors">Seventeen children were saved alive. They were taken to <persName key="Hamblin, Jacob">Hamlin</persName>'s house, and afterwards adopted by Mormons; but a few years later they were returned to their relatives in various parts of the United States. Not until eighteen months after the massacre were the last traces of the crime removed by order of the authorities.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">And now comes the sordid sequel to the affair. The property of the murdered immigrants was divided, the Utes being presented with the ammunition and the
+
+<pb n="147" xml:id="mmm.anti.martin.1920.167"/>
+
+flour. In <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> an auction of most of the other effects was held, and was named by those who attended it "An auction of property taken at the seige of Sebastopol," and there is legal proof that the very clothing taken from the dead bodies as they lay on the ground was part of the lots thus sold. Much of the stock was traded in other ways.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Mormons affect to regard these facts with scandalised horror that their Church should be charged with such a crime; but there is no denying the facts. <seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="LDS_LDSGreed"><persName key="Hooper, William H.">William H. Hooper</persName>, of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, exchanged a large quantity of boots and shoes for forty head of cattle, and Bishop Windsor, of <placeName type="state" key="Arizona">Arizona</placeName>, for years prided himself in the ownership of cattle descended from the immigrants' stock; </seg></seg>yet <seg type="Blame" subtype="IndiansIndependently">many years later this merchant, <persName key="Hooper, William H.">Hooper</persName>, actually swore before Congress that the Mormons had nothing to do with the massacre, and that the Indians were to blame.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName>, the most prominent villain in the affair, remained a Bishop in the Mormon Church for thirteen years after the murders. So did "Colonel" <persName key="Dame, William H.">Dame</persName>, who commanded the militia. So did "Captain" <persName key="Haight, Isaac C.">Haight</persName>. Not the slightest attempt at inquiry was made into the crime until outside opinion and public agitation compelled it. Is it logical to suppose&#8212;is it possible&#8212;that <persName key="Young, Brigham">Brigham Young</persName> and his "staff" did not know of this mountain massacre all those years? Is it possible that such a frightful crime, even if committed by the Indians, could have been committed without the Mormon leaders knowing of it? As administrators of Indian affairs, was it not their duty to investigate at once? Such a crime could not be hid from them, even in that far west region. No; all the evidence, all the facts of that dark day point to a severe condemnation of the Mormon authorities, even if they had been blameless of participation in the crime.</seg></p>
+
+<p>The circumstances in which the world was first informed of the massacre are suspicious in themselves.
+
+<pb n="148" xml:id="mmm.anti.martin.1920.168"/>
+
+An account of the affair, brief and with many inaccuracies, appeared in the columns of a Californian newspaper. It was communicated to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, where the Mormon organ boldly labelled the whole story a fabrication. But the story was repeated, and the truth insisted upon. It was reported that men who had left the Church, and had a knowledge of the crime, were able to add details. Then the Mormon newspaper admitted that a massacre had taken place.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">Once that had been established, something was gained; but the Mormons insisted that the Indians were responsible for the outrage.</seg> Two years later&#8212;in 1859 &#8212;Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> began an investigation; but witnesses were hard to find. Many came to him by night in secret to give evidence, afraid lest their fellows should see them. The following year General <persName key="Carleton, James Henry">W. H. Carleton</persName> began another and more thorough investigation. <seg type="Massacre" subtype="Aftermath">The last traces of the victims were buried</seg>; and the following Government report of the massacre, taken from Senate Document, Volume Xl., No. 42, page 15, disposes of the Mormon protests of innocence:</seg></p>
+
+<floatingText>
+<body>
+
+<opener><dateline>Fort Bridger, July 6th, 1859.</dateline></opener>
+
+<p><seg type="Massacre" subtype="Aftermath">At <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <placeName type="state" key="Utah Territory">Utah</placeName>, I found human skulls, bones, and hair scattered around, and scraps of clothing of men, women, and children. I saw one girl's dress, apparently that of a child of ten or twelve years of age. These were the remains of a party . . . <seg type="Massacre" subtype="Casualties">about one hundred and fifty</seg>, who were <seg type="Emigrants" subtype="Route">moving their effects <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> to <placeName type="state" key="California">California</placeName></seg>.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">These immigrants were here met by the Mormons (assisted by such wretched Indians of the neighbourhood as they could force and persuade to join them) and massacred, <seg type="Massacre" subtype="Survivors">with the exception of such infant children that the Mormons thought too young to remember or tell of the affair</seg>. The Mormons had their faces painted so as to disguise themselves as Indians.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The Mormons were led on by <persName key="Lee, John D.">John D. Lee</persName>, then a high dignitary in the self-styled Church of Jesus Christ of Latter-day Saints, and <persName key="Haight, Isaac">Isaac Haight</persName>, now a dignitary in the same Church.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">This affair began as a surprise. <seg type="Massacre" subtype="Location">The immigrants were
+
+<pb n="149" xml:id="mmm.anti.martin.1920.169"/>
+
+encamped near a spring from which there is a ravine. <seg type="Blame" subtype="LDS_LDS">Along this ravine <seg type="Blame" subtype="IndiansLDSInfluence">the Mormons and the Indians</seg> crept to the spring during the night.</seg> When the immigrants rose in the morning, they were fired upon, and <seg type="Massacre" subtype="Casualties">some twelve or fifteen of them killed</seg>. The immigrants seized their arms, and defended themselves so bravely, that, after four days, <seg type="Massacre" subtype="IndiansLDSInfluence">the Mormons and Indians</seg> had not succeeded in exterminating them. This horrid affair was finished by an act of treachery. <seg type="Massacre" subtype="Surrender"><persName key="Lee, John D.">John D. Lee</persName>, having removed the paint from his face, came to the immigrants and told them that if they would surrender themselves and give their property to the Indians, that the Mormons would conduct them safely back to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. The immigrants then surrendered, with their wives and their children. They were taken about a mile and a half from the spring, where <seg type="Massacre" subtype="Casualties">they, their wives, and their children</seg> (<seg type="Massacre" subtype="Survivors">with the exception of some infants</seg>) were ruthlessly killed.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The infants were taken to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, where they were either sold or given away to such of the Mormons as desired them. It is a notorious fact that these infants never have been with the Indians.</seg> <seg type="Massacre" subtype="Spoils">The property of the immigrants was taken to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, where it was put up at public auction.</seg></p>
+
+<p><seg type="Massacre" subtype="Dates">This affair occurred in the month of September, 1857.</seg></p>
+
+<closer>
+<salute>I am, sir, very respectfully,</salute> 
+
+<salute>Your obedient servant,</salute>
+
+<signed>(Signed) <persName key="Campbell, Reuben P.">R. P. C<hi rend="smallcaps">AMPBELL</hi></persName>,</signed>
+
+<signed>Captain Second Dragoons,</signed> 
+
+<signed>Commanding Santa Clara Expedition.</signed>
+
+</closer>
+</body>
+</floatingText>
+    
+<p><seg type="Blame" subtype="LDS_LDS">But, in spite of this official report, it was not until twelve years later that the Mormons admitted the guilt of <persName key="Lee, John D.">Lee</persName>. </seg>They then expelled him from the Church&#8212;nominally, and only nominally, for he continued to be the Church agent among the Indians. For this work he was peculiarly fitted. He could speak several Indian languages and dialects; he was a woodsman by nature, knowing all there was to be known of wild life and hunter's craft in the mountains.</p>
+
+<p>"Cut off" from the Church, he retreated into Pahreah Canon, on the <geogName type="waterway" key="Colorado River">Colorado</geogName>, and there, far from human fellowship, he lived an exile's life. For some years he dropped, or seemed to drop, entirely out of the horizon
+
+<pb n="150" xml:id="mmm.anti.martin.1920.170"/>
+
+of the people of <placeName type="state" key="Utah">Utah</placeName>. Rumours were set about at various times that he had been killed, that he had been adopted by an Indian tribe, and was living as one of themselves, or that he had met death in various ways; but all the time Lee was considerably alive. Mr. <persName key="Beadle, J. H.">J. H. Beadle</persName>, for some time Clerk to the Supreme Court of <placeName type="state" key="Utah Territory">Utah</placeName>, relates in his book <hi rend="italic">Polygamy</hi> how, when on a journey on horseback through <placeName type="state" key="Arizona">Arizona</placeName> with Navajo Indians in July, 1872, he met <persName key="Lee, John D.">Lee</persName> at the latter's rude bough cabin, in which one of <persName key="Lee, John D.">Lee</persName>'s wives also lived with her son and daughter. He stayed with <persName key="Lee, John D.">Lee</persName> for three days, sharing his straw bed at night and his companionship by day, and had some conversation on the subject of the massacre. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Context" subtype="LDSPersecution">During those conversations <persName key="Lee, John D.">Lee</persName> alleged that the immigrants had been guilty of bad conduct and treatment towards the inhabitants of <placeName type="state" key="Utah Territory">Utah</placeName> in their march</seg>; had openly sworn that they had helped to kill <persName key="Smith, Joseph">Joseph Smith</persName></seg>; <seg type="Encounter" subtype="Poison">and had poisoned a spring at Corn Creek, and also the flesh of an ox that had died there, and gave it to the Indians, so that several of them died.</seg> <persName key="Lee, John D.">Lee</persName> also stated on this occasion that an express messenger had been sent to <persName key="Young, Brigham">Brigham Young</persName> after the attack on the immigrants had begun, asking for directions, and the Mormon President had sent back word to "call off the Indians, and for the Mormons not to molest them." But the massacre had taken place before the messenger returned.</p>
+
+<p>Now <persName key="Lee, John D.">Lee</persName>'s story to his visitor is very different to his own confession, written on the eve of his execution. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="MissouriWildCats">His accusations against the immigrants concerning their "bad conduct" were proved to have no basis when it was discovered that a party of individuals known as the "Missouri Wildcats" had given cause for the complaints.</seg> The charge of misconduct was never upheld against the murdered people.</seg> <persName key="Lee, John D.">Lee</persName>'s confession sheds a different light on the part played by his leaders in the Church, and it seems to be true that when the law's hand was closing over him his leaders
+
+<pb n="151" xml:id="mmm.anti.martin.1920.171"/>
+
+deserted him, as he complained bitterly before he was sentenced.</p>
+
+<p>In 1874 his outlaw career came to an end. The authorities laid a trap for him, and he was captured while visiting his four wives at <placeName type="settlement" key="Panguitch, UT">Panguitch</placeName>, on the Sevier River, a writ for his arrest having been issued by the <placeName type="settlement" key="Provo, UT">Provo</placeName> court. <persName key="Lee, John D.">Lee</persName>'s subsequent trial, which aroused great interest throughout the country, was opened at the town of <placeName type="settlement" key="Beaver, UT">Beaver</placeName> in the following year; and it is stated to have been one of the most irregular trials ever held. The difficulty of getting witnesses was very great. Person; who could have given valuable evidence would not come forward, and many left the district, fearing they would be compelled, and thus be brought into conflict with the Mormons. All the Mormon jurors called swore that they had perfectly blank minds on the case and <seg type="Reaction" subtype="Commemoration">one of those gentlemen stated that, though he had seen the monument in <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> (which had been erected to mark the place of the crime), he did not know what it had been erected for</seg>, and he had never heard of a massacre!</p>
+
+<p>At length a jury was obtained, and the case opened. <seg type="Blame" subtype="LDS_LDS">The main witness was <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, a Dutchman, who had emigrated to <placeName type="state" key="Utah Territory">Utah</placeName> with Mormon converts. <persName key="Klingensmith, Philip">Klingensmith</persName> had sworn a complete confession of the murders before a <placeName type="state" key="Nevada">Nevada</placeName> Judge, and this had been one of the reasons that the civil authorities took action.</seg> <seg type="Encounter" subtype="Poison"><seg type="Blame" subtype="EmigrantBehavior">The defence of the accused was that the immigrants had poisoned a spring near Corn Creek, and had given the Indians poisoned food</seg>, <seg type="Blame" subtype="IndiansIndependently">for which treachery the Indians slew them.</seg></seg> But though those charges were not upheld by the evidence, the jury&#8212;who were all "open-minded"&#8212;were unable to come to a conclusion, and disagreed! There were three non-Mormons on that jury.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The second trial, before another jury, took place the next year, and this time <persName key="Lee, John D.">Lee</persName> was convicted. Witnesses
+
+<pb n="152" xml:id="mmm.anti.martin.1920.172"/>
+
+swore that he had killed several of the immigrants, and as they were giving their testimony <persName key="Lee, John D.">Lee</persName> broke down. When taken to his cell he paced the floor for a long time, cursing the Mormon leaders, who, he said, had deserted him. He had seen that he was to be left to fight his battle alone, without help from the Church, and that meant death. The Church never came to his aid, and, though an appeal against his conviction was lodged, the judgment was upheld, and <persName key="Lee, John D.">Lee</persName> was sentenced to death on March 23rd, 1877.</seg></p>
+
+<p>Before his execution he wrote two confessions, one longer than the other, to be published after his death, the proceeds of the sale to go towards paying his lawyer's fees. In the shorter confession, published at once, he states:</p>
+
+<floatingText>
+<body>
+
+<p><seg type="Blame" subtype="LDS_LDS">Those with me at the time (of the massacre) were acting under orders from the Church of Jesus Christ of Latter-day Saints. The horrid deeds then committed were done as a duty which we believed we owed to God and our Church. We were all sworn to secrecy before and after the massacre. The penalty for giving information concerning it was death. . . .</seg></p>
+
+<p><seg type="Massacre" subtype="Dates"><seg type="Massacre" subtype="Dates">In the month of September, 1857</seg></seg>, <seg type="Emigrants" subtype="StateAffiliationArkansas">the company of emigrants known as the "Arkansas Company"</seg> arrived at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, <placeName type="county" key="Iron County, UT">Iron County</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg>. At <placeName type="settlement" key="Parowan, UT">Parowan</placeName> young <persName key="Aden, William A.">Aden</persName>, one of the company, saw and recognised one <persName key="Laney, William">William Laney</persName>, a Mormon resident of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>. <persName key="Aden, William A.">Aden</persName> and his father had rescued <persName key="Laney, William">Laney</persName> from an anti-Mormon mob in <placeName type="state" key="Tennessee">Tennessee</placeName> several years before, and saved his life. He (<persName key="Laney, William">Laney</persName>), at the time he was attacked by the mob, was a Mormon missionary in <placeName type="state" key="Tennessee">Tennessee</placeName>. <persName key="Laney, William">Laney</persName> was glad to see his friend and benefactor, and invited him to his house, and gave him some garden sauce to take back to the camp with him.</p>
+
+<p>The same evening it was reported to Bishop (Colonel) <persName key="Dame, William H.">Dame</persName> that <persName key="Laney, William">Laney</persName> had given potatoes and onions to the man <persName key="Aden, William A.">Aden</persName>, one of the emigrants. <seg type="Encounter" subtype="TradeLDS">(As already mentioned the Mormons had been ordered by their leaders to refuse the emigrants any supplies.)</seg></p>
+
+<p>When the report was made to Bishop <persName key="Dame, William H.">Dame</persName> he raised his hand and crooked his little finger in a significant manner to one <persName key="Carter, Barney">Barney Carter</persName>, his brother-in-law, and one of the
+
+<pb n="153" xml:id="mmm.anti.martin.1920.173"/>
+
+"Angels of Death." <persName key="Carter, Barney">Carter</persName>, without another word, walked out, went to <persName key="Laney, William">Laney</persName>'s house with a long picket in his hand, called <persName key="Laney, William">Laney</persName> out, and struck him a heavy blow on the head, fracturing his skull, and left him on the grass for dead. <persName key="Webb, C. Y.">C. Y. Webb</persName> and <persName key="Newman, Isaac">Isaac Newman</persName>, president of the High Council, both told me that they saw <persName key="Dame, William H.">Dame</persName>'s manoeuvres. . . .</p>
+
+</body>
+</floatingText>
+
+<p>Some two weeks after the deed was done <persName key="Haight, Isaac C.">Isaac C. Haight</persName> sent me to report to Governor <persName key="Young, Brigham">Young</persName> in person. I asked him why he did not send a written report. He replied that I could tell him more satisfactorily than he could write, and if I would stand up and shoulder as much of the responsibility as I could conveniently, that it would be a feather in my cap some day, and that I would get a celestial salvation, but the man that shrunk from it now would go to hell.</p>
+
+<p>I went and did as I was commanded. <persName key="Young, Brigham">Brigham</persName> asked me if <persName key="Haight, Isaac C.">Isaac C. Haight</persName> had written a letter to him. I replied, "Not by me; but he wished me to report in person." "All right," said <persName key="Young, Brigham">Brigham</persName>. "Were you an eye-witness?" "To most of it," was my reply. Then I proceeded and gave him a full history of all. I told him of the killing of the women and children, and the betraying of the company. That, I told him, I was opposed to; but I did not say to him to what extent I was opposed to it, only that I was opposed to shedding innocent blood. "Why," said he, "you differ from <persName key="Haight, Isaac C.">Isaac (Haight)</persName>, for he said there was not a drop of innocent blood in the whole company."</p>
+
+<p>When I was through he said it was awful; that he cared nothing about the men, but the women and children was what troubled him. I said, "President <persName key="Young, Brigham">Young</persName>, you should either release men from their obligation, or sustain them when they do what they have entered into the most sacred obligations to do."</p>
+
+<p>He replied: "I will think over the matter and make it a subject of prayer, and you may come back in the morning and see me."</p>
+
+<p>I did so. He said: "<persName key="Lee, John D.">John</persName>, I feel first-rate. I asked the Lord, if it was all right for the deed to be done, to take away the vision of the deed from my mind, and the Lord did so, and I feel first-rate. It is all right. The only fear I have is of traitors."</p>
+
+<p>He told me never to lisp it to any mortal being, not even to Brother <persName key="Kimball, Heber C.">Heber</persName>. President <persName key="Young, Brigham">Young</persName> has always treated me with the friendship of a father since, and has sealed several women to me since, and has made my house his
+
+<pb n="154" xml:id="mmm.anti.martin.1920.174"/>
+
+home when in that part of the Territory&#8212;until danger threatened him.</p>
+
+<p>Such is the confession of Bishop <persName key="Lee, John D.">John D. Lee</persName>, who shortly afterwards paid the full penalty for his share in the crime. <persName key="Lee, John D.">Lee</persName>, by the law of the Territory, had liberty to choose the manner of his death. He asked to be shot.</p>
+
+<p>The execution ground was chosen by the United States Marshal, <persName key="Nelson, William">William Nelson</persName>, and he placed it in <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, the scene of the massacre. A Methodist minister attended <persName key="Lee, John D.">Lee</persName> to the last, for the Mormon Church had thrown him over, and refused him last consolations. To the minister who attended him <persName key="Lee, John D.">Lee</persName> confessed that he had killed five of the immigrants.</p>
+
+<p>He was cheerful throughout the whole scene, and watched the preparations calmly. He was seated on his own coffin, and a photograph was taken. He asked that copies of the photograph might be sent to his three wives, <persName key="Williams, Sarah Caroline">Sarah</persName>, <persName key="Batchelor, Emma Louise">Emma</persName>, and <persName key="Woolsey, Rachel Andora">Rachel</persName>, who had remained loyal to him; and, after making the small company a brief address, he signified himself ready for execution.</p>
+
+<p>Five soldiers took their stand in front of him. His eyes were bandaged, and the United States Marshal gave the order:</p>
+
+<p>"Ready! Fire!"</p>
+
+<p>The five balls passed through <persName key="Lee, John D.">Lee</persName>'s breast close to the heart, and he fell back on his coffin, dead.</p>
+
+<p>This was the felon's end of <persName key="Lee, John D.">John Doyle Lee</persName> on March 23rd, 1877. He was born in 1812 of Irish parents who had emigrated, and had been reared as a Catholic, but turned Mormon in 1836. Few mourned his death.</p>
+
+<p>With his execution was closed a dark chapter which will for ever stain the name of Mormonism.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

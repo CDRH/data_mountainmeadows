@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.lds.ivins.1923">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Traveling Over Forgotten Trails"</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Anthony</forename> <forename type="middle">W.</forename><surname>Ivins</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.lds.ivins.1923</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2009</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">"Traveling Over Forgotten Trails"</title>
+                    <author><forename>Anthony</forename> <forename type="middle">W.</forename> <surname>Ivins</surname></author>
+                    <publisher>Improvement Era 26.9</publisher>
+                    <pubPlace></pubPlace>
+                    <extent>771-784</extent>
+                    <date when="1923">July 1923</date>
+                    <note type="source">Anthony W. Ivins. "Traveling Over Forgotten Trails." <hi rend="italic">Improvement Era</hi> 26.9 (1923): 771-775.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>lds_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<pb n="771" xml:id="mmm.lds.ivins.1923.771"/>
+
+<floatingText>
+    <body>
+        
+<head>The Old Spanish Trail</head>
+
+<p>One of the most interesting, and in its time most important, of the old trails, now obliterated, and well nigh forgotten, was the southern route which connected the Pacific coast with the Missouri river. The tragedy and romance of this old trail will never be told, nor written; it cannot be, because the men who made unrecorded history along its route have long since gone to travel the unknown paths of another world, leaving no written records behind them.</p>
+
+<p>When the movement from the east to the west, which resulted in the final conquest and settlement of the Pacific Slope by Anglo Saxon people began, after reaching the Rocky Mountains, there were three routes by which the early pioneers reached their destination. One of these trails, for in the beginning they were nothing more, passed through <placeName type="state" key="Idaho">Idaho</placeName> by way of Fort Hall and <placeName type="settlement" key="Boise, ID">Boise</placeName> to the Columbia river and down that stream to the Pacific. It was over this route that <persName key="Wythe, Nathaniel">Nathaniel Wythe</persName>, who was the first white man to make the journey from the Atlantic to the Pacific coast, of whom, we have any record, traveled in 1832-33, and over it <persName key="Spalding, Henry H.">Henry H. Spalding</persName> and <persName key="Whitman, Marcus">Marcus Whitman</persName>, with their wives, passed in 1836, the women being the first among the white people to cross the American continent. This was known as the Northern Route.</p>
+
+<p>The Central Route passed through what is now the northern part of <placeName type="state" key="Utah Territory">Utah</placeName>, down the Humboldt river, in <placeName type="state" key="Nevada">Nevada</placeName>, and across the Sierra Nevada mountains to <placeName type="state" key="California">California</placeName>. It was on this trail that the ill-fated Donner party were snow bound, and perished, near Donner Lake, in the winter of 1846.</p>
+
+<p>The third route, known to the early scouts and trappers as the Old Spanish Trail, bore south from <placeName type="settlement" key="Salt Lake City, Ut">Salt Lake</placeName>, skirting the west base of the Wasatch mountains, through what is now <placeName type="settlement" key="Salt Lake City, UT">Salt</placeName>
+
+    <pb n="772" xml:id="mmm.lds.ivins.1923.772"/>
+    
+<figure xml:id="mmm.lds.ivins.1923.772.figure">
+
+    <p><hi rend="italic">A DESERT LANDSCAPE</hi></p>
+    
+    <p><hi rend="italic">On this waterless waste myriads of mocking birds build their nests, and rear their young. The century plants and cacti furnishing protection for the nests against the predatory birds and amimals which, like predatory men, prey on the innocent and defenseless.</hi></p>
+    
+    <p><hi rend="italic">THE MONUMENT AT MOUNTAIN MEADOWS</hi></p>
+    
+    <p><hi rend="italic">As it now appears on the spot where the emigrants were camped when attacked by Indians. John D. Lee was executed at this point March 23, 1877.</hi></p>
+    <figDesc></figDesc>
+    </figure>
+
+    <placeName type="settlement" key="Salt Lake City, UT">Lake</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, <placeName type="county" key="Juab County, UT">Juab</placeName>, <placeName type="county" key="Millard County, UT">Millard</placeName>, <placeName type="county" key="Beaver County, UT">Beaver</placeName>, <placeName type="county" key=" Iron County, UT">Iron</placeName> and <placeName type="county" key="Washington County, UT">Washington</placeName> counties. At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> the road forked, one trail bearing south-west, to <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, Cane Springs, the Magotsu and down the Santa Clara to Camp Spring; the other was by way of Ash Creek, Grape Vine Spring, Cottonwood, (later Harrisburg) Washington and St. George, and up the Santa Clara, where it formed a junction with the former at Camp Spring.
+
+From the latter point the road continued south, through what the early trappers called the Beaver Dam mountains, to the Rio Virgen, at Beaver Dams, down the Rio Virgen to the mouth of the Muddy and up that stream to a point near the present Moapa station, on the Salt Lake and Los Angeles Rail-road. From this point it struck across the desert, a distance of sixty-five miles to <placeName type="settlement" key="Las Vegas, NV">Las Vegas</placeName>, (<geogName type="valley" key="Mountain Meadows">The Meadows</geogName>) over a tract of country entirely without water, and with very little grass. From <placeName type="settlement" key="Las Vegas, NV">Las Vegas</placeName> to the Mojave river the country was a desert waste, with only scanty pasturage, and almost without water; thence on, through the Cajon Pass, (Box Canyon Pass) to <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, conditions for travel were more favorable.
+
+   
+<pb n="773" xml:id="mmm.lds.ivins.1923.773"/>
+
+Because of the desert country through which the road passed, the extreme heat and scarcity of water, few people ventured to travel it during the summer months, but when winter came, and other routes were closed because of snow, the Old Spanish Trail was the most popular route to <placeName type="state" key="California">California</placeName>.</p>
+
+<p>Who first traveled over this trail no one knows. Farris, in his History of Arizona, says:</p>
+
+<p>"Captain <persName key="Smith, Jedediah S.">Jedediah S. Smith</persName> was the first white man to enter <placeName type="state" key="Arizona">Arizona</placeName> from the north. In August, 1826, he started from <placeName type="settlement" key="Salt Lake City, Ut">Salt Lake</placeName>, passed south, by Utah Lake and keeping down the west side of the Wasatch and high plateaus, reached the Virgen river, in <placeName type="state" key="Arizona">Arizona</placeName>, near the south-western corner of <placeName type="state" key="Utah Territory">Utah</placeName>. This he called, in honor of the president of the United States, Adams river. Following it southwest, through Pai Ute country, twelve days, he came to its junction with the Colorado River."</p>
+
+<p>Crittenden, in his History of the American Fur Trade of the Far West, says:</p>
+
+<p>"On the 22nd of August, 1826, Smith left the rendezvous, near <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake</placeName>, with a party of fifteen men, for the purpose of exploring the country to the southwest, then wholly unknown to the American traders. His route lay by Utah Lake, thence across the Sevier Valley, to the Virgin river, which he descended to the Colorado river. <persName key="Smith, Jedediah S.">Smith</persName> named this stream Adams river in honor of the President. I am inclined to think that its present name was given for Thomas Virgin, who was with <persName key="Smith, Jedediah S.">Smith</persName> in 1827, and was severely wounded by the Indians in this locality, and afterwards killed in a fight on Umpquah river."</p>
+
+<p>In 1830 <persName key="Wolfskill, William">William Wolfskill</persName> and a party of trappers opened a route to <placeName type="state" key="California">California</placeName>, going North from Santa Fe, to the head waters of the San Juan, thence crossing Green and Grand rivers, the latter in what is now known as Gunnison Valley, thence following the west base of the Wasatch range, and south through <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, across the Beaver Dam Mountains, and down the Rio Virgen to a point near its junction with the Colorado, where they struck across the desert to <placeName type="settlement" key="Las Vegas, NV">Las Vegas</placeName>, and from there bore south to <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>.</p>
+
+<p>After the arrival of the Pioneers in the Salt Lake Valley, in 1847, one of the first problems presented was to provide means by which merchandise might be obtained to supply the actual necessities of the people. They were eleven hundred miles from the Missouri river, the only base of supplies, from the east, and <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName> was eight hundred miles distant. The route to the Missouri was not a difficult one in summer. Grass was abundant, water plentiful, and but for danger from marauding Indians; the journey across the plains was neither difficult nor hazardous.</p>
+
+<p>The California route, on the contrary, was only available during the winter months, and even then the journey could only be made under the most trying circumstances to both men and
+
+<pb n="774" xml:id="mmm.lds.ivins.1923.774"/>
+
+animals. The road passed through a barren desert country, with very scanty pasturage, and little water. There was no station between <placeName type="state" key="Utah Territory">Utah</placeName> and <placeName type="state" key="California">California</placeName>, where supplies could be obtained, or assistance rendered in case of accident or trouble, not a white settler lived between the lines of the two states. It was necessary, before leaving the "Mormon" settlements, in Southern <placeName type="state" key="Utah Territory">Utah</placeName>, to load the wagons with grain, a part of which was cached at different points along the road, to be used on the return trip, and when these caches were discovered and opened by the Indians, as was frequently the case, teams suffered until the settlements were reached.</p>
+
+<p>During the summer months professional freighters, with long trains of mule teams, and sometimes oxen, made the tiresome journey from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to the Missouri river and return, reaching the valley in the fall laden with merchandise.</p>
+
+<p>Oxen were not used on the Old Spanish Trail, but during the winter months, in order that mules might not be idle, many of these freighters turned their faces westward, and made the trip to Southern <placeName type="state" key="California">California</placeName> and return.</p>
+
+<p>Among the most adventurous and successful of these men, with whom the writer was acquainted, who staked so much on the chance of small returns, were the Crismon Brothers, <persName key="George Crismon">George</persName> and <persName key="Crismon, Charley">Charley</persName>, and <persName key="Streeper, Bill">Bill Streeper</persName>, the latter the only one of the old wagon masters, so far as the writer is aware, who is now living.</p>
+
+<p><geogName type="valley" key="Mountain Meadows">The Mountain Meadows</geogName> was the last oasis, on the northern end of the road, and travelers frequently stopped at that point to recuperate their teams before starting across the long desert stretch which intervened between the <placeName type="state" key="Utah Territory">Utah</placeName> and <placeName type="state" key="California">California</placeName> lines. This point is in the northern part of what is now <placeName type="county" key="Washington County, UT">Washington county</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>. It is a small valley in the tops of the mountains, where springs spread over the surface and formed one of those beauty spots, found only in mountain landscapes. Since the days of
+
+<!-- image not relevant to MMM:
+
+<figure xml:id="mmm.lds.ivins.1923.774.figure">
+<p>BILL STREEPER</p>
+<p>An outstanding figure among the professional freighters, who for slight profit, and great sacrifice brought merchandise to Salt Lake Valley, in the days of the Pioneers, and the only known survivor of the men who freighted over the Old Spanish Trail.</p>
+<figDesc></figDesc>
+</figure>
+
+-->
+
+<pb n="775" xml:id="mmm.lds.ivins.1923.775"/>
+
+the Pioneers heavy floods have cut a deep gully through the valley, which has drained the water from the surface, the grass has disappeared, and sage brush taken its place.</p>
+
+<p>The dangers and difficulties of travel over this road were greatly increased because of the character of the Indian tribes through whose country it passed. While not a strong nor warlike people, like Plains Indians, the Pah Utes, who occupied the Santa Clara and Upper Rio Virgen, the Moapas on the Muddy, and Mojaves farther to the south, were expert thieves, and did not hesitate to take life when they felt that it could be done with safety.</p>
+        
+    </body>
+</floatingText>
+            
+<floatingText>
+        <body>
+
+<head>Tragedies of the Trail&#8212;Mountain Meadows</head>
+
+<p>The most shocking tragedy which occurred <seg type="Massacre" subtype="Location">on the Old Trail</seg> was the affair <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. <seg type="Massacre" subtype="Dates">In the early part of September, 1857</seg>, a party of <seg type="Emigrants" subtype="StateAffiliationArkansas">emigrants from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> and <seg type="Emigrants" subtype="StateAffiliationMissouri"><placeName type="state" key="Missouri">Missouri</placeName></seg>, <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg>, had gone into camp<seg type="Massacre" subtype="Location"> at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> with the intention of remaining at that point for a short time, for the purpose of resting and recruiting their teams and loose cattle, before starting across the desert country which intervened between them and their destination. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="IndiansIndependently">As they traveled through the settlements of Southern <placeName type="state" key="Utah Territory">Utah</placeName>, trouble developed between the emigrants and Indians, through whose country they passed, and <seg type="Blame" subtype="LDS_LDS">there was also misunderstanding between them and some of the white settlers.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Battle">While <seg type="Massacre" subtype="Location">in camp <geogName type="valley" key="Mountain Meadows">at Mountain Meadows</geogName></seg>, at break of day, <seg type="Massacre" subtype="Dates">on or about the 7th of September</seg>, the camp was attacked by Indians. <seg type="Massacre" subtype="Casualties">It is said that at the first volley seven men were killed, and sixteen wounded, and that several Indians, among them two chiefs, were killed.</seg> The emigrants were brave men, well armed, and for several days successfully defended themselves. <seg type="Blame" subtype="LDS_LDS">The Indians, in the meantime, sent out runners who succeeded in obtaining reinforcements, including, a number of white men, who participated in the final attack</seg>, <seg type="Massacre" subtype="Casualties">which resulted in the extermination of the entire party</seg>, <seg type="Massacre" subtype="Casualties">with the exception of a number of children, who were spared</seg>.</seg></seg></p>
+
+<p>Similar instances have occurred, during our pioneer movement toward the west, particularly along the route of the "Old Santa Fe Trail," where a number of expeditions which left the Missouri river were entirely lost, their fate never having been determined.</p>
+            
+        </body>
+</floatingText>         
+            
+<!-- The Following Section is not relevant to MMM: 
+
+<p><hi rend="center"><hi rend="italic">Tobin's Point</hi></hi></p>
+
+<p>On the 31st of August, Col. E. J. Steptoe, who had been appointed governor of Utah, arrived at Salt Lake with an escort of about 175 soldiers. Among them there was a dashing young
+
+<pb n="776" xml:id="mmm.lds.ivins.1923.776"/>
+
+sergeant whose name was John Tobin. After remaining at Salt Lake for some time, Tobin started for California, over the southern trail. He had reached the Magotsu, about twenty miles -south from the Mountain Meadows, and camped on that stream, where he was attacked, while asleep, by unknown parties and seriously wounded, but escaped in the darkness, and finally reached California.</p>
+
+<p><hi rend="center"><hi rend="italic">Camp Spring</hi></hi></p>
+
+<p>At Camp Spring, a view of which is here shown, Magets, a noted Indian of the pioneer days, said that while concealed in the rocks shown in the illustration, he saw two miners, who were returning from the gold fields of California, kill and bury a third member of their party, after taking from his person a quantity of gold which he carried. It was later discovered that
+
+<figure xml:id="mmm.lds.ivins.1923.776.figure">
+<p>TOBIN'S POINT ON MAGOTSU</p>
+<p>At this paint Sergeant John Tobin teas attacked by unknown parties and badly wounded, but escaped and reached California. He was Sergeant in Steptoe's command.</p>
+<figDesc></figDesc>
+</figure>
+
+this same Indian had killed a lone prospector at Camp Spring, from whom he took ten twenty dollar gold pieces.</p>
+
+<p><hi rend="center"><hi rend="italic">The Rio Virgen</hi></hi></p>
+
+<p>One of the greatest difficulties which confronted the early freighters, and it was not only a difficulty, but a real danger, was the Rio Virgen. The old road, after leaving the Beaver Dams, followed down the river bottom, and crossed the stream
+
+<pb n="777" xml:id="mmm.lds.ivins.1923.777"/>
+
+as many as thirty-five times before it reached the mouth of the Muddy. The river bed consists of constantly moving quicksands, which continually change the current, so that one can never tell where the treacherous sands may be encountered, dangerous alike to both animals and wagons. The only safety is in moving
+
+<figure xml:id="mmm.lds.ivins.1923.777.figure">
+<p>CAMP SPRING</p>
+<p>It was a popular camping place for travelers over the Old Spanish Trail, and a spot where some of the tragedies of the lonely road were
+enacted.</p>
+<figDesc></figDesc>
+</figure>
+
+as rapidly as possible, until the dangerous places are passed; to stop for only a few moments would often prove serious, if not fatal.</p>
+
+<p>Many loose animals are caught and perish in these quicksands, and on one occasion a wagon loaded with heavy mining machinery, which was being freighted from, the coast to Utah, was caught in the sand, at a point just below the present site of Bunkerville, which, despite the efforts put forth to save the valuable freight, sank until it entirely disappeared.</p>
+
+<p><hi rend="center"><hi rend="italic">Jack Longstreet and Old Man Dry</hi></hi></p>
+
+<p>Soon after the close of the civil war a man came into the Muddy valley, and settled there. He called himself Jack Long-street, and claimed to be a relative of General Longstreet, of the Confederate army. He was a man of prepossessing appearance, with dark hair which fell in curls to his shoulders. Soon after another man, known as Old Man Dry, brought a band of horses into the valley, and declared his intention to
+
+<pb n="778" xml:id="mmm.lds.ivins.1923.778"/>
+
+establish a ranch. Bad blood del eloped between the two men, and one day they met. Just what happened no one knows. Long-street reported that Dry drew his gun and threatened to kill him, and that he fired first with fatal effect. An Indian woman, who claimed to have witnessed the affair declared that Longstreet fired from ambush, and killed Dry. Soon after Longstreet left the valley, and went to the mining camps of California.</p>
+
+<p><hi rend="center">Leonard S. Conger</hi></p>
+
+<p>Leonard S. Conger was the first man to carry the United States mail from Salt Lake to San Bernardino, over the Old Spanish Trail. During the years 1851-52 he rode the difficult and dangerous route, often entirely alone. The writer has often listened with rapt attention while this man related the thrilling experiences which he passed through while riding over the desolate stretches which the road crossed. He knew the water holes and scattering patches of grass, and would often stay over, during the day, in some open space, where he could watch for Indians, while his animals grazed and rested, and when darkness came, press on through the more lonely and dangerous places.</p>
+
+<p>Upon one occasion, after leaving Los Vegas, he was followed by Indians, frequently
+exchanging shots with them, and did not remove the packs from his animals until he reached Gunlock, in Utah, a distance of 150 miles. He related that upon one occasion he met a company of emigrants at the Vegas who had engaged in a fight with Indians, in which a white woman had been killed. She was buried and the train moved on. On his return trip Conger found the remains of the woman, which had been disinterred by the Indians, propped up against a cottonwood tree. He reburied the body, but as he passed the point again, found it in
+
+<figure xml:id="mmm.lds.ivins.1923.778.figure">
+<p>LEONARD S. CONGER</p>
+<p>He carried the United States Mail over the Old Spanish Trail in 1851-2, when danger threatened on every mile of the desert road.</p>
+
+<figDesc></figDesc>
+</figure>
+
+<pb n="779" xml:id="mmm.lds.ivins.1923.779"/>
+
+the same position as on his previous trip. Three times he buried the remains of that unfortunate woman, before they were permitted to rest in peace.</p>
+
+<p>It was on this Old Trail, on the Mojave river, south of the Vegas, that Franklin B. Woolley was killed, in March, 1869, by Mojave Indians; and over the lonesome and dangerous road his younger brother brought the remains to St. George, for interment, an example of devotion and courage rarely equalled. (See Era, May, 1916.)</p>
+
+<p><hi rend="center"><hi rend="italic">Romances of the Old Trail&#8212;The Peg Leg Mine</hi></hi></p>
+
+<p>Many of the trails traveled by the early trappers and prospectors have their lost mines. Somewhere along the trail of the Mormon Battalion, in the extreme eastern part of California, or western Arizona, the Peg Leg mine awaits the fortunate man who may discover and unearth its hidden treasure. Men have perished on the desert as they searched for it, other men have fought and died for possession of the precious water holes, near where it is said to be, but none have seen it since the death of Peg Leg Smith, who came to San Bernardino with a large quantity of gold which he had brought in from the desert, and in a drunken orgy, in celebration of his discovery, died without divulging its location.</p>
+
+<p><hi rend="center"><hi rend="italic">The Lost Cabin Mine</hi></hi></p>
+
+<p>Near the Pioneer Trail, in Wyoming, the Lost Cabin Mine, of fabulous richness, has defied all efforts to relocate since the original discoverers were obliged to abandon it, as they thought, for a brief period only.</p>
+
+<p><hi rend="center"><hi rend="italic">The Spanish Trail Has Fortune For You&#8212;The Lost Lead</hi></hi></p>
+
+<p>When word reached the East that gold had been discovered on the American and Feather rivers, in California, a great rush set in for the new Eldorado. Among the venturesome men, who staked their all on uncertainty, there was lone party which traveled over the Old Spanish Trail, and had among its members a boy of seventeen years, whose name was Jim Houdon. From Cedar City the party traveled, via Iron and Antelope Springs, to Camp Spring, and from that point on to Beaver Dams. Many years after, when he was a man past middle age, Jim Houdon appeared at St. George, in southern Utah, and this is the story which he told:</p>
+
+<p>At some point, after leaving Cedar City, the company after watering their horses at a spring, drove on, and that night made a dry camp. Near the camp ground there was a high hill, and Jim Houdon climbed to the top of it and looked
+
+<pb n="780" xml:id="mmm.lds.ivins.1923.780"/>
+
+off in the direction of the promised land toward which he was journeying. On the top of this hill he observed some black looking boulders and, upon picking one of them up, discovered that it was very heavy. He carried a piece of the rock to camp where it was broken and examined, and putting a piece in his pack carried it to California.</p>
+
+<p>He remembered that the camp was at a place where pinion pine trees grew, because they gathered and roasted pine nuts in the camp fire, and the next day drove down to a stream where the Indians were farming, and bought roasting from them. Upon his arrival in California Houdon had the sample of ore analysed and it proved to be high grade silver. While working in the gold mines of California, the rush to Australia began, where exceedingly rich gold fields had been discovered, and Jim Houdon went with others, hoping that a fortune awaited him, on the other side of the globe. He carried the piece of Utah ore with him, and again had it tested, with the same result, the assayer declared it to be very high grade silver.</p>
+
+<p>Then Jim Houdon returned to St. George, in southern Utah, which had been established since he went to California, believing that he could find the place where he had picked up the rich ore many years before. Carefully he searched the country between Iron Springs and Beaver Dams, but all in vain. So many years had elapsed, the country had so changed, and new roads had so far obliterated the Old Trail, that identification of either the spring where the teams were watered, or the dry camp ground was impossible, and he finally left, to seek his fortune in other fields, a broken and disappointed man.</p>
+
+<p>Tradition located the Lost Lead, as it came to be known, on to Magotsu, between Cane Spring and the Santa Clara. Who will be the fortunate discoverer of this lost load, or, did it exist only in the imagination of Jim Houdon? He believed implicitly in it, otherwise he would not have come from the Antipodes to search for it.</p>
+
+<p><hi rend="center"><hi rend="italic">The Breyfogle Mine</hi></hi></p>
+
+<p>In the early fifties an emigrant train took the southern route from Salt Lake to California. The story is told that while crossing the desert country, not far from Death Valley, a member of the party, whose name was Breyfogle, took his gun and went out to hunt. Some distance from camp he found a vein of decomposed quartz, heavily impregnated with coarse gold. Breaking off some samples, he hurried back to camp and endeavored to persuade the captain of the company to stop and investigate his discovery, but the captain, more
+
+<pb n="781" xml:id="mmm.lds.ivins.1923.781"/>
+
+anxious to get his people safely across the desert than to hunt for gold, refused and moved on. After reaching California Breyfogle returned with others, but failed to identify the place where the gold had been found.</p>
+
+<p><hi rend="center"><hi rend="italic">The Lost Gunsight Mine</hi></hi></p>
+
+<p>Another party of emigrants are said to have abandoned their wagons, at a point near Death Valley, and pressed on, some on foot, and others riding the animals. One member of the party, upon arrival at Los Angeles, took his rifle to a gun
+
+<figure xml:id="mmm.lds.ivins.1923.781.figure">
+<p>Top: The Oldest Fort in Nevada, located at Stewart Ranch, Las Vegas, Nevada.</p>
+<p>Bottom: S. L: R. R. Depot and Eating house, Las Vegas, Nevada.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="782" xml:id="mmm.lds.ivins.1923.782"/>
+
+smith to have it resighted, and asked that a piece of metal, which he had found on the desert, be used for the purpose. The gunsmith identified the metal as native silver, and an expedition was sent back with the emigrant, but the latter could not locate the place where he had found the silver. Thus we have the Lost Gunsight Mine.</p>
+
+<p><hi rend="center"><hi rend="italic">The Lead Mines of Las Vegas</hi></hi></p>
+
+<p>It is a well known fact that in the late fifties the Utah Pioneers mined lead ore near Las Vegas, erected smelters at the latter point where it was smelted and com cried into pig lead, which was hauled over the Old Trail to Salt Lake and moulded into bullets, silver bullets, for the lead carried good values in silver, which there was no means of extracting at that time.</p>
+
+<p>Allen G. Campbell, well-known Utah mining man, later locatel these mines, and they are probably in operation at this time.</p>
+
+<p><hi rend="center"><hi rend="italic">A Real Romance of the Desert</hi></hi></p>
+
+<p>Among the men who traveled over the Old Trail there was not one who knew it better than Francis M. Lyman. While not a professional freighter, he crossed the desert, from Utah to California, sixteen times, no other man, so far as we are aware, having an equal record, unless it might be Leonard S. Conger, the mail carrier. From President Lyman's journal I quote, as follows:</p>
+
+<p>"I reached the beach at San Pedro about the 22nd of August, 1856. While loading up my wagon I saw a bewitching girl, in a lawn dress, pass across the camp ground, and I thought I never saw anything half so fine. We reached San Bernardino with our loads, about the 26th of August, and I made bold to get sight of so remarkable a creature and in a moment recognized in Rhoda Taylor, the same charming girl who had flitted across the camp ground before me at the beach. Now I confess the truth I was captivated, I was frantically in  I could not help it. I was never taken just that way before, and I did not know bow to resist it, and I have always been thankful, since, that I did not."</p>
+
+<p>It is only necessary to add that the introduction and courtship which followed resulted in marriage, and that the honeymoon of this couple, later so prominently identified with the development of Utah and the West, was spent as they journeyed over the Old Spanish Trail, from San Bernardino to Utah.</p>
+
+<p><hi rend="center"><hi rend="italic">The Inexpressible Desert</hi></hi></p>
+
+<p>There is something inexpressible connected with the desert. Its vastness, it broad expanse, its ever changing panorama of hills and buttes, its silence and solitude, the beauty of its sunset,
+
+<pb n="783" xml:id="mmm.lds.ivins.1923.783"/>
+
+the glory of its moon and brilliancy of its stars, are to be found in no other place, among all the works of the Creator. One who has gazed upon the marvel of a desert mirage, where lakes and rivers, towns and castles, forest and plains beckon the thirsty wayfarer on, only to vanish into barren plains as he approaches, once seen can never be forgotten. The variety and .individuality of the desert shrubs and plants, with the beauty and fragrance of their blossoms, once you are under the influence of this <choice><orig>des-
+
+<figure xml:id="mmm.lds.ivins.1923.783.figure">
+<p>FRANCIS M. LYMAN</p>
+<p>He was not a professional freighter, but crossed the desert sixteen times, and spent his honeymoon traveling over the Old Spanish Trail.</p>
+<figDesc></figDesc>
+</figure>
+
+ert</orig><reg>desert</reg></choice>
+holds you with a power which is well nigh irresistible, even though you know that its call may be the last you shall ever hear.</p>
+
+<p>The desert landscape shown in the illustration was taken at a point where mocking birds in great numbers had built their nests and were rearing their young, singing their inimitable songs as the kodak clicked. Why does the mocking bird choose
+
+<pb n="784" xml:id="mmm.lds.ivins.1923.784"/>
+
+the desert for his home, while rearing his young? Because the century plants, the cacti, and other thorny desert shrubs, give protection to his nest, from predatory birds and animals which, like predatory men, prey upon the innocent and defenseless.</p>
+
+<p>It was in such an environment, under the light of desert skies, where the mocking bird trills his happy lay, that Francis M. Lyman and Rhoda Taylor spent their honeymoon.</p>
+
+<milestone unit="section" rend="horbar"/>
+
+<lg type="poem">
+
+<l><hi rend="center">His Need of Me&#8212;The Answer</hi></l>
+
+<milestone unit="section" rend="horbar"/>
+
+<l>In a dream of night, 'twas a wintry night,</l>
+<l>My Lord came near unto me.</l>
+<l>And stood in the light of a room all white,</l>
+<l>And spoke these words unto me:</l>
+<l>"Oh, why do you shirk, why not do the work,</l>
+<l>That your Lord would have you do?"</l>
+<l></l>
+<l>In this dream of night I answered outright.</l>
+<l>"Why, Lord, bast thou need of me?</l>
+<l>In my lowly state, and the season late,</l>
+<l>Oh, what can I do for thee?</l>
+<l>Wherein do I shirk. and where is the work That my Lord would have me do?</l>
+<l></l>
+<l>"My purse is so poor, rye nothing in store. I stand in my lowly place;</l>
+<l>So here in the night, in this room all white By light of thy radiant face,</l>
+<l>Reveal unto me why thou needest me. And what thou would'st have me do."</l>
+<l></l>
+<l><hi rend="center"><hi rend="italic">The Answer</hi></hi></l>
+<l></l>
+<l>"Don't think that you need the wealth piled by greed. Nor a place of pride and power;</l>
+<l>You need but the will and the wish to fill</l>
+<l>Men's souls in their earthly hour</l>
+<l>With the living truth. the arousing truth,</l>
+<l>That your Lord would have you speak.</l>
+<l></l>
+<l>"All the gold men lure from toils of the noon</l>
+<l>Is but the limit of sin;</l>
+<l>And the stately piles that they build the whiles,</l>
+<l>I never can dwell therein;</l>
+<l>From the world's dim birth to the end of earth,</l>
+<l>I win by the power of truth.</l>
+<l></l>
+<l>"If the truth he told. all the wrongs of old</l>
+<l>Will lift from the paths of men;</l>
+<l>So this is the work you must never shirk,</l>
+<l>To publish the truth to men.</l>
+<l>And to pave the way for the coming day</l>
+<l>When Brotherhood rules the earth."</l>
+<l><hi rend="right"><hi rend="italic">C. N. Lund</hi></hi></l>
+</lg>
+
+-->
+            
+</body>
+</text>
+</TEI>

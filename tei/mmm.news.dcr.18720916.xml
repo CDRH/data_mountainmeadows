@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dcr.18720916">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Mormon Press on Mountain Meadow</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.dcr.18720916</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+	
+	    <sourceDesc>
+		<bibl>
+   		    <title level="j">Daily Corrine Reporter</title>
+		    <title level="a" type="main">The Mormon Press on Mountain Meadow</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Corrine, UT</pubPlace>
+		    <date when="1872-09-16">September 16, 1872</date>
+		</bibl>
+	    </sourceDesc>
+
+	    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+		    </textClass>
+		</profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-07-28"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2010-04-15"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.dcr.18720916.001"/>
+    
+<head>THE MORMON PRESS ON MOUNTAIN MEADOW.</head>
+
+<p><seg type="Context" subtype="LDSApostates">Whenever a Mormon falls from grace, which means a denial of the royal authority
+of <persName key="Young, Brigham">Brigham Young</persName>, that moment the recusant is cut off, rot and branch, as an
+apostate for-ordained from the beginning to eternal perdition no less than mortal disgrace. To refuse to pay tubing into the coffers of ecclesmitical piracy is the unpardonable sin: far more so than to dispute the sangunary decrees of the Blood Atonement. Deploring the treasures of the Church by contumacy is not pouring in the annual tenth of a man's net profits, sends out the anathema of Zion; but when, occasionally, the dupe whose hands are gory in innocent blood shed by <q>"divine"</q> orders, repents his dreadful career by wholesome confession, then do all the curses of Danite theology find condemning speech to crush the penitent in his remorse, lest revelations of too worldly a character throw dangerous light on the dread secrets of Latter Dayism. Hence we find the <orgName type="newspaper" key="Salt Lake Herald">Salt Lake <hi rend="italic">Herald</hi></orgName>&#8212;the Janus-faced organ of the Church&#8212;in yesterday's issue making use of its choicest style of hypocrisy over the dispatch of Mr. <persName key="Simonton, J. W.">Simonton</persName>.  <seg type="Blame" subtype="LDS_LDS">The man <persName key="Klingensmith, Philip">Smith</persName>, who went into the slaughter at <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, was a priest of God, obedient to <q>"counsel"</q> when that crime of the century was perpetrated at the command of his then chief; but behold now how the sanctimonious elder attempts
+to impeach the witness whose testimony comes up from the vale of murder! The <hi rend="italic">Herald</hi> assumes a desire to bring <persName key="Klingensmith, Philip">Smith</persName> to <placeName type="state" key="Utah Territory">Utah</placeName>, in order that his declaration may be put to the test of corroborative evidence, so that <q>"the Mormons, as a people,"</q> may not be charged with the crime.  This is shallow.  The Mormons, as a people, are not charged with that unparalleled massacre, but the Church of Jesus Christ of Latter Day Saints, as impersonated by <persName key="Young, Brigham">Brigham Young</persName>, and his Apostles, did through them make the sacrifice of <seg type="Massacre" subtype="Casualties">more than one hundred and twenty human lives</seg>, showing no mercy to its victims.</seg>  The witnesses are hurrying in, of whom <persName key="Klingensmith, Philip">Smith</persName> is one, but, as many of these will soon appear; we shall now quote the <hi rend="italic">Herald</hi>’s comments which may be stereotyped for use in the cases of all others who are to follow, seeking amnesty from God and man, under the plea of <q>"Guilty."</q></seg></p>
+
+<p><seg type="Source" subtype="Reprinted"><q>"<persName key="Simonton, J.W.">Simonton</persName>, chief of the associated press bureau in <placeName type="settlement" key="New York, NY">new York</placeName>, sends a telegram west over his own signature, <seg type="Blame" subtype="LDS_LDS">charging the Mormon people with the Mountain Meadow
+massacre,</seg> on the alleged confession of one <persName key="Klingensmith, Philip">Smith</persName>, now in <placeName type="county" key="Lincoln County, NV">Lincoln county</placeName>, <placeName type="state" key="NV">Nevada</placeName>.
+This <persName key="Klingensmith, Philip">Smith</persName>, by <persName key="Simonton, J.W.">Simonton</persName>'s showing, is either a murderer or a perjured scoundrel, and in either case is amenable to the laws.  He should be promptly arrested and brought to Utah on a requisition from Governor <persName key="Woods, George Lemuel">Woods</persName> to Governor <persName key="Bradley, Lewis R.">Bradley</persName>, and if his statements could be substantiated by any credible testimony the guilty should be punished. <seg type="Blame" subtype="LDS_LDS"> But, the attempt made to charge the crime upon the Mormons, as a people, is an infamy only less in magnitude than the massacre itself.</seg> <seg type="Reaction" subtype="StateInvestigation">It has suited the malevolent policy of a few bitter anti-Mormons to refuse to avail themselves of every opportunity to fully investigate this matter, and continue to make general charges, which is seems to have at
+met got a second <persName key="Hickman, BIll">Bill Hickman</persName> to make affidavit to."</seg></q></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

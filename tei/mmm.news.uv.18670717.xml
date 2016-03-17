@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18670717">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Mormonism Defined</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18670717</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+    	<sourceDesc>
+	   <bibl>
+		<title level="j">Union Vedette</title>
+		<title level="a" type="main">Mormonism Defined</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Camp Douglas, UT</pubPlace>
+		<date when="1867-07-17">July 17, 1867</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	   </textClass>
+	</profileDesc>
+
+   <revisionDesc>
+  	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+  	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>Validation</change>
+  	<change when="2010-04-06"><name>Kelsey F. Harris</name>Initial Encoding</change>
+  	<change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.uv.18670717.001"/>
+
+<head>MORMONISM DEFINED.</head>
+
+<p>A recent article in the <orgName type="newspaper" key="Post"><hi rend="italic">Post</hi></orgName>, touching mildly on the abominations practiced by <persName key="Young, Brigham">Brigham Young</persName> and his followers, appears to have launched a tender place in the <orgName type="newspaper" key="Salt Lake Telegraph">Salt Lake <hi rend="italic">Telegraph</hi></orgName>, and it there upon devotes a couple of editorials to the <hi rend="italic">Post</hi>.  <seg type="Context" subtype="Polygamy">The <hi rend="italic">Telegraph</hi> builds its article on this kind of theory:  <q>"The legalizing of prostitution is advocated in some of the States. Polygamy is no worse than prostitution,
+therefore why disturb it?"</q>  This kind of argument is its own refutation, and would not merit a reply were it not for the following assertions:</seg></p>
+
+<p><q><seg type="Context" subtype="WesternViolence">"There is something said in general terms about infamous and detestable criminal practices, pernicious and demoralizing institutions, hostility toward resident unbelievers and the Federal Government and its officers,intimidating courts, defiance to the laws, locally legalized abominations, and so on.</seg></q></p>
+
+<p><q>"We have lived in this city quite a time, and must confess to utter ignorance of the prevalence hereabout of the crimes somewhat indefinitely preferred by the <hi rend="italic">Post</hi>.</q></p>
+
+<p><q>"We are in a great loss to know what those infamous and detestable criminal practices, pernicious and demoralized institutions mean. We have not the remotest idea of any such things in connection with the people of Utah.</q></p>
+
+<p><q>"As to hostility to unbelieving residents, to the Federal Government and Federal officers, as such, it is entirely a mistake.</q></p>
+
+<p><q>"Intimidations of courts and defiance of the law we know nothing of."</q></p>
+
+<p>In law, when a witness testifies that he knows nothing of the circumstances of the case, his evidence goes for naught.  Perhaps in this case, <q>"ignorance is bliss,"</q> and the Telegraph thinks it <q>"folly to be wise,"</q> or, its ignorance may be attributed to the truthfulness of the statement in the <orgName type="newspaper" key="Alta California">Alla California</orgName> that "Mormonism is eminently European and representing the lowest class of European society. This <q>"lowest class"</q> are not accountable for their neglected education.  We have chosen the above morceaus from the article to show the elegant style of negative evidence with which they expect not only to satisfy  the popular mind with the loyalty and law abiding proclivities of the Mormon people, but it is a characteristic specimen of the only kind of evidence that has ever been drawn from one of their people in a United States court of justice, when a Mormon was charged with crime.  Read the record of the investigations and see.  The <hi rend="italic">Telegraph</hi> says the charges of the <hi rend="italic">Post</hi> were indefinite.  Very well! We will make them specific.</p>
+
+<p>On the 18th of March, 1819, the people of <placeName type="state" key="Utah Territory">Utah</placeName> met in convention and established the <q>"State of Deseret."</q>  In the preamble to the Constitution adopted, it was asserted that it
+was <q>"a free and independent government,"</q> notwithstanding that all the territory within its limits had been ceded to the United States by Mexico in 1848.  <persName key="Young, Brigham">Brigham Young</persName> was elected Governor.  There was no Enabling Act ever passed by Congress giving them the right to erect a State; therefore the formation of this <q>"free and independent government"</q>  within the territory of the United States without its sanction, was and overt act of hostility.  
+The hostility to Federal officers after the Territory had been formed, requiring the presence of United States troops to insure their safety, a column of Federal troops was started for <placeName type="state" key="Utah Territory">Utah</placeName> in the autumn of 1857, under command of General <persName key="Harney, Wiliam S.">Harney</persName>, which command was subsequently transferred to Colonel <persName key="Johnston, Albert Sidney">A. S. Johnson</persName>. On their approach across the plains, <persName key="Young, Brigham">Young</persName> issued his famous proclamation, containing the following:</p>
+
+<p><q>"I, <persName key="Young, Brigham">Brigham Young</persName>, Governor and Superintendent of Indian Affairs for the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, in the name of the people of the United States in the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, forbid.</q></p>
+
+<p><q>First, All armed forces of whatever description from coming into this <placeName type="state" key="Utah Territory">Territory</placeName>, under any pretence whatever.</q></p>
+
+<p><q>Second, That all forces in said <placeName type="state" key="Utah Territory">Territory</placeName> hold themselves in readiness to march at a moments notice to repel any and all such invasion.</q></p>
+
+<p><q>Third, Martial law is herby declared to exist in this Territory, from and after the  publication of this proclamation, and no person shall be allowed to pass or repass, into or through, or from <placeName type="state" key="Utah Territory">this Territory</placeName>, without a permit from the proper officer."</q></p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> told Judge <persName key="Brochus, Perry E.">Brochus</persName>, publicly,<q>"he would kick him or any other Gentile Judge from the stand, if he interfered with the affairs of Zion."</q>  He said publicly in one of his sermons, <q>"I live above the law, and so do this people."</q>  On another occasion he said:</p>
+
+<p><q>"I will be Governor still, after you have done everything you possibly can to prevent it.  We have got a Territorial government, and I am, and will be, Governor, and no power can hinder it until the Lord Almighty says: '<persName key="Young, Brigham">Brigham</persName>, you need not be Governor any longer,' and then I am willing to yield to another Governor."</q></p>
+
+<p>In a sermon, preached September 16, of the<cb n="2" />same year, <persName key="Young, Brigham">Brigham Young</persName> said:</p>
+
+<p><q><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="LDSPersecution">"This people are free; they are not in bondageto any government on God's foot-stool.
+  * * * We have borne enough of their oppression and hellish abuse, and we will not
+  stand any more of it.  * * * They say that their army is legal, and I say that such 
+  a statement is false as hell, and that they are as rotten as an old pumpkin that has been
+  frozen seven times and them melted in a harvest sun.  Come on with your thousands of
+  illegally ordered troops, and I will promise you, in the name of Israel's God, that you
+  shall melt away as the snow before a July sun.  You might as well tell me that you can
+  make hell into powder house as to tell me that you could let an army be here and have
+  peace; and I intend to tell them and show them this if they do not stay away."</seg></seg></q></p>
+  <p>Heber C. Kimball said:</p>
+
+<p><seg type="Context" subtype="UtahWar"><q>"Is there a collision between us and the United States?  No!  We have not collashed; that is the word that sounds nearest to what I mean.  but now, the thread is cut between them and us, and we will never gybe again&#8212;no never, worlds without end.  Do as you are told, and <persName key="Young, Brigham">Brigham Young</persName> will never leave the governorship of this territory, from this time henceforth and forever.  No.  Never. And there shall be no wicked Judge with his w&#8212;ever sit in our courts again; for all who are against Israel are an abomination to me and our God."</q></seg></p>
+
+<p>These sermons were published in the <hi rend="italic">Deseret News</hi>.</p>
+
+<p>To Powell, of <placeName type="state" key="Kentucky">Ky.</placeName>, and <persName key="McCulloch, Benjamin">Ben. McCallough</persName>, who were afterwards appointed commissioners to <placeName type="state" key="Utah Territory">Utah</placeName>, <persName key="Young, Brigham">Young</persName> and <persName key="Wells">Wells</persName> acknowledged they had destroyed government trains with the army.  President <persName key="Buchanan, James">Buchanan</persName>, the man who had lived past his day of usefulness, a vacillating doting nonentity, issued a proclamation of pardon. The Mormon Church dictated movements and location of the Federal troops:they were disposed of in remote districts, and so ended the farce.</p>
+
+<p>On the 7th of January, 1863, Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> stated in the House of Representatives that <q>"while he was an Associate Justice of <placeName type="state" key="Utah Territory">Utah</placeName>, the Grand Juries utterly refused to do anything and had to be discharged."</q>  He added:</p>
+
+<p><q><seg type="Context" subtype="WesternViolence">"Sitting as a committing magistrate, complaint after complaint was made before me of murders and robberies.  Among these I may mention, as peculiarly and shockingly prominent, 
+the murder of <persName key="Forbes, Henry">Forbes</persName>, the assassination of the <seg type="Context" subtype="ParrishMurder"><persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrishes</persName></persName></seg> and <persName key="Potter, 'Duff'">Potter</persName>, of <persName key="Jones, Henry">Jones</persName> and his mother, of the Aiken party of which there were six in all, and worst and darkest in the appalling catalogue of blood, the cowardly, cold blooded butchery and robbery at the
+Mountain Meadows,</seg> <seg type="Massacre" subtype="Dates">September 10, 1857</seg>.  <seg type="Massacre" subtype="Aftermath">At that time there still lay, all ghastly under the sun of <placeName type="state" key="Utah Territory">Utah</placeName>, the unburied skeletons of <seg type="Massacre" subtype="Casualties">one hundred and nineteen men, women and children</seg>, the hapless <seg type="Blame" subtype="LDS_LDS">victims of the Mormon creed.</seg></seg>"</q></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">He stated that the wholesale murder was committed by Mormons, partly painted as Indians, by written authority of <persName key="Young, Brigham">Brigham Young</persName>.</seg>  <seg type="Emigrants" subtype="WagonTrain">They were a train of emigrants who had passed through the city and been joined by disaffected Mormons. <seg type="Source" subtype="Government"> United States officers reported officially the same thing.</seg>  <seg type="Massacre" subtype="Spoils">The train was a wealthy one, was from those Sates from which the Mormons had been expelled, and Revenge and Avarice inspired the dead.  It consisted of 40 wagons, 800 head of cattle, 60 horses and mules</seg>, and nearly 150 men and women  and many children.</seg>  <seg type="Massacre" subtype="Casualties">The people were all massacred</seg> <seg type="Massacre" subtype="Survivors">except the infants</seg>, and <seg type="Source" subtype="Government">Hon. <persName key="Forney, Jacob">J. Forney</persName> testifies to the Commissioner of Indian Affairs</seg> that <seg type="Massacre" subtype="Spoils">a few days after the massacre that there was distributed among the leading dignitaries $30,000 worth of property</seg>.  Captain  <persName key="Campbell, R. P.">Campbell</persName>, who was appointed to enquire into these affairs, reported to the A. A. General of the U.S. Army, July 6, 1859, that</p>
+
+ <p><q>"<seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">These emigrants were met by the Mormons, assisted by such of the wretched Indians of the neighborhood as they could force or persuade to join</seg></seg>, and massacred, with <seg type="Massacre" subtype="Survivors">the exception of such infant children as the Mormons thought to young too remember or tell of the affair.</seg>"</q></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> visited the scene of the massacre, was thoroughly convinced that <seg type="Blame" subtype="LDS_LDS">the  Mormons concocted the deed and were the main parties in executing it</seg>.</seg>  <seg type="Context" subtype="LDSApostates">Numbers of
+Mormons who had apostatized offered abundance of evidence if the were assured of military protection.</seg>  <seg type="Blame" subtype="LDS_LDS">He took affidavits and issued warrants for the arrest of thirty-eight Mormons including three Bishops, when orders were received from <placeName type="state" key="Washington, D. C.">Washington</placeName> to withdraw the military and so ended for the time at least, the investigation.  <persName key="Young, Brigham">Brigham Young</persName>, Superintendent of Indian Affairs at the time, made no mention of this massacre in his report.  The <hi rend="italic">Deseret News</hi> made no mention of it for several months.  The Indians, apostate Mormons and the children saved in the massacre; <seg type="Massacre" subtype="Spoils">goods found in the possession of Mormons, known to have belonged to the emigrants, and traced back to the day succeeding<cb n="3" /> the massacre</seg>, very evidence of a direct or circumstantial character, fastens upon the Mormon people the stigma and guilt of this damnable outrage.</seg>  If this is not sufficient there is this day in possession of Judge <persName key="Titus">Titus</persName> in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <hi rend="italic">the original order</hi>, issued by Lieut. Gen. <persName key="Wells, Daniel H.">Wells</persName>, commanding the Nauvoo Legion, in the handwriting of his Adjt. Gen. Spangler. (?) sworn to as authentic by two witnesses, and admitted last winter by the widow  of Spangler (?) to be his handwriting, <hi rend="italic">ordering the murder of over forty teamsters</hi> who had incurred the displeasure of the Mormon dignitaries. This order is published in a report in the United States Congress last winter.</p>
+
+<p>In December of 1862, <persName key="Harding, Stephen S.">Governor Harding</persName> sent in his message to the <placeName type="state" key="Utah Territory">Utah</placeName> Legislature in which the following passages occur:</p>
+
+<p><q>"I lay it down as a sound proposition that no community can happily exist with an institution so important as that of marriages wanting in all those qualities that make it homogenial with institutions and laws of neighboring civilized communities having the same object.  Anomalies in the moral world cannot long exist in a state of mere abeyance;  they must, from the very nature of things become aggressive, or they will soon disappear from the force of conflicting ideas.</q></p>
+
+<p><q><seg type="Context" subtype="Polygamy">"That plurality of wives is tolerated and believed to be right may not appear so strange; but that a mother and her daughters are allowed to fulfill the duties of wives to the same husband, or that a man could be found in all Christendom who could be induced to take upon himself such a relationship, is, perhaps, no less a marvel in morals than in matters of taste.  The bare fact that such practices are tolerated amongst you is sufficient evidence that the human passions, whether excited by religious fanaticism or otherwise, must be restrained and subjected to laws to which all must yield obedience.  Much to my astonishment, I have not been able to find any law upon the statutes of this Territory regulating marriage."</seg></q></p>
+
+<p>This message, a most temperate and able argument against the practices indulged in by the Mormon people in direct violation of the laws of the country, the Legislature suppressed, and no record of their journals with show that Governor <persName key="Harding, Stephen S.">Harding</persName> ever delivered any message whatever.  This fact being communicated to the United States Senate, the Committee on Territories, of which <persName key="Wade, Benjamin">Ben. Wade</persName> was Chairman, was instructed to examine into and make a Report to the Senate of the cause for its suppression.  From the Report we make the following extract.&#8212;</p>
+
+<p><q><seg type="Context" subtype="Polygamy">"We have here the first exhibition within the limits of the United States of Church raling the State.  * * *  Polygamy of the most unlimited character, sanctioning the cohabitation of a man with the mother and daughters indiscriminately, is not the only non-American thing among them."</seg></q></p>
+
+<p>In 1803, Judge <persName key="White">White</persName>, who was Judge of the Second Judicial District, proposed holding
+a term of court in it, in the month of May, as provided by law, many murders having been committed there.  The Mormon Legislature had passed a bill changing the term to October; but the Governor had refused to approve it.  On examining the original bill, however, in the Secretary's office, he found that the word <q>“May"</q> had been erased, and the word <q>"October"</q>  forged and interlined in the handwriting of one of the clerks, who had penned the body  of the bill, and the Legislature sustained the forgery.  The original act of 1850 not being adequate to the administration of justice by the judiciary, an amendatory act was drawn  up by Judge <persName key="Waite">Waite</persName>, and having been submitted to and approved by Judge <persName key="Drake">Drake</persName> and Governor <persName key="Harding, Stephen S.">Harding</persName>, it was sent to the United States Senate and introduced by Senator <persName key="Browning">Browning</persName>.  The telegraph brought the word of its introduction to Salt Lake, and a meeting was called at the Tabernacle, March 3, 1863, at which <persName key="Young, Brigham">Brigham Young</persName> used the following language:</p>
+
+<p><q>"Do you acknowledge this man <persName key="Harding, Stephen S.">Harding</persName> for Governor?  (Voices&#8212;No! you are our Governor.) Yes, I am your Governor; and if he attempts to interfere in my affairs, <q>"Woet woe! unto him."</q>  Will you allow such a man to remain in the <placeName type="state" key="Utah Territory">Territory</placeName>?  (Voices&#8212;Not put him out.)  Yes, I say, put him out Judges Waite and Drake are perfect fools, and the tools of Governor <persName key="Harding, Stephen S.">Harding</persName> and they, too, must leave.  If all those do not resign, or if the President does not remove them, the people must attend to it.</q></p>
+
+<p>"In regard to the war now desolating the country, it is but the fulfillment of the prophecies of <persName key="Smith, Joseph">Joseph Smith</persName>, which he told me thirty years ago. Brother <persName key="Smith, Joseph">Joseph</persName> said that the South would rise against the North, and the North against the South; and that they would until both parties were destroyed, AND FOR MY PART, I GIVE IT GOD SPEED; for they have spilled the blood of the Prophet.  (A vociferous 'Amen' for the audience.)  I do not wish to live in or anything to do with the United States.  I will have a free and in-</p>
+
+</div1>
+</body>
+</text>
+</TEI>

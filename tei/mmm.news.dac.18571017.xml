@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dac.18571017">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Immigrant Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	    <idno>mmm.news.dac.18571017</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Arkansas emigrants passing through Angel's Camp reveal the identities of the Mountain Meadows victims.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">The Immigrant Massacre.</title>
+		    <title level="j">Daily Alta California</title>
+		    <author>Editor Alta California</author>
+		    <publisher>Alta California</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1857-10-17">1857-10-17</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>	    
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+	        <keywords scheme="original" n="culpability">
+	            <term>Mormon and Indian</term>
+	  	</keywords>
+		<keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+		</keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-16"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enchancement</change>
+        <change when="2007-04-25"><name>Leslie Working</name> Initial Encoding</change>
+        <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+        <change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dac.18571017.001"/>
+    
+    <head>The Immigrant Massacre.</head>
+<opener>
+<dateline><placeName rend="settlement" key="Angel's Camp, CA">Angels</placeName>, <date when="1857-10-14">October 14, 1857</date>
+</dateline>
+</opener>
+
+<p><seg type="Source" subtype="WordofMouth">EDITORS ALTA: This morning, while conversing with some immigrants, who have lately arrived via the Plains from <placeName type="state" key="Arkansas">Arkansas</placeName>, and are living within a few miles of this place, I related to them the circumstances of the massacre.  <seg type="Emigrants" subtype="WagonTrain">They immediately informed me that they knew who the parties were. They stated that there were <seg type="Emigrants" subtype="StateAffiliationArkansas">three, and perhaps four, companies from Arkansas</seg>, while <seg type="Emigrants" subtype="StateAffiliationMissouri">the balance of the company was made up of Missourians</seg>, who fell in with them; of these latter, they knew nothing, but <seg type="Emigrants" subtype="StateAffiliationArkansas">the Arkansas companies, consisted of <orgName type="wagontrain" key="Fancher">Faziers</orgName>, <orgName type="wagontrain" key="Cameron">Camerons</orgName> and the two <orgName type="wagontrain" key="Dunlap">Dunlaps</orgName>, and perhaps <orgName type="wagontrain" key="Baker">Bakers</orgName>. They were from the counties of <placeName rend="county" key="Marion County, AR">Marion</placeName>, <placeName rend="county" key="Carrol County, AR"><choice><sic>Harrol</sic><corr>Carrol</corr></choice></placeName> and <placeName rend="county" key="Johnson County, AR">Johnson</placeName>.</seg></seg> <seg type="Emigrants" subtype="Route">They say when they saw them, they were encamped six miles from <placeName rend="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, that they had been there for some time, and that they intended to stay there until the weather got cool enough for them to come by the <placeName rend="route" key="Southern Route">South Pass</placeName>, expecting to make a stay of eight weeks all together.</seg> <persName key="Baker, John T. 'Jack'">Baker</persName> had not arrived there when they left, but as they can learn nothing from him or his company, they concluded that he had fallen in and decided to come into California with these companies. The two <persName key="Dunlap, Lorenzo Dow, and family"><persName key="Dunlap, Jesse, Jr., and family">Dunlaps had each nine children</persName></persName>, some of them well grown. </seg><seg type="Reaction" subtype="FederalInvestigation"><seg type="Reaction" subtype="StateInvestigation"><seg type="Blame" subtype="LDS"><seg type="Context" subtype="IndianRelationsLDS">If these are the persons who were slaughtered, who can be so blind as not to see that the hands of Mormons are stained with this blood. <seg type="Blame" subtype="IndiansLDSInfluence">How could so large a company remain among them for two months and they not learn one name? and why would the Indians kill every being, <seg type="Massacre" subtype="Survivors">except those that were too young to communicate anything to their friends, or hardly tell a name, or tell who were the murderers of their parents, and brothers and sisters; or even discriminate between white men and Indians?</seg> Why all this concealment?</seg> and <seg type="Massacre" subtype="Spoils">in the very face of it the Indians tell what they have done and sell all their spoils to the whites.</seg></seg></seg> It will do to lay this blood upon them, but I feel certain that investigation will throw it off.</seg>	P.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

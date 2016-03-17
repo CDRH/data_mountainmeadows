@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.lds.clawson.1913">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mountain Meadows Massacre</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Rudger</forename> <surname>Clawson</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.lds.clawson.1913</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Mountain Meadows Massacre</title>
+                    <author><forename>Rudger</forename> <surname>Clawson</surname></author>
+                    <publisher>British Mission Headquarters</publisher>
+                    <pubPlace>Liverpool, England</pubPlace>
+                    <extent>1-2</extent>
+                    <date when="1913">n.d., ca. 1912-1913</date>
+                    <note type="source">Rudger Clawson. <hi rend="italic">The Mountain Meadows Massacre</hi>. Liverpool, ENG: British Mission Headquarters, n. d. [ca. 1912-1913].</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>lds_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-07-19"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<pb n="unnumbered" xml:id="mmm.lds.clawson.1913.001"/>
+
+<!-- portions of the text below, namely the lines associated with Sumner Howard, appear in John Morgan's "Judge Sumner Howard on the Mountain Meadows Massacre" [Tract no. 3], (ca. 1882) and in B. H. Roberts's <hi rend="italic">The Character of the Mormon People.</hi> (ca. 1884-1888). -->
+
+<head>THE MOUNTAIN MEADOWS MASSACRE.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><seg type="Blame" subtype="Lee"><seg type="Blame" subtype="LDS_LDS">AN effort is frequently made to cast a stigma upon the "Mormon" Church by making it responsible for the Mountain Meadows Massacre. This is manifestly unfair and cruel, because it has long since been proven beyond the possibility of successful contradiction that the authoritites of the "Mormon" Church knew nothing at all of the butchery until after it had occured.</seg> When it was learned that <persName key="Lee, John D.">John D. Lee</persName> had participated in it, <seg type="Blame" subtype="IndiansLDSInfluence">in connection with the Indians</seg>, he was at once cut off from the Church and cast out. The authorities of the Church gave every assistance in their power to have him brought to justice. He was tried, convicted and executed for his crime. The case was conducted by the United States District Attorney, and, surely, it is reasonable to conclude that if the leaders of the Church were in any way implicated in the perpetration of this diabolical deed, they would have been indicted and tried for the same. The United States Government was determined, through its judicial department, to bring the responsible, guilty parties to justice. <persName key="Lee, John D.">John D. Lee</persName> was the guilty man, and he was brought to justice and suffered the penalty. The fact that he was a "Mormon" does not make the Church responsible for his conduct any more than the Church of England could be held responsible for the evil-doing of any of its members. Every man must answer for his own acts.</seg></p>
+
+<p><seg type="Blame" subtype="Lee">At the close of the second trial of <persName key="Lee, John D.">John D. Lee</persName>, the United States District Attorney, <persName key="Howard, Sumner">Sumner Howard</persName>, made the statement (according to the published account of the trial) that he had come for the purpose of trying <persName key="Lee, John D.">John D. Lee</persName>, because the evidence led and pointed to him as the main instigator and leader, and he had given the jury unanswerable documentary evidence proving that the authorities of the "Mormon" Church knew knothing of the butchery until after it was committed, and that <persName key="Lee, John D.">Lee</persName>, in his letter to President <persName key="Young, Brigham">Young</persName> a few weeks later, had knowingly misrepresented the actual facts relative to the massacre, seeking to keep him still in the dark and in ignorance. He (Mr. <persName key="Howard, Sumner">Howard</persName>) said he had received all the assistance any United States official could ask on earth in any case. Nothing had been kept back, and he was determined to clear the calendar of every indictment against any and every actual guilty</seg>
+
+<pb n="unnumbered" xml:id="mmm.lds.clawson.1913.002"/>
+
+<seg type="Blame" subtype="Lee">participator in the massacre, but he did not intend to prosecute any one that had been lured to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the meadows</geogName></seg> at that time, and knew nothing of <seg type="Massacre" subtype="Planning">the vile plan which <persName key="Lee, John D.">Lee</persName> originated and carried out for the destruction of the emigrants.</seg></seg></p>
+
+<p>If anything further is needed to prove the innocence of the authorities of the "Mormon" Church in respect to the Mountain Meadows Massacre, the reader is referred to the "History of Utah," page 544, by Mr. <persName key="Bancroft, Hubert Howe">Hubert Howe Bancroft</persName> (Non-"Mormon"), a well-known and reliable historian, who had written over twenty histories of the different states and races of the people of America. His history of British Columbia is regarded as the most authentic of any ever written of that English possession.  This is what he says of the Mountain Meadows massacre:&#8212;</p>
+
+<p><seg type="Blame" subtype="Lee">"Indeed, it may as well be understood at the outset that this horrible crime, so often and so persistenly charged upon the 'Mormon' Church and its leaders, was the crime of an individual, the crime of a fanatic of the worst stamp, one who was a member of the 'Mormon' Church, but of whose intentions the Church knew nothing, and whose bloody acts the members of the Church, high and low, regard with as much abhorrence as any out of the Church. Indeed, the blow fell upon the brotherhood with three-fold force and damage. There was the cruelty of it, which wrung their hearts; there was the odium attending its performance in their midst; and there was the strength it lent their enemies further to malign and moelst them. The 'Mormons' denounce the Mountain Meadows Massacre, and every act connected therewith, as earnestly and as honestly as any in the outside world. This is abundantly proved, and may be accepted as a historical fact."</seg></p>
+
+<p>Now, if the opponents of "Mormonism" can quote any better or more reliable authority than the foregoing statement by Mr. <persName key="Bancroft, Hubert Howe">Bancroft</persName>, they should do so or for ever after hold their peace. To make random observations without offering proof is a very easy matter, but the thoughtful reading public want facts upon which to base their conclusions.</p>
+
+<p>For further and full information bearing upon this heart-rending tragedy, the reader is referred to the pamplet entitled, "The Mountain Meadows Massacre&#8212;Who were guilty of the crime?" by <persName key="Penrose, Charles W.">Charles W. Penrose</persName>, offered for sale at the <hi rend="italic">Millennial Star</hi> office, 295 Edge Land, Liverpool, England. Price, post paid, ls. ld.</p>
+
+<p>We also emphatically deny that there is now, or ever has been, any organization, open or secret in the "Mormon" Church, known as the "Destorying Angels," or "Danites," as is often asserted by the enemies of the Latter-day Saints. This is a figment of the imagination of our opponents, and like many other lurid statments, is a claim advanced without proof.</p>
+
+<closer><signed><hi rend="right"><persName key="Clawson, Rudger">RUDGER CLAWSON</persName>.</hi></signed></closer>
+
+</body>
+</text>
+</TEI>

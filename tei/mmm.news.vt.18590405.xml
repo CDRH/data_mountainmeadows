@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590405">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Discharge of the Grand Jury</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.vt.18590405</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Valley Tan</title>
+		<title level="a" type="main">Discharge of the Grand Jury</title>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1859-04-05">April 5, 1859</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-20"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-29"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie Heupel</name> Original transcription</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.vt.18590405.001"/>
+
+
+<head type="main">Discharge of the Grand Jury.</head>
+
+<p>I will say to you, gentlemen of the Grand Jury, that from what I learn, it has been some time since a Court has been held in your District, by a judicial tribunal having cognizance of criminal matters.</p>
+ 
+<p><seg type="Context" subtype="WesternViolence">No person has been brought to punishment for crimes committed for more than two years. From what the Court learns, crime after crime has been committed.</seg></p>
+
+<p><seg type="Context" subtype="WesternViolence">There is no such effectual way of stopping crimes: no means have been found so effectual, as the sure and speedy punishment of the offender. So far as yea and your community are concerned, it is a very important matter to you, if you desire innocent and unoffending persons to be protected, that you diligently prosecute all persons who are violators of the law.</seg></p>
+
+<p>Before I close the remarks which I intend to make to you, I will call your attention, particularly to certain and many crimes that have been committed.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">It is first my pleasure, however, to call your attention to the legislation and general condition of matters within <placeName type="state" key="Utah Territory">the Territory</placeName>, which affect and operate upon the administration of the criminal laws. The Legislature has not given that aid that is desired to enable the Courts to to their duty: neither have they provided means to carry on the Courts, but on the contrary, have so legislated as to embarass and prevent the Courts from bringing public offenders to justice.  By legislation in all States and Territories outside of this, it is provided by law that persons who commit offences can be arrested, brought before Justices of the Peace, Judges, or other committing Magistrates, the complaint examined into, and if such committing magistrate is satisfied, that there is a probable cause of guilt against the accused, he may commit, or recognize him, to appear before a tribunal having competent jurisdiction to try the case. Such provision of law does not seem to have been made here.&#8212;There is no legislative enactment to authorise a Justice of the Peace or other committing Magistrate, either to commit a prisoner or to recognize him to appear before this Court.</seg></p>
+
+<p>It is, however, provided by law that criminals may be arrested on complaint, before Justices of the Peace; and if the case is such that the Justice has not jurisdiction to hear the case and pass final sentence upon the accused, if the accused and person making the complaint do not settle the matter, then the Justice may direct the constable or officer having custody of the prisoner, to take him immediately to a court having jurisdiction to try the case.</p>
+
+<p>The District Courts cannot always be in session. The officer having custody of the prisoner has no authority to detain him. By legislation, however, criminal jurisdiction is given to the Probate Courts, which courts are by law always open for the transaction of business.</p>
+
+<p>The object of this legislation is to prevent criminal cases being brought into this Court, and to direct them to the Probate Court; whilst the fact is, that the District Courts are the only tribunals possessing criminal jurisdiction under the Organic Act of <placeName type="state" key="Utah Territory">the Territory</placeName>. The Probate Courts can have or exercise no such jurisdiction. The Organic Act provides for Supreme, District, and Probate Courts, and vests in Justices of the Peace limited authority. It says that these courts shall have such jurisdiction as is limited by law. The legislature is governed and controlled by the Organic Law. When that act provides that the jurisdiction of Probate Courts shall be as limited by law, it means only to confer upon the legislature the power to rest in them such jurisdiction as belongs to the character of a Probate Court. The legislature are as fully authorised to establish courts unknown to the Organic Act, as to vest in those lawfully established jurisdiction unknown to it. They can as lawfully give Probate jurisdiction to the District Court, as they can give criminal jurisdiction to a Probate Court.</p>
+
+<p>A prosecution before such a court is no bar to a prosecution in this; and it is as illegal and void as if the trial had been before a <placeName type="state" key="California">California</placeName> Vigilance Committee.</p>
+
+<p>Persons aiding in a prosecution before that Court would be liable in a civil action for damages to any person prosecuted therein, no matter how guilty he might be.</p>
+
+<p>I make these remarks to impress upon your minds the determination of this Court to assert its jurisdiction and to punish crime.</p>
+
+<p>At the last session of the Legislature I understand that a Code Commission was appointed to revise the laws. I hope they will take this subject into consideration.</p>
+
+<p>This legislation seems to be skillfully drawn so as to prevent the District Courts from discharging their duties; but as though it had been insufficient to accomplish that object, we find the late Executive of <placeName type="state" key="Utah Territory">the Territory</placeName> joining in the crusade against the courts and denouncing the judges, jurors and members of the bar in the vilest terms.</p>
+
+<p>That too while the Governor was the sworn executive officer of <placeName type="state" key="Utah Territory">the Territory</placeName>&#8212;sworn to take care that the laws should be faithfully executed. There is no question about this. I learn these facts from a sermon of his, published in the <orgName type="newspaper" key="Deseret News">"Deseret News"</orgName>) the church organ.</p>
+
+<p>Respect for my position, the high regard I entertain for a profession to which I have been attached so long, and my duty to you, gentlemen, render it a necessity that I should repel such slanders, come from what quarter they may.</p>
+
+<p>I understand that the late Executive had a suit in court at the time; and these remarks were made by him, because in a single instance he was unable to control the jurors.</p>
+
+<p>I speak of this because it as an effort to destroy the independence of the jury and the efficiency of the court. You should manifest that you are not to he governed by such outside influences, if they are brought to bear upon your minds. I said to you in the outset that the commission of a great number of crimes, in this District, had come to my knowledge. I shall call your attention to a few of them. The perpetrators of these crimes have not been prosecuted. The reason why I cannot tell. It strikes me, however, that certain outside influences have prevented their prosecution.</p>
+
+<p>If you do your duty you will not neglect to enquire into these matters, nor will you allow the offenders to go unpunished.</p>
+
+    <p>I may mention to you the massacre <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. In that massacre <seg type="Massacre" subtype="Casualties">a whole train was cut off</seg>, <seg type="Massacre" subtype="Survivors">except a few children who were too young to give evidence in court.</seg> <seg type="Blame" subtype="IndiansIndependently">It has been said that this offence was committed by the Indians.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">In committing such an outrage, Indians would not be so discriminate as to save only such children as wound be unable to give testimony of the transaction in a court of justice. In a general slaughter, if any were to be saved by Indians, they would have been most likely those persons who would give less trouble than infants. But the fact is, there were others there engaged in that horrible crime.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">A large organized body of white persons, are to be seen leaving <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, late in the evening, all armed, traveling in wagons and on horseback under the guide and direction of the prominent men of that place.  The object of their mission is a secret to all but those engaged in it. To all others the movement is shrouded in mystery. They are met by another organized band from the town of Harmony. The two bands are consolidated. Speeches are made to them by their desperate leaders in regard to their mission. They proceeded in the direction of the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. In two or three days they may be seen returning from that direction, <seg type="Massacre" subtype="Spoils">bearing with them an immense amount of property, consisting of hundreds of mules, horses, cattle and wagons, as the spoils of their nefarious expedition.</seg> <seg type="Massacre" subtype="Casualties">Out of a train of one hundred and forty persons fifteen</seg> <seg type="Massacre" subtype="Survivors">infants alone remain, who are too young to tell the sad story.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">That Indians were engaged in it, there is no doubt; but they were incited to engage in it, by white men, worse than demons.</seg></seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">I might give you the names of the leading white persons engaged; but prudence dictates that I should not. It is said the Chief <persName key="Kanosh">Kanosh</persName> was there. If so, he is amenable to law and liable to be punished. <seg type="Massacre" subtype="Spoils">The Indians complain that in the division of the *spoils, they did not get their share; that their white brothers in crime did not divide equally with them, but gave them the refuse.</seg> I will also call your attention to a case near here, at <placeName type="settlement" key="Springville, UT">Springville</placeName>&#8212;the murders of <persName key="Potter, 'Duff'">Potter</persName> and the <persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrishes</persName></persName>. The <persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrishes</persName></persName> and <persName key="Potter, 'Duff'">Potter</persName> not being satisfied with the condition of affairs, there, are about to leave for <placeName type="state" key="California">California</placeName>. Not deeming it safe to leave in the daytime, they start out in the evening. Within a short distance of the south gate of the city wall two of the <persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrishes</persName></persName>, father and son, and <persName key="Potter, 'Duff'">Potter</persName>, are most brutally murdered <persName key="Parrish, Owen">Owen Parrish</persName>, a lad of seventeen or eighteen years of age, is with them at the time. Owen makes his escape and succeeds in getting, back to his uncle's house in the village.  By his testimony you will learn the names of the persons who were identified in the commission of that offence. He will be able to tell you who followed him to the, horse of his uncle.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">These murders took place on the 14th March, 1857. <placeName type="settlement" key="Springville, UT">Springville</placeName> is a village of a few hundred inhabitants. Here are three persons butchered in the most inhuman manner, and the criminals go unwhipt of justice.</seg></p>
+
+<p>At the same place, about a year ago, <persName key="Forbes, Henry">Henry Forbes</persName>, a young man who came in from <placeName type="state" key="California">California</placeName> on his way to the States, was also murdered. He arrived there after the difficulties arose between this community and the general government. While there he made his home at <persName key="Terry, Partial">Partial Terry</persName>'s, and had been there but a week or two, when his horse and revolver were stolen. Of course that was done by the Indians!! He afterwards made his escape, tried to get over the mountains to <orgName type="military" key="Fort Bridger">Bridger</orgName>, was caught, brought back and murdered; and that is the last of <persName key="Forbes, Henry">Henry Forbes</persName>. No investigation was made, and the body has been removed several times since it was first interred, so that now its whereabouts probably could not be discovered.  Shortly after <persName key="Forbes, Henry">Forbes</persName>' murder, <persName key="Terry, Partial">Terry</persName> trades off his horse (which the Indians had stolen!!) for sheep. <persName key="Forbes, Henry">Forbes</persName> is said to have left a wife and two children in the state of <placeName type="state" key="Illinois">Illinois</placeName>. He manifested an anxiety to get back to them. They may even yet know nothing of his fate.</p>
+
+<p><persName key="Jones, Henry">Henry Jones</persName>, was also murdered at <placeName type="settlement" key="Salem City, UT">Pond-Town</placeName>, about a year ago. He was castrated up at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>; having recovered from the effects of it and gone to <placeName type="settlement" key="Payson, UT">Payson</placeName>, he is there set upon, chased to <placeName type="settlement" key="Salem City, UT">Pond-Town</placeName>, about three miles distant, and there shot.</p>
+
+<p>It is reported that he had committed some sin which is looked upon in the Church as unpardonable. His mother was also murdered for some cause. <persName key="Jones, Henry">Jones</persName> was taken back to <placeName type="settlement" key="Payson, UT">Payson</placeName>, pitched into the house, called a dug-out, in which they had lived, by the side of the murdered body of his mother; and the house pulled down over them for a common tomb in which both lay buried without cub or shroud.</p>
+
+<p><seg type="Context" subtype="ParrishMurder">There is another matter to which I wish to call your attention. A few days before the murder of the <persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrishes</persName></persName> and <persName key="Potter, 'Duff'">Potter</persName>, Parrish's stable was broken into in the night and his carriage and horses taken out. Two of these horses have never been returned.  <persName key="Gee, Lysander">Lysander Gee</persName>, of <placeName type="settlement" key="Tooele City, UT">Tooele City</placeName>, has those horses.  He says that they were brought to him, placed in his possession, and he was directed not to part with them; but to keep them at all hazards. Now, does it not look strange, that a person should go to Parrish's stable, break it open, rob Mr. Parrish of his horse, take them to <persName key="Gee, Lysander">Lysander Gee</persName>, and tell him to keep them. Does it look reasonable?  Is it not more reasonable to suppose that <persName key="Gee, Lysander">Lysander Gee</persName> was himself engaged in committing this outrage? The wife of Parrish told me that on account of the robberies committed upon them about the time of the murder of her husband, and being left with a family of children, she has since been compelled to live in the very dregs of poverty, at times living upon bread and water alone.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">Here is a case of public notoriety, when the private property of a family is taken, the party taking it with the sanction of the community, and brazenly and boastingly carrying it with him through <placeName type="state" key="Utah Territory">the Territory</placeName>. I say bring that man up; compel hint to restore those horses; give back the property to the widow of the murdered man. Do not allow her to live in poverty while such scoundrels are driving about with the property of her husband to which she is entitled.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">It is not pleasant to talk about crimes that have been committed, but it is my desire that you shall investigate them.</seg></p>
+
+<p>My object in particularly calling your attention to these crimes, is, that the responsibility shall be with you, if the offenders are allowed to go unpunished. The Court will do its duty, and the question is whether you will bring these offenders to trial. I might have called your attention to many other crimes which have been committed in the District. For the present I have decided it unnecessary.</p>
+
+<p>Some cases of larceny and also of purchasing, the clothing of soldiers, have occured at <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>, to which I shall call the attention of the Attorney for <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+
+<p>Unless you faithfully discharge your duties, this community cannot escape the <unclear /> of the offences to which I have called your attention. To allow these matters to pass over, gives a color of authority for commission of crime.</p>
+
+<p><seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">The very fact that such an affair as the Mountain Meadow massacre should so long have been left uninvestigated, shows that there is some person high in the <unclear />tion of the people, by whose authority crime is committed.</seg></seg></p>
+
+<p>Such is the view that will be taken of it, unless you do your duty fully and fearlessly.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">You can know no criminal code, but the laws of Congress and of this Territory.  No person can commit crimes and say that they are authorized by higher authorities.  If such notions are entertained here, they must be dispelled.</seg></p>
+
+<p>(After which the Court gave the Grand Jury the usual instructions, as to the manner of their organization, and the rules of law regulating the finding of Indictments and their return into Court, &amp;c.)</p>
+</div1>
+</body>
+</text>
+</TEI>

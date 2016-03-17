@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.asgd.18580227">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Public Meeting of the People of Carroll County</title>
+                <title level="m" type="sub"/>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.asgd.18580227</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in
+                    Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="summary"> </note>
+            </notesStmt>
+
+            <sourceDesc>
+
+                <bibl>
+                    <title level="a">Public Meeting of the People of Carroll County</title>
+                    <title level="j">Arkansas State Gazette and Democrat</title>
+                    <author>Editors</author>
+                    <publisher>Arkansas State Gazette and Democrat</publisher>
+                    <pubPlace>Little Rock, AR</pubPlace>
+                    <date when="1858-02-27">1858-02-27</date>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term> 
+                </keywords>
+                <keywords scheme="original" n="culpability">
+                    <term>Mormons and Indians </term>
+                </keywords>
+                <keywords scheme="original" n="sympathy">
+                    <term>Emigrants</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-16"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+        <change when="2007-05-07"><name>Douglas Seefeldt</name> Initial Encoding</change>
+        <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+        <change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+    <text>
+
+
+        <body>
+            <div1 type="newspaper">
+                
+                <pb n="unknown" xml:id="mmm.news.asgd.18580227.001"/>
+                
+               <head>Public Meeting of the People of Carroll County</head>
+
+
+                <p>At a public meeting of the citizens of Carroll county, held in <placeName
+                        type="settlement" key="Carrollton, AR">Carrollton</placeName>, on the 1st
+                    day of February, 1858, in pursuance of public notice, the following proceeding
+                    were had:</p>
+
+                <p>On motion, <persName key="Crump, John">John Crump, Esq</persName>. was called on
+                    and unanimously selected to act as president of the meeting, and <persName
+                        key="Haggin, John">John Haggin</persName> was appointed secretary.</p>
+
+                <p>On motion, it was determined that the president should appoint a committee of
+                    three to draft suitable resolutions for the occasion, and such as would be
+                    expressive of the feelings and sense of the meeting.</p>
+
+                <p>Thereupon, the following named gentlemen were appointed such committee, to wit:
+                        <persName key="Byrne, Bryce">Bryce Byrne</persName>, <persName
+                        key="Watkins, W. W.">W. W. Watkins</persName> and <persName
+                        key="Haggin, John">John Haggin</persName>. The committee after deliberating
+                    and considering of their duty, reported the following preamble and resolutions
+                    which were unanimously concurred in and adopted:</p>
+
+                <p>WHEREAS, The painful intelligence has reached us that, in July last, <seg
+                        type="Emigrants" subtype="WagonTrain">an emigrant train with <seg
+                            type="Massacre" subtype="Casualties">130 persons</seg>
+                        <seg type="Emigrants" subtype="StateAffiliationArkansas">from
+                        Arkansas</seg></seg>
+                    <seg type="Blame" subtype="IndiansLDSInfluence">was attacked by the <orgName
+                            type="religious" key="Church of Jesus Christ of Later-day Saints"
+                            >Mormons </orgName>and <orgName type="native" key="Southern Paiutes"
+                            >Santa Clara tribe of Indians</orgName></seg>
+                    <seg type="Massacre" subtype="Location">near the rim of the Great Basin, and
+                        about fifty miles from <placeName type="settlement" key="Cedar City">Cedar
+                            City, in Utah Territory</placeName></seg>, and that <seg type="Massacre"
+                        subtype="Casualties">all of the emigrants, <seg type="Massacre"
+                            subtype="Survivors">with the exception of 15 children</seg>, were then
+                        and there massacred and murdered&#8212;<seg type="Massacre"
+                            subtype="Survivors">that the children thus saved from the dreadful fate
+                            of their parents and the rest of their company were delivered over to
+                            the custody of the Mormons of Cedar city</seg>; and that among those who
+                        were with the said train at the time of the massacre were <persName
+                            key="Baker, John T.">John T. Baker</persName> and sons, <persName
+                            key="Baker, George W.">George </persName>and <persName key="Baker, Abel"
+                            >Able</persName>, <persName key="Mitchell, Charles R.">Charles
+                        </persName>and <persName key="Mitchell, Joel D.">Joel Mitchell</persName>,
+                        sons of <persName key="Mitchell, William C.">Col. Wm. C.
+                        Mitchell</persName>, of <placeName type="county" key="Marion County, AR"
+                            >Marion county</placeName>, <persName key="Deshazo, Allen P.">Allen
+                            Derhazo</persName>, <persName key="Baker, Manerva A. Beller">George
+                            Baker's wife</persName> and <persName key="Baker, Mary Lovina">
+                            <persName key="Baker, Mary Elizabeth">
+                                <persName key="Baker, Sarah Frances">
+                                    <persName key="Baker, William Twitty">four children</persName>
+                                </persName>
+                            </persName>
+                        </persName>, <persName key="Mitchell, Sarah C. Baker">Charles Mitchell's s
+                            wife</persName> and <persName key="Mitchell, John">child</persName>,
+                            <persName key="Jones, John Milum">Milam Jones</persName> and his
+                            <persName key="Jones, Newton">brother</persName>, and <persName
+                            key="Tackitt, Cynthia">his mother-in-law</persName> and <persName
+                            key="Tackitt, Marion">
+                            <persName key="Tackitt, Sebron">
+                                <persName key="Tackitt, Matilda">
+                                    <persName key="Tackitt, James M.">
+                                        <persName key="Tackitt, Jones M.">
+                                            <persName key="Jones, Eloah Angeline Tackitt">
+                                                <persName key="Jones, Felix Marion"
+                                                  >family</persName>
+                                            </persName>
+                                        </persName>
+                                    </persName>
+                                </persName>
+                            </persName>
+                        </persName>, <persName key="Tackitt, Pleasant">Pleasant Tacket</persName>
+                        and <persName key="Tackitt, Armilda Miller">
+                            <persName key="Tackitt, Emberson Milum">
+                                <persName key="Tackitt, William Henry">family</persName>
+                            </persName>
+                        </persName>, <persName key="Fancher, Alexander">Alexander Fancher</persName>
+                        and <persName key="Fancher, Eliza Ingrum">
+                            <persName key="Fancher, Hampton">
+                                <persName key="Fancher, William">
+                                    <persName key="Fancher, Mary">
+                                        <persName key="Fancher, Thomas">
+                                            <persName key="Fancher, Martha">
+                                                <persName key="Fancher, Sarah G.">
+                                                  <persName key="Fancher, Margaret A.">
+                                                  <persName key="Fancher, Christopher Kit Carson">
+                                                  <persName key="Fancher, Triphenia D."
+                                                  >family</persName>
+                                                  </persName>
+                                                  </persName>
+                                                </persName>
+                                            </persName>
+                                        </persName>
+                                    </persName>
+                                </persName>
+                            </persName>
+                        </persName>, <persName key="Cameron, William">Wm. Cameron</persName> and
+                            <persName key="Cameron, Martha">
+                            <persName key="Cameron, Tillman">
+                                <persName key="Cameron, Isom">
+                                    <persName key="Cameron, Henry">
+                                        <persName key="Cameron, James">
+                                            <persName key="Cameron, Martha">
+                                                <persName key="Cameron, Larkin">
+                                                  <persName key="Cameron, Nancy">family</persName>
+                                                </persName>
+                                            </persName>
+                                        </persName>
+                                    </persName>
+                                </persName>
+                            </persName>
+                        </persName>, <persName key="Huff, Saladia Ann Brown">widow Huff</persName>
+                        (whose husband, <persName key="Huff, Peter">Peter Huff</persName>, died
+                        after they had started on the route) and some others&#8212;<seg
+                            type="Emigrants" subtype="WagonTrain">all of whom were our neighbors,
+                            friends and acquaintances, and their families, and the same persons who
+                            constituted the company that left <placeName type="county"
+                                key="Carroll County, AR">Carroll county</placeName> in April last,
+                            for <placeName type="state" key="California">California</placeName>, and
+                            which was known as Baker's company</seg></seg>. <seg type="Context"
+                        subtype="UtahWar"><seg type="Context" subtype="IndianRelationsLDS">And
+                            whereas it appears from many other instances of atrocity and crime which
+                            could be recited, that the <orgName type="religious"
+                                key="Church of Jesus Christ of Later-day Saints">Mormons
+                            </orgName>are instigating the <orgName type="native" key="Indians"
+                                >Indians </orgName>to hostilities against our citizens</seg>, and
+                        are and have been as a community, systematically engaged in the infamous
+                        work of robbing and murdering peaceful wayfarers and emigrants and resisting
+                        the authority and laws of the United States-and in short of rebellion and
+                        treason against the general government</seg>; therefore be it</p>
+
+                <p>Resolved: <seg type="Reaction" subtype="FederalInvestigation"><seg type="Blame"
+                            subtype="LDS">
+                            <seg type="Blame" subtype="IndiansLDSInfluence">That we, the people of
+                                    <placeName type="county" key="Carroll County, AR">Carroll
+                                    county</placeName>, feeling deeply aggrieved in consequence of
+                                the many and continued outrages committed upon the persons and
+                                property of our citizens, by the <orgName type="religious"
+                                    key="Church of Jesus Christ of Later-day Saints">Mormons
+                                </orgName>and <orgName type="native" key="Indians"
+                                >Indians</orgName>, acting under their instigation, and especially
+                                on account of the loss of such a number of our most estimable
+                                citizens, countrymen and friends, and their wives and children in
+                                the late massacre of an emigrant train <seg type="Massacre"
+                                    subtype="Location">near <placeName type="settlement"
+                                        key="Cedar City, UT">Cedar city</placeName>, in <placeName
+                                        type="state" key="Utah Territory">Utah
+                                    Territory</placeName></seg></seg>
+                        </seg>, do hereby petition, and call upon the government of the United
+                        States to have thoroughly investigated the affair of said dreadful tragedy,
+                        and deal out retributive justice to the parties guilty of the monstrous
+                        deed</seg>.</p>
+
+                <p>Resolved, <seg type="Reaction" subtype="FederalInvestigation">
+                        <seg type="Massacre" subtype="Survivors">That as it appears from reliable
+                            information, there were spared and saved from destruction as many as
+                            fifteen infant children, in said massacre, that we hereby call on the
+                            general government for assistance and aid in rescuing said children from
+                            their captors, and restoring them to their relations and friends in
+                                <placeName type="state" key="Arkansas">Arkansas</placeName></seg>
+                    </seg>.</p>
+
+                <p>Resolved, That we request our <persName key="Greenwood, Alfred Burton">
+                        <persName key="Warren, Edward Allen">representatives </persName>
+                    </persName>and <persName key="Sebastian, William K.">
+                        <persName key="Johnson, Robert W.">senators </persName>
+                    </persName>in congress to use their influence and best exertions to have passed
+                    an act making an appropriation for the purpose of defraying the expenses which
+                    it may be necessary to incur in order to reclaim and bring home to their
+                    relations the children which were as aforesaid saved from the massacre.</p>
+
+                <p>Resolved, That we offer our condolence and sympathy to the distressed parents and
+                    immediate relations of the unfortunate adventurers who met on plains, as
+                    aforesaid, such a lamentable fate.</p>
+
+                <p><seg type="Reaction" subtype="MilitaryRetaliation">Resolved, That in our opinion
+                        the government should immediately adopt decisive measures for subduing the
+                        spirit of insubordination and treason, that is now rife amongst the <orgName
+                            type="religious" key="Church of Jesus Christ of Later-day Saints"
+                            >Mormons</orgName>, and to that end should call on <placeName
+                            type="state" key="Arkansas">Arkansas </placeName>for volunteers, and
+                        that we, the people of <placeName type="county" key="Carroll County, AR"
+                            >Carroll county</placeName>, hold ourselves ready to respond to any such
+                        call for volunteers, by tendering the services of at least four
+                        companies</seg>.</p>
+
+                <p>Resolved, That the <orgName type="newspaper" key="True Democrat">True
+                        Democrat</orgName> and the <orgName type="newspaper"
+                        key="Arkansas State Gazette and Democrat">Gazette and Democrat</orgName>,
+                    are hereby requested to publish the proceedings of this meeting.</p>
+                <closer>
+                    <signed><persName key="Crump, John">JOHN CRUMP</persName>, President.</signed>
+                    <signed><persName key="Haggin, John">JOHN HAGGIN</persName>, Secretary.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI>

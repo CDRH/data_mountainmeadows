@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18650210">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Murdered Innocents</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18650210</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+	  	    <title level="j">Union Vedette</title>
+		    <title level="a" type="main">Murdered Innocents</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Camp Douglas, UT</pubPlace>
+		    <date when="1865-02-10">February 10, 1865</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>Validation</change>
+	<change when="2010-04-01"><name>Kelsey F. Harris</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18650210.001"/>
+
+
+<head>Murdered Innocents.</head>
+
+<p><seg type="Massacre" subtype="Dates">In the month of September 1857</seg> a party of emigrants were journeying
+<seg type="Emigrants" subtype="Route">through Southern <placeName type="state" key="Utah Territory">Utah</placeName>, <hi rend="italic">en route</hi> for <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName></seg>.  <seg type="Emigrants" subtype="WagonTrain">The party was composed of <seg type="Massacre" subtype="Casualties">about one hundred and forty men, women and children</seg>; and was <seg type="Massacre" subtype="Spoils">finely equiped with wagons, horses, mules, oxen and considerable other valuable property</seg>.</seg> <seg type="Massacre" subtype="Dates">On a bright and lovely morning of early September</seg>, this party entered <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>&#8212;traveled down it to the springs, located near the southern extremity</seg>, and camped, with the intention of remaining several days for the purpose of recruiting the stock before entering upon the desert country just beyond.</p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">The camp was scarcely settled down, into that quiet comfort, peculiar to an emigrant party when intending to rest several days, ere it was attacked by a 
+body of Indians.</seg>  The men of this party were not easily frightened or readily whipped.  The camp was entrenched by digging away the earth under the wagon wheels&#8212;allowing the wagons to settle close to the ground, while the earth was
+thrown up so as to form, with the wagon beds, a complete breastwork.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">For three days the Indians continued the attack without avail.</seg>  They were unable to conquer those brave men&#8212;cumbered as they were with their wives and
+children.</seg>  The most damnable duplicity&#8212;having no equal on the pages of history &#8212;was then employed to consummate what Indian <hi rend="italic">bravery </hi>could not do. <seg type="Massacre" subtype="Surrender">A <hi rend="italic">white</hi> man appeared at the head of the valley with a <hi rend="italic">white flag</hi>; and, so glad were those weary men to see a messenger of peace&#8212;<hi rend="italic">one of their own blood and nation</hi>&#8212;that they dressed a little innocent in a white frock and a pair of strong arms held her up so that the messenger could see her.  He rode into the camp. Need we follow his words and tell how he led, those men to believe him.  Who would not believe a <hi rend="italic">white</hi> man under such circumstances?  Those men, under pledge of protection, agreed to give up their arms and surrender their property. They were willing to give up all, if in doing so they could save their loved ones.  Like true men their wives and children were their first thoughts.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Surrender">The messenger went away and returned in a few hours with the statement that the Indians had consented to let them go upon the terms already mentioned.</seg></seg></p>
+
+<p>Then commenced the preparation for the final act of the tragedy. The women and children were first started&#8212;the men following, totally disarmed and all like sheep going to the slaughter.  Less than half a mile from the Springs, the signal was given and then commenced the carnival of white demons.  <seg type="Massacre" subtype="Casualties">These white men, women and children were shot down&#8212;butchered&#8212; murdered</seg>&#8212;<seg type="Blame" subtype="LDS_LDS">by men of their own blood and nation</seg>.  Once instance well substantiated, is shown where a young girl was violated as on bended knee she begged for the boon of life.  <seg type="Massacre" subtype="Survivors">A few of the children so small that it was thought they could not remember the slaughter were spared.  Their then little tongues have grown into a testimony.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">One hundred and twenty peaceable men, women and children</seg> were thus
+<seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">murdered by white fiends and their Indian allies</seg></seg>.  <seg type="Massacre" subtype="Spoils">The Indians received the old clothing, a quantity of provisions and a few worn out cattle.  The balance of the property passed into the hands of <hi rend="italic">the leaders of the Mormon Church</hi>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">A few weeks before, the doctrine of shedding human blood for the remission of sin had been advocated. </seg> <seg type="Context" subtype="WesternViolence">The Mountain Meadow Massacre was but
+one of the bloody links of a reign of terror then existing in Utah.  It was in fact the culmination.</seg>  From this deed<cb n="2" />the community shrunk back stricken with horror.  Such an act had never before disgraced humanity.</p>
+
+<p>Who are responsible before God and mankind for this massacre?  The perpetrators of it yet stalk through<placeName type="state" key="Utah Territory"> the Territory </placeName>unpunished.  Every obstacle possible has been thrown in the way of the United States Judges when they have attempted to investigate it.  <seg type="Massacre" subtype="Aftermath">Two monuments, erected there by army officers have been destroyed.</seg></p>
+
+<p>Shall we admit <placeName type="state" key="Utah Territory">Utah</placeName> into the Union of States while so damnable a crime  stands against her and is unavenged?</p>
+
+<p>The blood of the murdered innocents cries to Heaven.</p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">With reverence we bow our head and pray that God will smith the demons of the Mountain Meadow Massacre with the everlasting fires of his wrath&#8212;that the fiat of the living and Eternal God will consign them, after this life, to the lowest depths of his punishment.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

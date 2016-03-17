@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18580204">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Utah Expedition</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18580204</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Reports from the U.S. Army camp at Fort Bridger indicates the Times' correspondent is concerned with Mountain Meadows.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">THE UTAH EXPEDITION</title>
+		    <title level="j">New York Times</title>
+		    <author>Correspondent New York Times</author>
+		    <publisher>New York Times</publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1858-02-04">1858-02-04</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2007-05-08"><name>Leslie Working</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.nyt.18580204.001"/>
+
+    <head type="main">THE UTAH EXPEDITION.</head>
+    
+    <milestone unit="horbar" />
+
+    <head type="sub">The Army in Good Health&#8212;Volunteers Enrolled&#8212;Mormon Complicity with the Indians&#8212;Interesting Statement of Facts.</head>
+
+    <milestone unit="horbar" />
+
+    <head type="sub">From Our Army Correspondent.</head>
+
+    <dateline>CAMP NEAR <placeName type="military_post" key="Fort Bridger, UT">FORT BRIDGER, UTAH TERRITORY</placeName><lb/>
+
+    <date when="1857-12-14">Monday, Dec. 14, 1857</date>.</dateline>
+
+<p><seg type="Context" subtype="UtahWar">Since my letter of Dec. 1, nothing of particular interest has occurred in camp. We are getting on very well; are in good health and spirits, but not quite reconciled to our disappointment in not spending the Winter in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. We however console ourselves with the hope of making our entrance into the Holy City next Summer. Five companies of volunteers, formed almost entirely of the teamsters who came with the trains, have been enrolled and placed under the command of Capt. <persName key="Bee, Barnard Elliot">BEE</persName>, of the 10th Infantry.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">Judge <persName key="Eckles, Delana R.">ECKLES</persName>, Untied States District Judge, is holding a term of his Court here, and several cases have been tried. The weather for the past ten days has been very disagreeable, with frequent snows, but not very cold. </seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">The rumors of <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormon</orgName> complicity with the <orgName type="native" key="Indians">Indians</orgName> in the horrible massacre of the California emigrants and others, in passing through Utah, is confirmed by the report of <persName key="Hurt, Garland">Dr. HURT</persName>, the Indian Agent, and Others.</seg> <seg type="Context" subtype="IndianRelationsLDS"><persName key="Young, Brigham">Brigham Young</persName>'s boasted power and influence over the Indians since he has assumed his treasonable position towards the General Government, is used to its full extent against it. <seg type="Context" subtype="WesternViolence">Persons passing to and from California through Utah, were often cautioned against the Indians by the Mormons. After being very inquisitive about the route they intended to take, they would say to them "Look out, the Indians are very bad on that road;" or, "If you ain't careful, the Indians will clean you out before you get through."</seg></seg></p>
+
+<p>The significance of these remarks a few incidents will serve to establish.</p>
+
+<p>Early in February last, two gentlemen, <persName key="Peltro, John">JOHN PELTRO</persName> and <persName key="Tobin, John">JOHN TOBIN</persName>, the latter an apostate Mormon, in company with several others, came to the <placeName type="settlement" key="Spanish Fork Indian Farm">Indian Farm, on the Spanish Fork</placeName>, on their way to California. While there, <persName key="Young, Brigham, Jr.">BRIGHAM YOUNG, junior</persName>, a son of the High Priest, and a young man named TAYLOR, overtook them and remained over night and all left in the morning. <persName key="Peltro, John">PELTRO</persName> and his party started first, and jocularly asked <persName key="Young, Brigham, Jr.">YOUNG</persName> and TAYLOR if they were going their way. <persName key="Young, Brigham, Jr.">YOUNG</persName> was heard to say, in an under tone: "We will overtake you soon enough." <seg type="Context" subtype="IndianRelationsLDS">As soon as they had left it was the talk among the Mormons that the Indians were very hostile on the route this party had taken. In anticipation of the facts, before <persName key="Peltro, John">Mr. PELTRO</persName> and the party had time to reach the southern settlements, rumors were rife that they had all been cut off by the Indians. </seg></p>
+
+<p>The mail-carrier of the California mail that came up soon after reported that the party was attacked in the night, while asleep on the <geogName type="waterway" key="Santa Clara River">Santa Clara River</geogName>, by the <orgName type="native" key="Southern Paiutes">Pi-edes</orgName> Indians, who robbed them. <persName key="Tobin, John">JOHN TOBIN</persName> was severely wounded in the face; two others of the party were also wounded but not so seriously. It is a significant fact that all the balls found in the blankets of the sleeping party fitted the navy-size revolvers, and the <orgName type="native" key="Ute">Utah Indians</orgName> pertinaciously assert that the <orgName type="native" key="Southern Paiutes">Pi-edes</orgName> had nothing to do with it. One of the party wrote an account of the affair to <persName key="Burr, David H.">Gen. Burr</persName>, at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and forwarded it by the mail before referred to. When the mail reached Provo the letter was taken out and torn up by a Mormon, with the remark that the "old General should never see that mess of stuff." </p>
+
+<p>In the early part of September <persName key="Hancock, George">G.W. HANCOCK</persName>, a Mormon merchant from <placeName type="settlement" key="Payson, UT">Paysan</placeName>, was at the Indian Farm, and said that an express had gone up to President <persName key="Young, Brigham">YOUNG</persName> with the intelligence that <seg type="Massacre" subtype="Battle">some California emigrants had been attacked by the Indians, and were entrenched behind their wagons</seg>, and to get his instructions what to do with the American. <seg type="Source" subtype="WordofMouth"><seg type="Blame" subtype="LDS_LDS">On the next day one of the Utah Indians, who had been gathering pine nuts west of the <geogName type="waterway" key="Sevier Lake">Seveir Lake</geogName>, came in and said that he met a band of the Pi-edes, who told him that the Mormons had killed all the emigrants.</seg></seg> <seg type="Massacre" subtype="RescueAttempt">Three days later another of the Utahs came to the Farm and confirmed the report, saying that his brother <persName key="Ammon">AMMON</persName>, a chief, went to <placeName type="county" key="Iron County">Iron County</placeName> and tried to persuade the Indians to leave the road. The Bishop of the settlement ordered him away, telling him he had no business there.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">This Indians said that the <orgName type="native" key="Southern Paiutes">Pi-edes</orgName> had been instigated by the Mormons.</seg> <seg type="Source" subtype="WordofMouth">These reports of the massacre were soon confirmed by others, and <seg type="Blame" subtype="LDS_LDS">the Indians persisted in saying "the Mormons had killed the Americans." </seg></seg><persName key="Hurt, Garland">Dr. HURT</persName>, wishing to learn more definitely what had occurred, the nature of the difficulties, and the instigators, sent a young Indian in whom he could confide, by a secret route to the Pi-edes. He met that am Ammon's (Indian) village, in <placeName type="county" key="Beaver County, UT">Beaver County</placeName>. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">They acknowledged having participated in the massacre of the emigrants, but said the Mormons persuaded them to it; <seg type="Massacre" subtype="Dates">that about ten or eleven "sleeps" (nights) ago</seg>, <persName key="Lee, John D.">J.D. LEE</persName> came to their village and told them that the Americans were bad people, and always killed Indians whenever they had a chance and that they killed the Mormons, who were the friends of the Indians, and prevailed on them to attack <seg type="Emigrants" subtype="WagonTrain">the emigrants (over 100 in number</seg>,) and promised that the Mormons would help them.</seg></seg> <seg type="Massacre" subtype="Battle">The <orgName type="native" key="Southern Paiutes">Pi-edes</orgName> made three different attacks, but were repulsed each time, when <seg type="Massacre" subtype="Surrender">a number of Mormons, with LEE and the Bishop of Cedar City, went to the emigrant camp, pretending to be friends, and, under the pretext of settling the difficulties, persuaded them to lay down their arms, and permit the Indians to come inside their defences, when the work of butchery commenced.</seg> <seg type="Massacre" subtype="Casualties">To use the language of the young Indian, "they cut all their throats," but a few of them started to run off, and the Pi-edes shot them.</seg></seg> <seg type="Massacre" subtype="Survivors">He also said there were some 15 or 16 small children, who were not killed, but were taken by the Bishop</seg>. <seg type="Massacre" subtype="Spoils">LEE and the Bishop took all the stock, (over 1,000 head,) and a large amount of money.</seg></p>
+
+<p>A report also reached the Indian farm that the Snake Indians, under a chief named LITTLE SOLDER, had attacked an emigrant train in charge of a man named SQUIERS, from Missouri, He was encamped near Ogden. They drove off all his cattle, (nearly 500 head,) and all his mules nad horses. The Utah Indians say that the Mormons took the stock themselves. BEN SIMONS, a Delaware Indian, who lives with the Snakes in Weber Valley, says that in the early part of September DIMICK B. HUNTINGTON, (BRIGHAM YOUNG'S Indian interpreter,) and Bishop West, of Ogden, came to the Sanke village, and told the Indians that BRIGHAM YOUNG wished them to steal the emigrants' cattle. He says the Snake chiefs consulted him about it. He advised them not to do it, which advice they concluded to follow&#8212;but HUNTINGTON and WEST insisted upon their stealing the cattle; the chiefs replied that they did not want them, and if the Mormons wanted them, they might get them themselves. SIMONS says he know the Mormons have got the stock. A.B.C.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

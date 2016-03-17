@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.codman.1874">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mormon Country: A Summer with the Latter-Day Saints.</title>
+                <title level="m" type="sub"></title>
+                <author><forename>John</forename> <surname>Codman</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.codman.1874</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Mormon Country: A Summer with the Latter-Day Saints.</title>
+                    <author><forename>John</forename> <surname>Codman</surname></author>
+                    <publisher>United States Pub. Co.</publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent>155-158</extent>
+                    <date when="1874">1874</date>
+                    <note type="source">John Codman. <hi rend="italic">The Mormon Country: A Summer with the “Latter-Day Saints.”</hi> New York, NY: United States Pub. Co., 1874. 155-158.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-10-06"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="155" xml:id="mmm.anti.codman.1874.186"/>
+
+<head>CHAPTER XVI.</head>
+
+<p><hi rend="center">The Mountain Meadow: Massacre.&#8212;The Battle with the Morrisites.&#8212;"Let us have peace."</hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDSZealots"><hi rend="smallcaps">THE</hi> Mormon nature, like that of a hound which has once tasted blood, has been on occasions ferocious. The "Mountain Meadows Massacre" <seg type="Massacre" subtype="Dates">of 1857</seg> is one of the saddest recorded instances of barbarous fanaticism.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">A company of emigrants of <seg type="Massacre" subtype="Casualties">one hundred and twenty men, women, and children</seg>, <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName>, were passing through Utah</seg>.</seg> <seg type="Encounter" subtype="TradeLDS">Heretofore, and generally afterwards, the emigrants were kindly treated by the Mormons, whose interest it was to exchange with them provisions for money and articles of trade.</seg> <seg type="Blame" subtype="LDS_LDS">But in this case, merely because <seg type="Context" subtype="LDSPersecution"><seg type="Emigrants" subtype="StateAffiliationMissouri">it was conjectured that among their number there were two or three individuals who had persecuted the Saints while they were settled in <placeName type="state" key="Missouri">Missouri</placeName></seg></seg>, vengeance was taken on the whole company.</seg></p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> then held the commission of Governor from the President of the United States:
+
+<pb n="156" xml:id="mmm.anti.codman.1874.187"/>
+
+<seg type="Encounter" subtype="TradeLDS">It is said, and I do not know that it has been denied by him, that he sent orders to all the settlements to withhold supplies from this company, and to have no intercourse with them whatever. If this be true, it should have been the cause of his instant removal from office; for it was equivalent to an attempt to starve them, and was in any point of view a criminal offence in an officer of the government.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">After unsuccessful attempts to procure provisions, the company moved on to the West</seg>; but before they had got beyond the confines of <placeName type="state" key="Utah Territory">Utah</placeName>, <seg type="Blame" subtype="IndiansLDSInfluence">they were attacked by a large force of Indians</seg> and <seg type="Blame" subtype="LDS_LDS">Mormons disguised as Indians</seg>, and <seg type="Massacre" subtype="Casualties">every individual</seg>, <seg type="Massacre" subtype="Survivors">with the exception of seventeen little children</seg>, was murdered in cold blood!</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It is scarcely pretended that <persName key="Young, Brigham">Brigham Young</persName> gave the order for this massacre, but it is a fact that he took no steps to bring the perpetrators to punishment. The band of murderers was undoubtedly made up of savages, thieves, and zealots, and the crime may be imputed to them all. But no one can deny that Mormonism is entitled to its share.</seg> This is the most horrid story in all the annals of <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<p>Next in order is the butchery of the Morrisites in 1862. <persName key="Morris, Joseph">Morris</persName> was a fanatic who had the audacity to have revelations at variance with those given by the Lord to <persName key="Young, Brigham">Brigham Young</persName>. <seg type="Context" subtype="Polygamy">He was instructed by the
+
+<pb n="157" xml:id="mmm.anti.codman.1874.188"/>
+
+Lord to warn <persName key="Young, Brigham">Brigham</persName> himself that he was going to too great an excess in matrimony.</seg></p>
+
+<p><persName key="Young, Brigham">The prophet</persName>, of course, did not credit the divine mission of <persName key="Morris, Joseph">Morris</persName>, nor did he like to be instructed by him; but he treated him with sublime indifference. At last <persName key="Morris, Joseph">Morris</persName>, growing bold, rendered himself amenable to the civil law,  and, after many disputes, he and his followers took up arms and entrenched themselves in their fortified settlement. </p>
+
+<p>Here they were attacked by the Mormon forces, and their surrender demanded. Retiring into their "bowery," the summer meeting-house in general use, they commenced praying to the Lord for counsel. Then the Mormons fired on them, killing several persons and severely wounding others. Among them was a little girl whom I afterwards met at Soda Springs. She is now a married woman, and her scarred face is a memorial of that day. From herself and her husband, who was also present, I received this account.</p>
+
+<p>The men rushed to their arms, and defended themselves, their families, and their property for three days, when their ammunition was exhausted. Then, under the protection of a white flag, they surrendered and <persName key="Burton, Robert T.">Burton</persName>, the leader of the attacking' party, riding up to Morris, shot him dead, and when two women thereupon called him a bloodthirsty wretch, this modern Claverhouse shot them dead likewise! Thus
+
+<pb n="158" xml:id="mmm.anti.codman.1874.189"/>
+
+did he make a "blood-atonement" for the wretched Morrisites and saved their souls!</p>
+
+<p>Happily, these atrocities are things of the past. They proceeded from a curious mixture of human passion and religious fanaticism, superinduced by remembrance of the persecutions which they themselves had suffered. "Vengeance is mine, saith the Lord," but the Mormons, supposing that they, like the Israelites, were his peculiar people, considered themselves deputed by him to carry opt his behests. In their view, all who interfered with them were Canaanites, Jebusites, Hittites, and Amalekites, and if Joshua and the armies of Israel smote these troublesome neighbors by tens of thousands at a time, they really did not think they had done anything wrong in killing a few Gentiles and heretics, especially when&#8212;what never entered into Joshua's plans&#8212;their souls were to be saved by "the shedding of blood!"</p>
+
+<p>I do not remember the name of the Federal officer to whom some deputation recently came with a long string of grievances and an enumeration of outrages committed by the Mormons. "Have any of these things been done within a year?" he asked. "No." "Within two, three, four, or five years?" "No." I "Well," he replied, "if they have kept the peace so long, we can trust them now without looking into the past."</p>
+
+</div1>
+</body>
+</text>
+</TEI>

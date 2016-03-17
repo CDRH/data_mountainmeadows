@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18640630">
+     <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	        <title level="m" type="main">Our Notes of Travel Continued&#8212;A visit to the Mountain Meadows</title>
+
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18640630</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Union Vedette</title>
+		    <title level="a" type="main">Our Notes of Travel Continued&#8212;A visit to the Mountain Meadows</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Camp Douglas, UT</pubPlace>
+		    <date when="1864-06-30">June 30, 1864</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		     <term>^%culpability%</term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+			<term>^%sympathy%</term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+	<revisionDesc>
+	    <change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+	    <change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>V alidation</change>
+	    <change when="2010-03-31"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	    <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18640630.001"/>
+
+
+<head>Our Notes of Travel Continued&#8212;A visit to the Mountain Meadows.</head>
+
+<p>By easy and pleasant stages we passed over the main highway from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to Dixie, as far as <placeName type="settlement" key="Cedar City, UT">Cedar city</placeName>; 238 miles, tarrying briefly at <placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="settlement" key="Springville, UT">Springville</placeName>, <placeName type="settlement" key="Payson, UT">Payson</placeName>, <geogName type="valley" key="Salt Creek Canyon">Salt Creek</geogName> <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>(the old Capital of the Territory.) <placeName type="settlement" key="Beaver, UT">Beaver</placeName> and <placeName type="settlement" key="Parowan, UT">Parowan</placeName>.  These latter constituting the main cities of the south, are of considerable size and all bear unmistakable evidences of thrift and prosperity.  Interspersed between those are numerous other settlements of less note in point of numbers, but any and all furnishing agreeable stopping places for the weary emigrant.  At <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> our course left the main Territorial road to the cotton country and we bore off to the southwest along the highway to <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, <placeName type="state" key="California">California</placeName>, via the
+noted <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>.  At <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> we ascertained that there were two roads about equally lengthy, either of which, would bear us safely to our destination, viz: <geogName type="valley" key="Mountain Meadows">Meadow Valley</geogName>.  One of these roads bore west from <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> via <geogName type="waterway" key="Iron Springs">Iron</geogName> and <geogName type="waterway" key="Antelope Springs">Antelope Springs</geogName>, uniting
+with the other at the mouth of <geogName type="waterway" key="Shoal Creek">Shoal Creek</geogName>. The other traverses the mountains, and passing <placeName type="settlement" key="Little 'Painter' Creek">Little</placeName> and <placeName type="settlement" key="Big 'Painter' Creek">Big "Painter" Creek settlements</placeName>, passes through <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>.  Being desirous of visiting the spot of the terrible massacre <seg type="Massacre" subtype="Dates">in September, 1857</seg>, we chose the latter.</p>
+  
+<p><seg type="Massacre" subtype="Aftermath">The <q><geogName type="valley" key="Mountain Meadows">"Meadows"</geogName></q> is a most charming series of little valleys, located among the mountains. &#8212;their verdure presents an agreeable contrast to the rocky and barren scenes by which they are on all sides surrounded.  As we attained the summit between <geogName type="waterway" key="Painter Creek">Painter (more properly Panther) Creek</geogName> and the <geogName type="waterway" key="Meadow Springs">Meadow Springs</geogName>, the scene presented to view, was charming indeed. Around lay the high peaks of frowning mountains which had looked down, seven years agone, upon the horrid butchery which there took place, as imperturbably as the wretches who then and there bathed their hands in the innocent blood of <seg type="Massacre" subtype="Casualties">one hundred and eighteen helpless emigrants</seg>.  Before us lay the spot where the butchery was consummated ; calmly
+as a dream of childhood, slept in beauty in its robes of living green, the lovely vale. The Sun was just passing behind the western verge of the mountain, as we reined up to contemplate the scene, and while we paused upon the mountain height, bathed in the sun light, a thunder shower passed over the lower end of the valley, and a glorious rainbow mounted up to Heaven, one point apparently resting on the apex of the rude monument piously erected a few days before, above the gathered bones of the hapless victims, while the other was lost among the clouds.  That silent yet gorgeous bow, emblem of promise and future hope, seemed thus appealing to the angles above for vengeance, while the weeping cloud dropped gently down on the green graves the very tear&#8212;drops of heaven itself. It was a sublime sight, and we pause stricken with awe at the solemn view, and breathed a  prayer for <seg type="Massacre" subtype="Casualties">the slaughtered innocents</seg>.  Passing down into the meadows, we found them to be about give miles in length&#8212;northerly and southerly&#8212;by form one to two miles in
+breadth; the whole valley covered with Springtime verdure.  The California road enters near the northern end, where are found several large springs of pure wholesome water, which runs through the canon to the north ward.  At the lower end of the valley is another large spring, near which the emigrants were camped on the ill&#8212;fated day of the massacre. Between the two, perhaps half way, a gentle elevation marks the <geogName type="feature" key="Great Basin">rim of the Great Basin</geogName>,
+from either side of which the alters flow to the north or the south&#8212;the one emptying eventually in to the <geogName type="waterway" key="Great Salt Lake">Great Salt Lake</geogName>, or sinking in the arid deserts; the other coursing on
+to the <placeName type="state" key="Colorado">Colorado</placeName>, and thence to the <geogName type="waterway" key="Pacific Ocean">Pacific Ocean</geogName>.  At the lower spring, about 500 yards from the canon, <seg type="Emigrants" subtype="WagonTrain">the party of emigrants&#8212;numbering <seg type="Massacre" subtype="Casualties">at least 118 souls, men, women and suckling babes</seg></seg>&#8212;camped <seg type="Massacre" subtype="Dates">on the 4th of September, 1857.  On the 5th they were attacked</seg><seg type="Blame" subtype="IndiansLDSInfluence"> <seg type="Blame" subtype="LDS_LDS">by Indians and murderous whites</seg></seg>, and <seg type="Massacre" subtype="Battle">manfully withstood every assault for five days</seg> <seg type="Massacre" subtype="Surrender">At the end of this time, by heartless treachery,<cb n="2" />
+the men were induced to lay down their arms and march out of their improvised fort under promise of protection.  They had proceeded about a mile and a half, when they were again set upon by their miscreant foes and ruthlessly slaughtered</seg>.  <seg type="Massacre" subtype="Survivors">Seventeen children, between the ages of two months and seven years, were spared, and eventually recovered by the officers of the government one year later.</seg>  Thus was swept from earth, by heartless massacre, <seg type="Massacre" subtype="Casualties">one of the richest and most numerous parties of emigrants which ever passed through <placeName type="state" key="Utah Territory">Utah</placeName></seg>.</seg></p>
+ 
+<p><seg type="Massacre" subtype="Aftermath">We visited the spot of the massacre.  A few days previously Capt. <persName key="George F. Price">Price</persName> with Co M, 2d Cav. C. V. had passed through, and finding the monument erected by Gen. <persName key="Johnston, Albert Sidney">Johnston</persName>'s command in 1858, had been torn down and strewed about far and near, the command paused two days, gathered up the scattered bones for re internment, and erected a handsome and
+durable monument of cobble stones on the spot where the emigrants had been encamped and were first attacked.  A description of this monument has already been published in the VEDETTE, and we trust that no ruthless vandal hand will again be permitted to disturb the sacred resting place of those who sleep beneath the rude, but appropriate sepulebre. On the eastern face of the cross which crowns the apex are inscribed these words <q>"Vengeance is mine, saith the Lord, and I will repay."</q>  On the reverse, <q>"Erected by the officers and men of Co. M, 2d Cav. C. V., May 24th and 25th 1864."</q></seg>  <seg type="Blame" subtype="LDS_LDS"><seg type="Source" subtype="WordofMouth">Throughout the southern settlements we heard much of the complicity of certain parties in this awful massacre, but we will not advert to these reports which have a general credence among the Mormon settlers themselves, who freely point out by name the guilty actors.</seg>  We leave them to their own consciences, 
+trusting that the scriptural motto emblazoned on the monumental cross, will find 
+ample and full vindication hereafter.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

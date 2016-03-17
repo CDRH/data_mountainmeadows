@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18660727">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	 	<title level="m" type="main">Mountain Meadow Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18660727</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Union Vedette</title>
+		    <title level="a" type="main">Mountain Meadow Massacre</title>
+		    <publisher></publisher>
+		    <pubPlace>Camp Douglas, UT</pubPlace>
+		    <date when="1866-07-27">July 27, 1866</date>
+		</bibl>
+	    </sourceDesc>
+     </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+     <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+	     	<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+  	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-18"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-29"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-25"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18660727.001"/>
+
+
+<head>Mountain Meadow Massacre</head>
+
+<p><seg type="Source" subtype="Reprinted">A correspondent of the <unclear /> Bulletin writing from <placeName type="settlement" key="Callville, AZ">Callville</placeName>, <placeName type="state" key="Arizona">Arizona</placeName>, under date of June 25th, says</seg> of the Indians in that vicinity:</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">They are thoroughly posted in relation to the raids of Gen. <persName key="Connor, Patrick Edward">Connor</persName>'s command against the Indians farther North</seg>; the excitement existing in relation to the Mountain Meadow massacre; <seg type="Reaction" subtype="FederalInvestigation">the endeavors made by the Government to ferret out and punish the actors in this, the bloodiest drama ever perpetrated on American soil</seg>; <seg type="Blame" subtype="IndiansIndependently">the fact that they are charged by the Mormons with being the sole perpetrators of that tragedy, and they fear that they will soon be held to a rigid accountability.</seg><seg type="Massacre" subtype="Spoils">It was to this valley of <geogName type="waterway" key="Muddy River">the Muddy</geogName>, that a large portion of the stock taken from the massacred train was brought</seg>, and <seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">here was killed the only adult, a man by the name of <persName key="Williams">Williams</persName>, who escaped from <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg></seg>. <seg type="Blame" subtype="IndiansLDSInfluence">These Indians do not hesitate to acknowledge their connection with the massacre, but charge the Mormons with being the instigators and chief actors in the tragedy</seg>.  The tales they tell are horrible beyond description, and while <seg type="Context" subtype="IndianRelationsLDS">it would be unjust, considering their present relations with the Mormons, to take all their statements for truth</seg>, <seg type="Context" subtype="PrattMurder">it is impossible to resist the conviction that revenge for the killing of <persName key="Pratt, Parley P.">Parley Pratt</persName>, in <placeName type="state" key="Arkansas">Arkansas</placeName>, was the inciting cause of the Mountain Meadow massacre, and that <seg type="Blame" subtype="LDS_LDSRetribution">a band of Danites were the directors of its perpetration</seg></seg>. I was astonished at the details by these Indians of circumstances and names; in the latter particular their statements were explicit, extending even to <seg type="Massacre" subtype="Survivors">giving us the name of the lady under whose charge the surviving children were taken East.</seg>  <seg type="Context" subtype="IndianRelationsLDS">The Mormons have long been noted for their shrewed management of Indians, but events now transpiring indicate that their influence with the savages is lessening.</seg>  The result may be the <seg type="Reaction" subtype="StateInvestigation">arrest and punishment</seg> of <seg type="Blame" subtype="LDS_LDS">the white miscreants who planned the indiscriminate slaughter</seg> of <seg type="Massacre" subtype="Casualties">men, women and children</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

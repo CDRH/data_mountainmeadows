@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.belknap.1872">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Letter From The Secretary of War</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>William</forename> <forename type="middle">W.</forename> <surname>Belknap</surname></author>
+            <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.belknap.1872</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+	        <note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="m">Letter From The Secretary Of War Relative to An Appropriation for a Military Post Near the Town of Beaver City, Utah</title>
+		    <title level="s">US House. 42d Cong., 2d sess. House Exec. Doc. 285, Serial 1520</title>
+		    <author><forename>William</forename> <forename type="middle">W.</forename> <surname>Belknap</surname></author>
+		    <publisher>Government Printing Office</publisher>
+  		    <pubPlace>Washington, DC</pubPlace>
+		    <extent></extent>
+		    <date when="1872">May 7, 1872</date>
+		    <note type="source">William W. Belknap. <hi rend="italic">Letter from the Secretary of War relative to an appropriation for a military post near the town of Beaver, Utah</hi>. US House. 42d Cong., 2d sess. Washington, DC: GPO, 1872. House Exec. Doc. 285, Serial 1520.</note>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>government_document</term>
+	        </keywords>
+	 	<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <revisionDesc>
+        <change when="2011-08-17"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+        <change when="2011-05-03"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+    	<change when="2010-01-14"><name>Laura Weakly</name> Validation</change>
+	    <change when="2009-12-14"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	    <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+    
+<pb n="1" xml:id="mmm.doc.belknap.1872.001"  />   
+<head type="main">42D CONGRESS<hi rend="italic">2d Session.</hi>, HOUSE OF REPRESENTATIVES. Ex. Doc  No. 285.</head>
+<head type="main">MILITARY POST, BEAVER CITY. UTAH.</head>
+<head type="main">LETTER<lb/>
+FROM<lb/>
+THE SECRETARY OF WAR,<lb/>
+RELATIVE TO<lb/>
+<hi rend="italic">An appropriation for a military post near the town of Bearer City, Utah.</hi><lb/></head>
+    
+<head type="sub">MAY 7,1872.&#8212;Referred to the Committee on Appropriations and ordered to be printed.</head>
+
+<div1 type="doc">
+<opener><dateline>WAR DEPARTMENT, May 6, 1872.</dateline></opener>
+    
+<p>The Secretary of War has the honor to recommend to the House of Representatives an early appropriation of $120,000 for the erection of a five company military post near the town of <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>, the said town being situated on the <geogName type="waterway" key="Beaver River">Beaver River</geogName>, near the base of the <geogName type="mountain" key="Wahsatch Mountains">Wahsatch Mountains</geogName>, at the eastern extremity of the <geogName type="valley" key="Beaver Valley">Beaver Valley</geogName>, two hundred and ten miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and one hundred and twenty from the town of <placeName type="settlement" key="Saint George, UT">Saint George</placeName>, which is the extreme southern settlement in <placeName type="state" key="Utah Territory">Utah</placeName>, the buildings at the post to consist of commanding officer's quarters, six sets company officers' quarters, (double,) five sets company barracks, hospital, subsistence store-house, quartermaster's store-house, office building, guard-house, bake-house, cavalry-stable, and quartermaster's stables.</p>
+
+<p>The need of such a post in that section has long been felt, and the accompanying copy of communications from officials of the territorial government further shows the necessity for its immediate erection, as will also the copies of other reports on the subject, sent to Congress on the 2d of January last.</p>
+
+<p>Careful estimates prepared by officers of the Quartermaster's Department show that the sum asked for will be required for the proper construction of the building of the post.</p>
+
+<closer><persName key="Belknap, William W.">WM. W. BELKNAP</persName>. <hi rend="italic">Secretary of War.</hi></closer>
+<closer><placeName type="settlement" key="Salt Lake City, UT">SALT LAKE CITY</placeName>, <placeName type="state" key="Utah Territory">UTAH TERRITORY</placeName>,</closer>
+
+</div1>  
+  
+<div1>
+<opener><dateline><hi rend="italic">January</hi> 12, 1872.</dateline>
+<salute>SIR:</salute></opener> <p>Being one of the associate justices of the supreme court of the United States in and for the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> and judge of the second judicial district court of <placeName type="state" key="Utah Territory">said Territory</placeName>, I beg leave to say that my <choice><orig>dis-
+
+<pb n="2" xml:id="mmm.doc.belknap.1872.002" />
+
+trict</orig><reg>district</reg></choice> embraces the extreme southern part of <placeName type="state" key="Utah Territory">the Territory</placeName>, in which was committed what is known as the Mountain Meadow massacre, in which <seg type="Massacre" subtype="Casualties">over one hundred and twenty innocent men, women, and children were slaughtered in the most barbarous manner</seg>. This district is settled almost entirely by Mormons, there being only about two hundred Gentiles in the district. <seg type="Blame" subtype="LDS_LDSLeadership">From the time of said massacre there has been a rising feeling in the minds of the Gentiles and a few loyal Mormons against the principal leaders and perpetrators of that deed.</seg> At every-session of the court this question has been brought up by the grand jury, or rather by individual members thereof, and yet the United States attorney and the jury have not dared to introduce the subject to be investigated, because, they say, witnesses who were present at, and were forced into, the bloody work feel that their lives would be rendered insecure should they testify to the facts; but they say, whenever the Government of the United States will guarantee, their protection, they will freely testify to all the facts.</p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">I am fully satisfied, from my experience in that district for the last three years, as the judicial officer of the court, that their feeling of insecurity is well founded, and that it will require a military force established in that district, say at the <placeName type="settlement" key="Beaver City, UT">city of Beaver</placeName>, of at least five companies, to render the protection needed effective.</seg></p>
+
+<p>There are several indictments now in the hands of the United States marshal to execute upon fellows, which he reports he is unable to execute. <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, where I hold my court, is two hundred and twenty miles west of south of this city. It is beautifully situated, well watered, and healthy, and, besides, it is the diverging point leading to <placeName type="settlement" key="Pioche, NV">Pioche</placeName>, one hundred and twenty miles west, and to <placeName type="settlement" key="Saint George, UT">Saint George</placeName>, one hundred and ten miles west of south, and it is about one hundred miles east to Knob&#8212;the Gibraltar of church fellows&#8212;where there are one hundred and twenty men thoroughly armed and where the leaders of said massacre have taken refuge.</p>
+
+<p><seg type="Context" subtype="WesternViolence">In addition to these considerations, a few miles south of <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName> the annual Indian raids upon the settlements take place, and therefore a post at <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName> would be the proper place to do most service to the country.</seg></p>
+
+<p>I adjourned my last October term of court, after disposing of my civil docket, until the second Monday in May next, in order that all the facts and needs to the execution of the laws and the protection of loyal citizens might be fully understood by Government and by this military department. Whenever it is safe, and the Government desires criminals punished and will furnish the necessary support and means to prosecute them, the court and its executive officers are ready to proceed.</p>
+
+<p>If you establish a post at <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, or near there, it ought to be done by the last of April or the first week in May. At that season it will be the best time to move troops, supplies, &amp;c. By that time the roads from here will be in the best possible condition. Soon after the first week May the weather becomes hot and dry.</p>
+
+<p>Hoping to hear from you soon and favorably upon these suggestions. I have the honor to remain, respectfully, &amp;e</p>
+<closer><persName key="Hawley, C. M.">C.M. HAWLEY</persName>,
+<hi rend="italic">Associate Justice, &amp;c., and Judge of the Second Judicial District.</hi></closer>
+<closer>General ORD,
+<hi rend="italic">Commander of the Military Department of the <geogName type="waterway" key="Platte River">Platte</geogName>.</hi></closer>
+</div1>
+    
+<pb n="3" xml:id="mmm.doc.belknap.1872.003" />
+
+    <div1>
+<opener><hi rend="right">EXECUTIVE DEPARTMENT,
+<placeName type="settlement" key="Salt Lake City, UT">SALT LAKE CITY</placeName>, <placeName type="state" key="Utah Territory">UTAH TERRITORY</placeName>, </hi>
+<dateline><hi rend="italic">January</hi> 12, A. D. 1872.</dateline>
+<salute>SIR:</salute></opener> <p>The within letter from Judge <persName key="Hawley, C. M.">C. M. Hawley</persName>, of second judicial district, <placeName type="state" key="Utah Territory">Utah Territory</placeName>, to you, has been referred to me. I indorse the statements made therein fully and express the hope that you may establish a post in Southern <placeName type="state" key="Utah Territory">Utah</placeName> as soon as practicable. &#8212; I had the honor to lay this matter before Major General <persName key="Augur, Christopher C.">Augur</persName>, and, through him, before Lieutenant General <persName key="Sheridan, Philip">Sheridan</persName>, during the summer of 1871, and had favorable response. To be most effective it should be a four or five company post-two or three companies of cavalry and one or two of infantry. Without the presence of the military in that remote portion of <placeName type="state" key="Utah Territory">the Territory</placeName> it will be utterly impossible to enforce the law.</p>
+
+        <closer><salute>Your obedient servant.</salute>
+<signed><persName key="Wood, George L.">GEO. L. WOOD</persName>,<hi rend="italic">Governor of <placeName type="state" key="Utah Territory">Utah Territory</placeName>.</hi></signed>
+Major General <persName key="Ord, Edward">ORD</persName>,
+<hi rend="italic">Commanding Department of the <geogName type="waterway" key="Platte River">Platte</geogName>, <placeName type="settlement" key="Omaha, NE">Omaha</placeName>, <placeName type="state" key="Nebraska">Nebraska</placeName>.</hi></closer>
+</div1>
+
+<div1>
+<note><hi rend="center">[Indorsement.]</hi></note>
+<opener>
+    <dateline>HEADQUARTERS DEPARTMENT OP THE <geogName type="waterway" key="Platte River">PLATTE</geogName>, <hi rend="italic"><placeName type="settlement" key="Omaha, NE">Omaha</placeName>, <placeName type="state" key="Nebraska">Nebraska</placeName>, January</hi> 31, 1872.
+</dateline></opener>
+<p>Respectfully forwarded. The general commanding the division, I think, has acted on this matter.</p>
+<closer><signed><persName key="Ord, Edward">E. O. C. ORD</persName>, <hi rend="italic">Brigadier General.</hi></signed></closer>
+</div1>
+    <div1>
+<opener>ADJUTANT GENERAL'S OFFICE,<hi rend="italic"> <placeName type="state" key="Washington, D. C.">Washington</placeName>, May</hi> 4, 1872.</opener>
+<p>Official copies :</p>
+<closer><signed><persName key="Townsend, E. D.">E. D. TOWNSEND</persName> <hi rend="italic">Adjutant General.</hi></signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

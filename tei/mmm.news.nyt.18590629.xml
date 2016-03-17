@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18590629">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">From Utah</title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18590629</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+     	    <sourceDesc>
+		<bibl>
+		    <title level="j">New York Times</title>
+		    <title level="a" type="main">FROM UTAH.</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1859-06-29">June 29, 1859</date>
+	     	</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	    	<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-04-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-04"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18590629.001"/>
+
+<head type="main">FROM UTAH.</head>
+<milestone unit="horbar" />
+<head type="sub">Affairs in the Territory Looking Badly&#8212;Judge Cradlebaugh Investigating&#8212;A Great Army Contract Swindle &amp;c.</head>
+
+<p><persName key="Anderson, Kirk">KIRK ANDERSON</persName>, late editor of the <orgName type="newspaper" key="Valley Tan">Valley Tan</orgName>, writes to the <orgName type="newspaper" key="St. Louis Republican">St. Louis <hi rend="italic">Republican</hi></orgName>:</p>
+     
+<floatingText><body>
+<opener><dateline>GREAT SALT LAKE CITY, Friday, June 3, 1859.</dateline></opener>
+
+<p><seg type="Context" subtype="WesternViolence">I suppose that your people in the States wonder 
+whether we all have our scalps on out here or not. 
+By placing my hand to the top of my caput I realize 
+this morning that mine is there and likely to remain.</seg></p>
+
+<p>Before entering into what little items of interest 
+that are floating around here, I will simply state that I 
+have disposed of the <hi rend="italic"><orgName type="newspaper" key="Valley Tan">Valley Tan</orgName></hi>, and should my 
+friends in <q>"America"</q> ask for the reason I would not 
+give it here, though reasons were, as SHAKESPEARE 
+says, as <q>"plenty as blackberries,"</q> I have the proud 
+satisfaction of stating that the little paper his done 
+well, and <seg type="Context" subtype="LDSPersecution">its exposition of Mormonism has not been 
+without its good effects abroad, while it has been 
+feared and hated here.</seg></p>
+
+<p>It may be set down as a fact that the <placeName type="state" key="Utah Territory">Utah</placeName> imbroglio
+is as far from a solution as ever, and the reasons are 
+various.</p>
+
+<p>First, <q>"This people,"</q> inherently and from the recollection 
+of former supposed wrongs, cordially 
+despise the Government. This is evidenced from 
+the fact of their coming to this valley, where, locked 
+in by the mountains, they have established a hierarchy 
+whose working so far has been to look upon 
+all who come in here who are not of them as intruders, 
+and place them under a system of surveillance 
+that is absolutely insulting. <hi rend="italic">The Church rules</hi>, 
+and you smell the sacerdotal robes in every transaction 
+of a public character, even to a coroner's inquest. 
+While they conform outwardly to the semblance of a 
+civil government, their every action is regulated by 
+the Church authorities.</p>
+
+<p>Secondly, They are a <hi rend="italic">distinct </hi>people, and boast of it, and every obligation of loyalty to the Government is secondary to the claims of <q>"Zion."</q></p>
+
+<p>Thirdly, The revengeful and murderous spirit 
+which has characterized them heretofore, concealing 
+crime, protecting the offenders, and, so far from sympathizing 
+with the efforts of the Federal authorities, 
+they have done all in their power to thwart and throw 
+obstacles in the way, evincing plainly that they despised 
+the authority that would undertake to punish 
+them.</p>
+
+<p>As for the best plan of solving or disentangling this 
+problem is a question I leave to those enlightened 
+statesmen of the East, who seem to know more 
+about it than we do out here. From the very incipiency 
+of this Mormon question mistakes have been
+made, and, I will add, they have been continued in a 
+manner to encourage and protect an evil that some 
+day has to receive the very serious consideration of 
+those political doctors in authority, who are presumed 
+to cure all the infirmities incident to the political system. 
+To the discoverer it will be a patent medicine 
+more potent than the Kansas Pill, or the Cuba Solution, 
+and may yet work the discoverer into the Presidential 
+chair.</p>
+
+<p>Speaking of Presidents, and while you are looking 
+around for men, permit me to say that the voice of 
+Christian <placeName type="state" key="Utah Territory">Utah</placeName> is enthusiastic for Gen. <persName key="Johnson, Bradley Tyler">JOHNSTON</persName>. Far 
+removed from the scenes of political troubles, educated 
+albeit in the camp and on the field, yet to his 
+prowess as a soldier he unites the elements of a 
+statesman in a superior degree, and, withal, he is an 
+unswerving Democrat from principle. There are 
+those of us out here who, while they know he would 
+fill that high station with honor and credit, at the 
+same time believe that he would probably be the most 
+available man.</p>
+
+<p><seg type="Source" subtype="Cradlebaugh">Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName> has just returned from the locality of that terrible massacre which has no parallel in American history, and known as <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain
+Meadows</geogName></seg>.</seg> <seg type="Context" subtype="TerritorialAdministration">His visit was the signal of a general flight
+among the <hi rend="italic">white </hi>inhabitants, and particularly amongst those who hold commissions under the Church. 
+Whilst the efforts of the Judiciary are paralyzed by the 
+ecclesiastical power that prevails here. In this instance, 
+as in former ones, where the Judiciary have acted, <seg type="Blame" subtype="LDS">Mormon complicity has been developed</seg>, and the fact established that at the <q>"Mountain Meadow"</q> massacre, where <seg type="Massacre" subtype="Casualties">more than one hundred men, women and children were slaughtered</seg>, <seg type="Blame" subtype="LDS">there were at least a hundred Mormons engaged</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Context" subtype="TerritorialAdministration">He has issued warrants for the arrest of many of them, which embraces the names of Bishops, Presidents of Stakes and Seventies, &amp;c., who, in appreciation of their guilt have fled to the mountains&#8212;</seg> <seg type="Reaction" subtype="MilitaryRetaliation">but then what can be done? Should the military posse, the only arm available and practicable, be called into requisition to secure them and protect the Court, Governor <persName key="Cumming, Alfred">CUMMING</persName> in his wisdom, mignt feel 
+called upon to publish another <q>"protest."</q></seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">We are all anxious here to learn what the Administration
+is going to do in the matter, and if the position 
+of parties and men are entitled to any weight. I 
+can tell them that the Christians of <placeName type="state" key="Utah Territory">Utah</placeName> stand by the 
+Judiciary, who have exerted themselves so fearlessly, 
+while the Mormons take the other side. The fact, to 
+say the least of it, is significant.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The little children, seventeen in number, the only survivors of the Mountain Meadow massacre, are now in this city, and will leave for the States in about two weeks, in one of <persName key="Russell">RUSSELL</persName>, <persName key="Majors">MAJORS</persName> &amp; <persName key="Waddell">WADDELL</persName>'S train, which has been gratuitously tendered, and in the charge of kind and experienced nurses.</seg></p>
+
+<p>We had a shooting affray the other day, on the 
+street, between two Mormon boys, in which one was 
+killed, and the farce of an examination is now going 
+on, for if there is to be any retribution, the Church
+will do it through its agents&#8212;the <q>"destroying angels,"</q></p>
+
+<p>Everything is apparently quiet here, while we all
+knew the fact that the caverns and mountain passes 
+are full of armed men and fugitives from fear of Federal 
+authority.</p>
+
+</body></floatingText>
+</div1>
+
+<div1>
+<head type="sub">A NEW SWINDLE UPON THE GOVERNMENT SECRETARY FLOYD.</head>
+
+<p>The following letter appears in the <orgName type="newspaper" key="St. Louis, MO">St. Louis <hi rend="italic">Democrat</hi></orgName>:</p>
+    
+<floatingText><body>
+<dateline> <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>, June 2. 1859.</dateline>
+<p>A few days ago, a couple of gentlemen arrived from 
+<placeName type="settlement" key="Leavenworth, KS">Leavenworth, K. T.</placeName>, by Express, and with an air of 
+mystery, stated that they had come from <placeName type="state" key="Washington">Washington, D.C.</placeName> 
+on important business, but were l0th to divulge the 
+purport of their mission. The entire camp was on 
+the qui vive, believing that they were the bearers of 
+some important dispatches from the General Government, 
+but as days passed away and time brought to 
+light their mission, curiosity turned to censure, till it 
+would be hard to find a single person who is not condemning 
+the conduct of the Buchanan Administration.</p>
+
+<p>Mr. <persName key="Holliday, John">JOHN HOLLIDAY</persName> and Col. <persName key="Martin">MARTIN</persName> are the lucky
+contractors bit furnishing the army with breadstuffs 
+the ensuing $28.60 per, for which they receive $28 60 per 
+100 pounds. The daily average consumption of flour
+by the camp is not less than 5,000 pounds, making the
+annual consumption about 2,000,000 pound. This 
+would amount to $572,000&#8212;a snug little item in the 
+current expenses.  Now, when we take into consideration 
+the fact that Mr. <persName key="Martin, William">Wm. MARTIN</persName> and <persName key="Stanton, E. P.">E. P. STANTON</persName> offered to furnish the supply of flour for $10 per 
+100 pounds, and that Mr. <persName key="Little, J. C.">J. C. LITTLE</persName> agreed to take 
+the same contract for $7 50 per 100 pounds, it seems 
+strange that Messrs. <persName key="Holliday, John">HOLLIDAY</persName> &amp; <persName key="Martin, William">MARTIN</persName> have been 
+awarded this contract at $28 60 per 100 pounds. Does 
+it not look like collusion on the part of the Secretary 
+of War?</p>
+
+<p>The quality of flour manufactured in this Territory 
+is of the poorest description, and would pass for 
+<q>"sweepings"</q> at any market in the States. Yet, this 
+is the stuff the army will be compelled to use during 
+the incoming year. If it was the intention of Secretary 
+<persName key="Floyd, John Buchanan">FLOYD</persName> to have the supply of flour shipped from 
+the States, then the price is in the neighborhood of 
+reason. Bet if such was his design, why did he furnish 
+Messrs. <persName key="Holliday, John">HOLLIDAY</persName> &amp; <persName key="Martin, William">MARTIN</persName> with orders for Government mules, from any post along the route on their 
+journey to this point.</p>
+
+<p> Since their arrival, they have commenced buying and contracting for all the flour in the Territory, for which they are paying $5 per hundred, but in all probability 
+will have to pay as high as $8 for a portion.We will pay that they pay $8 per hundred for all of it, and we see that they are at an outlay of $160,000 in fulfilling the contract, leaving them a snug little balance 
+of <hi rend="italic">four hundred and twelve thousand dollars.</hi> 
+There is probably four partners in this contract, Mr.
+<persName key="Holliday, John">JHO. HOLLIDAY</persName>, Maj. <persName key="Martin, William">MARTIN</persName>, <persName key="Russell, William">Wm. RUSSELL</persName>, (firm of RUSSELL, MAJORS and WADDELL) arid Secretary 
+<persName key="Floyd, John Buchanan">FLOYD</persName>. They will realize <hi rend="italic">one hundred thousand dollars
+each</hi>, and be at no trouble or risk. Uncle 
+Sam is blessed with a noble set of office-holders&#8212;they 
+are so careful to look to their own interests. They 
+are so economical as to order the discharge of all the 
+teamsters and mechanics in the employ of the camp, 
+and put soldiers to doing the same, all because the 
+expenses are too great. Now the entire wages for an 
+entire year, of the men engaged in the Quartermaster's 
+Department, would not amount to half the 
+sum squandered on the flour contract alone.</p>
+
+<p>Major <persName key="Prince, Henry">PRINCE</persName>, the Paymaster, is expected to arrive 
+daily, and is anxiously awaited by soldiers and
+citizens.</p>
+
+<p>The utmost excitement exists here on account of
+the rumored removal of Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName>. A
+petition is now being circulated praying for reinstatement.</p>
+
+<p>The conduct of Gov. <persName key="Cumming, Alfred">CUMMING</persName> is condemned on 
+all sides. The army and Gentiles openly accuse him 
+of being bribed by <persName key="Young, Brigham">BRIGHAM YOUNG</persName>, and the Mormons 
+boast that they have the power to make him do as 
+they please.</p>
+
+<p><persName key="Anderson, Kirk">KIRK ANDERSON</persName> has been removed from the proprietorship 
+and editorship of the <orgName type="newspaper" key="Valley Tan"><hi rend="italic">Valley Tan</hi></orgName>, on account 
+of his opposition to the course of Gov. <persName key="Cumming, Alfred">CUMMING</persName>. 
+The press and material is owned by <persName key="Hartnett, John">JOHN HARTNETT</persName> 
+and Gov. <persName key="Cumming, Alfred">CUMMING</persName>, and they could not think of having 
+their own paper down on their course.     M. O. C.</p>
+</body></floatingText>
+
+</div1>
+</body>
+</text>
+</TEI>

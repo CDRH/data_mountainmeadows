@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.illinoian.1871">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Heart of the West</title>
+                <title level="m" type="sub"></title>
+                <author><surname>An Illinoian</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.illinoian.1871</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Heart of the West: An American Story. By An Illinoian. Time: 1860. Scene: On the Mississippi.</title>
+                    <author><surname>An Illinoian</surname></author>
+                    <publisher>Hand &amp; Hart</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>99-100</extent>
+                    <date when="1871">1871</date>
+                    <note type="source">An Illinoian. <hi rend="italic">The Heart of the West: An American Story. By An Illinoian. Time: 1860. Scene: On the Mississippi.</hi> Chicago, IL: Hand &amp; Hart, 1871. 99-100.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-03-28"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+<body>
+
+<pb n="99" xml:id="mmm.wa.illinoian.1871.105"/>
+
+<p>"In chemistry," said Sydenham, "certain tests may be applied to determine certain results; so in the moral and political world: the mass seems made up of so many different elements that it is hard to tell which predominates. Doubtless there was, and is, with many, a sincere belief that negro servitude is wicked and wrong, and some of this class may have a strong sense of justice toward particular classes, and some, or, possibly, a majority of all the people, may appreciate and wish to apply the principles of justice to <hi rend="italic">all</hi>; yet, that these principles did not animate Congress, at that time, is clearly proved by the fact that no attention was paid to the Indian treaties; or, rather, that <hi rend="italic">after their attention was particularly called to them, they proceeded to deliberately trample them under foot</hi>. One party professed great devotion to a principle&#8212;the principle of popular sovereignty; a <choice><orig>princi-
+
+<pb n="100" xml:id="mmm.wa.illinoian.1871.106"/>
+
+ple</orig><reg>principle</reg></choice> sound in the main, but by no means infallible. And yet its supporters claimed nothing less than absolute infallibility for their pet, dogma&#8212;and that, with the example of <placeName type="state" key="Utah Territory">Utah</placeName> before their eyes."</p>
+
+<p>"Were the perpetrators of the 'Mountain Meadows' massacre ever brought to justice?" enquired the other.</p>
+
+<p>"<seg type="Blame" subtype="LDS_LDS">No, not one of that infamous band were ever brought to justice.</seg> <seg type="Blame" subtype="USGovernment">The government officials and the people could not see farther west than <placeName type="state" key="Kansas">Kansas</placeName>. As to the political parties, neither seemed to be alive to that fearful deed of blood, (in cruelty equaling and in treachery surpassing far the wild warfare of the savages) although most keenly alive to whatever might advance their chances of success in the elections. In the great crucible of American politics, the <placeName type="state" key="Kansas">Kansas</placeName> and <placeName type="state" key="Nebraska">Nebraska</placeName> bill, therefore, furnishes for future historians a test. It proves that in neither political party was there a majority in Congress whose course was influenced solely by a desire to do right for its own sake, and that other motives and aims warped them from the straight and narrow path of truth."</seg></p>
+
+</body>
+</text>
+</TEI>

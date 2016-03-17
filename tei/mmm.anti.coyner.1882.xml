@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.coyner.1882">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Handbook on Mormonism</title>
+                <title level="m" type="sub"></title>
+                <author><forename>John</forename> <forename type="middle">M.</forename> <surname>Coyner</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.coyner.1882</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Handbook on Mormonism</title>
+                    <author><forename>John</forename> <forename type="middle">M.</forename> <surname>Coyner</surname></author>
+                    <publisher>Hand-Book Publishing Co.</publisher>
+                    <pubPlace>Salt Lake City, UT; Chicago, IL; Cincinnati, OH</pubPlace>
+                    <extent>63-72</extent>
+                    <date when="1882">1882</date>
+                    <note type="source">John M. Coyner. <hi rend="italic">Handbook on Mormonism</hi>. Salt Lake City, UT, Chicago, IL, Cincinnati, OH: Hand-Book Publishing Co., 1882. 63-65, 67-69, 70-72.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-03-09"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="63" xml:id="mmm.anti.coyner.1882.72"/>
+
+<head>Mormonism vs. Jurisprudence.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p>The priestly rule in <placeName type="state" key="Utah Territory">Utah</placeName> has been accustomed by its despotic power to force the submission of all questions in dispute respecting property rights and personal nghts to the "councils" of the church, wherin neither law, justice nor mercy are regarded.</p>
+
+<p>In former days the church authority was absolute, and the victims of its wrath were condemned unheard and without Court, jury or witnesses. The verbal "counsel" of the head of the church was the credential to commit all kinds of crimes. To give a semblance of law and form in some instances to the outrages of the priesthood, the Probate Court assumed to exercise civil and criminal jurisdiction in all classes of cases. The judges of the courts are almost invariably bishops of the Mormon church, and bow to its will. Although innocent of any knowledge of law, they formerly exercised as much power as any chancellor, and likewise had before them grand and petit juries, and men were indicted, tried and condemned, in their courts, to jail, to the penitentiary, and even to death. And yet these courts have never had the shadow of right in law to exercise any jurisdiction aside from probate matters.</p>
+
+<p>The enforcement of the laws in the District Courts, presided over by Federal appointees, has been a continual battle.</p>
+
+<p>In the contests with the Probate Courts, the District Courts eventually gained the supremacy, and broke up the assumption of criminal <choice><orig>jurisdic-
+
+<pb n="64" xml:id="mmm.anti.coyner.1882.73"/>
+
+tion</orig><reg>jurisdiction</reg></choice> by the Probate Courts. The United States Supreme Court affirmed the action of the District Court in the endeavor to confine the Probate Courts to their legitimate work; and Congress passed a law to the same effect, but conferred jurisdiction in divorce matters upon the Probate Courts. This divorce power, of course, was abused, to the great disgrace of the country.</p>
+
+<p>A statute was passed by the Legislature, and remained on the statute books for sixteen years, which forbid the reading of law book in any of the courts of <placeName type="state" key="Utah Territory">the Territory</placeName>. Justice was to be administered by "inspiration," and the courts to become the puppets of the bogus "revelators." This statute was not repealed until it had become a dead-letter in the District Courts.</p>
+
+<p>The jury system provided by the Legislature for the District Courts was clumsy and difficult of execution; yet, that provided for the Probate Courts <choice><sic>possesssed</sic><corr>possessed</corr></choice> no clumsy clauses, but was plain and easy of execution. Consequently, the District Courts were continually embarrassed in securing juries. In the Probate Courts, on the contrary, the machinery moved smoothly and without friction. Whenever it has been proposed to apply the Probate jury law to the District Courts, it has been denounced as persecution.</p>
+
+<p>Although the church cannot control the District Courts, its domination is not only seen in the laws made to cripple them, but likewise on the witness stand and in the jury-box. Latter-day Saints, when placed upon the witness-stand, have shown a wonderful facility in disregarding their oath as Witnesses and commit perjury unhesitatingly and persistently, to shield those around whom the church has thrown its folds. The effect of this course upon the administration of justice can be well imagined. And when placed upon the jury, experience has shown that the saints will allow no oath, nor any amount of proof to the contrary, to stand in the way of their shielding their church and its chosen ones from all harm.</p>
+
+<p>Every Mormon goes through the Endowment House, from which no man emerges with his manhood remaining. He has sunk to be the slave of the priesthood. In that house, a terrible, villainous oath is administered to every one, obligating the individual, under fearful penalty, to uphold the church at every cost, to obey it in all things, and to take vengeance upon its enemies. This foul oath blasts the soul and unmans the whole race.</p>
+
+<p>It is, therefore, about as reasonable to expect the conviction of a Mollie Maguire by a Mollie Maguire jury, as to expect a conviction of a Mormon before a Mormon jury, and with Mormon witnesses.</p>
+
+<p>Our present jury system is mainly the work of Congress, but it is <choice><sic>verr</sic><corr>very</corr></choice> imperfect. Under it a jury list of two hundred names is made out once a year, in each judicial district (there being three districts in <placeName type="state" key="Utah Territory">the Territory</placeName>), by the Probate judge and the District Court Clerk. The clerk being a Gentile and the Probate Judge being a Saint, the list is composed of one-half Mormons and one half non-Mormons. Each grand jury and every petit jury for the year, in the District Court, is selected from this list, and the number is often exhausted before the year ends. The District Court has no alternative but to stop jury trials until the following year.</p>
+
+<p>Every grand jury in the Territory is composed of fifteen members, and the concurrence of twelve is necessary to authorize the finding of an indictment. It is not difficult, therefore, generally to prevent an indictment. Every petit jury must, of course, be unanimous, or there can be no verdict. One juror can, therefore, prevent a verdict.</p>
+
+<p><seg type="Context" subtype="Polygamy">The crime which, of all others, has the most debasing and polluting effect upon society here, is that of polygamy. When a man is on trial for this offence, the prosecution is met with the further obstacle that every Mormon marriage is celebrated in sworn secrecy in the Endowment House. When the persons who have performed the ceremony, kept the records, or taken part in the ceremony, are summoned as witnesses, even, <persName key="Taylor, John">John Taylor</persName>, <persName key="Pratt, Orson">Orson Pratt</persName>
+
+<pb n="65" xml:id="mmm.anti.coyner.1882.74"/>
+
+and other dignitaries of the church, and take the witness-stand, they are suddenly struck with remarkable weakness of memory. They unblushingly swear that they know nothing whatever about the marriage, or of the record of it. The courts hold that, in polygamy cases, a ceremony of marriage must be proven. The second wife being excluded as a witness until the prior marriage is proven, and the prior marriage being as secret as the second and any subsequent ones, the prosecution is compelled to submit to a defeat. The courts are thus powerless to enforce such a law; but, to make it doubly safe for the saints, if the marriage can be concealed for three years, the statute of limitation cuts of all prosecution. With such imperfections in the machinery of the courts, it is no wonder that the saintly leaders grimly smile at the futile efforts to enforce the laws against them.</seg></p>
+
+<p>It must be remembered that the courts have no power to reach bigamy or polygamy under any other name, nor in any way to check the corrupting effects of this beastly crime from spreading throughout the community and polluting society. We have no statute whatever upon the subject of marriage; we have no statute against adultery, no statute against lascivious cohabitations, no statute against seduction, and no statute against incest. The saints have made <placeName type="state" key="Utah Territory">Utah</placeName> a modern Sodom and the paradise of libertines. Congress has let the saints rule here for over thirty years. Now, try for awhile the non-Mormons of <placeName type="state" key="Utah Territory">the Territory</placeName>, and this leprous spot will be thoroughly cleansed, to the satisfaction of the American people, and without violence to any rule of law, justice or mercy. <hi rend="smallcaps"><persName key="Boreman, Jacob S.">JACOB S. BOREMAN</persName>.</hi></p>
+
+<milestone unit="section" rend="horbar"/>
+
+</div1>
+<div1>
+
+<head>The Work and Influence of the Woman's National Anti-Polygamy Society.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="center">Mrs. Jennie Anderson Froiseth.</hi></p>
+
+<p><seg type="Context" subtype="Polygamy">A Hand-Book on Mormonism which incorporate sketches of the Evangelical Mission Work in <placeName type="state" key="Utah Territory">Utah</placeName> would certainly be incomplete without some mention of the Woman's National Anti-Polygamy Society, especially as its influence is now being felt through the length and breadth of the land. The organization of this society was not an accident. It was the outgrowth of a strong current of feeling which had been silently but powerfully working in the minds of the Gentile and Apostate women for many years, and which was only awaiting the propitious moment to spring into active operation. For years they felt as if something must be done to inaugurate a movement against the iniquitous system, yet the way did not seem open for them to take any determined action. At last, in the fall of 1878, an unusually glaring polygamous marriage aroused their indignation to such a degree that they could not remain passive any longer. A young English girl, who became engaged to a Mormon Elder while preaching in England, came with him to <placeName type="state" key="Utah Territory">Utah</placeName>, against the wishes of her guardians, in order to have their marriage solemnized in Zion. After arriving in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, he informed her that he was also engaged to two other girls, sisters, who lived in the southern part of <placeName type="state" key="Utah Territory">the Territory</placeName>, and that he intended to marry all three at the same time. He also informed her that the eldest of these sisters was to be his first wife, she the second, and the younger sister the third. Of course, she resented the idea of his going into polygamy, and was especially averse to being the sec and wife, but if he was determined to "live his religion," she pleaded he right to be the first wife, as they were old friends from childhood, <choice><sic>thoug</sic><corr>though</corr></choice>
+
+<pb n="66" xml:id="mmm.anti.coyner.1882.75"/>
+
+separated for a number of years, during which interim he had become a convert to Mormonism. In order to settle the difficulty, the matter was referred to <persName key="Taylor, John">John Taylor</persName>, the head of the church, who decided that the eldest of the girls must be first wife, and the English girl second. While the question was pending, she had become acquainted with some Gentile neighbors of the Mormon family whose guest she was, and to them she confided her troubles. They took a great deal of interest in her, urged her never to consent to be any but the only wife, and introduced her to some women who had experienced the horrors of polygamy. They furthermore assured her that if she would renounce the man who wanted thus to degrade her that the Gentiles to a unit would champion her cause. But she was very much infatuated with him, went through the endowment ceremonies, was married to him in that institution, and at the wedding feast which was given by the Mormon entertainers she found the other girl recognized as his first wife. She then seemed to realize the position in which she had placed herself, and driven to desperation ,she left the house and sought refuge with her Gentile acquaintances. By this proceeding the matter at once become of public notoriety, and created an intense excitement in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. This was an opportunity for action, consequently a mass meeting of women opposed to polygamy was called for November 7th, which convened at Independence Hall, the building where the first evangelical meetings were ever held in <placeName type="state" key="Utah Territory">Utah</placeName>. The object of this meeting was to give expression to the sentiments of the non-Mormon women regarding the practice of polygamy, and to invoke special legislation from the next Congress to compel acessation of plural marriages among the Mormon people. An address to the women of America, which set forth briefly and succinctly the evils of polygamy and its pernicious results, and which asked the co-operation of all Christian women in measures for its suppression, was Unanimously adopted as the sense of the meeting. A form of petition to Congress was also adopted, which was afterwards circulated for signatures all Over the country.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">At the close of this meeting it was decided to form a permanent organization, under the name of the Woman's Anti-Polygamy Society, to continue the opposition to polygamy that had been thus publicly inaugurated. And the women who organized this Society pledged themselves to persevere and keep the subject in agitation until polygamy, like the other twin relic of barbarism, should no longer be a foul blot on the nation's escutcheon, but should also be a thing of the past. How well this little band of earnest women have kept their pledge, in continuing to agitate the subject, can be attested by the events of the past few weeks. Ever since the organization was effected, and especially since the establishment of its organ, the <hi rend="italic">Anti-Polygamy Standard</hi>, not a month has passed but the evils of the system have been portrayed to the nation, its insidious and stealthy growth in all the States and Territories surrounding <placeName type="state" key="Utah Territory">Utah</placeName> completely exposed, and the most urgent appeals been made to the <hi rend="italic">People</hi> to create sueh an overwhelming sentiment that it could no longer be disregarded by our national legislators. Through the influence of this Society similar organizations have been effected in different parts of the country by representative Christian women, who have enlisted the aid and co-operation of the most eminent divines, lawyers and statesmen in their respective localities. It was this litttle Society that set the current in motion which has awakened the entire country to a sense of the danger that menaces the Republic by the degradation of women and ruination of the home, which are inseparable from the practice of polygamy. It is through its labors that the conscience of the nation has been aroused so thoroughly that it will never slumber again on this question, and the decree has gone forth from the American people that they will no longer suffer this relic of barbarism to flourish in their midst, but that it shall be uprooted from the American soil. And God grant that the crowning of their labors shall not long be delayed.</seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="67" xml:id="mmm.anti.coyner.1882.76"/>
+
+<head>The Mountain Meadows Massacre.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="right"><hi rend="smallcaps">CAMP AT MOUNTAIN MEADOWS, UTAH TERRITORY,</hi></hi></p>
+
+<p><hi rend="right">May 25, 1859.</hi></p>
+
+<p><seg type="Context" subtype="PrattMurder"><seg type="Blame" subtype="LDS_LDS">It is said that some two years since Bishop <persName key="Pratt, Parley">Perley Pratt</persName> was shot in the Cherokee Nation, near <placeName type="state" key="Arkansas">Arkansas</placeName>, by the husband of a woman who had run off with that saintly prelate. The Mormons swore vengeance on the people of <placeName type="state" key="Arkansas">Arkansas</placeName>, one of whom was <persName key="McLean, Hector">the injured husband</persName>. The wife came on to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> after the bishop was killed, and still lives there.</seg> <seg type="Context" subtype="UtahWar">About this time, also, the Mormon troubles with the United States commenced, and the most bitter hostility against the Gentiles became rife throughout <placeName type="state" key="Utah Territory">Utah</placeName> among all the Latter-day Saints.</seg> It will be recollected that, even while these emigrants were pursuing <seg type="Emigrants" subtype="Route">their journey overland to <placeName type="state" key="California">California</placeName></seg>, Colonel <persName key="Alexander, Edmund">Alexander</persName> was following upon their track with two or more regiments of troops ordered to assist, if necessary, in seeing the laws of the land properly enforced in <placeName type="state" key="Utah Territory">that Territory</placeName>. <seg type="Massacre" subtype="Spoils">This train was undoubtedly a very rich one. It is said the emigrants had nearly nine hundred head of fine cattle, many horses and mules, and one stallion valued at two thousand dollars; that they had a great deal of ready money besides.</seg> All this the Mormons at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> saw as the train came on. <seg type="Context" subtype="UtahWar">The Mormons knew the troops were marching to their country, and a spirit of intense hatred of the Americans and toward our government was kindled in the hearts of this people by <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Hyde, Orson">Orson Hyde</persName>, and other leaders, even from the pulpit.</seg> Here, opportunely, was a rich train of emigrants, American Gentiles, that is, the most obnoxious kind of Gentiles; <seg type="Context" subtype="PrattMurder">and not only that, <seg type="Emigrants" subtype="StateAffiliationArkansas">but these Gentiles were from Arkansas</seg>, where the saintly <persName key="Pratt, Parley">Pratt</persName> had gained his crown of martyrdom.</seg> Is not here some thread which may be seized as a clue to this mystery, so long hidden, as to whether or not the Mormons were accomplices in the massacre?<seg type="Emigrants" subtype="StateAffiliationArkansas"> This train of rich <placeName type="state" key="Arkansas">Arkansas</placeName> Gentiles</seg> was doomed from the day <seg type="Emigrants" subtype="StateAffiliationArkansas">it crossed through the South Pass</seg> and had got fairly down into the meshes of the Mormon spider-net, from which it was never to became disentangled. Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> informed me that, <seg type="Context" subtype="IndianRelationsLDS">about this time, <persName key="Young, Brigham">Brigham Young</persName>, preaching in the Tabernacle, and speaking of the troubles with the United States, said that up to that moment he had protected emigrants who had passed through <placeName type="state" key="Utah Territory">the Territory</placeName>, but now he would turn the Indians loose upon them.</seg> It is a singular point, worthy of note, that this sermon should have been preached just as the rich train had got into the valley and was now fairly entrapped; a sermon, good, coming from him as a letter of Mengue to these land pirates, who listened to him as to an oracle. The hint so shrewdly given was not long in being acted upon. From that moment these emigrants, as they journeyed southward, were considered the authorized, if not legal, prey of the inhabitants. All kinds of depredations and extortions were practised upon them. At <placeName type="settlement" key="Parowan, UT">Parowan</placeName> they took some wheat to the mill to be ground; the miller went to ask the bishop if he might grind this grain for these damned Gentiles. The bishop replied: "Yes; but do you take double toll." <seg type="Context" subtype="LDSApostates">This shows the spirit with which they were treated. These things are now leaking out; some of those who were then Mormons have renounced their creed, and through them much is learned, which, taken in connection with facts that are known, serve to develop the truth.</seg> <seg type="Massacre" subtype="Planning">It is said to be a truth that <persName key="Young, Brigham">Brigham Young</persName> sent letters south authorizing, if not commanding, that the train should be destroyed.</seg><seg type="Source" subtype="Indians"><seg type="Blame" subtype="IndiansLDSInfluence"> A Pah-Ute chief, of the Santa Clara band, named <persName key="Jackson">Jackson</persName>, who was one of the attacking party, and <seg type="Massacre" subtype="Casualties">had a brother slain by the emigrants</seg> from their corral by the spring, says that orders came down in a letter from <persName key="Young, Brigham">Brigham Young</persName>, that the emigrants were to be killed; and a chief of the Pah-Utes, named Tonche, now
+
+<pb n="68" xml:id="mmm.anti.coyner.1882.77"/>
+
+living on the Virgin river, told me that a letter from <persName key="Young, Brigham">Brigham Young</persName> to the same effect was brought down to the Virgin river band by a man named <persName key="Huntinton, Dimick B.">Huntingdon</persName>, who, I learn, is an Indian interpreter, and lives at present at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. <persName key="Jackson">Jackson</persName> says there were sixty Mormons led by Bishop <persName key="Lee, John D.">John D. Lee</persName>, of <placeName type="settlement" key="Harmony">Harmony</placeName>, and a prominent man in the church named <persName key="Haight, Isaac C.">Haight</persName>, who lives at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; that they were painted and disguised as Indians; that this painting and disguising was done at a spring in the canyon, about a mile northeast of the spring where the emigrants were encamped, and that<seg type="Massacre" subtype="Battle"> <persName key="Lee, John D.">Lee</persName> and <persName key="Haight, Isaac C.">Haight</persName> led and directed the combined forces of the Mormons and Indians, in the first attack, throughout the siege, and at the last massacre. The Santa Clara Indians say that the emigrants could not get to the water, as the besiegers lay around the spring ready to shoot any one who approached.</seg></seg> This could easily have been done. <seg type="Massacre" subtype="Location">Major <persName key="Prince, George F.">Prince</persName>, Paymaster United States Army, and Lieutenant <persName key="Ogle, ">Ogle</persName>, 1st dragoons, on the 17th instant, stood on the ditch, which was in the corral and placed some men at the spring, twenty-eight yards distant, and they could just see the men's heads, both parties standing erect. This shows how vital a point the assailants occupied, how close it was to be assailed, and how well protected it was from a fire coming from the direction of the corral.</seg></seg></seg></p>
+
+<p>The following account of the affair is, I think, susceptible of legal proof, by those whose names are known, and who I am assured, are willing to make oath to any other facts which serve as links in the chain of evidence leading toward the truth of this grave question: <hi rend="italic">By whom were <seg type="Massacre" subtype="Casualties">these 120 men, women and children</seg> murdered?</hi></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It was currently reported among the Mormons at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, in talking among themselves, before the troops even came down south (when all felt secure of arrest or persecution), and nobody seemed to question the truth of it, that <seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Casualties">a train of emigrants of 50 or upwards, of men, mostly with families</seg></seg> came and encamped at this spring at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <seg type="Massacre" subtype="Dates">in September 1857</seg>. It was reported in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and was not, and is not doubted, even by the Mormons, that <persName key="Lee, John D.">John D. Lee</persName>, <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, <persName key="Higbee, John M.">John M. Higby</persName> (the first resides at <placeName type="settlement" key="Harmony">Harmony</placeName>, the last two at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>), were the leaders who organized a party of 50 or 60 Mormons to attack this train. <seg type="Blame" subtype="IndiansLDSInfluence">They had also all the Indians which they could collect at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and <placeName type="settlement" key="Washington City, UT">Washington City</placeName>, to help them, a good many in number. This party then came down, and at first<seg type="Massacre" subtype="Spoils"> the Indians were ordered to stampede the cattle and drive them away from the train</seg>. <seg type="Massacre" subtype="Battle">They then commenced firing on the emigrants; <seg type="Massacre" subtype="Casualties">one Indian was killed, a brother of the chief of the Santa Clara Indians; another shot through the leg, who is now a cripple at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName></seg>.</seg> It was said the Mormons were painted and disguised as Indians. The Mormons say the emigrants fought like lions, and that they saw they could not whip them by any fair fighting.</seg> <seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Planning">After some days' fighting the Mormons had a council among themselves to arrange a plan to destroy the emigrants. They concluded,&#8212;finally, that they would send some few down and pretend to be friends, and try to get the emigrants to surrender.</seg> <persName key="Lee, John D.">John D. Lee</persName> and three or four others, headmen from <placeName type="settlement" key="Washington Ciy, UT">Washington</placeName>, <placeName type="settlement" key="Cedar, UT">Cedar</placeName>, and <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, (<persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John M.">Higby</persName> from <placeName type="settlement" key="Cedar, UT">Cedar</placeName>), had their paint washed off, and dressing in their usual dress, took their wagons and drove down towards the emigrants' corral, as if they were just traveling on the road on their ordinary business. The emigrants sent out a little girl towards them. She was dressed in white. Had a white handkerchief in her hand, which she waved in token of peace. The Mormons with the wagons waved one in reply, and then moved into the corral. The emigrants then came out, <hi rend="italic">no Indians or others being in sight at this time</hi>, and talked with these leading Mormons with the three wagons. They talked with the emigrants an hour or an hour and a half, and told them that the Indians were hostile, and that <hi rend="italic">if they gave up their arms</hi> it would show the Indians that they did not want to fight, and if they, the emigrants, would do this they would pilot them back to the settlements.</seg></seg></p>
+
+<pb n="69" xml:id="mmm.anti.coyner.1882.78"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">The emigrants had horses which had remained near their wagons; the loose stock, mostly cattle, had been driven off, not the horses.</seg> <seg type="Massacre" subtype="Surrender">Finally the emigrants agreed to those terms, and delivered up their arms to the Mormons with whom they had counselled. The women and children then started back toward <persName key="Hamblin, Jacob">Hamblin</persName>'s house, the men following with a few wagons that they had hitched up. On arriving at the scrub oaks, &amp;c., where the other Mormons <seg type="Blame" subtype="IndiansLDSInfluence">and Indians</seg> lay concealed, <persName key="Higbee, John M.">Higby</persName>, who had been one of those who had inveigled the emigrants from their defences, <hi rend="italic">himself gave the signal to fire</hi>, when a volley was poured in from each side, and the butchery commenced, and was continued until it was consummated.</seg> <seg type="Massacre" subtype="Spoils">The property was brought to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and was sold at public auction. It was called in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and is called now by the facetian Mormons, "Property taken at the siege of Sebastopol!" <seg type="Massacre" subtype="Aftermath">The clothing stripped from the corpses, bloody, and with lots of flesh in it, shredded by the bullets from the persons of the poor creatures who wore it</seg>, was placed in the cellar of the tithing office (an official building), where it lay about three weeks, when it was brought away by some of the party; but witnesses do not know whether it was sold or given away. It is said the cellar smells of it even to this day.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="LDS_LDS">It is reported that <persName key="Lee, John D.">John D. Lee</persName>, <persName key="Haight, Isaac C.">Haight</persName>, and <persName key="Klingensmith, Philip">Philip Smith</persName> (the latter lived in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>), went to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> immediately after the massacre, and counselled with <persName key="Young, Brigham">Brigham Young</persName> about what should be done with the property. They took with them the ready money they got from the surrendered emigrants, and offered it to <persName key="Young, Brigham">Young</persName>. He said he would have nothing to do with it. He told them to divide the cows and cattle among the poor. They had taken some of the cattle to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> when they went up, and after the talk with <persName key="Young, Brigham">Brigham</persName> they sold these to the merchants there. <persName key="Lee, John D.">Lee</persName> told <persName key="Young, Brigham">Brigham</persName> that <seg type="Blame" subtype="IndiansLDSInfluence">the Indians would not be satisfied if they did not have a share of the cattle</seg>. <persName key="Young, Brigham">Brigham</persName> left it to <persName key="Lee, John D.">Lee</persName> to make the distribution. One or two of the Mormons did not like that <persName key="Lee, John D.">Lee</persName> had this authority, as they say he swindled them out of their share. <persName key="Lee, John D.">Lee</persName> was the smallest man of the lot.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">The wagons, carriages, and rifles, &amp;tc., were distributed among the Mormons. <persName key="Lee, John D.">Lee</persName> has a carriage reported to be one of them. The Indians have but few of the rifles.</seg></seg></seg> * * * * * *</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">They are ulcers upon the body politic&#8212;an ulcer which needs more than cautery to cure. It must have excision&#8212;complete and thorough extirpation before we can ever hope for safety or tranquility. This is no rhetorical phrase, made by a flourish of the pen, but is really what proves to be an earnest and stubborn fact. This brotherhood may be contemplated from any point of view, and but one conclusion can be arrived at concerning it. The Thugs of India were an inoffensive, moral, law-abiding people in comparison.</seg></p>
+
+<p><hi rend="right"><persName key="Carleton, James Henry">JAMES HENRY CARLETON</persName>,</hi></p>
+
+<p><hi rend="right"><hi rend="italic">Brevet Major U. S. A., Captain in the First Dragoons.</hi></hi></p>
+
+<p>MAJOR <persName key="Mackall, W. W.">W. W. MACKALL</persName>,</p>
+
+<p><hi rend="italic">Assistant Adjutant-General, U. S. A.. <placeName type="settlement" key="San Francisco, CA">San Francisco</placeName>, <placeName type="state" key="California">California</placeName>. </hi></p>
+
+<p>I certify that the above is a true copy.</p>
+
+<p><hi rend="right"><persName key="Townsend, E. D.">E. D. TOWNSEND</persName>,</hi></p>
+
+<p>A. G. OFFICE, March 23, 1808.	<hi rend="italic">Assistant Adjutant-General.</hi>
+</p>
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="smallcaps">THERE</hi> is much in the Hand-Book that must shock the refined nature; much that, if it were possible, should not appear before the public. But truth demands these things be made so plain that there shall be no compromise with this foul pseudo religious-political fanaticism. The half is not told in the Hand-Book&#8212;you will never be told until the great day reveals all secrets.</p>
+
+<p>It has been the aim of the compiler to present the truth, and yet as far as possible protect the public sense of propriety. To this end matter has been omitted or modified,</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="70" xml:id="mmm.anti.coyner.1882.79"/>
+
+<head>Extracts from <persName key="Lee, John D.">John D. Lee</persName>'s Confession.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><seg type="Massacre" subtype="Dates">On the 17th of September, 1857</seg>, <seg type="Massacre" subtype="Casualties">one hundred and twenty men, women and children</seg> were massacred <seg type="Massacre" subtype="Location">in the southern part of <placeName type="state" key="Utah Territory">Utah</placeName>, at a place called <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. <seg type="Emigrants" subtype="WagonTrain">There were some one hundred and forty in the emigrant train</seg>, but <seg type="Massacre" subtype="Survivors">the small children were spared</seg>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">The murderers were Mormons and Indians</seg>, led on by <persName key="Lee, John D.">Jno. D. Lee</persName>, who was brought to trial on the 24th day of July, 1875. The jury failed to agree, and <persName key="Lee, John D.">Lee</persName> was admitted to bail. The second trial commenced September 14, 1876. In the meantime the Mormon hierarchy came to the conclusion that it was the better of two evils to make <persName key="Lee, John D.">Lee</persName> the scapegoat, and have him executed; and, therefore, on the second trial there was plenty of evidence and a jury to convict. <persName key="Lee, John D.">Lee</persName> was executed on the ground where the murder occurred, on the 25th of March, 1877.</seg></p>
+
+<p>The following extracts, taken from his published confession, reveals the spirit of the Mormon church, which is the same to-day as it was in those days of crime and bloodshed.</p>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">The Mormon leaders were so greatly alarmed at the prospect of the publication of <persName key="Lee, John D.">Lee</persName>'s writings, and the consequent revelations of their secrets and crimes, that they sent their "Blood Atoners" to threaten the life of Mr. <persName key="Bishop, William W.">Bishop</persName>, and, if possible, compel him to give up his manuscripts. The danger was so great that he was compelled to have his office guarded while engaged in copying the papers; and when they were ready to be forwarded to the publishers, the Wells, Fargo &amp; Co. Express refused to receive them until they were furnished with an armed guard to protect them until they were beyond the reach of the Mormons.</seg></p>
+
+<p><hi rend="right"><hi rend="smallcaps">PUBLISHERS' PREFACE</hi>, Page vii.</hi></p>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><persName key="Lee, John D.">John D. Lee</persName> was <hi rend="italic">one, and the and only one of fifty-eight</hi> Mormons who there carried out the orders of the Mormon Priesthood. * * *</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">As one of the attorneys for <persName key="Lee, John D.">John D. Lee</persName> I did all that I could to save his life. My associates were, and are, able men and fine lawyers, but fact and fate united to turn the verdict against us. The history of the first and second trial is familiar to most of the American people; therefore, I will not describe them here, any more than to say: Mormonism prevented conviction at the first trial and at the second trial Mormonism insured conviction. After <persName key="Young, Brigham">Brigham Young</persName> and his worshippers had deserted <persName key="Lee, John D.">Lee</persName>, and marked him as the victim that should suffer to save the church from destruction, on account of the crimes it had ordered; after all chances of escape had vanished, and death was certain as the result of the life-long service he had rendered the church, the better nature of <persName key="Lee, John D.">Lee</persName> overcame his superstition and fanaticism, and he gave to me the history of his life, and his confession of the facts in connection with the massacre, and wished me to have the same published.</seg></p>
+
+<p><hi rend="smallcaps">AUTHOR'S (<persName key="Bishop, William W.">W. W. BISHOP</persName>) PREFACE</hi>, Page viii.</p>
+
+<p>We take the following extracts from <persName key="Lee, John D.">Lee</persName>'s confession, giving the exact language and the page:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I know that our total force was fifty-four whites <seg type="Blame" subtype="IndiansLDSInfluence">and over three hundred Indians</seg>. <seg type="Massacre" subtype="Planning">As soon as those persons gathered around the camp, I demanded of Major <persName key="Higbee, John M.">Higbee</persName> what orders he had brought. * * * Major <persName key="Higbee, John M.">Higbee</persName> reported as follows: "It is the orders of <persName key="Young, Brigham">the President</persName> that <seg type="Massacre" subtype="Casualties">all the emigrants</seg> must be PUT our or THE WAY." * * * He then went on and said, <choice><orig>sub-
+
+<pb n="71" xml:id="mmm.anti.coyner.1882.80"/>
+
+stantially</orig><reg>substantially</reg></choice>, that <seg type="Context" subtype="LDSPersecution">the emigrants had come through our country, as enemies, and as the enemies of the church of Jesus Christ of Latter-day Saints</seg></seg>.</seg>&#8212;Page 282.</p>
+
+<p>* * * <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">That none but friends were permitted to leave <placeName type="state" key="Utah Territory">the Territory</placeName>, and that, as these were our sworn enemies, they must be killed. That the only safety for the people was the utter destruction of the whole rascally lot. * * * The men then in council, I must here state, then knelt down in a prayer-circle and prayed, invoking the Spirit of God direct them how to act in the matter. After prayer, Major <persName key="Higbee, John M.">Higbee</persName> said, 'Here are the orders," and handed me a paper from <persName key="Haight, Issac C.">Haight</persName>.</seg></seg>&#8212;Page 282.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The substance of the orders were that the emigrants should be <hi rend="italic">decoyed</hi> from their stronghold</seg>, and <seg type="Massacre" subtype="Casualties">all exterminated, so that no one should be left to tell the tale</seg>, and <seg type="Blame" subtype="IndiansIndependently">then the authorities could say it was done by the Indians</seg>. * * * I then left the council, and went away to myself, and bowed myself in prayer before God, and asked Him to overrule the decision of that council.</seg> * * *</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">At the earnest solicitation of Brother <persName key="Hopkins, Charles">Hopkins</persName>, I returned with him to the council. When I got back, the council again prayed for aid. The council was called the City Counselors, the Church or High Counselors; and all in authority, together with the private citizens, then formed a circle, and, kneeling down, so that elbows would touch each other, several of the brethren prayed for Divine instructions. After prayer, Major <persName key="Higbee, John M.">Higbee</persName> said: "I have the evidence of God's approval of our mission. It is God's will that we carry out our instructions to the letter.</seg>&#8212;Page 234.</p>
+
+<p>* * The meeting was then addressed by some one in authority, I do not <choice><sic>remmber</sic><corr>remember</corr></choice> who it was. He spoke in about this language: "Brethren, we have been sent here to perform a duty. It is a duty that we owe to God, and to our church and people. The orders of those in authority
+are that <seg type="Massacre" subtype="Casualties">all the emigrants must die</seg>. Our leaders speak with inspired tongues, and their orders come from the God of Heaven. We have no right to question what they have commanded us to do; it is our duty to obey.&#8212;Page 235.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Massacre" subtype="Planning"><seg type="Massacre" subtype="Surrender"><persName key="Lee, John D.">Lee</persName> then discloses the plans to get the emigrants to surrender to the whites, under a promise of protection from the Indians</seg>, and gives the plan of the <choice><sic>massacree</sic><corr>massacre</corr></choice>, which was carried out to the letter:</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The women were to march on foot and follow the wagons in single file. The men were to follow behind the women, they also to march in single file. Major <persName key="Higbee, John M.">John M. Higbee</persName> was to stand with his militia company about two hundred yards from the camp, and stand in double file, open order, with about twenty feet space between the files, so that the wagons could pass between them. The drivers were to keep right along, and not to stop at the troops. The women were not to stop there, but to follow the wagons. The troops were to halt the men for a few minutes, until the women were some distance ahead, out in the cedars, <seg type="Blame" subtype="IndiansLDSInfluence">where the Indians were hid in ambush</seg>. Then the march was to be resumed, and the troops to form in single file, each soldier to walk by an emigrant, and on the right-hand side of his man, and the soldier was to carry his gun on the left arm, ready for instant use. <seg type="Blame" subtype="IndiansLDSInfluence">The march was to continue until the wagons had passed beyond the ambush of the Indians, and until the women were right in the midst of the Indians.</seg> <persName key="Higbee, John M.">Higbee</persName> was then to give orders and words. "<hi rend="italic">Do your duty!</hi>" At this the troops were to shoot down the men: the Indians were to kill <seg type="Massacre" subtype="Casualties">the women and larger children</seg>, and the drivers of the wagons and <persName key="Lee, John D.">I</persName> was to kill <seg type="Massacre" subtype="Casualties">the wounded and sick men that were in the wagons</seg>. Two men were to be placed on horses near by to overtake and kill any of the emigrants that might escape from the first assault. The Indians were to kill <seg type="Massacre" subtype="Casualties">the women and large children</seg>, so that it would be certain that no Mormon would be guilty of shedding <hi rend="italic">innocent blood</hi></seg>&#8212;if it should happen that there was any innocent blood in the company, that were to die. Our leading men all said that there was no innocent blood in the company.</seg>&#8212;Page 236.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I, therefore, taking all things into consideration, and believing, as I then did, that my superiors were inspired men, who could not go wrong in any matter relating to the church, or the duty of its members, concluded to be obedient to the wishes of those in authority, I took up my cross and prepared to do my duty.</seg>&#8212;Page 287.</p>
+
+<p>Then follows an account of the massacre, too horrible to relate in these pages.</p>
+
+<p><seg type="Reaction" subtype="Silence"><seg type="Blame" subtype="LDS_LDS">After the dead were searched, as I have just said, the brethren were called up, and <persName key="Higbee, John M.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName>, as well as myself, made speeches, and ordered the people to keep the matter a secret from the <hi rend="italic">entire</hi> world. Not to tell their wives nor their most intimate friends, and we pledged ourselves to keep everything relating to the affair a secret during life. We also took the most binding oaths to stand by each other and <seg type="Blame" subtype="IndiansIndependently">to always insist that the massacre was committed by Indians alone</seg>. This was the advice of <persName key="Young, Brigham">Brigham Young</persName>, too, as I will show hereafter.</seg></seg>&#8212;Page 245.</p>
+
+<p><persName key="Lee, John D.">Lee</persName> was delegated to go to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and make a full report to <persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I went ovor the whole affair and made as full a statement as it was possible for me to give. * * * He asked me many questions, and I told him every particular. * * <persName key="Young, Brigham">Brigham</persName> then said: "<persName key="Haight, Isaac C.">Isaac (referring to Haight)</persName> has sent me word that, if they had killed every man, women and child in the outfit, there would not have been a drop of innocent blood shed by
+
+<pb n="72" xml:id="mmm.anti.coyner.1882.81"/>
+
+the brethren, for <seg type="Blame" subtype="EmigrantBehavior">they were a set of murderers, robbers and thieves</seg>." * * * When I finished talking about the matter, he said: <seg type="Reaction" subtype="Silence">"This is the most unfortunate affair that ever befell the church. I am afraid of treachery among the brethren that were there. If any one tell this thing so that it will become public, it will work us great injury. I want you to understand now, that you are never to tell this again&#8212;<hi rend="italic">never</hi>. Not even to <persName key="Kimball, Heber C.">Heber C. Kimball</persName>. It must be kept a secret among ourselves. <seg type="Blame" subtype="IndiansIndependently">When you get home I want you to sit down and write a long letter, and give me an account of the affair, charging it to the Indians. You sign the letter as farmer to the Indians, and direct it to me as Indian Agent.</seg> I can then make use of such a letter to keep off all damaging and troublesome inquiries.</seg>&#8212;Page 252.</seg></p>
+
+<p>At the close of the interview, <persName key="Young, Brigham">Brigham</persName> told <persName key="Lee, John D.">Lee</persName> to call the next morning.</p>
+
+<p>* * * I went to see him again in the morning. When I went in he seemed quite cheerful. He said: <seg type="Blame" subtype="LDS_LDS">"I have made the matter a subject of prayer. I went right to God with it, and asked him to take the horrid vision from my sight, <hi rend="italic">if at was a righteous thing</hi> that my people had done in killing those people <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. God answered me, and at <hi rend="italic">once the vision was removed</hi>. I have evidence from God that He has overruled it all for good, and the action was a righteous one and well intended. The brethren acted from pure motives. The only trouble is, they acted a little prematurely. They were a little ahead of time, I <hi rend="italic">sustain you</hi> and all the brethren for what they did. All that I fear is treachery on the part of some one who took a part with you, but we will look to that."</seg>&#8212;Page 283.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

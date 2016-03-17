@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.brewer.1899">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Retribution at Last: A Mormon Tragedy of the Rockies. By An Ex-Officer of the U.S. Army</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Charles</forename> <surname>Brewer</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.brewer.1899</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Retribution at Last: A Mormon Tragedy of the Rockies. By An Ex-Officer of the U.S. Army</title>
+                    <author><forename>Charles</forename> <surname>Brewer</surname></author>
+                    <publisher>Editor Publishing Co.</publisher>
+                    <pubPlace>Cincinnati, OH</pubPlace>
+                    <extent>i-v; 1-101</extent>
+                    <date when="1899">1899</date>
+                    <note type="source">Charles Brewer. <hi rend="italic">Retribution at Last: A Mormon Tragedy of the Rockies</hi>. Cincinnati, OH: Editor Publishing Co., 1899. i-v; 1-101.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-29"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2010-11-29"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name>Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="i" xml:id="mmm.fiction.brewer.1899.i"/>
+
+<head>INTRODUCTORY.</head>
+
+<p><seg type="Blame" subtype="LDS_LDS">In presenting to the public this short story in the form of a Romance, it is but fair to state that in it allusions are at times made to historical events and localities, and especially to one of the most hideous, actual tragedies ever enacted on this Continent, not even excluding the massacres by the savages in the early settlement of the country; a tragedy the brutalities of which the mother tongue hardly affords words sufficiently forcible to describe; accomplished tragedy, which, although gloated over by the male Mormon enactors of it, nevertheless, for years after, in its narration caused the cheeks of Mormon females to blanch with fear and shame.</seg> The author of this little story writes not at random, nor repeats from hearsay, his convictions having been received in a personal contact with the people, parties and events to which reference is made in the narrative.</p>
+
+<p>In a prominent position he was a resident
+
+<pb n="ii" xml:id="mmm.fiction.brewer.1899.ii"/>
+
+of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> for nearly three years. He was personally acquainted with the leader of the Mormon Hierarchy and its prominent officials, his professional services having been solicited by them, and cheerfully rendered on more than one trying occasion. It was his lot to have, by means of a critical operation in surgery, restored to health and activity a son of a prominent Mormon Bishop, and this at the cost of the life of a conspicuous and valued non-commissioned officer of the U. S. Tenth Regular Infantry, who afterward with impunity to his beneficiary and assassin, who had effected his escape, was murdered in the streets of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</p>
+
+<p>Familiarity with their Press and Pulpit utterances; constant personal collision with the people and at intervals short periods of necessary visitation to, or temporary residence in their households, thoroughly convinced the writer of the enormity of the moral prostitution consequent on their bigamous practices.</p>
+
+<p>In communication with an intelligent Mormon couple of reputable English descent&#8212;Monogamists, however&#8212;and for whom I entertained respect, my convictions were more fully established to the effect that the demoralization of the Mormon women as dependent upon their gross association
+
+<pb n="iii" xml:id="mmm.fiction.brewer.1899.iii"/>
+
+with men of beastly organization, to whom they must submit at the fear of loss of life, was simply appalling. As this fact was being emphasized by them, through adductive evidence, they were both watching the windows and doors of their residence as if in mortal dread of the walls having ears, and of the great peril as though the wide system of espionage then prevalent they were incurring by their disclosures. An article of the asserted Faith of this People being, that it was a mercy to kill a recalcitrant Mormon, and that they were thus doing God a service, and saving the soul of the offender; only when under the protection of the U. S. guns or being escorted by them in safety beyond what was defined as the Mormon Territory, did those of this misguided people who were convinced of their error, dare to unloose their tongues, being in constant dread and not without reason of being pursued and murdered by the so called Danites or Destroying Angels.</p>
+
+<p>The effect of the prevalent family-harem on children brought in unguarded contact with every phase and degree of the connubial relation was actually shocking.</p>
+
+<p>In illustratioin of this, as at one time whilst riding through a Mormon village in company with a newly arrived <placeName type="settlement" key="Washington, DC">Washington</placeName> official, this fact was being emphasized,
+
+<pb n="iv" xml:id="mmm.fiction.brewer.1899.iv"/>
+
+the evidence adduced seemed too strange to be believed, and his doubts were only completely removed by answers&#8212;too immorally gross to be repeated here&#8212;elicited from two Mormon children of tender years, accidentally met upon the highway, and to whom plain, pure, but leading questions had been put.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">As depicted by both Mormon and <hi rend="italic">Gentile</hi> evidence, sickening features of the massacre, <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, the locality of which was visited by the writer, who also <seg type="Reaction" subtype="Commemoration">assisted in the collection and burial of the remains of the massacred</seg>, still haunts the writer's memory.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Acquainted with the <hi rend="italic">personnel</hi> and effects of the train referred to, whilst en route to <placeName type="state" key="Utah Territory">Utah Territory</placeName>, it was also his privilege to assist in the recovery of the very little ones whose lives had been spared, as it is his privilege now to express his appreciation of the tireless efforts and unshrinking fidelity of the Indian Agent of <placeName type="state" key="Utah Territory">the Territory</placeName> and of the three presiding U. S. Justices, towards the accomplishment of this end, as through the authority vested in them by the general government.</seg></p>
+
+<p>This story has been invited by the voluntary resurrection of old corpses. What has been written was with no intent of rekindling old animosities, of awakening
+
+<pb n="v" xml:id="mmm.fiction.brewer.1899.v"/>
+
+new antipathies or encouraging any form of interstate estrangement, but simply as an exposition of abuses once originated and developed and likely to arise again, in communities organized on an unsound moral basis, and conducted in open antagonism to the pronounced spirit of the age, and the unqualified opinions of a whole nation, of which that community is an integral part.</p>
+
+<p>If one word which has been uttered may serve to open the eyes of the people or their rulers to the seriousness of the present situation in <placeName type="state" key="Utah Territory">the state of Utah</placeName>, and to the importance of securing a permanent and final decision upon a moral issue supposed to have been long ago settled, but which like a hydra-headed monster, again rears its crest to imperil the safety and inviolability of one of the most sacred and valued institutions bequeathed to us by our fore-fathers, then this short narrative will not have been written in vain.</p>
+
+<p><hi rend="right"><hi rend="smallcaps">THE AUTHOR.</hi></hi></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="01" xml:id="mmm.fiction.brewer.1899.001"/>
+
+<head>CHAPTER I.</head>
+
+<p>After a stern and protracted winter, spring, with all the beauty of a fairy dream, had at last dawned on the rich rolling prairies of <placeName type="state" key="Kansas">Kansas Territory</placeName>.</p>
+
+<p>In every direction over its virgin soil there met the eye of the traveler, geometric groups of driven stakes representing mapped out towns projected by scheming speculators in preparation for a tidal influx of energetic settlers.</p>
+
+<p>The cabins of the immigrants were springing into existence like mushrooms in a night, but possibly to disappear as suddenly in the mould of an <choice><orig>ember-
+
+<pb n="02" xml:id="mmm.fiction.brewer.1899.002"/>
+
+marked</orig><reg>embermarked</reg></choice> oblivion. The dark tide of ill regulated human passion which had been sweeping, now forward, now backward, along the territorial border, had for the moment reached its ebb; but only that beneath a deceitful calm, it might gather strength for the returning flood, and to surge in destructive billows, submerging fortunes, friendships, homes, happiness, in fact all met within its destructive pathway.</p>
+
+<p>Aggression and retaliation had become the order of the day. The great moral question of right and wrong had become involved in the settlement of the Territory. Politics, like a huge, hungry giant, had leaped into the arena, and the questions at issue, forestalling issues even more momentous, seemed likely to be settled only by the arbitrament of the sword.</p>
+
+<p>Conditions resultant from these agitations, were at the special moment to which we refer, the subject of conversation between a sturdy farmer and his wife, an attractive and refined looking young woman, as they sat side by side on a huge
+
+<pb n="03" xml:id="mmm.fiction.brewer.1899.003"/>
+
+log at the door of a comfortable cabin in a bend of the river called the Little Blue.</p>
+
+<p>He had just returned with his ox-team from the low lands near by, and as the beasts stood at rest, panting beneath their heavy load of logs, a toddling urchin, rosy-cheeked and curly haired, had at his peril clambered to the top of the load, from which with a miniature whip in hand, he was imitating to the best of his ability the popular emigrant strain, "Ge-wo-wha&#8212;git up Bright!"</p>
+
+<p>Below, and to his apparent satisfaction, a large Newfoundland dog stood watching the proceedings of the baby boy.</p>
+
+<p>"You ask for my decision, Helen? For the first time since our marriage you find me hesitant. I have, however, concluded to leave the issue entirely with you. I have fully informed you of my own convictions of prospects here, and shall now be guided in my action by whatever you may determine to be the best for your own contentment and happiness."</p>
+
+<p>"Then, Robert, although most unwillingly driven to the conclusion, and whilst
+
+<pb n="04" xml:id="mmm.fiction.brewer.1899.004"/>
+
+it is a costly surrender of my anticipations, to abandon the successful results of our labors here, and to leave the spot where we have passed so many happy hours together, I advise that the contemplated move had better be made."</p>
+
+<p>"Your conclusion, Helen, gives me much relief. The move under consideration, is I believe, more essential to my own happiness than to yours. Not without my own convictions of right and wrong in this case, I have nevertheless, through love of peace, fortunately thus far held myself aloof from the discord and dissensions in which our neighboring settlers have become involved, and I have remained in peaceable relations with all men. But this choice may not always be left me. Like others I may eventually be drawn into this fierce political maelstrom, and with all that is dear to me sunk in its whirling vortex. You are well aware that our settlement in this western home was in search of peace and quietude and order and a restful disentanglement from both social discord and political strife.</p>
+
+<pb n="05" xml:id="mmm.fiction.brewer.1899.005"/>
+
+<p>"The fair and far off summer vale beyond the Rockies gives, as pictured to us, far better promise of becoming the El Dorado of our desires."</p>
+
+<p>In this latter utterance, Robert Gordon had spoken with much feeling. His sensitively organized nature had received a severe shock in its collision with what, in the impetuosity and inconsiderateness of youth, he accepted as the harsh and imperious edict of paternal authority.</p>
+
+<p>He longed for peace and solitude in some visionary "Vale of Tempe" where there would be afforded an opportunity of applying to his wound the soothing balm of nature's placid charms.</p>
+
+<p>A change having been decided upon, during the following summer and winter the hero and heroine of our narrative applied themselves to the task of preparation for removal with all the system and energy to be expected from two such vigorous and sympathetic natures.</p>
+
+<p>In view of the advantages of its location and its substantial improvements, the disposal of the farm proved an easier task
+
+<pb n="06" xml:id="mmm.fiction.brewer.1899.006"/>
+
+than was expected, and it now only remained to complete numerous minor arrangements and details necessary to so long and venturesome a journey over the arid plains and lofty mountain ranges of the then inhospitable west.</p>
+
+<p>One by one these less important matters were satisfactorily settled, and with the coming of another spring all was found in readiness for the first fair opportunity which might offer.</p>
+
+<p>A journey of such length and exposure was not to be rashly undertaken by the few, unless under most propitious circumstances, but was generally effected by the consolidation of bodies of emigrants, who uniting their interests and forming a defensive alliance, stood better chances of reaching the goal of their destination.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="07" xml:id="mmm.fiction.brewer.1899.007"/>
+
+<p>But it may be of interest to learn how these two young adventurers happened at this time to be found on the <placeName type="state" key="Kansas">Kansas</placeName> border.</p>
+
+<p>"After careful reflection, Eloise, I can no longer conscientiously oppose the boy's wishes. I am aware of the fact that the line of life he has mapped out for himself is at variance with the judicious plans we have matured for his welfare. I can too, fully appreciate how harshly this new departure from the arranged programme must grate on a nature as sensitive as your own. And yet after all, it is possible that this unlooked for result is only the reappearance of heredity in the third generation, and for all we know it may possibly be his destiny to become as distinguished a military hero as were some of his ancestors."</p>
+
+<p>These were the words of a hale, handsome man of about forty-five years of age,
+
+<pb n="08" xml:id="mmm.fiction.brewer.1899.008"/>
+
+whose well ordered mental organization and well developed moral principles were on a par with his noble face and finely moulded figure.</p>
+
+<p>They were addressed to a fair, refined, but frail looking woman who, as she reclined in a delicately fashioned fauteuil in a large mansion on Fifth Avenue, <placeName type="settlement" key="New York, NY">New York</placeName>, seemed hardly robust enough to endure so compulsory an issue on a subject which had long been under serious consideration between herself and her husband.</p>
+
+<p>"The die is cast then, Robert! This means ultimately a separation from my boy. The trial is one hard to be borne. Nor can I cheerfully reconcile myself to the thought of his necessary exposure, as incident to the life of a young officer on the frontier. But whilst we are discussing this matter it would be well for me to say to you, that his reticence on another subject has caused me deep solicitude. Nor have I been able to elicit from him any expression of his feelings, when I attempted to broach it, save in a most frivolous way. I am satisfied, nevertheless,
+
+<pb n="09" xml:id="mmm.fiction.brewer.1899.009"/>
+
+that there is some danger of his entanglement in a <hi rend="italic">mesalliance</hi>, which should it occur, would cause me deep pain. As he is yet so young, it is possible that this change in his life may create a healthy diversion, and thus much trouble be saved in the future, both to him and to us."</p>
+
+<p>"Do not give yourself, Eloise, overmuch anxiety on this subject. I fear you hardly understand as much about boy's love as I do. Men have all to pass through a stage of heart acclimation before they arrive at that point where the heart tablet has been educated, or better fitted for the reception of a permanent impression. The boy will doubtless come out all right as others have done before him."</p>
+
+<p>So it was finally determined that Robert Gordon, the younger, a presentable young fellow, of cheerful buoyant disposition, generous impulses and popular among his comrades, but imperfectly developed as his parents thought, in will power, should be permitted to apply for admission to the U. S. Military Academy at West Point, and so gratify the ruling desire of his young life.</p>
+
+<pb n="10" xml:id="mmm.fiction.brewer.1899.010"/>
+
+<p>How far the attainment of another project in unison with it was to be a matter of success, the future must be left to show.</p>
+
+<p>Indeed at the very moment when the future profession of the young hero was being decided upon, at a retired suburban cottage not many miles distant, he could have been seen at a rose embowered wicket and by the side of a fair flaxen haired young creature, possibly destined to exercise a controlling influence over his life, and who to all appearances was fully reciprocating the sympathetic expression that lighted up his handsome face, now all aglow with the fervor of youthful love.</p>
+
+<p>"Yes, Helen, I mean every word I say, I am inexpressibly happy in the knowledge that my love is reciprocated, and there is nothing under heaven that can ever separate me from you."</p>
+
+<p>"But are such rash promises, Rob, as equally easy of fulfillment? I am satisfied that you love me dearly, but are you sure that the consent of your parents can be won to our protracted engagement?"</p>
+
+<p>"To accomplish this, Helen, shall be the
+
+<pb n="11" xml:id="mmm.fiction.brewer.1899.011"/>
+
+burden of my constant toil. Surely there is nothing my parents could urge against one as lovely in face and character as your own maidenly self. And a great argument to be used in removing any possible opposition, will be your positive unwillingness to confer such happiness on me at the cost of their respect. I feel sure, my dear girl, that I shall win their consent to our betrothal."</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="12" xml:id="mmm.fiction.brewer.1899.012"/>
+
+<head>CHAPTER III.</head>
+
+<p>In the tidy martial figure, clad in the gray uniform of a West Point Cadet, seen standing in front of the Post Commandant at his headquarters, and in the attitude of saluting that grave dignitary, but for the same jolly bright eye and frank, cheerful countenance, one would hardly have recognized the young metropolitan aspirant for military honors of two years previous.</p>
+
+<p>"Cadet Gordon, your conduct as reported by your superior officer is positively most reprehensible, and deserving of conspicuous rebuke. But for special credits due you for previous gallant conduct under circumstances to which I need not now refer, but of which you shall receive the full benefit, the consequences of such thoughtless conduct might be to you, most disastrous. As the case stands, let there be in the future no such interviews as this. Such breaches of discipline cannot be
+
+<pb n="13" xml:id="mmm.fiction.brewer.1899.013"/>
+
+frequently tolerated. Remember, sir, that to the character of a soldier capable of fulfilling the duties his country will expect of him, dignity of bearing and subjection to discipline are as equally essential as is scientific attainment. You can now return to your quarters."</p>
+
+<p>"A lucky fellow and a very narrow escape, my dear Bob. How would a faithful report of this interview be appreciated by your indulgent governor, or that fair being at his side who has dropped her angel wings and consorted with rough man, that she might mould a character as thoughtless and heedless as yours? See my boy, it was really thoughtlessness after all, but we must grasp the curb rein with a firmer hand, else some day the colt will throw his rider."</p>
+
+<p>After such manner the young cadet communed with himself and thereupon formed new resolutions which it would have been well for his future had he religiously kept.</p>
+
+<p>He was a bold, accomplished young soldier, but too high spirited, too giddy, too heedless, to maintain that equipoise
+
+<pb n="14" xml:id="mmm.fiction.brewer.1899.014"/>
+
+necessary to the completion of a genuine military training.</p>
+
+<p>The difficulty in this case had been that a Herculean young plebe, recently imported from the high-toned soil of <placeName type="state" key="Kentucky">Kentucky</placeName>, had himself raised the question, and under dire threats, as to who would be so rash as to repeat upon his person the exploit, not many weeks before practiced upon another plebe of less dangerous dimensions; viz., the seizing of him by the legs, when in encampment on some dark rainy night, the rolling of him in his blanket, the dragging of him by the heels around the inner circle and his final precipitation into an accommodating mud puddle.</p>
+
+<p>The temptation had proved too strong for our enthusiastic young aspirant for fame and fun. But alas, in this instance it was not with the result of a quiet little boxing match in Kosciusko's Garden, but at the cost of a severe and serious reprimand at the hands of the Commandant.</p>
+
+<p>As the accepted leader of his wild young comrades in all their mad freaks and follies, and ever pushed to the front, but not
+
+<pb n="15" xml:id="mmm.fiction.brewer.1899.015"/>
+
+unwillingly, in all their frolicsome escapades, it eventually fixed itself as a fact in the mind of the popular Bob: "That whilst all work and no play makes Jack a dull boy," so likewise most play and little study made Bob a poor scholar.</p>
+
+<p>And so it happened on one sad day whilst Bob sat in a cozy nook in Lovers' Retreat, on the banks of the Hudson, perusing again and again a fragrant letter that had brought with it delicious day dreams of trailing tulle and fragrant orange blossoms, he received information that he had failed in his examinations, and would accordingly be dropped from the rolls of the Academy.</p>
+
+<p>A thunderbolt from a clear sky could not have fallen more startlingly than did this announcement on the ears of the young cadet.</p>
+
+<p>The horizon swam before him. An Erebus-like shadow seemed to interpose itself between himself and the glaring sun in the mid-day heavens. The personal mortification of his failure was in itself intolerable. But how could he face a disappointed, an angered and almost disgraced 
+
+<pb n="16" xml:id="mmm.fiction.brewer.1899.016"/>
+
+father; and how meet the tender piteous glance of one who from his birth had held him almost as her idol?</p>
+
+<p>But with a soldier, the inevitable must be met bravely, and with a soldier's true spirit. Now the interview was at hand.</p>
+
+<p>"How can such a result as is reported to me be possible, my son? It seems like some hideous nightmare. Am I really called upon to endure this mocking, crushing disappointment? And in the face of those to whom I have so often and with pride, boasted of your future prospects? My boy, oh my boy! How could you be so cruel to yourself and to those who loved you so fondly?"</p>
+
+<p>"I was but thoughtless, my dear father, and I sincerely and sorrowfully acknowledge my pride and my error in accepting the position of model hero to my young scapegrace companions, who little thought they were assisting me towards such a disaster. Give me, father, one fair trial more in some other direction, and the past shall be fully redeemed?"</p>
+
+<p>"I will do it, my boy."</p>
+
+<pb n="17" xml:id="mmm.fiction.brewer.1899.017"/>
+
+<p>And from that moment there was reestablished between father and son, the game degree of affection and cordiality which had previously existed. Was it not truly unfortunate that upon a horizon so fair and full of promise, another threatening specter should arise, and this too in form of grace and beauty?</p>
+
+<p>In the plans shaped out for the welfare of his only son, an element had entered, of which the latter was entirely ignorant.</p>
+
+<p>In arranging for his admission to the banking-house of which he, Robert Gordon, Sr., was the prominent partner, it had been further proposed that his son should eventually lead to the altar one of the sweetest and loveliest of her sex.</p>
+
+<p>After completing her education at home, Evelyn De Ruyeter had spent several years in foreign travel, and on her return to her native land was on the point of visiting Mrs. Gordon, an old schoolmate of her mother. As was natural to expect, and after a short acquaintance and intimate association with Miss De Ruyeter, Robert had been struck with her rare beauty and
+
+<pb n="18" xml:id="mmm.fiction.brewer.1899.018"/>
+
+equally attracted by her rich accomplishments, the native ease of her address, and the winning grace of her bearing. Beyond this point the influence of her personal magnetism had not extended.</p>
+
+<p>On the sensitive tablet of Robert's heart an image had already been indelibly impressed, and one which time and circumstances would prove powerless to erase.</p>
+
+<p>The fates had woven the threads of two young lives into a magnetic cable. From their satisfactory mooring at either terminal, it was not likely that one or the other would seek a severance. How much more unfortunate that through the timidity and lack of confidence on the part of the son, this state of affairs had not been earlier made known to the father. The two were now standing face to face in the rear portico of the home mansion, where for a short time they had been promenading arm in arm.</p>
+
+<p>"I am completing arrangements, Robert, for your early admission into our banking-house, where I have reason to believe that you will win the confidence of my partners,
+
+<pb n="19" xml:id="mmm.fiction.brewer.1899.019"/>
+
+and in time do honor to the firm. In further provision for your future comfort and happiness after due consultation with your mother, I feel disposed to advance another step. Looking to the advantage of your early settlement in life, and without the faintest suspicion on her part, we have brought you in contact with a refined and highly accomplished young lady, whose character and family antecedents are only equalled by her beauty and grace.</p>
+
+<p>"Your mother and I have noted with great satisfaction the growing cordiality which has sprung up between you, and it is our desire and hope that this intimacy will in time ripen into a life attachment, which would, I am convinced, prove a blessing to you both.</p>
+
+<p>"Under such circumstances it would seem eminently proper that I should advise that any fanciful or romantic relations which you may have formed, and which would mar the plan proposed, be promptly and permanently dissolved."</p>
+
+<p>"But, father, whilst fully appreciating your thoughtfulness and generosity in my
+
+<pb n="20" xml:id="mmm.fiction.brewer.1899.020"/>
+
+behalf, was it altogether wise and considerate to have matured plane involving so serious an issue, without bestowing on me, at least a part of your confidence?"</p>
+
+<p>"Are you quite sure, my son, that the position you yourself may have taken, warrants an appeal or even the mention of a personal confidence. Had you pursued a different course, is it not probable that it would have eventuated in a far different state of affairs?"</p>
+
+<p>"It was far from my intention, father, to withhold from you permanently, any confidence relating to a subject of so delicate a nature; but feeling that there might be some obstacle which would unfairly present itself in opposition to the fulfillment of my desires, such confidence was only delayed in hope that conditions which might arise would be more propitious. I owe you, father, my love, my respect and my reverence, and should the world give me honor or fame, I would gladly lay them at your feet. I surely owe you a cheerful obedience; but are there not conditions under which you would not require it?</p>
+
+<pb n="21" xml:id="mmm.fiction.brewer.1899.021"/>
+
+<p>"There are, as you know, peculiar affinities originated by nature in the attraction of one soul for another which are not so readily controlled by our will; feelings which are not merchantable, which naturally resist compulsion, as would the eagle the compulsatory building of her nest upon the level plain.</p>
+
+<p>"My affections have been unalterably bestowed on an object I believe worthy of them. To recall my plighted faith would be a violation of honor. To falsely barter my allegiance, or to transfer it to another, would be still baser mockery, and worthy of the basest of hypocrites."</p>
+
+<p>"Then I understand you, sir, to reject my proposal, and to refuse to sever a clandestine association, contracted without the knowledge or advice of your parents, one which I have received information of but lately, and through an unwilling source, but which, if continued, would prove utterly obnoxious, not only to your mother and myself, but to our entire family connections."</p>
+
+<p>"Do not speak thus, my father. You
+
+<pb n="22" xml:id="mmm.fiction.brewer.1899.022"/>
+
+could not say this were you personally acquainted with the object of my affections, who is in herself, despite old family feuds, most unobjectionable, and in character as lovely as in form and feature."</p>
+
+<p>"Of one fact I am fully satisfied, Robert, that you have been carried away by a fatal beauty, without pausing to reflect on the result of a course which would prove so odious as a voluntary union of the blood of the Janvier family with that of your mother. I would be both false to myself and unfair to you, did I not assume a position of antagonism to so unfortunate an entanglement."</p>
+
+<p>"But let me prove, father&#8212;."</p>
+
+<p>"It is unnecessary, sir; circumstances of the past have already proved overmuch in that direction; certainly more than with my consent, an opportunity of proving, will ever be afforded in the future. I have done, but have only to say in conclusion that I shall expect this odious connection to be broken off at once; this, in due respect to your own happiness and my family honor.   Should you not acquiesce in
+
+<pb n="23" xml:id="mmm.fiction.brewer.1899.023"/>
+
+my demand, it will be under the pain and at the peril of a severance of our nearest and most affectionate relations."</p>
+
+<p>"Father, I think your decision is too hasty. Your judgment too harsh."</p>
+
+<p>These latter words Mr. Gordon had not heard. The state of mental irritation to which the conversation had given rise had become so intolerable to him as to forbid its continuance unless at the risk of an outbreak of irrationality, which would in a more marked degree have been detrimental to the welfare of both father and son.</p>
+
+<p>To widen the breach which had been opened between them, it unfortunately happened that on the afternoon of the same day, as Mr. and Mrs. Gordon and Evelyn De Ruyeter, their lovely guest, were returning from a drive; in passing a retired cottage in the suburbs of the city, occupied by the Janviers, Robert had been recognized on the steps of the portico and in the affectionate attitude of leave taking from his inamorata. It happened too, that Robert had caught sight of the family equipage
+
+<pb n="24" xml:id="mmm.fiction.brewer.1899.024"/>
+
+and its occupants, and in the surprise of the moment had doffed his hat to them.</p>
+
+<p>To Mrs. Gordon the shock of this undesirable recognition was most violent and intolerable. By the father it was accepted, as under the circumstances, only given in a spirit of disrespect for and defiance of parental council and authority.</p>
+
+<p>As Miss De Buyeter turned to ask the name of this beautiful cottage, she noted that an ashy paleness had diffused itself over the countenance of her host, and forebore to press her question further. On Robert's return to his home at a late hour of the evening, the scene between himself and his father had been one in its details, not healthful to relate.</p>
+
+<p>It should be said, however, in justice to the former, that the intemperate conclusions reached by the latter in the altercation which had taken place, were founded on false premises. It had not for a moment been the intention of the son to defy the parental authority or in any manner to place himself in a position to forfeit further the respect of the father.   Had an
+
+<pb n="25" xml:id="mmm.fiction.brewer.1899.025"/>
+
+opportunity occurred he would have explained candidly his present position.</p>
+
+<p>His visit to Helen Janvier, his betrothed, had been only one which under the circumstances of the case, he had deemed specially advisable, and through which he hoped some course of proceeding might be devised, by which old family wounds could be healed, long standing estrangements reconciled, and the obstacles to his union with Helen, removed.</p>
+
+<p>In the altercation to which we have referred, the demands of the father had been of so imperious a nature and in tone so harsh, as to arouse resentment and provoke intemperate response on the part of the son, and finally a positive refusal to comply with his unreasonable demands. So father and son had parted in anger.</p>
+
+<p>Here presented itself the opportunity for the interposition of the mother's influence, but Mrs. Gordon's physicial constitution, which was feeble, had been so shocked by recent developments and occurrences that her nervous prostration totally unfitted her for the task.</p>
+
+<pb n="26" xml:id="mmm.fiction.brewer.1899.026"/>
+
+<p>Robert, dejected, broken in spirit, felt constrained, although with deep reluctance, to turn his back upon the home of his childhood, a home of affluence and ease; and alone, yet he hoped not alone, to seek through independent channels the solution of the yet unsolved problem of a successful life.</p>
+
+<p>It proved, however, a task far more difficult than he expected, to persuade Helen Janvier to consent to a union in opposition to the will of his parents. An importunate love, however,overcomes the most serious obstacles, and Helen's consent was at last gained.</p>
+
+<p>After the marriage ceremony, quietly performed in the retired chapel1 situated near Helen's residence, with a few thousand dollars inherited from a deceased uncle in his pocket, with a heavy load on his heart and an intense yearning for the blessing of his parents from whom he still remained estranged, our young hero turned/his reluctant steps westward.</p>
+
+<p>With the strong tide of emigration then settling in that direction, he finally became
+
+<pb n="27" xml:id="mmm.fiction.brewer.1899.027"/>
+
+comfortably settled on the banks of the Little Blue River in the territory of <placeName type="state" key="Kansas">Kansas</placeName>, where we have lately made his acquaintance.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="28" xml:id="mmm.fiction.brewer.1899.028"/>
+
+<head>CHAPTER IV.</head>
+
+<p>Beautiful May! Fragrant May! With its burden of blossoms, its balmy breezes, whispering among the tender cotton-wood sheen; its jubilant streamlets as, released from their winter fetters, they go bounding away on their springtide mission.</p>
+
+<p>Beautiful May! with its emerald carpet spreading far and wide over valley and hill and undulating prairie, had come at last, extending her wooing arms to the impatient emigrants, looking forward with longing to the meeting at their central rendezvous, from which with his enthusiastic companions, Robert Gordon, Jr., too would take up his projected journey further westward.</p>
+
+<p><seg type="Massacre" subtype="Spoils">Wagons loaded with household goods, commissary supplies, farming utensils, arms and ammunition, men on horsback, on foot, herds of stock and cattle</seg>, came streaming in from all points of the <choice><orig>com-
+
+<pb n="29" xml:id="mmm.fiction.brewer.1899.029"/>
+
+pass</orig><reg>compass</reg></choice> to the camping ground agreed upon, where all was energy and activity in preparation for an early movement.</p>
+
+<p>Among the foremost on the ground appeared Robert Gordon, seated on a tough Canadian pony, riding beside a large comfortable wagon, drawn by four stalwart oxen, and from the front of which were peering a smiling mother and her lovely young child.</p>
+
+<p>Helen Gordon had shed tears not a few, on leaving the homestead of their own carving, in which she and her husband had passed so many happy hours.</p>
+
+<p>Robert Gordon, as he had ridden away from it cast many lingering looks behind him; for how many days he asked himself, happier than those spent there, were to be their certain portion in the new home to be established in the wilderness beyond the far off mountains.</p>
+
+<p>Morning had broken and the gorgeous sun, like a glory, was rising over the far sweeping prairies, as over the bosom of a broad sea. Captain Gordon, for such was the title with which his comrades of the
+
+<pb n="30" xml:id="mmm.fiction.brewer.1899.030"/>
+
+train had honored him, had risen early that he might sniff the first breath of morn and catch the early note of the piping plover, as tripping over the green sward, mate responded to mate.</p>
+
+<p>Little Rob was, however, ahead of him, being found in front of the tent door strutting pompously like a sentinel up and down and examining a wooden pistol just taken from his belt. His piping notes fell more acceptably on the wanderer's ear than did the whistling of the joyous prairie bird.</p>
+
+<p>"Good morning, papa, there must have been a wolf around last night, I heard Pont growl more than once. If a wolf was to come to eat up mama and you, he would soon be a dead wolf; see papa, I am all ready for him."</p>
+
+<p>"Mama and you!" His heart was not freed of its soreness yet. The sensitiveness of that sore seemed to have increased rather than diminished. There was another and a far away mama whose happiness had been, and he believed still remained indissolubly  united  with his own. Yet no
+
+<pb n="31" xml:id="mmm.fiction.brewer.1899.031"/>
+
+gentle longed for word of chiding had ever come to him from her, to woo him back to a manifestation of the undying allegiance he held and owed to her.</p>
+
+<p>Would it ever remain thus? Would the yearned for bugle recall never be sounded?</p>
+
+<p>"No wolf, Rob, but in the early part of the night our own camp was passed by a troop of Uncle Sam's soldiers who have camped just beyond us. Don't you see their white tents over yonder?"</p>
+
+<p>"Take me to see them close, papa; I would like to be a soldier too, and have a true sword and gun, and march this way;"&#8212;this, as he was now strutting to and fro.</p>
+
+<p>Another old wound had been opened. But the wanderer from home, was, through his hardships, striving to learn the lesson of living in the present, and of fighting against that depression of mind and body consequent on lingering too long and sorrowfully over the errors of a possibly irremediable past.</p>
+
+<p>"It is too late for to-day, Rob. The troops are already striking their tents. We may have abetter opportunity to-morrow."</p>
+
+<pb n="32" xml:id="mmm.fiction.brewer.1899.032"/>
+
+<p>"Where are the troops going, Captain?" asked one of the train men. "There seems to be quite a numerous body of them."</p>
+
+<p>"I saw one of the officers last night, Hazzard, who informed me that there was a movement on hand for a concentration of forces against the Cheyenne and Kiowa Indians, who after having perpetrated the horrible train massacre of the previous summer, were reported to be now on the war path."</p>
+
+<p>"Where are these Indians supposed to be at present, Captain?"</p>
+
+<p>"Somewhere, I am told, on the Republican River, and that it is the object of the troops to get between them and the mountains, and so cut off their retreat westward."</p>
+
+<p>"Then the troops will be all the time between us and the hostiles? I am glad to hear this, as their appearance has excited some little alarm among our families, who feared lest the presence of the soldiers was an indication of some near danger threatening them."</p>
+
+<pb n="33" xml:id="mmm.fiction.brewer.1899.033"/>
+
+<p>"There is no present danger, Hazzard. Please assure the members of our train of the reliability of what I assert."</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="34" xml:id="mmm.fiction.brewer.1899.034"/>
+
+<head>CHAPTER V.</head>
+
+<p><seg type="Emigrants" subtype="Route"><seg type="Emigrants" subtype="WagonTrain">The journey of <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> and <seg type="Emigrants" subtype="StateAffiliationMissouri"><placeName type="state" key="Missouri">Missouri</placeName> emigrants</seg></seg>, necessarily a long and wearisome one, was meanwhile progressing steadily toward its accomplishment.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="Route">The lovely prairies with their lucid streams and refreshing groves of cotton-wood trees, their endless expanse of tall sedgy grass, rolling rhythmically in graceful billows like the bosom of old ocean itself, soon melted away in the distance behind them.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">Now the vast boundless plains kept, day after day, looming up in their front, as if there was no limit to the far off horizon, anon darkened by herds of countless buffalo, as blockading the train they crossed the trail, descending from the higher mesas to their watering places along the borders of the turbid Platte.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">As day followed day, and march succeeded march, the journey at the first
+
+<pb n="35" xml:id="mmm.fiction.brewer.1899.035"/>
+
+exhilarating because of novelty and eventfulness, now became irksome and monotonous. It was true that with the disappearance of their nesting-ground had been left behind the animating twirl of the prairie plover; but the little ones of the train, boys and girls, twenty-five or thirty in number, as they gamboled happily along the wayside, now chasing the tame young hares, pelting with pebbles the surprised and stately sage fowl, or stopping to gather up the orange-throated troopials, as heedless of the voyagers they were struck down by a stroke of the whip or ever ready ram-rod, inspired the weary travelers with new zest for the trials of the road.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">Fort Kearney had been passed. The difficult and oft dangerous ford of the South Platte had been struggled through. The historic battle-field of the Ogalallah Sioux was left behind them. From the occasional Pawnee or Sioux who had straggled into their camp, they had listened to the story of the Pawnees' defense of Court House Rock&#8212;the huge castellated structure, looming up in the distance to
+
+<pb n="36" xml:id="mmm.fiction.brewer.1899.036"/>
+
+the southward,&#8212;or to that of the massacre of the Grattan party near Fort Laramie, which post they were now approaching and where they would be separated from the military guard, which would from that point move directly southward. <seg type="Emigrants" subtype="WagonTrain">The train, whose progress we have been following, was unusually large for an emigrant train, and by the trading posts which it had passed was <seg type="Massacre" subtype="Spoils">considered an unusually rich one. It was well provided with superior stock</seg>, and was composed of <seg type="Massacre" subtype="Casualties">at least forty families</seg>.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">Captain Gordon, with whose history they were unacquainted, but whose bearing and appearance clearly indicated him as a military man, had become quite popular among his fellows, and was looked up to as the chief director of the train.</seg></p>
+
+<p>In case of accident he was the first to be summoned, and the first to set the example of voluntary assistance. It was he who selected the daily camping ground and who regulated the hours for the day's travel. It was usually his unerring shot which would bring down the straggling buffalo, or strike
+
+<pb n="37" xml:id="mmm.fiction.brewer.1899.037"/>
+
+the venturesome antelope, as vidette-like it dashed up to inspect the passing train. It was his little boy, Rob, who was ever petted by the emigrants as he trotted along beside the wagons, or was lifted up into the saddle by the train captain. The voice of the little "piping plover," as the train men called him, was now making itself heard.</p>
+
+<p>"Run quick, papa! Pont has pointed one of the ugliest birds I ever saw." Gordon was not quick enough to prevent the deadly fang of the rattlesnake from penetrating poor Pont's face, which had interposed itself between the boy and danger, but still in time to deal the reptile a mortal blow ere he had time to escape to his den amid the greasewood undergrowth.</p>
+
+<p>"Pont would let himself be killed for me, papa. Please don't let Pont die."</p>
+
+<p>Captain Gordon was overjoyed at succeeding in saving the brave dog's life, by the prompt use of liquid ammonia, a bottle of which he always carried in his hunting jacket or saddle pouch.</p>
+
+<p>Mrs. Gordon was now questioning him:</p>
+
+<pb n="38" xml:id="mmm.fiction.brewer.1899.038"/>
+
+<p>"Will there be much danger, Robert, after we have passed Fort Laramie?"</p>
+
+<p>"No, Helen," he replied, also addressing himself to the group of emigrants gathered around her, as they were at last pitching their tents under the sheltering guns of the fort. "Laramie passed, our dangers are about over. No bands of hostiles are known to infest our route beyond this point. We shall as usual preserve our discipline and remain upon our guard; but large bodies of troops now intervene between us and the warring tribes, so that there need not be the slightest alarm."</p>
+
+<pb n="39" xml:id="mmm.fiction.brewer.1899.039"/>
+
+</div1>
+<div1 type="chapter">
+
+<head>CHAPTER VI.</head>
+
+<p>Onward! Onward! Onward! this was the watchword of our bold pioneers of progress, as pushing forward they carried with them to a virgin soil, the germs of a new civilization.</p>
+
+<p>We have watched them with interest, as leaving behind them the crowded cohorts of organized society, they pushed forward with the toil sweat of brawn and the tenacious resolution of brain, to the achievement of new victories in the redemption of the western wilderness.</p>
+
+<p>It was not with the steam-harnessed appliances of the present day that these representatives of the indomitable pluck and perseverance of the earlier pioneers, were attempting to define more clearly that indistinct and almost interminable trail winding in and out between the mountain chains, and through the mountain passes, and stretching from the banks of the
+
+
+<pb n="40" xml:id="mmm.fiction.brewer.1899.040"/>
+
+Mississippi to the grassy slopes beyond the Nevadas.</p>
+
+<p>It was with the slow measured methods of our forefathers; the wearisome, plodding, step by step, pace of the western ox-team; a method fruitful in the development of patience and endurance and in testing them to their extreme limit.</p>
+
+<p>We dare not test the patience of those interested in our narrative by lingering too long with our voyagers, as now leaving behind them the vast plain-area, they plunge into the heart of the stupendous mountain system of the interior continent. We can but glance at them in their cosy camps at La Prele, La Bonte and Force Boise; or as day after day they follow the serpentine course of the Sweetwater, between the ragged Rattle Snake Range on the one side and the Sweetwater Range on the other. We leave them with other passers, to record their names on the native granite register of Independence Rock; or as their panting oxen have reached the notorious summit of the South Pass, we pause with them to catch sight of bold
+
+<pb n="41" xml:id="mmm.fiction.brewer.1899.041"/>
+
+Fremonts Peak, towering skyward far off in the northwest.</p>
+
+<p>Having left Fort Bridger behind and reached the Great Divide, between the waters of the Colorado and the Great Basin, they have but to toil through the rocky boulder beds of Echo Canon and the Weber, where climbing still more precipitous heights they gaze down upon the far-famed city of the Mormon Saints. Here, their mission calling for no delay, they have descended into the valley of the Great Salt Lake, have crossed the waters of the sluggish Jordan and pitched their camp within the borders of the land to which the self-chosen People of God have daringly laid an independent claim.</p>
+
+<p>To man and beast the protracted journey has been burdensome in the extreme. The emigrants need and will enjoy the holy calm and refreshing quietude of a restful Sabbath day.</p>
+
+<lg type="poem">
+<l>The jaded ox beside the ox-herd grim,</l>
+<l>Wasted and wan, toiled-strained in every limb;</l>
+<l>Who o'er the plain for many a lengthening league,</l>
+
+<pb n="42" xml:id="mmm.fiction.brewer.1899.42"/>
+
+<l>Has staggered on through drought and dire fatigue;</l>
+<l>Urged onward by the whacker's shout and goad,</l>
+<l>Groaning beneath the ever growing load;</l>
+<l>By the fair mirage of the unending plain,</l>
+<l>Lured on, then undeceived, yet mocked again;</l>
+<l>The distant goal once gained, the summit reached,</l>
+<l>With eyes distended and with neck out stretched,</l>
+<l>As on the great divide's fir bristling crest,</l>
+<l>With dripping flank, he panting halts to rest,</l>
+<l>Now feasts his vision on the enchanting view,</l>
+<l>Of liquid life, bathed in ethereal blue.</l>
+<l>In basin broad hemmed in by mountain high</l>
+<l>Lake Utah's limpid waters luring lie,</l>
+<l>With winsome face in sunshine glad revealed,</l>
+<l>Or heaving breast 'mid fleecy mists concealed.</l>
+<l>In reedy lagoons where its head shores meet,</l>
+<l>The black-tail deer secures a safe retreat.</l>
+<l>At hush of eve, its winding shores along,</l>
+<l>Vast flocks of wild fowl fearlessly throng.</l>
+<l>The speckled trout o'er its blue bottom play,</l>
+<l>Clear as the sky in fair mid-summer day;</l>
+<l>Whilst on its bosom, clad in silvery light,</l>
+<l>The snowy sea-gull steers its dreamy flight.</l>
+</lg>
+
+<p>Soft summer showers have ruffled the placid bosom of the lovely inland sea. Around the fir belted form of triple-peaked Nebo, a majestic monarch among the proud lords of the Wahsatch, fleecy clouds floating up from the lake's pulsing bosom are twining their graceful folds.</p>
+
+<pb n="43" xml:id="mmm.fiction.brewer.1899.043"/>
+
+<p>Circled with snow wreaths, his noble brow gleams in the sunshine like a gorgeous coronal, whilst above his venerable head floats a rich canopy of royal purple.</p>
+
+<p>Now as the great god of day spreads wide his benevolent arms, folds back the cloudy curtain and bursts in full robed splendor on the scene, all seems transformed into one blending glory of glass transparent, of burnished silver and glittering gold.</p>
+
+<p>The sun was now sinking gloriously in the west, and again the melodious voice of the little "Piping Plover" was recognized by his parents as he called out with earnestness: "Come quick, for your tent, mama. Tell papa to trumpet the train. The <hi rend="italic">gold</hi> gates of the city up in the skies, you read me about in God's good book, are open wide. Come quick, mama, and we will all go in."</p>
+
+<p>Innocent prattler! Tender-aged seer! Ominous prophesy! Were the gates indeed ajar?</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="44" xml:id="mmm.fiction.brewer.1899.044"/>
+
+<head>CHAPTER VII.</head>
+
+<p>Westward ho! Westward ho! The day dawned brightly, the air was crisp and clear, and the voyagers <choice><sic>seemd</sic><corr>seemed</corr></choice> jubilant. Refreshed and revived by the acceptable bivouac, all were at their posts and in readiness to resume the toilsome march.</p>
+
+<p><seg type="Emigrants" subtype="Route">The road now lay along the table lands at the base of the Wahsatch Range, and through the mud-walled settlements of <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, <placeName type="settlement" key="Springfield, UT">Springfield</placeName>, <placeName type="settlement" key="Provo, UT">Provo</placeName> and <placeName type="settlement" key="Goshen, UT">Goshen</placeName>, and yet further westward through the weird valley of the Sevier and Little Salt Lake, and by the way of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, <placeName type="settlement" key="Beaver, UT">Beaver</placeName> and <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> and <placeName type="settlement" key="Fillmore, UT">Filmore</placeName> cities, until at last they reached the rim of the Great Basin of the Rockies, and pitched their camp, where from a new "Pisgah" they could look down on their "Promised Land."</seg></p>
+
+<p><seg type="Emigrants" subtype="Route"><seg type="Massacre" subtype="Spoils">As they passed through the Mormon settlements, their well provided train and valuable stock, later on offered for sale in <placeName type="settlement" key="Salt Lake City, UT">Salt
+
+<pb n="45" xml:id="mmm.fiction.brewer.1899.045"/>
+
+Lake City</placeName> as "property taked in the siege of Sebastopol," had been much noticed, and covetous eyes cast upon them as being just such as were then needed by the Mormon brotherhood.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="Route">The circulating organ of the church had said that when the Israelites passed through the borders of their enemies, they had asked permission to do so, but that now accursed bodies of rampant heretics dared to travel through the Chosen Land of the saints, without petitioning to do so, or even reverently taking off their shoes, whilst treading on holy ground.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">Public feeling had been recently stirred up on the subject of the so called martyrdom of one <persName key="Smith, Joseph">Joseph Smith</persName>, accepted as a Mormon prophet, and <seg type="Context" subtype="Polygamy">who had lost his life as caught in the act of running off with another man's wife</seg>.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">It was affirmed that <seg type="Emigrants" subtype="StateAffiliationArkansas">a portion of the emigrant train were Arkansians</seg> and doubtless to some extent responsible for <persName key="Smith, Joseph">Smith</persName>'s death. <seg type="Context" subtype="IndianRelationsLDS">It was widely rumored among the Mormons that their leader, <persName key="Young, Brigham">Brigham Young</persName>, had openly stated in the Tabernacle that
+
+<pb n="46" xml:id="mmm.fiction.brewer.1899.046"/>
+
+as Governor and Indian Agent, he had up to this time protected emigrants whilst on their way through <placeName type="state" key="Utah Territory">the Territory</placeName>, but that he would now turn the Indians loose upon them.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">It was affirmed that after the emigrants had left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, a council was called by one Bishop <persName key="Higbee, John M.">Higbie</persName>, and attended by him and President <persName key="Haight, Isaac C.">J. C. Haight</persName>, and Bishop <persName key="Lee, John D.">John D. Lee</persName>, of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and that in that Council it was stated that a command had been received from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to follow and attack those cursed Gentiles, and to let the arrows of the Almighty drink their blood; and that a body of sixty men had been accordingly raised, and <seg type="Blame" subtype="IndiansLDSInfluence">reinforced by a band of Indians</seg>.</seg></seg></p>
+
+<p>Before reaching their present encampment, an incident occurred which it is desirable to refer to, in explanation of the following conversation which had taken place in the camp of the emigrants when near <placeName type="settlement" key="Nephi, UT">Nephi</placeName>.</p>
+
+<p>"Shall we employ this man, Captain Gordon?"</p>
+
+<p>"Who is he, <persName key="Lee, John D.">John</persName>, and what kind of
+
+<pb n="47" xml:id="mmm.fiction.brewer.1899.047"/>
+
+employment is he looking for, and why does he come to us?"</p>
+
+<p>"He claims, Captain, to be, and seems familiar with the whole <placeName type="state" key="Utah Territory">territory</placeName>, in which he is often employed as a guide."</p>
+
+<p>"Is he well posted as to the good camping places further southward?"</p>
+
+<p>"I understand he is."</p>
+
+<p>"Then employ him for a week if the compensation asked for is fair."</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">The man so employed made himself generally useful in the camp. He was found to have all the information, and in several cases rendered efficient service in obtaining certain kinds of supplies from the Mormons, who as a rule seemed surly, uncommunicative, and at times insulting. He seemed, however, to pry into every private affair of the camp and to familiarize himself with all the details of its hours and duties.</seg></p>
+
+<p>When camping at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, having borrowed from one of the team drivers about the amount of his wages, he suddenly disappeared and was not heard of until on a most serious occasion to be referred to later on.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="48" xml:id="mmm.fiction.brewer.1899.048"/>
+
+<head>CHAPTER VIII.</head>
+
+<p><seg type="Massacre" subtype="Dates">On the evening of September the ninth, eighteen hundred and fifty-seven</seg>, at a point on the route between <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, three hunched miles from the former place, about thirty-five miles below <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, eighteen miles from <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and <seg type="Massacre" subtype="Location">at a spot known as <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, a part of a mesa five miles in length and one mile in width embraced in the Great Divide, between the waters of the Great Basin and the Colorado, the train of emigrants lay encamped.</seg></p>
+
+<p>The larger extent of its journey and the bulk, of its hardships were ostensibly overcome. On the morrow the descent of some thousands of feet was to be made down to the valley of the Santa Clara.</p>
+
+<p>In anticipation of the happy surprises supposed to be awaiting them, and of the profits to be derived from their venture,
+
+<pb n="49" xml:id="mmm.fiction.brewer.1899.049"/>
+
+this special evening was set apart as one of joy and conviviality.</p>
+
+<p>The usual duties of the camp having been completed by sunset, the occupants of the many wagons issuing from their close quarters were gathered around their campfires in the enjoyment of their evening meal, and congratulating one another on being about to leave the land of the "Saints," by whom their reception had been by no means a hospitable one, and who had openly expressed themselves as being unfriendly to them, and hostile to the U. S. Government of which they were subjects.</p>
+
+<p>All care was now laid aside. As the evening progressed, here and there a violin made its appearance from beneath the calash-bows of the old prairie-schooners, and as its strings were strung to the enlivening tune of the Arkansas Traveler or some other favorite air, up would bounce a pair of elastic heels, and amid the hilarious shouts of young and old, a country jig would add its attractions to the entertainment of the evening.</p>
+
+<p>"I say, Pete Harkins," spoke out a tall
+
+<pb n="50" xml:id="mmm.fiction.brewer.1899.050"/>
+
+raw-boned fellow as he sat cross-kneed before the fire, for even at that time of the year, at that elevation, water when left in their tin basins would freeze at night, "give us that last fling of yourn, executed on the barn floor at old Josh Groves, when Samanthy Sweet and Tom Cracker 'fessed to their engagement and gave us a bid to the wedding."</p>
+
+<p>"Seeing it's your private requisition, Jake, and that I've just added a little jint-ile to these creaky timbers, I reckon I'll record to your wishes. So here goes the Ox-Cart-Jig with variations by the Rocky Mountain Kangaroo."</p>
+
+<p>Pete had hardly finished amid the vociferous applause of the happy spectators, when the demand became general for a song.</p>
+
+<p>Gill Piper, who usually passed under the name of Boots, because being camp guard No. 1 he generally slept in that article, called out: "Lead off, Jerry, with that old favorite air of yours, 'Pass around the hoe cake, take down the old cracked gourd.'" And as the assembly joined in the familiar
+
+<pb n="51" xml:id="mmm.fiction.brewer.1899.051"/>
+
+chorus, "We are going home in the morning, jest on to the break of day," the welkin was made fairly to ring.</p>
+
+<p>The emigrants felt as though they were again in their old homesteads, and the autumnal husking-match again in full swing.</p>
+
+<p>Meanwhile the numerous little ones were making the best of their unusual holiday. As they gathered around the jolly fiddler, and he struck up the Ashburton Reel, away they would go whirling like so many coots in a mill pond.</p>
+
+<p>Captain and Mrs. Gordon had mingled for a time socially with their companions of the road, some of whom though rough in the exterior and unpolished in manners, and perhaps ungrammatical in speech, Gordon had perceived to be men of noble hearts and willing hands; daily intercourse with whom had given him new and more healthy ideas of real worth in his fellows.</p>
+
+<p>With some more prominent and more highly educated members of the train he had now withdrawn to the circle of his own camp fire, and sat discussing with
+
+<pb n="52" xml:id="mmm.fiction.brewer.1899.052"/>
+
+them subjects vital to their future prosperity.</p>
+
+<p><seg type="Context" subtype="UtahWar">"Did you see, Gordon, the report of <persName key="Young, Brigham">Brigham Young</persName>'s last sermon in the Tabernacle? It is said he poured out the bitterest vials of his wrath on the United States Government, and advised that the passage of emigrants through <placeName type="state" key="Utah Territory">the territory</placeName> of the Saints should be stopped. Also that the Danites or Destroying Angels, as they are, called, an organized body of bandits at his beck and call and said to act under his secret orders, should be vested with full authority to send every Gentile enemy of the Church to hell, and across lots'."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"Yes, Fletcher, I did hear of some such braggadocio, doubtless uttered to put a little backbone into his shaky administration, and to bolster up the waning courage of his followers. He has doubtless been informed that a military expedition is being organized and is probably on its way to <placeName type="state" key="Utah Territory">the territory</placeName>, for the purpose of bringing him to his senses; and to my mind the sooner this is done the better."</seg></p>
+
+<p>"Do you really think, Captain, that our
+
+<pb n="53" xml:id="mmm.fiction.brewer.1899.053"/>
+
+train has been in any danger in passing through <placeName type="state" key="Utah Territory">the territory</placeName>?"</p>
+
+<p><seg type="Context" subtype="UtahWar">"I have apprehended none, Fletcher. I do not think that the authorities would make themselves so openly offensive to the United States Government by such an overt act as attacking a large emigrant, train. Still as you are aware, I have been careful to prevent any source of irritation or any cause of offense being given by our people. All said, however, I shall be heartily glad to get beyond the pale of their influence."</seg></p>
+
+<p>"Kiss me good-night, papa. I'm going to bed now. I want to be up early to-morrow, and when we get to the other camp, I want to write a letter to my grandpa, just like Jimmy Dunlap did to his grandpa to-day. I have a grandpa, haven't I, papa? Mama didn't say so. She just nodded her head, but that always means yes."</p>
+
+<p>"We'll see about it, Rob, when to-morrow comes. Get to bed now, my boy, and go to sleep right away, so you will be up bright and early in the morning."</p>
+
+<p>And the very subject of "Grandpa" was the subject of a long and earnest <choice><orig>conversa-
+
+<pb n="54" xml:id="mmm.fiction.brewer.1899.054"/>
+
+tion</orig><reg>conversation</reg></choice> between Captain Gordon and his wife ere they fell asleep that night.</p>
+
+<p>"The more I have thought over the subject, Robert, the better I am convinced that the whole difficulty could have been avoided by a little less haste and temper, both on your part and on that of your father. If you had not been so precipitate in your action, I feel convinced that his anger would soon have passed away. I am sure that an advance to a reconciliation should not be awaited for from him, but should come from you. I really think that this course of action is proper in justice to yourself, your parents, and your boy. Such action, I fear, has already been delayed too long."</p>
+
+<p>"Your counsel, Helen, comes to me like the voice of an angel. I know I am both proud and obstinate, and in respect to my manliness, I should long ago have conquered that unworthy spirit which ever sprang up to stifle any inward monition as to what was my duty. But since I have become a father myself, and have learned to appreciate fully all the significance of
+
+<pb n="55" xml:id="mmm.fiction.brewer.1899.055"/>
+
+that relation, there has arisen within me an irrepressible longing for some opportunity which would open the door to a reconciliation. The request of our dear little boy to-night, to be permitted to write to his grandfather, came to me like a warning from the dead. I felt too full of emotion for utterance, when I remembered that I had never even mentioned to him his grand-father's name."</p>
+
+<p>"I am sure then, Robert, that you will not defer writing to him another day. When we shall have reached our encampment on the Santa Clara River to-morrow night, this letter with that of our little Robert, will be our first care. I am satisfied that by so doing, your mind will be relieved of one oppressive burden which is in secret wearing away your powers."</p>
+
+<p>Then came back to Captain and Mrs. Gordon the oft recurring thought, that in these long years of separation from home, not only had no direct word ever been received from Robert's parents, but even in Helen's correspondence with her aunt, who had long ago removed to the far south,
+
+<pb n="56" xml:id="mmm.fiction.brewer.1899.056"/>
+
+no mention had ever been made of the Gordons. Was it possible that they were dead? The true facts of the case were these.</p>
+
+<p>Mr. and Mrs. Gordon had both suffered severely on account of their separation from their only child, but were every day looking for his voluntary return to them. The effect of that separation on Mrs. Gordon had been so depressing as to seriously impair her health, and to demand a change of climate and scenery. A trip to the Continent had accordingly been recommended and effected. It was while sojourning in southern France, that the father had received a copy of a marked New York daily, giving him the shocking intelligence that in a hostile collision on the <placeName type="state" key="Kansas">Kansas</placeName> border between the <placeName type="state" key="Kansas">Kansas</placeName> settlers and the invading Missourians, one Captain Gordon, originally of <placeName type="state" key="New York">New York</placeName>, had been fatally wounded, surviving only a few hours.</p>
+
+<p>It was long ere he could make up his mind to communicate this painful information to his wife. And it was finally done, only after every effort had been made, but
+
+<pb n="57" xml:id="mmm.fiction.brewer.1899.057"/>
+
+without success, to learn if either wife or child had survived his son. It was finally intimated that if having a wife, she had removed east, and it was not believed that there had been any issue.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="58" xml:id="mmm.fiction.brewer.1899.058"/>
+
+<head>CHAPTER IX.</head>
+
+<p><seg type="Massacre" subtype="Dates">With the first appearance of dawn on the morning of September the tenth</seg>, the emigrant train which lay encamped <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, was alive with preparation for an early movement.</p>
+
+<p>The cheerful intercourse and lively festivities of the previous evening had imparted to its members new zest for the duties of the road.</p>
+
+<p><seg type="Massacre" subtype="Battle">Between the hours of daylight and sunrise, as they were gathered around their camp fires partaking of their morning meal, and offering and receiving congratulations as to an early and hopeful termination of their journey, in a moment and without warning was heard from all directions the sharp crack of the rifle, and as the fatal missiles came whistling around them, <seg type="Massacre" subtype="Casualties">and anon, one of the cherished companions, male or female, fell under the well directed
+
+<pb n="59" xml:id="mmm.fiction.brewer.1899.059"/>
+
+fire of the foe</seg>, their consternation was indescribable.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Amid the shrieks of women and cries of the children, and the panic created among <seg type="Massacre" subtype="Spoils">the few animals as yet brought into the camp</seg>, it was some little time before the leaders themselves could fully appreciate the situation.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Casualties">By this time at least fifteen of the company had been either killed or wounded.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Cries of "Captain Gordon! Captain Gordon!" were heard on every side.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Promptly came the response: "Women and children to the wagons. Let them lie low in the wagon bodies for shelter. Fletcher, select twenty of our best marksmen to return a deliberate and sure fire, wherever a head of the concealed foe appears.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"Dunlap, organize a band of six men to collect the wounded under the shelter of one of our heavier wagons. I, myself, will see promptly to the narrowing of our cordon, so that the line of our defense will be more complete."</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Thus spoke the brave captain of the
+
+<pb n="60" xml:id="mmm.fiction.brewer.1899.060"/>
+
+train, as with a wounded arm hanging at his side, he moved from place to place, encouraging his men and pacifying the women.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Battle">"Captain! the Redskins seem to have the advantage of us. Had we not better send to the settlements for help?"</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS">"No, Taggitt, it would be useless. We are completely surrounded. Furthermore no help is to be expected from that quarter. The head I have been watching, as it occasionally shows itself above yon loop-holed fortification on the top of an adjacent hill, belongs to a man as white as yourself. I too have seen reinforcements coming to them in wagons. <seg type="Blame" subtype="IndiansIndependently">Savages have no wagons.</seg> Our assailants are the Mormons themselves. A messenger will, however, be dispatched southward as soon after nightfall as conditions will permit."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"Good Heavens! Captain, is what you have told me possible? Then our case is a critical one, and we must make up our minds to die fighting like men."</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS">And as he spoke the captain's assertions were verified by the return of one of the
+
+<pb n="61" xml:id="mmm.fiction.brewer.1899.061"/>
+
+herders, who came running into the camp with blood streaming from several wounds, and shouting: "The Mormons are upon us!"</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The situation was indeed a most desperate one.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Near the camp and running southward, was a large ravine in which was situated, some hundred or two yards distant, a spring of good water. <seg type="Blame" subtype="LDS_LDS">This spring was commanded by the fire of the Mormons who held possession of the hilltops all around it, and especially of a large mound to the westward, upon which had been erected during the night previous to the attack, stone defences, loop-holed for rifles, from which a deadly fire was kept up on the besieged.</seg> The mortality incident to the exposure necessitated in the procuring of water and preparation of food, was of course great.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Night at last threw its dark and dreary mantle over this mournful tragedy. This night of pain and terror was one of many nights of still greater horrors and sufferings, and the following day was to be one
+
+<pb n="62" xml:id="mmm.fiction.brewer.1899.062"/>
+
+of many days with experiences more bitter than its fellow.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"Can I do anything for you, Captain Gordon? You have doubtless suffered much during the day."</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"Nothing, George. My wound is only a flesh wound, but it has bled profusely and is causing some feeling of exhaustion. Loosen, please, this handkerchief, with which by the aid of a pebble, I have made a tourniquet. Its pressure had been intolerable. I must have a brief rest, but our vigilance must be doubled. <seg type="Blame" subtype="IndiansLDSInfluence">I am sure that the savages who for a time were persuaded to assist our brutal foes, and whom I saw returning to the hills, have again been coaxed down, and their return may mean a night assault.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Casualties">"Johnson, do me a special favor in coaxing that little girl away from the corpse of her father. It is indeed a heart-rending spectacle, but the piteous wailing of the poor wife is in itself too demoralizing to our men. When you have succeeded in doing this, have a fatigue party complete the burial of our dead."</seg></seg></p>
+
+<pb n="63" xml:id="mmm.fiction.brewer.1899.063"/>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Battle">"Where shall the graves be dug, Captain?"</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"As close as possible to the wheels of the wagons, but without undermining them. Heap the earth high, Johnson, so that it may serve as an additional barricade. We shall continue to make our defense over the resting places of our brave comrades.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"Eckhart, call for water volunteers for service at eleven o'clock. If a sufficient supply has not been obtained by twelve M., awaken me and I will myself volunteer."</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Massacre" subtype="Battle">"Captain, Thompson's horse, the last one remaining, was by your order slaughtered at nightfall. What disposition shall be made of it?"</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Massacre" subtype="Battle">"Bury the offal deep in the center of the circle, and distribute the rations about half an hour before dawn. See that there is not over much salt used. It produces a most intolerable thirst."</seg></seg></p>
+
+<p>Now a little voice breaks out on the stillness of the night:</p>
+
+<p>"Come kiss me good night, papa. And hear me say my prayers:</p>
+
+<pb n="64" xml:id="mmm.fiction.brewer.1899.064"/>
+
+<lg type="poem">
+<l>'Now I lay me down to sleep</l>
+<l>I pray the Lord my soul to keep.</l>
+<l>If I should die&#8212;&#8212;&#8212;'</l>
+</lg>
+
+<p>"Say them with me papa:</p>
+
+<lg type="poem">
+<l>'before I wake,</l>
+<l>I pray the Lord my soul to take.' "</l>
+</lg>
+
+<p>"<seg type="Massacre" subtype="Battle">God keep you my precious boy. Good-night, my love. I must sleep out here on the ground where I shall be more accessible in case of new danger. <seg type="Massacre" subtype="RescueAttempt">I have dispatched a messenger to the settlements southward, asking for immediate help. We must trustfully await his return.</seg>" And from within the wagon bows there proceeded a deep, "Amen," accompanied by one still fainter.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Thus day by day, <seg type="Massacre" subtype="Casualties">although continually decreasing in numbers, this gallant little band kept up the unequal fight. As in the gloom of the dark night, body after body wrapped only in its blanket, and without funeral service, was committed to its mother earth, no beacon star shone out to cheer their grieving comrades with brighter hopes for the morrow.</seg> Every hour the position was becoming more desperate.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">The morning of the seventh day</seg> arrived in its dreary turn, dawning brightly on a
+
+<pb n="65" xml:id="mmm.fiction.brewer.1899.065"/>
+
+ghastly assemblage. A day with soft, balmy air and joyous sunshine; a day too bright, too serene to look down upon a scene so mockingly hideous.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The scant ration of horse flesh and insufficient measure of water had been fairly doled out to each eager petitioner. For a larger quantity of the latter there had been urgent appeals, which should have touched a heart of stone, but the sternest military discipline had been necessarily imposed. On its strict observance might depend the common safety.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="RescueAttempt">The messenger must by this time have reached his destination! Relief might be looked for at any moment!</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Poor old Pont! how wasted, how haggard! Yet how affectionately he was licking his master's face and hands, as he lay on the ground beside him!</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">In appreciation of his devotion to his boy, Gordon had given the dog the last drop of his own meager ration of water, which his own depleted blood was loudly demanding.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">But what meant the sudden commotion now visible in the camp? and which brought
+
+<pb n="66" xml:id="mmm.fiction.brewer.1899.066"/>
+
+the pallid and peering faces of women and children to the fronts and backs of the wagons, while groups of men were seen assembling and apparently discussing some new feature of the situation?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">In the distance were seen approaching two covered wagons containing church dignitaries, and each drawn by two horses, the drivers of which, said to be Bishops <persName key="Haight, Isaac C.">J. D. Haight</persName> and <persName key="Lee, John D.">John D. Lee</persName>, were waving flags of truce.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">The effect on the men of the camp was one of marked surprise. On the women, that of timid and hesitant hope, which gave itself relief in copious outbursts of tears and hysterical sobs.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">On reaching the camp, three men apparently unarmed and still waving the white flag, dismounted from the wagons, and asked for a conference, which after a few moment's consultation, was granted.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The situation turned out to be more hopeless than had been supposed.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"Your name is Gordon, I believe," said one of the truce bearers, "and you are the leader of this train?"</seg></p>
+
+<pb n="67" xml:id="mmm.fiction.brewer.1899.067"/>
+
+<p><seg type="Massacre" subtype="Surrender">"You are correct, sir, I am. May I ask your name, and as representing whom are you present?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Massacre" subtype="Surrender">"I decline to answer your question, Captain, but with the statement that my action is by the authority of those in whose hands you are hopelessly prisoners. <seg type="Massacre" subtype="RescueAttempt">By reading this paper, to which is attached your own signature, you will perceive that your messenger southward has been intercepted.</seg> You are further informed, and will be permitted to see for yourself, that your water supply has been cut off, and that a continued resistance on your part, would be only inhumanity to your company."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"But I must ask, sir, for what reasons have these harmless emigrants, while passing through Government Territory, been thus ruthlessly assailed?"</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Context" subtype="UtahWar">"An answer to your question, Mr. Gordon, is irrelevant to my mission. Yet I will tell you, that <placeName type="state" key="Utah Territory">this territory</placeName>, settled by others than Americans, is not the property of the United States Government. It has been determined by those who do own it,
+
+<pb n="68" xml:id="mmm.fiction.brewer.1899.068"/>
+
+that the unholy tread of the Gentile shall no longer trespass upon its sod. An example has been set in your case, which will in the future, deter all odious Gentiles from treading in your footsteps."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS">"I am to understand then, that this act is authorized by the Mormon Church?"</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"Say, sir, rather by the Mormon Government, which will from this time forth, assert and hold its own without fear or favor. But all such talk is unnecessary to the occasion. I came to you in the interest of humanity, to offer you liberal terms of capitulation, the non-acceptance of which, would on your part be suicidal."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"Will you state those terms, sir?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"That on surrender <seg type="Massacre" subtype="Spoils">you will be disarmed, deprived of your property</seg> but given your personal liberty, and be required to leave the Mormon Territory without delay, under promise of never returning to it."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"Have you full authority and power for carrying out these stipulations?"</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"I have."</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">After a brief consultation with the surviving males, and an unsuccessful appeal
+
+<pb n="69" xml:id="mmm.fiction.brewer.1899.069"/>
+
+for a certain number of side arms, and an equivalent amount of ammunition, the conditions offered were accepted, and the surrender completed.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">On starting in an easterly direction, suspicions were first aroused among the emigrants, by the enforced separation of the men from the women and children of the train. The reason given them for this was, "the Mormon custom," and for further convenience in the arrangements provided for their transportation out of <placeName type="state" key="Utah Territory">the territory</placeName>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS">Hardly, however, had they proceeded a few miles when the company of Danites, or Destroying Angels, so called because of their position, said to be authorized by the Church as police, or Border Butchers, and of whom recalcitrant Mormons stood in absolute terror, began to increase rapidly around them.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">But a short time elapsed when weapons were drawn and an indiscriminate massacre of the men was inaugurated, the first among them to fall being Captain Gordon himself, who with helpless arms extended upward,
+
+<pb n="70" xml:id="mmm.fiction.brewer.1899.070"/>
+
+and in words of fiery eloquence, appealed to heaven for its righteous indignation on such a base violation of plighted faith.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">Shot and stabbed in a dozen places, he fell in his bloody tracks with eyes starting from their sockets, as their expiring gaze strained in the direction of the dear unprotected ones he was leaving behind him.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Faithful old Pont was by his master's side, and appreciating his need in this last extremity, sprang at the throat of one of the assassins and hung to it, till in the last throes of death, pierced through and through, he fell at his master's feet.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">Not one man among the emigrants was at that time believed to have escaped to tell the tale of the massacre. The shrieks of the women and children, not too distant to comprehend that the assassination of their husbands and fathers was in progress, rent the desert air in vain. But a few hundreds yards further on, and the passions of demons supplanted those of men.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="IndiansLDSInfluence">Again to be glutted in their taste for blood, the savages were called down from the mountains, that they might participate in
+
+<pb n="71" xml:id="mmm.fiction.brewer.1899.071"/>
+
+the fiendish orgies which followed.</seg> <seg type="Massacre" subtype="Aftermath">Disrobed, beaten, bruised, <seg type="Massacre" subtype="Spoils">ear-rings and finger rings were bitten and cut from their ears and fingers</seg>, their persons brutally violated, brained with clubs, their throats cut from ear to ear, their naked bodies trampled upon like those of the men, were left unclad, unburied on the open plain, abandoned to the debauching power of the elements, the appetites of the vultures, and the fangs of the ravenous wolves.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">In that large company of forty families</seg>, <seg type="Massacre" subtype="Survivors">only were spared some of the very youngest of the children, believed to be too young to hold the dastardly transaction long in remembrance, but who brought up with principles, in the nostrils of purity fouler than the fumes of the bottomless pit, would, in a moral bondage worse than death, add by their numbers to the power of the Mormon Hierarchy.</seg></seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="72" xml:id="mmm.fiction.brewer.1899.072"/>
+
+<head>CHAPTER X.</head>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration"><seg type="Reaction" subtype="FederalInvestigation">One year later, and on the fifth day of the month of May, eighteen hundred and fifty eight, there was observed on the scene of the events last narrated, a scattered company of men in the undress uniform of United States soldiers, who moving quietly from spot to spot, were gathering up, scrutinizing and assorting, not as one might suppose specimens of the precious ores washed down from the adjacent mountains, nor yet the fossil remains of antedeluvian creations, but the actual remains of human beings, who like themselves but one short year ago, were in the full possession of life and health and their fullest faculties.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath">In the hands of one of these collectors could be seen the delicate bones of a female, bleached in the glaring mid-summer sun, and at its extremities bearing the impress of the teeth of the ravenous wolf.
+
+<pb n="73" xml:id="mmm.fiction.brewer.1899.073"/>
+
+Or another, held in his grasp the skull of a male, shattered by the blow of a bludgeon, or pierced by the more fatal bullet. Or yet another, with sad expression of countenance, was scrutinizing the fleshless skeleton of a little child's hand, and near by, long tresses of human hair caught in the brambles and wild thorns, and tattered remnants of women's and children's vesture fluttering in the greasewood and artemesia undergrowth of the wild desert.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">The body of troops, to which reference is made, had but lately escorted the high judicial dignitaries of the U. S. Government to their positions of authority in <placeName type="state" key="Utah Territory">the territory of Utah</placeName>. The courts were organized, proceedings instituted and juries, of course chiefly composed of Mormons, enrolled.</seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation"><seg type="Blame" subtype="LDS_LDS">By these the ends of justice were mocked and scoffed at, and through the connivance of Mormon officials, the guilty ones, secretly warned, fled away to the mountain fastnesses from which they defied arrest by the authorities.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">Sorrowfully and with overpowering
+
+<pb n="74" xml:id="mmm.fiction.brewer.1899.074"/>
+
+sense of indignation at the unavenged wrongs of their countrymen, these soldiers resumed their solemn march back to the camping place, <seg type="Massacre" subtype="Location">at the immediate site of the attack upon <seg type="Massacre" subtype="Casualties">the emigrant train</seg>.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration">No martial band gave forth its solemn funeral dirge, as in melancholy procession they bore back the remains of the massacred to a Christian burial. But together with the mournful wail of the night winds, up from the insulted soil, arose in its majesty that historic cry for justice for the spilled blood of an innocent brother.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">From that massacre, through the persistent efforts of a U. S. Agent and their judicial authorities, sixteen little children, ten girls and six boys, were redeemed from worse than Egyptian bondage.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Location">Brought again upon the spot where they were robbed of <seg type="Massacre" subtype="Casualties">their parents and kindred</seg> and where all the tender ties of human life were so cruelly ruptured; once divested of the paralyzing terror with which they had been intentionally inspired during their term of enforced slavery; fully satisfied that they were now safe in the permanent
+
+<pb n="75" xml:id="mmm.fiction.brewer.1899.075"/>
+
+possession of <hi rend="italic">Americans</hi> whom they had been taught to contra-distinguish as against <hi rend="italic">Mormons</hi>; placed face to face with the immediate scene of their frightful disaster; the golden gates of memory to some of the elder ones, threw open its long sealed doors.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">When questioned they recounted the piteous story of their own and their parents' sufferings and described many incidents of the massacre, which seemed to have been branded upon their sensitive brains, and their stories were told in such words and with such feeling, as would have brought tears to the eyes of the most hardened criminal.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">At the sight of a mass of tangled sodden hair, as it lay among the yet unburied re-mains, recognized as those of at least twenty-two human bodies, the piteous wail which issued from the lips and heart depths of a lovely little flaxen-haired boy, &#8212;"My mother, oh my mother!" seemed worthy of reaching up into the highest heavens, and of calling down retribution upon the heads of those whose merciless ire had constituted him an orphan.</seg></seg></seg></p>
+
+<pb n="76" xml:id="mmm.fiction.brewer.1899.076"/>
+
+<p><seg type="Reaction" subtype="Commemoration"><seg type="Massacre" subtype="Aftermath">The solemn ceremonials were at last completed; a Christian burial had been given to the remains of such of <seg type="Massacre" subtype="Casualties">the members of the ill-fated train</seg>, the fragments only of whose bodies could be recovered.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration"><seg type="Massacre" subtype="Aftermath">Over these remains was raised a rude monument of native rock on which was inscribed:</seg></seg></p>
+
+<p><hi rend="smallcaps"><hi rend="center"><seg type="Reaction" subtype="Commemoration">"VENGEANCE IS MINE, I WILL REPAY, SAITH THE LORD."</seg></hi></hi></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="77" xml:id="mmm.fiction.brewer.1899.077"/>
+
+<head>CHAPTER XI.</head>
+
+<p>In our imagination let us now again turn our eyes eastward to another polished center of civilization and refinement. Let us enter another abode of wealth and ease whose cheerful and aesthetic accompaniments would, it was hoped, tend to alleviate the sorrows overhanging the domestic horizon and shrouding in gloom the happiness of two individuals with whose previous history we are already acquainted. The conversation to be repeated was being carried on in an attractive suburban residence of the beautiful city of <placeName type="settlement" key="Detroit, MI">Detroit</placeName>.</p>
+
+<p>"O Robert, can there be found no possible means of rending the galling chains of memory which bind me to the past; and of shutting out from the deserted halls of my afflicted heart, the sad echoes reverberating through it? Will the time ever come when I shall no longer vainly yearn for the pure childish kiss of my only, my lost
+
+<pb n="78" xml:id="mmm.fiction.brewer.1899.078"/>
+
+boy? Oh that in his trial I could have gone to him, even in the deepest humility, over desert and mountain, through pain and pestilence, that I might have wooed him back to my longing embrace!!!"</p>
+
+<p>"Endeavor to be calm, my dear Eloise, and for your own sake to moderate your grief. Ask yourself the question, who is it among mortals, rich or poor, high or low, good or bad, who is not at some period of his or her earthly career the subject of similar trials? Our lives and those of our dear ones are but as gossamer threads, liable to be broken by any untimely wind. But after time, will come eternity, with its rehabilitation of all our lost joys. Confiding in the wiser hand at the helm, your boy as he was, will be again yours. Meanwhile, waste not your sweet life in unhealthy repinings."</p>
+
+<p>It was but true, the heart of the still fair invalid was all but broken, as she sobbed herself to sleep on the bosom of the strong man, whose affliction was as grievous as her own, had he but dared to expose it.</p>
+
+<p>With another morn resilient nature had
+
+<pb n="79" xml:id="mmm.fiction.brewer.1899.079"/>
+
+responded, and at the close of a fair summer afternoon, believing that it would aid in restoring the bloom to the fading cheek of his delicate wife, Robert Gordon ordered up his handsome span of bays for a short airing. After a brisk drive through the rural surroundings, the coachman, as by arrangement, was turning in an unusual direction. Mrs. Gordon perceiving this began to show signs of increasing weariness, and was glancing towards her husband as if to say, "Surely, Robert, the drive has been long enough for to-day."</p>
+
+<p>He, however, anticipated her words by remarking: "You have long promised me, Eloise, to visit the new Institution in which I am so deeply interested. If you will pardon me I had arranged for that short visit this afternoon. I feel sure that a brief inspection of it will afford you pleasure."</p>
+
+<p>The stately and magnificent building with its highly decorated portals now arose before them.</p>
+
+<p><seg type="Massacre" subtype="Survivors">Within one of its apartments arranged as a dormitory, a little boy of tender age lay sobbing on the breast of his nurse.
+
+<pb n="80" xml:id="mmm.fiction.brewer.1899.080"/>
+
+"Oh nursie, I am so sorry I have been a bad boy. I think I would be a good boy, nursie, if I only had a mama to be good to. Where is my mama, nursie? Will she ever come back to me?" And following these words, again went up that sorrowful wail which had fallen upon the ears of Mrs. Gordon, as she entered from the remote end of the apartment.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Touched by the piteous cry, as coming from an actual sufferer, she advanced towards the object which had attracted her attention. She then paused and leaned heavily upon her husband, who perceiving her increasing pallor, drew his arm gently around her.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Those eyes, Robert! Do you not recall them? His own fair curls! Yes, too, his very tone of voice! Through every tendril of my heart I feel drawn to this little waif. Oh, if he were but my own!"</seg></p>
+
+<p>Robert Gordon's sympathies were moving in the same direction. His plan was beginning to work. Already he perceived in his wife awakening energies, the dawn of reviving health both of body and spirit.</p>
+
+<pb n="81" xml:id="mmm.fiction.brewer.1899.081"/>
+
+<p><seg type="Massacre" subtype="Survivors">Hardly had the little fellow caught sight of the advancing strangers, when he ceased crying and nestled closer to the bosom of the nurse.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Oh nursie, how beautiful and white she looks! Is she a real angel? She must be like my own mama. My papa was a big fellow like that other one with her. She is looking at me, nursie. Would she be my mama?"</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Though uttered almost in a whisper, Mrs. Gordon caught the words, and with the suddenness of an electric impulse, releasing herself from her husband, she sprang forward and folded the startled child in her arms and was devouring him with kisses.</seg></p>
+
+<p>The deep fountain of her pent up affections had found vent, and her eyes were drowned in a flood of nature's own tears.</p>
+
+<p><seg type="Massacre" subtype="Survivors">"Robert, let him be ours. I must and will claim him as my own."</seg></p>
+
+<p>Her husband's strong arm was again around her as he whispered: "Yes, my love, it is my highest joy to gratify your every desire."</p>
+
+<pb n="82" xml:id="mmm.fiction.brewer.1899.082"/>
+
+<p><seg type="Massacre" subtype="Survivors">As he became soothed by the tender caresses of the wife, Robert Gordon's hand lingered long and lovingly on the little prattler's head, and as they were quietly leaving the room the child's vision closely followed them both.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Now nursie, I will say my prayers just as you wanted me. Papa used to say them with me too. But I am so sleepy, nursie! where was it? oh yes: 'For thine is the kingdom and the power and the glory.' Oh nursie, I saw that up in the skies one time. I love you nursie, and the white angel too."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Robbie, for so they would call him, was soon in a new home, surrounded by wealth and affluence, and his heart yearnings met at every step by the tenderest outpouring of parental affection.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">As every day added to the beauty and strength of his physical development, so also were equally developed traits of character which continually reminded Robert and Eloise Gordon of the bright boy from whom they had so long ago parted in sorrow.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"I dreamed I heard Pont howl last night,
+
+<pb n="83" xml:id="mmm.fiction.brewer.1899.083"/>
+
+Papa. Did you know old Pont? But I don't think there are any wolves around here, like there were out there, Papa."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Why, what do you mean, Robbie? You were surely never out among real wolves?"</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Well my Captain-papa said Pont never barked but at real wolves. But I want a little gun, Papa, so I can shoot make believe wolves."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">And here Mrs. Gordon whispered in her husband's ear: "Can you learn nothing, Robert, of his early surroundings?"</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"A vague suspicion has arisen in my mind which makes me to fairly tremble. But I can learn nothing reliable, Eloise, absolutely nothing as to his parentage."</seg></p>
+
+<p>Nevertheless, Mr. Gordon wished it had been anything else than a gun, which was to make its appearance on the stage of Robbie's early life. Its very mention reminded him of an unfortunate circumstance in the history of his lost but never to be forgotten boy.</p>
+
+<p><seg type="Massacre" subtype="Survivors">This aversion to anything which savored of a military occupation, was more fully felt by Mrs. Gordon than by her husband.
+
+<pb n="84" xml:id="mmm.fiction.brewer.1899.084"/>
+
+It was not long after this, when having been impressed by a brilliant street military procession then passing, Robbie came running to his mama and saying:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Mama, soldiers are the most lovely men I have ever seen. When all dressed up, they are so nice and clean and I think they are almost as beautiful as women. Nursie must keep me nice and clean and I will be a soldier too."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"But Robbie, mama does not admire soldiers. She fears that they learn to become too stern and harsh and sometimes perhaps, hard-hearted, and do not think long before they go to war and kill other men. Mama wouldn't like her litle Robbie to grow up to be a soldier."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Why, Mama, nursie told me that <persName key="Washington, George">George Washington</persName> used to be a soldier once. He was a good boy and loved his mama, and nursie said I must try and be like him."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">To originate plans and methods of discouraging this taste of Robbie's, was the subject of earnest discussion by his parents. The adoption of counter attractions as substitutes, were equally unavailing.</seg></p>
+
+<pb n="85" xml:id="mmm.fiction.brewer.1899.085"/>
+
+<p><seg type="Massacre" subtype="Survivors">That Robert should become a soldier, and the door be thus opened to the disappointments and sorrows of a previous experience, met with the stern opposition of both Mr. and Mrs. Gordon. Yet it was a matter of surprise to them both, that after so long and persistent a combat on their part, their opposition had finally melted away and yielded to the fondest and most predominant desire of their adopted son.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Later on, and up to the time of his vacation from West Point, nothing had occurred to interrupt the close confidence which from the very first, had existed between the parents and their adopted child. It was equally satisfactory to them to have discovered, that whilst Robert possessed all the real virtues of his idolized predecessor, that as yet there remained to be discovered the existence of even one of the few defects in his character.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">We pass by as already familiar the circumstances attending the completion of an education at the U. S. Military Academy, noting only that the result, so far as <choice><orig>Rob-
+
+<pb n="86" xml:id="mmm.fiction.brewer.1899.086"/>
+
+bie</orig><reg>Robbie</reg></choice> was concerned, was one of crowning satisfaction to those so interested in it. His elevated standing as a classman, the position of confidence and affection gained in the estimation of his superiors, was to his parents a solace in their hours of quiet communion with one another, as also a source of pride and congratulation in their contact with the outer world.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Rob himself, felt indeed a profound inward joy, that results had proved so satisfactory to those to whom he was so deeply indebted for their faithful guardianship.</seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="87" xml:id="mmm.fiction.brewer.1899.087"/>
+
+<head>CHAPTER XII.</head>
+
+<p>Over a quarter of a century has elapsed since our narrative has invited our attention to the notorious events enacted within the rim of the Great Basin of the Rocky Mountains <seg type="Massacre" subtype="Location">at the noted locality known as <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. Meanwhile conditions and circumstances had changed.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The U. S. Government had now become firmly re-established, and had resumed and supported its rightful authority in <placeName type="state" key="Utah Territory">the territory of Utah</placeName>. The ashes of the prime Mormon Prophet, <persName key="Young, Brigham">Brigham Young</persName>, had by his deluded followers, been laid away with-in the precincts of the Mormon Temple. No longer was heard in the Mormon Tabernacle at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, the goading words of this imperious leader of the Mormon Hierarchy, inciting the so-called saints to revolt against the rightful authority of the U. S. Government.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">No longer the band of lawless brigands,
+
+<pb n="88" xml:id="mmm.fiction.brewer.1899.088"/>
+
+denominated by the Church,&#8212;Danites,&#8212;or destroying angels, were found whetting their knives at the throats of recalcitrant religionists, who convinced of their error, and abjuring a faith found to be false, were seeking to return to the protecting power of the law and the abode of truth and justice.</seg></p>
+
+<p>By reason of the rapid influx of Gentile immigration, the temporal as well as spiritual power of Mormondom was on its wane. The time fixed by the lynx-eyed representatives of justice, when in the boastful and hypocritical words of the Mormon code, "law was to be laid to the line, and judgment to the plummet," was fast approaching.</p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">Even now in assertion of its supremacy, and sustained by its rightfully employed co-ordinate authority, insulted justice was in the act of carrying into execution its long delayed process, of claiming its rightful dues for sets long since committed in open violence to its restraining enactments; and of further redeeming itself, at least to some extent, from the odium incurred through its unusual delays.</seg></p>
+
+<pb n="89" xml:id="mmm.fiction.brewer.1899.089"/>
+
+<p>The scene about to be described was one of the most remarkable ever pictured in the judicial records of the American Republic.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The transaction about to occur was to be accepted as a most signal demonstration of an over-ruling and avenging Providence, and of the authoritative mediumship of human law, as the exemplifier and executor of Divine Justice. At no great distance from the spot at which the critical scene of this narrative has been laid, the tribunal of human justice had pronounced its judgment in the presence and on the person of an actual murderer and high official conspirator, and an active representative of a band of assassins by whom had been committed one of the most fiendish and brutal massacres ever perpetrated within the pales of an asserted civilization. <seg type="Reaction" subtype="FederalInvestigation">The decision of righteous law had at last culminated in a sentence about to be imposed.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Here upon the actual scene of the outrage, that sentence was being sounded in the ears of the once sympathizing crowd of fanatics, who upheld an inhuman monster
+
+<pb n="90" xml:id="mmm.fiction.brewer.1899.090"/>
+
+in the crime for which he was now to suffer.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Prisoner at the Bar: before a full and fair jury of your countrymen <seg type="Massacre" subtype="Planning">you have been convicted of planning</seg> and committing <seg type="Massacre" subtype="Location">on the spot called <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName> and in its vicinity</seg>, and <seg type="Massacre" subtype="Dates">upon the morning of the tenth day of September, eighteen hundred fifty-seven</seg>, the premeditated, wilful and brutal murder of <seg type="Massacre" subtype="Casualties">a number of harmless emigrants,&#8212;citizens of the United States,&#8212;and whose names are herein mentioned</seg>; and of having aided and abetted and manually assisted in the equally fiendish massacre<seg type="Massacre" subtype="Location"> on this spot and grounds adjacent</seg> at the time aforesaid, of <seg type="Massacre" subtype="Casualties">the remaining members of the forty families composing the train referred to, and consisting of men, women and children, <seg type="Massacre" subtype="Surrender">surrendered to you in good faith and under promise of personal safety</seg></seg>. <seg type="Massacre" subtype="Aftermath">And further of having <seg type="Massacre" subtype="SexualViolence">barbarously outraged</seg> and fiendishly disfigured, many of the bodies of the victims of your brutish passions, and of having left their mutilated remains upon the open plain, as a prey to the
+
+<pb n="91" xml:id="mmm.fiction.brewer.1899.091"/>
+
+savage beasts of the desert.</seg> You have been found guilty of all the charges preferred against you. But within the pale of its lawful punishments, the executors of the law can find none adequate to the measure of your crime.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"As, however, becomes its duty, this court does hereby sentence you to be taken from your place of confinement to the immediate scene of the massacre, as above indicated, and on the morning of the tenth day of September next, at an hour between the breaking of day and the rising of the sun, to be conducted to the scaffold and hung by the neck until you are dead.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"May God lend a more ready ear to your cries for mercy than did you to the appeals of <seg type="Massacre" subtype="Casualties">your helpless victims</seg>."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">As the hour for the execution approached, from the neighboring hilltops, from which once poured down a stream of leaden hail, now gazed the pale faces of groups of the followers of the fanatical prophet, who once upheld the bloody butcher of the Danite band in the boastful crime.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now as the leader of the merciless <choice><orig>be-
+
+<pb n="92" xml:id="mmm.fiction.brewer.1899.092"/>
+
+siegers</orig><reg>besiegers</reg></choice>, in his last agony, cries out for a cup of cold water to cool his fevered tongue, it is found that the spring in the valley near by, once sealed up by his orders and barred by gates of death and destruction, has closed up its fountain and refused to flow.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The guard intrusted with the execution of the decree of justice stands coldly, sternly and apathetically as the preparations for death proceed.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">But in vain we gaze around. As yet nowhere looms up the gloomy gallows, outstretching its skeleton arms to enfold its victim.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Appeals for the mitigation of the sentence have been made. On the ground that the chief instigator and director of the hideous crime has, by being called to his last account, at a higher tribunal, been removed from beneath the avenging court of human justice; and that two others of the principal perpetrators are said to be insane, the mitigation of the sentence had been accorded.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The convict will die, as by his own
+
+<pb n="93" xml:id="mmm.fiction.brewer.1899.093"/>
+
+entreaty, under the fire of musketry. A platoon of riflemen has advanced for the performance of its duty.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution">It awaits the word of command. A letter has been handed to the martial looking young lieutenant, whose orders they are to obey.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">As he reads it his face becomes as pallid as that of the condemned. He still hesitates to utter the word of command. Is he about to fail in the performance of his responsible duty?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">A hideous truth has suddenly flashed upon him. Voices seem calling to him from skies overhead, from the glaring sunshine, from the witnessing hilltops, from the rocks and stones that cover the dead, from the shuddering sands beneath his feet, from every blood-stained blade of grass. All, all, call up the ghostly utterance:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS">"It is he! It is he! This man, thy father's murderer!"</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Quickly the blood resumed its wonted channels. The sword leaps from its scabbard. The no longer ashen lips are unsealed. The order of death finds <choice><orig>utter-
+
+<pb n="94" xml:id="mmm.fiction.brewer.1899.094"/>
+
+ance</orig><reg>utterance</reg></choice> in voice as clear and distinct as the peal of the evening signal gun.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">With the unanimity of one, twelve muskets are leveled. There is as it were but one sharp report and as many musket balls have pierced the body of the unnatural monster, who is slain more mercifully than' he slew, and falls upon the very spot stained by his brothers' blood.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Retribution at last? "Vengeance is mine, saith the Lord. I will repay."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">A measure, a scant measure of Divine wrath has been meted out and through the slow, feeble arm of human instrumentality. The graver, weightier burden of deserved doom must await its imposition in the dread hereafter.</seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="95" xml:id="mmm.fiction.brewer.1899.095"/>
+
+<head>CHAPTER XIII.</head>
+
+<p>Night has at last let down its protecting veil over the sad face of wild untutored nature. Myriads of stars gaze calmly down from heaven's blue vault, as if ignorant of this and other days of gory tragedy.</p>
+
+<p><seg type="Context" subtype="WesternViolence">Among the dark firs along the mountain side where still lie bleaching the bones of the <persName key="Parrish, William Beason"><persName key="Parrish, William R.">Parishes</persName></persName>, <persName key="Potter, Duff">the Potters</persName>, <persName key="Yates, Richard">the Yates</persName>, or perhaps of the unknown dead, there are lingering low whispers of other horrors, in mercy to our humanity still remaining unknown to us. In the wild wastes around, naught is heard save the occasional cry of some wandering night bird, the dismal howl of the wolverine or the slow and solemn tread of the sentinel, as he paces the measured limits of his own post of duty.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">In yonder tent where a candle flickers low in its socket, the young lieutenant, after a weary day, lies tossing on his couch as if in fevered dream. He now stirs and
+
+<pb n="96" xml:id="mmm.fiction.brewer.1899.096"/>
+
+has risen to his feet, replaces by a new one the low burnt taper, and has seated himself at a camp table, as if to write. Under a stirring inspiration, he is about to interpret the mysterious voices which have spoken to his inward being from the solemn scenes of the day. He is about to describe the vivid pictures cameraed on his child-brain, and which now under the influence of some inexplicable affinities, have moved out boldly to the surface in the plain, clear colors of actual life.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The pen is already in his hand, and we may follow its tracings:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"My dear Father:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"How every nerve of my body vibrates as with an indescribable agitation I write this.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"I am far away from you and my mother in the wild bed of the Rockies, where the huge heaps of nature's vast debris spread in endless chains of cliff and crag around me.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"The events of this day have been yet. wilder and more weird than the face of nature herself. The duties to which I have
+
+<pb n="97" xml:id="mmm.fiction.brewer.1899.097"/>
+
+been called have been especially responsible, and in nature peculiarly distressful. The accompanying developments have been so strange and so startling, that I hardly know how to begin a narrative of them.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"As to-day, the troops under my command, having under guard a prominent Mormon leader, under sentence of death, were approaching the locality where the execution was to take place, there seemed to open to my mind a distinct and increasing perception of some familiarity with the scene around me. As we neared the immediate spot designated for the execution, and I was brought face to face with its surroundings, and with the people said to have been connected with the fatal tragedy which has made the spot so notorious, there seemed to come to me as if by some special intuition, a positive conviction of a personal connection with the place, and the horrible associations connected with it.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"There rose up before my eyes, spectral faces, familiar in childhood, faces of a father and a mother, the former in his liniaments so strikingly like your own, as to
+
+<pb n="98" xml:id="mmm.fiction.brewer.1899.098"/>
+
+startle me. Standing face to face with the condemned, whose features too seemed strangely familiar, the whole frightful panorama in all the hideous details of the massacre, unrolled itself like a curtain before me. I recalled many days of terror and dreadful suffering within a circle of wagons where people lay dead and wounded. <seg type="Massacre" subtype="Casualties">I recalled feelings of suffering from thirst, and especially the fact of having been torn from the embrace of my father, whose bleeding arm was hanging at his side, and being then folded in the arms of my weeping mother. I could hear again her piercing screams as I was torn from her, and an ax driven through her brain, and her throat cut from ear to ear.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"The dreadful terror of the occasion again returned upon me in all its original force. I stood spellbound, and they tell me I looked terrified, and as ghostly as a spectre. I can recall the fact that just at that time a man of conspicuous appearance stepped to my side, and handed me a folded paper without envelope or address, and which, supposing it might be some
+
+<pb n="99" xml:id="mmm.fiction.brewer.1899.099"/>
+
+order bearing on the execution, I immediately unfolded and read, its contents being as follows: 'The name you now bear by adoption, is in reality your just and rightful one. <seg type="Blame" subtype="LDS_LDS">The hands of the man about to be executed, are those which in cold blood slew <seg type="Massacre" subtype="Casualties">both your father and your mother</seg>.</seg> When saved alive from the massacre, you were under the threat of death, forbidden to utter or use, or recognize your true name, and that name was soon forgotten by you. Your name as received from your own lips on that bloody day, was "Robby Gordon."' This paper was signed, 'The man who had you in charge and by whom you were delivered to the Indian Agent of the U. S. Government.'</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"I had felt somewhat exasperated because the sentence of this villainous criminal had been changed from a death on the gallows, which he richly deserved, to that of being shot as a soldier, whilst in his cowardly nature there never could have existed the faintest trace of soldierly spirit. But at once it flashed across my mind, that by this change in the mode of execution, the
+
+<pb n="100" xml:id="mmm.fiction.brewer.1899.100"/>
+
+very individual who had suffered such fearful wrongs at his hands, had been especially designated as an instrument of the Divine wrath in executing a just retribution on one who had so long defied justice and escaped a merited doom. In a moment my staggered faculties sprang with alacrity to their post. In a moment more the word of command was given, and the law vindicated to its fullest extent.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"But enough of these horrible details which it has pained me to be compelled to communicate to you. Still, it is a satisfaction to have at last unraveled the mystery in which my early life was enshrouded.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"I long to be with you and with my dear mother, whose sweet and tender sympathy has been the controlling factor in my life. After all that impulsive affection and deep reverence I entertained for you both from the first moment of our meeting, had its proper origin in the fact that I was indeed, bone of your bone and flesh of your flesh, and that you were in fact my own grandfather and grandmother. <seg type="Massacre" subtype="Spoils">As additional confirmation of what I have imparted to
+
+<pb n="101" xml:id="mmm.fiction.brewer.1899.101"/>
+
+you, there was handed to one of my men and afterwards transferred to me, a small gold locket, containing the miniature of a handsome man in the dress of a West Point cadet, and bearing a striking resemblance to you. This was wrapped in a piece of soiled paper on the inside of which was written in pencil, 'This picture was found hanging around your neck at the time of your capture.'</seg> On my return to Headquarters I shall immediately apply for a leave of absence for a few weeks, after which time, should it meet with your approval, I shall resign my commission in the army, and engage in some congenial pursuit, in the exercise of the duties of which I can enjoy the privilege of spending the remainder of my life with those I dearly love, and to whom a life of devotion will be but a small return for the debt of gratitude I owe."</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

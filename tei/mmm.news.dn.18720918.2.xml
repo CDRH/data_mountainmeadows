@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18720918.2">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Special To The Deseret News</title>
+		<title level="m" type="sub">By Telegraph.</title>
+		<title level="m" type="sub">GENERAL.</title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.dn.18720918.2</idno>
+
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Deseret News</title>
+		<title level="a" type="main">Special To The Deseret News</title>
+		<title level="a" type="sub">By Telegraph.</title>
+		<title level="a" type="sub">GENERAL.</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1872-09-18">September 18, 1872</date>
+	    </bibl>
+	</sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-02"><name>Jaclyn Cruikshank vogt</name> Concept Highlighting and Encoding Enrichment</change>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+	<change when="2010-04-15"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dn.18720918.2.001"/>
+
+<head>SPECIAL TO THE DESERET NEWS.</head>
+<head type="sub">By Telegraph.</head>
+<head type="sub">GENERAL.</head>
+
+<p><placeName type="settlement" key="New York, NY">NEW York</placeName>&#8212;<seg type="Blame" subtype="LDS_LDS"><seg type="Source" subtype="Attributed_Klingensmith">The fact that the Mountain Meadow massacre was Mormon work has been fully confirmed</seg> by the confession of <persName key="Klingensmith, Philip">Philip Klingan Smith</persName>, now of <placeName type="county" key="Lincoln County, NV">Lincoln Co.</placeName>, <placeName type="state" key="Nevada">Nev.</placeName> <persName key="Klingensmith, Philip">Smith</persName> says that at the time he was Mormon Bishop at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, and was forced to muster with the militia regiment for the perpetration of the crime; that <seg type="Massacre" subtype="Battle">the assailed party, after four days' fight</seg>, <seg type="Massacre" subtype="Surrender">were induced to lay down their arms under promise of protection, after which all were shot down by the <q>"Mormon"</q> militia</seg>, <seg type="Massacre" subtype="Survivors">except seventeen young children, who were taken in charge of by <persName key="Klingensmith, Philip">Smith</persName> and saved</seg>.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

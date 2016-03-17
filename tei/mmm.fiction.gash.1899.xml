@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.gash.1899">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The False Star: A Tale of the Occident</title>
+<title level="m" type="sub"></title>
+<author><forename>A.[bram]</forename> <forename type="middle">D.[ale]</forename> <surname>Gash</surname></author>
+<principal>Douglas Seefeldt</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2012</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.fiction.gash.1899</idno>
+<authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2012</date>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">The entire text chronicles the journey of the Arkansas emigrants headed to California, specifically concentrating on the life of a little girl who is lifted up as a surrender signal during the massacre, but chapters XXXIX and XL deal directly with the masscre and subsequent court trial of John D. Lee.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="m">The False Star: A Tale of the Occident</title>
+<author><forename>A.[bram]</forename> <forename type="middle">D.[ale]</forename> <surname>Gash</surname></author>
+<publisher>W. B. Conkey Company</publisher>
+<pubPlace>Chicago, IL</pubPlace>
+<extent>388-409; 524-532</extent>
+<date when="1899">1899</date>
+<note type="source">A.[bram] D.[ale] Gash. <hi rend="italic">The False Star: A Tale of the Occident.</hi> Chicago, IL: W. B. Conkey Company, 1899. 388-409; 524-532.
+</note>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>fiction</term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-02-23"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting
+    </change>
+<change when="2010-12-01"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+</change>
+<change when="2009"><name>Laura Weakly</name> Model Encoding
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="frontispiece" xml:id="mmm.fiction.gash.1899.007"/>
+
+<figure xml:id="mmm.fiction.gash.1899.007.figure">
+<p>THE FLAG OF TRUCE AT MOUNTAIN MEADOW.</p>
+<figDesc></figDesc>
+</figure>
+
+<div1 type="chapter">
+<pb n="388" xml:id="mmm.fiction.gash.1899.399"/>
+
+<head>CHAPTER XXXIX.</head>
+
+<p>The Mountain Meadow massacre has been referred to in connection with the history of Lola Allison. This dark and bloody crime was committed <seg type="Massacre" subtype="Dates">in the autumn of 1857</seg>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">A minute description of that awful scene, the trial of <persName key="Lee, John D.">John D. Lee</persName>, his subsequent confession and execution, together with other facts and circumstances which have come to light since, is deemed necessary in order for the reader to thoroughly understand her history.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">The ill-fated train consisted of <seg type="Massacre" subtype="Casualties">one hundred and forty-nine persons</seg>. They were honorable and upright people from almost every walk of life, and <seg type="Massacre" subtype="Spoils">were very wealthy</seg>. There were six or eight elderly men with their sons and daughters and their families, and a number of young women and men. Several young men from the eastern states, a German doctor, and a son of Dr. <persName key="Aden, William">Aden</persName>, of <placeName type="state" key="Kentucky">Kentucky</placeName>, were among the number. <seg type="Emigrants" subtype="StateAffiliationMissouri">The rest of the emigrants were from <placeName type="state" key="Missouri">Missouri</placeName></seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">and <placeName type="state" key="Arkansas">Arkansas</placeName></seg> and were related to each other, so, after the massacre, a whole relationship, in some instances, was exterminated. <seg type="Massacre" subtype="Casualties">The children that were afterward sent back to the states, in many instances, could find no relatives.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">There were forty wagons, a number of carriages, four to five hundred head of horses and cattle, an elegant piano, the property of Lola's
+
+<pb n="389" xml:id="mmm.fiction.gash.1899.400"/>
+
+parents, a number of fine saddle horses for the young ladies and gentlemen, a great amount of jewelry, clothing, and minor articles. The booty taken has been estimated at $300,000.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">They were on their way to <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>. No sooner did they reach the land of Zion than it was apparent that they were in a hostile country. As they traveled south from the city of Zion</seg>, they found the people more and more hostile. <seg type="Encounter" subtype="TradeLDS"><persName key="Smith, George A.">George A. Smith</persName>, <persName key="Young, Brigham">Brigham</persName>'s first counselor, preceded the party, forbidding the Saints to sell the emigrants anything.</seg> There was much secret work going on, and many consultations held at the city of Zion among the holy men of the church, closing with a prayer circle.</p>
+
+<p>The emigrants were denied the right to pass through many of the towns, and were compelled to make a detour in the desert. <seg type="Encounter" subtype="TradeLDS">They could purchase no provisions</seg>, and found that they were constantly violating municipal ordinances and liable to arrest, though using every endeavor to avoid trouble. They were joined at <placeName type="settlement" key="Beaver, UT">Beaver</placeName> by a Missourian, who had at one time been a prisoner at the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> prison, and had gained his liberty only through promises to become an ardent Saint. He urged them to hurry on for life. Passing through <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, they saw the threatening clouds of danger and redoubled their energy to get beyond the borders of <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+
+<p><seg type="Massacre" subtype="Location">At last they reached the place known as <geogName type="valley" key="Mountain Meadows"><choice><orig>Mount-
+
+<pb n="390" xml:id="mmm.fiction.gash.1899.401"/>
+
+ain</orig><reg>Mountain</reg></choice> Meadow</geogName>, a glen on the divide between the great basin and the Colorado River.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution">The day after the emigrants passed through <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, Bishop <persName key="Lee, John D.">John D. Lee</persName> called a council and stated that he had received orders "To follow and attack the accursed Gentiles, and let the arrows of the Almighty drink their blood." <seg type="Context" subtype="LDSPersecution">He next related some alleged wrongs, which were claimed to have been done to the Saints long years before. After dwelling upon these alleged wrongs and the tragical death of <persName key="Smith, Joseph">Joseph</persName> and <persName key="Smith, Hyrum">Hyrum Smith</persName>, he said:&#8212;</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Context" subtype="LDSPersecution">"It is according to our divine pledge, to avenge the death of these martyred Saints upon all ungodly Gentiles." Then, while the assembly was worked up to a frenzy, he called for an affirmative vote, which was unanimous, and the expedition was at once fitted out.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="IndianRelationsLDS">Bishop <persName key="Lee, John D.">John D. Lee</persName> was the church Indian agent, and turned to them as allies and secured their services.</seg></seg> The militia of the Saints was called out by Col. <persName key="Dame, William H.">W. H. Dame</persName>, Maj. <persName key="Lee, John D.">John D. Lee</persName>, Captains <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John M.">Higby</persName>. Two of the men in the companies sat up all night conversing and praying, after having been ordered out and while the supply wagons were being filled. They asked the forgiveness of God for what they were compelled to do against their will.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">The Indians opened the attack by creeping down a gulch near where the emigrants were encamped, opening fire on them, while they were
+
+<pb n="391" xml:id="mmm.fiction.gash.1899.402"/>
+
+at breakfast, and <seg type="Massacre" subtype="Casualties">wounding some ten or twelve in this attack</seg>. It was a complete surprise to the emigrants, who seized their arms, shoved their wagons together, sunk the wheels into the earth, and put themselves in a condition of defense. They did not think for a moment, that enough Ute Indians could be assembled in that vicinity to attack <seg type="Massacre" subtype="Casualties">a train of sixty armed men</seg>, and had begun to feel a sense of relief, as they were getting out of the settlements of the hostile Saints.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">The resistance of <seg type="Massacre" subtype="Casualties">the emigrants</seg> was far greater than the anointed had calculated upon. They made trenches, and there, with <seg type="Massacre" subtype="Casualties">their wives and children</seg>, they maintained a siege for almost a week, <seg type="Blame" subtype="IndiansIndependently">keeping the merciless Indians, as they supposed, at bay</seg>. The shots were constantly heard at <persName key="Hamblin, Jacob">Hamlbin</persName>'s ranch, a short distance away, and squads of Saints were going to and from the farm, eating and drinking at the place and amusing themselves with games and in various ways. They held the "ungodly Gentiles" in their grasp and could afford to divide time and slaughter ad libitum; but grew tired of the fun, as they termed it, at the expiration of a week, and resolved upon strategy in order to end the work. Hitherto, they had all been disguised as Indians.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The firing now ceased, the weary and heart-sick emigrants hoped and prayed for relief, believing that <seg type="Blame" subtype="IndiansIndependently">their savage foes</seg> had given up the attack, when they saw at the upper end of the gulch in which they were located, a wagon loaded with
+
+<pb n="392" xml:id="mmm.fiction.gash.1899.403"/>
+
+white men. The men in the wagon raised a white flag, when a glad shout of joy and welcome rang through the ranks of the emigrants who were delighted at the approach of men of their own race. The emigrants then held up a little girl dressed in pure white, as an emblem of peace, to answer the signal. This child was the pride of her parents, her grandparents, and was a general favorite of the whole company. When her father held her aloft, he bore the sweetest emblem that was ever used as a signal of peace&#8212;a signal to the blackest-hearted fiends that ever disgraced the civilized world.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The captains of the emigrants came out and met Bishop <persName key="Lee, John D.">Lee</persName> and his staff, when they arranged for a surrender. <seg type="Massacre" subtype="Spoils">The emigrants were to give up everything they had, including their arms</seg>, and <seg type="Blame" subtype="IndiansIndependently">to be taken back to the settlement and cared for until the "war with the Indians," as the Saints deceitfully termed it, was over</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Under this agreement, <seg type="Massacre" subtype="Casualties">sixty men, forty-one women and forty-eight children</seg> surrendered and started to return under the protection of the Saints, to Zion; In front was a wagon driven by Saints, which contained the men who were wounded in the siege. Next came the women and children, and lastly, the men. On each side of the men marched the saintly militia, while there were mounted men in the rear, whose duty it was to intercept and slay any who might attempt to get away. There was a hollow across
+
+<pb n="393" xml:id="mmm.fiction.gash.1899.404"/>
+
+the road at this point, and on each side of the highway, as it enters the ravine, were rocks and brush <seg type="Blame" subtype="IndiansLDSInfluence">where the Indians lay in ambush</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Casualties">The women were talking exultingly over <seg type="Blame" subtype="IndiansIndependently">their rescue from the savage Utes</seg>, and thanked God that they were now under the protection of white men. <seg type="Massacre" subtype="Planning">Every detail was in perfect readiness, as arranged by revelation received in prayer circle.</seg> As the wagons crossed the ravine, and the women and children were just entering it, Mephisto, in the person of <persName key="Haight, Isaac C.">Ike Haight</persName>, a popular Saint, was standing on the bluff above. He waved his hand above his head as a signal, gave the murderous command, "halt! fire!" In an instant Mormonism showed its true character&#8212;treachery. They turned their guns, almost touching their victims, whom, a short time before, they had solemnly promised to protect, and discharged a volley, when almost every man of the emigrants fell. Involuntarily, the horrified women and children ran screaming to where their fathers, husbands, sons, and lovers lay dead or dying. The fiends rushed upon them shooting, stabbing and braining them. In twenty minutes, a hundred and twenty-six loyal American citizens lay dead or dying. Every circumstance of horror was added to the scene. <seg type="Massacre" subtype="Spoils">The Saints cut and tore the rings from their fingers, tore the jewels from the ears of the women, stripped the clothing from all the bodies</seg>; then, with fiendish, obscene language and profane yells, spit upon, and trampled
+ 
+<pb n="394" xml:id="mmm.fiction.gash.1899.405"/>
+
+the faces of their victims. One lovely maid knelt and prayed to the son of Bishop <persName key="Lee, John D.">Lee</persName> that she might live. He hesitated, when his bishop father came and shot her through the head. Several sought to flee, only to be slain by the mounted Saints. Two young girls ran down the ravine and beyond the ridge to a place where an Indian boy, named <persName key="Hamblin, Albert">Albert</persName>, was hid to watch the butchery. They begged him to save them. He directed them to hide in the thicket. In a few minutes, Bishop <persName key="Lee, John D.">Lee</persName> and High Counselor <persName key="Stewart, William C.">Bill Stewart</persName> came across the ravine on their horses, at full speed, and with vile curses demanded to know "What become of the young Gentile wenches." <persName key="Hamblin, Albert">Albert</persName> dared not refuse to disclose their hiding place. They were dragged from the brush, when they knelt before the bishop praying for mercy. They promised to be his slaves and never betray; but without murmuring, they would work for him always. One of them clung to his knees, he dashed her cruelly away, throwing her upon her back, when he placed his saintly knee upon her breast, and spitting tobacco juice in her eyes, he cut her throat from ear to ear. Her companion fled from the sight; but was followed by the bishop, who struck her with a jagged stone on the back of the head, killing her instantly. <seg type="Massacre" subtype="Aftermath">These two bodies were overlooked by the parties who attended to the burying of the dead, and lay there untouched by the wild beasts and birds for a period of two weeks. <persName key="Hamblin, Jacob">Hamlin</persName>
+
+<pb n="395" xml:id="mmm.fiction.gash.1899.406"/>
+
+made a trip to the city of Zion, and when he returned, the young Indian <persName key="Hamblin, Albert">Albert</persName> showed the bodies to him, and they were buried in a sand pit. <persName key="Hamblin, Jacob">Hamlin</persName> stated, afterward, that there was not the mark of a tooth on either body and no signs of decay, so pure was the air. Their countenances were as if death had just overtaken them.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">Counselor <persName key="Stewart, William C>">Stewart</persName> carefully surveyed the array of dead bodies, and finished with his bowie knife, those who showed any signs of life.</seg> <seg type="Massacre" subtype="RescueAttempt">Three of the men escaped the main butchery. The night before the fatal day, the emigrants carefully drafted a document, describing therein their miserable condition. It was addressed to "Masons, Odd Fellows, Baptists, Methodists and all good people in the States." It was signed by so many of each lodge or church. The three young men mentioned, were chosen because of their fleetness to transport the message back to the land of humane beings. They crawled down the hollow and escaped, but were followed and two of them were murdered the next night. The third reached as far as the "Last Point," on the Santa Clara, where <persName key="Hatch, Ira">Ira Hatch</persName> and company overtook and murdered him. <persName key="Hamblin, Jacob">Jacob Hamlin</persName> obtained possession of the paper and preserved it a number of years, as a relic. Bishop <persName key="Lee, John D.">Lee</persName> learned that it was in existence, forced him (<persName key="Hamblin, Jacob">Hamlin</persName>) to yield the document to him, and administered a severe rebuke to him, then destroyed it.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">One man escaped from the wagon where the
+
+<pb n="396" xml:id="mmm.fiction.gash.1899.407"/>
+
+wounded were and was never heard from afterward. Seventeen children were saved alive. One was shot through the arm and lost the use of it. They were all distributed among the families of the Saints. Two years later they were all returned to the States, except the one that <persName key="Klingensmith, Philip">Klingensmith</persName> had taken.</seg> <seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="LDS_LDS">The property taken was divided among the Saints, <seg type="Blame" subtype="IndiansLDSInfluence">giving the Indians the provisions and ammunition, who complained that the Saints kept much more than their share</seg>. Some of the property was sold at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> at public auction. Much merriment was made by the Saints at the sale. The property being jocularly styled, "Property taken at the siege of Sebastopol." The clothing stripped from the dead and dying, spotted by blood, perforated by bullets and bowie knives, was placed in the cellar of the tithing office of the Saints at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and sold at private sale. The best stock, consisting of high-bred horses and cattle, the carriages, money, and jewelry, was distributed among the dignitaries. Forty head of cattle were driven to Zion and traded to Hon. <persName key="Hooper, William H.">Wm. H. Hooper</persName> for boots and shoes. Thirteen years later, this man was in Congress as a delegate from <placeName type="state" key="Utah Territory">Utah</placeName>, and while there, he stood before that august body and with great solemnity, called on God as a witness to the fact that the Saints had nothing whatever to do with the awful affair. Bishop <persName key="Lehman, Francis">Francis Lehman</persName>, of <placeName type="settlement" key="Filmore, UT">Filmore</placeName> and <placeName type="settlement" key="Provo, UT">Provo</placeName>, got the beautiful piano, belonging to Lola's parents.</seg></seg></p>
+ 
+<pb n="397" xml:id="mmm.fiction.gash.1899.408"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now that everything was completed, Bishops <persName key="Lee, John D.">Lee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName> reported officially to the Prophet <persName key="Young, Brigham">Brigham Young</persName>, who was Governor and ex-officio superintendent of Indian affairs, having been made so by President <persName key="Pierce, Franklin">Franklin Pierce</persName>. <seg type="Reaction" subtype="Silence"><persName key="Young, Brigham">Brigham</persName> gave instructions to all, in this manner: "Don't talk about this thing, even among yourselves&#8212;especially, let the women keep still about it&#8212;let it be forgotten as soon as possible."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Great advice for an innocent prophet, with this law on the statutes, to wit: "All persons, who after full knowledge that a felony has been committed, conceal it from the magistrate, or harbor and protect the person charged with or convicted thereof, are accessories." And if they counseled, aided, or abetted, though not present, they were guilty as principals.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Haight, Isaac C.">Haight</persName> and <persName key="Lee, John D.">Lee</persName> were sent to the Legislature afterward, attended the Governor's receptions and balls, and <seg type="Context" subtype="Polygamy">each was given a new young wife</seg>, sealed to them in the endowment house, by the prophet as a reward for their valor. For thirteen years <persName key="Lee, John D.">Lee</persName> remained a bishop. <persName key="Dame, William H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName> remained bishops until death, and <persName key="Higbee, John M.">Higby</persName> became more prominent in the church.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">A new road was laid out, that the ungodly passing through the country would have no occasion to pass through <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, and perchance discover something. All was now silent as the grave on that subject. The Deseret News, the official organ of the church, did not mention
+ 
+<pb n="398" xml:id="mmm.fiction.gash.1899.409"/>
+
+it in its columns. The Saints began to rest secure and feel that the awful deed was past detection; but the bosom of human beings is not made for the habitation of such secrets. The monster grew beyond their control, after a time of reflection. <seg type="Context" subtype="LDSApostates">Some apostatized and left <placeName type="state" key="Utah Territory">the Territory</placeName>.</seg> A brief and imperfect account of the massacre appeared in a <placeName type="state" key="California">California</placeName> paper. The Deseret News, knowing all about the horrible affair, officially denounced the whole matter as a lie.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It was soon afterward forced to admit that there had been a massacre; but <seg type="Blame" subtype="IndiansIndependently">claimed the whole as being the work of the Indians, and this was tenaciously held to by the Saints</seg>, until they were forced by the meager evidence, which gradually came to light, to acknowledge guilt. <seg type="Reaction" subtype="FederalInvestigation"><seg type="Reaction" subtype="StateInvestigation">An investigation by Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> was made in 1858, and a more thorough investigation <seg type="Reaction" subtype="Commemoration">in 1859 by Gen. <persName key="Carleton, James Henry">W. H. Carleton</persName>,</seg></seg> <seg type="Reaction" subtype="Commemoration">who collected and buried the bones and erected a rude monument, with a cross, over the spot to their memory.</seg> Eleven years later, the Federal officials made a more thorough investigation, at which time the Saints admitted that Bishop <persName key="Lee, John D.">Lee</persName> was the leader, and ostensibly expelled him from the church. <seg type="Context" subtype="IndianRelationsLDS">He still held the position of church Indian agent.</seg> He made his headquarters in the rocky cliffs, far down in Pareah Canon of the Colorado. <seg type="Context" subtype="IndianRelationsLDS">The anointed circulated strange stories about him; once that he was killed, and again that he had
+
+<pb n="399" xml:id="mmm.fiction.gash.1899.410"/>
+
+turned Indian entirely, and as such was chief of one of their tribes.</seg> As soon as he was deprived of his standing in the church, the Saints changed their tone, in a day, from love and praise to the most bitter denunciations, and urged that he should be mobbed at once.</seg></seg></p>
+
+<p>Such is a brief history of the dastardly crime of <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>. Humanity stands appalled, when reflecting upon the scene in all of its hideousness. A more infamous crime was never committed, and this in free and enlightened America, within the domain of her emblemb of Liberty.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="400" xml:id="mmm.fiction.gash.1899.411"/>
+
+<head>CHAPTER XL.</head>
+
+<p><seg type="Blame" subtype="LDS_LDS">Bishop <persName key="Lee, John D.">Lee</persName> was arrested on a warrant, issued pursuant to the indictment found against him at <placeName type="settlement" key="Provo, UT">Provo</placeName>, which has been referred to Hon. <persName key="Boreman, Jacob S.">Jacob S. Boreman</persName>, Judge. U. S. Marshal <persName key="Owens, Jacob S.">Owens</persName> arrested him while visiting his four wives at <placeName type="settlement" key="Panguich, UT">Panguich</placeName>, on the Sevier River. Much interest was manifest throughout the nation, in the trial; and when it came on for hearing at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, a mighty concourse of people, officers, and reporters, from both the east and the west were there.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The most sanguine, in their claims of innocence for the Saints, were forced to acknowledge their guilt.</seg></p> 
+
+<p>The prosecution was directed by District Attorney <persName key="Cary, William C.">Wm. C. Cary</persName> and Hon. <persName key="Baskin, R. N.">R. N. Baskin</persName>, of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, while Messrs. <persName key="Sutherland, Jabez">J. G. Sutherland</persName>, <persName key="Bates, George C.">G. C. Bates</persName>, Judge <persName key="Hoge, Enos D.">Hoge</persName> (a Saint), <persName key="Wells, Daniel H.">Wells</persName>, <persName key="Spicer, Wells">Spicer</persName>, also of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and <persName key="Bishop, William W.">W. W. Bishop</persName>, of Pioch, <placeName type="state" key="Nevada">Nev.</placeName>, were for the defendant.</p>
+
+<p>The Saints, who were called as jurors, swore on their voir dire, that they had neither formed nor expressed an opinion, nor did they know anything about the case. One swore that he had lived in the same town that <persName key="Lee, John D.">Lee</persName> lived in, but had never heard his name connected with the crime. Another that he had never heard of the monstrous affair at all; and still another, that he was raised in the neighborhood and had visited <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the <choice><orig>Mount-
+
+<pb n="401" xml:id="mmm.fiction.gash.1899.412"/>
+
+ain</orig><reg>Mountain</reg></choice> Meadow</geogName></seg>, <seg type="Reaction" subtype="Commemoration">saw the monument, but never inquired why it was there</seg> and had never heard of anything unusual taking place there. The examination was one absurdity after another. The prosecution gave up in despair, after getting three Gentiles; and allowed the rest of the panel to be selected from the Saints.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">The first witness related, in general, the appearance of the ground a few days subsequent to the massacre.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The first witness of importance was <persName key="Klingensmith, Philip">Phillip Klingensmith</persName>. When he took the stand, a death-like stillness filled the room, and every eye was riveted upon him, while every ear was strained to catch his words. He had been indicted with the rest, and a nolle entered as to him. He began in slow and measured words, approaching stupidity. He gradually grew in animation and vigor, his eyes gleamed and flashed like fire, the veins and muscles of his face and neck stood out like cords. His whole being seemed to work responsive, and in sympathy with the horrible truths he was relating. While he related the most cruel, heartless, and blood-curdling scene, all eyes turned to <persName key="Lee, John D.">Lee</persName>; and <seg type="Massacre" subtype="Casualties">as he referred to the horrible killing of the beautiful woman</seg>, <seg type="Massacre" subtype="Surrender">who held in her arms the little girl dressed in white, that was held up as the flag of truce</seg>, his eyes protruded as if they would burst from their sockets. His light hair stood on end, his features were distorted, and he quivered from head
+
+<pb n="402" xml:id="mmm.fiction.gash.1899.413"/>
+
+to foot. He clutched at his throat as he gasped for breath, his teeth shone ghastly, for he tasted death in that terrible hour. He beat his breast with his fists, and clutched his hair as he cried in wild despair:&#8212;</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">"Oh, the angel child, who was dressed in white, was the child that was never sent back to her friends! I took her as mine and she was adopted by Howard and Mary Allison, who named her Lola. O sweet Lola, would that all of us had died ere we had committed this vile injury upon you."</seg></seg></p>
+
+<p>As he closed these words, he started to fall from his chair when an officer caught him. There was murmuring and much confusion in the crowd for a few moments. Vernon Stanton clasped his hand to his heart, and said: "O my God! Can it be possible?" Many who stood near him turned to him for an instant, wondering why a spectator should be so much affected.</p>
+
+<p>The prosecution, after putting on several other witnesses, and making a case showing the guilt of the defendant beyond a reasonable doubt, then rested.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="EmigrantBehavior">The defense began and attempted to establish, by trumped-up evidence, an old slander invented in 1859, to deceive Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, to the effect that <seg type="Encounter" subtype="Poison">the emigrants had poisoned a spring at Corn Creek, near <placeName type="settlement" key="Filmore, UT">Filmore</placeName>. Also, that they had poisoned the flesh of an ox and given it to the Indians.</seg> In every charge brought against
+
+<pb n="403" xml:id="mmm.fiction.gash.1899.414"/>
+
+the emigrants, they were completely exonerated, the charges refuted and proven to be self-preserving slanders of the blackest hue.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The prophet claimed to be physically unable to attend the trial; but an affidavit was carefully prepared, denying his complicity in the crime, which he tried hard to get admitted as evidence, but failed. It was then published and distributed throughout the land.</seg></p>
+
+<p>The case of the prosecution in every particular was proven clearly, but the brethren who were on the jury, had been instructed by the priesthood and would not convict. Although they had sworn that they knew nothing of the circumstances connected with the crime, yet as soon as they were in the jury room, they proceeded to contradict the evidence for the prosecution, by facts within their own knowledge. First, they installed a jack-Mormon, J. C. Hinster, as foreman.<seg type="Blame" subtype="EmigrantBehavior"> Then each delivered a typical Mormon sermon by denouncing in the most scathing terms, the emigrants</seg>, the prosecuting attorneys, the Federal officers, the United States, in fact, against all who were not Saints on the subservient-tool plan. It was, indeed, a strange proceeding for a petit jury, perhaps the strangest the world has yet witnessed. For two days the three Gentiles smiled grimly on the Saints, saying little, but noting carefully the manner in which these would-be jurors committed themselves. They finally agreed to a disagreement, then filed into court.</p>
+ 
+<pb n="404" xml:id="mmm.fiction.gash.1899.415"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">When the result was announced, a storm of wrath and indignation swept through the land, before which the priesthood quailed, and through a revelation, the anointed decided that <persName key="Lee, John D.">Lee</persName> must be given up.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">This decided upon, all things were now properly arranged for the bishop's conviction at the next trial. <persName key="Wells, Daniel">Daniel H. Wells</persName> was sent to see that all was done according to counsel.</seg></p>
+
+<p>The next trial came on regularly for hearing in September, 1876, before a jury of twelve servile Saints. It was utterly impossible to get a Gentile on the jury, as all had heard or read of the case and had formed an opinion on its merits; but all the Saints called had never heard of such a thing as a massacre, and had not formed nor expressed an opinion in the case. They were model jurymen according to their oath.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Bishop <persName key="Lee, John D.">Lee</persName> saw, before his counsel did, that the brethren had decided to betray him. The Mormon witnesses now remembered all that they had forgotten at the former trial. <seg type="Massacre" subtype="Casualties"><persName key="Knight, Samuel">Samuel Knight</persName> and <persName key="McMurdy, Samuel">James McMurdy</persName> gave evidence that they saw <persName key="Lee, John D.">Lee</persName> brain one woman with a little child in her arms, and beat one man to death with a gun, also, that he shot others, and then went to the wagon and shot the wounded men with a pistol.</seg> At this point, Bishop <persName key="Lee, John D.">Lee</persName> broke down; and, when again in his cell, he walked the floor, cursing the Mormon leaders who had betrayed him, and raved like a maniac, as he heaped vile epithets upon them.</seg></p>
+ 
+<pb n="405" xml:id="mmm.fiction.gash.1899.416"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">The evidence was all in, and the instructions of the court given; when the jury retired to deliberate. They had received instructions from their masters before entering the box to be sworn as jurors in the case; therefore, no deliberation was necessary, consequently they soon returned with a verdict of "guilty."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">An appeal was taken to the Supreme court, where the judgment was confirmed. Bishop <persName key="Lee, John D.">Lee</persName> was sentenced by judge <persName key="Boreman, Jacob S.">Boreman</persName>, "To be shot on the 23d day of March, 1877." <persName key="Nelson, William">William Nelson</persName>, U. S. Marshal, selected <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, as the place of execution. Judge <persName key="Boreman, Jacob S.">Boreman</persName> did not favor this, as he said it savored of revenge as well as spectacular display.</seg></p>
+
+<p>He was executed one hundred yards east of the monument. The bishop was cheerful and happy to the last moment. He there confessed to Rev. <persName key="Stokes, George">Stokes</persName>, a Methodist minister, who was in attendance, saying:&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"I killed five of the emigrants with my own hand."</seg></seg></p>
+
+<p>This fact he had ever strenuously denied before. The scene was then photographed, with <persName key="Lee, John D.">Lee</persName> sitting on his coffin. He requested that one should be given to each of his three faithful wives. He made a brief address, then seating himself on his coffin the five soldiers detailed to do the shooting, took their stand, Marshal <persName key="Nelson, William">Nelson</persName> gave the command:&#8212;</p>
+
+<p>"Make ready! Aim! Fire!"</p>
+
+<pb n="406" xml:id="mmm.fiction.gash.1899.417"/>
+
+<p>Simultaneously five rifle shots resounded and <persName key="Lee, John D.">Lee</persName> fell back lifeless, with five wounds in the region of his heart. His muscles relaxed, he quivered and, with a faint smile, expired.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Thus ended the earthly career of the only man who ever suffered the just penalty of this atrocious crime, and the only man who ever lost caste with the Saints because of it, and that only when forced by public indignation of an outraged people of one of the best and most highly civilized nations of earth.</seg></p>
+
+<p>Prior to his death, the bishop wrote a confession, from which the following is taken:&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Those with me at that time, were acting under orders from the church of Jesus Christ of Latter Day Saints. The horrid deeds then committed, were done as a duty which we believed we owed to God and our church. <seg type="Reaction" subtype="Silence">We were all sworn to secrecy before and after the massacre. The penalty for giving information concerning it was death.</seg></seg></p>
+
+<p>"<seg type="Massacre" subtype="Dates">In the month of September, 1857</seg>, the company of emigrants, known as <seg type="Emigrants" subtype="StateAffiliationArkansas">the 'Arkansas Company,'</seg> <seg type="Emigrants" subtype="Route">arrived at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, <placeName type="county" key="Iron County, UT">Iron County</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, on their way to <placeName type="state" key="California">California</placeName>.</seg> At Parowan, young Aden, one of the company, saw and recognized one <persName key="Laney, William">William Laney</persName>, a Mormon resident of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>. <persName key="Aden, William">Aden</persName> and his father had rescued <persName key="Laney, William">Laney</persName> from an anti-Mormon mob in <placeName type="state" key="Tennessee">Tennessee</placeName> several years before, and saved his life. He (<persName key="Laney, William">Laney</persName>), at the time he was attacked by the mob, was a
+
+<pb n="407" xml:id="mmm.fiction.gash.1899.418"/>
+
+Mormon missionary in <placeName type="state" key="Tennessee">Tennessee</placeName>. <persName key="Laney, William">Laney</persName> was glad to see his friend and benefactor, and invited him to his house, and <seg type="Encounter" subtype="TradeLDS">gave him some garden-sauce to take back to the camp with him</seg>.</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">"The same evening it was reported to Bishop (Colonel) <persName key="Dame, William H.">Dame</persName>, that <persName key="Laney, William">Laney</persName> had given potatoes and onions to the man <persName key="Aden, William">Aden</persName>, one of the emigrants. When the report was made to Bishop <persName key="Dame, William H.">Dame</persName>, he raised his hand and crooked his little finger in a significant manner to one <persName key="Carter, Barney">Barney Carter</persName>, his brother-in-law, and one of the 'Angels of Death.' <persName key="Carter, Barney">Carter</persName>, without another word, walked out, went to <persName key="Laney, Wiliam">Laney</persName>'s house with a long picket in his hand, called <persName key="Laney, Wiliam">Laney</persName> out, and struck him a heavy blow on the head, fracturing his skull, and left him on the ground for dead. <persName key="Webb, C. Y.">C. Y. Webb</persName> and <persName key="Newman, Isaac">Isaac Newman</persName>, president of the 'High Council,' both told me that they saw <persName key="Dame, William H.">Dame</persName>'s maneuvers. <persName key="McGuffee, James">James McGuffee</persName>, then a resident of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>&#8212;but through oppression has been forced to leave there, is now a merchant in Pahrangat valley, near <placeName type="settlement" key="Pioche, NV">Pioche</placeName>, <placeName type="state" key="Nevada">Nev.</placeName>&#8212;knows these facts.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Some two weeks after the deed was done, <persName key="Haight, Isaac C.">Isaac C. Haight</persName> sent me to report to Governor <persName key="Young, Brigham">Young</persName> in person. I asked him why he did not send a written report. He replied that I could tell him more satisfactorily than he could write, and if I would stand up and shoulder as much of the responsibility as I could conveniently, that it would be a feather in my cap some day, and that I would get a celestial salvation, but the man
+
+<pb n="408" xml:id="mmm.fiction.gash.1899.419"/>
+
+that shrunk from it now would go to hell. I went and did as I was commanded. <persName key="Young, Brigham">Brigham</persName> asked me if <persName key="Haight, Isaac C.">Isaac C. Haight</persName> had written a letter to him. I replied, 'Not by me, but he wished me to report in person,' 'All right,' said <persName key="Young, Brigham">Brigham</persName>. 'Were you an eye-witness?' 'To most of it,' was my reply. Then I proceeded to give him a full history of all. <seg type="Massacre" subtype="Casualties">I told him of the killing of the women and children</seg>, and <seg type="Massacre" subtype="Surrender">the betraying of the company</seg>; that, I told him, I was opposed to; but I did not say to him to what extent I was opposed to it, only that I was opposed to the shedding of innocent blood. <seg type="Blame" subtype="EmigrantBehavior">'Why,' said he, 'you differ from <persName key="Haight, Isaac C.">Isaac (Haight)</persName>, for he said there was not a drop of innocent blood in the whole company.'</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"When I was through, he said it was awful, that <seg type="Massacre" subtype="Casualties">he cared nothing about the men, but the women and children were what troubled him</seg>. I said: 'President <persName key="Young, Brigham">Young</persName>, you should either release men from their obligation, or sustain them when they do what they have entered into the most sacred obligations to do.' He replied: 'I will think over the matter, and make it a subject of prayer, and you may come back in the morning and see me.' I did so. He said: '<persName key="Lee, John D.">John</persName>, I feel first-rate. I asked the Lord, if it was all right for the deed to be done, to take away the vision of the deed from my mind, and the Lord did so, and I feel first-rate. It is all right. The only fear I have is of traitors.' <seg type="Reaction" subtype="Silence">He told me never to
+
+<pb n="409" xml:id="mmm.fiction.gash.1899.420"/>
+
+lisp it to any mortal being, not even to Brother <persName key="Kimball, Heber C.">Heber</persName>.</seg> President <persName key="Young, Brigham">Young</persName> has always treated me with the friendship of a father since, and <seg type="Context" subtype="Polygamy">has sealed several women to me since</seg>, and has made my house his home when in that part of <placeName type="state" key="Utah Territory">the Territory</placeName>&#8212;until danger has threatened him."</seg></p>
+ 
+</div1>
+
+<div1 type="chapter">
+
+<pb n="524" xml:id="mmm.fiction.gash.1899.535"/>
+                
+<head>CHAPTER XLIX.</head>
+
+<p>Lola with her friends started to <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName> the next morning, after Mr. and Mrs. Waltham left for <placeName type="settlement" key="San Francisco, CA">San Francisco</placeName>. Among the company were her foster parents, Adrian, Willy, Mr. Stanton, Jed, Rev. Thomas Gray, the minister of the church to which Mr. Stanton belonged in the East, and at this time Mr. Stanton's guest, and a number of other friends.</p>
+
+<p>The weather was delightful during the trip, except in the middle of the day, when it was somewhat oppressive at times. In the evening, when in camp, they all assembled to hear Rev. Gray talk upon and explain the Bible. These meetings were enjoyed and appreciated by all the members of the party, and especially by Adrian
+and Lola, who were anxious to learn everything concerning that religion which was <seg type="Context" subtype="Polygamy">free from the taint of polygamy</seg>.</p>
+
+<p>On reaching <placeName type="settlement" key="Filmore, UT">Filmore</placeName> they encamped near the village; Jed happened to meet his old friend, Henry Spiral, and Henry at once informed Flora that Lola was among a company who were encamped on the river.</p>
+
+<p>Flora went in company with Henry to the camp, and finding Lola, who gave her a hearty
+greeting, she asked for a private interview. Lola took her to her tent and said:&#8212;</p>
+
+<pb n="525" xml:id="mmm.fiction.gash.1899.536"/>
+
+<p>"Something seems to trouble you, what is it, Flora?"</p>
+
+<p>"Yes, I am in trouble about my salvation. Ever since I left you at the old <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> prison, my mind has been in a state of unrest, because of my wasted and sinful life. After associating with you for a year and a half and knowing your innocent and pure life, I thought of the great
+contrast between my life and yours. I loved you, however, better than any girl I ever saw, and there resolved to live a better life. When I saw you dragged from the back that night at the prison by Lehman and Sally, I was filled with disgust and self reproach, because I was a member of an organization that would keep such a man as a member, much less keep him in a prominent position. I have forsaken my former ways and faith, and have tried to live an honest, virtuous life befitting a Christian woman. God knows how well I have succeeded in this regard and that my actions have been in harmony with the teachings of the Bible, as you construe it. This change has cost me all of my former friends.
+They have ostracized me. They have said to me many times: 'You have evidently caught the
+spirit of the apostasy from that contemptible Allison girl.' I answered that I wished I were half so good as she. O dear Lola, I regret so much the life I have lived! I have prayed so hard that I might be forgiven. I feel the indwelling spirit, as a witness, that I have at least partially <choice><orig>suc-
+
+<pb n="526" xml:id="mmm.fiction.gash.1899.537"/>
+
+ceeded</orig><reg>succeeded</reg></choice> at the throne of grace. Tell me, dear Lola, is there a place outside of this church for me to live a Christian life?"</p>
+
+<p>"Dear Flora, I am truly glad to hear you talk in this manner. I want you to go with me and talk to Rev. Gray, I know that he can give you the light which you seek."</p>
+
+<p>They went to the minister, who was just about to begin the evensong meeting, with the company seated around, and Lola requested that he give his time, for this evening, to an inquiring soul, that all might reap the benent of his instructions. He was pleased to grant the request. He then turned to Flora and asked what instructions she desired. She then, laid the burden of her transgressions before him, and explained her repentant condition, as she had explained to Lola, when he said:&#8212;</p>
+
+<lg type="poem">
+<l>"He who seeks repentance for the past,</l>
+<l>Should woo the angel virtue in the future."</l>
+</lg>
+
+<p>Then taking the Bible he read the eighth chapter of St. John and explained it. After finishing the lesson on this chapter, he said:&#8212;</p>
+
+<p>"My good woman, you would not be rejected by any good church in this christian land, for they all follow the teachings of the Master, and He said, with reference to the sheep that was lost and found, 'I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.'"</p>
+
+<pb n="527" xml:id="mmm.fiction.gash.1899.538"/>
+
+<p>Flora sat weeping, after the meeting was over, and Lola went to her and asked:&#8212;</p>
+
+<p>"Dear Flora, is there anything that I can do to comfort you?"</p>
+
+<p>"Dear Lola, I do not know. The way is not clear. If I live the religion on which my heart is set, I cannot make a living among these people," answered Flora, when Lola said:&#8212;</p>
+
+<p>"This shall not be a barrier between you and the Saviour. Come and go with us to-morrow morning and you shall never want."</p>
+
+<p>Henry Spiral was also desirous of joining the party, and made arrangements with Mr. Stanton and Adrian for a position in their mines; and having a good riding horse with equipments, he and Flora joined the party the next morning.</p>
+
+<p><seg type="Reaction" subtype="Commemoration">They reached the brow of the hill, just before entering the glen at <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, where they halted. Here they alighted, then formed a procession, and marched, with uncovered and bowed heads, to the rude monument; here Rev. Gray and Vernon Stanton sang in a very impressive manner:&#8212;</seg></p>
+
+<lg type="poem">
+<l>"Go bury thy sorrow,</l>
+<l>The world hath its share;</l>
+<l>Go bury it deeply,</l>
+<l>Go hide it with care,</l>
+<l>Go think of it calmly,</l>
+<l>When curtained by night,</l>
+<l>Go tell it to Jesus,</l>
+<l>And all will be right.</l>
+<lb/>
+<l>"Go tell it to Jesus,</l>
+<l>He knoweth thy grief;</l>
+<l>Go tell it to Jesus,</l>
+<l>He'll send thee relief;</l>
+
+<pb n="528" xml:id="mmm.fiction.gash.1899.539"/>
+
+<l>Go gather the sunshine</l>
+<l>He sheds on the way;</l>
+<l>He'll lighten thy burden,</l>
+<l>Go, weary one, pray.</l>
+<lb/>
+<l>"Hearts growing a-weary </l>
+<l>With heavier woe,</l>
+<l>Now droop 'mid the darkness&#8212;</l>
+<l>Go comfort them, go.</l>
+<l>Go bury thy sorrows;</l>
+<l>Let o'hers be blest;</l>
+<l>Go give them the sunshine;</l>
+<l>Tell Jesus the rest."</l>
+</lg>
+
+<p>Then the minister read the first seven verses of the twelfth chapter of Ecclesiastes, after which he offered prayer. He then read from the fifteenth chapter of Corinthians, as follows:&#8212;</p>
+
+<p>"For since by man came death, by man came also the resurrection of the dead.</p>
+
+<p>"For as in Adam, all die, even so in Christ shall all be made alive."</p>
+
+<p>He then made appropriate remarks, after which all the company, except Adrian and Lola, sang:&#8212;</p>
+
+<lg type="hymn"><l>"They're gath'ring homeward from ev'ry land," etc.</l></lg>
+
+<p><seg type="Reaction" subtype="Commemoration">They were then dismissed, and the company turned to go away; but Lola lingered, and leaning against the monument, she gazed at the cross; then wept as a child.</seg></p>
+
+<p>Her grief seemed as great as if she had known her parents, relatives and friends all her life, and that they had died but yesterday. Adrian and her parents tried to console her; but it seemed she could not be comforted. She finally said:&#8212;</p>
+
+<p><seg type="Massacre" subtype="Aftermath">>"Oh, what suffering my parents and relatives
+
+<pb n="529" xml:id="mmm.fiction.gash.1899.540"/>
+
+must have endured in that awful time. The horrible spectacle, the last struggle, and when it was over, the ground strewn with their mangled forms, comes vividly to my imagination. Oh, can I ever cease to think of this awful picture!"</seg></p>
+
+<p>Here Rev. Gray approached her and said:&#8212;</p>
+
+<p>"Dear friend, I pray you may be comforted. They who loved you in your tenderest days, are not lost to you forever; they fade no more, nor realize pain nor fear. They have reached a celestial habitation. We may feel sad, because of their fate; but while we weep and wonder, they are wrapt in the blissful joy of Heaven. Shadows fall upon them no more. Who has no loved ones in Heaven? Where is the one whose heart has not ached with sorrow, amid the blasts that have congealed his earthly hopes, and withered mortal love? <seg type="Reaction" subtype="Commemoration">Beneath this cross, dedicated to the memory of <seg type="Massacre" subtype="Casualties">an unfortunate band</seg>, our hearts are heavy with the memories that hang over it. Our little company is multiplied by their presence, and the communion with the departed will make Heaven more attractive to us.</seg>"</p>
+
+<p>They led her tenderly from the place, and started on their journey homeward. They camped that night near <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and as Lola stood in the door of her tent that evening, looking across
+the hills toward <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, her heart was filled with inexpressible sadness, as the thoughts of the place, with its history, passed through her mind. The next morning, as they
+
+<pb n="530" xml:id="mmm.fiction.gash.1899.541"/>
+
+were preparing to resume the journey, she requested that they go to the old prison, as she wanted to see Sally. Since Lola had been taken from the prison, Old Sally had felt her loneliness more keenly than ever before. She had longed to see Lola once more, and her joy knew no bounds when she learned from Lola that shehad been rescued from Lehman, and that Adrian had returned. From the association with Lola she had improved in every way, and when the company started to take their leave she begged Lola to take her with her, saying:&#8212;</p>
+
+<p>"My dear little gal, I ha'n't got much longer ter live here any way. This ol' place has been mighty lonesome 'thout yer bein' here. Its mighty hard ter think o' dyin' here alone, wi' nobody ter say narry kind word, ner put my poor ol' carcass in the groun'. Can't I go 'long wi' yer chile, ter be yer slave? I will work fer yer as long as these ol' hands has strength. I want ter worship God and his Son as yer teched me when yer war here. It war sich a conserlation ter my poor ol' soul, when yer used ter read ter me frum yer Bible; but I ha'n't furgot hit yit. Do take me gal, fer I want ter know more about hit.</p>
+
+<p>The sight of this aged and lonely woman, pleading, with the tears streaming down her wrinkled cheeks, to be taken from that awful place, filled all with pity. Lola was so affected, that she could not speak for a few moments; but finally she said:&#8212;</p>
+
+<pb n="531" xml:id="mmm.fiction.gash.1899.542"/>
+
+<p>"Yes, Sally, you may go; not as a slave, however; your life has already been too hard, and the time has now come when you can rest."</p>
+
+<p>Sally was so happy with the thought that she was leaving this place never to return, that she could scarcely make the necessary preparations for the journey. Lola assisted her, and advised her what she should do with her things. Sally took her little bundle of things that she wanted to take along, and rode with the driver in the supply wagon. When they reached the main road, she met a farmer and disposed of her cow and hogs for half their value and gave the farmer the remainder of the things she had left at the prison.</p>
+
+<p>The remainder of the trip was made without anything of an unusual character taking place. The evening meetings were continued, which helped to bring Lola out of the gloom into which she had fallen at <geogName type="valley" key="Mountain Meadow">Mountain Meadow</geogName>. These were great meetings for Sally, as she had never heard anything like Rev. Gray's teachings, except during the days when Lola was at the old prison
+with her.</p>
+
+<p>They arrived at Zion late in the evening of the 29th of August, and learned that the pure soul of the holy Prophet <persName key="Young, Brigham">Brigham Young</persName> had winged its flight to the celestial shore, where more than two hundred prominent women of the world's history awaited the coming of their partner for eternity (according to his revelations), as he had been
+
+<pb n="532" xml:id="mmm.fiction.gash.1899.543"/>
+
+sealed to them. His sweet and charming thirty-seven-fold widow was left to mourn the loss of her loving husband.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.cdt.18571112">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Horrible Massacre of Emigrants by Indians</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.cdt.18571112</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt>
+                <note type="summary">
+Largely reprinted from the Los Angeles Star of October 10, 1857; relying on J. Ward Christian's October 4 letter. 
+            </note>
+            </notesStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Horrible Massacre of Emigrants by Indians.</title>
+                    <title level="j">Chicago Daily Tribune</title>
+                    <author>Editor Daily Tribune</author>
+                    <publisher>Publisher Daily Tribune</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <date when="1857-11-12">1857-11-12</date>
+                </bibl>
+             </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term> 
+                </keywords>
+                <keywords scheme="original" n="culpability">
+                <term>Mormon and Indian</term>
+                </keywords>
+                <keywords scheme="original" n="sympathy">
+                <term>Non-Mormon</term>
+                </keywords>
+            </textClass>
+         </profileDesc>
+
+        <revisionDesc>
+            <change when="2011-06-16"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+            <change when="2008-04-08"><name>Leslie Working</name> Initial Encoding</change>
+            <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.cdt.18571112.001"/>
+
+<head>Horrible Massacre of Emigrants by Indians.</head>
+
+<opener><hi rend="center">[Correspondence of the Los Angeles (Cal.) Star.]</hi><lb/>
+
+<dateline>SAN BERNARDINO, Oct. 4, 1857.</dateline></opener>
+
+<p><seg type="Source" subtype="Christian">I take this opportunity of informing you of the murder of an <seg type="Massacre" subtype="Casualties"><seg type="Emigrants" subtype="StateAffiliationMissouri"><seg type="Emigrants" subtype="StateAffiliationArkansas">entire <seg type="Emigrants" subtype="Route">train of emigrants, on their way from <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Arkansas">Arkansas</placeName></seg></seg></seg> to <placeName type="state" key="Utah">this State</placeName>, via <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName></seg>; which took place, according to the best information I can possibly acquire, (which is, primarily, through Indians,) at the <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, which are at or near the Rim of the <geogName type="feature" key="Great Basin">Great Basin</geogName>, and some distance south of the most southern Mormon settlements</seg>, <seg type="Massacre" subtype="Dates">between the 10th and 12th ultimo.</seg> It is absolutely one of the most horrible massacres I have ever had the painful necessity of relating.</seg></p>
+
+<p><seg type="Source" subtype="Christian"><seg type="Emigrants" subtype="WagonTrain">The company consisted of <seg type="Massacre" subtype="Casualties">about 130 or 185 (sic) men, women, and children, and including some 40 or 45 capable of bearing arms</seg>. <seg type="Massacre" subtype="Spoils">They were in possession of quite an amount of stock, consisting of horses, mules and oxen.</seg></seg> <seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">The encampment was attacked about daylight in the morning, so say the <orgName type="native" key="Indian">Indians</orgName>, by the combined forces of all the various tribes immediately in that section of the country.</seg> It appears that the majority of them were slain at the first onset made by the <orgName type="native" key="Indian">Indians</orgName>. </seg></seg></p>
+
+<p><seg type="Source" subtype="Christian"><seg type="Massacre" subtype="Battle">The remaining force formed themselves into the best position their circumstances would allow: but before they could make the necessary arrangements for protecting themselves from the arrows, there were but few left who were able to bear arms. After having corralled their wagons, and dug a dutch (sic) for their protection they continued to fire upon the Indians for one or two days, but the Indians had so secreted themselves, that, according to their own statement, there was not one of them killed, and but few wounded. <seg type="Massacre" subtype="Surrender">They (the emigrants) sent them out a flag of truce, borne by a little girl; and gave themselves up to the mercy of the savages</seg>, who immediately rushed in and slaughtered all of them, with the exception of <seg type="Massacre" subtype="Survivors">fifteen infant children,</seg> that have since been purchased, with much difficulty, by the Mormon interpreters.</seg></seg></p>
+
+<p><seg type="Source" subtype="Christian">I presume it would be unnecessary for all practical purposes to relate the causes which gave rise to the above described catastrophe, from the simple fact that it will be attributed to the Mormon people, let the circumstances of the case be what they may. But it seems, from a statement which I received from Elders <persName key="Mathew, William">Wm. Mathew</persName>  and <persName key="Hyde, William">Wm. Hyde</persName>, who were in <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName> at the time the train was there, recruiting their &#8220;fit out;&#8221; and were on the road to this place at the time when they were murdered, but several days' journey in the rear&#8212;somewhere about the <geogName type="mountain" key="Beaver Mountains">Beaver Mountains</geogName>, which is between <placeName type="settlement" key="Parowan, UT">Parawan</placeName> and <placeName type="settlement" key="Fillmore City, UT">Fillmore</placeName> cities&#8212;that the causes were something like these: <seg type="Blame" subtype="EmigrantBehavior">The train camped at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, near <placeName type="settlement" key="Fillmore City, UT">Fillmore City</placeName>, where there is an Indian village, the inhabitants of which have raised a crop of wheat, and a few melons &amp;c. And <seg type="Encounter" subtype="TradeIndian">in trading with the Indians they gave them cash for wheat, and they not knowing the value of coin were severely cheated. They wanted a blanket for a sack of wheat, but they gave them fifty cents, and told them that amount would buy a blanket.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Christian"><seg type="Encounter" subtype="Poison">They also had an ox with them which had died, and they put strychnine in him, for the purpose of poisoning the Indians; also put poison of some description in the water, which is standing in holes. This occasioned several deaths among them, within a few days after the departure of the train.</seg> <seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansIndependently">And upon this, it seems, the Indians gathered themselves together and had no doubt chosen the place of attack, and arranged everything, before the train arrived at the place where they were murdered.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Christian">It was ascertained by some of the interpreters, from a few of the Indians who were left at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, that most of the Indians in the country had left; but they could not learn for what for purpose, and before any steps could be taken to ascertain for certain, what was the cause, the story was told-they were all killed.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

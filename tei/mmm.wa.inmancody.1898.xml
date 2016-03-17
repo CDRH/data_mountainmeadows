@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.inmancody.1898">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Great Salt Lake Trail</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>Henry</forename> <surname>Inman</surname> and </author>
+		    <author><forename>William</forename> <forename type="middle">F.</forename> <surname>Cody</surname> <addName>["Buffalo Bill"]</addName></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.inmancody.1898</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">The Great Salt Lake Trail</title>
+                    <author><forename>Henry</forename> <surname>Inman</surname> and </author>
+		    <author><forename>William</forename> <forename type="middle">F.</forename> <surname>Cody</surname> <addName>["Buffalo Bill"]</addName></author>
+                    <publisher>Crane &amp; Company</publisher>
+                    <pubPlace>Topeka, KS</pubPlace>
+                    <extent>135-162</extent>
+                    <date when="1898">1898</date>
+		    <note type="source">Henry Inman and William F. Cody. <hi rend="italic">The Great Salt Lake Trail</hi>.
+ Topeka, KS: Crane &amp; Company, 1914. 135-162.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2011-09-06"><name>Jaclyn Cruikshank Vogt"</name> Encoding Enhancement</change>
+            <change when="2010-08-03"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+
+<text>
+<body>
+<div1 type="chapter">
+ 
+<pb n="135" xml:id="mmm.wa.inmancody.1898.163"/>
+
+<head>CHAPTER VII</head>
+
+    <p><hi rend="center">Mountain Meadows Massacre&#8212;Indians Attack the Wagons&#8212;Lee Offers Protection&#8212;Ambushed by Lee&#8212;Lee Flies to the Mountains&#8212;Mormon Church Acquitted&#8212;Execution of John D. Lee&#8212;Temporary Toll-Bridges&#8212;Indian Raids on Cattle Ranches&#8212;Stuttering Brown&#8212;Graves Along the Trail</hi></p>
+
+<figure xml:id="www.wa.inmancody.1898.191.figure">
+<p>John D. Lee</p>
+<figDesc></figDesc>
+</figure>
+
+<p>T<hi rend="smallcaps">he</hi> most terrible fate that ever befell a caravan
+on the Old Trail was that known to history as the Mountain Meadows Massacre.</p>
+
+<p>The story of this damnable, outrageous, and wholesale murder is as follows:&#8212;</p>
+
+<p><seg type="Massacre" subtype="Dates">In the spring of 1857</seg> a
+band of emigrants numbering <seg type="Massacre" subtype="Casualties">one hundred and thirty-six</seg>, <seg type="Emigrants" subtype="StateAffiliationMissouri">from
+<placeName type="state" key="Missouri">Missouri</placeName></seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName></seg>, <seg type="Emigrants" subtype="Route">set out for
+Southern <placeName type="state" key="California">California</placeName></seg>. <seg type="Massacre" subtype="Spoils">The party had about
+six hundred head of cattle, thirty wagons, and thirty
+horses and mules. At least thirty thousand dollars worth
+of plunder was collected by the assassins after the
+massacre.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Owing to the impending war between the United States
+and the Mormons</seg>, <seg type="Encounter" subtype="TradeLDS">the Saints had been ordered not to
+furnish any emigrant trains with supplies.  In view of
+
+<pb n="136" xml:id="mmm.wa.inmancody.1898.164"/>
+    
+this fact the leaders of the train found it difficult to get
+provisions for the party after reaching the territory
+occupied by that sect. The party reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>
+and camped about the end of July, but finding the 
+Mormons in so unfriendly a mood, decided to break camp
+and move on. Continuing their journey, they proceeded
+to <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, thence to <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, where they obtained a
+scanty supply of provisions.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">Arriving at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, they succeeded in purchasing
+about fifty bushels of wheat, which was ground at a mill
+belonging to <seg type="Context" subtype="IndianRelationsLDS"><persName key="Lee, John D.">John D. Lee</persName>, formerly commander of the
+fort at <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>, but then Indian agent, and in charge of
+an Indian farm near <placeName type="settlement" key="Harmony, UT">Harmony</placeName>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Location">About thirty miles to the southwest of <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> are the
+<geogName type="valley" key="Mountian Meadows">Mountain Meadows</geogName>, which form the divide between
+the waters of the Great Basin and those which flow into
+the Colorado. At the south end of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, which 
+are four to five miles in length and one in width, but here
+run to a narrow point, is a large stream, the banks of
+which are about ten feet in height. Close to this stream
+the emigrants were encamped <seg type="Massacre" subtype="Dates">on the 5th of September</seg>,
+almost midway between two ranges of low hills some four
+hundred yards apart.</seg></p>
+
+<p><seg type="Massacre" subtype="Dates">It was Saturday evening</seg> when the trains encamped at
+<geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. On the Sabbath they rested, and at
+the usual hour one of them conducted divine service as
+had been their custom throughout the journey.</p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">At dawn on the following morning </seg>while the camp-fires
+were being lighted, <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">they were fired upon by Indians</seg>,
+or white men disguised as savages</seg>, and <seg type="Massacre" subtype="Casualties">more than twenty
+were killed or wounded</seg>, <seg type="Massacre" subtype="Spoils">their cattle having been driven
+off</seg> by the assailants who had crept on them under cover
+of darkness. The men now ran for their wagons, pushed
+them together so as to form a corral, and dug out the
+earth deep enough to sink them to the hubs; then in the
+
+<pb n="137" xml:id="mmm.wa.inmancody.1898.165"/>
+    
+centre of the enclosure they made a rifle-pit large enough
+to contain the entire company. Thereupon the attacking
+party, which numbered from three to four hundred, 
+withdrew to the hills, on the crest of which they built parapets,
+whence they shot down all who showed themselves outside 
+the intrenchment.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The emigrants were now in a state of siege, and had
+little hope of escape as all the outlets of the valley were
+guarded. Their ammunition was almost exhausted, many
+of their number were wounded, and their sufferings from
+thirst had become intolerable. Down in the ravine and
+within a few yards of the corral was the stream of water,
+but only after sundown could any of the precious liquid
+be obtained, and then at great risk, for <seg type="Blame" subtype="IndiansIndependently">this point was
+covered by the muskets of the Indians, who lurked all
+night among the ravines waiting for their victims</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Massacre" subtype="Surrender">On the morning of the fifth day of the siege</seg>, a wagon
+was seen approaching, accompanied by an escort of 
+Mormon soldiers. When near the intrenchment the company
+halted, and one of them, <persName key="Bateman, William">William Bateman</persName> by name, was
+sent forward with a flag of truce. In answer to this 
+signal a little girl, dressed in white, appeared in an open
+space between the wagons. Half-way between the 
+Mormons and the corral, <persName key="Bateman, William">Bateman</persName> was met by one of the 
+emigrants named <persName key="Hamilton">Hamilton</persName>, to whom he promised protection 
+for his party on condition that their arms were surrendered,
+assuring him that they would be conducted safely to <placeName type="settlement" key="Cedar City, UT">Cedar
+City</placeName>. After a brief interview each returned to his 
+comrades.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">It was arranged that <persName key="Lee, John D.">John D. Lee</persName> should conclude terms
+with the emigrants, and he immediately went into their
+camp. Bidding the men pile their arms into the wagon,
+<seg type="Blame" subtype="IndiansIndependently">to avoid provoking the Indians</seg>, he placed in them the
+wounded, the small children, and a little clothing.
+While thus engaged, a man rode up with orders from
+
+<pb n="138" xml:id="mmm.wa.inmancody.1898.166"/>
+    
+Major <persName key="Higbee, John M.">Higbee</persName>, an officer of the Mormon army, to hasten,
+as <seg type="Blame" subtype="IndiansIndependently">the Indians threatened to renew the attack</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">The emigrants were then hurried away, the men and
+women following the wagons, the latter in front. All were
+in single file, and on each side of them the militia were
+drawn up two deep, with twenty paces between their lines.
+Within two hundred yards of the camp, the men were
+halted until the women approached a copse of scrub-oak,
+about a mile distant, and near which, it appears, <seg type="Blame" subtype="IndiansIndependently">the
+Indians were in ambush</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">The men now resumed their march, the militia forming
+in single file, each one walking by the side of an emigrant,
+and carrying his musket on the left arm. <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">As soon as the
+women were close to the ambuscade, <persName key="Higbee, John M.">Higbee</persName>, who was in
+charge of the detachment, gave a signal, which had 
+evidently been prearranged, by saying to his command, "Do
+your duty"; and the horrible butchery commenced.</seg> <seg type="Massacre" subtype="Casualties">Most
+of the men were shot down at the first fire. Three only
+escaped from the valley; of these, two were quickly run
+down and slaughtered; the third was slain at Muddy
+Creek, some fifty miles distant</seg></seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">The women and those of the children who were on foot
+ran forward some two or three hundred yards, when they
+were <seg type="Blame" subtype="IndiansLDSInfluence">overtaken by Indians</seg>, <seg type="Blame" subtype="LDS_LDS">among whom were some
+Mormons in disguise</seg>. The women fell on their knees,
+and with clasped hands sued in vain for mercy, clutching
+the garments of their murderers. Children pleaded for
+life, but <seg type="Blame" subtype="IndiansLDSInfluence">the steady gaze of innocent childhood was met
+by the demoniac grin of the savages, who brandished over 
+them uplifted knives and tomahawks.</seg> Their skulls were
+battered in, or their throats cut from ear to ear, and, while
+still alive, the scalp was torn from their heads. Some of
+the little ones met with a more merciful death, one, an
+infant in arms, being shot through the head by the same
+bullet that pierced its father's heart. Of the women
+
+<pb n="139" xml:id="mmm.wa.inmancody.1898.167"/>
+    
+none were spared, and <seg type="Massacre" subtype="Survivors">of the children only those who were
+not more than seven years of age</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">To two of Lee's wagoners was assigned the duty, so
+called, of slaughtering the sick and wounded. Obeying
+their instructions, they stopped their teams and 
+despatched their unfortunate victims. Some were shot;
+others had their throats cut.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">The massacre was now completed, and after <seg type="Massacre" subtype="Spoils">stripping
+the bodies of all articles of value</seg>, Brother <persName key="Lee, John D.">Lee</persName> and his
+associates went to breakfast, returning after a hearty meal
+to bury their dead.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">It was a ghastly sight that met their eyes on their
+return, and one that caused even the assassins to shudder
+and turn pale. <seg type="Blame" subtype="IndiansIndependently">The bodies had been entirely denuded by
+the Indians. Some of the corpses were horribly mangled
+and nearly all of them scalped. The dead were piled in
+heaps in a ravine near by and a little earth thrown over
+them.</seg> This was washed off by the first rains, leaving the 
+remains to be devoured by wolves and coyotes.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">It was not until two years after the massacre that they
+were decently interred, by a detachment of United States
+troops sent for that purpose from Camp Floyd.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">On arriving at <geogName type="valley" key="Mountain meadows">Mountain Meadows</geogName>, the soldiers found
+skulls and bones scattered for the space of a mile around
+the ravine, where they had been dragged by the wolves.
+Nearly all of the bodies had been gnawed by those ghouls
+of the desert, so that few could be recognized, as their 
+dismembered skeletons were bleached by the sun. Many of
+the skulls had been crushed by the butts of muskets, or
+cloven with tomahawks; others were shattered by 
+firearms discharged close to the head.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">A few remnants of apparel, torn from the backs of
+women and children as they ran from their merciless 
+pursuers, still fluttered among the bushes, and near by were
+masses of human hair, matted and trodden in the earth.</seg></p>
+
+<pb n="140" xml:id="mmm.wa.inmancody.1898.168"/>
+
+<p><seg type="Reaction" subtype="Commemoration">Over the last resting-place of the victims was erected
+a cone-shaped cairn, twelve feet high. Against its 
+northern base was a slab of rough granite with the following
+inscription: "Here <seg type="Massacre" subtype="Casualties">120 men, women, and children</seg> were
+massacred in cold blood, <seg type="Massacre" subtype="Dates">early in September, 1857</seg>. <seg type="Emigrants" subtype="StateAffiliationArkansas">They
+were from <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg>" Surmounting the cairn was a cross
+of cedar, inscribed with the words: "Vengeance is mine; I
+will repay, saith the Lord."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The survivors of the awful slaughter were seventeen
+children, from two months to seven years of age, who
+were carried, on the evening of the massacre, by <persName key="Lee, John D.">John D.
+Lee</persName> and others to the house of <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, and 
+afterward placed in charge of Mormon families at various
+points in the territory. All of them were recovered in
+the summer of 1858, with the exception of one, who was
+rescued a few months later, and though thinly clad, they
+bore no marks of ill-usage. In 1859 they were conveyed
+to <placeName type="state" key="Arkansas">Arkansas</placeName>, the Congress of the United States having
+appropriated ten thousand dollars for their rescue and
+restoration to relatives.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Those concerned in the massacre had pledged
+themselves by the most solemn oaths to stand by each other,
+and ever <seg type="Blame" subtype="IndiansIndependently">to insist that the deed was done entirely by
+Indians. For several months this was the accepted theory,
+but when it became known that some of the children had
+been spared, suspicion at once pointed elsewhere, for
+among all the murders committed by the Utes, there was
+not a single instance of their having shown any such
+mercy.</seg> <seg type="Massacre" subtype="Spoils">Moreover, it was ascertained that an armed party
+of Mormons had left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and had returned with
+spoil, and that the savages complained of having been 
+unfairly treated in the division of the booty.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It is claimed that when <persName key="Lee, John D.">John D. Lee</persName> discovered that
+the United States authorities suspected him as being the
+principal actor in the awful tragedy, he left the valley of
+
+<pb n="141" xml:id="mmm.wa.inmancody.1898.169"/>
+    
+the Great Salt Lake, and hid himself in one of the ca&#241;nons
+of the Colorado,<hi rend="superscript">1</hi> where he remained for years suffering
+that terrible anxiety which comes to all fugitives from
+justice, sooner or later, and which is said by those who
+have experienced it to be absolutely unbearable.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="FederalInvestigation">In 1874, under the provisions of what is legally known
+as the "Poland Bill," whereby the better administration of
+justice was subserved, the Grand Jury was instructed to
+investigate the Mountain Meadows Massacre, and find bills
+of indictment against <persName key="Lee, John D.">John D. Lee</persName>, <persName key="Dame, William H.">William H. Dame</persName>,
+<persName key="Haight, Isaac C.">Isaac C. Haight</persName>, and others. Warrants were issued for
+their arrest, and after a vigorous search <persName key="Lee, John D.">Lee</persName> and <persName key="Dame, William H.">Dame</persName>
+were captured, <persName key="Lee, John D.">Lee</persName> having been discovered in a hog-pen
+at a small settlement on the Sevier River.</seg></seg></p>
+
+<p>On the 23d of July, 1875, the trial was begun, at
+<placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, in Southern <placeName type="state" key="Utah Territory">Utah</placeName>. Much delay ensued,
+however, by the absence of witnesses, and by the fact that
+<persName key="Lee, John D.">Lee</persName> had promised to make a full confession, and turn
+state's evidence. His statement was not accepted by the
+court, and the case was brought to trial on the 23d of
+July, with the expected result, that the jury, eight of
+whom were Mormons, failed to agree.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">Lee</persName> was then tried a second time, and it was proved
+that the Mormon Church had nothing to do with the
+massacre ; that <persName key="Lee, John D.">Lee</persName>, in fact, had acted in direct opposition
+
+<note type="footnote"><hi rend="superscript">1</hi> He took refuge in the Grand Ca&#241;on of the Colorado River; his hiding-place was three miles from any possible pass, and he kept a faithful 
+adherent constantly on guard. When any one was seen approaching the
+pass, <persName key="Lee, John D.">Lee</persName> was immediately signalled and forthwith repaired to a cave,
+where he remained until it was discovered whether the intruder was
+friend or foe. If not a friend, he kept to his cave until the party had
+left, then returned to his house. <persName key="Lee, John D.">Lee</persName> followed this life for five or six
+years, until he became so weary of dodging, and running from supposed
+enemies, that he finally returned to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. I saw his cave and
+house some years ago when, in company with General <persName key="Miles, N. A.">N. A. Miles</persName> and
+others, I made a pleasure trip to the Grand Ca&#241;on. —<persName key="Cody, William F.">W. F. C<hi rend="smallcaps">ody</hi></persName>.</note>
+
+<pb n="142" xml:id="mmm.wa.inmancody.1898.170"/>
+
+to the officers of the Church. <seg type="Massacre" subtype="Casualties">It was shown that he was
+a villain and a murderer of the deepest dye; that with
+his own hands, <seg type="Massacre" subtype="Surrender">after inducing the emigrants to surrender
+and give up their arms</seg>, he had shot two women and
+brained a third with the butt-end of his musket, and had
+cut the throat of a wounded man whom he had dragged
+from one of the wagons</seg>; <seg type="Massacre" subtype="Spoils">that he had gathered the
+property of the emigrants and disposed of it for his own
+benefit.</seg> <seg type="Massacre" subtype="Casualties">It was further proved that <persName key="Lee, John D.">Lee</persName> shot two or
+three of the wounded, and that <seg type="Blame" subtype="IndiansLDSInfluence">when two girls, who had
+been hiding in the brush, were brought into his presence
+by an Indian after the massacre, the latter asked what
+was to be done with them, to which <persName key="Lee, John D.">Lee</persName> replied, "They 
+are too old to be spared." "They are too pretty to be
+killed," answered the chief. "Such are my orders," said
+<persName key="Lee, John D.">Lee</persName>, whereupon the Indian shot one</seg>, and <persName key="Lee, John D.">Lee</persName>, dragging
+the other to the ground, cut her throat.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">Lee</persName> was convicted of murder in the first degree, and,
+having been allowed to select his own method of 
+execution, was sentenced to be shot. The case was appealed
+to the supreme court of <placeName type="state" key="Utah Territory">the territory</placeName>, but the judgment
+was sustained, and it was ordered that the sentence be
+carried into effect on the 23d of March, 1877. The
+others who had been tried were discharged from custody.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">A short time before his execution <persName key="Lee, John D.">Lee</persName> made a
+confession in which he attempted to palliate his guilt by
+throwing the burden of the crime on his accomplices,
+especially on <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John M.">Higbee</persName>, and to show that the
+massacre was committed by order of <persName key="Young, Brigham">Brigham Young</persName> and
+the High Council, all of which was absolutely false.</seg></p>
+
+<p>On the 13th of March he wrote: "I feel as composed
+and as calm as a summer morning. I hope to meet my
+fate with manly courage. I declare my innocence. I 
+have done nothing designedly wrong in that unfortunate
+and lamentable affair with which I have been implicated.
+
+<pb n="143" xml:id="mmm.wa.inmancody.1898.171"/>
+
+I used my utmost endeavours to save them from their sad
+fate. I freely would have given worlds, were they at my
+command, to have averted that evil. Death to me has no
+terror. It is but a struggle, and all is over. I know
+that I have a reward in heaven, and my conscience does
+not accuse me."</p>
+
+<p><seg type="Massacre" subtype="Aftermath">Ten days later he was led to execution at the
+<geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. Over that spot the curse of the Almighty
+seemed to have fallen. The luxuriant herbage that had
+clothed it twenty years before had disappeared; the
+springs were dry and wasted, and now there was neither
+grass nor any green thing, save here and there a copse of
+sage-brush or scrub-oak, that served but to make its
+desolation still more desolate. It is said that the 
+phantoms of the murdered emigrants still flit around the cairn
+that marks their grave, and nightly re&#235;nact in ghastly
+pantomime the scene of this hideous tragedy.</seg></p>
+
+<p>About ten o'clock on the morning of the 23d a party of
+armed men, alighting from their wagons, approached the
+site of the massacre. Among them were the United
+States marshal, <persName key="Nelson, William">William Nelson</persName>, the district attorney, a
+military guard, and a score of private citizens. In their
+midst was <persName key="Lee, John D.">John Doyle Lee</persName>. Blankets were placed over
+the wheels of one of the wagons, to serve as a screen for
+the firing party. Some rough boards were then nailed
+together in the shape of a coffin, which was placed near
+the edge of the cairn, and upon it <persName key="Lee, John D.">Lee</persName> took his seat until
+the preparations were completed. The marshal now read
+the order of the court, and, turning to the prisoner, said,
+"Mr. <persName key="Lee, John D.">Lee</persName>, if you have anything to say before the order of
+the court is carried into effect you can do so now."</p>
+
+<p>Rising from his coffin, he looked calmly around for a
+moment, and then with unfaltering voice repeated the
+statements already quoted from his confession. "I have
+but little to say this morning," he added. <seg type="Blame" subtype="LDS_LDSLeadership">"It seems I
+
+<pb n="144" xml:id="mmm.wa.inmancody.1898.172"/>
+
+have to be made a victim; a victim must be had, and I
+am the victim. I studied to make <persName key="Young, Brigham">Brigham Young</persName>'s will
+my pleasure for thirty years. See now what I have come
+to this day! I have been sacrificed in a cowardly, 
+dastardly manner. I cannot help it; it is my last word; it
+is so. I do not fear death; I shall never go to a worse
+place than I am now in. I ask the Lord my God, if my
+labours are done, to receive my spirit."</seg></p>
+
+<p>A Methodist clergyman, who acted as his spiritual
+adviser, then knelt by his side and offered a brief prayer,
+to which he listened attentively. After shaking hands
+with those around him, he removed a part of his 
+clothing, handing his hat to the marshal, who bound a 
+handkerchief over his eyes, his hands being free at his own
+request. Seating himself with his face to the firing party,
+and with hands clasped over his head, he exclaimed:
+"Let them shoot the balls through my heart. Don't let
+them mangle my body."</p>
+
+<p>The word of command was given, the report of the
+rifes rang forth on the still morning air, and without a
+groan or quiver the body of the criminal fell back 
+lifeless on his coffin.</p>
+
+<p>God was more merciful to him than he had been to his
+victims.<hi rend="superscript">1</hi></p>
+
+<!-- Remaining Section Not Relevant to Mountain Meadows
+
+<p>Once one of Russell, Majors, &amp; Waddell's trains, upon
+arriving at the Little Blue River below Kearney, en route
+to Fort Laramie, had a little skirmish with the Sioux.
+One of the party, who was going to the Fort to erect a
+sawmill for the government,<hi rend="superscript">2</hi> tells about it as follows: &#8212;</p>
+
+<p>"I had travelled ahead of the train a mile or more, had
+gotten off my mule, laid down awhile, and I believe fell
+asleep. On awaking I saw three Indians coming out of
+the brush on the creek bottom; I took a glance at them,
+
+-->
+
+<note type="footnote"><hi rend="superscript">1</hi> See Bancroft's <hi rend="italic">Pacific States</hi>.</note>
+<note type="footnote"><hi rend="superscript">2</hi> Washington E. Hinman.</note>
+           
+<!-- Remaining Section Not Relevant to Mountain Meadows
+
+<pb n="145" xml:id="mmm.wa.inmancody.1898.173"/>
+
+and quietly stood where I was. After a while they 
+approached me; I mounted my mule and held my loaded
+shot-gun before me across the saddle, with my finger on
+the trigger. Two formed themselves in front of me and
+one behind. I paid no special attention to them, but they
+immediately began to make signs in relation to swapping
+their horses for my mule. I merely pointed to the U. S.
+on the shoulder of the animal, indicating that it was not
+my property. They quickly saw they couldn't scare me,
+though I didn't know but what they were making up
+their minds to kill me; finally, however, without any 
+further demonstration they 
+rode off one at a time,
+and left me, where I 
+remained until my train
+came up.</p>
+
+<figure xml:id="mmm.wa.inmancody.1898.173.figure">
+<p>Hairy Bear.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>"When we made camp 
+that afternoon a good-
+sized band of Cheyennes 
+and Arapahoes gathered 
+around with their usual 
+salutations of 'How? 
+How?' I suggested to 
+the wagon-master to 
+boil some old coffee-
+grounds after we had 
+eaten our dinner, and 
+with some sugar and 
+crackers or something 
+of that character, give 
+them to the Indians, which was done. In the afternoon
+we moved out on the road toward Kearney and ahead of
+us was a train going unloaded to the same place. As
+we strung out on the trail I noticed that the chief of
+the band, I think he was known as 'Hairy Bear' of the
+
+<pb n="146" xml:id="mmm.wa.inmancody.1898.174"/>
+Cheyennes, and all of his warriors were riding along,
+one opposite nearly every driver. I told the wagon-
+master that he had better stop the train and tell the
+Indians they must take either one end of the road or the
+other, as it was evident they were getting ready for a row.
+Upon discovering that we were 'up to' their little job,
+they went ahead.</p>
+
+<p>"At dark, after we had encamped again, the assistant
+wagon-master of the train in front came to us and told of
+a little scrap he had with these same Indians. One of
+them at first undertook to snatch the handkerchief off his
+neck; another Indian had shot two or three arrows
+after a teamster, then they rode off.</p>
+
+<p>"Our train went on five miles, where we were going to
+camp, when a messenger was sent by the commanding
+officer at the fort suggesting that the two caravans camp
+together, which we did. In the morning, when we
+started out, I rode ahead on my mule as usual, and when
+I had got about half-way to the fort I saw the white
+shoulder-blade of a buffalo setting up on end about fifty
+yards from the road. I rode out and picked it up; it was
+standing on end with a little wisp of grass wrapped
+around it; on the face of it were three men painted red.
+The broad end of the blade in the ground was marked
+out like a fort, with little black spots, meaning tracks of
+soldiers, and a man in black was there with his rifle
+drawn, and resting across one of the red men's necks.
+Another was shot below the shoulder-joint, and one had
+his arm broken. Painted in red, right up toward the
+joint, was a wolf trotting from it. This indicated that the
+Indians had had a fight; three of them had been wounded,
+one in the back, one in the neck, and one had his arm
+broken. There were also three spears, the points of
+which were stuck in the ground, indicating that three
+Indians were dead and had no more use for the weapons.</p>
+
+<pb n="147" xml:id="mmm.wa.inmancody.1898.175"/>
+
+<p>"I took the bone to the fort and there the interpreter
+told what it all meant. I discovered it to be a valuable 
+history of what was going on: the Cheyennes and Arapahoes
+who had been with us had separated; the Arapahoes had
+gone away and tried to steal some ponies; they would be 
+along pretty soon. All this occurred after the Arapahoes
+had separated from the Cheyennes. The latter had placed
+the shoulder-blade of the buffalo on the trail, to prevent
+their making the mistake of going to the fort, where,
+after their trouble with the train, the soldiers would 
+make it hot for them; but as I had found their message
+first, their plan was frustrated.</p>
+
+<p>"Later on the Indians came to the fort, and one of the
+teamsters who had been wounded happened to be there,
+and he picked out the very Indian who had shot him.
+The commanding officer directed the sergeant of the
+guard to arrest the savage, which he did, and proceeded
+to put him in irons. While fastening on a ball and
+chain, the Indian struck the soldier on the head who was
+holding him. Upon this the commanding officer told one
+of the guards to shoot him, which the man did very
+promptly. The bullet went clear through the Indian,
+and shot one of the interpreter's fingers off. After this
+little incident, there was a general free-for-all fight, in
+which the Indians were badly worsted. After this battle
+the Indians went south and were not troublesome for
+some time."</p>
+
+<p>When the snow began to melt from the mountain peaks
+in the spring the little insignificant creeks swelled up and
+for a few weeks were transformed into raging torrents,
+too deep or too dangerous to ford. At such seasons the
+few ranchmen who were in the country built temporary
+bridges across them, hardly ever exceeding fifty feet in
+length. While the streams were high, these bridges
+were a veritable gold—mine from the revenue paid by
+
+<pb n="148" xml:id="mmm.wa.inmancody.1898.176"/>
+
+the freighters as toll. In order, however, to make their
+toll lawful, every bridge-owner was required to possess
+himself of a charter from the secretary of the territory,
+and approved by the governor. This official document
+simply authorized the proprietor to charge such toll as he
+saw fit, which was always extravagantly high,&#8212;usually
+five dollars for each team of six yoke of cattle and
+wagon. These ranchmen also kept an assortment of
+groceries and barrels of whiskey, for the latter of which
+the teamsters were always liberal customers.</p>
+
+<p>It very often happened, through ignorance of the law
+or from ignoring it, that these ranchmen took out no
+charter, because its possession was so rarely questioned.</p>
+
+<p>At the trail-crossing of Rock Creek was one of these
+frontier toll-bridges. In the spring of 1866 two trains
+were travelling in company, one in charge of a man
+known as Stuttering Brown, because of an impediment
+in his speech. He was a man of undoubted 
+courage, and determined. When angry, he indulged in
+some of the quaintest and wittiest original expressions
+imaginable; but if you laughed at him, he became very
+much offended, as he was particularly sensitive about the
+impediment of his speech. Still, he was a man who 
+appreciated a joke, and enjoyed it even if it was upon
+himself.</p>
+
+<p>Brown's train comprised twenty teams, and the other
+twenty-six. His train happened to be in the lead that
+day, and as they neared the bridge, Brown rode back to
+the other wagon-master and said:&#8212;</p>
+
+<p>"B-B-Billy, wh-what are you g-g-going to do about
+p-p-paying t-t-toll on this b-b-bridge?"</p>
+
+<p>He answered that if the fellow had a charter, he would
+be compelled to pay; otherwise he would not, as probably
+the charges were exorbitant. Brown argued they might
+have some trouble with the ranchman if pay was refused,
+
+<pb n="149" xml:id="mmm.wa.inmancody.1898.177"/>
+
+as they generally had a pretty tough crowd around them
+who were ready for any kind of a skirmish.</p>
+
+<p>His friend called attention to the fact that together
+they had fifty-five men, well armed on account of
+probable Indian troubles. They were all good fighters,
+and they would ask for no greater fun than cleaning out
+the ranch, if it was discovered that the proprietor had
+no charter.</p>
+
+<p>Brown returned to the bridge, where the ranchman
+stood preparing to collect his toll, which was five dollars
+a team in advance. This would require one hundred 
+dollars from Brown and a hundred and thirty from the other
+train. Brown refused point blank to pay the bill, and
+the ranchman asked him upon what grounds.</p>
+
+<p>Brown's reply was:&#8212;</p>
+
+<p>"Y—Y-You h-h-haint g-g-got no ch—ch-charter." The
+ranchman answered him that he had, and if he would go
+back to the ranch with him, he would show it. The
+ranch was only a few hundred yards away.</p>
+
+<p>Brown accompanied him, and in a short time returned
+to the train. His friend asked him if the charter was
+all right, to which Brown replied in the affirmative, 
+saying that he had settled for his outfit, and that his friend
+had better do the same, which he accordingly did.</p>
+
+<p>After crossing the bridge, the other wagon-master
+noticed that Brown was very much amused about 
+something, occasionally indulging in loud bursts of laughter.
+His friend inquired the cause of his mirth, but he refused
+to tell.</p>
+
+<p>When they arrived at the camping-ground that 
+evening, and after corralling the trains and placing out the
+proper guards, Brown invited his friend to take supper
+with him. While eating he was asked what had so
+amused him during the afternoon. He said that when
+he went up to the ranch to see the bridge charter, he
+
+<pb n="150" xml:id="mmm.wa.inmancody.1898.178"/>
+
+rode to the door, sat on his mule, and asked the ranchman
+to trot out his charter and be d&#8212;d quick about it.</p>
+
+<p>The man went into a back room and pretty soon returned, shouting:&#8212;</p>
+
+<p>"You stuttering thief, here it is! What do you think
+about it?"</p>
+
+<p>Brown looked up and found that he was peering into
+the muzzle of a double-barrelled gun, probably loaded
+with buck-shot. The ranchman was pointing it directly
+at his head, with both triggers cocked. Brown saw he
+was in earnest, and asked if that was the charter. The 
+ranchman replied that it was.</p>
+
+<p>His friend then asked, "What did you do, Brown?"</p>
+
+<p>"N-N-Not much. J-J-Just t-t-told him, th-th-that's
+good, and settled."</p>
+
+<p>Some years afterward, when Brown was part owner and
+superintendent of the Black Hills stage-line, he was 
+waylaid and killed by the Indians, while on a return trip
+from Custer City. Thus ended the career of one of the
+bravest and best of the men on the frontier.</p>
+
+<p>One of the most famous of temporary toll-ferries was
+over the trail-crossing of Green River. It was owned by
+Bill Hickman, a Mormon, and as the river was seldom
+fordable he reaped a rich harvest of gold from the 
+emigrant trains. His prices for crossing teams depended
+upon the ability of their owners to pay, varying from five
+to twenty dollars each. The old ford may still be seen
+just below the station of Green River on the Union 
+Pacific Railroad.</p>
+
+<p>During the preparation for the Mormon war the supply-
+trains of the government were constantly harassed by
+that people. The genius of campaigning by destroying
+trains was Major Lot Smith. One evening, at the head
+of forty men, after riding all night, he came in sight of a
+westward-bound government train. On coming up to it
+
+<pb n="151" xml:id="mmm.wa.inmancody.1898.179"/>
+
+he ordered the drivers to turn round and go back on their
+trail. They obeyed promptly, but as soon as Smith was
+out of sight, they wheeled around and travelled west
+again. During the day a party of Mormon troops passed
+them, and taking all of the freight out of the wagons, left
+them standing there.</p>
+
+<p>Smith was afterward informed by his scouts that a 
+caravan of twenty-six wagons was approaching. Upon this
+information he halted his men and, after eating, started
+again at dusk, approached the train while it was in camp
+at a place near Simpson's Hollow, and ambushed his
+party for several hours. Meanwhile, he learned that
+there were two trains, each of twenty-six wagons; but in
+fact as was afterward discovered there were really three
+of seventy-five wagons in all.</p>
+
+<p>About midnight, while only a few of the teamsters
+were gathered around their camp-fire, some of them
+drinking, some smoking, they suddenly saw what seemed
+to be an endless procession of armed and mounted men
+emerge from the darkness.</p>
+
+<p>Smith, quietly coming up, asked for the captain of the
+outfit, whose name was Dawson. As a majority of the 
+teamsters were asleep, their guns fastened to the covers
+of the wagons, and any resistance almost hopeless, 
+Dawson stepped forward, surrendered, and told his men to
+stack their arms and group themselves on a spot 
+designated by Smith. Smith dealt successively with the other
+trains in like manner. Then, after lighting two torches,
+he handed one of them to a Gentile in his party, known
+as Big James, remarking at the same time, "It is 
+eminently proper for a Gentile to spoil a Gentile."</p>
+
+<p>Riding from wagon to wagon, Smith's men set fire to
+the covers, which rapidly caught in the crisp mountain
+air, and were soon all ablaze. Dawson, meanwhile, was
+ordered by Smith to the rear of the trains to take out
+
+<pb n="152" xml:id="mmm.wa.inmancody.1898.180"/>
+
+provisions for his captors, and when everything was fairly
+burning he and his party rode away, first informing his
+panic-stricken captives that he would return as soon as
+he had delivered the provisions to his comrades near by,
+and instantly shoot any one who should make any attempt
+to extinguish the flames.</p>
+
+<p>The destruction of these supply-trains was a severe
+blow to the army of occupation; both troops and animals
+suffered severely in consequence of the loss of provisions.</p>
+
+<p>The year 1865 was fruitful of Indian depredations
+along the Old Trail, particularly that portion which ran
+through the Platte Valley. The Sioux and Cheyennes
+allied themselves in large bands against the whites, and
+raided the beautiful region from one end to the other.
+Theirs was a trail of blood like that of Attila, "The
+Scourge," and their fiendish acts rivalled those of that
+monster of the Old World.</p>
+
+<p>On the south side of the Platte River, about a hundred
+and twenty-five miles from Denver, were located, 
+successively, three ranches, known as the Wisconsin, the 
+American, and Godfrey's.</p>
+
+<p>On the morning of the 19th of January, of the year above
+mentioned, a company of cavalry, marching from Denver,
+passed along by the Wisconsin Ranch a little before nine
+o'clock. As the Indians were on the war-path, and upon
+request of the proprietor, the captain of the company
+promised to send back ten men of his troop, to help defend
+the property, as they were going to their station a few
+miles east of there.</p>
+
+<p>The cavalry had hardly disappeared from view across
+the divide when the savages began their attack. The
+captain of the cavalry, hearing the continuous firing, 
+immediately returned with his command, and at once a fierce
+battle took place a short distance from the ranch. The
+troops retreated and went into camp at Valley Station.</p>
+
+<pb n="153" xml:id="mmm.wa.inmancody.1898.181"/>
+
+<p>There were seven white persons living on the ranch
+at that time: Mr. Mark M. Coad, P. B. Danielson, his
+wife and two children, besides two hired men. They
+fought the Indians until five o'clock in the afternoon
+without any outside assistance, and had killed several.
+About noon the savages set fire to the haystack and stable,
+which caused a dense smoke to settle over the house in
+which the besieged were sheltered.</p>
+
+<p>As the fight progressed, the Indians seemed determined
+to have the building at any hazard; so they cut a large
+amount of wood and piled it against the back door, with
+the intention of burning it down so as to gain an entrance.
+The door was blockaded with sacks of grain, to prevent
+the bullets from coming into the room, and while the
+savages were placing the wood on the outside, the men
+quietly removed the sacks of grain. When the besiegers
+were ready to kindle the fire, the door was swung open,
+and Mr. Coad, springing to the opening as it swung back,
+killed three of the Indians, and wounded several more with
+his two pistols, then jumped back and the door was closed.</p>
+
+<p>The daring act was performed so quickly that the
+savages were instantly demoralized. They dared not
+return the shots for fear of killing some of their own
+party who were attempting to enter the house.</p>
+
+<p>After the door was again closed the Indians regained
+their senses, and a perfect shower of bullets rained against 
+the house. The savages, now discouraged from the 
+suddenness and effect of Mr. Coad's attack, and the loss of
+so many of their number, retreated to their camp and
+hostilities ceased for the time.</p>
+
+<p>While this battle was in progress at the Wisconsin
+ranch, another fight was going on at the American
+ranch, twelve miles east. This ranch was occupied by
+the Messrs. Morrissey, one of whom had his wife, two
+children, and six or eight hired men.</p>
+
+<pb n="154" xml:id="mmm.wa.inmancody.1898.182"/>
+
+<p>It was subsequently shown that the men must have
+fought very desperately, as they were found locked arm
+in arm with the savages, holding their pistols or knives in
+their hands. The ranch was looted of its valuables and
+burned. The whites were all killed, excepting Mrs. 
+Morrissey and her two children, who were taken prisoners
+and carried off by the Indians, but shortly afterward were
+surrendered to the government. Early in the morning of
+the same day the Indians attacked the Godfrey ranch.
+There were living there Mr. Godfrey, better known as
+Old Ricket; his wife; his daughter, a girl of fourteen
+years; and two other white men.</p>
+
+<p>They fought the savages for several hours, and finally,
+seeing that they stood no chance of capturing the place,
+the Indians determined to burn it; so they set fire to the
+haystack which stood near the building. After the 
+Indians had lighted the stack, Mr. Godfrey's little daughter
+rushed out of the door with a bucket of water, 
+extinguished the flames, and returned safely into the house, 
+notwithstanding the shower of bullets and arrows that rained
+all around her.</p>
+
+<p>The Indians just then, somehow learning that the
+American ranch had been taken, and there was a chance 
+for them in the division of the spoils, withdrew all their
+force and went down there.</p>
+
+<p>From there they went on to the Wisconsin ranch,
+which had not been captured, for the purpose of 
+re&#235;nforcing the besieging party at that place. The besieged had
+succeeded in sending a messenger during the day to the
+commanding officer of the troops at Valley Station, asking
+for assistance to enable them to get away from the ranch,
+well knowing that the savages would return in the 
+morning with re&#235;nforcements. The captain sent up a 
+detachment of fifteen men, and escorted the people of the ranch
+down to the Station. The next morning Mr. Coad, with
+
+<pb n="155" xml:id="mmm.wa.inmancody.1898.155"/>
+    
+a detachment of troops as escort, and several wagons,
+started for the purpose of taking away the goods to a
+place of safety. When approaching the ranch they
+found it in the possession of the Indians; and the troops,
+seeing the strength of the savage force, knew that it would
+be worse than useless to attempt to drive them away; so
+they returned to the Station. Thus three of the finest
+ranches on the trail at that time were destroyed.</p>
+
+<p>One of the most disastrous and effectual raids by the
+savages during the year 1865 was the burning and 
+sacking of Julesburg, which was within rifle-shot of Fort 
+Sedgwick, on the South Platte River, in what is now Weld
+County, Colorado.</p>
+
+<p>There the government established a military 
+reservation, comprising sixty-four square miles, in the exact
+centre of which the fort was located. The reservation
+extended across the river, and included the mouth of Pole
+Creek, a small tributary of the Platte, which debouches
+into it from the north.</p>
+
+<p>The original Julesburg, at that time,<hi rend="superscript">1</hi> was a mere 
+hamlet of crude frame buildings, and but for the proximity of
+Fort Sedgwick it would have been destroyed long before
+it was.</p>
+
+<p>On the morning of the 2d of February, the men at the
+stage station, called Julesburg, discovered a small band of
+Indians in the valley to the east of them, who were
+evidently out on the war-path, as they had all their 
+paraphernalia on, were finely mounted, hideously painted, and
+profusely decorated with feathers. Possessing a fair
+knowledge of the savage character and rightly conceiving
+the intention of the savages, the station employees 
+
+<note type="footnote"><hi rend="superscript">1</hi> The present Julesburg, until a few years ago, was called "Denver Junction"; the old town was situated a mile west on the opposite side of
+the river, and the Julesburg of 1867 was five miles farther west, north of
+the Platte, and is now known as Weir.</note>
+
+<pb n="156" xml:id="mmm.wa.inmancody.1898.184"/>
+
+incontinently left for the fort for safety, and to give the alarm
+of the presence of the Indians.</p>
+
+<p>Captain O'Brien, who was in command of Fort 
+Sedgwick, had already had some experience in savage warfare;
+and, although his force was extremely small, immediately
+upon receipt of the intelligence that hostile Indians were
+in the vicinity and that the overland stage station was in
+danger, he sounded boots and saddles. Thirty-five soldiers
+re&#235;nforced by volunteer citizens were soon on the trail of
+the savages, led by the gallant captain.</p>
+
+<p>The government scouts had that morning reported that
+there were no Indians near, and consequently no 
+apprehension of danger entered the minds of either soldier or
+civilian; little did they surmise that just out of sight
+over the divide more than two thousand of the painted
+devils were hiding.</p>
+
+<p>The small band of savages that had entered the valley,
+and which had been first seen by the station men, were
+pursued for some distance, when they separated and rode
+out into the sand-hills. At almost the same instant, while
+the soldiers were after them, swarms of savages began to
+pour into the valley in the rear of the troops, about a
+half a mile west of them. They soon massed in great
+numbers, and rapidly closed every avenue of escape,
+riding in bands and giving vent to the most horrid 
+war-whoops and unearthly yells as they saw their vantage.</p>
+
+<p>Captain O'Brien ordered his troopers to dismount, and,
+enjoining his men to keep cool, to make every shot tell, 
+turned upon the Indians and opened fire where they were
+thickest. There ensued one of the most sanguinary
+struggles, considering the few soldiers engaged, that the
+plains have ever witnessed.</p>
+
+<p>"Load and fire at will" was the order, and the 
+repeating rifles of the soldiers made awful havoc; the slaughter
+immediately in front of the white men was indeed terrible,
+
+<pb n="157" xml:id="mmm.wa.inmancody.1898.185"/>
+    
+and the Indians, demoralized at the manner in which their
+ranks were being decimated, hurriedly fell back. This
+permitted the troops to make considerable advance in the
+direction of the fort before they again halted.</p>
+
+<p>Pressed on each flank and in rear, the troops were 
+compelled to divert their fire to those points, but when the
+progress of the savages was again stayed, they once more
+concentrated their shots where they were densely massed
+in front. It appeared as if every ball found its victim.
+The discharges were so rapid, and the aim so careful, that
+the Indians had to give way before it, permitting the
+soldiers to advance once more. Thus they fought step
+by step, with great loss, but brave to the last degree.</p>
+
+<p>It was a fortunate matter that the savages were armed
+principally with bows and arrows, there being very few
+rifles among them. Had it been otherwise, had the
+Indians been armed with repeating rifles, as were the
+whites, it is probable that not a single soldier would 
+have been left to tell the story. The Indians filled the
+air with flights of arrows, but woe to the Indian who
+came within range of the deadly rifles! Many shafts
+with spent force fell harmlessly among the soldiers.
+Many inflicted slight wounds, and some were fatal.
+Some of the whites were killed by bullets, some by
+arrows.</p>
+
+<p>Re&#235;nforcementsfrom the fort finally opened an avenue
+of escape for the remaining whites, and eighteen of the
+forty men who went out in the morning came back; the
+rest were killed, scalped, and mutilated by the savages!
+Their bodies, however, were recovered and buried on the
+side of the bluff just south of the fort, and headboards
+with appropriate inscriptions mark the final resting-p1ace
+of each.</p>
+
+<p>When they found that a part of their prey would
+escape, the Indians began to turn their attention to
+
+<pb n="158" xml:id="mmm.wa.inmancody.1898.186"/>
+    
+pillaging at the stage station. One house contained a
+general assortment of groceries and outfitting goods.
+These they loaded upon their ponies and carried over
+the river. They then disappeared among the hills, 
+leaving all the buildings on fire.</p>
+
+<p>The stage company had a large amount of grain and
+supplies stored at the station. These were burned, and a
+treasure-coach with fifty thousand dollars in money was
+captured.</p>
+
+<p>As soon as Captain O'Brien reached the fort, he ordered
+out the field-pieces and commenced shelling the enemy.
+Being a very expert gunner, he directed the fire of the
+guns so effectively as to kill a large number of savages.
+A crowd of redskins had gathered round some open boxes
+of raisins and barrels of sugar, when a shell burst in the
+midst of them, killing thirteen, as was afterward admitted
+by some of the Indians present. They also admitted the
+loss of more than a hundred warriors during the fight.</p>
+
+<p>In January, 1867, Mr. J. F. Coad, now of Omaha, had
+a contract with the United States army to supply all
+the government military posts between Julesburg and
+Laramie with wood. He left home about the 17th of the
+month, and was escorted by a company of soldiers, who
+were en route to Fort Laramie, as far as forty miles
+beyond Julesburg, where he left them, and proceeded up
+Pole Creek, thence to Lawrence's Fork, where his men
+and wagons were, to commence work on his contract.</p>
+
+<p>On the morning after his arrival at his wagon-camp,
+Mr. Coad and three of his employees, while loading wood
+about a mile and a half from camp, were attacked by
+about forty Indians, who came charging down the valley
+and prevented their retreat to the ranch. Seeing that
+they were entirely cut off and without any hope of 
+assistance, they immediately concluded that their only 
+escape from death was to run for their lives, and get back
+
+<pb n="159" xml:id="mmm.wa.inmancody.1898.187"/>
+    
+into the hills, if possible, believing that on account of the
+steep and rugged trail the savages could not pursue them.</p>
+
+<p>It was fearfully cold, the thermometer ranging about
+twenty-five degrees below zero. Just as they started to
+put their plan in motion, another band of Indians was
+coming up the valley. These joined the others, and bore
+down on the white men.</p>
+
+<p>On arriving at the base of the hill up which the white
+men were climbing, the Indians dismounted and started
+on foot after them. Seeing their tactics, Mr. Coad and
+his companions took off all their superfluous clothing and
+threw it away, notwithstanding the severity of the 
+temperature. One of the men, in passing near a ledge of
+rock, discovered a hiding-place under it, dropped down
+and crawled in, filling his tracks with dirt as he backed
+into the cave. The Indians in trailing the party passed
+by this rock, returned to it, and held a council. They
+then went back to their horses. The other white men
+secreted themselves in a ca&#241;on, built a fire, and there
+remained until long after dark.</p>
+
+<p>Left in the wagon-camp were three other men, who had
+a hard fight with the Indians from about eleven o'clock
+in the morning until three in the afternoon. They were
+inside of the cabin, and managed to keep the savages at a
+safe distance by firing at them through the crevices 
+whenever they came within rifle-shot. The Indians kept
+riding in a circle around the cabin for several hours, and,
+finding they could not dislodge the three brave men, they
+abandoned the attempt, after losing one of their ponies,
+which received a rifle-bullet in his foreleg.</p>
+
+<p>Some of the wood-choppers who had been at work a
+mile and a half up the valley also had an exciting 
+experience during the day with the savages, but came out 
+unharmed.</p>
+
+<p>After the entire party of white men assembled in camp
+
+<pb n="160" xml:id="mmm.wa.inmancody.1898.188"/>
+
+that night, a council was held, and it was determined to
+send a messenger to the commanding officer of the post
+at Julesburg, stating the condition of affairs and the
+number of Indians supposed to be in the vicinity.</p>
+
+<p>The next morning Mr. Coad and his men gathered
+what cattle they could find, intending to leave for the
+fort. They started, got on top of the divide, and
+camped for the night. A raging blizzard set in, one of
+those terrible storms of snow and wind characteristic of
+the region, and the cattle sought shelter from the fearful
+weather by returning to the valley which they had left
+the day before, and where there was plenty of timber.
+The party was able, however, to hold a few head. So they
+hitched them up to the mess-wagon and returned to their
+old camp, intending to wait until the messenger they had
+sent to the fort should arrive with troops; but they were
+not sure he had gone safely through.</p>
+
+<p>The next morning Mr. Coad started east on the divide
+on the only horse the Indians had left him, and about nine
+o'clock that night he met Lieutenant Arms, of the Second
+Cavalry, in command of Company E of that regiment.</p>
+
+<p>Lieutenant Arms told him that he had met a large
+war-party of savages about four o'clock that afternoon,
+and was detained fighting them until after dark, when
+they disappeared and went south, at a point about ten
+miles west of Sidney. Lieutenant Arms had captured
+several head of cattle and two of Mr. Coad's horses from 
+the Indians in this engagement.</p>
+
+<p>Mr. Coad returned with the troops to the camp on
+Lawrence's Fork, arriving there at two o'clock in the
+morning. The temperature that night was thirty degrees
+below zero, and the troops suffered terribly from the 
+extreme cold during their march. After arriving in the 
+timber and getting something to eat, all turned in in their
+blankets and rested until daylight the next morning. As
+
+<pb n="161" xml:id="mmm.wa.inmancody.1898.189"/>
+
+soon as breakfast was disposed of, the command started
+on their return march, crossed the divide which they had
+travelled over the previous night, and at three o'clock
+in the morning reached Pole Creek, where they rested
+until daylight. As soon as the day dawned they started
+south, endeavouring to find the trail of the Indians. The
+weather was extremely cold, the thermometer ranging
+about thirty degrees below zero. In the afternoon, while 
+on the divide, the snow being very deep, the command
+was completely lost, and wandered aimlessly for several
+hours, not knowing which course to take. Finally, when
+it was nearly dark, they came within sight of Pole Creek,
+immediately recognized the locality, and were saved.</p>
+
+<p>At night, after travelling all the next day, they reached
+a ranch about thirty-five miles west of Julesburg, where
+they stopped and were made comfortable. It was 
+discovered, after the command had thawed out, that out of
+thirty-six men thirty were more or less frozen; some had
+frozen noses, some their ears, some their toes, and two
+had suffered so badly their feet had to be amputated. On
+the following day an ambulance arrived from Julesburg,
+to bring in the men who were in the worst condition.
+Those who were able mounted their horses and reached
+the post all right.</p>
+
+<p>During those early years, before the growth of the
+great states beyond the Missouri, a mighty stream of 
+immigration rushed onward to the unknown, illimitable
+West. Its pathway was strewn with innumerable graves
+of men, women, and little children. Silence and oblivion 
+have long since closed over them forever, and no one can
+tell the sad story of their end, or even where they lay
+down. Occasionally, however, the traveller comes across
+a spot where some of these brave pioneers succumbed to
+death. One of the most noted of these may be seen
+about two miles from the town of Gering, on the Old
+
+<pb n="162" xml:id="mmm.wa.inmancody.1898.190"/>
+
+Trail, in what is now known as Scott's Bluffs County,
+Nebraska. Around the lonely grave was fixed a wagon-
+tire, and on it rudely scratched the name of the occupant
+of the isolated sepulchre, "Rebecca Winter," and the 
+date, 1852. The tire remains as it was originally placed,
+and, as if to immortalize the sad fate of the woman, many
+localities in the vicinity derive their names from that on
+the rusty old wagon tire: "Winter Springs," "Winter
+Creek Precinct," and the "Winter Creek Irrigation
+Company"!</p>
+
+<figure xml:id="mmm.wa.inmancody.1898.190.figure">
+<p>Julesberg 1865</p>
+<figDesc></figDesc>
+</figure>
+-->
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.slt.18721108">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The People's Column <q>"Mountain Meadows Massacre"</q></title>
+		<title level="m" type="sub"></title>
+		    <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.slt.18721108</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+	 	<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Salt Lake Tribune</title>
+		    <title level="a" type="main">The People's Column <q>"Mountain Meadows Massacre"</q></title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Salt Lake City, UT</pubPlace>
+		    <date when="1872-11-08">November 8, 1872</date>
+		    </bibl>
+	    </sourceDesc>
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+        <change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>Validation</change>
+        <change when="2010-04-27"><name>Kelsey F. Harris</name>Initial Encoding</change>
+        <change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+    
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.slt.18721108.001"/>
+
+<head>The People’s Column</head>
+    
+<head><q>“MOUNTAIN MEADOWS MASSACRE”</q></head>
+    
+<dateline>Salt Lake City, Nov. 5, 1872</dateline>
+    
+<p>Editor Salt Lake Tribune:&#8212;</p>
+    
+<p><seg type="Blame" subtype="LDS_LDS">Of all the persons either immediately or remotely connected with the massacre <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> who could testify to ex-Governor <persName key="Young, Brigham">[Brigham] Young’s</persName> complicity in, and responsibility for that horror, <persName key="Smith, George A.">Geo. A. Smith</persName> is that man. <seg type="Encounter" subtype="TradeLDS">There is no denying the fact that the weary and way-worn company were ordered to break up their camp at the <geogName type="waterway" key="Jordan River">Jordan [River]</geogName> before they had time to replenish their stores, or even to partially rest and recruit their jaded teams.</seg> It is undeniable that after they had started upon <seg type="Emigrants" subtype="Route">their southern course which ended at <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, in <placeName type="county" key="Iron County, UT">Iron county</placeName>, Utah</seg></seg>, <persName key="Smith, George A.">George A. Smith</persName> passed them in his carriage on a <q>“mission”</q> to the southern settlements, and particularly <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, the residence of Col. <persName key="Dame, William H.">[W.H.] Dame.</persName> It is un-deniable that this same <persName key="Smith, George A.">George A. Smith</persName>, upon that trip, did stop at <seg type="Emigrants" subtype="Route">the several settlements through which this company must and did pass</seg>, and that he did exhibit and read, or caused to be read, a paper purporting to have been written by Governor <persName key="Young, Brigham">Young</persName>, in which the people of said settlements were advised and counseled (which was equivalent to an absolute order) to a full and complete non-intercourse with said company; and that this same <persName key="Smith, George A.">George A. Smith</persName>, Brigadier General and Aid-de-Camp to the Commander-in-chief of the Territorial militia, addressed large public meetings during that trip, the spirit of which was hostile to the peace and welfare of the emigrant travelers. There are persons now living in Southern <placeName type="state" key="Utah Territory">Utah</placeName> who have a distinct recollection of that trip of <persName key="Smith, George A.">Geo. A.</persName>’s, and of some of the things he said, and of the paper here referred to, who in the recent past have recommunicated these facts to certain parties. It is also a fact well known that this aide-de-camp was at Col. <persName key="Dame, William H.">Dame</persName>’s headquarters during the siege of the emigrant’s camp and <seg type="Massacre" subtype="Surrender">the slaughter which followed their surrender</seg>; that he was there when Col. <persName key="Dame, William H.">Dame</persName>’s messenger from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and Major <persName key="Lee, John D.">Lee</persName>’s from the battle ground simultaneously entered Col. <persName key="Dame, William H.">Dame</persName>’s office; the one bearing an uncertain message, the other announcing that the slaughter had been accomplished and that <persName key="Smith, George A.">he [G.A.S.</persName>] immediately returned to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, traveling day and night. It certainly was advisable, in view of the re-election of President <persName key="Grant, Ulysses S.">[U.S.] Grant</persName> and the probability of a full investigation of the Mountain Meadow horror, the disgrace of <placeName type="state" key="Utah Terrtiory">Utah</placeName> and the shame of Gov. <persName key="Young, Brigham">Young</persName>’s administration, that this high priest of the (professed) New Dispensation of the Gospel of the Divine Saviour should be sent upon a foreign mission involving great probable hardships which he is physically incapable of enduring, and dangers which he is illy prepared to overcome.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">If I am right in this surmise, then it is possible that other missionaries may be needed whose presence in Utah would be very undesirable at a certain time to come. But, sir, there are witnesses who tho’ dead yet live; tho’ mute, yet speak, and their testimony is conclusive that the skirts of ex-Governor <persName key="Young, Brigham">Young</persName> are not clear in this bloody matter. What those testimonies are is not for me now to write; but to show that this assertion is truthful, I will give an example: The Iron Manufacturing Company at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> was at the time of the massacre in full blast, and there was a store in that city belonging to the company. Governor <persName key="Young, Brigham">Young</persName> was one of the principal stock-holders in that company. <seg type="Massacre" subtype="Spoils">Now at the October conference, 1857, held at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, directly after the massacre, <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, the superintendent of the company’s works, with a large drove of the emigrant’s cattle appeared in the city, and traded them off to a prominent merchant for merchandise for this store. There can be no question that this merchant’s books will show this transaction, and living witnesses are ready to swear that the cattle so traded off had been the property of the murdered emigrants. As to the remainder of the emigrant property, it was by Governor <persName key="Young, Brigham">Young</persName> turned over to the care of Major <persName key="Lee, John D.">J. D. Lee</persName>, to be disposed of as he (<persName key="Lee, John D.">Lee</persName>) might think proper. There is a witness now living and will testify that he was present when the Governor gave <persName key="Lee, John D.">Lee</persName> the charge of that property as last above stated.  The Gov. <persName key="Young, Brigham">Young</persName> did not at that time know of the massacre, even to the most harrowing details, is impossible. That he did not know that those cattle were a part of the herd of the emigrants’ which had but a short time previously passed through the streets of the city, is equally impossible. It is true he tried to be very prudent in this matter. He shut himself up in his room, and it was reported shed tears when <persName key="Smith, George A.">Geo. A.</persName> brought him the report from Parowan. It was further reported that he refused to receive the tithes of the emigrants’ spoils: but his avarice overcame at last, and a large amount of this ill-gotten property went to replenish his store at the iron works. <persName key="Smith, Joseph">Joseph</persName> once told <persName key="Young, Brigham">Brigham</persName> in <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, <q>“That greed of gain would yet send him to hell.”</q></seg></seg> More anon.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

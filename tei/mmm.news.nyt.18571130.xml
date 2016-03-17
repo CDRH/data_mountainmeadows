@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18571130">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Arrival of the Northern Light</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.nyt.18571130</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2010</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+	  	    <title level="j">New York Times</title>
+                    <title level="a" type="main">ARRIVAL OF THE NORTHERN LIGHT.</title>
+                    <author></author>
+                    <publisher></publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent></extent>
+                    <date when="1857-11-30">November 30, 1857</date>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2012-04-24"><name>Jaclyn Cruikshank Vogt</name> Additional Transcription and Encoding</change>	       
+            <change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2010-02-16"><name>Kelsey F. Harris</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18571130.001"/>
+
+<head type="main">ARRIVAL OF THE NORTHERN LIGHT.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">$1,750,000 in Treasure</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">TWO WEEKS LATER FROM CALIFORNIA</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">Complicity of the Mormons in the Late Emigrant Massacre.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">Further Outrages by the Mormons and Their Indian Allies.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">Immense Mass Meeting in San Francisco on the Loss of the Central America.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">THE FINANCIAL CRISIS IN CALIFORNIA.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">Progress of the War Between Costa Rica and Nicaragua.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">INTERESTING FROM NEW-GRANADA.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">Two Weeks Later from the South Pacific.</head>
+<milestone unit="section" rend="horbar"/>
+    <head type="sub">RECEPTION OF THE U.S. MINSTER TO CHILI.</head>  
+<milestone unit="section" rend="horbar"/>
+    
+<p><seg type="Coverage" subtype="California">The most important news from <placeName type="state" key="California">California</placeName> by this arrival is the display before the public of a large amount of evidence, going to show that the <seg type="Emigrants" subtype="WagonTrain">party of 118 immigrants</seg>, <seg type="Massacre" subtype="Location">massacred in the southern part of <placeName type="state" key="Utah Territory">Utah</placeName></seg> while <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg> &#8212; news of which occurrence was received by the last mail &#8212; <seg type="Blame" subtype="LDS_LDS">were murdered by Mormons</seg>. We publish full particulars on the second page of this morning’s issue.</seg></p>
+
+    <gap reason="irrelevant" />
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18571130.002"/>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">NEWS FROM CALIFORNIA</hi></hi><lb/>
+<milestone unit="horbar" />
+
+<hi rend="bold"><hi rend="center">The Immigrant Massacre&#8212;Mormon Complicity.</hi></hi><lb/>
+
+<hi rend="center"><hi rend="italic">From the San Francisco Bulletin</hi></hi></p>
+
+<p>By the steamer <hi rend="italic">Senator</hi>, which arrived on the 27th from ports on the Southern Coast, we have files of <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName> papers to the 24th October, and from <placeName type="settlement" key="San Diego, CA">San Diego</placeName> to 17th of October. The only information of importance is in relation to the Indian troubles on the Plains. The news, published on the arrival of the last steamer, of the massacre of <seg type="Massacre" subtype="Casualties">over one hundred immigrants</seg>, is fully confirmed. The evidence establishing <seg type="Blame" subtype="LDS_LDS">the complicity of the Mormons</seg> in this outrage, is now sufficient to banish all doubt on that subject. We refer our readers to the statements published below.</p>
+
+<p><hi rend="center">INDIGNATION MEETING AT LOS ANGELES.</hi></p>
+	
+<p>We learn from the Los Angeles <hi rend="italic">Star</hi> that a mass meeting of citizens was held in that city on the 12th October to investigate the facts in the recent massacre, <seg type="Massacre" subtype="Location">on the Salt Lake road</seg>, of <seg type="Massacre" subtype="Casualties">more than one hundred Americans</seg>. The meeting was organized by the election of <persName key="Whitman, George N.">GEORGE N. WHITMAN</persName>, Chairman, and Mr. <persName key="Peterson, W. H.">W. H. PETERSON</persName>, Secretary. The object of the meeting was stated by Mr. <persName key="Chapman, Charles">CHARLES CHAPMAN</persName>.</p>
+
+<p><persName key="Wallace, W. A.">Mr. W. A. WALLACE</persName> then read the following statement of <persName key="Powers, George">Mr. GEORGE POWERS</persName>, of <placeName type="settlement" key="Little Rock, AR">Little Rock, Ark.</placeName>, who had just arrived across the Plains. <persName key="Powers, George">Mr. POWERS</persName> says, on his arrival, last August, at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>:</p>
+
+<p><hi rend="center">TESTIMONY OF GEORGE POWERS AS TO THE MASSACRE AND MORMON COMPLICITY.</hi></p>
+
+    <p><seg type="Context" subtype="UtahWar"><seg type="Source" subtype="Attributed_Powers">We found the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> making very determined preparations to fight the United States troops, whenever they may arrive. On our way in, we met three companies of 100 men each, armed and on the road towards the pass above <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>. I was told at <placeName type="military_post" key="Fort Bridger">Fort Bridger</placeName>, that at Fort Supply, twelve miles this side of <placeName type="settlement" key="Fort Bridger">Fort Bridger</placeName>, there were 400 armed Indians awaiting orders; they also said that there were 60,000 pounds of flour stored at <placeName type="settlement" key="Fort Bridger">Fort Bridger</placeName> for the use of their army. We found companies drilling every evening in the city. The Mormons declared to us that no U.S. troops should ever cross the mountains; and they talked and acted as if they were willing to take a brush with Uncle Sam.</seg></seg></p>
+
+    <p><seg type="Source" subtype="Attributed_Powers">We remained in <placeName type="settlement" key="Salt Lake City">Salt Lake</placeName> five days, and then pushed on, hoping we might overtake <seg type="Emigrants" subtype="WagonTrain">a larger train, which had started ten days ahead of us</seg>, and which proved to be the train that was massacred. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Slander">We came on to <placeName type="military_post" key="Buttermilk Fort">Buttermilk Fort</placeName> near the lone cedar, 175 miles, and found the inhabitants greatly enraged at the train which had just passed, declaring that they had abused the Mormon women, calling them w&#8212;s, &amp;c, and letting on about the men.</seg> The people had refused to sell that train any provisions, and told us they were sorry they had not killed them there; but, they knew it would be done before they got in.</seg> <seg type="Context" subtype="IndianRelationsLDS">They stated further, that they were holding the Indians in check until the arrival of their chief, when he would follow the train and cut it in pieces.</seg></seg></p> 
+
+    <p><seg type="Source" subtype="Attributed_Powers">At <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, we found plenty of <orgName type="native" key="Pahvant">Indians</orgName>, who were all peaceable and friendly. <seg type="Emigrants" subtype="Route">We learned nothing of the train, except that it had passed that place several days before,</seg> and we were glad to find we had gained so much on them. <seg type="Emigrants" subtype="Route">The next place where we heard of the train was on our arrival at <placeName type="settlement" key="Beaver,UT">Beaver</placeName>, 230 miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>.</seg> <seg type="Encounter" subtype="Poison">Here we learned that when the train ahead were camped at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, which was 35 miles back, and at which place we found the Indians so friendly, an ox died, and the <orgName type="native" key="Pahvant">Indians</orgName> asked for it. <seg type="Encounter" subtype="Poison">Before it was given to them, a Mormon reported that he saw an emigrant go to the carcass and cut it with his knife, and as he did so, would pour some liquid into the cut from a phial. The meat was eaten by the <orgName type="native" key="Pahvant">Indians</orgName>, and three of them died, and several more were sick and would die.</seg></seg> <seg type="Encounter" subtype="Slander">The people of <placeName type="settlement" key="Beaver, UT">Beaver</placeName> seemed also to be incensed against the train, for the same reason as before reported.</seg> <seg type="Encounter" subtype="Poison">I asked an Indian, at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, if there was any truth in the poisoned meat story; he replied in English, that he did not know, that several of the <orgName type="native" key="Pahvant">Indians</orgName> had died and several were sick. He said <cb n="2" />their water-melons made them all sick, and he believed that the Mormons had poisoned them.</seg></seg></p>
+
+    <p><seg type="Source" subtype="Attributed_Powers">While waiting here, the train of <persName key="Mathews, William">WM. MATHEWS</persName> and <persName key="Tanner, Sidney">SIDNEY TANNER</persName> of <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> came up, and I made arrangements to come on with them. We came on to <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and <seg type="Massacre" subtype="Location">here we learned that the train ahead had been attacked by the Indians, at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, 50 miles from <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and had returned upon their road five miles to a spring, and fortified themselves.</seg> We then drove out of <placeName type="settlement" key="Parowan, UT">Parowan</placeName> five or six miles, and camped at what is called the <geogName type="feature" key="the Summit">Summit</geogName>.</seg></p>
+
+    <p><seg type="Source" subtype="Attributed_Powers">Next morning an express arrived from Mr. <persName key="Dame, William">DAME</persName>, President of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, requesting us not to proceed any further that day, if we pleased; also that <persName key="Mathews, William">MATHEWS</persName> and <persName key="Tanner, Sidney">TANNER</persName> should return to <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and bring me along with them. We returned, and a council was held, at which it was advised by Mr. <persName key="Dame, William">DAME</persName>, that I should go back to my own train, as they did not wish to have strangers in their train. He also stated, that at 2 o'clock that morning, <seg type="Blame" subtype="IndiansIndependently">he had received an express from the train ahead, stating they were surrounded by Indians, who had killed <seg type="Massacre" subtype="Casualties">two or three of their number</seg></seg>, and asking for assistance. While we were talking, an express came in from <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, stating that the Indians had attacked my train in the streets of that place, and were fighting when he left. One reason given was, that ten miles the other side of <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, an emigrant train had shot an Indian, which greatly enraged them; that the people of <placeName type="settlement" key="Beaver, UT">Beaver</placeName> went out in the night and brought the emigrants in, and were followed by the Indians, who made the attack after their arrival.</seg></p>
+
+<p>From this statement to <persName key="Powers, George">Mr. POWERS</persName>, it appears that the attack was commenced on <seg type="Massacre" subtype="Dates">the 14th of September</seg>. Mr. <persName key="Dame, William H.">DAME</persName>, a Mormon, told him he could raise a company and rescue the train <seg type="Blame" subtype="IndiansIndependently">from the Indians</seg>, but he "<hi rend="italic">dared not disobey the Council</hi>." Continues Mr. <persName key="Powers, George">POWERS</persName>:</p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Blame" subtype="LDS_LDS">On Saturday, at twelve o'clock we left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. About the middle of the afternoon, we met the four men who were sent out the night previous, returning in a wagon. <persName key="Mathews, William">MATHEWS</persName> and <persName key="Tanner, Sidney">TANNER</persName> held a council with them, apart, and when they left, <seg type="Source" subtype="Attributed_TannerMathews"><persName key="Mathews, William">MATHEWS</persName> told me the entire train had been cut off</seg>; and, as it was still dangerous to travel the road, they had concluded it was better for us to pass the spot in the night. We continued on, without much conversation, and about midnight met Mr. <persName key="Dame, William">DAME</persName>, (I did not know that he had left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>,) and three other white men, coming from the scene of slaughter, <seg type="Blame" subtype="IndiansLDSInfluence">in company with a band of some twenty Indian warriors</seg>. One of the men in company with Mr. <persName key="Dame, William">DAME</persName>, was Mr. <persName key="Haight, Isaac">HAIGHT</persName>, President of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. <seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Aftermath">Mr. <persName key="Dame, William">DAME</persName> said they had been out to see to the burying of the dead; but the dead were not buried. From what I heard, I believe the bodies were left lying naked upon the ground, having been stripped of their clothing <seg type="Blame" subtype="IndiansLDSInfluence">by the Indians</seg>.</seg></seg> <seg type="Massacre" subtype="Spoils">These Indians had a two-horse wagon, filled with something I could not see, as blankets were carefully spread over the top</seg>. The wagon was driven by a white man, and <seg type="Blame" subtype="IndiansLDSInfluence">beside him, there were two or three Indians in it</seg>. <seg type="Massacre" subtype="Spoils">Many of them had shawls, and bundles of women's clothes were tied to their saddles. They were also all supplied with guns or pistols, besides bows and arrows. The hindmost Indians were driving several head of the emigrants' cattle.</seg> <seg type="Context" subtype="IndianRelationsLDS">Mr. <persName key="Dame, William">Dame</persName> and Mr. <persName key="Haight, Isaac">Haight</persName>, and their men, seemed to be on the best of terms with the Indians, and they were all in high spirits, as if they were mutually pleased with the accomplishment of some desired object. They thronged around us, and greeted us with noisy cordiality. We did not learn much from them.</seg> <seg type="Massacre" subtype="Location">They passed on, and we drove all night in silence, and at daylight camped, and were told we were three miles beyond the scene of slaughter</seg>.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers">Mr. POWERS continues to give the particulars of his journey through the Indian country. His train secured the services of a Mormon, named <persName key="Hatch, Ira">HATCH</persName>, an Indian missionary, who, for compensation agreed to come through with the train, and protect them from the Indians, calling himself an "interpreter." One day Mr. <persName key="Hatch, Ira">HATCH</persName> started ahead of the train to go to the Muddy. He continues:</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers">When the train had nearly reached the <geogName type="waterway" key="Muddy River">Muddy River</geogName>, they met <persName key="Hatch, Ira">HATCH</persName> returning, in company with two young men, brothers YOUNG, horse thieves, who were escaping form justice in <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, having been assisted in getting away by those who had them in custody. <seg type="Massacre" subtype="Survivors">Mr. <persName key="Hatch, Ira">HATCH</persName> stated that when he reached the <geogName type="waterway" key="Muddy River">Muddy</geogName>, he found the young boys in company with an emigrant, who had escaped the massacre. That on his arrival, there was not an Indian in sight, and that he had to give the whoop to call them from concealment. He said, in continuation, without appearing to notice the discrepancy, that on his arrival he found the Indians hotly pursuing the three men; and that they jumped upon the emigrant, and killed him before his eyes, before he could interfere to prevent it.</seg> He said that he threw himself between the boys and Indians, and had a great difficulty in saving them. The Indians were in a great excitement, as he said, but that as <persName key="Mathews, William">MATHEWS</persName> and <persName key="Tanner, Sidney">TANNER</persName> were Mormons, they could pass without any danger.</seg></p>
+
+    <p><seg type="Source" subtype="Attributed_Powers">When they arrived at the <geogName type="waterway" key="Muddy River">Muddy</geogName>, they found 30 or 40 Indians, and the mail-riders from <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, who had come in that morning. <seg type="Context" subtype="IndianRelationsUS"><seg type="Context" subtype="IndianRelationsLDS">The Indians were very friendly, and shook hands with everybody. No expression of hostility to Americans was heard, but this was accounted for on the ground that this was a Mormon train.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="LDSApostates"><persName key="Powers, George">Mr. POWERS</persName> and his train arrived at <placeName type="county" key="San Bernardino County, CA">San Bernardino</placeName>, and he was advised by Mr. <persName key="Mathews, William">MATHEWS</persName>, who, he learned, was a President or Elder in that place, not to associate with the damned apostates; that they were cut-throats of the worst character. If he wished, they would give him constant work at their mill in the mountains, and he must be careful not to talk too much of what he had seen.</seg> <seg type="Blame" subtype="LDS_LDSRetribution">While in <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, he heard many persons express gratification at the massacre. At the church services on Sunday, Capt. <persName key="Hunt, Jefferson">HUNT</persName> occupied the pulpit, and, among other things, he said that the hand of the Lord was in it; whether it was done by white or red skins, it was right! <seg type="Context" subtype="LDSPersecution">The prophesies concerning <placeName type="state" key="Missouri">Missouri</placeName> were being fulfilled, and they would all be accomplished.</seg> <seg type="Context" subtype="UtahWar"><persName key="Mathews, William">Mr. MATHEWS</persName> said the work had just begun and that it should be carried on until Uncle Sam and all his boys that were left should come to Zion and beg for bread.</seg></seg></p>	
+
+<p>After hearing the reading of this and other coroboratory statements, the meeting was addressed by Dr. <persName key="Andrews, ">ANDREWS</persName>, Messrs. <persName key="Sparks, A. S.">SPARKS</persName>, <persName key="Margradge,">MARGRADGE</persName>, <persName key="Chapman, Charles">CHAPMAN</persName> and others. A committee of four, consisting of Messrs. <persName key="Sparks, A. S.">A. S. Sparks</persName>, <persName key="Wallace, W. A.">W.A. WALLACE</persName>, Dr. <persName key="Andrews, ">ANDREWS</persName> and <persName key="Twich, W. W.">W. W. TWICH</persName>, were appointed to draft resolutions, and the meeting adjourned until the next day.</p>
+
+<p><hi rend="center">RESOLUTIONS OF THE MEETING.</hi></p>
+
+<p>On the 13th October the meeting convened again, when the Convention reported the following preamble and resolutions, which were adopted unanimously:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><hi rend="italic">Whereas</hi>, After a careful examination into all the circumstances connected with the late horrible massacre in <placeName type="state" key="Utah Territory">Utah Territory</placeName>, we firmly believe the atrocious act was perpetrated by the Mormons, and their allies, the Indians</seg>; and</seg></p>
+
+<p><hi rend="italic">Whereas</hi>, We, perceive the rapidly gathering clouds of trouble, caused by a long, undisturbed, systematized course of thefts, robberies and murders, promoted and sanctioned by their leader and head prophet, <persName key="Young, Brigham">BRIGHAM YOUNG</persName>, together with the Elders and followers of the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormon Church</orgName>, upon American citizens, whom necessity had compelled to pass through their Territory; aware of their bitter hostility to our Republican Government, and all its institutions; their rejection, insult, oppression; and in some cases murder, of the Federal officers, sent by the President to enforce the laws of the United States; <seg type="Reaction" subtype="MilitaryRetaliation"><seg type="Reaction" subtype="FederalInvestigation">believing that the late massacre in cold blood of <seg type="Massacre" subtype="Casualties">one hundred and eighteen persons, included in which number were sixty women and children</seg>, <seg type="Context" subtype="WesternViolence">is but a commencement of a series of such fiendish atrocities, that the many emigrant trains now on their way from the Western States to <placeName type="state" key="California">California</placeName>, are liable to meet the same fate unless speedy measures are taken by the Government of the United States, the tide of emigration by this route will be entirely stopped.</seg></seg></seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation"><hi rend="italic">Therefore, be it resolved</hi>, That we respectfully petition the President of the United States to exert the authority vested in him by the Constitution, that prompt measures may be taken for the punishment of the authors of <seg type="Massacre" subtype="Casualties">the recent appalling and wholesale butchery of innocent women and children.</seg></seg></p>
+
+<p><hi rend="italic">Resolved</hi>, That as there are at the present time a large community of Mormons residing in the adjoining <placeName type="county" key="San Bernardino County, CA">county of San Bernardino</placeName>, many of whom are living in open violation of one of the most important and sacred laws of our State,</p>
+
+<p><hi rend="italic">Be it resolved</hi>, That we hereby respectfully request the Chief Executive of this State enforce its laws upon the people.</p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence"><hi rend="italic">Resolved</hi>, That we hold ourselves ready at all times to respond to the call of the proper authorities to assist, if necessary, in enforcing obedience to the laws.</seg></p>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="bold"><hi rend="center">Another Train Attacked-Mormon Rebellion.</hi></hi></p>
+
+<p><seg type="Context" subtype="UtahWar"><persName key="Honea, S. B.">S. B. Honea</persName>, of <placeName type="county" key="Franklin County, AR">Franklin County</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>, recently arrived at <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>. He left home on the 9th of May last for <placeName type="state" key="California">California</placeName>. He saw nothing of armed bands till they reached Fort Bridger, in <placeName type="state" key="Utah Territory">Utah Territory</placeName>. Here they saw a large quantity of provisions stored, a considerable number of Indians encamped all around the fort, and heard the people genearlly speaking of making preparations <cb n="2" />
+
+to go out and meet General HARNEY. At Fort Bridger, he was told by a merchant that at Fort Supply over 400 Indians were encamped, awaiting orders to attack the United States Troops. About thirty miles front Fort Bridger he met three companies of men, generally mounted, and all well armed, having abundance of baggage, their wagons being numbered in messes.</seg> Mr. HONEA says he also here had a conversation with one of the Mormon soldiers, an Englishman, who, camping; with the company, grew very communicative over the camp-fires. The substance of this conversation, Mr. <persName key="Honea, S. B.">HONEA</persName> reports as follows:</p>
+
+<p><seg type="Context" subtype="UtahWar">He referred in bitter terms to the treatment the Mormons had received in <placeName type="state" key="Illinois">Illinois</placeName> and <placeName type="state" key="Missouri">Missouri</placeName>, reflected an the unjustness and tyranny of the people of the United States, and said that the time was come to get even. He said they were on their way to meet General HARNEY, to see what he was comoing for; "if he was coming peaceably, we will let him come, but if not, we will drive him back," were the words used. Another Mormon, named KILLION, an old man, who lives nitwit seven miles front <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, spoke bitterly against the United States, denounced,Judge DRUMMOND, and all the Federal officers, and rejoiced that the time had come when the Saints would be avenged on their enemies&#8212;that men were found who could face the enemy, and that HARNEY, with his 2,500 men, never would enter Salt Lake City. He also stated that Governor <persName key="Young, Brigham">BRIGHAM YOUNG</persName> had ordered the people to prepare for war; that they should not sell emigrants anything: that they must lay up provisions; that the men and women must not not dtress up in store clothes any more, but that all must be saved to forward the cause of the Church against the common enemy&#8212;that the men must be content with buckskin instead of broadcloth, and have plenty of guns and ammunition.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">On the 17th August, Mr. <persName key="Honea, S. B.">HONEA</persName> passed through the City of Salt Lake. Remined only three or four hours. Had a conversation with a merchant, a Gentile, who stated that on the previous Sunday BRIGHAM YOUNG  had declared, in the Temple, that henceforce Utah was a separate and Independent Territory, and owed no obedience or allegiance to form or laws but these of their own enactment, end called upon the people to stand together and support him in maintaining the cause of God and the Church. Was told that the house of GILBERT &amp; GARRISON had orderse from BRIGHAM to pack up adn leave before  the 1st of November.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS"><seg type="Context" subtype="IndianRelationsLDS">During all the residue of this journey the train of Mr. <persName key="Honea, S. B.">HONEA</persName> was harassed by the Indians. They hired repeatedly Mormon guides, or "interpreters," as protection against the savages, and for this purpose expended $1,815; but found that the wretches were acting the traitors' part, and seemed inclined rather to setting the Indians on to attack, than to protecting them. Two men in a train that joined them, Captain TURNER and Mr. COLLINS, were shot end seriously wounded while in the Mormon train of Beaver, by the Indians. While near the Muddy, the Indians made another attack upon Mr. <persName key="Honea, S. B.">HONEA</persName>'S train, and run off 375 head of cattle.</seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

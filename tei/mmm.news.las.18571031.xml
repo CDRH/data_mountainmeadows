@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571031">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Late Outrages On The Plains&#8212;Another Account</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571031</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Los Angeles Star</title>
+		    <title level="a" type="main">The late Outrages On The Plains&#8212;Another account.</title>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <date when="1857-10-31">October 31, 1857</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+		</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-02-18"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.las.18571031.001"/>
+    
+    <head type="main">The late Outrages On The Plains&#8212;Another account.</head>
+
+<p>The following communication has been handed us for publication, and we give it insertion, wishing to place both sides of the question before our readers. <seg type="Source" subtype="Attributed_Honea">We have, however, submitted it to Mr. <persName key="Honea, S. B.">Honea</persName>, who was of the party robbed, and who pronounces the statement a gross misrepresentation of the facts. The account, given of the conduct of the <persName key="Klingensmith, Philip">Bishop of Beaver</persName>, he pronounces false in every particular. So far from it being true, he accuses him of being the cause of the attack on <persName key="Turner, Nicholas">Turner</persName> and <persName key="Collins, Wilson">Collins</persName>, who went to the town, the former to <hi rend="italic">ask permission</hi> of <persName key="Klingensmith, Philip">the Bishop</persName> to drive the cattle on the pasture land, and the latter to get a chain mended, and who was pushed out of doors by the blacksmith to be killed by the Indians. <seg type="Massacre" subtype="Spoils">It is also false, our informant says, that the interpreters restored 114 head of cattle; on the contrary, he says that after extorting $1800 from the company, they were the cause of the robbery of their cattle; and that after the Indians had run off the stock, one of the interpreters brought back a message from the Indians, to the effect, that if the company wanted to fight, for them to come on&#8212;and then Indians and interpreters rode off together, and were seen no more.</seg></seg></p> 
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Massacre" subtype="Spoils">Our informant has given us a reason why the names of these individuals are appended to this document, but we forbear to publish it; he says they spoke in very different terms of the interpreters, before coming to <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, from what are used in this communication.</seg></seg></p>
+
+<div2>
+<head type="sub">SAN BERNARDINO, Oct. 18, 1857.</head>
+    
+<p>SIR&#8212;<seg type="Source" subtype="Unattributed">Several gentlemen arrived in <placeName type="settlement" key="San Bernardino, CA">this city</placeName> yesterday evening from <q>“off”</q> the Plains between here and <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>. They belong to Captains <persName key="Dukes, William C.">Dukes</persName> and <persName key="Turner, Nicholas">Turner</persName>’s train, and left the Mormon settlements some twelve of fifteen days after the <q>“great massacre,”</q> of which I gave you a statement a few weeks ago. <seg type="Context" subtype="WesternViolence">It appears that they have experienced much difficulty, and sustained great loss of property, whilst traveling through the Indian country; a statement of which I will give you below, having obtained it from a personal interview with those gentlemen.</seg></seg></p>
+
+<p><seg type="Source" subtype="Unattributed"><seg type="Massacre" subtype="Location">As regards the <q>“massacre,”</q> which took place at or near the <geogName type="feature" key="Great Basin">Rim of the Great Basin</geogName></seg>, they have no definite knowledge; <seg type="Source" subtype="Attributed_TannerMathews">but from the information which they received and the knowledge which they have, both in relation to the murder and the causes which led to it, corresponds with the statement I gave you before, and corroborates the facts as set forth by Messrs. <persName key="Mathews, William">Mathews</persName> and <persName key="Hyde, Bill">Hyde</persName>.</seg></seg></p>
+
+<p><seg type="Source" subtype="Unattributed"><seg type="Context" subtype="LDSPersecution">They further say, that they neither saw nor heard anything that would lead a rational or unprejudiced mind to believe, or even suspect, that any of the <placeName type="state" key="Utah Territory">Utah</placeName> inhabitants were instigators in the causes, as has been intimated and even boldly asserted by many of the encouragers of Mormon persecution and misrepresentation, in this section of the country. But state that the general sympathy and excitement prevalent upon such occasions, pervades the minds of the people of that Territory&#8212;and that <seg type="Massacre" subtype="Survivors">the Mormon interpreters have used every means, and due diligence so far as they know, in obtaining the children</seg>, as well as to procure information respecting the circumstances of the catastrophe.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Webb"><seg type="Context" subtype="WesternViolence">It seems from the statement of Messrs. <persName key="Webb, William">Webb</persName> and others, whose names you will read at the close of this article, that they experienced their first Indian troubles between <geogName type="waterway" key="Corn Creek">Corn</geogName> and <geogName type="waterway" key="Beaver Creek">Beaver Creeks</geogName> prior to leaving the settlements. The train, which consisted of twenty-three wagons, 450 head of loose cattle, and 107 men, women and children, divided whilst traveling through the settlements, to obtain a better opportunity for grazing their stock; and consequently had arranged their encampments several miles apart. Both divisions of the train had struck camp, the advance parties being five or eight miles from <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>. <seg type="Blame" subtype="IndiansIndependently">An Indian informed the Bishop of that city, that they were going to attack the train that night. The Bishop, immediately on the receipt of the information, sent some young men of his city to the train, to give them the necessary warning in regard to their danger. A portion of the men of the advance party, in company with the Mormon boys, went back for the purpose of bringing up the party which was in the rear. Before their arrival, they were fired upon by the Indians, but fortunately none of them were injured, and they received no further molestation. The Bishop sent, the next day, for Captains <persName key="Dukes, William C.">Dukes</persName> and <persName key="Turner, Nicholas">Turner</persName>, for <choice><orig>the the</orig><reg>the</reg></choice>purpose of giving them such information as he thought would be beneficial under the existing circumstances. While they, and others of their train were in the city, they were fired upon by a number of Indians who had collected there, and Captain <persName key="Turner, Nicholas">Turner</persName> and one Mr. <persName key="Collins, Wilson">Collins</persName> were severely wounded, but were recovering.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Webb"><seg type="Context" subtype="WesternViolence">Having ascertained, from these circumstances, something of the excitement prevalent among the Indians, they thought it best, before leaving the settlements, to get some interpreters to come with them through the Indian country, which they accordingly did. The interpreters were&#8212;<persName key="Johnson, N.">N. Johnson</persName>, <persName key="Carter, D.">D. Carter</persName>, Mr. <persName key="Shirts">Shirts</persName>, <persName key="Hatch, Ira">Ira Hatch</persName>,&#8212;Mr. <persName key="Lovett">Lovett</persName>, and <persName key="Hamblin, O.">O. and <persName key="Hamblin, F.">F. Hamblin</persName></persName>.  From the fact of a former train having been murdered on the main road, they took a different route, on leaving the settlements, via <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, which intersects with the main traveled road, on the <geogName type="waterway" key="Rio Santa Clara">Rio Santa Clara</geogName>, about thirty miles from <geogName type="feature" key="Great Basin">the rim of the Basin</geogName>. <seg type="Massacre" subtype="Spoils">They state, after reaching the <geogName type="waterway" key="Rio Santa Clara">Santa Clara</geogName>, they were surrounded almost hourly by the Indians; but by the assistance of the interpreters, and giving them a few head of cattle and articles of clothing, they succeeded in getting along without material difficulty until arriving at <geogName type="waterway" key="Muddy Creek">the Muddy</geogName>, which is about 175 miles from the settlements.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Webb"><seg type="Source" subtype="Attributed_Webb"><seg type="Blame" subtype="IndiansIndependently">They arrived at the Muddy about ten o’clock in the morning, and being surrounded by about 200 Indians, they made preparations for leaving by 4 o’clock P.M., of the same day. While stopping there, the Indians kept out of the encampment, measurably, though not without much difficulty. <seg type="Massacre" subtype="Spoils">After leaving camp, and having traveled about seven miles on the road, (the train being scattered along on the road, as large trains commonly are) were surrounded by about 400 Indians, and 326 head of their cattle were driven off.</seg></seg></seg></seg></p>
+	
+<p><seg type="Massacre" subtype="Spoils">Mr. <persName key="Webb, William">Webb</persName>, whose name you will read below, was in advance of the stock, (it being eight or nine o’clock in the night,) and an Indian boy, who fell in on leaving the <geogName type="waterway" key="Muddy Creek">Muddy</geogName>, who was pretending to assist in driving; the Indian asked for water, and on being informed by Mr. <persName key="Webb, William">Webb</persName> that he had none, the boy immediately stopped to one side and made a noise, which is thought to have been a signal. They were immediately surrounded by the Indians, and the cattle were being drove off by the Indians in spite of every endeavor to prevent it. The interpreters thought it best not to fire upon them; and Mr. <persName key="Hamblin, Jacob">Hamblin</persName> told the men that if they thought anything of the women and children, to go back to the wagons and protect them, until he could ascertain what the difficulty or excitement was. After returning to the wagons and seeing no Indians there, <persName key="Hamblin, Jacob">Hamblin</persName> and others of the train went in pursuit of the cattle, and succeeded in getting back 114 head of lame stock, that had been left behind. The other interpreters were still with the Indians, or supposed to be, endeavoring to get them to bring the cattle back. Mr. <persName key="Hamblin, Jacob">Hamblin</persName>, and others of the train, after returning <cb n="2" /> with the 114 head, went again in pursuit of the stock, and on arriving near to the <geogName type="waterway" key="Muddy Creek">Muddy</geogName>, found that a vast number of the Indians had stopped in a deep hollow, in the rear of the cattle, which were, to all appearance, being driven still further off. Here the men stopped, considering it unsafe to go any further. Mr. <persName key="Hamblin, Jacob">Hamblin</persName> told the men he would go down to the Indians, and if he found that it was not safe for them to come down he would fire a pistol, which would be a signal for them to go back to the wagons. Soon after going down, he fired two shots from his pistol, and the men returned to their wagons, and drove right on for the <placeName type="settlement" key="Las Vegas, NV">Las Vegas</placeName>, which is about sixty miles from the <geogName type="waterway" key="Muddy Creek">Muddy</geogName>.</seg></p>
+	
+<p><seg type="Massacre" subtype="Spoils">This was the last ever seen of the Indians or interpreters. What the result was, or may turn out to be, time alone can develop. <seg type="Massacre" subtype="RescueAttempt">I understand that there are a variety of opinions in regard to the conduct of the interpreters; but those, whose signatures are hereunto annexed, are of the opinion that the interpreters did all in their power to save the lives of the persons in the train, and to preserve the stock. But not having heard what became of them, they are at a loss to know what will be the result; but believe that they have either been killed or are forcibly detained by the Indians in some way or other.</seg></seg></p>
+
+<closer><signed>Signed, <persName key="Webb, William">WM. WEBB</persName>,<lb/>
+<persName key="Baise, Irah">IRAH BAISE</persName>, <persName key="Bledsbe, William S.">WM. S. BLEDSBE</persName>,<lb/>
+<persName key="Tannehill, William H.">WM. H. TANNEHILL</persName>.</signed></closer>
+</div2>
+
+<div2>
+    
+<p>The above named gentlemen left the train at the <geogName type="waterway" key="Cottonwood Springs">Cottonwood Springs</geogName>. In all probability, before the others get in, something more relative to the circumstances may be found out.</p>
+
+<p><seg type="Source" subtype="Attributed_Christian">I received the following letter this evening, from <persName key="Eames, Ellis">Ellis Eames</persName>, Esq., which I will send enclosed, relating to the relief party which left here this morning.</seg></p>		
+
+<closer><salute>Yours truly,</salute>
+<signed><persName key="Christian, J. Ward">J. WARD CHRISTIAN</persName>,<lb/>
+<placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>.</signed></closer>
+
+</div2>
+<div2>
+
+<p><seg type="Source" subtype="Attributed_Christian">MR. <persName key="Christian, J. Ward">J. WARD CHRISTIAN</persName>&#8212;Dear Sir: Intelligence reached here yesterday, that a company of emigrants had been robbed by the Indians, near the <geogName type="waterway" key="Muddy Creek">Muddy</geogName>, between <placeName type="settlement" key="San Bernardino, CA">here</placeName> and <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and were in a suffering condition on the plains for want of provisions. As soon as I heard the report, which is undoubtedly true, I commenced circulating a subscription, and must say, for the credit of <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, that the first man I met was <persName key="Hanks, Ebenezer">Ebenezer Hanks</persName>; he told me to look no farther for any amount of flour that was wanted; he would furnish sufficient individually. Mr. <persName key="Bachman">Bachman</persName>, of <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, being here on business, put up an ample amount of groceries. <persName key="Jacobs, Lewis">Lewis Jacobs</persName> &amp; Co.; <persName key="Dixon">Dixon</persName> &amp; Co., of the Rainbow; <persName key="Tyler, U. U.">U. U. Tyler</persName>, and others, soon loaded a four mule team, belonging to Mr. <persName key="Daily, Phineas">Phineas Daily</persName>, who volunteered his services to haul the supplies; a sufficient number of men also volunteered for the protection of the supplies. It is expected that they will meet the suffering train at the last crossing of the <geogName type="desert" key="Mojave">Mohave</geogName>, or in the vicinity of the <geogName type="waterway" key="Bitter Springs">Bitter Springs</geogName>.</seg></p>
+
+<closer><signed><hi rend="right"><persName key="Eames, Ellis">ELLIS EAMES</persName>.</hi></signed></closer>
+</div2>
+<div2>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="GunnisonMurder"><seg type="Context" subtype="WesternViolence">THE GUNNISON MURDER.&#8212;In connection with the above, and to do full justice to the Mormons, in this matter also, who have been so repeatedly charged in public speeches, and also in newspapers, with complicity in the murder of the late Captain <persName key="Gunnison, John Williams">Gunnison</persName>, we make the following extract from the Report of Lieut. <persName key="Beckwith, E. J.">E. J. Beckwith</persName>, who succeeded <persName key="Gunnison, John Williams">Gunnison</persName> in the command of the party, and who completed the survey commenced by that officer&#8212;to which our attention has been directed during the week. The extract is from the report made to the Hon. <persName key="Davis, Jefferson">Jefferson Davis</persName>, late Secretary of War:&#8212;</seg></seg></seg></p>
+    
+<p><q><seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="GunnisonMurder"><seg type="Context" subtype="WesternViolence">“The statement which has from time to time appeared (or been copied) in various newspapers of the country since the occurrence of these sad events, charging the Mormons or Mormon authorities with instigating the Indians to, if not actually aiding them in, the murder of Captain <persName key="Gunnison, John Williams">Gunnison</persName> and his associates, is, I believe not only entirely false, but there is no accidental circumstance connected with it affording the slightest foundation for such a charge.”</seg></seg></seg></q></p>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

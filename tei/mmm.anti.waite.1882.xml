@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.waite.1882">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Adventures in the Far West and Life Among the Mormons.</title>
+                <title level="m" type="sub"></title>
+                <author><forename>C.</forename> <forename type="middle">V.</forename> <surname>Waite</surname> <addName>[Catherine Van Valkenburg]</addName></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.waite.1882</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Adventures in the Far West and Life Among the Mormons.</title>
+                    <author><forename>C.</forename> <forename type="middle">V.</forename> <surname>Waite</surname> <addName>[Catherine Van Valkenburg]</addName></author>
+                    <publisher>Waite &amp; Company</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>233-61</extent>
+                    <date when="1882">1882</date>
+                    <note type="source">C. V. Waite [Catherine Van Valkenburg]. <hi rend="italic">Adventures in the Far West and Life Among the Mormons</hi>. Chicago, IL: C. V. Waite &amp; Company, 1882. 233-261.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-10-20"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="233" xml:id="mmm.anti.waite.1882.248"/>
+
+<head type="main"><hi rend="smallcaps">CHAPTER XXI.</hi></head>
+<head type="sub"><hi rend="smallcaps">THE SECRET ORDERS.</hi></head>
+<head type="sub">From Mr. Burlingame's Journal.</head>
+
+<p>We were sitting around a cheerful open fire a few evenings ago, when, we heard a hesitating step on the front porch and afterwards a faint rap at the door. I arose and opened the door and a man, rather poorly clad, and apparently in great distress, entered. I told him to be seated and to feel that he was safe, among friends.</p>
+
+<p>This seemed to reassure him, and as he became more comfortable he seemed inclined to talk.</p>
+
+<p>Mrs. <persName key="Burlingame, ">Burlingame</persName> brought in coffee and <choice><orig>re-
+
+<pb n="234" xml:id="mmm.anti.waite.1882.249"/>
+
+freshments</orig><reg>refreshments</reg></choice>, for we had many times before sheltered and fed those who were fleeing from <persName key="Young, Brigham">Brigham</persName>'s wrath. This man was an "apostate."</p>
+
+<p>He believed <persName key="Young, Brigham">Brigham</persName> to be a false Prophet and had embraced the doctrines of <persName key="Morris, Jospeh">Joseph Morris</persName> whom he held to be the "True Prophet of the Lord."</p>
+
+<p>I asked him if this was the first "apostasy" from <persName key="Young, Brigham">Brigham</persName> since the founding of that Church.</p>
+
+<p>He replied that there had been one other known as the "Gladdenites" "How did the Church authorities get rid of them?" I asked.</p>
+
+<p>"In the usual way, by persecution and death."</p>
+
+<p>"This first apostasy," he continued, "was headed by <persName key="Bishop, Gladden">Gladden Bishop</persName> in 1852-53, and his followers were called Gladdenites. If you want to see how they were handled I will show you a sermon preached by <persName key="Young, Brigham">Brigham Young</persName>." With this he produced from an old pocket-book a piece of newspaper yellow with age. The following extracts will show the animus of the whole:</p>
+
+<p>"I will ask, What has produced your persecutions and sorrow? What has been the starting-point of all your afflictions? They began with apostates in your midst; those disaffected spirits caused others to come in, worse than they who would run out and bring in all the devils they possibly could. That has been the starting-point and grand cause of all our difficulties, every time we were driven. I am coming to this place,&#8212;I am coming nearer home.</p>
+
+<pb n="235" xml:id="mmm.anti.waite.1882.250"/>
+
+<p>. . . "Do we see apostates among us now? We do.</p>
+
+<p>"When a man comes right out like an independent devil, and says, 'Damn Mormonism and all the Mormons.' and is off with himself to <placeName type="state" key="California">California</placeName>, I say he is a gentleman by the side of a nasty, sneaking apostate, who is opposed to nothing but Christianity. I say to the former, 'Go in peace, sir, and prosper if you can.' But we have a set of spirits here, worse than such a character. When I went from meeting last Sabbath, my ears were saluted with an apostate, crying in the streets here. I want to know if any one of you who has got the spirit of Mormonism in you would say 'Let us hear both sides of the question. Let us listen and prove all things.' What do you want to prove? Do you want to prove that an old apostate, who has been cut off from the church thirteen times for lying, is anything worthy of notice? I heard that a certain picture-dealer in this city, when the boys would have moved away the wag-on in which this apostate was standing, became violent with them, saying, 'Let this man alone; these are saints that you are persecuting.' [Sneeringly.]</p>
+
+<p>"We want such men to go to <placeName type="state" key="California">California</placeName>, or any where they choose. I say to those persons, You must not court pensecution here, lest you get so much of it you will not know what to do with it. Do <hi rend="smallcaps">NOT</hi> court persecution. We have known <persName key="Bishop, Gladden">Gladden Bishop</persName> for more than twenty years, and know him to he a poor dirty curse. Here is sister <persName key="Kimball, Vilate">Vilate Kimball</persName>, brother <persName key="Kimball, Heber C.">Heber</persName>'s wife, has borne more from that man than any other woman on earth could bear; but she won't bear it again. I say again, you Gladdenites, do not court persecution, or you will get more than you want, and it will come quicker than you want it.</p>
+
+<p>"I say to you, Bishops, do not allow them to preach in your wards. Who broke the roads to these valleys? Did this little nasty <persName key="Smith, ">Smith</persName>, and his wife? No. They stayed in
+
+<pb n="236" xml:id="mmm.anti.waite.1882.251"/>
+
+<placeName type="settlement" key="St. Louis, MO">St. Louis</placeName> while we did it, peddling ribbons, and kissing the gentiles. I know what they have done here,&#8212;they have asked exorbitant prices for their nasty, stinking ribbons.</p> 
+
+<p>[Voices, 'That's true.'] We broke the roads to this country.</p>
+
+<p>"Now, you Gladdenites, keep your tongues still, lest sudden destruction come upon you. I say, rather than that apostates should flourish here, I will unsheath my bowie knife, and conquer or die. [Great commotion in the congregation, and a simultaneous burst of feeling, assenting to the declaration.] Now, you nasty apostates, 'clear out, or 'judgment will be laid to the line, and righteousness to the plummet.' [Voices generally, 'Go it, go it.] If you say it is all right, raise your hands: [All hands up.] Let us call upon the Lord to assist us in this and every other good work."</p>
+
+<p>In the same discourse he commanded the Bishops to "kick these men out of their wards," and warned the apostates themselves that "they were not playing with shadows," but it was the voice and hand of the Almighty they were trying to play with, and they would find themselves mistaken if they thought to the contrary."</p>
+
+<p>In accordance with this bloody teaching, many unfortunate apostates who were unwilling or unable to leave the country, "bit the dust." They felt the literal edge of the bowie-knife thus from the pulpit unsheathed for their destruction.
+Many of the murders, committed during the succeeding six or seven years were fully authorized by these instructions; and yet <persName key="Young, Brigham">Brigham</persName>, unable to deny that they had been committed, has
+
+<pb n="237" xml:id="mmm.anti.waite.1882.252"/>
+
+openly boasted that his enemies have been unable to trace any of them to him, and fasten them upon him.</p>
+
+<p>He unsheathes the bowie-knife, and issues a general mandate, but when the murder of some individual dissenter is brought to his door, he turns away and says, "Thou canst not say I did it."</p>
+
+<p>The second organized opposition to <persName key="Young, Brigham">Young</persName> was made by <persName key="Morris, Joseph">Joseph Morris</persName>.</p>
+
+<p>On the 19th of November, 1860, a man dressed in ordinary working-clothes, wended his way on foot from <placeName type="sse" key="Slaterville, UT">Slaterville</placeName>, a settlement in <placeName type="county" key="Weber County, UT">Weber County</placeName>, north of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, to the Holy City.</p>
+
+<p>This was <persName key="Morris, Joseph">Joseph Morris</persName>, and the object of his visit was to deliver to <persName key="Young, Brigham">Brigham Young</persName> two letters which he had written, under the influence of the Spirit.</p>
+
+<p>It seems that for some reason the life of <persName key="Morris, Joseph">Morris</persName> had been threatened, and having been driven from the place where he had been living, he was now going to appeal to the President in person for protection. <persName key="Morris, Joseph">Morris</persName> had received, previous to this time, many revelations, some of which looked to a purification of the church,&#8212;all of which he had communicated to <persName key="Young, Brigham">Brigham</persName> and the Apostles.</p>
+
+<p>On his way to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> he met <persName key="Cook, John">John Cook</persName>, brother of <persName key="Cook, Richard">Richard Cook</persName>, at that time a Mormon
+
+<pb n="238" xml:id="mmm.anti.waite.1882.253"/>
+
+Bishop, presiding at <placeName type="settlement" key="South Weber, UT">South Weber</placeName>. To him <persName key="Morris, Joseph">Morris</persName> communicated his views and projects, and made so favorable an impression that both the Cooks soon afterward espoused his cause, and became his zealous supporters.</p>
+
+<p>Morris delivered his letters to the President at his residence, but received no reply.</p>
+
+<p>He then proceeded to the house of Mr. <persName key="Cook, John">Cook</persName> on Weber River, about thirty miles northward from the city.</p>
+
+<p>Not only the Cooks, but a number of their neighbors, now began to entertain favorable opinions of the claim of their new acquaintance to inspiration.</p>
+
+<p>Others who conceived that the divine right of <persName key="Young, Brigham">Brigham</persName> was being 'endangered or infringed upon, determine to put <persName key="Morris, Joseph">Morris</persName> to death, or drive him from their midst. But Bishop <persName key="Cook, Richard">Cook</persName> stood in the way.</p>
+
+<p>In this emergency President <persName key="Young, Brigham">Young</persName> was appealed to, who sent two high ecclesiastics, Messrs. <persName key="Taylor, John">John Taylor</persName> and <persName key="Woodruff, Willford">Willford Woodruff</persName>, both Apostles, to investigate the matter. They appointed a general meeting at <placeName type="settlement" key="South Weber, UT">South Weber</placeName>, and invited the Bishops of the surrounding settlements, with as many of their people as possibly could, to attend.</p>
+
+<p>The meeting convened on the 11th of <choice><orig>Febru- 
+
+<pb n="239" xml:id="mmm.anti.waite.1882.254"/>
+
+ary</orig><reg>February</reg></choice>, 1861, and the delegates commenced their court of inquiry by demanding whether there was a man in the ward who professed to be a prophet? And whether there were any individuals who entertained him, or professed faith in his claims?</p>
+
+<p>To the astonishment and consternation of the Mormons, seventeen of the believers, with Bishop <persName key="Cook, Richard">Cook</persName> at their head, arose and declared that they would enjoy and defend the right of conscience by adhering to their new faith, though it should bring upon them the most bitter persecution, and the loss of their lives. An old man named <persName key="Watts, ">Watts</persName> arose, and in an inflammatory speech, recommended that the adherents of the new Prophet should be 'cut off under the chin,' and laid away in the brush; at the same time accompanying his words with a motion of the hand, drawing it as cross his throat. This, he said, was what ought to be done, according to his understanding of the laws of the church.</p>
+
+<p>After some further discussion, in which <persName key="Watts, ">Watts</persName> was boldly rebuked by <persName key="Cook, Richard">Cook</persName> for the utterance of such sentiments, the question was put to the parties on trial, whether they believed that <persName key="Young, Brigham">Brigham Young</persName> was a Prophet, Seer, and Revelator.</p>
+
+<p>They all answered in the negative. Mr. <persName key="Taylor, John">Taylor</persName> testified that he knew <persName key="Young, Brigham">Brigham</persName> to be such
+
+<pb n="240" xml:id="mmm.anti.waite.1882.255"/>
+
+and said those who believed to the contrary must be excommunicated from the church.</p>
+
+<p>They were then subjected to the process of excommunication.</p>
+
+<p>It will be noticed that the right of <persName key="Young, Brigham">Brigham</persName> to preside over the church as its temporal head, was not questioned by <persName key="Morris, Joseph">Morris</persName> or his followers.</p>
+
+<p>From this time the followers of <persName key="Morris, Joseph">Morris</persName> increased in numbers with wonderful rapidity.</p>
+
+<p>On the 6th of April, 1861, five persons were baptized into the new church in the Weber River.</p>
+
+<p>On the same day of the same month, thirty-one years previous, the Mormon Church had been instituted by the baptism of six persons.</p>
+
+<p>Encouraged by this augury, a church was organized and the work commenced in earnest.</p>
+
+<p>Converts flocked to them from all parts of <placeName type="settlement" key="Utah Territory">the Territory</placeName>.</p>
+
+<p>In three months the new church numbered about five hundred.</p>
+
+<p>In the meantime difficulties arose between them and the surrounding Mormons. The Morrisites refused to train as militia. Heavy fines were imposed in consequence, and much property sold on execution for their payment.</p>
+
+<p>These fines and exactions were increased until the Morrisites refused longer to submit to them.</p>
+
+<p>A number of fines of $60 each had been <choice><orig>im-
+
+<pb n="241" xml:id="mmm.anti.waite.1882.256"/>
+
+posed</orig><reg>imposed</reg></choice>. When the sheriff appeared and proposed to arrest those who would not or could not pay, he was resisted. Further proceedings were then suspended for the present.</p>
+
+<p>In the spring of 1862 a team, consisting of two yoke of cattle, which had been sent to mill from the Morrisite settlement, was, together with a load of flour, seized and retained by one <persName key="Jones, William">William Jones</persName>, who threatened in like manner to retain all that should be sent until some difficulties between him and them should be settled to his satisfaction. The Morrisites, standing in immediate need of the flour, sent a <hi rend="italic">posse</hi> of men and took not only the flour, but <persName key="Jones, William">Jones</persName> and two associates prisoners.</p>
+
+<p>Application was now made to Chief Justice <persName key="Kinney, John F.">Kinney</persName>, who immediately issued writs for the arrest of the leading Morrisites, and writs of <hi rend="italic">habeas corpus</hi> for the Mormons held in custody.</p>
+
+<p>These writs being disregarded, a <hi rend="italic">posse</hi> of several hundred men, headed by <persName key="Burton, Robert T.">Robert T. Burton</persName>, sheriff of <placeName type="county" key="Salt Lake County, UT">Salt Lake County</placeName>, well armed and equipped, and having several pieces of cannon, were sent to execute the writs, and enforce obedience. This force was augmented on the way by volunteers, and additional arms, until they approached the settlement of the Morrisites, with a force of about a thousand well armed men,
+
+<pb n="242" xml:id="mmm.anti.waite.1882.257"/>
+
+and five pieces of artillery.</p>
+
+<p>Early on the morning of the 13th of June, some of the <hi rend="italic">posse</hi> appeared on the heights above <placeName type="settlement" key="South Weber, UT">South Weber settlement</placeName>, and took possession of the Morrisites' cow-herd, killing such as they desired for beef. During the morning, Sheriff <persName key="Burton, Robert T.">Burton</persName> sent a proclamation to the leaders with&#8212;in the Morrisite "fort"&#8212;for such they had constructed,&#8212;calling upon them to come out and deliver themselves up, according to the requirements of the writs in his hands, and warning them of the consequences, if they refused.</p>
+
+<p>This not being responded to, about an hour later the <hi rend="italic">posse</hi>, most of whom had been hitherto out of sight, commenced to defile over the bluffs, and to occupy a prominent position commanding the camp.</p>
+
+<p><persName key="Morris, Joseph">Morris</persName> now called a meeting of those within the fort. Scarcely had they assembled, when a cannon-ball came into the congregation, killed two women, and wounded a girl. From this time cannonading and musketry fire was continued with but little intermission.</p>
+
+<p>The camp consisted of a few houses built of willows like basket-work, and plastered, and of tents, and covered wagons. Still the fight was kept up by these poor people for three days, during all which time, fighting with the energy
+
+<pb n="243" xml:id="mmm.anti.waite.1882.258"/>
+
+of desperation, they held this immense force at bay. On the evening of the third day a white flag was raised, and the whole camp surrendered.</p>
+
+<p>The Morrisites stacked their arms, under guard of a detail from the posse, who had by this time entered the fort.
+Amidst much confusion, the men and women were separated, and large numbers of the men were placed under arrest. <persName key="Morris, Joseph">Morris</persName> and <persName key="Banks, ">Banks</persName> were shot in cold blood; also two of the women.</p>
+
+<p>After the Morrisites had been taken prisoners their houses were searched and plundered, and property, consisting of watches, jewelry, clothing &amp;c., taken, to the amount of many hundreds of dollars. The prisoners were taken to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and placed under bonds by Judge <persName key="Kinney, John F.">Kinney</persName> for their appearance at his court. They were afterwards tried, and large numbers of them were fined and imprisoned.</p>
+
+<p>"Did you say" I asked, "that <persName key="Morris, Joseph">Morris</persName> was killed after the Morrisites had surrenderd!" "Yes," he replied, "the white flag was flying, the people had given up their arms, which were guarded by a large <hi rend="italic">posse</hi> of Mormons.</p>
+
+<p>"<persName key="Burton, Robert T.">Robert T. Burton</persName> and <persName key="Stoddard, Judson L.">Judson L. Stoddard</persName> rode in amongst the Morrisites. <persName key="Burton, Robert T.">Burton</persName> was much excited. He said, Where is the man?</p>
+
+<p>I don't know him.'<persName key="Stoddard, Judson L."> Stoddard </persName>replied, That's
+
+<pb n="244" xml:id="mmm.anti.waite.1882.259"/>
+
+him,' pointing to <persName key="Morris, Joseph">Morris</persName>. <persName key="Burton, Robert T.">Burton</persName> rode his horse upon <persName key="Morris, Joseph">Morris</persName>, and commanded him to give himself up in the name of the Lord. <persName key="Morris, Joseph">Morris</persName> replied 'No, never, never.' <persName key="Morris, Joseph">Morris</persName> said he wanted to speak to the people. <persName key="Burton, Robert T.">Burton</persName> said, 'Be d&#8212;d quick about it.' <persName key="Morris, Joseph">Morris</persName> said, 'Brethren, I've taught you true principles,'&#8212;he had scarcely got the words out of his mouth before <persName key="Burton, Robert T.">Burton</persName> fired his revolver. The ball passed in his neck or shoulder. <persName key="Burton, Robert T.">Burton</persName> exclaimed, 'There's your Prophet.' He fired again, saying, 'What do you think of your Prophet now?'</p>
+
+<p>"<persName key="Burton, Robert T.">Burton</persName> then turned suddenly and shot <persName key="Banks, ">Banks</persName> who was standing five or six pads distant. <persName key="Banks, ">Banks</persName> fell. Mrs. Bowman, wife of <persName key="Bowman, James">James Bowman</persName>, came running up, crying, 'Oh! you blood-thirsty wretch.' <persName key="Burton, Robert T.">Burton</persName> said, 'No one shall tell me that and live,' and shot her dead. A Danish woman then came running up to <persName key="Morris, Joseph">Morris</persName>, crying, and <persName key="Burton, Robert T.">Burton</persName> shot her dead also. <persName key="Burton, Robert T.">Burton</persName> could easily have taken <persName key="Morris, Joseph">Morris</persName> and Banks prisoners, if he had tried.</p>
+
+<p>"I am here to-night to ask your assistance in obtaining a pardon for my unfortunate brethren.
+"We have lost everything we possessed, and <persName key="Young, Brigham">Brigham</persName> has forbidden any good Mormon to give us food, shelter or work, and has commanded the Danites to do their duty, which means to kill on
+
+<pb n="245" xml:id="mmm.anti.waite.1882.260"/>
+
+sight any one of us who may be caught away from witnesses of the crime." "Well, my friend," said I, "whatever I can do for your people will be cheerfully done and I have no doubt at all that Gov. <persName key="Harding, Stephen Selwyn">Harding</persName> will pardon all who are still in prison. Moreover I think we can do something for your people to get them away from the clutches of the despot. I will talk with the governor and Gen. <persName key="Connor, Patrick Edward">Connor</persName> about it and let you know. His countenance brightened and he expressed his gratitude in the most unbounded terms. Finding him to be a very intelligent man I asked him, under what law or authority these outrages were committed."</p>
+
+<p>He hesitated, but finally said, "I have sworn on pain of the most horrid death, never to reveal the "secrets of Mormonism" but my life is forfeited to the church any way, and a bad oath is better broken than kept and you ought to know the machinery of the most cruel despotism on the face of the earth, in order to be able to overthrow it. These horrid crimes are all done by the order and under the authority of the <hi rend="smallcaps">SECRET ORDERS OF THE CHURCH</hi>."</p>
+
+<p>"It seems to me," I said, "this is a little better than an absolute despotism, where the lives and property of the people are entirely under the control and at the disposal of <hi rend="italic">one man</hi>."</p>
+
+<pb n="246" xml:id="mmm.anti.waite.1882.261"/>
+
+<p>"Yes he replied, this is a Theocratic monarchy and the President of the Church, as God's vice-gerent wields despotic power over the people, and rules them by his single will, in all their affairs, both spiritual and temporal. In order that the most perfect discipline should be enforced, there is an organized system, so complete and far-reaching that the daily lives of each and every member are ready at a moment's notice to present to the President, for his inspection." I would like very much my friend to have you give me the organization of this Theocracy. He continued "you will observe as I proceed a striking similarity to the Jewish religion after which the whole system is modeled.</p>
+
+<p>"Indeed we all believe that we are the chosen people of God and that we are commanded to fulfil the prophecy and are "To establish Zion on the tops of these mountains" and that all nations will flow unto it. The Morrisites hold that <persName key="Young, Brigham">Brigham Young</persName> is a false and wicked king like unto Saul and that he has corrupted the faith delivered to the Saints, added thereto base and hellish practices and that God will in his own good time overthrow him and all his willing dupes and raise up a true successor to <persName key="Smith, Jospehn">Joseph</persName> who shall re-establish his church in its purity and power.</p>
+
+<pb n="247" xml:id="mmm.anti.waite.1882.262"/>
+
+<p>The organization of the Mormon system is:</p>
+
+<p>First,&#8212;THE FIRST PRESIDENCY. This consists of three, chosen from those who hold the high-priesthood and apostleship, and its office is to preside over and direct the affairs of the whole church. The President is also Seer, Revelator, Translator, and Prophet. He rules in all spiritual and temporal affairs.</p>
+
+<p>Secondly,&#8212;THE APOSTLES. These are to build up, organize, and preside over churches, administer the ordinances, etc.</p>
+
+<p>Thirdly,&#8212;THE SEVENTIES. The Quorums of the Seventies are to travel in all the world, preach the gospel, and administer its ordinances and blessings. There is, also, the Patriarch, whose duty it is to bless the fatherless, to prophesy what shall befall them, etc.</p>
+
+<p>Fourthly,&#8212;HIGH-PRIESTS AND ELDERS. The High-Priest is to administer the ordinances, and preside over the Stakes of the church; that is, over the churches established abroad.</p>
+
+<p>The Elders are to preach and to baptize; to ordain other Elders, also Priests, Teachers, and Deacons. All the foregoing officers are of the Milchisedec Priesthood.</p>
+
+<p>Fifthly,&#8212;THE AARONIC PRIESTHOOD, which includes the offices of Bishop, Priest, Teacher, and Deacon.</p>
+
+<pb n="248" xml:id="mmm.anti.waite.1882.263"/>
+
+<p>The BISHOP presides over all the lesser offices of the Aaronic Priesthood, ministers in outward ordinances, conducts the temporal business of the church, and sits in judgment on transgressors.</p>
+
+<p>The PRIEST is to preach, baptize, administer the sacrament of the Lord's Supper, and visit and exhort the saints.</p>
+
+<p>The TEACHER is to watch over and strengthen the church, etc.</p>
+
+<p>The DEACON is to assist the Teacher.</p>
+
+<p>There is also a High Council, consisting of Twelve High-Priests, with a President. The office of the Council is to settle all important difficulties.</p>
+
+<p>The Priesthood comes direct from Heaven, and was lost to man, until the keys of both orders of the Priesthood were given to <persName key="Smith, Joseph">Joseph Smith</persName>, by an angel from Heaven, in 1829.</p>
+
+<p>After the death of <persName key="Smith, Joseph">Smith</persName>, they came into the hands of <persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p>From this <hi rend="italic">resume</hi> of the church organization, it will be seen that it is sufficient for the purpose. Nor is it confined to spiritual affairs.</p>
+
+<p>Under the form of a church organization, this system absorbs not only the religious, but all the civil and political-liberty of the individual member. The High Council forms an <choice><orig>appar-
+
+<pb n="249" xml:id="mmm.anti.waite.1882.264"/>
+
+ent</orig><reg>apparent</reg></choice> check on the power of the President; but when it is considered that this body is composed of persons nearest the President, and under his immediate influence and control, in other relations in the same organization,&#8212;as High-Priests, etc.,&#8212;it will be seen that the check is only nominal.</p>
+
+<p>The orders of the Priesthood, to which these officers are respectively attached, are thus distinguished:&#8212;</p>
+
+<p>The Melchisedec Priesthood hold the right of Presidency, receive revelations from Heaven, for the guidance of the church, and hold the keys of all its spiritual blessings.</p>
+
+<p>The Aaronic Priesthood hold the keys of the ministering of angels, and have the right to ad-minister in outward ordinances. This Priest-hood must be filled by lineal descendants of Aaron.</p>
+
+<p>It will be seen that the mission of all the officers of the Melchisedec Priesthood, the Apostles, High-Priests, Seventies, and Elders&#8212;is to pt op-agate the gospel, and make converts; while the government of the church and of the people is committed to the Aaronic Priesthood.</p>
+
+<p>Of these the chief is the Bishop, who is accordingly the civil and religious magistrate of the ward in which he resides.</p>
+
+<pb n="250" xml:id="mmm.anti.waite.1882.265"/>
+
+<p>The Order of the Danites has been, for many years, an established institution in the Mormon church.</p>
+
+<p>It was first organized as the Daughters of Zion, see Songs of Solomon and Isaiah 4.4. Then on July 4th, 1838, as the Danite Band or United Brothers of Gideon, with the battle cry of "The Sword of the Lord and Gideon," see Judges, chapters 6, 7, 8. Also Genesis 46. 17. "Dan shall be a serpent by the way, an adder in the path, that biteth the horses' heels, so that his rider shall fall backward."</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> and his two Counselors form the First Presidency, under the title of the Gods, or Grand Archees. These are, at present, <persName key="Young, Brigham">Young</persName>, <persName key="Kimball, Heber C.">Kimball</persName>, and <persName key="Wells, Daniel H.">Wells</persName>. A few, also, of the Apostles, hold the rank of Grand Archees. These have the power of life and death.</p>
+
+<p>Next in importance, is a body of men called Archees. They are entitled to sit in Council with the Gods or Grand Archees, in matters relating to the taking of life. This "Quorum" as it is called, also includes some of the Bishops and Presidents of other quorums in in the church.</p>
+
+<p>Their office is to examine cases of offenders thought to require a summary disposal, and submit the result of such examination to the Grand Archees. In some cases, where the utmost <choice><orig>dis-
+
+<pb n="251" xml:id="mmm.anti.waite.1882.266"/>
+
+cretion</orig><reg>discretion</reg></choice> is required, they act 'as agents and swift-winged messengers, to carry into effect the decrees of the Gods.</p>
+
+<p>The Archees have discretionary and independent power over the lives of all gentiles and "apostates."</p>
+
+<p>Next in rank are the Danites, whose office is to assist the Archees in the execution of their bloody deeds. These are formed into bands of fifty men each. One band, at least, belongs to each Archee, they serving tinder him as minute men, These "Danite Bands" are generally composed of inferior officers and teachers, con stables, and policemen, and those who, having committed heinous crimes, as murder, theft, adultery, &amp;c., would sooner be sworn to serve in this bloody office, than have their deeds exposed and receive their justly merited punishment.</p>
+
+<p>The officers in all these grades are solemnly sworn to secrecy, and to the duties of their respective offices, on pain of instant death.</p>
+
+<p>Where the danger of discovery is imminent, and the matter in hand is too important to be trusted to the Danites, the Archees meet and perform the dirty work themselves; as in the case of Secretary <persName key="Babbitt, Almon W.">Babbitt</persName>, <persName key="Brewer, Charles">Brewer</persName>, and the unlucky attempt on Dr. <persName key="Hurt, Garland">Hurt</persName>. In other cases, the Danites are called upon; <seg type="Context" subtype="ParrishMurder">instance <persName key="Parrish, William">the Parishes</persName>, <persName key="Potter, Duff">Potter</persName>,</seg>
+
+<pb n="252" xml:id="mmm.anti.waite.1882.267"/>
+
+<persName key="Bowman, ">Bowman</persName>, <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, &amp;c.</p>
+
+<p>The Danites are expected to act as spies upon the federal officers and other gentiles; to watch the feelings and spirits of the saints, and to report the first indications of disaffection.</p>
+
+<p>Such cases are at once attended to, and if they are deemed of a dangerous character, are summarily disposed of.</p>
+
+<p>The spoil is divided, one half going to the Grand Archees, and the other half to the Archees and Danites who are employed in the commission of the crime.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">When Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> attempted to bring to justice the perpetrators of the Mountain Meadow Massacre, and various other crimes, several bishops and many other leading Mormons fled to the mountains, where they remained several weeks. Their place of refuge they named "Mount Kolob," which means "the residence of the Gods."</seg></p>
+
+<p>The remark is frequently made in <placeName type="state" key="Utah Territory">Utah</placeName>, "<persName key="Young, Brigham">Brigham</persName> is the only God I care a d&#8212;n about."</p>
+
+<p>The deep meaning of this is only to be explained by reference to this organized system of crime taken in connection with the organization of the "celestial kingdom."</p>
+
+<p>The theory is that <persName key="Young, Brigham">Brigham Young</persName> is a God in embryo. That he is laying the foundation here
+
+<pb n="253" xml:id="mmm.anti.waite.1882.268"/>
+
+for a celestial kingdom. That there will be created for him a world, which his posterity will inhabit, and of which he will be the King and God.</p>
+
+<p>His kingdom will be constituted as follows:</p>
+
+<p>1st. Himself as God.</p>
+
+<p>2d. His wives as Goddesses and Queens, each ruling her own posterity, with <persName key="Young, Brigham">Brigham</persName> as husband and God.</p>
+
+<p>3d. His sons and their families.</p>
+
+<p>4th. The daughters by the celestial law would when married, pass out of their father's kingdom and be added to the husband's. To obviate this difficulty, every man who marries one of the President's daughters is obliged to be adopted by and sealed to his father-in-law.</p>
+
+<p>The daughter is thus retained to augment her father's kingdom, by the addition of her family.</p>
+
+<p>This is one reason why female children are so lightly esteemed in <placeName type="state" key="Utah Territory">Utah</placeName>. They cannot add to the father's glory, but must go to glorify others.</p>
+
+<p>5th. Many young men who have no families and therefore no kingdoms, are sealed to <persName key="Young, Brigham">Brigham</persName>, to add to his celestial glory,&#8212;in some instances, also, men of families, who have not ambition enough to aspire to kingdoms of their own.</p>
+
+<p>This relationship pertains to this world as well as to the next. <persName key="Young, Brigham">Brigham</persName> becomes a father to them here, supports them if necessary, and <choice><orig>de-
+
+<pb n="254" xml:id="mmm.anti.waite.1882.269"/>
+
+mands</orig><reg>demands</reg></choice> their respect and obedience.</p>
+
+<p>A case recently occurred in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, which fully illustrates the power which <persName key="Young, Brigham">Young</persName> exercises over this class of his subjects.</p>
+
+<p>Dr. <persName key="Sprague, Samuel L.">Sprague</persName>, an eastern man, has been at <placeName type="settlement" key="Salt Lake City, Ut">Salt Lake</placeName> about twelve years. During most of that time he has officiated in the Endowment House, in the washings and anointings." He has also had charge of the Tabernacle, and acted as family physician to the inmates of the Harem.</p>
+
+<p>He has a wife and two children. His son is on a mission, and the daughter, a little girl of thirteen, is an invalid. Mrs. Sprague is a model New-England housewife. She has toiled early and late to procure the comforts, and some of the luxuries of life. By the most persevering effort, they at length succeeded in building a beautiful house, and Doctor Sprague's garden is the prettiest in Salt Lake.</p>
+
+<p>The family removed to their new residence in the fall of 1862, and had but just furnished it.</p>
+
+<p>By the Mormon law of adoption, the property of the adopted child belongs to the father, or is under his control. Dr. <persName key="Sprague, Samuel L.">Sprague</persName> is the adopted son of <persName key="Young, Brigham">Brigham Young</persName>. His whole property is worth not less than $10,000.</p>
+
+<p>Mrs. <persName key="Young, Emmeline Free">Emmeline Free Young</persName> has been very melancholy since <persName key="Young, Brigham">Brigham</persName> married <persName key="Young, Amelia">Amelia</persName>. Her
+
+<pb n="255" xml:id="mmm.anti.waite.1882.270"/>
+
+health continued to decline until it was thought advisable to remove her from the Lion House the scene of her joys and sorrow, and situate her more pleasantly. Accordingly one day <persName key="Young, Brigham">Brigham</persName> called on Dr. <persName key="Sprague, Samuel L.">Sprague</persName> and wife, and coolly told them that he wanted their place for three or four years, for <persName key="Young, Emmeline Free">Emeline</persName>, until he could build her one. At the end of that time they could have it again, and in the meantime they could live in the house formerly occupied by <persName key="Grant, J. M.">J. M. Grant</persName>, which he would have repaired for their use.</p>
+
+<p>The husband and wife were astonished and confounded at this request, and Mrs. Sprague, under the first impulse of her indignation, said "she did not relish the idea of giving up her house to people who read novels every day." "Very well." replied' the Prophet, "if you prefer to incur my displeasure rather than to let me have your home, you can do so." With this he left them.</p>
+
+<p>The <persName key="Sprague, Samuel L.">Doctor</persName> and his wife began thinking the matter over. It would never do to incur the displeasure of brother <persName key="Young, Brigham">Brigham</persName>. He was their father in this world, and their God in the celestial kingdom. Then the <persName key="Sprague, Samuel L.">Doctor</persName> was advancing in years, and should he lose his situation in the Endowment House and Tabernacle, where would be the support for himself and family in his declining years? He had served his adopted father so
+
+<pb n="256" xml:id="mmm.anti.waite.1882.271"/>
+
+long and faithfully, should he break with him now? It would never do; so, after many sleepless nights and much anguish of spirit, he made up his mind to make the sacrifice. As to Mrs. Sprague, she cared not for herself, but her poor sick child!. She had lived for years almost entirely in the beautiful garden, and how could she leave it now? With frail and faltering step she had wandered amid the flowers and fruit, culling this bright geranium and that lovely rose, plucking this beautiful strawberry, and that luscious bunch of grapes, and by this sweet communion with Nature, the child seemed to receive afresh the life-giving principle. She was now to be torn from her little paradise, by whom and for what? No wonder if the heart of the mother grew somewhat stony at the reflection.</p>
+
+<p>When the poor girl heard that she must leave these "delightful shades,"she wept until oblivion wrapt her senses, and in a fit of convulsions, she forgot, for the time being, at least, her cruel fate.</p>
+
+<p>The sisters came to sympathize with Sister Sprague; said it was too bad. "Sister Sprague, it is too bad, but you had better do it than to have Brother <persName key="Young, Brigham">Brigham</persName>'s curse resting upon you."</p>
+
+<p><persName key="Young, Emmeline Free">Emeline</persName>, who is really very kind-hearted, came and wept with Sister S., saying she did not want her home, "but <persName key="Young, Brigham">Brigham</persName>," said she, "has
+
+<pb n="257" xml:id="mmm.anti.waite.1882.272"/>
+
+set his mind upon it, and we don't any of us <hi rend="italic">dare</hi> to speak to him about it."</p>
+
+<p><persName key="Young, Brigham">Young</persName> remained inexorable&#8212;the change was made; and to-day the whilome favored wife and now cast-off mistress of <persName key="Young, Brigham">Brigham Young,</persName> occupies the beautiful residence of Dr. <persName key="Sprague, Samuel L.">Sprague</persName>, the fruit of his many years of toil and economy.</p>
+
+<p>It is an ordinary thing for people who offend in any way the Archees to be got out of the way.</p>
+
+<p>The order is given to "cut them off just under the chin." <persName key="Young, Brigham">Brigham</persName> does not in words sanction this, but simply crooks his little finger and says "the boys know their business."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">When <persName key="Lee, John D.">John D. Lee</persName>, and his "band" had got <seg type="Massacre" subtype="Casualties">the emigrants <seg type="Emigrants" subtype="StateAffiliationMissouri">from <placeName type="state" key="Missouri">Missouri</placeName></seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">and <placeName type="state" key="Arkansas">Arkansas</placeName></seg></seg> in such a position that he knew he could cut them off if he wanted to do it he sent a courier to <persName key="Young, Brigham">Brigham</persName> for further instruction. <seg type="Massacre" subtype="Planning">Mrs. <persName key="Young, Emeline Free">Emeline Free</persName> happened to be near when the messenger arrived and found out his business and got down on her knees and begged for the lives of these emigrants, but she could not move the heart of this cruel king; but like the despot of old he ordered the slaughter to go on, saying, "They have shed the blood of the Saints and I command you in the name of Israel's God to follow these cursed gentiles and disguised as Indians attack them and with the arrows of the
+
+<pb n="258" xml:id="mmm.anti.waite.1882.273"/>
+
+Almighty make a clean sweep of them and leave none to tell the tale."</seg> You know the result.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">This was the richest train that ever crossed the plains and you can see any day among the leaders of this people the pianos, fine clothing and splendid horses and carriages which were taken from them.</seg></p>
+
+<p>"It seems" said I, "that these people stop at no crime when they have an object to accomplish." "No," said he, "they consider that they are doing God's service just as much when committing a murder of the most horrible description as when attending divine services in the tabernacle, provided they are under the instructions of their superiors. The other day I was conversing with a man high in the Priesthood, and he said:</p>
+
+<quote><p>"Some time in the summer of 1851, I went to the Mint, in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, on business. <persName key="Kay, John">John Kay</persName> was there. He had charge of the Mint. The building is now inside of <persName key="Young, Brigham">Brigham</persName>'s Wall. On a table, a little to one side of the room I saw a human skeleton complete, attached by wires. I asked him how it came there. After some reluctance, he stated that it was the skeleton of an emigrant, who was passing through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and who had boasted how he had assisted in persecuting the Mormons in <placeName type="state" key="Missouri">Missouri</placeName>. He said he would continue to persecute them, and lived for that purpose, or something like that. <persName key="Kay, John">Kay</persName> said, 'We asked <persName key="Young, Brigham">Brigham</persName> what we were to do with him.' <persName key="Young, Brigham">Brigham</persName> replied, 'He supposed the boys knew their business.' I then asked <persName key="Kay, John">Kay</persName> how they managed it. He said they invited the emigrant to
+
+<pb n="259" xml:id="mmm.anti.waite.1882.274"/>
+
+the Mint, to see the works, and take a drink with them.</p>
+
+<p>"Having arrived there, as he was stepping down some steps which led to the furnace, <persName key="Kay, John">Kay</persName> struck him, as he said on the top of the head, with a wooden mallet, which knocked him senseless. He did not say how be proceeded after that. I asked him how he took the flesh from the bones.</p>
+
+<p>"He said, with vitriol and lime.</p>
+
+<p><seg type="Context" subtype="LDSApostates">"I have often heard the doctrine of cutting the throats of apostates preached from the pulpit, particularly during the year 1866, when, for several months, I scarcely attended meeting without hearing such preaching. They would say if you find a man with his throat cut, pay no attention to it.</seg></p>
+
+<p>"At one time, my life was threatened by a Danite, and his intention to take my life was sanctioned at a meeting, by the Bishop and authorities. No cause was alleged, except a trivial remark made by my wife, reflecting slightly on one of the First Presidents. The remark had been exaggerated and attributed to me, and although it was fully explained, I was followed and threatened for over a year.</p>
+
+<p>"At that time my wife and myself were members of the Mormon Church, in good standing."</p></quote>
+
+<p>I have heard a great deal about the Danite leaders, have met several of them, and I must say they do not look like bad men. <persName key="Hickman, Bill">Bill Hickman</persName> came in one evening sat down and took my little children on his knees and talked to them in a kindly and gentle way that greatly surprised me.</p>
+
+<p>I shuddered to see this hero of a dozen murders sitting familiarly at my fireside. What can be said of a religion that will turn a naturally good man into a fiend of hell!</p>
+
+<pb n="260" xml:id="mmm.anti.waite.1882.275"/>
+
+<p><persName key="Hickman, Bill">Bill Hickman</persName> is one of the most notorious of the Danite leaders. He is a man of medium size, heavy set, of florid complexion, troubled of late years with weak eyes, causing him to wear goggles. He is now about fifty years of age. He is of Southern birth, and a strong secessionist, but professes much friendship for the United States Government, and for federal officers. He is wily and cunning, with much of the <hi rend="italic">suaviter in mode</hi>, and is something of a lawyer. He glories in a household of seven "women" and about twenty children, but does not maintain them in the highest style.</p>
+
+<p><persName key="Rockwell, Porter">Porter Rockwell</persName>, another noted character, is somewhat of the same style of <persName key="Hickman, Bill">Hickman</persName>. Shorter of statue, with the <placeName type="state" key="Utah Territory">Utah</placeName> floridity of complexion, and very voluble in conversation. Anything that is all right with <persName key="Rockwell, Porter">Rockwell</persName>, is "on the square:" It is "wheat," and nearly every act and expression of a stranger, is of that character.</p>
+
+<p><persName key="Burton, Robert T.">Robert T. Burton</persName>, Sheriff of <placeName type="county" key="Salt Lake County, UT">Salt Lake County</placeName>, and Collector of Internal Revenue, who bids fair to rival or outdo all the others in his lawless deeds is a tall, wiry man, one it would be bard to hit with a bullet. He is cool and imperturbable; in fact, never thrown off his balance, never wanting in case of an emergency. No fitter person to carry out the plans of <persName key="Young, Brigham">Young</persName> could be
+
+<pb n="261" xml:id="mmm.anti.waite.1882.276"/>
+
+found within or without <placeName type="state" key="Utah Territory">the Territory</placeName>, and upon him <persName key="Young, Brigham">Brigham</persName> relies implicitly. With or without a "writ," he is always ready.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Blame" subtype="LDS_LDSZealots">The history of the rise and progress of the religion of Mahomet, as well as of most of the religions of the past, furnishes us with abundant instances of the crimes which fanatical zeal, inspired by what is supposed to be divine revelation, will lead men to commit. The enemies of the Lord and His annointed are to them no more than the "adder in the path," and they would cut them off with as much zeal as they would perform any other religions rite. The blood of their prophet cries from the ground for vengeance on his murderers, and these bold defenders of the faith will stick at no crime until they have destroyed and laid waste the land, and the people that have so cruelly wronged them. This feeling was at the bottom of the Mountain Meadow massacre, than which, there is no crime more fiendish, more dreadful and more treacherous in all history.</seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

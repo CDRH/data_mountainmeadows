@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.smn.18571204">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Later from the Plains</title>
+                <title level="m" type="sub">Perils of the Emigrants&#8212;Complicity of the Mormons with the Indians&#8212;War-like Preparations of the Mormons.</title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.smn.18571204</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="a">Later from the Plains.</title>
+		    <title level="j">Savannah Morning News</title>
+                    <author></author>
+                    <publisher></publisher>
+                    <pubPlace>Savannah, GA</pubPlace>
+                    <extent></extent>
+                    <date when="1857-12-04">December 4, 1857</date>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+    	    </textClass>
+             <textClass> 
+                 <keywords scheme="original" n="keywords">
+                  <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-08-29"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.smn.18571204.001"/>
+
+<head type="main">Later from the Plains.</head>
+
+<head type="sub">Perils of the Emigrants&#8212;Complicity of the Mormons with the Indians&#8212;War-like Preparations of the Mormons.</head>
+
+<p>By the arrival of the Senator we have dates from <placeName type="settlement" key="Los Angeles, CA"><choice><sic>Los Angelos</sic><corr>Los Angeles</corr></choice></placeName> to the 20th of October, and from <placeName type="settlement" key="San Diego, CA">San Diego</placeName> to the 17th of the same month.  The news is exceedingly important.</p>
+
+<p>THE LATE MASSACRE.&#8212;The report of the late massacre is confirmed. <seg type="Massacre" subtype="Casualties">The number of persons <seg type="Blame" subtype="IndiansIndependently">slaughtered by the Indians</seg> was 118.</seg> Great excitement prevailed in <placeName type="settlement" key="Los Angeles, CA"><choice><sic>Los Angelos</sic><corr>Los Angeles</corr></choice></placeName> on the announcement, shortly after the receipt of the news, that parties were in town who corroborated all the statements that had been previously made. A public meeting was called, and the persons referred to attended it and made statements,&#8212;a condensation of which we give. Their names are <persName key="Powers, George">Power</persName> and <persName key="Warn, P. M.">Warn</persName>. They had lately returned from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.&#8212;<seg type="Source" subtype="Attributed_Powers">Mr. <persName key="Powers, George">Power</persName>, in his narrative, says:</seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Source" subtype="Powers">We found the Mormons making very determined preparations to fight the United States troops whenever they may arrive. On our way in, we met three companies of one hundred men each, armed and on the road towards the pass over <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>. I was told at <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> that at <orgName type="military" key="Fort Supply">Fort Supply</orgName>, twelve miles this side of <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, there were four sixty thousand pounds of flour stored at <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, for the use of their army. We found companies drilling every evening in the city. The Mormons declared to us that no United States troops should ever cross the mountains. And they talked and acted as if they were willing to take a brush with Uncle Sam.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers">We remained in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> five days, and then pushed on, hoping we might overtake a larger train, which had started ten days ahead of us, and which proved to be the train that was massacred. <seg type="Encounter" subtype="Slander">We came on the <orgName type="military" key="Buttermilk Fort">Battermilk Fort</orgName> near the lone cedar, one hundred and seventy-five miles, and found the inhabitants greatly enraged at the train which had just passed, declaring that they had abused the Mormon women.</seg> <seg type="Encounter" subtype="TradeLDS">The people had refused to sell that train any previsions</seg>, and told us <seg type="Blame" subtype="LDS_LDS">they were sorry they had not killed them there; but they knew it would be done before they got in.</seg> <seg type="Context" subtype="IndianRelationsLDS">They stated further that they were holding the Indians in check until the arrival of their chief, when he would follow the train and cut it to pieces.</seg></seg></p>
+
+<p><seg type="Source" subtype="Powers"><seg type="Encounter" subtype="Poison">The next place where we heard of the train was on our arrival at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, 230 miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>.  Here we learned that when the train ahead were encamped at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, which was thirty-five miles back, and <seg type="Blame" subtype="EmigrantBehavior">at which place we found the Indians so friendly, an ox died, and the Indians asked for it. Before it was given to them, a Mormon reported that he saw an emigrant go to the carcass and cut it with his knife, and as he did so, would pour some liquid into the cut from a phial. The meat was eaten by the Indians, and three of them died, and several more of them were sick and would die. The people at <placeName type="settlement" key="Beaver City, UT">Beaver</placeName> seemed also to be incensed against the train for the same reason as before reported. I asked an Indian at <placeName type="settlement" key="Beaver City, UT">Beaver</placeName>, if there was any truth in the poisoned meat story; he replied in English, that he did not know; that several of the Indians had died, and several were sick.</seg> <seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="LDS_LDS">He said their watermelons had made them all sick, and he believed that the Mormons had poisoned them.</seg></seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Source" subtype="Attributed_TannerMathews">On Saturday, at twelve o'clock, we left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. About the middle of the afternoon, we met the four men who were sent out the night previous, returning in a wagon. <persName key="Mathews, William">Matthew</persName> and <persName key="Tanner, Sidney">Tanner</persName> held a council with them apart and when they left, <persName key="Matthews, William">Matthews</persName> told me the entire train had been cut off; and as it was still dangerous to travel the road, they had concluded it was better for us to pass the spot in the night.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">We continued on, without much conversation, and about dusk met Mr. <persName key="Dame, William H.">Dame</persName>. (I did not know that he had left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and three other white men, coming from the scene of the slaughter, in company with a band of some twenty Indian warriors. One of men in company with Mr. <persName key="Dame, William H.">Dame</persName> was Mr. <persName key="Haight, Isaac C.">Haight</persName>, President of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. <seg type="Massacre" subtype="Aftermath">Mr. <persName key="Dame, William H.">Dame</persName> said they had been out to see to the burying of the dead; but the dead were not buried. From what I heart, I believe the dead bodies were left lying naked upon the ground, having been stript of their clothing by the Indians.</seg> <seg type="Massacre" subtype="Spoils">These Indians had a two-horse wagon, filled with something I could not see, as blankets were carefully spread over the top. The wagon was driven by a white man, and beside him there were two or three Indians in it. Many of them had shawls, and bundles of women's clothes were tied to their saddles. They were also supplied with guns or pistols, besides bows and arrows. The hind-most Indians were driving several head of the emigrants' cattle.</seg> Mr. <persName key="Dame, William H.">Dame</persName> and Mr. <persName key="Haight, Isaac C.">Haight</persName>, and their men, seemed to be on the best terms with the Indians, and they were all in high spirits, as if they were mutually pleased with the accomplishment of some desired object.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Powers"><seg type="Blame" subtype="LDS_LDS">While in <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, I heard many persons express gratification at the massacre. At the church services on Sunday, Captain <persName key="Hunt, Jefferson">Hunt</persName> occupied the pulpit, and among other things he said that the hand of the Lord was in it; <seg type="Blame" subtype="IndiansIndependently">whether it was done by white or red skins, it was right</seg>! The prophecies concerning <placeName type="state" key="Missouri">Missouri</placeName> were being fulfilled, and they would all be accomplished.</seg></seg></p>
+
+</div1>
+<div1>
+
+<head type="sub">MORE OUTRAGED ON THE PLAINS.</head>
+
+<p>A few days after the above meeting took place, Mr. <persName key="Honea, S. B.">Honea</persName>, of <placeName type="state" key="Arkansas">Arkansas</placeName>, arrived at Lost Angeles from the plains. In the train in which he came they were subjected to constant and harassing attacks from the Indians ever since they left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>. They were behind the train which had been so cruelly massacred at Santa Clara Canon. Two of the men belonging to the train which Mr. <persName key="Honea, S. B.">Honea</persName> accompanied were wounded in a fight with the Indians, and 326 [?] head of cattle driven off.</p>
+
+<p><seg type="Source" subtype="Attributed_Honea">From the statement published by Mr. <persName key="Honea, S. B.">Honea</persName>, we extract the following:</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Context" subtype="UtahWar">With the exception of an attack by the Rappaho Indians, on the <geogName type="waterway" key="Arkansas River">Arkansas river</geogName>, on the 20th of June, on the company of Capt. Henry, of <placeName type="state" key="Texas">Texas</placeName>, who lost 101 head of cattle, nothing of interest occurred on the journey, nor did they perceive any symptoms of opposition or of armed band, until they came to <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, in <placeName type="state" key="Utah Territory">Utah Territory</placeName>. <seg type="Context" subtype="IndianRelationsLDS">Here they saw a large quantity of provisions stored, a considerable member of Indians encamped all around the fort, and heard the people generally speaking of making preparations to go out and meet Gen. <persName key="Harney, William S.">Harney</persName>. At <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> was told by a merchant that at <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> was told by a merchant that at <orgName type="military" key="Fort Supply">Fort Supply</orgName> over 100 Indians were encamped, awaiting orders to attack the United States troops.</seg>&#8212;About 30 miles from <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> met three companies of men, generally mounted, and all well armed, having abundance of baggage, their wagons being numbered in [masses?].</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Source" subtype="Attributed_Honea">On the 17th of August, passed through the <placeName type="settlement" key="Salt Lake City, UT">city of Salt Lake</placeName>. Remained only three or four hours.  Had a conversation with a merchant&#8212;a Gentile&#8212;who stated that on the previous Sunday, <persName key="Young, Brigham">Brigham Young</persName> had declared in the Temple, that henceforth <placeName type="state" key="Utah Territory">Utah</placeName> was a separate and independent Territory, and owed no obedience or allegiance to any form or laws, but those of their own enactment, and called upon the people to stand together and support him in maintaining the cause of God and the Church. Was told that the house of Gilbert &amp; Garrison had orders from <persName key="Young, Brigham">Brigham</persName> to pack up and leave before the 1st of November.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Massacre" subtype="Casualties">The train which has been so cruelly massacred, was under the charge of Captain Baker, familiarly known as "Uncle Jack," <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="county" key="Carroll County, AR">Carroll county</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName></seg>&#8212;<persName key="Edwards, Silas">Silas Edwards</persName> and <persName key="Baker, William">William Baker</persName>, son of the captain, are also known to have been in the train.</seg> <seg type="Massacre" subtype="Spoils">At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, Mr. <persName key="Honea, S. B.">Honea</persName> saw President <persName key="Haight, Isaac C.">Haight</persName> riding a large bay horse which he recognized as having belonged to Mr. <persName key="Edwards, Silas">Silas Edwards</persName>,</seg> was informed by <persName key="Hatch, Ira">Hatch</persName> that young <persName key="Baker, William">Baker</persName> had an opportunity of escaping, and went a short distance, but returned; was afterward wounded in the arm; again escaped from the massacre, and proceeded about ten miles this side the <geogName type="waterway" key="Muddy River">Muddy</geogName>, when he met the Youngs, who had escaped from <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>.&#8212;He was advised to return to the <geogName type="waterway" key="Muddy">Muddy</geogName>, which he did, when he was met by <persName key="Hatch, Ira">Hatch</persName> and the Indians, and by them cruelly murdered.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea">Mr. <persName key="Honea, S. B.">Honea</persName> says that in coming into <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, about fifteen miles the other side of the sink of the <geogName type="waterway" key="Mohave River">Mohave river</geogName>, he met a mail wagon, for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, having a large quantity of pistols and ammunition. The driver wished to purchase arms for the party, but they refused to sell.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Blame" subtype="LDS_LDS">To give an idea of the fraud and extensions practiced by the Mormons on emigrants, Mr. <persName key="Honea, S. B.">Honea</persName> states that their company paid to interpreters, six in all, the enormous sum of $1,815. The duty performed by these guides and interpreters was to conduct the company from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to Cottonwood Springs, a distance of not over three hundred miles. Yet this contract was not fulfilled, although payment was made in advance.</seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

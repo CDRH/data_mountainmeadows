@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.bradshaw.1870">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Brigham Young's Daughter</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Wesley</forename> <surname>Bradshaw</surname> [<addName>Charles Wesley Alexander</addName>]</author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.bradshaw.1870</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Brigham Young's Daughter</title>
+                    <author><forename>Wesley</forename> <surname>Bradshaw</surname> [<addName>Charles Wesley Alexander</addName>]</author> 
+                    <publisher>C. W. Alexander</publisher>
+                    <pubPlace>Philadelphia, PA</pubPlace>
+                    <extent>70-74</extent>
+                    <date when="1870">1870</date>
+                    <note type="source">Wesley Bradshaw [Charles Wesley Alexander]. <hi rend="italic">Brigham Young’s Daughter.</hi> Philadelphia: C.W. Alexander, 1870. 70-74.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+		<keywords scheme="original" n="category">
+		    <term>fiction</term>
+		</keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2011-03-28"><name>Jaclyn Cruikshank vogt</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div1 type="chapter">
+
+<pb n="70" xml:id="mmm.fiction.bradshaw.1870.70"/>
+                
+<head>THE MOUNTAIN MEADOW MASSACRE.</head>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">Another well authenticated tragedy by the Mormon ruffians, done by "Counsel," as an act is done, when ordered by the <choice><sic>heirarchy</sic><corr>hierarchy</corr></choice>.</seg></p>
+
+<p><seg type="Massacre" subtype="Dates">On September fifth, 1857</seg>, <seg type="Emigrants" subtype="WagonTrain">there was <seg type="Massacre" subtype="Casualties">a large emigrant train</seg> <seg type="Emigrants" subtype="Route">proceeding across the plains to <placeName type="state" key="California">California</placeName></seg> <seg type="Massacre" subtype="Spoils">with horses, mules, and wagons, conveying large stores of clothing and valuable articles</seg>.</seg> When <seg type="Massacre" subtype="Location">nearing a spring at the Western end of <geogName type="valley" key="Mountain Meadows">the Mountain Meadow Valley</geogName></seg>, <seg type="Massacre" subtype="Battle">they were suddenly <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">attacked by a <choice><sic>miced</sic><corr>mixed</corr></choice> party of whites and Savages.</seg></seg> The caravan at once formed in a hallow square, their wagons being used as breast works, after being hastily filled with earth.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Finding themselves unable to capture their victims by storm, the marauders had recourse the following stratagem:</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">A rivulet of water ran through the spot on which the emigrants had intrenched themselves. One half of the beseigers made a fierce onslaught or rather feint upon the front of the defensive line, while the other half making a detour, came round in the rear, and cut off the stream of water completely. They then returned to their villainous companions and continued the attack with all their force.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">Very soon the intolerable thirst of the emigrants caused them to offer to surrender, whereupon the Mormon Elders, <persName key="Haight, Isaac C.">Isaac C. Haight</persName> and <persName key="Lee, John D.">John D. Lee</persName> came forward with a white flag, and talked so much like Christians, as to persuade the unfortunate emigrants, that if they would give up their arms they should be safely forwarded to <placeName type="settlement" key="Panther Creek, UT">Panther Creek</placeName> and <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. Being completely deceived by the blood-thirsty hypocrites, the emigrants consented, and <seg type="Massacre" subtype="Spoils">gave all their weapons up to the Mormons</seg>, who then said they could go to the <choice><sic>sprang</sic><corr>spring</corr></choice> and slake their thirst. Of course all rushed forward, <seg type="Massacre" subtype="Casualties">men, women and children</seg>, for the water, to relieve their parched and swollen mouths.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">They had scarcely started, when, at a signal from <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Lee, John D.">his comrade</persName>, <seg type="Massacre" subtype="Casualties">the demons deliberately fired volley after volley of rifle balls in among the doomed emigrants, cutting them down by scores. Instantly, amidst screams, and groans, and yells, and shouts, the poor miserable wretches were writhing in their death agonies. Strong, brave men begged the inhuman monsters to spare their wives and little ones. But they were shot or bowie knifed even while pleading.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="SexualViolence">Either <persName key="Lee, John D.">Lee</persName> or <persName key="Haight, Isaac C.">Haight</persName>; it is not certain which, was <seg type="Massacre" subtype="Casualties">in the act of killing
+
+<pb n="71" xml:id="mmm.fiction.bradshaw.1870.71"/>
+
+a man, when his daughter, an innocent pretty child of fifteen, fell on her knees and implored him not to murder her dear papa. He glanced at the girl, and then, with a fiendish chuckle seized her up in his arms, <choice><sic>hore</sic><corr>bore</corr></choice> her to a thicket close at hand, and after adding a nameless crime to his account, he deliberately dragged his almost insensible victim back to where her father's dead body lay, cut her throat from ear to ear, and then threw her down upon the still quivering form of the slaughtered parent.</seg></seg> And yet these are the fiends who defy and insult our Great Government, who boast that they can buy <choice><sic>of</sic><corr>off</corr></choice> any legislative enemies who may appear against them at <placeName type="settlement" key="Washington, DC">Washington</placeName>. Certainly it seems to be true to judge from the emasculation of Mr. <persName key="Cullom, R. N.">Cullom</persName>'s bill in the National House of Representatives. As he introduced it, it was effective, and would have cut the horrid cancer clean from the face of our land. But as it stands now, it is no more terrible to the Mormons than a lion with his claws and teeth all pulled out. Mr. <persName key="Cullom, R. N.">Cullom</persName> deserves the gratitude and admiration not only of his own people of<seg type="Context" subtype="LDSPersecution"> the great <placeName type="state" key="Illinois">State of Illinois</placeName>&#8212;the State which rooted out the Prophet, <persName key="Smith, Joseph">Joe Smith</persName>, and his filthy, blasphemous gang from <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName></seg>&#8212;but also of every man, woman and child in our whole Country. Those Congressmen who amended Mr. <persName key="Cullom, R. N.">Cullom</persName>'s bill have done us a great wrong, whether from good motives or bad ones.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">Their excuse is that the bill is too <hi rend="italic">rough</hi> on the Mormons, and would cause <hi rend="italic">them</hi> to make great bloodshed. Let them go home to their wives and daughters and tell them such silly excuses. Let them go to their constituents and tell them they were <hi rend="italic">afraid</hi> to vote for <persName key="Cullom, R. N.">Cullom</persName>'s bill, because it would involve the bloody resistance of a few Mormons. And when they have done this, let them brand themselves moral cowards, and give place to <hi rend="italic">men</hi>, men, who will fear not to drive the ploughshare so deep through <placeName type="state" key="Utah Territory">Utah</placeName>, that no second furrow will be needed to destroy the monster, polygamy forever.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">Or, if polygamy has ceased to be a crime, and become a virtue, then let our Executives turn loose a flood of clemency. Let General <persName key="Grant, Ulysses S.">Grant</persName> and the Governors of all our States, hasten to unbar the cell door of every bigamist who is now expiating that worst of crimes, the deceiving of virtuous, loving, trusting women.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">In the name of thirty five millions of people whose common sentiment is thoroughly opposed to the vile practices in <placeName type="state" key="Utah Territory">Utah</placeName>, we call upon Congress to say to these polygamists of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>:</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">"We wish you no ill, we wish you every happiness and success; but, from this day forth, there must be no polygamy in the United States. You must set free your plurality wives, and stick to the one <hi rend="italic">original</hi> wife, whoever she may be.</seg></p>
+
+<p>"If you resist, we shall order out twenty thousand volunteers to force you to obey the laws. If those are not enough, we shall call out fifty <choice><orig>thou-
+
+<pb n="72" xml:id="mmm.fiction.bradshaw.1870.72"/>
+
+sand</orig><reg>thousand</reg></choice>, or a hundred thousand. If that will not do, we will roll in upon you a million of men to crush and scourge you to obedience!"</p>
+
+<p><seg type="Context" subtype="PrattMurder"><seg type="Blame" subtype="LDS_LDSRetribution">This horrid butchery was committed in revenge for the murder of <persName key="Pratt, Parley P.">Parley Pratt</persName>, a Mormon Missionary, the particulars of which are as follows.</seg> In the Spring of 1857 this <persName key="Pratt, Parley P.">Pratt</persName>, passing through <placeName type="state" key="Arkansas">Arkansas</placeName>, saw a handsome woman named <persName key="McLean Pratt, Eleanor">McLean</persName>, the wife of <persName key="McLean, Hector">Hector McLean, Esq.</persName> one of the best citizens of the State. Watching his opportunities, the reptile Saint visited <persName key="McLean Pratt, Eleanor">Mrs. McLean</persName> on occasions when her husband was absent and so beguiled her judgment as to cause her to embrace Mormonism. <seg type="Context" subtype="Polygamy">The next thing was that he had carried her away with him and she had become one of his wives.</seg></seg></p>
+
+<p><seg type="Context" subtype="PrattMurder">Of course when <persName key="McLean, Hector">McLean</persName> found out how shamefully he had been dishonored he became almost insane with rage, armed himself, mounted a fleet horse, and swearing vengeance set off in pursuit of <persName key="Pratt, Parley P.">Pratt</persName>. But missing his road in his fury he did not find the villain. Meantime <persName key="Pratt, Parley P.">Pratt</persName> had been arrested and put on trial; but was acquitted for lack of testimony. It so chanced that <persName key="McLean, Hector">McLean</persName> returned home about the time or rather just after the <choice><sic>aquittal</sic><corr>acquittal</corr></choice> of the prisoner whose friends provided him with a horse and started him off for a safe place. This evident injustice so enraged <persName key="McLean, Hector">McLean</persName>'s friends that they offered to assist the husband in his search for vengeance. Accordingly every road was tracked by them and word soon brought to <persName key="McLean, Hector">McLean</persName> of where he could find <persName key="Pratt, Parley P.">Pratt</persName>. He at once rode away after the fiend, and, overtaking him, fired his revolver at him, but missed him. Then drawing his bowie knife, he rushed upon him and stabbed him several times. <persName key="Pratt, Parley P.">Pratt</persName> fell from his horse, and <persName key="McLean, Hector">McLean</persName>, seeing that he was not dead, fired his revolver at him shooting him in the breast. The Avenger then rode home. <persName key="Pratt, Parley P.">Pratt</persName> was carried by his friends in the vicinity to a farmer's house close by, where the infatuated <persName key="McLean Pratt, Eleanor">Mrs. McLean</persName> actually waited upon him till he died, which was two hours later. Until this time <persName key="McLean Pratt, Eleanor">Mrs. McLean</persName> had been a loving, devoted, good wife to her husband, sustaining a spotless reputation. <seg type="Blame" subtype="LDS_LDS">For this act of terrible retribution on the part of the Gentile <persName key="McLean, Hector">McLean</persName> which three out of four would have justified under the circumstances, the Saints of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> deliberately butchered <seg type="Massacre" subtype="Casualties">two hundred men, women and children, not one of whom had ever done them an injury</seg>.</seg> The Mormon Elders have never ceased to assert that <persName key="Pratt, Parley P.">Parley Pratt</persName> did perfectly right. That "<hi rend="italic">if he could win to himself the wife of a Gentile for whom he felt an affinity it was perfectly lawful for him to do so</hi>."</seg></p>
+
+<p>Oh, men of honor, whether your position be high or low, poor or rich, let us ask you, what think you of such serpents as <persName key="Pratt, Parley P.">Pratt</persName> entering your now happy household and pouring such venom into the ears and hearts of your wives and your <choice><sic>dauthters</sic><corr>daughters</corr></choice>, as ruined poor <persName key="McLean, Hector">McLean</persName>'s home and blighted him and his children? Think of it, several of just such villains, under the guise of religion, are at this very time operating in our midst
+
+<pb n="73" xml:id="mmm.fiction.bradshaw.1870.73"/>
+
+in this very place. Picture to yourselves, you returning to your homes after a hard day's work to find your wife carried away to grace the home of some scoundrel Mormon; or your daughters gone off for the same ungodly purpose? Then ask yourselves: Shall such a people be suffered by Congress to go on and increase in their crime? Aye! not only suffered to go on; but, actually encouraged to proceed with their immorality untrammelled.</p>
+
+<p>When it was announced to <persName key="Young, Brigham">Brigham Young</persName> that a new Governor was coming to <placeName type="state" key="Utah Territory">Utah</placeName>, appointed by General <persName key="Grant, Ulysses S.">Grant</persName> he remarked:</p>
+
+<p>"Ah, well, I have no doubt Mr. <persName key="Shaffer, John">Schaffer</persName> will make as good a Governor as any of the rest. He shall be welcome here, and will find us a very pleasant people, provided he understands how to mind his own business, and does not to interfere with matters that do not concern any body but ourselves."</p>
+
+<p>We hardly think there could be a more positive defiance of the power of our Government than such language as that. Perhaps another remark of the Prophet, in this connection will be plain to some minds. Says he: "We want no war, and will not have any;" (if it can be helped) "but I shall not hesitate to protect any one, no matter how humble may be his station, who shall be attacked in any way in the rights which are legally his."</p>
+
+<p>Now then suppose the Governor attempts to enforce any law against polygamy. His authority is immediately resisted, and the Mormons protected by <persName key="Young, Brigham">Brigham Young</persName>, defies him. He calls on the territorial forces, the militia; but they will not obey, for they are Mormons and acknowledge no ruler but <persName key="Young, Brigham">Brigham Young</persName>. Governor <persName key="Shaffer, John"><choice><sic>Schaffer</sic><corr>Shaffer</corr></choice></persName> turns to the National Government and asks to be aided by the bayonet in enforcing the law. But for fear the Mormons will make resistance, Congress has said the military arm of the <choice><sic>Goverment</sic><corr>Government</corr></choice> shall not be used to compel submission. Then Governor <persName key="Shaffer, John"><choice><sic>Schaffer</sic><corr>Shaffer</corr></choice></persName> and the National Government become butts for the Saints' ridicule, and the whole nation becomes a laughing stock for the rest of the world. And deservedly so.</p>
+
+<p>For sometime past it is said that the Mormon <choice><sic>Heirarchy</sic><corr>Hierarchy</corr></choice> have been maturing plans whereby to conduct a war with the United States. It is asserted that they have spies and emissaries at work in every Navy Yard and Arsenal and gun manufactory in the Country, who at a given signal will in case of Expeditions being ordered against <placeName type="state" key="Utah Territory">Utah</placeName>, burn or otherwise disable all such stations. <seg type="Context" subtype="Polygamy">Besides this the ablest and shrewdest diplomates of Zion have been dispatched to <placeName type="settlement" key="Washington, DC">Washington</placeName> with unlimited supplies of gold to watch Congressmen and corrupt them so as to prevent any hostile measures being passed upon the Polygamy Question.</seg></p>
+
+<p>It is a well settled scientific fact that the gulches in the Mountains of Salt Lake region are the richest gold bearing localities on the Continent. It is another equally well settled fact, that, from the very first settlement
+
+<pb n="74" xml:id="mmm.fiction.bradshaw.1870.74"/>
+
+of <placeName type="state" key="Utah Territory">Utah</placeName> by <persName key="Young, Brigham">Young</persName> and his followers, the Prophet forbade under the strictest penalties, any search being made for the precious metals. But it seems that since then certain high dignitaries of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> have been mining these <choice><sic>placers</sic><corr>places</corr></choice>, which were forbidden to the common herd of Saints, thereby adding untold wealth to their own private purses.</p>
+
+<p>Among the most notable of these forbidden Canyons is the Great Cottonwood Canyon. The entrance to this gigantic fissure as it were is exceedingly narrow, and both walls on either side are perfectly inaccessible. There is therefore not the slightest possibility of getting into the Canyon except by the regular entrance, and this is most zealously guarded by a picked body of armed guards, who, themselves are never permitted to go further in than a certain distance. Up the sides of this Canyon stretch immense forests of trees, which are very valuable for lumber, all of which, as we have before remarked Brother <persName key="Young, Brigham">Brigham</persName> monopolizes. Beneath the surface of those everlasting bills the earth teems with the richest gold and silver ores, and doubtless this accounts for the strictness with which the Canyon is guarded.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

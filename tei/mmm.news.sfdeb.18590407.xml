@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfdeb.18590407">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Mountain Meadows Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfdeb.18590407</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">As Cradelbaugh investigates, assertions of Mormon blame abound.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">THE MOUNTAIN MEADOWS MASSACRE</title>
+		    <title level="j">San Francisco Daily Evening Bulletin</title>
+		    <author>Editor San Francisco Daily Evening Bulletin</author>
+		    <publisher></publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1859-04-07">1859-04-07</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	     <textClass>
+	         <keywords scheme="original" n="category">
+	             <term>newspaper</term>
+	         </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term>Mormon</term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+		    <term>Non-Mormon</term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+     <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2008-04-09"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+<pb n="unknown" xml:id="mmm.news.sfdeb.18590407.001"/>
+
+<head>THE MOUNTAIN MEADOWS MASSACRE.&#8212;</head> 
+    
+<p>Our readers will not have forgotten the thrill of horror with which they received intelligence of the massacre <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, in southern <placeName type="state" key="Utah Territory">Utah</placeName></seg>, of <seg type="Massacre" subtype="Casualties">over a hundred emigrants</seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">from Arkansas</seg> <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California Territory">California</placeName></seg>. <seg type="Blame" subtype="IndiansIndependently">At that time, this terrible slaughter was attributed solely to Indians</seg>; but <seg type="Blame" subtype="LDS_LDS">subsequent developments led to the suspicion that the attack was stimulated and aided by members of the Mormon communities settled in the vicinity of the scene of blood</seg>. <seg type="Source" subtype="WordofMouth">From time to time, since, these dark suspicions have been confirmed by admissions of Mormons themselves, or <seg type="Context" subtype="LDSApostates">of men who have abandoned the church</seg>.</seg> A few months ago, about the time when the army under <persName key="Johnston, Sidney">General Johnston</persName> entered the Valley of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, a gentleman from California visiting the Mormon southern settlements, embraced the opportunity to push inquiries in regard to the massacre, and <seg type="Massacre" subtype="Battle">learned that the struggle in which the emigrants lost their lives was protracted during a period of nearly three weeks, and yet it was not claimed that <seg type="Blame" subtype="LDS_LDS">the Mormons tendered the assailed the slightest assistance</seg>.</seg> This fiendish disregard, of all obligation to aid their fellow-man, prepares us to receive with credit the statements ci (sic) other witnesses, <seg type="Blame" subtype="LDS_LDSRetribution">who say that the attack was prompted and led by Mormons, that its purpose was to chastise the emigrants for offences against Mormondom, and that <seg type="Massacre" subtype="Spoils">an agreement was made between the Indians and their Mormon allies, by which the former were to take the cattle of the party and the Mormons their wagons. We have also had evidence that the Mormons did not keep faith with the Indians, but themselves retained the greater part of the cattle, which, as late as June last, were still in their possession.</seg><seg type="Reaction" subtype="FederalInvestigation"> </seg><persName key="Cradlebaugh, John">Judge Cradlebaugh</persName>, of the U.S. District Court at <placeName type="settlement" key="Provo City, UT">Provo city</placeName>, evidently is satisfied that these terrible stories are not without foundation, for in a recent charge to the Grand Jury, he alluded to the case, <seg type="Blame" subtype="LDS_LDS">distinctly declaring that others than Indians were engaged in the slaughter</seg>. There is too much reason to fear that no conviction of Mormons can be had. Still, if the Judge can <seg type="Reaction" subtype="StateInvestigation">secure a thorough investigation</seg>, clear up the dread mystery, and fix the guilt where it belongs, he will have accomplished a most desirable end.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

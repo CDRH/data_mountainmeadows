@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.whitney.1908">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Making of a State: A School History of Utah</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Orson</forename> <forename type="middle">F.</forename> <surname>Whitney</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.whitney.1908</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Making of a State: A School History of Utah</title>
+                    <author><forename>Orson</forename> <forename type="middle">F.</forename> <surname>Whitney</surname></author>
+                    <publisher>The Deseret News</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>103-104</extent>
+                    <date when="1908">1908</date>
+                    <note type="source">Orson F. Whitney. <hi rend="italic">The Making of a State: A School History of Utah.</hi> Salt Lake City, UT: The Deseret News, 1908. 103-4.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-05-05"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+
+<pb n="103" xml:id="mmm.uh.whitney.1908.103"/>
+
+<p><hi rend="bold">The Mountain Meadows Massacre.</hi> At this very time was perpetrated, in a far-away corner of <placeName type="state" key="Utah Territory">the Territory</placeName>, that horrible deed, the Mountain Meadows Massacre, the most deplorable event in the history of <placeName type="state" key="Utah Territory">Utah</placeName>. <seg type="Massacre" subtype="Dates">It occurred on the eleventh of September</seg>, while Captain <persName key="Van Vliet, Stewart">Van Vliet</persName> was still at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>; but the news did not reach this point until nearly three weeks later, and even then the awful tale was not fully told. It was not a day of railroads and telegraphs, and <seg type="Massacre" subtype="Location">the scene of the massacre was three hundred miles from the Territorial capital, in an Indian country, beyond the outskirts of civilization</seg>.</p>
+
+<p>According to the facts now known, <seg type="Emigrants" subtype="StateAffiliationArkansas">a company of emigrants from the State of <placeName type="state" key="Arkansas">Arkansas</placeName></seg> was <seg type="Emigrants" subtype="Route">passing through <placeName type="state" key="Utah Territory">Utah</placeName></seg> <seg type="Massacre" subtype="Dates">in the summer and autumn of 1857</seg>. <seg type="Emigrants" subtype="Route">They were traveling by what was known as "The Southern Route," which led from <placeName type="settlement" key="Salt Lake City">Salt Lake City</placeName> through <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, <placeName type="settlement" key="Parowan, UT">Parowan</placeName> and <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. There, turning southwest, it crossed the desert to Southern <placeName type="state" key="California">California</placeName>.<ref target="n0001">&#8225;</ref> The travelers had passed the last <placeName type="state" key="Utah Territory">Utah</placeName> settlement, and were encamped at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, thirty or forty miles beyond</seg>, when <seg type="Blame" subtype="IndiansLDSInfluence">they were set upon by a large band of Indians <seg type="Blame" subtype="LDS_LDS">led by
+
+<note xml:id="n0001">&#8225;Much of that early trail is now covered by the track of the <placeName type="settlement" key="San Pedro, CA">San Pedro</placeName>, <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName> and Salt Lake Railroad.</note>
+
+<pb n="104" xml:id="mmm.uh.whitney.1908.104"/>
+
+<persName key="Lee, John D.">John D. Lee</persName>, and slaughtered without mercy.</seg></seg> <seg type="Context" subtype="IndianRelationsLDS"><persName key="Lee, John D.">Lee</persName> was a farmer among the red men, and had great influence over them.</seg> <seg type="Blame" subtype="LDS_LDS">Other white men also took part in the killing.</seg> <seg type="Massacre" subtype="Casualties">The slain numbered one hundred and twenty.</seg> <seg type="Massacre" subtype="Survivors">Seventeen small children were spared, and were afterwards returned to <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg></p>
+
+<p>Two weeks and four days later, <persName key="Lee, John D.">Lee</persName> reported the massacre to Governor <persName key="Young, Brigham">Young</persName>, in person. <persName key="Young, Brigham">The Governor</persName> was horrified, and wept at the recital. <seg type="Blame" subtype="IndiansIndependently"><persName key="Lee, John D.">Lee</persName> laid the blame entirely upon the Indians, declaring that no white men were engaged in the affair; and for a long time it was believed that the savages alone were responsible.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">Gradually, however, the truth leaked out, and the chief criminal was brought to justice and paid the penalty of his crime.</seg><ref target="n0002">*</ref></p>
+
+<note xml:id="n0002">*<persName key="Lee, John D.">Lee</persName> was tried in the District Court at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>. One of his confederates&#8212;<persName key="Klingensmith, Philip">Philip Klingensmith</persName>&#8212;turned states evidence and testified against himself and his former associate. <persName key="Klingensmith, Philip">Klingensmith</persName> was released, but <persName key="Lee, John D.">Lee</persName> was sentenced to be shot, and was executed at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, March 23, 1877. Others implicated in the massacre were fugitives from justice for many years, and finally died in exile.</note>
+
+</body>
+</text>
+</TEI>

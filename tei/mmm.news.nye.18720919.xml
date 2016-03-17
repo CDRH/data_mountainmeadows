@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nye.18720919">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Current Events</title>
+		<title level="m" type="sub">The Mountain Meadows Massacre</title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+	    	<edition>
+		    <date>2010</date>
+		</edition>
+	    </editionStmt>
+	    <publicationStmt>
+		<idno>mmm.news.nye.18720919</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	     </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">New York Evangelist</title>
+		    <title level="a" type="main">CURRENT EVENTS.</title> 
+		    <title level="a" type="sub">The Mountain Meadows Massacre.</title>
+		    <author></author>
+	  	    <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1872-09-19">September 19, 1872</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords n="culpability" scheme="original">
+		<term></term>
+	    </keywords>
+	    <keywords n="action" scheme="original">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-20"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2009-10-01"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="newspaper">
+	
+	<pb n="unknown" xml:id="mmm.news.nye.18720919.001"/>
+
+<head type="main">CURRENT EVENTS.</head>
+	
+	<gap reason="irrelevant" />
+	
+<div2>
+<head type="sub">The Mountain Meadows Massacre.</head>
+
+<p><seg type="Source" subtype="Reprinted">There has just been published at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName></seg>, with the authenticating certificates of Chief <persName key="McKean, James B.">Justice McKean</persName> and  <persName key="Strickland, O. F.">Mr. Justice Strickland</persName>, of the Utah Supreme Court, a copy of <seg type="Source" subtype="Attributed_Klingensmith">an affidavit purporting to have been made in <placeName type="county" key="Lincoln County, NV">Lincoln county</placeName>, <placeName type="state" key="Nevada">Nevada</placeName>, a year and a half ago, by one <persName key="Klingensmith, Philip">Philip Klingon Smith</persName>.</seg> <seg type="Blame" subtype="LDS_LDS">He describes himself as at the time of the events a Mormon bishop and an involuntary participant in them</seg>, recounting the treacherous massacre of <seg type="Massacre" subtype="Casualties"><seg type="Emigrants" subtype="WagonTrain">a party of emigrants</seg></seg> <seg type="Emigrants" subtype="Route">to <placeName type="state" key="California">California</placeName></seg>, <seg type="Massacre" subtype="Location">At <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, <seg type="Blame" subtype="LDS_LDSLeadership">by a regiment of Mormon militia whose action (if not originally directed) was subsequently acquiesced in by <persName key="Young, Brigham">Brigham Young</persName>.</seg></p> 
+
+<p><seg type="Source" subtype="Attributed_Klingensmith">According to <persName key="Klingensmith, Philip">Smith</persName>'s statement the manner of the massacre was cowardly in the extreme.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">After an unsuccessful skirmish of several days, <seg type="Massacre" subtype="Surrender">the Mormons being reinforced, demanded that the emigrants should lay down their arms, with the added assurance that all their lives should be spared.</seg> <seg type="Massacre" subtype="Casualties">No sooner however had they complied, and <seg type="Massacre" subtype="Survivors">the women and children been separated from the men</seg>, than the latter were placed in a hollow square of the Mormon militia and shot <cb n="2" /> down in cold blood.</seg></seg></seg> Such is the story. That it should be denied at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, is natural.</p> 
+</div2>
+</div1>
+</body>
+</text>
+</TEI>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.bowles.1865">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Across the Continent</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>Samuel</forename> <surname>Bowles</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.bowles.1865</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Across the Continent</title>
+                    <author><forename>Samuel</forename> <surname>Bowles</surname></author>
+                    <publisher>Samuel Bowles &amp; Company; Hurd &amp; Houghton</publisher>
+                    <pubPlace>Springfield, MA; New York, NY</pubPlace>
+                    <extent>105-113</extent>
+                    <date when="1865">1865</date>
+		    <note type="source">Samuel Bowles. <hi rend="italic">Across the Continent</hi>. Springfield, MA: Samuel Bowles &amp; Company; New York: Hurd &amp; Houghton, 1865. 105-113.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-16"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="105" xml:id="mmm.wa.bowles.1865.105"/>
+
+<head>LETTER XI.</head>
+
+<head type="sub">THE POLYGAMY QUESTION.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<opener><dateline>Salt Lake City, June 18.</dateline></opener>
+
+<p>O<hi rend="smallcaps">ur</hi> visit here closes in the morning. It has been very interesting, instructive and gratifying to us. We have had unusual opportunities for learning the opinions of the Mormons, for studying their institutions, for measuring their culture and capacity, for observing their social, material and religious development, and for informing ourselves as to the conflict fast growing up between them and the non-Mormons who are rapidly accumulating in the community. The leaders in the church and in society have been generous and constant in their hospitality, and frank in their conversation, partly, I will not doubt, from a hearty, human good feeling, and partly, no doubt, also, from anxiety as to the future policy of the government towards them and their institutions, and eagerness to propitiate political and public opinion in their favor. We have attended the services at the Mormon Tabernacle on two successive Sabbaths, on one of which Brigham Young himself preached in exposition and defense of the doctrines of his church. Mr. Colfax and his friends
+
+<pb n="106" xml:id="mmm.wa.bowles.1865.106"/>
+
+have also had two long interviews with Brigham Young and the other leaders of the church, in one of which the peculiar institution of the people was freely and frankly but most earnestly discussed by all. The testimony and opinions of the "Gentiles," and of intelligent citizens, men and women, who, once Mormons, have now left the church, have been freely offered to us, and gladly heard. Valuable facts and opinions have also been gathered from old and intelligent citizens, who have held a sort of independent and neutral position, who are neither polygamists in theory or practice, nor members of the church, but who, either from motives of policy or qualities of temperament, have taken no part with the pronounced and denouncing "Gentiles." Nor have the opinions and feelings of women in polygamy been wholly denied to us; though we have not been offered their society by their husbands with any particular generosity;&#8212;this, indeed, being the only feature of their hospitality that has been measured and chary.</p>
+
+<p>The result of the whole experience has been to increase my appreciation of the value of their material progress and development to the nation; to evoke congratulations to them and to the country for the wealth they have created and the order, frugality, morality and industry that have been organized in this remote spot in our Continent; to excite wonder at the perfection and power of their church system, the extent of its ramifications, the sweep of its influence; and to enlarge my respect for the personal sincerity and character of many of the
+
+<pb n="107" xml:id="mmm.wa.bowles.1865.107"/>
+
+leaders in the organization;&#8212;also, and on the other hand, to deepen my disgust at their polygamy, and strengthen my convictions of its barbaric and degrading influences. They have tried it and practised it under the most favorable circumstances, perhaps under the mildest form possible; but, now as before, here as elsewhere, it tends to and means only the degradation of woman. By it and under it, she becomes simply the servant and serf, not the companion and equal of man; and the inevitable influence of this upon all society need not be depicted.</p>
+
+<p>But I find that Mormonism is not necessarily polygamy; that the one began and existed for many years without the other; that not all the Mormons accept the doctrine, and not one-fourth, perhaps not one-eighth practise it; and that the Nation and its government may oppose it and punish it, without at all interfering with the existence of the Mormon church, or justly being held as interfering with the religious liberty that is the basis of all our institutions. This distinction has not been sufficiently understood heretofore, and it has not been consistently acted upon by either the government or the public of the East. Here, by the people, who are coming in to enjoy the opportunities of the country for trade and mining, and there, by our rulers at Washington and by the great public, this single issue of polygamy should be pressed home upon the Mormon church,&#8212;discreetly and with tact, with law and with argument and appeal, but with firmness and power.</p>
+
+<pb n="108" xml:id="mmm.wa.bowles.1865.108"/>
+
+<p>Ultimately, of course, before the influences of emigration, civilization and our democratic habits, an organization so aristocratic and autocratic as the Mormon church now is must modify its rule; it must compete with other sects, and take its chance with them. And its most aristocratic and uncivilized incident or feature of plurality of wives must fall first and completely before contact with the rest of the world,&#8212;marshalled with mails, daily papers, railroads and telegraphs,&#8212;ciphering out the fact that the men and women of the world are about equally divided, and applying to the Mormon patriarchs the democratic principle of equal and exact justice. Nothing can save this feature of Mormonism but new flight, and a more complete isolation. A kingdom in the sea, entirely its own, could only perpetuate it; and thither even, commerce and democracy would ultimately follow, it The click of the telegraph and the roll of the overland stages are its death-rattle now; the first whistle of the locomotive will sound its requiem; and the pickax of the miner will dig its grave. Squatter sovereignty will speedily settle the question, even if the government continues to coquette with it and humor it, as it has done.</p>
+
+<p>But the government should no longer hold a doubtful or divided position toward this great crime of the Mormon church. Declaring clearly both its want .of power and disinclination to interfere at all with the church organization as such, or with the lat-ter's influence over its followers, assuring and guaranteeing to it all the liberty and freedom that other
+
+<pb n="109" xml:id="mmm.wa.bowles.1865.109"/>
+
+religious sects hold and enjoy, the government should still, as clearly and distinctly, declare, by all its action and all its representatives here, that this feature of polygamy, not properly or necessarily a part of the religion of the Mormons, is a crime by the common law of all civilization and by the statute law of the Nation, and that any cases of its extension will be prosecuted and punished as such. Now half or two-thirds the federal officers in the Territory are polygamists; and others bear no testimony against it. These should give way to men who, otherwise equally Mormons it may be, still are neither polygamists nor believers in the practice of polygamy. No employes or contractors of the government should be polygamists in theory or practice.</p>
+
+<p>Here the government should take its- stand, calmly, quietly, but firmly, giving its moral support and countenance, and its physical support, if necessary for fair play, to the large class of Mormons who are not polygamists, to missionaries and preachers of all other sects, who choose to come here, and erect their standards and invite followers; and to that growing public opinion, here and elsewhere, which is accumulating its inexorable force against an institution which has not inaptly been termed a twin barbarism with slavery. There is no need and no danger of physical conflict growing up; only a hot and unwise zeal and impatience on the part of the government representatives, and in the command of the troops stationed here, could precipitate that. The probability is, that, upon such
+
+<pb n="110" xml:id="mmm.wa.bowles.1865.110"/>
+
+a demonstration by the government, as I have suggested, the leaders of the church would receive new light on the subject themselves,&#8212;perhaps have a fresh revelation, and abandon the objectionable feature in their polity. No matter if they did not,&#8212;it would soon, under the influences now rapidly aggregating, and thus reinforced by the government, abandon them.</p>
+
+<p>In this way, all violent conflict would, I believe, be successfully avoided; and all this valuable population and its, industries and wealth may be retained in place and to the Nation, without waste. Let them continue to be Mormons, if they choose, so long as they are not polygamists. They may be ignorant and fanatical, and imposed upon and swindled even, by their church leaders; but they are industrious, thriving, and more comfortable than, on an average, they have ever been before in the •homes from which they came hither; and there is no law against fanaticism and bigotry and religious charlatanry. All these evils of religious benight-ment are not original in Utah, and they will work out their own cure here, as they have done elsewhere in our land. We must have patience with the present, and possibly forgiveness for supposed crimes in the past by the leaders, because we have heretofore failed to meet the issues promptly and clearly, and have shared by our consent and protection to their authors in the alleged wrongs.</p>
+
+<p>The conversation I have alluded to with Brigham Young and some of his elders, on this subject of polygamy, was introduced by his inquiring of Mr.
+
+<pb n="111" xml:id="mmm.wa.bowles.1865.111"/>
+
+Colfax what the government and people of the East proposed to do with it and them, now that they had got rid of the slavery question. The Speaker replied that he had no authority to speak for the government ; but for himself, if he might be permitted to make the suggestion, he had hoped the prophets of the church would have a new revelation on the subject, which should put a stop to the practice. He added further that, as the people of Missouri and Maryland, without waiting for the action of the general government against slavery, themselves believing it to be wrong and an impediment to their prosperity, had taken measures to abolish it, so he hoped the people of the Mormon church would see that polygamy was a hindrance and not a help, and move for its abandonment Mr. Young responded quickly and frankly that he should readily welcome such a revelation; that polygamy was not in the original book of the Mormons: that it was not an essentia] practice in the church, but only a privilege and a duty, under special command of God; that he knew it had been abused; that people had entered into polygamy who ought not to have done so, and against his protestation and advice. At the same time, he defended the practice as having biblical authority, and as having, within proper limits, a sound, moral and philosophical reason and propriety.</p>
+
+<p>The discussion, thus opened, grew general and sharp, though ever good-natured. Mr. Young was asked how he got over the fact that the two sexes were about equally divided all over the world, and that, if some men had two, five, or twenty wives,
+
+<pb n="112" xml:id="mmm.wa.bowles.1865.112"/>
+
+others would have to go without altogether. His reply was that there was always a considerable proportion of the men who would never marry, who were old bachelors from choice. But, retorted one, are there any more of such than of women who choose to be old maids? Oh yes, said he, most ungallantly; there is not one woman in a million who will not marry if she gets a chance! One of the saints, who was pressing the biblical usage and authority for many wives as above all laws and constitutions, was asked as to the effect of the same usage and authority for human sacrifice,&#8212;would you, he was asked, if commanded by God, offer up your son or your enemy as a sacrifice, killing them? Yes, he promptly replied. Then the civil law would lay its hands upon you and stop you, and would be justified in doing so, was the apparently effective answer.</p>
+
+<p>In the course of the discussion, Mr. Young asked, suppose polygamy is given up, will not your government then demand more,&#8212;will it not war upon the Book of the Mormons, and attack our church organization? The reply was emphatically No, that it had no right, and could have no justification to do so, and that we had no idea there would be any disposition in that direction.</p>
+
+<p>The talk, which was said to be the freest and frankest ever known on that subject in that presence, ended pleasantly, but with the full expression, on the part of Mr. Colfax and his friends, of their hope that the polygamy question might be removed from existence, and thus all objection to the <choice><orig>admis-
+
+<pb n="113" xml:id="mmm.wa.bowles.1865.113"/>
+
+sion</orig><reg>admission</reg></choice>
+ of Utah as a State be taken away; but that, until it was, no such admission was possible, and that the government could not continue to look indifferently upon the enlargement of so offensive a practice. And not only what Mr. Young said, but his whole manner left with us the impression that, if public opinion and the government united vigorously, but at the same time discreetly, to press the question, there would be found some way to acquiesce in the demand, and change the practice of the present fathers of the church.</p>
+
+<p>The conversation was continued on the subjects of punishing the leading rebels, and of slavery in the abstract. Mr. Young favored slavery <hi rend="italic">per se</hi> as established by Divine authority, but denounced the chattel system of the South; and he opposed the hanging of any of the rebel chiefs as an unwise and aggravating policy. Now that peace is established, let all be pardoned, he said; but early in or during the war, he would have disposed of the rebel chiefs that fell into the hands of the government without mercy or hesitation. Had he been President when Mason and Slidell were captured, he would have speedily put them "where they never would peep," and negotiated with England afterwards. <seg type="Blame" subtype="LDS_LDS">He uttered this sentiment with such a wicked working of the lower jaw and lip, and such an almost demon-like spirit in his whole face, that, quite disposed to be incredulous on those matters, I could not help thinking of the Mountain Meadow massacre of recusant Mormons, of Danites and Avenging Angels, and their reported achievements.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

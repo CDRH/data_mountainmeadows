@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.green.1876">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Fifteen Years' Residence with the Mormons: With Startling Disclosures of the Mysteries of Polygamy</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Nelson</forename> <forename type="middle">Winch</forename> <surname>Green</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.green.1876</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Fifteen Years' Residence with the Mormons: With Startling Disclosures of the Mysteries of Polygamy</title>
+                    <author><forename>Nelson</forename> <forename type="middle">Winch</forename> <surname>Green</surname></author>
+                    <publisher>Phoenix Pub. Co.</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>470</extent>
+                    <date when="1876">1876</date>
+                    <note type="source">Nelson Winch Green. <hi rend="italic">Fifteen Years Among the Mormons; or, Mormonism, Its Rise, Progress, and Present Condition</hi>. Chicago, IL: Phoenix Pub. Co., 1876. 470</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p>No mention of Mountain Meadows Massacre in 1858, 1859 or 1860 editions.</p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-10-12"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name>Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+        
+<pb n="470" xml:id="mmm.anti.green.1876.470"/>
+
+<p>And on the other hand, <seg type="Blame" subtype="LDS_LDSLeadership">it was <persName key="Young, Brigham">Brigham Young</persName>, who, <seg type="Blame" subtype="IndiansLDSInfluence">through his trained assassins, disguised as Indians, did the Mountain Meadow massacre</seg></seg>; and by whose order, <persName key="Hickman, William">William Hickman</persName>, the disaffected leader of this band, has lately acknowledged he had committed over four hundred murders in <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<p>And yet, while the little sinners of the land are punished, <persName key="Young, Brigham">Brigham</persName> is treated with the consideration due a "political offender;" and while we organize powerful agencies for the conversion of the heathen abroad, we neglect to interpose an enlightened Christianity in behalf of his victims at our doors.</p>
+
+<!-- This Section is not relevant to Mountain Meadows:
+
+<p>There is much diference of statement as to the actual Mormon strength. The sect claim to number in <placeName type="state" key="Utah Territory">Utah</placeName> from 80,000 to 100,000; but it is represented by other inhabitants of the territory, as not greatly exceeding 50,000. They have adherents scattered over the country in small numbers,&#8212;about 200 in and about New York; and claim in the old world a membership of 100,000,&#8212;mostly in Europe, &#8212;but also scattered through Asia, Anim, Australia, and Polynesia.</p>
+
+<p><placeName type="state" key="Utah Territory">Utah</placeName> has 65,000 square miles, or 41,600,000 acres, only about 500,000 acres of which can be cultivated, even by ir1igation,&#8212;about one acre in eighty-three. It has 180 cities and villages, one of which,&#8212;<placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>,&#8212;has 20,000 inhabitants. It has 160,000 acres of land under cultivation, 94,000 of which is by irrigation, the water-rents for which,&#8212;paid by the people to the heads of the church,&#8212;</p>
+
+-->
+
+</body>
+</text>
+</TEI>

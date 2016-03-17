@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.stout.1967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">History of Utah, Volume I, 1870-1896</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Wayne</forename> <surname>Stout</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.stout.1967</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">History of Utah, vol. I, 1870-1896</title>
+                    <author><forename>Wayne</forename> <surname>Stout</surname></author>
+                    <publisher>self-published</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>66-68; 81-95</extent>
+                    <date when="1967">1967</date>
+                    <note type="source">Wayne Stout. <hi rend="italic">History of Utah, vol. I, 1870-1896.</hi> Salt Lake City, UT: self-published, 1967. 66-68, 81-95. 
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-06-29"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1>
+
+<pb n="66" xml:id="mmm.uh.stout.1967.066"/>
+
+<p><hi rend="bold">John D. Lee</hi>&#8212;The notorious trial of <persName key="Lee, John D.">John D. Lee</persName> began in 1875. <persName key="Lee, John D.">Lee</persName> was charged as an accessory in the Mountain Meadows Massacre of <seg type="Massacre" subtype="Dates">September 11, 1857</seg>. Since that crime took place 13 years before this history began we are only concerned with his arrest, trial and execution. He was arrested November 9, 1874, at <placeName type="settlement" key="Panguitch">Panguitch</placeName>, <placeName type="state" key="Utah">Utah</placeName>. This chapter will include his first trial in 1875. The origin of this tragedy cannot be described here so the reader is referred to the best exposition in print, the History of Utah by <persName key="Neff, Andrew L.">Andrew L. Neff</persName>, pp. 410-432.</p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">Until this history began in 1870, it was generally believed the Indians were responsible for the massacre. Indian attacks on white wagon trains was a common occurrence between 1850 and 1869. </seg><seg type="Blame" subtype="LDS_LDS">The truth that white men were involved in the massacre finally leaked out.</seg> At first the public refused to believe it. <seg type="Blame" subtype="LDS_LDSLeadership">When the whole truth was finally accepted, the enemies of the church rushed to the conclusion that the Mormon authorities had ordered the slaughter. A policy of silence by the leaders served to increase these suspicions. Hesitation to deny these accusations was interpreted to imply guilt. These false assumptions led to the belief that <persName key="Young, Brigham">Brigham Young</persName> was wholly responsible for the crime. Belief was soon replaced by the conviction that the Mormon Church believed and taught murder as a doctrine of the church.</seg> <seg type="Blame" subtype="LDS_LDSBloodAtonement">The emigrants, it was alleged, were wicked and immoral and consequently were in danger of damnation. They should be murdered, so it was falsely charged, to save them from hell. This, allegedly, was the doctrine of blood atonement. Once these insane conclusions were accepted, so it was charged, the emigrants were sacrificed to satisfy a carnal lust for blood.</seg> These falsehoods were broadcast to the entire world with such ardent vehemence and vigor the church was forced to defend itself. <persName key="Cannon, George Q.">George Q. Cannon</persName> was the first to accept the challenge and issued a vigorous defense of the charges, quoted by the News Weekly, December 1, 1869:</p>
+
+<p>"Our silence upon the subject is frequently construed as an evidence of the inability of the people of this Territory to defend themselves against the cruel charges which have been made against them in connection with the tragedy. <seg type="Reaction" subtype="StateInvestigation">It is almost a pity to break this silence now. . . . After Governor <persName key="Cumming, Alfred">Alfred Cumming</persName> was installed, President <persName key="Young, Brigham">Young</persName> urged upon the governor the propriety of taking steps to investigate this occurrence. A desire for a thorough examination was seconded by the entire community, for all felt a most cruel
+
+<pb n="67" xml:id="mmm.uh.stout.1967.067"/>
+
+and unjust aspersion had been cast upon them. To render what aid he could, President <persName key="Young, Brigham">Young</persName> proffered to go with the federal officers to the vicinity of the outrage, and use every effort in his power to sift the matter to the uttermost, and discover the guilty ones. But this was no part of the policy of the judges. Such a course would settle the question but they were interested in keeping it open."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">From <persName key="Cannon, George Q.">Cannon</persName>'s testimony we learn that six years prior to the first trial of <persName key="Lee, John D.">Lee</persName>, it was the policy of the prosecution not to fix the guilt on the little men who actually committed the crime, but to implicate the Mormon Church, who, allegedly, master-minded the massacre.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">After the horrible crime was committed, the bloody felons entered into a solemn oath of secrecy to not disclose their identity. The penalty was death. <seg type="Blame" subtype="IndiansIndependently">In reporting the incident, all were pledged to place all the blame on the Indians, the whites using all the restraint possible.</seg> The Indians never took the oath&#8212;
+a fatal blunder. Years later they talked.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">In pursuance of the oath of secrecy, <persName key="Lee, John D.">John D. Lee</persName> went to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, September 29, 1857, and made a "full" report to <persName key="Young, Brigham">Brigham Young</persName>. In the presence of <persName key="Woodruff, Wilford">Wilford Woodruff</persName> (who recorded <persName key="Lee, John D.">Lee</persName>'s words in his Journal), he related the fabricated story. He placed all the blame on the Indians. He pictured himself as an innocent bystander, who did all he could to restrain the Indians. Convinced of <persName key="Lee, John D.">Lee</persName>'s "honesty", <persName key="Young, Brigham">Brigham</persName> cautioned <persName key="Lee, John D.">Lee</persName> not to repeat the story to anyone.</seg> The President recognized the possibility of the massacre becoming a dangerous issue. The church leaders continued to have faith in <persName key="Lee, John D.">Lee</persName> till 1861. <seg type="Blame" subtype="LDS_LDS">About that time <persName key="Snow, Erastus">Erastus Snow</persName> became suspicious and began investigating. By 1870 he was fully convinced that <persName key="Lee, John D.">Lee</persName> was implicated. He had talked with the Indians who took part in the slaughter. Those red men were not bound by oaths of secrecy. They refused to take all the blame for the killing. When <persName key="Snow, Erastus">Snow</persName> was sure of <persName key="Lee, John D.">Lee</persName>'s guilt, he submitted his evidence to <persName key="Young, Brigham">Brigham Young</persName>. The President was emotionally shocked by the intelligence. <persName key="Lee, John D.">Lee</persName>'s treachery was un-beievable. "<persName key="Lee, John D.">Lee</persName> has lied to me," was <persName key="Young, Brigham">Brigham</persName>'s only comment. President Young asked Erastus to make another more thorough investigation and report back to him. <persName key="Snow, Erastus">Snow</persName> returned to southern <placeName type="state" key="Utah Territory">Utah</placeName>, made an exhaustive inquiry, found unimpeachable proof that <persName key="Lee, John D.">Lee</persName> and <persName key="Haight, Isaac C.">Isaac C. Haight</persName> were deeply involved in the <choice><sic>masacre</sic><corr>massacre</corr></choice>. The President promptly placed the evidence before the Council of the Twelve who excommunicated both <persName key="Lee, John D.">Lee</persName> and <persName key="Haight, Isaac C.">Haight</persName> October 8, 1870.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Pressure from the public to identify and bring to justice those responsible for the outrage was awakened by <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, one of the felons, who, on April 10, 1871, offered to turn state's evidence in return for clemency. He prepared a written statement giving in detail his version of the <choice><sic>masacre</sic><corr>massacre</corr></choice>. Other witnesses came forward with additional evidence that pointed the finger of suspicion against several prominent actors in the conspiracy. September 25, 1874, a grand jury was called. Nine indictments were found against: <persName key="Dame, William H.">William H. Dame</persName>, <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, <persName key="Lee, John D.">John D. Lee</persName>, <persName key="Higbee, John M.">John M. Higbee</persName>, <persName key="Adair, George Jr.">George Adair Jr.</persName>, <persName key="Wilden, Eiliot">Eliot Wilden</persName>, <persName key="Jukes, Samuel">Samuel Jukes</persName>, <persName key="Klingensmith, Philip">Philip Klingensmith</persName> and <persName key="Stewart, William C.">William C. Stewart</persName>. <persName key="Dame, William H.">Dame</persName> and <persName key="Lee, John D.">Lee</persName> were arrested and imprisoned.</seg></p>
+
+<pb n="68" xml:id="mmm.uh.stout.1967.068"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">The trial of <persName key="Lee, John D.">Lee</persName> began July 23, 1875, at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>. Judge <persName key="Boreman, Jacob S.">Boreman</persName> pre-siding. The prosecutors, <persName key="Cary, William C.">Cary</persName> and <persName key="Baskin, Robert N.">Baskin</persName>, were not interested in the conviction of <persName key="Lee, John D.">Lee</persName>, they wanted to implicate the Mormon Church. A week before the trial, <persName key="Lee, John D.">Lee</persName> had caused a sensation when he announced he had a confession to make. The prosecution was sure <persName key="Lee, John D.">Lee</persName> was going to turn state's evidence and expose the church. To their disappointment he only implicated <persName key="Dame, William H.">Dame</persName>, <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John M.">Higbee</persName> from whom, he claimed, he received all his instructions. His testimony entirely absolved <persName key="Young, Brigham">Brigham Young</persName> of complicity. <seg type="Source" subtype="Attributed_Klingensmith"><persName key="Klingensmith, Philip">Klingensmith</persName> testified that <persName key="Lee, John D.">Lee</persName> had written orders from <persName key="Haight, Isaac C.">Haight</persName> to <seg type="Massacre" subtype="Casualties">destroy every adult</seg>, but <seg type="Massacre" subtype="Survivors">save children too young to talk</seg>. In the summaries, the prosecutors argued that the Mormon leaders were fully responsible for the slaughter, but they could not convince the jurors. A hung jury of nine for acquittal and three for conviction was proof that the prosecution had failed to prove the church was guilty of the crime. Fourteen months later the trial was resumed.</seg></seg></p>
+
+</div1>
+<div1>
+
+<pb n="80" xml:id="mmm.uh.stout.1967.080"/>
+
+<p><hi rend="bold">Recapitulation</hi>&#8212;The hundredth anniversary of American independence did not include <placeName type="state" key="Utah Territory">Utah</placeName> in 1876. She had twenty more years of "colonial" vassalage to serve before winning her independence from a foreign dictatorship. Tyranny, not self-government, was <placeName type="state" key="Utah Territory">Utah</placeName>'s plight. Political chicanery, not pure democracy, was <placeName type="state" key="Utah Territory">Utah</placeName>'s ordeal. Under Grantism, <placeName type="state" key="Utah Territory">Utah</placeName> was a conquered territory.</p>
+
+<pb n="81" xml:id="mmm.uh.stout.1967.081"/>
+
+<p>The struggle between governor and assembly was a replica of colonial times when the governor represented the crown and the general court the people. Governor <persName key="Emery, George W.">Emery</persName> was no improvement over <persName key="Andras, Edmund">Edmund Andras</persName>, governor of New England (1686). He too, dismissed the Legislature and abolished the courts which was duplicated by the enactment of the Poland Act. The Colonists objected to taxation without representation while the Mormons objected to the absolute veto of the governor. The independence of the Colonies was opposed by the Royalists who preferred to be ruled by the British; the Mormons who sought statehood were opposed by the Liberals who preferred the tyranny of Grantism. The <persName key="Lee, John D.">Lee</persName> and <persName key="Reynolds, George">Reynolds</persName> trials exposed the judicial chicanery practiced by a foreign court against a persecuted people by a brutal conqueror. The People's "Epistle" to the voters of <placeName type="state" key="Utah Territory">Utah</placeName> was modeled on the "Declaration of Rights and Grievances" <choice><sic>isued</sic><corr>issued</corr></choice> by the First Continental Congress of 1774. Both documents sought means of conciliation. Both enumerated a long list of grievances suffered by the memorialists, who, as victims, had reached the end of their patience. Like the Colonists in 1776, <placeName type="state" key="Utah Territory">Utah</placeName> solemnly declared that she "ought to be free" to make and administer her own laws and conduct her own courts of justice. Just as the Revolutionary Fathers fought against political chicanery, the <placeName type="state" key="Utah Territory">Utah</placeName> Fathers of 1876 fought against the intolerable political chicanery of Grantism.</p>
+
+</div1>
+
+<div1>
+
+<head>1877&#8212;ANGELS AND DEVILS</head>
+
+<p><placeName type="state" key="Utah Territory">Utah</placeName> was not that free and glorious sanctuary its 1847 founders intended it to be. Instead, thirty years later, <placeName type="state" key="Utah Territory">Utah</placeName> had become an asylum for dissenters of every shade of opinion, the bad as well as the good. The two principal antagonists represented by the "angels" and the "devils" made <placeName type="state" key="Utah Territory">Utah</placeName> a hot-house of contention. The angels championed majority rule, the devils, minority rule. On all moral issues the groups invariably divided, each accusing the other of infidelity. Those moral issues which plagued the peace was the threat of hostile legislation, the <persName key="Lee, John D.">Lee</persName> execution, a ridiculous divorce case, the <persName key="Reynolds, George">Reynolds</persName> episode, a vile press campaign, and finally another struggle for statehood. In these controversies the forces of evil were invariably opposed by those who sought justice and morality.</p>
+
+<p><hi rend="bold">Lee Executed</hi>&#8212;<persName key="Lee, John D.">Lee</persName> was scheduled to be executed January 26, but his appeal to the <placeName type="state" key="Utah Territory">Utah</placeName> Supreme Court extended his life another 56 days. At this hearing, January 31, Mr. <persName key="Bishop, William W.">W. W. Bishop</persName>, the defense attorney, cited seven errors in the indictment. Said he:</p>
+
+<p>"The whole Mormon Church was accessory either before or after the fact."</p>
+
+<p>The court completely ignored his challenge, and ten days later, February 10, Judge <persName key="Emerson, Phillip">Emerson</persName>, speaking for the court, <placeName type="state" key="Utah Territory">Utah</placeName> Reports, Vol. 2, pp. 447-456, said:</p>
+
+<p>"Upon the whole record we see no error, and in our opinion the <choice><orig>defend-
+
+<pb n="82" xml:id="mmm.uh.stout.1967.082"/>
+
+ant</orig><reg>defendedant</reg></choice>
+ was fairly and impartially tried, and was upon competent and sufficient legal evidence convicted of the crime for which he stood charged."</p>
+
+<p>This was <persName key="Lee, John D.">Lee</persName>'s last hope. Public opinion was vehemently against him. Society had really kicked him out for the wolves to devour. If, as the Tribune charged, he had an "awful secret" in his heart that would save him from the firing squad, it was time to act. Why should he die alone? For good reasons, he never made that confession. The truth was he had none to make. In despair, the Tribune confessed for him, February 14:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"The part <persName key="Lee, John D.">this Mormon Elder</persName> took in that dastardly and treacherous assassination was fully exposed by half a score of witnesses at his first trial in <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, some of whom were also participants in the butchery. It is not yet been brought out clearly in the evidence that <persName key="Young, Brigham">Brigham Young</persName> ordered this massacre of the <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName> emigrants</seg>, but the implication comes so near that he is convicted in the mind of every person who is acquainted with the facts."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The facts were that none of the evidence pointed in President <persName key="Young, Brigham">Young</persName>'s direction. The Supreme Court, having spoken, <persName key="Lee, John D.">Lee</persName> was returned to <placeName type="settlement" key="Beaver, UT">Beaver</placeName> where March 7, Judge <persName key="Boreman, Jacob S.">Boreman</persName> sentenced him to die March 23. His friends made a last ditch attempt to have him reprieved in exchange for a confession implicating the Mormon leaders. This was <persName key="Lee, John D.">Lee</persName>'s second opportunity to make a confession that would save him. Again the attempt failed. <persName key="Lee, John D.">Lee</persName> did not have a confession to make. The Liberals were again frustrated.</seg></p>
+
+<p>The Marshal in charge of the execution took <persName key="Lee, John D.">Lee</persName> to <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, 100 miles south, there, at the scene of the crime</seg>, executed him. There were phychological <choice><sic>rasons</sic><corr>reasons</corr></choice> for this action. Facing a firing squad on the very spot where he committed the deed might loosen his tongue. But neither the spot nor the <choice><sic>presenc</sic><corr>presence</corr></choice> of the guns intimidated him. He asked for one favor an opportunity to make a few remarks. The crowd gasped in fear of the dreaded confession. In a 600 word speech, he unloaded his mental burdens. A few excerpts should suffice, quoted from <persName key="Brooks, Juanita">Brooks</persName>, "Mountain Meadows Massacre", pp. 151, 152:</p>
+
+<p>"I feel resigned to my fate. I have done nothing intentionally wrong. My conscience is clear before God and man. . . . I used my utmost endeavors to save these people. . . . I am sacrificed to satisfy these feelings of others. I believe (<persName key="Young, Brigham">Brigham Young</persName>) is leading the people astray to destruction. I have been sacrificed in a cowardly, dastardly manner. Evidence against me is as false as the hinges of hell. What confidence can I have in such a man? I have none, and I don't think my Father in heaven has."</p>
+
+<p>It was a moving speech. Had he really been "sacrificed in a cowardly, dastardly manner"? Was the evidence used against him "false"? Why had he lost "confidence" in "such a man"? He probably had reference to <persName key="Young, Brigham">Brigham Young</persName>. The President had no part in convicting him. <persName key="Lee, John D.">Lee</persName> was most presumptious in attempting to speak for God. At least he did not accuse <persName key="Young, Brigham">Brigham</persName> of complicity nor collusion. The "mob" was appeased when the bullets ended <persName key="Lee, John D.">Lee</persName>'s life, March 23.</p>
+
+<pb n="83" xml:id="mmm.uh.stout.1967.083"/>
+
+<p>An appropriate valedictory editorial appeared in the News Weekly, March 28, assessing the responsibility for the massacre:</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">"That one thought was&#8212;how the responsibility of the whole affair could be effectively saddled upon the leading authorities of the church. If they could not saddle it there, they did not care to saddle it anywhere. If that could have been done, it would have been done years ago. But it never was done, because it could not be done. The innocent can never be proved guilty because such a thing is an impossibility."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The trial of <persName key="Lee, John D.">John D. Lee</persName> was another comedy of errors. The prosecution used <persName key="Lee, John D.">Lee</persName> as a scapegoat to convict the church if that could be done. If the Mormon Church had really been responsible for the massacre, its destiny would have been sealed. In this great struggle we witness again the angels battling for justice against the devils who insisted the innocent be unjustly punished to satisfy old hatreds.</seg></p>
+
+<p><hi rend="bold">A Statehood Dream</hi>&#8212;Soon after the short session began, Delegate <persName key="Cannon, George Q.">George Q. Cannon</persName> introduced a petition from <placeName type="state" key="Utah Territory">Utah</placeName> praying for the admission of <placeName type="state" key="Utah Territory">Utah</placeName> as a state. The Tribune editor bitterly opposed the movement, January 23, p .2:</p>
+
+<p>"While this law-defying hierarchy offend the nation with their assumptions of infallible power and outrage public morals with their filthy polygamous practices, Delegate <persName key="Cannon, George Q.">Cannon</persName>, the champion and oracle of all these <placeName type="state" key="Utah Territory">Utah</placeName> abominations, will knock at the door of the Union in vain."</p>
+
+<p>One day later the editor added:</p>
+
+<p>"It is clearly understood that statehood for <placeName type="state" key="Utah Territory">Utah</placeName> means the crushing out of all Gentile interests."</p>
+
+<p>Opponents of statehood had loudly demanded that the "Mormon question" be settled before any steps toward statehood be granted. The News editor strenuously objected to this procedure, January 24, p. 822:</p>
+
+<p>"As regards the settlement of the 'Mormon question' by Congress before <placeName type="state" key="Utah Territory">Utah</placeName> can become a State. What has Congress to do with the settlement of the 'Mormon question', or any other religious question before <placeName type="state" key="Utah Territory">Utah</placeName> becomes a State? ... This dragging of the subject of religion into the question of the admission of States is a mere political side issue, and is wholly irrelevant to the real question at issue. It lacks the sanction of constitutional law and the weight of consistent procedure. . . .</p>
+
+<p>"We consider that Delegate <persName key="Cannon, George Q.">Cannon</persName> has good grounds on which to ask for the admission of <placeName type="state" key="Utah Territory">Utah</placeName>, and if Congress shall shortly admit her as a State, the admission will prove that the Federal Legislature is disposed to act fairly in the matter and in accordance with the intent of the fathers."</p>
+
+<p>To echo the advice of <persName key="Fitch, Thomas">Thomas Fitch</persName>, the News quoted the Omaha Herald:</p>
+
+<p>"The trouble about <placeName type="state" key="Utah Territory">Utah</placeName>'s admission is the Mormon question, or rather, the question of polygamy. <placeName type="state" key="Utah Territory">Utah</placeName>'s admission as a State will be long deferred, on account of an obnoxious institution, . .. and we fear it will defeat <placeName type="state" key="Utah Territory">Utah</placeName> for years to come."</p>
+
+<pb n="84" xml:id="mmm.uh.stout.1967.084"/>
+
+<p>As in 1872, the Mormons in 1877 were still not ready to give up polygamy for statehood.</p>
+
+<p>Early in February the Liberals held a mass meeting to protest statehood and Mormon supremacy and listed five grievances against the People's Party: Union of church and state.</p>
+
+<p>The superiority of religious affairs over political affairs.</p>
+
+<p>An inadequate school system.</p>
+
+<p>Marked ballot.</p>
+
+<p>Legislation to insure purity of ballot box.</p>
+
+<p>The News editor immediately issued a repudiation of the five charges, February 14, p. 24:</p>
+
+<p>"Our Territorial government is not a union of church and state, the Constitution forbids Congress from passing such laws.</p>
+
+<p>"Do the Liberals consider the body superior to the soul, or the soul superior to the body? Both religious and political affairs are equal.</p>
+
+<p>"Statistics show that <placeName type="state" key="Utah Territory">Utah</placeName> is <choice><sic>wall</sic><corr>well</corr></choice> advanced in educational matters, and is in the front rank. There are free common schools in <placeName type="state" key="Utah Territory">Utah</placeName>. Every <choice><sic>distrist</sic><corr>district</corr></choice> has the local option to establish the same by taxation.</p>
+
+<p>"<placeName type="state" key="Utah Territory">Utah</placeName> is not the only place where the marked ballot exists. It is strongly advocated in many parts of the Union in order to preserve its purity.</p>
+
+<p>"The marked ballot is as pure in <placeName type="state" key="Utah Territory">Utah</placeName> as in other places in the Union. The exception is in <placeName type="settlement" key="Tooele, UT">Tooele</placeName> and <placeName type="settlement" key="Corinne, UT">Corinne</placeName> where the agitators manipulate the ballot in such a way as to make more votes cast in the district than there are voters."</p>
+
+<p>The five grievances, although fully disavowed by the victims, became the basis for a prolonged and malicious harassment against the angels.</p>
+
+<p><hi rend="bold">Grant's Obituary</hi>&#8212;The last month in <persName key="Grant, Ulysses S.">Grant</persName>'s eight years in the White House was marked by angry impatience toward Congressional incompetence to write a bill insuring the "ultimate extinguishment of polygamy". He had spent five years pleading and even threatening Congress to pass an act that would exterminate polygamy for all time. With the exception of the Poland Act nothing had been done. That <persName key="Grant, Ulysses S.">Grant</persName> was willing to sign any bill legal or illegal, constitutional or unconstitutional that would abolish polygamy was well known. This idiocy was affirmed by the News editor, February 21, p. 40:</p>
+
+<p>"<persName key="Grant, Ulysses S.">Grant</persName>'s mind being prejudiced he gave Congress to understand that he would sign any bill, no matter how strenuous the provisions of such a bill might be. He was even in favor of what people here considered extra-judicial and unconstitutional."</p>
+
+<p>Disappointed, <persName key="Grant, Ulysses S.">Grant</persName>'s crusade against the Mormons ended March 4. <persName key="Grant, Ulysses S.">Grant</persName>, seen through Mormon eyes, was a conspicuous failure, both morally and truthfully The man, if he was human, possessed all the cunning of a contemptible politician whose only ambition in life was to persecute his moral superiors. Morally, he suffered from an inferiority complex. This weakness explained his lewd hate for the Mormons. His exit from office, however, did
+
+<pb n="85" xml:id="mmm.uh.stout.1967.085"/>
+
+not heal the animosities between the angels and devils. Mr. <persName key="Hayes, Rutherford B.">Hayes</persName>, the new President, was equally prejudiced.</p>
+
+<p><hi rend="bold">A Press Vendetta</hi>&#8212;A press campaign which was to continue into 1878 was inaugurated in April. This vendetta was rated the most savage ever directed against the "angels". Its incriminations were not limited to ideas, but extended to the physical banishment and destruction of the Mormon people. The New York Sun exposed its malicious objectives, quoted by the News Weekly, April 4, p. 136:</p>
+
+<p>"West of the Rocky Mountains many longing eyes are cast on the Mormon possessions by men who are themselves too lazy to go in and build up a flourishing land as the Mormons have done, and who would like to see these Mormons abandon their cities, farms and mines to take refuge in <placeName type="state" key="Arizona">Arizona</placeName> or Mexico. At every revelation of Mormon 'wrong doing' a cry is raised for the suppression of Mormonism, and the expulsion of Mormons from <placeName type="state" key="Utah Territory">Utah</placeName>. While all violators of law should be punished, innocent persons, whether Mormon or any other creed, should not be wrongfully deprived of their property."</p>
+
+<p>The "Enterprise", published at <placeName type="settlement" key="Virginia City, Nevada">Virginia</placeName>, <placeName type="state" key="Nevada">Nevada</placeName>, had printed some strong editorials against the Mormons which demanded refutation, the News editor did just that, April 11, p. 152:</p>
+
+<p>The Enterprise is "demanding the partitioning of <placeName type="state" key="Utah Territory">Utah</placeName> among neighboring States and Territories, and the disfranchisement of the Mormons. It is simply making itself ridiculous.</p>
+
+<p>"There is a proposition to blot out <placeName type="state" key="Utah Territory">the Territory</placeName> altogether. At first <placeName type="state" key="Utah Territory">Utah</placeName> was considered creation's castoff, and the Mormons were very welcome to it, the general expectation and hope were that they would starve to death here. Now that they have made an admirable place to own, envious eyes are fixed upon it, and covetous hearts desire it. . . .</p>
+
+<p>"So the despoilers can proceed and push their proposal to slice up <placeName type="state" key="Utah Territory">Utah</placeName> if they choose to do so. . . . If they do, instead of the Mormons controlling the politics of only one commonwealth, they will soon control the politics of several. When they hold the balance of power in several States, they may hold the balance of power in the United States."</p>
+
+<p>The Liberals held another mass meeting April 14 to continue greater agitation against the "hierarchy", reported by the Tribune, April 6, p. 2:</p>
+
+<p>"The American people are thoroughly aroused in regard to affairs in <placeName type="state" key="Utah Territory">Utah</placeName>. At last they understand what sort of men the Mormon priesthood are. . . . Let us prepare a legislative bill for <placeName type="state" key="Utah Territory">Utah</placeName>. . . .</p>
+
+<p>"The present is an auspicious time for appealing to Congress to aid the cause of Liberalism in <placeName type="state" key="Utah Territory">Utah</placeName>."</p>
+
+<p>The New York Post warned against this type of legislation, quoted by the same paper against whom the warning was directed, April 7, p. 2:</p>
+
+<p>"An attempt to destroy the Mormon Church would be a greater evil than Mormon polygamy or Mormon 'crimes'. . . . The Saints have an undoubted right to believe in polygamy and even in the dangerous and repulsive doctrine of blood atonement. . . . The Constitution guarantees free religious worship
+
+<pb n="86" xml:id="mmm.uh.stout.1967.086"/>
+
+to all, and no man has the right to pronounce which is a correct mode of worship and which is not. . . . It is well nigh impossible to secure fair juries in <placeName type="state" key="Utah Territory">Utah</placeName> for the trial of Mormon offenders. This impatience is dangerous and needs restraining."</p>
+
+<p>The so-called "crimes" of the Mormons were legal acts, hence, impossible to legally punish. The Post was convinced that polygamy was legal and the only way it could be made a crime was to pass an illegal law that was also unconstitutional. That was the procedure, as we shall see, which was adopted in 1882 and 1887. To forestall such a possibility, the Mormons strongly urged statehood. But the Tribune editor strongly objected to that solution, April 8:</p>
+
+<p>"In our system the States have exclusive power over marriage laws, and Congress has felt a just repugnance to admitting to State privileges a community whose marriage laws would subvert a fundamental principle of Christian morals. It has been wisely thought better to keep <placeName type="state" key="Utah Territory">Utah</placeName> in Federal leading strings and refuse its admission as a state while its domestic institutions are repugnant to the marriage code of all Christian communities. The moral sense of the country revolts against its admission as a state so long as it upholds that twin relic of barbarism, polygamy. While it remains a Territory the authority of the Federal Government over its domestic concerns is supreme, and Congress has been greatly at fault in not taking effective measures to extinguish the immoral and demoralizing institutions which all Christian communities regard as a foul abomination. The time has at length come to take vigorous action and it would be unwise to let so favorable an opportunity slip by. The first and most urgent thing to be done is to bring all the accomplices in the Mountain Meadow Massacre to justice. Their trial, condemnation and execution would be a great step toward putting the public mind in a proper temper dealing finally and effectively with the troublesome Mormon question. The next great step will be the passage by Congress of such laws as will thoroughly uproot polygamy and the abject slavery of women which it involves."</p>
+
+<p>The editorial received wide publicity in the eastern press where it was accepted as gospel truth. Its first propaganda victim was the New York Herald, quoted by the Tribune, April 8, p. 4:</p>
+
+<p>"Away with this bestial blasphemous and blood-stained congregation, which insults God in the midst of His grandest works and the noblest and grandest feelings of man under the flag of our Republic. Let Mormonism be extirpated from the land by the Samson of the law, even its adherents should be buried beneath the ruins of its temples."</p>
+
+<p>These "beautiful" epitaphs were probably borrowed from the edicts of Charles I of England. Believing the Herald deserved a well earned reprimand, the News editor shouted, May 2, p. 200:</p>
+
+<p>"Such a course of procedure against the Mormons would cost the country its Constitution, its equal laws, the fundamental principles of civil and religious liberty upon which the Federal Government is based, and would cause the Re-public to become absolutely recreant to the distinguishing features of which it has boasted so long and so loudly. Then it would become the laughing stock
+
+<pb n="87" xml:id="mmm.uh.stout.1967.087"/>
+
+of the old world, the self-constituted object of satire and scorn and derision to the monarchies and empires of Europe and Asia."</p>
+
+<p>At the Liberal mass meeting noted above, <persName key="Baskin Robert N.">Robert N. Baskin</persName> urged the settlement of the <placeName type="state" key="Utah Territory">Utah</placeName> question by legislation if possible or by bayonets and blood if necessary. The News editor reacted to this insane solution promptly, April 25:</p>
+
+<p>"There are four things in which we cannot exactly concur with <persName key="Baskin, Robert N.">Baskin</persName>. There is no question that needs settling by bayonets and blood, nor by such appropriate legislation. There is no <placeName type="state" key="Utah Territory">Utah</placeName> question of such dreadful sort implied by <persName key="Baskin, Robert N.">Baskin</persName>. There is no necessity or propriety in <persName key="Baskin, Robert N.">Baskin</persName> aspiring to the title of a prophet.</p>
+
+<p>"If <persName key="Baskin, Robert N.">Baskin</persName> wishes to bask in blood, it is desirable that he do it somewhere else. . . . But here, such repulsive proceedings would be entirely out of character."</p>
+
+<p><hi rend="bold">War in <placeName type="state" key="Utah Territory">Utah</placeName></hi>&#8212;<seg type="Context" subtype="UtahWar"><persName key="Baskin, Robert N.">Baskin</persName>'s bloody speech ignited a wave of war rumors in <placeName type="state" key="Nevada">Nevada</placeName>. These rumors had the Mormons seriously arming and drilling for war. The Silver State, quoted by the News Weekly, May 2, p. 198:</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"Reports are coming in from all settlements throughout <placeName type="state" key="Utah Territory">Utah</placeName> that the Mormons are drilling nightly, and arming themselves in accordance with instructions from <persName key="Young, Brigham">Brigham Young</persName> to prepare for war; that all the non-Mormons must be exterminated and that sermons are preached in Mormon tabernacles calling the people to arms and advising the destruction of the Union and Central Pacific railroads, to prevent the government forces from interfering. Fears are entertained by non-Mormons in northern <placeName type="state" key="Utah Territory">Utah</placeName> of an outbreak by three thousand Indians, under the leadership of <persName key="Hill, George">George Hill</persName>, a destroying angel."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Was it really true that the destroying angels or "Danites" were at war with the devils in <placeName type="state" key="Utah Territory">Utah</placeName>? The News editor ridiculed the reports as "slanders", May 27, p. 198:</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"What is the object of all the libels, slanders, lies misrepresentations and highly colored reports set afloat concerning <placeName type="state" key="Utah Territory">Utah</placeName> and its inhabitants? What is the inducement for the manufacture and circulation of such false statements? Is it a source of pleasure to those engaged in it? Is it from a sheer spirit of diabolism? Newspapers, preachers, judges, officials of various kinds are engaged in this disreputable business. What is their object? What do these vicious characters expect to gain by misrepresnting us? Do they wish to see a state of anarchy inaugurated, when every man's hand will be against his neighbor's? Nothing less than the spirit of utter wickedness would rejoice over such things."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The article in the "Silver State" was reliably repudiated by an Army officer visiting in <placeName type="state" key="Utah Territory">Utah</placeName> who wrote a letter to his hometown paper, the Bridgeport (Conn.) Standard, quoted by the News Weekly, July 4, p. 351:</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"The reported drilling of the Mormons was a 'pure canard'. The Gentiles came here many years after the Mormons and were very angry because they got ahead of them. They could not drive them out, for the Mormons were too many for them. They wanted to control the elections, and run the machine, but
+
+<pb n="88" xml:id="mmm.uh.stout.1967.088"/>
+
+here, unfortunately, the Mormons outnumbered them ten to one. Then they tried to stir up feelings throughout the State against Mormonism. These Gentiles are making all the trouble in <placeName type="state" key="Utah Territory">Utah</placeName>; they are horse thieves, gamblers, border ruffians, cutthroats who have been driven out of respectable society. They go around with their belts full of pistols and knives, wearing slouchy hats, armed and equipped, they are walking arsenals. Of their morals, the less said the better. And yet, these are the men who are horrified because polygamy exists in <placeName type="state" key="Utah Territory">Utah</placeName>."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The Army letter clearly identified the angels from the devils. The free and glorious sanctuary of 1847 had become an asylum for society's lowest scum whose greatest ambition was to rob the angels.</seg></p>
+
+<p><hi rend="bold">Enemy in Trouble</hi>&#8212;The men sent to serve as governors of <placeName type="state" key="Utah Territory">Utah</placeName> by President <persName key="Grant, Ulysses S.">Grant</persName> were under an obligation to oppose, right or wrong, the Mormons. Early in 1877, President <persName key="Grant, Ulysses S.">Grant</persName> had been replaced by <persName key="Hayes, Rutherford B.">Rutherford B. Hayes</persName>, whose policy toward the Mormons at that time was unknown. The editor of the Tribune assumed the responsibility of informing the world what the sentiments of the Gentiles were toward Governor <persName key="Emery, George W.">Emery</persName>. The editor claimed all non-Mormons had completely lost all confidence and respect for him. The editorial, May 29, p. 2, was widely circulated in the East:</p>
+
+<p>"His Excellency, <persName key="Emery, George W.">the Governor</persName>, it seems, cannot lead a straight forward official life. Since he came to <placeName type="state" key="Utah Territory">Utah</placeName>, he has appeared in all the characters known upon the stage of trickery. He was a square Gentile at first and saved the little Gentile town of <placeName type="settlement" key="Corinne, UT">Corinne</placeName> from an attack by the Mormons and Indians. Before long he was found hobnobbing with the Mormon priesthood, wining and dining with the priests, some of whom are smeared with the blood spilt <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. Then he became <persName key="Cannon, George Q.">Cannon</persName>'s companion in <placeName type="settlement" key="Washington, DC">Washington</placeName>. . . . His acts seem to be sufficient cause for his removal."</p>
+
+<p><placeName type="settlement" key="Axtell, UT">Axtell</placeName> had paid a high price for his friendly relations with the Mormons; now, <persName key="Emery, George W.">Emery</persName>, after two years in <placeName type="state" key="Utah Territory">Utah</placeName>, had fallen from grace and was doomed to spend his remaining three years a hostile "friend" of the Liberals. The charges listed above were very "serious" if we can believe the editor. It was impossible for <persName key="Emery, George W.">Emery</persName> to remain on good terms with both the angels and the devils.</p>
+
+<p><hi rend="bold">The Devils Rage</hi>&#8212;<persName key="Beadle, J. H.">J. H. Beadle</persName>, the author of "Mysteries and Crimes of Mormonism", published in 1870, was still a potent enemy of the church in 1877. Under his signature, he wrote a fiery blast at the Mormons which was published in Scribner's Magazine for July, and quoted by the Tribune, July 1, p. 3:</p>
+
+<p>"It is not possible for any man to reconcile the two parties in <placeName type="state" key="Utah Territory">Utah</placeName>. They have no common ground whatever. Either the Mormon theory of government is true in all particulars, in which case the Federal officials are usurpers and the Gentiles intruders and rebels against the 'Kingdom of God'; or it is false in every particular, and must be totally subverted. It is impossible that a divinely inspired priesthood, claiming civil rule and authority in all things, and a class of citizens who maintain a paramount authority of a man-made consti-
+
+<pb n="89" xml:id="mmm.uh.stout.1967.089"/>
+
+tution, can coalesce. If the Saints are right they will eventually drive us all out of <placeName type="state" key="Utah Territory">Utah</placeName>, just as their great exemplars, the Israelites, did the Canaanites, and set up the 'Kingdom of God' in its purity; if we are right, we will eventually break in pieces every vestige of the temporal rule of the priesthood, reduce the institution from a government to a church and establish a republic in <placeName type="state" key="Utah Territory">Utah</placeName> like that in Colorado.</p>
+
+<p>"Social revolution will proceed in <placeName type="state" key="Utah Territory">Utah</placeName> as it has during the last ten years; and the general government need do no more than secure a free election law, and a jury system that will enable the courts to bring murderers to justice. A slow and peaceful death will end the religion of <persName key="Smith, Joseph">Joseph Smith</persName>."</p>
+
+<p>The Beadle blast was, from the Liberal point of view, a very accurate statement of the controversy. It defined well the issues separating the devils from the angels. The editor of the New York Herald may have read the Beadle salvo and was encouraged to offer his solution to the Mormon "menace", quoted by the Tribune, July 17, p. 2, 4:</p>
+
+<p>"No one thirsts for the blood of <persName key="Young, Brigham">Brigham Young</persName>; but there is an urgency for dealing with the question now, if it is ever to be met. After his death, and once his dust has mingled with mother earth he will be a greater idol to the ignorant and deluded masses in <placeName type="state" key="Utah Territory">Utah</placeName> than ever he was while living among them. Let him die now, and he would be embalmed in the memory of the faithful as a sorely persecuted and maligned Saint; but let him be tried and let the evidence of his crimes be blazoned abroad, and the scales would fall from the eyes of the deluded, and Mormonism would crumble to dust and take its place with the multitude of isms that do but little evil to the world."</p>
+
+<p>This was exalted madness from a deluded fanatic. The court, as we have shown, completely exonerated President <persName key="Young, Brigham">Young</persName> of complicity both before and after the fact. These damnable accusations were never to end. Another editor had still a more ridiculous remedy for the "menace", the noted St. Louis Globe-Democrat was a trustworthy ally of the Liberals, quoted by the News Weekly, August 15, p. 438:</p>
+
+<p>"While the excitement is high it should also be remembered that no more favorable time than the present could be found for attacking and extirpating, root and branch, the entire system of Mormonism."</p>
+
+<p>Since the Globe was published in <placeName type="state" key="Missouri">Missouri</placeName>, its malicious antipathy was generously inherited from <placeName type="state" key="Missouri">Missouri</placeName>'s greatest "hero", Governor <persName key="Boggs, Lilburn Williams">Lilburn W. Bogs</persName>, who in 1838, ordered the extermination of all Mormons. The News editor could not resist commenting on the irresponsible blast:</p>
+
+<p>"By what right is Mormonism to be attacked with anything but argument? And who but a bigot and murderer at heart would seek to destroy by violence a system which cannot be overturned by reason? If Mormonism is so false and evil in its character and principles, let the learned divines and the logical editors unite in demonstrating its fallacy and its wickedness."</p>
+
+<p><hi rend="bold">Death of <persName key="Young, Brigham">Brigham</persName></hi>&#8212;We noted above that prior to March 11, 1875, <persName key="Young, Brigham">Brigham Young</persName> had appealed his divorce case to the <placeName type="state" key="Utah Territory">Utah</placeName> Supreme Court. There the case rested till April 20, 1877, just 131 days before his death. The <persName key="McKean, James B.">McKean</persName>
+
+<pb n="90" xml:id="mmm.uh.stout.1967.090"/>
+
+blunder of sending <persName key="Young, Brigham">Brigham</persName> to prison for 24 hours after he had appealed was the climax, resulting in <persName key="McKean, James B.">McKean</persName>'s removal. Nothing more was done on the case till April 20, 1877. During those 25 months <persName key="Webb, Ann Eliza">Ann Eliza</persName> was still a menace to <persName key="Young, Brigham">Brigham</persName>'s peace. On that day Judge <persName key="Shaffer, J. Wilson">Shaeffer</persName> held a hearing on the case. After all the facts were known, the judge decreed the polygamous marriage between <persName key="Young, Brigham">Brigham</persName> and <persName key="Webb, Ann Eliza">Ann</persName> null and void. This decision should have been made July 28, 1873, at the first hearing. At that time it was known that <persName key="Webb, Ann Eliza">Ann</persName> was a bigamist and should nave been sent to prison. But no, Judge <persName key="McKean, James B.">McKean</persName> wanted to persecute <persName key="Young, Brigham">Brigham</persName>, hence four years of unnecessary trouble. Who were the angels and the devils in this case?</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> was too sick to enjoy those 131 days of freedom from <persName key="Webb, Ann Eliza">Ann</persName>. His death ended his physical misery, August 29, an event which caused a sensation in the country. His demise was heralded to the world as the beginning of the end for Mormonism. The reaction to the news was terrific. All agreed it was a turning point in <placeName type="state" key="Utah Territory">Utah</placeName> history. Those who believed in the illusion breathed a sigh of relief at his passing. It was publicly broadcast that no man in the church was strong enough to replace him. It was anticipated that many would try, but the ensuing conflict between rival factions would result in a hundred splinters flying in all directions. Thus, complete disintegration, was only a matter of time.</p>
+
+<p>The illusions of the Gentiles were soon blasted. <persName key="Taylor, John">John Taylor</persName>, the senior Apostle, stepped forward and announced that the Twelve, as a Quorum, would lead the Church. The unanimity of the whole church in sustaining <persName key="Taylor, John">Taylor</persName>'s leadership was both disappointing and shocking to the Liberals.</p>
+
+<p><hi rend="bold">Brighamism vs. Polygamy</hi>&#8212;<persName key="Young, Brigham">Brigham Young</persName>, <placeName type="state" key="Utah Territory">Utah</placeName>'s most noted polygamist, personified to the world, an inseparable union between Mormonism and polygamy. The two were synonymous. In the eyes of the world, the destruction of either meant the fall of the other. To accept this irrational "logic", the death of <persName key="Young, Brigham">Brigham</persName> implied an ominous future for polygamy. Without <persName key="Young, Brigham">Brigham</persName>, polygamy would die on the vine. And without polygamy, <persName key="Young, Brigham">Brigham</persName> would have been an unknown Mormon. Polygamy's death, it was alleged, inevitably doomed Mormonism. These premises were irrational. Mormonism's vitality was independent of both polygamy and <persName key="Young, Brigham">Brigham</persName>'s life or death. Mormonism was restored by authorized angels and revelation long before <persName key="Young, Brigham">Brigham</persName> was known. Polygamy was added 13 years after Mormonism was fully matured. Polygamy is not nor never was an integral part of Mormonism.</p>
+
+<p>The world had a false concept of President <persName key="Young, Brigham">Young</persName>'s mission, leadership and character. The historian, <persName key="Bancroft, H. H.">H. H. Bancroft</persName>, was conspicuously wrong in his appraisal in his History of <placeName type="state" key="Utah Territory">Utah</placeName>, p. 673:</p>
+
+<p>"Esteemed by his followers as an angel of light, and considered by his foes as a minister of evil, an imposter, a hypocrite, a murderer, he was in fact simply an enthusiast, a bigoted and egotistical enthusiast, as the world believes, but a practical and foresighted man, one who by his will, ability and intuitive knowledge of human nature was fitted to combat the difficulties that
+
+<pb n="91" xml:id="mmm.uh.stout.1967.091"/>
+
+beset each step in his path of life, and to give cohesion to the heterogeneous elements of which his people were composed."</p>
+
+<p>The Tribune editor considered himself an authority on the character and mission of President <persName key="Young, Brigham">Young</persName>. The editor's bias was exposed in every sentence, September 4, p. 2:</p>
+
+<p>"The world knows that <persName key="Young, Brigham">Brigham Young</persName> was a very unworthy specimen of humanity. That he was groveling and selfish in his instincts, that he was unscrupulous in his choice of means to carry out his purposes, and that he abused the most noble opportunities of usefulness that his empire over the souls of his followers might be absolute and unquestioned. Let us admit the assumption that in succeeding to <persName key="Smith, Joseph">Joe Smith</persName>'s prophetic mission he became the oracle of God, divinely illuminated to counsel and instruct his followers in their every act."</p>
+
+<p>The Tribune editor quoted from 22 newspapers who sustained the editor's position, three should be quoted here. The Springfield Republican first:</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">"It was a rare combination of qualities that made up the man&#8212;Yankee shrewdness, tireless energy, executive powers of the highest type, religious cunning, an iron will, a merciless heart. There can be no moral doubt that he was the real author of the Mountain Meadows Massacre."</seg></p>
+
+<p><persName key="Young, Brigham">Brigham</persName> was no "fool", added the Philadelphia Times.</p>
+
+<p>"No man of sense ever called <persName key="Young, Brigham">Brigham</persName> a fool. He was a man of unconquerable energy with a will of iron, a wonderful talent for organization, rare personal magnetism, and, above all, ambitious. His idols were fame, wealth and power. He believed in his destiny. The religion of Mormonism was one of the instruments with which he carved his way to power. But for him, in all probability the Mormon Church would not long survived the death of the lustful profligate who founded it, or surviving, it would have scattered to the four winds, soon to be lost to history as are the Ten Tribes. His death will be a great blew to the church, if not fatal. The American people, who have long borne the disgrace of its existence, may find in the confusion that will ensue, an opportunity to rid themselves of it. In any event Mormonism cannot be long lived. Its mainspring is gone."</p>
+
+<p>The New York Post took the prize for vulgarity and inaccuracy, quoted September 7, p. 3:</p>
+
+<p>"In one aspect he was a vulgar cheat. In his character he was essentially coarse and brutal; without refinement, without culture, without the finer instincts of men, he gave free rein to the worst passions of his own nature, and made the worst passions of other men his tools. Yet he was a man of almost marvelous force of character."</p>
+
+<p>These comments, inspired by hate and revenge, contained half-truths injected like a food flavoring, to inspire confidence in the wanton fabrications.</p>
+
+<p>The unanimity of support given <persName key="Taylor, John">John Taylor</persName> when he assumed the leadership, highly antagonized the anti-Mormon world. <persName key="Young, Brigham">Brigham</persName>'s five years of failing health had prepared the world for the fall of the "Mormon Empire." The scattering of its remnants over America like the Lost Tribes was more than a
+
+<pb n="92" xml:id="mmm.uh.stout.1967.092"/>
+
+hope; its enemies demanded it. The scene resembled a Jonah waiting for the destruction of Nineveh. As Jonah was disappointed when the Lord failed to destroy the wicked city, so the Liberals were astonished by the vigorous recuperative powers demonstrated by the church. The reorganization was made September 4 and an epistle published to the world stating the facts. The Tribune editor reacted with extreme sarcasm and derision, September 12, p. 2:</p>
+
+<p>"What revelation the Lord made to these holy men is provokingly withheld, but upon the divine intimation received, they proceeded to the following extraordinary action: Elder <persName key="Taylor, John">John Taylor</persName>, the senior Apostle, was unanimously sustained in that position. This seems like what the Church of England would call the work of supererogation an act of superfluous piety. This totally superfluous proceeding seems as if the contrite and prayerful half were bent upon having a truism."</p>
+
+<p>The clergymen of the country were even less tolerant toward the change in leadership in <placeName type="state" key="Utah Territory">Utah</placeName>. One prominent church man demanded the Mormon temples be converted into "arsenals". The Rev. <persName key="Talmage, DeWitt">DeWitt Talmage</persName> wanted the Army sent to <placeName type="state" key="Utah Territory">Utah</placeName> to clean up the mess, quoted by the News Weekly, October 24, p. 598:</p>
+
+<p>"At the death of the Mormon Chieftain, is the time for the United States Government to strike. They are less organized than they have been, and less than they will be. If these Mormons will not submit to authority, let so much of their rich lands be confiscated for the wants of the Government as will be sufficient for their subjugation. Turn their vast temples into an arsenal. Set <persName key="Sheridan, Phil">Phil Sheridan</persName> after them. Give him enough troops and he will teach all <placeName type="state" key="Utah Territory">Utah</placeName> that forty wives is thirty-nine too many."</p>
+
+<p>After quoting <persName key="Talmage, DeWitt">Talmage</persName>'s statement, the News editor added his own smart reply:</p>
+
+<p>"To conquer what he believes to be error, he would invoke the bayonet and the torch. To stamp out a religion which he cannot overturn by argument, he would slaughter its votaries, stifle the voice of prayer with gunpowder, and quell the song of praise and teachings of the sanctuary by the rattling of rifles, the thunders of artillery and the horried din of an armed host filled with the spirit of bloody war."</p>
+
+<p>The words of <persName key="Talmage, DeWitt">Talmage</persName> were uttered by a "holy" teacher of religion whose mission in society was to teach by example the gospel of love and forgiveness to those who were weak in the faith. Truly the wicked rage when "no man pursueth". The sanctimonious <persName key="Talmage, DeWitt">Talmage</persName> answered the pertinent question: Who were the devils and who were the angels?</p>
+
+<p><hi rend="bold">Statehood vs. Polygamy</hi>&#8212;Since the break in cordial relations between Governor <persName key="Emery, George W.">Emery</persName> and the Liberals in May, noted above, the situation in October had not improved. During the period following, <persName key="Emery, George W.">Emery</persName> had moved closer to the Mormons, a policy, he realized, could eventually mean his dismissal. The Tribune editor felt a moral obligation to warn <persName key="Emery, George W.">Emery</persName> of the impending danger, October 3, p. 2:</p>
+
+<p>"It would be fatal to our liberties to have Governor <persName key="Emery, George W.">Emery</persName> retained in
+
+<pb n="93" xml:id="mmm.uh.stout.1967.093"/>
+
+office. . . . The Governor is now connecting a scheme for the admission of <placeName type="state" key="Utah Territory">Utah</placeName> as a State. . . .</p>
+
+<p>"His removal is further necessary because he is utterly without principle. No one has confidence in such a ruler; he is a king of shreds and patches. The Gentiles know he is treacherous to their cause."</p>
+
+<p>Late in 1877, Delegate <persName key="Cannon, George Q.">Cannon</persName> made preparations to introduce another statehood bill into the House. The editor of the St. Louis Republican was strongly opposed to the move, quoted by the Tribune, November 21, p. 4:</p>
+
+<p>"Mr. <persName key="Cannon, George Q.">Cannon</persName> will introduce a bill to enable <placeName type="state" key="Utah Territory">the Territory</placeName> to become a State, under the name of "Deseret'. Similar bills have been allowed to die an easy and natural death. The present one is likely to share the same fate. . . . We think the time has now come when Congress should look the polygamy question squarely in the face and settle it. Hitherto it has been evaded, dodged and shuffled off. The longer it is postponed the more difficult and dangerous it becomes. . . . As matters now stand, Congress displays an in-excusable moral cowardice in refusing to take any measure for the suppression of an institution which is acknowledged to be grossly illegal. Either recognize polygamy or abolish it."</p>
+
+<p>It was time to face the polygamy question fairly and honestly, recognize it or abolish it. Nothing could be done until the Supreme Court issued its decision on the <persName key="Reynolds, George">Reynolds</persName> case, then pending. For the same reason, President Hayes did not mention the <placeName type="state" key="Utah Territory">Utah</placeName> question in his annual message to Congress. The recess on the <persName key="Reynolds, George">Reynolds</persName> case did not stop Senator Christiancy from introducing his own bill to solve the <placeName type="state" key="Utah Territory">Utah</placeName> problem.</p>
+
+<p><hi rend="bold">Christiancy Bill</hi>&#8212;During the last days of 1877, Congress having convened, the pressure for legisiation against <placeName type="state" key="Utah Territory">Utah</placeName> had become intense. To satisfy the public demand, Senator Christiancy, December 10, introduced his bill aimed to console the mobs screaming for blood. Its five main provisions were: A secret ballot, repeal of woman suffrage, denial to civil office and the franchise to polygamists, and finally, the exclusion from juries of polygamists. The News editor's reaction was swift and solemn. December 19, p. 728:</p>
+
+<p>"This is the renewal of the chronic struggle for power in this Territory, it is the re-commencement of attempts to urge Congress to still further withhold the rights and restrict the privileges of the people, and thereby unjustly deprive many of them of liberty and their property."</p>
+
+<p>Later comment, December 26:</p>
+
+<p>"The women are prohibited, not because they are women, but because most of them are Mormons. Polygamists are prohibited from voting and holding office not because they are polygamists, but because they are Mormons. Therefore, it is the Mormons as Mormons who are designed in this tyrannical legislation, to be annoyed, and wronged. . . .</p>
+
+<p>"We repeat, that one of the principal objects sought for in this unrepublican, un-American, unjust, and every way execrable kind of legislation is the denial of the dearest rights and privileges of the Mormons."</p>
+
+<p>In the same issue the News quoted the New York Herald, p. 744:</p>
+
+<pb n="94" xml:id="mmm.uh.stout.1967.094"/>
+
+<p>"This bill makes it a good ground for the rejection of a juror that if he is actually a polygamist himself or if he believes it morally right to live in polygamy. This would cover apparently all the difficulty of convicting polygamists in <placeName type="state" key="Utah Territory">Utah</placeName>."</p>
+
+<p>The News editor had more comment:</p>
+
+<p>"It is evident from the wording of the bill that it is intended to exclude all Mormons from the jury box, and put their persons and property at the mercy of their enemies. . . .</p>
+
+<p>"It will be observed that this bill proposes to punish any person who marries and cohabits with more than one wife. The offense is thus in the ceremony not in the cohabitation. Continuance of cohabitation is made a penal offense, but it must be with persons to whom he is married in order to make a man liable."</p>
+
+<p>The bill was plainly intended to punish polygamists, not the ordinary Gentile adulterer. The bill placed a premium on adultery between persons not married. To cohabit with a plural wife was unlawful, but illicit relations between the unmarried were ignored. The Christiancy bill, un-American and unjust, was intended to persecute not reform, destroy not build better citizenry. Its fate was well earned. Its real objective was to condemn the angel and to encourage licentiousness among the devils.</p>
+
+<p><hi rend="bold">A Foul Conspiracy</hi>&#8212;In 1877 we witness three attempts by the prosecuting attorneys of <placeName type="state" key="Utah Territory">the Territory</placeName> to bring to trial Mormons who, legally, were allegedly guilty of murder. The allegations were based on the assumption that if these charges were true, their convictions would automatically incriminate the Mormon leaders. The hoped for conviction of these men was a malicious conspiracy to discredit the Church. The accused Mormons were Dr. <persName key="Clinton, Jeter">Jeter Clinton</persName>, <persName key="Rockwell, Orrin P.">Orrin P. Rockwell</persName> and <persName key="Burton, Robert T.">Robert T. Burton</persName>. The charges against these men were finally dismissed for lack of evidence. Each case represented a defeat for the devils. These antagonists still clung to the hope that the <persName key="Reynolds, George">Reynolds</persName> decision, then pending, would offer compensation for their embarrassments.</p>
+
+<p><hi rend="bold">Angels and Devils</hi>&#8212;If the angels were not guilty of murder, as alleged by the devils, they were guilty of polygamy, a crime equally heinous. Progress on the Christiancy bill was in high gear as the year ended. The convening of Congress in December, the Liberals saw the need of appointing lobbyists to go to Washington to push through the legislation. The Liberals selected ex-Judge <persName key="McKean, James B.">James B. McKean</persName> and <persName key="Baskin, Robert N.">Robert N. Baskin</persName> to execute the "divine mission". These men used every tactic in the book to influence congressmen to support the Christiancy bill. These lobbyists admitted the Morrill Act against polygamous living had failed. They demanded a bill with sharper teeth that could combat cohabitation. The pending <persName key="Reynolds, George">Reynolds</persName> decision put the brakes on immediate action, but the ultimate objective was never lost sight of. The luxury of lobbying demanded money. The Liberals were required to inaugurate a campaign, as announced by the finance committee, was to end the "conflict here which surrounds every enterprise with uncertainty. It means a new lease on life for the <placeName type="state" key="Utah Territory">Utah</placeName> Territory."</p>
+
+<pb n="95" xml:id="mmm.uh.stout.1967.095"/>
+
+<p>The Tribune editor, in a final editorial, denied the Liberals wanted woman suffrage repealed but did demand a free ballot and an improved jury law, December 23, p. 2:</p>
+
+<p>"It (woman suffrage) is an evil, and works more harm to the women enfranchised than to the ungodly outsiders who are deprived of their rights by its operation. Let Congress give them an unmarked ballot, and place the custody of the polls in honest hands, and the opposition is willing to meet the hosts of Armageddon without further support. Senator Christiancy in his election bill, provides for the repeal of woman suffrage law, and the interest of the whose community demands that it should be done. But if this is to excite debate and provoke opposition, better drop it from the bill. Give us a free ballot and an amended jury law, and then we are willing to lock horns with the whole infallible hierarchy."</p>
+
+<p><placeName type="state" key="Utah Territory">Utah</placeName> had a free ballot, as free as any found in the nation. The editor wanted a gadget like the one used in Tooele where more Liberal ballots were cast than there were registered voters in the county. The type of jury law wanted by the editor was one that denied the right to sit on a jury to any man who was a Mormon. With such a law on the statute books the odds would favor the devils in any life and death struggle with the angels.</p>
+
+<p><hi rend="bold">Recapitulation</hi>&#8212;Truly, in 1877 we again witness another life-and-death struggle between the forces of good and evil. The year began with an attempt to drag the Mormon leaders down into the same soil of crime with <persName key="Lee, John D.">John D. Lee</persName>. The quest for statehood was denied on grounds that polygamy was incompatible with Christian standards while adultery was winked at by these same moralists. The obituary on <persName key="Grant, Ulysses S.">Grant</persName> released the Mormons from one tyrant only to be clawed by another. The campaign of vilification against the people of <placeName type="state" key="Utah Territory">Utah</placeName> backfired with a vengeance. The Mormon "Empire" did not come tumbling down with the death of <persName key="Young, Brigham">Brigham Young</persName>. The inconsistency of the Christiancy bill in punishing polygamists with one hand and using subterfuge with the other marked 1877 as a year of infamy between God and Satan. Both Saints and Sinners were locked in deadly combat as the year passed into history.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

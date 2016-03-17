@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.james.1900">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">In and Around the Grand Canyon</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>George</forename> <forename type="middle">Wharton</forename> <surname>James</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.james.1900</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>            
+            <notesStmt>
+                <note type="project">This record contains Chapter 20 pgs 223-229</note>
+            </notesStmt>            
+            <sourceDesc>                
+                <bibl>
+                    <title level="m" type="main">In And Around the Grand Canyon: The Grand Canyon of the Colorado River in Arizona</title>
+                    <author><forename>George</forename> <forename type="middle">Wharton</forename> <surname>James</surname></author>
+                    <publisher>Little, Brown, and Company</publisher>
+                    <pubPlace>Boston</pubPlace>
+                    <extent></extent>
+                    <date when="1900">1900</date>
+		    <note type="source">George Wharton James. <hi rend="italic">In and Around the Grand Canyon</hi>. 1900.  Boston, MA: Little, Brown, 1908. 223-29.</note>
+                </bibl>
+            </sourceDesc>            
+        </fileDesc>        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>        
+        <revisionDesc>
+		<change when="2011-02-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change> 
+                <change when="2010-07-15"><name>Stephen Pipkin</name> Initial Encoding
+            </change>
+
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="223" xml:id="mmm.wa.james.1900.288"/>
+                   
+<head>CHAPTER XX</head>
+
+<head type="sub">JOHN D. LEE AND THE MOUNTAIN MEADOWS
+MASSACRE</head>
+
+<p>T<hi rend="smallcaps">HE</hi> detailed story of <persName key="Lee, John D.">Lee</persName>’s connection with the Mountain Meadows Massacre is much too
+long for these pages, but its outline will show that
+his name is associated with the <placeName type="state" key="Colorado">Colorado</placeName> canyons
+at several points.</p>
+
+<p>Who is there that has not been thrilled with
+the horror of the story of the Mountain Meadows
+Massacre? And what person, who is old enough,
+does not recall the sense of relief that was felt
+throughout the civilized world when the authentic
+news was circulated that <persName key="Lee, John D.">John D. Lee</persName> was shot?
+There was a space of nearly twenty years (<seg type="Massacre" subtype="Dates">September,
+1857</seg>, to March 23, 1877) between the
+perpetration of the awful and hideous crime and
+its avenging. Why?</p>
+
+<p>Various answers have been given, but all are
+more or less conjecture.</p>
+
+<p><seg type="Massacre" subtype="Dates">In 1857</seg>, <seg type="Massacre" subtype="Casualties">a hundred and twenty men, women, and
+children</seg> <seg type="Emigrants" subtype="Route">passed through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> on their
+way <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> to <placeName type="state" key="California">California</placeName>. They met with various diiiiculties from Mormons and Indians, and,
+on reaching southern <placeName type="state" key="Utah Territory">Utah</placeName>, were directed to camp
+at a place known as <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.<seg type="Massacre" subtype="Battle"></seg> <seg type="Blame" subtype="IndiansLDSInfluence">Here
+they were beset by Indians</seg>, <seg type="Blame" subtype="LDS_LDS">and Mormons disguised
+as such</seg>, and for days kept in a state of close siege,
+
+<pb n="224" xml:id="mmm.wa.james.1900.289"/>
+
+until water gave out and horrible death seemed
+imminent. <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Then <persName key="Lee, John D.">Lee</persName> and other Mormons waited
+upon them, and offered to lead them away from
+danger, provided they would undertake to return
+<hi rend="italic">and give up their arms</hi> to please the Indians. 
+Incredible though it seems, the despondent men, anxious 
+for the lives and honor of their loved ones,
+yielded to this preposterous demand, and, under a
+flag of truce, began to march&#8212;as they thought&#8212;
+to a place of safety. Their line was no sooner
+stretched out so as to prevent mutual help, when
+they were set upon by the fiends who had pledged
+themselves to protect them, and <seg type="Massacre" subtype="Casualties">every man and
+woman, and most of the children</seg>, were ruthlessly
+butchered in cold blood.</seg></seg></seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">When the news of this unparalleled atrocity
+reached the ears of the outside world it was stricken
+with horror, followed with a fierce rage which called
+for immediate vengeance.</seg> <seg type="Blame" subtype="LDS_LDS">The hierarch of the
+Mormon Church was openly accused of being the
+instigator of the crime. He denied either knowledge
+of or participation in it, except that a report had
+been made to him by <persName key="Lee, John D.">Lee</persName> as Indian agent that <seg type="Blame" subtype="IndiansIndependently">it
+was the work of Indians whose fierce attacks he and
+other members of the church had sought to restrain.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Little by little the truth began to leak out that,
+authorized or unauthorized by the head of their
+church, Mormons were certainly participants in the
+crime. <persName key="Lee, John D.">Lee</persName> was charged with being one of the
+leaders, and an effort was made to apprehend him.</seg>
+He escaped, and was gone for three years, none
+knowing his whereabouts. Then he returned, and
+established the ferry that bears his name. Here <persName key="Beadle, J. Hanson">J.
+
+<pb n="225" xml:id="mmm.wa.james.1900.290"/>
+
+Hanson Beadle</persName>, a noted newspaper correspondent,
+found him. <seg type="Reaction" subtype="Extra-legalViolence">Soon the knowledge of his return
+renewed the fierce demand for his punishment.</seg>
+Again an effort was made to arrest him, and again
+he escaped. <seg type="Context" subtype="Polygamy">After a short lapse of time he returned
+to one of his many homes,&#8212; he had eighteen wives
+and a correspondingly large number of homes,</seg>&#8212;was
+captured, had two trials, was sentenced to death,
+taken out to the scene of the massacre, and there
+shot.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSZealots">The attitude of the church is that <persName key="Lee, John D.">Lee</persName>, for purposes
+of personal plunder, committed the crime, and
+that he and his associates alone are responsible.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Lee, John D.">Lee</persName> claims that he acted under orders, and that
+when he escaped, both the first and second times, it
+was because of advices that had reached him secretly
+from <persName key="Young, Brigham">Brigham Young</persName>. On the occasion of his first
+escape, he, with three companions who were likewise
+accused, fled to a region below <placeName type="settlement" key="Kanab, UT">Kanab</placeName>, into 
+one of the many side gorges of the Grand Canyon.
+A Paiuti boy accompanied them. According to
+the story <persName key="Lee, John D.">Lee</persName> afterwards told to one of the chiefs
+of the Havasupai Indians, they were so driven for
+food that, one after another, the boy and two of the
+men were slain and eaten. On the Shinumo the
+bones of an Indian boy have been found, hacked
+with a knife, as if for the purpose of removing the
+flesh. After great struggles and perilous escapes,
+the two remaining wretches crossed the Colorado
+River, a little west of the Mystic Spring Trail. One
+fled to the Wallapai country, and the other, <persName key="Lee, John D.">Lee</persName>,
+while subsisting upon seeds and desert plants, was
+found by the Havasupais, and by them secretly taken
+
+<pb n="226" xml:id="mmm.wa.james.1900.291"/>
+ 
+into the depths of their canyon home. Here for
+nearly three years he remained, teaching
+them improved methods of irrigation, fruit
+culture, vegetable raising, etc.</seg></p>
+
+<figure xml:id="mmm.wa.james.1900.291.figure">
+<p><hi rend="smallcaps">John D. Lee and His Two Favorite Wives.</hi> [From a portrait in the possesion of his son at Tuba City.]</p>
+<figDesc></figDesc>
+</figure>
+
+<p>Then he decided to return and face his
+accusers,&#8212; so he declares,&#8212;but, 
+when beset with danger, he again fled, only to be
+captured at last, ignominiously secreted in a chicken-house</p>
+
+<p>His claim of betrayal at his trial best told in his own
+words in this literal copy of the letter written by him at the time to
+<persName key="Lee, Emma B.">Emma</persName>, his last wife, from whom I obtained it.</p>
+    
+<floatingText>
+<body>
+
+<head>UNITED STATES MARSHAL'S OFFICE</head>
+
+<opener>
+<address><addrLine><hi rend="smallcaps"><persName key="Nelson, William">WM. Nelson</persName></hi>,<hi rend="italic"> U. S. Marshal</hi>. <hi rend="smallcaps">District of Utah</hi>.</addrLine></address>
+
+<dateline><hi rend="smallcaps">Beaver City, UTAH</hi>, Sept. 21st, 1876.</dateline>
+
+<salute><hi rend="smallcaps">Mrs. <persName key="Lee, Emma B.">Emma B. Lee</persName></hi>. </salute>
+
+<address><addrLine><hi rend="smallcaps">Lonely Dell, Lees Ferry, A. T.</hi></addrLine></address>
+
+</opener>
+            
+<p><hi rend="smallcaps">MUCH BELOVED COMPANION</hi>,&#8212;Knowing the suspense 
+you are in to hear from me and learn of my present situation
+and prospects in future, I hasten to write, as I cannot
+communicate to you in person. I reached here on the 4th
+instant, but was not wanted till the 11th, at which time my
+
+<pb n="227" xml:id="mmm.wa.james.1900.292"/>
+
+bondsmen appeared and surrendered me to the court,
+which placed me in an awkward situation. I was left in
+charge of the officers of the court, and sent to prison, there
+to await the summons of the court from time to time.
+This strange and mysterious move warned me that there
+was treachery and conspiracy on foot. General <persName key="Well, Daniel H.">Wells</persName>, or
+the <q>"one-eyed pirate,"</q> as the Tribune calls him, was in
+<placeName type="settlement" key="Beaver, UT">Beaver</placeName>, to advise and council and direct the Brethren how 
+to swear, and those that composed the jury to be a unit in
+rendering a verdict of murder in the first degree. My
+worthy friend and able attorney, <persName key="Bishop, William W.">W. W. Bishop</persName>, felt that we
+were sold; he and judge <persName key="Foster, J. C.">Foster</persName> of <placeName type="settlement" key="Pioche, NV">Pioche</placeName>, who assisted him,
+had the promise that all was right from the leading men of
+the church here in <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, and even went so far as to mark
+the names of each man to be retained on the jury, telling
+him that if he would make up his jury with the names
+marked that they would be sure to clear me. Though
+fearful,he trusted them, which resulted in the jury’s finding
+averdict against me of murder in the first degree. Six
+witnesses testified against me, four of whom purgered themselves
+by swearing falsehoods of the blackest character.
+Old <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, the fiend of Hell, testified under oath
+that I told him that <seg type="Massacre" subtype="Casualties">two young women were found in a
+thicket, where they had secreted themselves, by an Indian
+chief, who brought the girls to me and wanted to know
+what was to be done with them. That I replied that they
+was to old to live and would give evidence and must be
+killed; the Indian said that they were too pretty to kill,
+that one of them fell on her knees and said, Spare my life
+and I will serve you all my days, that I then cut her throat,
+and the Indian killed the other.</seg> Such a thing I never
+heard of before, let alone committing the awful deed. The
+old hypocrite thought that now was his chance to reek his
+vengeance on me, by swearing away my life. <persName key="Johnson, Nephi">Nephi Johnson</persName> 
+was the last man that I could have believed that
+would have sealed his damnation by bearing false testimony
+against me, his neighbor, to take away my life. The other 
+
+<pb n="228" xml:id="mmm.wa.james.1900.293"/>
+ 
+two witnesses, <persName key="Knight, Samuel">Knights</persName> and <persName key="McMurdy, Samuel">McMurdy</persName>, swore that I committed 
+the awful deeds, that they did with their own wicked
+hands. I own that I am perfectly whiped out, and have come
+to the conclusion that some men will swear that black is
+white, if the good Brethren only said so. But my expressing
+my feelings in this way will not change the verdict against
+me. This verdict has caused quite an excitement in <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName> as well as here, among the honorable and thinking 
+class of men. They all say that it is too thin and
+played out. When the verdict was rendered, my attorney
+asked for a stay of proceedings for ten days, to prepare a
+plea of abatement for a rehearing, and an appeal to the
+higher courts, etc. which will sit in December next. My
+attorney promises to stand by me to the end, but must
+have a couple of hundred dollars within two months, to
+enable them to carry my case up to the higher courts.
+Dearest, do all you can to send me as much money as you
+can. I know you will do so. I have confidence in your
+ability to raise money. I have many warm-hearted, noble- 
+minded friends, whom I believe will never see me sacrificed
+at the shrine of imposition, bigotry, falsehood, and ignorance;
+my firm conviction is that all will come out right
+in the end, though it requires a little time to bring it about.
+<persName key="Willard">Willard</persName>, <persName key="Harie">Harie</persName>, and <persName key="Darrow">Darrow</persName> were here yesterday, and went
+away without letting me know that they were going to leave,
+a very foolish thing for them to do, as I wished to send my
+wagon-team and little <persName key="Isaac">Isaac</persName> back home. This evening
+<persName key="Hellen">Hellen</persName> came to the prison and told me that they had
+started for the Ferry to inform you and <persName key="Rachel">Rachel</persName>, and to
+bring <persName key="Rachel">Rachel</persName>. This, as I said before, was a strange move,
+but I suppose they thought from the verdict that all that
+wish to see me must come soon. This, of course, confuses
+my intended arrangements. I will have to wait until I
+hear from them before making a move in that direction;
+in all probability I will be sent to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> Prison, as the
+supreme court sits in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Dearest <persName key="Lee, Emma B.">Emma</persName>,
+keep up good cheer. Say to friend <persName key="Johnson">Johnson</persName> that he must
+
+<pb n="229" xml:id="mmm.wa.james.1900.294"/>
+
+let you have all the money that comes from the Ferry, to
+help me in the hour of trouble. Tell <persName key="Billy">Billy</persName> to remember
+Pa, and send him some money. My love to you and
+all the dear little children, to <persName key="Warren">Warren</persName> and family also.
+Write immediately and often, for a word from you in your
+own handwriting carries joy and comfort to my soul.
+I have many things to say to you when we meet again.
+<persName key="Wood, Joseph">Joseph Wood</persName> is here in prison with me. He expects to get
+his trial soon. <persName key="Miley">Miley</persName> is also here under indictment. <persName key="Sarah Jane">Sarah
+Jane</persName> is at <persName key="Woods, Joseph">Jo Woods</persName>' ranch, taking care of things there, as
+<persName key="Hellen">Hellen</persName> was also indicted, and is here on bail, awaiting trial.
+I had to leave little <persName key="Isaac">Isaac</persName> with <persName key="Sarah Jane">Sarah Jane</persName> for company
+and help her with the cows, as she was alone. <persName key="Wood, Joseph">Joseph
+Wood</persName>, <persName key="Hellen">Hellen</persName>, and <persName key="Sarah Jane">Sarah Jane</persName> all wish to be remembered
+to you. I will write soon and let you know how matters
+move along. So good-bye for the present. I trust that
+we will see many good days together yet.</p>
+
+<closer>
+
+<address><addrLine>TO <persName key="Lee, Emma B.">EMMA B. LE</persName>E.</addrLine></address>
+
+<signed><persName key="Lee, John D.">J. D. LEE</persName>.</signed>
+
+</closer>
+</body>
+</floatingText>
+
+</div1>
+</body>
+</text>
+</TEI>

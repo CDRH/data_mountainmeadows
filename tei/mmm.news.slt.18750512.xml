@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.slt.18750512">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Mountain Meadows Massacre</title>
+		<title level="m" type="sub">An Interview with John D. Lee&#8212;He denies Complicity, but Refuses to Tell what He Knows&#8212;An Intimation that Implicates Brigham Young.</title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+		</titleStmt>
+		<editionStmt>
+		    <edition>
+			<date>2012</date>
+		    </edition>
+		</editionStmt>
+		<publicationStmt>
+			<idno>mmm.news.slt.18750512</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		   <title level="j">Salt Lake Tribune</title>
+		   <title level="a" type="main">Mountain Meadows Massacre</title>
+		   <title level="a" type="sub">An Interview with John D. Lee&#8212;He denies Complicity, but Refuses to Tell what He Knows&#8212;An Intimation that Implicates Brigham Young.</title>
+		   <publisher></publisher>
+		   <pubPlace>Salt Lake City, UT</pubPlace>
+		   <date when="1875-05-12">May 12, 1875</date>
+		</bibl>
+	    </sourceDesc>
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	     <textClass>
+	         <keywords scheme="original" n="category">
+	             <term>newspaper</term>
+	         </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-08"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2011-04-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2009-10-13"><name>Laura Weakly</name> Validation</change>
+	<change when="2009-10-06"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+    
+    <pb n="unknown" xml:id="mmm.news.slt.18750512.001"/>
+
+<div1 type="newspaper">
+
+<head type="main">MOUNTAIN MEADOWS MASSACRE.</head>
+
+<head type="sub">An Interview with John D. Lee&#8212;He denies Complicity, but Refuses to Tell what He Knows&#8212;An Intimation that Implicates Brigham Young.</head>
+
+<p><seg type="Source" subtype="Reprinted">We find the following interview with <persName key="Lee, John D.">John. D. Lee</persName>, published in the <orgName type="newspaper" key="Philadelphia Times">Philadelphia Times</orgName> of the 3d. A reporter of the paper did the pumping:</seg></p>	
+
+<p>Having obtained a pass from <persName key="Stokes, William">Deputy Marshal William Stokes</persName>, I paid a visit to the noted prisoner <persName key="Lee, John D.">John D. Lee</persName>, now held in the guard house as a criminal charged with murder. <persName key="Lee, John D.">Lee</persName> seems to enjoy company, and answers nearly all questions propounded to him cheerfully, and, if approached in a spirit of kindness, he becomes quite talkative. During this mood of loquacity, much that is interesting might be elicited from him, and <seg type="Blame" subtype="LDS_LDSLeadership">it is my opinion that were it not for his attorney he would convict himself. In answering the following questions he was not reserved until the name of <persName key="Young, Brigham">Young</persName> was mentioned, who would have been implicated in the massacre:</seg></p>	
+
+<p>Correspondent. Do you remember having conversed with a <persName key="Brand, D. O.">Mr. D.O. Brand</persName> (a deputy marshal and representative of the faith and doctrine of <persName key="Smith, Joseph, Jr.">Joseph Smith Jr.</persName>)?</p>	
+
+<p><persName key="Lee, John D.">Lee</persName>.  I do, sir; he stayed all night with me; ate, drank and slept with me. We talked all night on various topics touching the massacre.</p>	
+
+<p>Correspondent.  How old are you?</p>	
+
+<p><persName key="Lee, John D.">Lee</persName>. Sixty-three years old on the 6th of September next. I have had eighteen wives, sixty-three children, one hundred grand children, and one great grand child.</p>	
+
+<p><seg type="Context" subtype="Polygamy">Correspondent. Do you now believe in polygamy as a true doctrine?</seg></p>	
+
+<p><seg type="Context" subtype="Polygamy"><persName key="Lee, John D.">Lee</persName>.  You should not ask me that question, having so many children and wives as I have. But I have not taken any wives since the act of 1862.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">The contrary can be proved, it is said. I asked him if he believed the Book of Mormon to be an inspired work of <persName key="Smith, Jacob">Joseph Smith</persName>. He asserted his belief in that work emphatically. Still he knew that that book denounced the practice of polygamy in plain language.</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">Correspondent. You did not deny to <persName key="Brand, D. O.">Mr. Brand</persName> the charge alleged by the public against you as to participation in the Mountain Meadows Massacre?</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Lee, John D.">Lee</persName> seemed to hesitate, but finally denied having anything to do with the murder of the emigrants, as he was three-fourths of a mile away in a hollow at the time.</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">Correspondent. Did you not say you felt sorry for what was done there&#8212;that you would throw the blame where it belonged?</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Lee, John D.">Lee</persName>. I am no traitor. I will never betray <persName key="Young, Brigham">Brigham Young</persName>, as he was not there. Still I do not intend to any that others were not guilty, but <persName key="Young, Brigham">Brigham Young</persName> sent messengers with dispatches <seg type="Massacre" subtype="Location">to that place (the meadows)</seg> but all was over and it was too late.</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">This is certainly enough to show that <persName key="Young, Brigham">Young</persName> had knowledge that the massacre would take place.</seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">Correspondent.  Mr. <persName key="Lee, John D.">Lee</persName>, you know that blood atonement was then and had been taught by <persName key="Young, Brigham">Young</persName>?</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement"><persName key="Lee, John D.">Lee</persName>. Yes.</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">Correspondent. Do you feel justified, Mr. <persName key="Lee, John D.">Lee</persName>, in covering up this affair at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, having the knowledge of it that you have, and still hiding it from the world?</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">To this question <persName key="Lee, John D.">Lee</persName> seemed to have objections, but in a low tone said, “he would never stretch hemp.”</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">Correspondent. You say, Mr. <persName key="Lee, John D.">Lee</persName>, that you do believe in the Book of Mormon, which is strong against polygamy and blood atonement?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement"><persName key="Lee, John D.">Lee</persName>. I do.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">Correspondent. Well, in that book we are informed that the lord forgave certain of the people of their murders when they repented seriously, and finally, after offering their lives were forgiven, but died for the testimony of Jesus. Do you not feel that it would be better to do this and make an clean breast of it than to suffer hereafter the stigma attached to your character?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement"><persName key="Lee, John D.">Lee</persName>. I dislike a traitor. <persName key="Smith, Joseph, Sr.">Joseph Smith, Sr</persName>, used to say a traitor is worthy of death.</seg></p>	
+
+<p>Correspondent. <seg type="Massacre" subtype="Casualties">But those people <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> were innocent, both men, women and children being like you claim to be. No law had condemned them as guilty, and all men, in a certain degree, are innocent in the eyes of the law until proved otherwise.</seg></p> 
+
+<p><seg type="Context" subtype="TerritorialAdministration">This is hardly so, I think, in their case at least, as <placeName type="state" key="Utah Territory">the Territory</placeName> was under martial law at that time.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison"><seg type="Blame" subtype="EmigrantBehavior">The old story of their (the emigrants) poisoning springs, <seg type="Encounter" subtype="Slander">uttering oaths</seg>, and so on, was repeated.</seg></seg> This is how lies were manufactured in former times and sworn to by Indians. <seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Lee, John D.">Lee</persName> was courteous, and by this time had become quite familiar, and it is my belief that if he were to plead his own case he would convict himself.</seg> This he would do and make a clean breast of it if a proper course could be pursued. He has very little money at his own command, and were it not fro the means in the hands of others, who employ attorneys at their own expense, or for the sake (of notoriety, we would quickly be rid of the most guilty, ungodly, professed prophets, pseudo apostles false teachers and sacrilegious priestly perjurers that ever escaped the guillotine or the gallows. All the efforts ever made by the firmness, determination, untiring industry and zeal for the preservation of the honor and rights of the law of such Judges as his Honor <persName key="Boreman, J. S.">J. S. Boreman</persName>, with his associates in the Second District of the courts of Utah. There is little use in jeopardizing the lives of such worthy men as Marshal <persName key="Stokes, William">Stokes</persName> in the dangerous undertaking of capturing such men as <persName key="Lee, John D.">Lee</persName> whilst the power and money are in the hands of the guilty, the law itself being weakened by a priestly hierarchy, for the defense of which perjury and conspiracy against the General Government are considered no crime. Even the press, in some instances, is not free from bribery, and where our world is misplaced or published to the world by an honest Gentile, a thousand are used to fame his character by the Urim and Thummim of a sacerdotal priesthood, composed of <unclear>alieos</unclear>, bigamists, polygamists and despisers of Government, who would in some countries long ago have been condemned to felons’ cells or the traitor’s <unclear>ong</unclear> home.</p> 
+
+</div1>
+</body>
+</text>
+</TEI>

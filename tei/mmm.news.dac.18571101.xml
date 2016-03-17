@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dac.18571101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Futher Particulars About the Murdered Immigrants&#8212;Their Names and Circumstances&#8212;the Mormons Guilty of the Crime&#8212;How they Should be Punished</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2012</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.dac.18571101</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt>
+                <note type="project">
+From Will Bagley.<!-- ANY IMPORTANT INFORMATION ABOUT THE CREATION OF THE FILE THAT DOESN'T FIT WITH THE OTHER TAGS. -->
+                </note>
+            </notesStmt>
+
+           <sourceDesc>
+                <bibl>
+                    <title level="j">Daily Alta California</title>
+                    <title level="a" type="main">Futher Particulars About the Murdered Immigrants&#8212;Their Names and Circumstances&#8212;the Mormons Guilty of the Crime&#8212;How they Should be Punished.</title>
+                    <author>Editors Daily Alta California</author>
+                    <publisher>Daily Alta California</publisher>
+                    <pubPlace>San Francisco, CA</pubPlace>
+                    <date when="1857-11-01">1857-11-01</date>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+	    <keywords scheme="original" n="category">
+		<term>newspaper</term> 
+	        </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-18"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+        <change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+        <change when="2006-07-19"><name>Leslie C. Working</name> Initial Encoding</change>
+        <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dac.18571101.001"/>
+
+<!-- <dateline>Daily Alta California, <date value="1857-11-01">1 November 1857</date>, 1/3.</dateline> -->
+
+<head>FURTHER PARTICULARS ABOUT THE MURDERED EMIGRANTS&#8212;THEIR NAMES AND CIRCUMSTANCES&#8212;THE MORMONS GUILTY OF THE CRIME&#8212;HOW THEY SHOULD BE PUNISHED.</head>
+
+<p><placeName type="settlement" key="Angel's Camp, CA">Angels</placeName>, <date when="1857-10-29">October 29, 1857</date></p>
+
+<p><seg type="Source" subtype="UnattributedPublishedAccount">By the late news from <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, I see that the information given by me in my last letter, in reference to the names of the murdered emigrants, is about to prove true.</seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">In view of this fact, I went out this morning to see <seg type="Source" subtype="WordofMouth">the immigrants that gave me the information</seg>, to learn further particulars from them. <seg type="Emigrants" subtype="WagonTrain">I called on but one of the families, and they informed me that in Arkansas they lived but three miles from <persName key="Baker, John T.">Baker</persName>'s farm, and that he was generally known by the name of <persName key="Baker, John T.">"Jack" or "Captain Jack," Baker</persName>. He was reported to be wealthy, and left home with four hundred head of cattle, accompanied by his <persName key="Baker, Abel"><persName key="Baker, George W.">two sons</persName></persName>.</seg> One son, named <persName key="Baker, George W.">George</persName>, had spent some years in California, and had lived about Stockton, Sonora and Columbia. The <persName key="Baker, Abel">other son</persName> was single. The old man intended, as soon as he could settle here, to return by water and bring out the remainder of his family. In his company were <persName key="Mitchell, Charles R."><persName key="Mitchell, Joel D.">two brothers, by the name of Mitchel</persName></persName>, (<persName key="Mitchell, Charles R.">one of whom had his <persName key="Mitchell, John"><persName key="Mitchell, Sarah Baker">family</persName></persName></persName>,) a man named <persName key="Jones, John Milum">Milan Jones</persName>, and a widow named <persName key="Tackitt, Cynthia">Tacket</persName>, who was coming to live with her son in California. I think this son is living near Tuttletown. My informants saw all these persons at <placeName type="settlement" key="Fort Bridger, WY">Fort Bridger</placeName>, about the last of July. <persName key="Fancher, Alexander">Fancier</persName> (I wrote Fazier by mistake in my other letter) had spent some years in California, but my informant did not know in what part. <seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Spoils">They think the whole company had at least a thousand head of cattle with them. They also had many splendid rifles and guns, and plenty of them.</seg></seg> <seg type="Source" subtype="WordofMouth">My informants tell me</seg>, that <seg type="Context" subtype="IndianRelationsLDS"><seg type="Emigrants" subtype="Route">the day they passed the junction of the Cut-off and the main road through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, (thirty miles this side of the city,) they saw a party of Indians enjoying a feast given them by the Mormons.</seg> The Mormons said they had just finished a treaty with the Indians, the purpose of which was that the Indians were not to trouble the whites who travelled through by the Salt Lake route, as they wanted them to pass that way in order to trade with them.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS"><seg type="Source" subtype="UnattributedPublishedAccount">The last news also confirms my opinion as to who were the perpetrators of this deed. There were some facts connected with the first information given by the Mormons of this slaughter, that convinced me that the murderers were not Indians. It may be true that Indians took part in the work, but the blame rests with those who led them on.</seg> The first of these facts is, that <seg type="Massacre" subtype="Survivors">the young children were saved</seg>. This was no Indian act, but was natural for the Mormons, who wanted to train them to their faith. The second is, the suppression of all the names. <seg type="Massacre" subtype="Spoils">Now, if no one of that large company did not tell his name to any Mormon, they certainly left some evidence among the property as to who they were and where they were from.</seg> The third is, the statement that the Indians had told the whites what they had done.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">We are all at a loss to know what is to be done with these people, and we dread to contemplate the horrors of the future. If soldiers must be sent to conquer them, rivers of blood must flow through their valleys before it will be done. If they are to be left alone to do as they will, the great highway of travel between the Atlantic States and the Pacific will be closed, and Utah will be the place of refuge for all the villains who escape from justice in the States, and a worse set will be gathered there than the world has ever seen.</seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">The only remedy seems to be to dissolve the Territorial government, declare their laws null and void, <seg type="Reaction" subtype="MilitaryRetaliation">send large bodies of soldiers to be stationed at every town and settlement in the Territory</seg>, let martial law prevail, then hang or shoot every man that rebels, punish every one according to the crime he commits, and give encouragement to the Gentiles to settle there. By this policy the country will fill up with Gentiles.</seg></p>  <closer> P.</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

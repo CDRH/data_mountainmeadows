@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.floyd.1858.2">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	        <title level="m" type="main">Message of the President of the United States: Report of the Secretary of War, 1858</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>John</forename> <forename type="middle">B.</forename> <surname>Floyd</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+    		<idno>mmm.doc.floyd.1858.2</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">Report of the Secretary of War, War Department, Washington, December 6, 1858</title>
+		    <title level="m">Message of the President of the United States to the Two Houses of Congress at the Commencement of the Second Session of the Thirty-Fifth Congress</title>
+		    <title level="s">US Senate. 35th Cong, 2d sess. Senate Exec. Doc. 1</title>
+		    <author><forename>John</forename> <forename type="middle">B.</forename> <surname>Floyd</surname></author>
+		    <publisher>William A. Harris, Printer</publisher>
+		    <pubPlace>Washington, DC</pubPlace>
+            <extent>3-19</extent>
+		    <date when="1858">December 6, 1858</date>
+		    <note type="source">John B. Floyd. "Report of the Secretary of War, War Department, Washington, December 6, 1858," in James Buchanan. <hi rend="italic">Message of the President of the United States to the Two Houses of Congress at the Commencement of the Second Session of the Thirty-Fifth Congress</hi>. US Senate. 35th Cong, 2d sess. Washington, DC: William A. Harris, Printer, 1858. Senate Exec. Doc. 1, 3-19.
+		    </note>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	            </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+	  	</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	     </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-24"><name>Jaclyn Cruikshank Vogt</name>  Encoding Enhancement</change>
+    	<change when="2011-06-14"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+    	<change when="2010-01-11"><name>Laura Weakly</name> Validation</change>
+    	<change when="2009-12-16"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<front>
+
+<div1>
+    <pb n="1" xml:id="mmm.doc.floyd.1858.2.001"/>
+    
+<head type="sub">35th CONGRESS, <hi rend="italic">2d Session</hi>.   SENATE. 	EX. DOC. NO.1.</head>
+<head type="main">MESSAGE<lb/>
+    OF THE<lb/>
+    PRESIDENT OF THE UNITED STATES<lb/>
+    TO THE<lb/>
+    TWO HOUSES OF CONGRESS<lb/>
+    AT THE<lb/>
+    COMMENCEMENT OF THE SECOND SESSION<lb/>
+    OF<lb/>
+    THE THIRTY-FIFTH CONGRESS.<lb/></head>
+    
+<milestone unit="horbar" />
+    
+    <p><date>December 6, 1858</date>&#8212;Read and ordered to be printed.</p>
+       
+<p><hi rend="center">WASHINGTON:<lb/>
+WILLIAM A. HARRIS, PRINTER.<lb/>
+1858</hi></p>
+</div1>
+    </front>
+
+<body>
+    <div1>
+
+<pb n="3" xml:id="mmm.doc.floyd.1858.2.003"/>
+
+<head>REPORT OF THE SECRETARY OF WAR.</head>
+
+<milestone unit="horbar" />
+
+<dateline>WAR DEPARTMENT
+<hi rend="italic">Washington, December</hi> 6, 1858.</dateline>
+
+<p>SIR The authorized strength of the army, as posted, is 18,165; but the actual strength, on the 1st of July, was 17,498. There troops compose the whole numerical force of our army, distributed throughout the States and Territories of the entire confederacy, manning all the fortifications occuppied by troops, holding all the posts now garrisoned, defending all our extended frontiers, and protecting, as far as possible, the different routes extending across the continent from the <geogName type="valley" key="Mississippi Valley">Mississippi valley</geogName> to our possessions on the <geogName type="waterway" key="Pacific Ocean">Pacific</geogName>.</p>
+
+<p><seg type="Context" subtype="UtahWar">The absolute demands for men in the various posts stations, &amp;c., as well as for what might be termed the police operations of the army, left only thirteen regiments for actual service in the field. And upon this small force, numbering little over eleven thousand men, devolved the arduous duty of prosecuting all the Indian wars, which have extended this year from the British possessions on the <geogName type="waterway" key="Pacific Ocean">Pacific</geogName> to the border settlements of <placeName type="state" key="Texas">Texas</placeName>; as well as of crushing the rebellion in <placeName type="state" key="Utah Territory">Utah</placeName>, which, from its vindictive spirit and large numbers, threatened at its outset to become, and indeed was, very formidable.</seg></p>
+
+<p>The labors perfrmed by the army since my last report will very fully appear from the reports of the different bureaus, here with transmitted, and to which I call your particular attention. It may be safely asserted that no army of the same size ever before performed, in such a length of time, marches and movements of such extent, surmounting in their progress of formidable obstacles.</p>
+
+<p>These regiments have accomplished within the year a march, averaging for each, the extraordinary distance of twelve hundred and thirty-four miles. These marches, in the main, have been made through the uninhabited solitudes and sterile deserts which stretch away between the settlements of the Atlantic and Pacific coasts upon routes which afforded nothing to facilitate the advance, except only the herbage which the beasts of burden might pluck by the way-side.</p>
+
+<p>Every item of supply, from a horse-shoe nail to the largest piece of ordnance, has been carried, from the depots along the whole line of those tedious marches, to be ready at the exact moment when necessity might call for them. The country traversed could yield nothing. The labor, foresight, method, and care reauisite to systematize, and the energy, activity, and persistence to carry out such operations by the different departments, deserve the attention of the country and, in my opinion its commendation too. No disaster has befallen the army throughout its immense ramifications; and the privations, hardships, toile, and dangers to which it has been continually subjected, have been borne without a murmur.</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS"><seg type="Blame" subtype="IndiansIndependently">There has been for a long time much exhibition of an insubordinate and hostile spirit amoung the Indian tribes of <placeName type="state" key="Washington">Washington</placeName> and <placeName type="state" key="Oregon">Oregon</placeName>
+
+<pb n="4" xml:id="mmm.doc.floyd.1858.2.004"/>
+
+Territories, and during the past spring and early part of summer it broke out into open hostility. A very large force of Indians attacked a comparatively small party of our people, who, after an ineffectual resistance and the loss of some brave officers and men, were forced to retreat.</seg> This was the signal for a general rising of the tribes, and an alliance was speedily formed between the powerful tribes of Spokanes and Coeur d'Alenes, together with many straggling warriors from amongst the Palonses and other tribes. Immediately upon this outbreak, Brevet Brigadier General <persName key="Clarke, Newman S.">Clark</persName>, in command of the department of the Pacific, with great promptness, and with a wise forecast, concentrated in a masterly manner, the widely scattered forces under his command and, and precipitated them into the heart of the Indian country, where a powerful Indian force was already assembled to meet him. The campaign was prosecuted with great activity and vigor by Colonel <persName key="Wright, George">Wright</persName>, of the 9th infantry, who gave battle to the Indians on several occasions, always routing them completely. After beating their forces, capturing many prisoners, and destroying large amounts of property, and laying waste their country, the Indians surrendered at discretion, with their wives and children, and sued abjectly for peace. The criminal offenders amongst them, heretofore guilty of murder and rapine, the chief instigators of all dissatisfaction amongst those tribes, and the immediate cause of the recent hostilities, were surrendered, tried, and executed.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">A permanent peace has been established by treaties entered into with them, and the army has been already distributed to points, where the presence of a force was greatly needed. The officers and men of this command deserve the thanks of the country for the efficient and soldierly manner in which they have borne themselves in the prosecution of the campaign.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">The forces employed in the <placeName type="state" key="New Mexico">Territory of New Mexico</placeName> have been called upon also to repel Indian aggressions and chastise the formidable and war-like tribe of the Navajos. These savages have for some time evinced a spirit of insubordination and discontent, which at last broke out into an open defiance of our authority, and was followed by the murder of a negro man within the precincts, of the camp.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">The declining health of Brevet Brigadier General <persName key="Hurt, Garland">Garland</persName> necessitated his return to the States, which devolved the command of that department upon Colonel <persName key="Bonnevill, Benjamin">Bonneville</persName>. This officer promptly and with very proper foresight put an foot the expedition against the Indians, and the campaign has, upon the last advisors, been conducted with skill ability, activity, and courage. The enemy has been met on several occasions, and always routed, although our disparity of numbers has always been very great. Our troops have succeeded also, in taking a considerable amount of the Indian property, consisting of cattle and grain. This war is still prosecuted with vigor, and the Indians show no disposition to abandon their warlike attitude or ask for peace. The Navajos are very rich in herds and flocks, anti possess considerable quantities of grain, enough at least to enable them, for some time, to keep up resistance and prosecute the war. They can probably number about three thousand mounted warriors, an extremely formidable force, particularly in the wild and remote country they inhabit. There
+
+<pb n="5" xml:id="mmm.doc.floyd.1858.2.005"/>
+
+shall be no relaxation in prosecuting this war until the savages are brought absolutely under the yoke.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">In the <placeName type="state" key="Texas">State of Texas</placeName> and upon its borders, there has been, and still is, at this time, raging an Indian war between our troops and that most formidable of all the tribes, the Camanches of the plains, and their kinsmen and allies, the Kiowas. These people have, for a long time, been committing petty outrages upon the inhabitants of one frontiers and travellers upon the roads leading in the vicinity of their haunts. These depredations brought on at last a fight between our troops and their warriors, which for fierceness and determination was very remarkable in Indian warfare. The Indians were routed with considerable loss of killed and wounded by our troops, most efficiently commanded by Major <persName key="Van Dorn, Earl">Van Dorn</persName>, who also succeeded in capturing a number of their horses.</seg></p>
+
+<p>This war we may look upon as just begun, and the probabilities are that it will be one of fierceness, and may be one of considerable duration. Every means will be taken to prosecute it with vigor and to terminate it with all possible speed.</p>
+
+<p>You will see, sir, from this rapid narrative, that our little army has been called upon, during the last year, to carry on a war extending over nearly the whole space embraced between the parallels of 32° and 48° of north latitude, and extending over a space of more than fifteen hundred miles. It is not, then, a matter of surprise that our thirteen regiments, engaged in these wars and the Mormon rebellion, should have been called upon, in the performance of these arduous services, to accomplish the extraordinary feat of marching an average distance of nearly thirteen hundred miles.</p>
+
+<p><seg type="Context" subtype="WesternViolence"><seg type="Context" subtype="IndianRelationsUS">In addition to the operations above spoken of, troops have been moved. upon the northwestern frontier and stationed in such manner as to afford protection, as far as possible, to the border settlements of that region. Much apprehension from the hostile manifestations of the savages beyond the confines of <placeName type="state" key="Iowa">Iowa</placeName> and <placeName type="state" key="Minnesota">Minnesota</placeName>, has been felt by the frontier settlements of those States, and I regret to say our force is not sufficient to spare troops in such numbers as will quiet altogether those alarms</seg>.</seg></p>
+
+    </div1>
+    
+<div1>
+
+    <head type="sub">MAP OF POSTS AND ROADS.</head>
+
+<p>I have caused a map to be made, which accompanies this report. It shows at a glance all the military posts occupied by our troops and the roads to be travelled in passing to them. Such of these posts as are garrisoned must be supplied with everything, and these supplies must be transported to them whenever and wherever they are needed regardless of all obstacles. If those posts were permanently occupied by fixed numbers of troops, it would be easy to furnish an exact estimate of cost, both for supplies and their transportation. But it is very far otherwise, when the supplies are contingent upon the accidental number of troops which the exigencies of the service may require. at a given point, and the season of the year when they are to be moved. The number of posts and their positions exhibited by the map, and the extraordinary distances traversed by our troops, demonstrate that both economy and the proper efficiency of the army require an increase of it. Whilst I have no recommendation to make
+
+<pb n="6" xml:id="mmm.doc.floyd.1858.2.006"/>
+
+upon the subject knowing, as I do, the action of Congress upon this subject at the last session, yet I feel constrained to lay these facts before you and the country, that any apparent lack of efficiency in the army in giving complete protection to our frontiers may be set down to the want of numbers, and not to any want of activity on the part of our troops</p>
+
+<p>Upon this point I beg leave to call your attention to the views of the general-in-chief.</p>
+
+</div1>
+    
+    <div1>
+
+<head type="sub">UTAH.</head>
+
+<p>The operations of the army in connexion with the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> since the date of my last report, deserve particular notice. They have been in themselves important, and fraught with most important results.</p>
+
+<p><seg type="Context" subtype="UtahWar">With the inception and progress of the Mormon rebellion, up to the meeting of Congress last year, the country is familiar. It is familiar also with the importance ascribed to it by Congress, with the reasons assigned by that body for appropriating the large sums of more necessary for crushing the treason at a single blow. The preparations at first made to accomplish this object I have heretofore reported. But the final preparations for fitting out the expedition, and the actual movement of the troops upon that remote and difficult Territory, have not until now been made the subject of official communication, nor have the highly beneficial consequences resulting from the policy of that movement been as yet brought to your notice or to that of the public.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">After the open acts of war perpetrated by the Mormon people against the United States, in seizing the provision trains of our army, and destroying them with fire; and in stealing and driving off the herds of cattle and horses belonging to the command, although these were essential, as everybody supposed, to the maintenence of our troops and their protection against starvation; these people continued to manifest every proof of a fixed determination to push their treason to the extremity of bloodshed and war. They not only proclaimed martial law in that Territory without a pretext, but against every principle of justice, of law, and of the Constitution; they embodied their whole force of effective men and kept them constantly drilled and under arms, hovering about our encampment, seeking a favorable moment, if one should ever offer itself, to cut off and destroy the whole command. They fortified the narrow mountain passes leading towards the town and chief settlements where they reside, and collected front remote neighborhoods all the deluded people belonging to their meet. Every preparation which indicated it spirit of determined hostility, of rebellion of treason and war, characterized these people in every action, and nothing but menace and defiance towards the United States authorities ever fell from the lips of their chief Impostor or any of his confederates.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">When a small force was first sent to <placeName type="state" key="Utah Territory">Utah</placeName>, the Mormons attacked and destroyed their trains, and made ready for a general attack upon the column. When a sufficient power was put on foot, to put success beynnrid all doubt, their bluster and bravado sank into whispers of terror and submission.</seg></p>
+
+<pb n="7" xml:id="mmm.doc.floyd.1858.2.007"/>
+
+<p><seg type="Context" subtype="UtahWar">This movement upon that Territory was demanded by the moral sentiment of the country, was due to a vindication of its laws and constitution, and was essential to demonstrate the power of the federal government to chastise insubordination and quell rebellion, however formidable from numbers or position it might seem to be. Adequate preparations, and a prompt advance of the army, was an act of mercy and humanity to those deluded people, for it prevented the effusion of blood.</seg></p>
+
+<p>Their people, however, still evince a spirit of insubordination and moody discontent. They keep up strictly their organization, which has for its object and end the complete exclusion of federal authority from all participation in the govermental affairs of the Territory, beyond a mere hollow show. The head man or chief of their sect rules the people with absolute power, and under his dictation the temper they manifest towards the government and the army is that of a conquered people towards a foreign enemy. The necessity which called for the presence of troops in <placeName type="state" key="Utah">Utah</placeName> will require a strong force still to be kept there. The reports from the commissioners sent to Utah for the purpose of ascertaining the exact condition of things are already in your hands, and are at once useful and interesting. Nothing could be more praiseworthy than the just and impartial manner in which those gentlemen discharged their delicate and responsible duties.</p>
+
+<p>The conduct of both officers and men attached to the army of Utah has been worthy of all praise. The commander, Brevet Brigadier General <persName key="Johnston, Albert Sidney">A. S. Johnston</persName>, who joined his command at a time of great trial and embarrassment, with a calm and lofty bearing, with a true and manly sympathy for all around him, infused into his command a spirit of serenity and contentment which amounted to cheerfulness, amidst uncommon hardships and privations which were unabated throughout the tedious and inclement season of the winter. The destruction of our trains by the Mormons, the disasters which necessarily flowed from it, drove General <persName key="Johnston, Albert Sidney">Johnston</persName> to the necessity of sending a detachment of men to New Mexico for supplies essential to preserve the whole command from the greatest extremity, and to enable him to prosecute his march with all practicable despatch.</p>
+
+<p>This expedition was intrusted to Captain <persName key="Marcy, Randolph B.">R. B. Marcy</persName>, of the 5th infantry; and, without intending to make an invidious comparison between the services of officers where all are meritorious, it is but just to bring the conduct of this officer and his command to your especial notice. It may be safely affirmed that, in the whole catalogue of hazardous expeditions scattered so thickly through the history of our border warfare, filled as many of them are with appalling tales of privation, hardship, and suffering, tint one surpasses this; and in some particulars it has been hardly equalled by any. </p>
+
+<p>Captain <persName key="Marcy, Randolph B.">Marcy</persName> left <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> on the 24th day of November, 1857, with a command of forty enlisted men and twenty-five mountain men, herders, packers, and guides. Their course lay through an almost trackless wilderness, over lofty and rugged mountains, without a pathway or a human habitation to guide or direct, in the very depth of winter, through snows for many miles together reaching to the depth of five feet. Their beasts of burden very rapidly perished until
+
+<pb n="8" xml:id="mmm.doc.floyd.1858.2.008"/>
+
+very few were left; their supplies gave out; their luggage was abandoned; they were driven to subsist upon the carcasses of their dead homes and mules; all the men became greatly emaciated; some were frost-bitten; yet not one murmur of discontent escaped the lips of a single man. Their mission was one of extreme importance to the movements of the army, and great disaster might befall the command if these devoted men failed to bring succor to the camp. They had one and all volunteered for this service, and, although they might freeze or die, yet they would not complain.</p>
+
+<p>After a march of fifty-one days they emerged from the forests, and found themselves at <orgName type="military" key="Fort Massachusetts">Fort Massachusetts</orgName>, in <placeName type="state" key="New Mexico">New Mexico</placeName>. During their whole march Captain <persName key="Marcy, Randolph B.">Marcy</persName> shared all the privations of the common soldier-marching, sleeping, and eating as they did. After a short delay at this post, for the purpose of recruiting his party and pro-curing all necessary supplies for his return, he set out for the army at Fort Bridger.</p>
+
+<p><seg type="Context" subtype="UtahWar">In the mean time information reached the department that the Mormons were organizing a party to intercept Captain <persName key="Marcy, Randolph B.">Marcy</persName>'s return with the supplies, to "stampede" his animals, and cut off his party. Prompt measures were taken to reinforce Captain <persName key="Marcy, Randolph B.">Marcy</persName>, so as to prevent such a catastrophe. Information of this further Mormon treason reached General <persName key="Hurt, Garland">Garland</persName>, then commanding the department of <placeName type="state" key="New Mexico">New Mexico</placeName>, in time to send a detachment of the mounted rifles sufficient for protection.</seg></p>
+
+<p>These preparations necessitated a further delay on the part of Captain <persName key="Marcy, Randolph B.">Marcy</persName>, otherwise he would have reached the army at <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> with his supplies after an absence of about three months, having accomplished a march of more than 1,300 miles. I herewith transmit a short report prepared by Captain Marcy, at my request, which, I am sure, will be read with interest.</p>
+
+    </div1>
+    
+    <gap reason="not relevant" />
+
+<pb n="18" xml:id="mmm.doc.floyd.1858.2.018"/>
+
+    <div1>
+
+<head rend="center">EXPENDITURES OF THE ARMY.</head>
+
+<p>I desire to call particular attention to the subject of army expenditures. I think there is some misapprehension in the public mind upon this point, which can be removed by a succinct statement of facts.</p>
+
+<p>The disbursement of money through the War Department embraces many subjects, entirely disconnected with the army proper, but all of which is in general apprehension ascribed wholly to the army. All work done upon fortifications along the sea coast, in which many millions are spent, has in fact no more to do with the operations of the army than the ships-of-war which are built at the navy yards. Nor has the army, as such, any thing to do with the expenditures of money anuually appropriated for rivers and harbors; so too of the buildings and works of a public character put in charge of army officers for construction. It is certainly not just to charge to the army the millions spent upon the aqueduct for bringing water into the city of Washington, when in all probability not one platoon of soldiers will ever, in the course of any one year, be solaced with a drink of water from those capacious fountains.</p>
+
+<p>The fair and legitimate expenses of the army are embraced within comparatively a few items. The pay of the officers and men is regulated by law; not one dollar more or less can be expended upon that object. So too with their rations and clothing. Nothing would be easier, and nothing in the future would be more certain, than to estimate exactly what would be the cost to the country of maintaining our whole army, or any portion of it, at any fixed and permanent post for a year. But when the movements of troops depend upon the uncertain temper and disposition of savages upon a frontier line of more than four thousand miles in extent, some latitude must be allowed in calculating the probable cost of making such movements as those precarious contingencies may necessitate. The season of the year and the locality where the marches are to take place enter materially into the computation of expenses, all of which is too obvious to require any illustration. So much for the general proposition about army expenditures. I have attempted as far as possible to meet your just wishes in reducing the expenditures of the army, and the estimates of the next fiscal year are less than the appropriations of the last by the sum of $9,160,488 32. They are less than the estimates laid before you at the last session of Congress by the elm of $2,735,408 55. They amount in the aggregate to $18,010,090 28, and I entertain a strong hope that the expenditures may be still further reduced in the course of another year.</p>
+
+<pb n="19" xml:id="mmm.doc.floyd.1858.2.019"/>
+
+<p><seg type="Context" subtype="IndianRelationsUS">It affords me pleasure to say that notwithstanding the Indian wars in <placeName type="state" key="Washington">Washington</placeName>, <placeName type="state" key="New Mexico">New Mexico</placeName>, and <placeName type="state" key="Texas">Texas</placeName>, all of which were unforeseen and unexpected, still, unless there shall be further and larger demands for expenditures in suppressing other Indian hostilities, additional to those already incurred in <placeName type="state" key="Washington">Washington Territory</placeName>, <placeName type="state" key="New Mexico">New Mexico</placeName>, and <placeName type="state" key="Texas">Texas</placeName>, there will he no necessity for asking appropriations in the shape of a deficiency bill.</seg></p>
+
+<p>I have the honor to be, very respectfully, your obedient servant, </p>
+
+<closer><signed><persName key="Floyd, John B.">JOHN B. FLOYD</persName>, <hi rend="italic">Secretary of War.</hi>
+<hi rend="center">THE PRESIDENT <hi rend="italic">of the United States.</hi></hi></signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

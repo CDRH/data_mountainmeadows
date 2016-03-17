@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dch.18571109">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Horrible Massacre of Emigrants&#8212;Over 100 Persons Killed</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+		</titleStmt>
+		<editionStmt>
+		    <edition><date>2010</date></edition>
+		</editionStmt>
+		<publicationStmt>
+		<idno>mmm.news.dch.18571109</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+
+	        <bibl>
+		    <title level="j">The Daily Cleveland Herald</title>
+		    <title level="a" type="main">Horrible Massacre of Emigrants&#8212;Over 100 Persons Killed.</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Cleveland, OH</pubPlace>
+		    <date when="1857-11-09">November 9, 1857</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	    	<keywords scheme="original" n="category">
+	    		<term>newspaper</term>
+	    	</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-08-11"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-08-11"><name>Katie Heupel</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+	
+	<div1 type="newspaper">
+		
+		<pb n="unknown" xml:id="mmm.news.dch.18571109.001"/>
+
+<head>Horrible Massacre of Emigrants&#8212;Over 100 Persons Killed.</head>
+
+<p><seg type="Source" subtype="Christian">A letter from <persName key="Christian, J. Ward">J. O. Ward</persName> to the <orgName type="newspaper" key="Los ANgeles Star">Los Angelos <hi rend="italic">Star</hi></orgName>, dated <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, Oct. 4th, 1857, states that an entire train of Emigrants <seg type="Emigrants" subtype="StateAffiliationMissouri">from <placeName type="state" key="Missouri">Missouri</placeName></seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName></seg> <seg type="Emigrants" subtype="Route">bound to <placeName type="state" key="California">California</placeName> by way of <geogName type="waterway" key="Great Salt Lake">Great Salt Lake</geogName></seg>, <seg type="Blame" subtype="IndiansIndependently">had been massacred by Indians</seg> <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, which are on or near <geogName type="feature" key="Great Basin">the rim of the Great Basin</geogName>, and some distance South of the most Southern Mormon settlements</seg>.  <seg type="Massacre" subtype="Dates">The massacre took place about the 10th or 11th of September</seg>.  <seg type="Source" subtype="Indians">Mr. <persName key="Christian, J. Ward">Ward</persName> says he first obtained his information from the Indians</seg>.  The account, no doubt much exaggerated, if not altogether untrue, is as follows:</seg></p>
+
+<p><seg type="Source" subtype="Christian"><seg type="Emigrants" subtype="WagonTrain">The company consisted of one hundred and thirty or one hundred and thirty-five, women and children, and included some forty or forty-five capable of bearing arms.</seg>  <seg type="Massacre" subtype="Spoils">They were in possession of quite an amount of stock, consisting of horses mules and oxen.</seg>  <seg type="Blame" subtype="IndiansIndependently"><seg type="Source" subtype="Indians">The encampment was attacked about daylight in the morning, so say the Indians, by the combined forces of all the various tribes immediately in the section of the country</seg>.  <seg type="Massacre" subtype="Casualties">It appears that the majority of them were slain at the first onset made by the Indians.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Christian"><seg type="Massacre" subtype="Battle">The remaining force formed themselves into the best position their circumstances would allow; but before they could make the necessary arrangements for protecting themselves from the arrows, there were but few left who were able to bear arms.</seg></seg></p>
+
+<p><seg type="Source" subtype="Christian"><seg type="Massacre" subtype="Battle">After having corralled their wagons and dug a ditch for their protection, they continued to fire upon the Indians for one or two days; but the Indians had so secreted themselves that, according to their own statement, there was not one of them killed, and but few wounded.</seg>  <seg type="Massacre" subtype="Surrender">They (the emigrants) then sent out a flag of truce, borne by a little girl, and gave themselves up to the mercy of the savages</seg>, who immediately rushed in and slaughtered all of them, with <seg type="Massacre" subtype="Survivors">the exception of fifteen infant children that have since been purchased, with some difficulty, by the Mormon interpreters</seg>.</seg></p>
+
+<p>The causes which led to the massacre are reported to be that when the train camped at an Indian village near <placeName type="settlement" key="Fillmore City, UT">Fillmore City</placeName>, <seg type="Encounter" subtype="TradeIndian">the emigrants not only cheated the natives badly in trading with them</seg>, but <seg type="Encounter" subtype="Poison">they put strychnine in a dead ox for the purpose of poisoning the Indians, and also put poison in the water which stands in pools.  This occasioned several deaths among the Indians within a few days after the departure of the train, whereupon the Indians rallied, selected a place of attack, and took terrible vengeance</seg>.  <seg type="Source" subtype="Attributed_TannerMathews">Mr. <persName key="Christian, J. Ward">W.</persName> says he obtained the statement of the causes of the massacre from Elders <persName key="William Mathews">Matthews</persName> and <persName key="Hyde, Bill">Hyde</persName>, who were in <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName> at the time this train was there recruiting their fit-out, and were on their way to <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> when the murders were committed, but several days' journey in the rear of the emigrants.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

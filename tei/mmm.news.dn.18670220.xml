@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18670220">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Report of General Babcock</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt><idno>mmm.news.dn.18670220</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Deseret News</title>
+		    <title level="a" type="main">Report of General Babcock</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Salt Lake City, UT</pubPlace>
+		    <date when="1867-02-20">February 20, 1867</date>
+		</bibl>
+	    </sourceDesc>
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-04-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-25"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.dn.18670220.001"/>
+
+<head>REPORT OF GENERAL BABCOCK.</head>
+
+
+<p><seg type="Source" subtype="Government"><persName key="Babcock, Orville Elias">Brevet Brigadier General O. E. Babcock</persName> was appointed, last spring, to make an inspection of the military posts in the West. He furnished a Report of his inspection on Oct.5, 1866; portions of which were laid before Congress by <persName key="Stanton, Edwin McMasters">Secretary Stanton</persName>, on the 3d of January last, which were referred to the Committee on Military Affairs and ordered to be printed.</seg></p>
+  
+<p><persName key="Babcock, Orville Elias">General Babcock</persName> states that <persName key="Sherman, William Tecumseh">Major General Sherman</persName> showed him the telegraphic correspondence which had passed between President <persName key="Young, Brigham">B. Young</persName> and General <persName key="Sherman, William Tecumseh">Sherman</persName>; and desired him to remain at least four weeks in this valley, to fully acquaint himself <q>"with the threatened, difficult question between the United States Government and the sect of people known as Mormons; suggesting to <q>"him"</q> the propriety of talking freely and plainly with these people, and particularly the leader, President <persName key="Young, Brigham">Young</persName>."</q> </p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">In accordance with his instructions, General <persName key="Babcock, Orville Elias">Babcock</persName> left <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName> on the 2nd of May last,and visited <orgName type="military" key="Fort Lavenworth">Fort Lavenworth</orgName>, <orgName type="military" key="Fort Kearny">Fort Kearny</orgName>, Cottonwood, <placeName type="settlement" key="Julesburg">Julesburg, CO</placeName>, <orgName type="military" key="Camp Wardwell">Camp Wardwell</orgName>, <placeName type="settlement" key="Denver, CO">Denver</placeName>, <orgName type="military" key="Camp Collins">Camp Collins</orgName>, <geogName type="waterway" key="Big Laramie">Big Laramie</geogName> and <geogName type="waterway" key="North Platte">North Platte</geogName>, before reaching <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> in <placeName type="state" key="Utah Territory">this Territory</placeName>. In his report of <placeName type="settlement" key="Denver, CO">Denver</placeName> and the stage route leading to it, he is pointed in the expression of his views that military matters and Indian agencies are conducted in anything but a wise and equitable manner. Many of the rumors and reports of Indian outbreaks have their origin with whites who are anxious for an Indian war, with an eye to business, having contracts and a freer circulation of money in view; just as some people in this Territory are ever busy to try and bring about a <q>"Mormon war"</q> with the same object in view. General <persName key="Babcock, Orville Elias">Babcock</persName> reached <placeName type="settlement" key="Denver, CO">Denver</placeName> on the 20th of May, and by personal Investigation he could trace the reports and rumors then in existence there to nothing more than some cases of stealing by bad Indians.</seg></p>
+
+<q><seg type="Context" subtype="IndianRelationsUS">He recommends the establishment of a military post near <geogName type="waterway" key="Green River">Green river</geogName>, on the new road between <placeName type="settlement" key="Denver, CO">Denver</placeName> and <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, which passes through <placeName type="county" key="Uintah County, UT">Uintah</placeName>, <placeName type="county" key="Green County, UT">Green</placeName>, and <placeName type="county" key="Bear River County, UT">Bear River</placeName> Counties. He considers such a post, If established in advance of the travel, would prevent trouble with the Indians by compelling white men to mind their own business.</seg></q>
+
+<p>He reached <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> on the 17th of June, and found the post in <q>"a shameful condition&#8212;grounds not policed, buildings out of order, flooring burned up, bridges burned, shade trees broken down."</q> <q>"This reservation is twenty-five miles square, thus embracing all the good land within twelve miles in either direction."</q> The hay land is leased to Judge <persName key="Carter, William A.">Carter</persName>; also, the wood land, the General believed. The consequence is, no chance for competition. He thinks <q>"it would be advantageous and economical to the government to sell, the larger part of this reservation."</q></p>
+
+<p>His report of matters and things here we quote at length:&#8212;</p>
+
+</div1>
+
+<div1>
+ <head type="sub">MORMONS.</head>
+
+<p>Major General <persName key="Sherman, William Tecumseh">Sherman</persName> showed me, when in <cb n="2" /><placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>, the correspondence between himself and <persName key="Young, Brigham">Brigham Young</persName>, the president of the Mormon church. He informed me that it was possible the government might be compelled to force these people to obey the laws of the land. He wished me to remain in the valley of Great Salt Lake at least four weeks, to talk freely and often with Mormons and gentiles&#8212;thus, if possible, to collect such information as would suggest toward <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName> June 19, and remained until the 20th of July. I met many of the Mormon people, as well as the Gentiles, and was treated with civility by both. Perhaps a detailed account of these people will be of interest. The sect known as Mormons is well known in the United States. <seg type="Context" subtype="Polygamy">The marked peculiarity of their religion is the claim of a religious right to have a plurality of wives.</seg> In other respects, their religion does not offend public opinion. The present head of the church is <persName key="Young, Brigham">Brigham Young</persName>, whom the Mormons believe inspired at times, through whom God reveals His wishes. He is acknowledged the head of the church and styled president, and is the <q>"Trustee in Trust of the Church of Jesus Christ of Latter-day Saints."</q> With this man at their head these people reached this valley July 21,1847 (?) This valley was then an entire wilderness, with but few acres of ground on which crops could be raised. He located his people in the valleys of the streamsrunning from the mountains, making the main settlement and head of the church at what they called <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>. He turned their attention to cultivating the ground, and found by irrigating those valleys covered with sage bushes, fine crops could be raised. This required a great amount of labor, but this they furnished, and in various portions of <placeName type="state" key="Utah Territory">the Territory</placeName> large settlements grew up. The <placeName type="state" key="Utah Territory">Territory of Utah</placeName> has now, the Mormons claim, a population of near 150,000 (?) They are settled in various parts of the Territory, wherever advantages are offered in soil and for irrigation. The attention of the people is generally confined to agriculture, raising of stock, the necessaries of life. The cultivation of this country was necessary to the development of the gold mines in <placeName type="state" key="Idaho">Idaho</placeName> and <placeName type="state" key="Montana">Montana</placeName>, for this new country was supplied with flour by the Mormons. The Territory has much mineral wealth, gold, silver, lead, iron, coal, &amp;c.,but <persName key="Young, Brigham">Brigham Young</persName> has kept their attention to cultivation of the soil, I saw a less number of idle people in <placeName type="state" key="Utah Territory">Utah Territory</placeName> than in any locality I ever visited. I saw President <persName key="Young, Brigham">Young</persName> often. At first he was quite dignified and formal,but afterwards talked freely on the various subjects of difference between his church and the general government. <seg type="Context" subtype="Polygamy">The act of congress of 1863, prohibiting polygamy, has never been enforced. President <persName key="Young, Brigham">Young</persName> told me he wanted it brought before the courts, and would place no obstacle in its way, and in fact would help to bring it before the courts. He said he believed it was unconstitutional, as it is against one of the foundations of their religion. He went further and said <q>"the Mormons would never have had more than one wife had not God revealed it to them that it was His wish."</q> His sincerity in such statement might be questionable, though his manner and conversation would not seem so. That the people generally believe this I think there is no question. The attempt to enforce this law of 1863 has been a failure, and I think will be, not because the people oppose the courts, but the fanatical views of the people render such failures almost certain. The law makes it a crime to take more than one wife. Before the offender can be tried he must be indicted before a jury of the land. The jury of necessity is entirely or mostly of Mormons. No Mormon can see a crime in taking two or more wives in accordance with God's revelation to them. The result is, no one is indicted. It being a criminal offense, there is no appeal from this, hence the case never comes before the
+United States courts.</seg></p>
+
+<p>Judge <persName key="Titus">Titus</persName>, I believe a very upright man, of no prejudice in favor of the Mormons, informed me that but about one-tenth of the Mormons are polygamists; that he knows of cases where Mormons have been prevented from taking more wives by the law of 1863; and others on account of that law have separated from all but one of their wives. A great number of the inhabitants of the Territory are not citizens of the United States. Whenever they have become naturalized before Judge Titus, he has required obedience to the law of 1803. The Gentiles (anti-Mormons) in <placeName type="state" key="Utah Territory">Utah</placeName> thought they would have a Gentile settlement in the Territory, in the Farhanagat mining country, where a Gentile jury could be found, but the last Congress cut this portion of <placeName type="st" key="Utah Territory">Utah</placeName> off and annexed it to <placeName type="state" key="Nevada Territory">Nevada Territory</placeName>. So the Mormons are even stronger then before. The legislature of Utah has placed many matters in the hands of inferior courts, which should be before the highest courts of the Territories; murder and divorce are thus placed. Their militia, instead of being under the control of the governor, is under the authority of the church, or <persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">In earlier days, when these people were more isolated that some of them perhaps, to the knowledge of the church, committed very grave crimes, I have no doubt&#8212;among the worst the Meadow Mountain massacre <seg type="Massacre" subtype="Dates">of 1858</seg>.</seg> <seg type="Reaction" subtype="FederalInvestigation">I think our government, in justification of its laws and the opinion of its people, should investigate these, and place the stigma where it belongs.</seg>During the rebellion I have no doubt but these people had but little sympathy with the government, which they looked upon as their persecutor. Also many Gentiles found their way to the Territories who did not wish to aid in putting down the rebellion, but sympathized with the secessionists. <seg type="Context" subtype="IndianRelationsLDS">These people, the Mormons, were never called upon for a quota of troops. Had they been, I believe it would have been filled with as much promptness as any call that was made. Whenever called upon to aid in suppressing the Indians, they have responded promptly, and I believe have rendered very efficient service. <persName key="Young, Brigham">Brigham Young</persName> has three hundred men this season protecting the settlers of the southern portion of the Territory from a band of bad Indians, under a chief by the name of <persName key="Black Hawk">Black Hawk</persName>. These men are furnished without complaint.</seg> They received no compensation from the United States. If the other Territories would exhibit similar dispositions, many of the Indian troubles would disappear. That these people were exasperated by the conduct of General <persName key="Connor">Connor</persName>, and many officers in his command, there is no doubt. A more quiet or peaceable community I never passed four weeks with. My opinion is that a policy by which the institution they cling to with fanatical faith shall be brought against public opinion, will be one that will soon cure the evil and save our country all the elements of good citizens they possess; while a coercive policy will, in accordance with the history of the world, increase the fanaticism, and destroy all the industry and wealth of 150,000 people and return that now fruitful valley to a desert again. A careful selection of civil and military officers, who with their families will <cb n="3" />give these ignorant people an example, with the enlightenment by the completion of railroad and telegraph lines, will do more to correct the error of these people than all the crusades possible. This discussion is given to afford you an idea of the people with whom we are to treat in this Territory.</p>
+
+</div1>
+
+<div1>
+
+<head type="sub">UTAH.</head>
+
+<p><placeName type="state" key="Utah Territory">Utah</placeName> has but three military posts, <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, <orgName type="military" key="Camp Douglass">Camp Douglas</orgName> and <orgName type="military" key="Fort Union">Fort Union</orgName>. The first I have mentioned. The second is located about three miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> on a well selected reservation made, I believe, by Brigadier General <persName key="Connor">Connor</persName>. I found the camp in neat
+condition, with a garrison of some three hundred and fifty men. As they were expecting to be mustered out, they had no drills, and parades but twice a week.</p>
+</div1>
+
+<div1>
+
+<head type="sub">GREAT SALT LAKE CITY.</head>
+
+<p><placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, from its central locality in the heart of the great mountain district, with a line of telegraph east to the <geogName type="ocean" key="Atlantic">Atlantic Ocean</geogName> and west to the <geogName type="ocean" key="Pacific">Pacific Ocean</geogName>; also one running north and south through the Territory; its lines of stages to the <geogName type="waterway" key="Missouri River">Missouri river</geogName> and the <geogName type="ocean" key="Pacific Ocean">Pacific</geogName>; to <placeName type="state" key="Idaho">Idaho</placeName> and <geogName type="waterway" key="Columbia River">Columbia river</geogName>; to <placeName type="state" key="Montana">Montana</placeName> and Parhanagat mines, makes it the great half-way place across the continent; and so long as the government holds internal military positions, this will be one of the greatest importance. I most earnestly recommend a department be created making this the headquarters. Send a judicious commanding officer, with zealous quartermaster and commissary. This disposition will be such as will be economical; will place the Mormon question under his eye; will place him in a position to purchase most supplies very economically, and will place him where he can best watch the Indians.</p>
+</div1>
+
+
+<div1>
+<head type="sub">CAMP DOUGLAS.</head>
+
+<p>I think the post at <orgName type="military" key="Camp Douglas">Camp Douglas</orgName> should be built of stone, (the quarters and storehouses.) A very easily worked sandstone can be found on the reservation, or within a few miles of the
+post. As wood is very expensive and growing more so, stone buildings will save much fuel.
+This post should be built to accomodate a regiment, though, summers a garrison sufficient to
+take care of the post is all that is necessary. The troops can be used against the hostile Indians in any direction during the summer. A concentration of troops, winters, will have many advantages; it will be much more economical; it will bring men enough together to enable the command to be disciplined and drilled&#8212;a thing impossible where but one, and at the most two, company officers are present. The Indians have to go to certain localities for fish and for game, and are equally compelled to go to certain valleys to winter their ponies and to shelter their women and children. If the troops are used patrolling the lines of travel, moving from place to place, from the time grass is high enough to feed the ponies until the Indians go to their winter homes, I believe the road can be kept perfectly safe. Four (4) companies at <placeName type="settlement" key="Salt Lake City">Great Salt Lake</placeName>, four (4) companies at <orgName type="military" key="Fort Bridger">Bridger</orgName>, and six (6) companies at a post on the <geogName type="waterway" key="North Platte">North Platte</geogName> will protect the road from <placeName type="settlement" key="Denver">Denver</placeName> to <placeName type="settlement" key="Salt Lake City">Great Salt Lake</placeName>, if properly employed. A similar but more changeable disposition should be made between the terminus of the railroad and <placeName type="settlement" key="Denver">Denver</placeName>. This will change as the railroad advances. <seg type="Context" subtype="IndianRelationsUS">A post of at least five companies should be established in the vicinity of <geogName type="waterway" key="Green River">Green river</geogName> to protect the settlements in southern Utah and people going to Parhanagat mines from the <orgName type="tribe" key="Ute">Utes</orgName>. Of this command, all except the permanent garrisons to protect stores and buildings (the latter to be kept a minimum) should be mounted cavalry or mounted infantry. To send infantry after Indians is useless. The mounted command should be in readiness to move on an hour's notice.This movable force can, judiciously handled. Protect the stage and emigrant travel&#8212;a vital matter along the route of travel and scattered settlements. The commanding officer should be in the country to judge between an Indian outbreak and a thieving party of whites and Indians. Many expensive Indian expeditions can thus be prevented, and the right of the Indian as well as the white man be respected. The Indian pony, or horse raised on the plains, should be used</seg>.</p>
+
+<p>Along through <placeName type="state" key="Utah Territory">Utah</placeName> and into <placeName type="state" key="Idaho">Idaho</placeName> the settlements were quite numerous and very thrifty. The practice of irrigation seemed to reclaim all of the lands it can be applied to. The settlers are mostly Mormons, and exhibit the same thrift, industry, and enterprise exhibited in other parts of Utah. The adobe houses, handsome stock of horses, sheep, and cattle, with beautiful fields of wheat, oats, rye, and gardens filled with vegetables, with the almost universal planting of fruittrees, apples, pears, peaches, plums, and apricots, commend these people to the kind consideration of the general government. This country can be and may, some future day, be the great pastures for the sheep and cattle to supply cheaply the vast markets of our country. The grass grows thrifty but ripens early, though when rained upon the ripe grass affords sufficient nourishment to fatten horses, cattle and sheep.Vast fields of wild rye afford sufficient hay to cure for the feeding of stock. The completion of the railroad and the settling up of these valleys will reduce the price of food and labor so that many of the fine mines now unworked on account of high prices will produce larger quantities of gold and silver than the famous gulches that are dug over and cleaned in one or two seasons.</p>
+
+<p>The rest of the published portions of the Report refer to the posts visited in <placeName type="state" key="Idaho">Idaho Territory</placeName> and <placeName type="state" key="Washington Territory">Washington</placeName> Territories, with such suggestions as General <persName key="Babcock, Orville Elias">Babcock</persName> deemed requisite. In conclusion, he states that he found all through the Territories a great many horses and mules with the <q>"U. S."</q> brand, many of them having been honestly bought by their possessors; yet in numbers of cases they have been seized by officers, because of their being so branded. The great number of animals sold at the breaking up of <orgName type="military" key="Camp Floyd">Camp Floyd</orgName> come under this class. The quartermaster at <orgName type="military" key="Camp Douglas">Camp Douglas</orgName> has thus taken up many animals; and has often returned them to the possessors, satisfied they were honestly come by. He recommends an entirely new brand be adopted for public animals, to save government and honest citizens much trouble.</p>
+
+<p>Though there are some parts of the extracts published from which we differ, particularly
+with regard to the application of the word <q>"fanatical;"</q> still, the spirit of fairness which runs through them, commends them to every honest mind.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

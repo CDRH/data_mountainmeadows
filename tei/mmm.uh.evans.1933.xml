@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.evans.1933">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Story of Utah: The Beehive State</title>
+                <title level="m" type="sub"></title>
+                <author><forename>John</forename> <forename type="middle">Henry</forename> <surname>Evans</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.evans.1933</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Story of Utah: The Beehive State</title>
+                    <author><forename>John</forename> <forename type="middle">Henry</forename> <surname>Evans</surname></author>
+                    <publisher>The Macmillan Company</publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent>144-149</extent>
+                    <date when="1933">1933</date>
+                    <note type="source">John Henry Evans. <hi rend="italic">The Story of Utah: The Beehive State.</hi> New York, NY: The Macmillan Company, 1933. 144-49.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-06-28"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<pb n="144" xml:id="mmm.uh.evans.1933.144"/>
+
+<p>The most lamentable events in the history of <placeName type="state" key="Utah Territory">Utah</placeName>, so far as the Indians are concerned, though, were the massacre of the Gunnison party on the Sevier and the massacre of some immigrants at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. The former was probably connected with the Indian war of 1853. <seg type="Blame" subtype="IndiansLDSInfluence">The latter,
+
+<pb n="145" xml:id="mmm.uh.evans.1933.145"/>
+
+<figure xml:id="mmm.uh.evans.1933.145.figure">
+<p>FORT LARAMIE, WYOMING, ON THE WAY TO UTAH</p>
+<figDesc>A black and white drawing of Fort Laramie.</figDesc>
+</figure>
+
+<pb n="146" xml:id="mmm.uh.evans.1933.146"/>
+
+which occurred <seg type="Massacre" subtype="Dates">in 1857</seg>, was the joint work of white men and natives.</seg></p>
+
+<gap reason="irrelevant" />
+
+<!--This section deals with the Gunnison Murder.
+
+<p>Captain John W. Gunnison was a topographical engineer. He had been in <placeName type="state" key="Utah Territory">Utah</placeName> in 1849 with Captain Stanbury, working for the government on matters connected with Great Salt Lake. Just now he was the head of a surveying party in the interests of a railroad company. There were seven of them in all, and they were escorted by a company of riflemen. Their guide was a man from Manti.</p>
+
+<p>In the latter part of October, 1853, the captain, with eleven others, including the guide and seven riflemen, were camped in some willows on the bank of the Sevier River. While the men were at breakfast, they heard a war whoop. They sprang to arms. Almost immediately a volley of shots came from an ambush a little way off. When the smoke had cleared away, it was found that eight of the twelve men had been killed.</p>
+
+<p>Gunnison was buried in Fillmore. He was a friend of Governor Young and of the whole community&#8212;one of the few they had in those days. A town in Sanpete County was named in his honor.</p>
+
+<p>This lamentable affair had been provoked by a mistaken notion in a party of immigrants to California, who were passing through the Territory. Hearing of the Indian depredations in the settlements, they declared their intention to take a hand when next they saw any natives. Anson Call tried to dissuade them from carrying out their desire, telling them that some of the Indians were friendly. But they paid no heed to what he said. They killed two natives who came to them begging food, and as ill luck would have
+
+<pb n="147" xml:id="mmm.uh.evans.1933.147"/>
+
+it they were friendly Pauvants. The strangers went on their way, but the Indians got revenge on others who had had nothing to do with the killing. That was the Indian sense of justice.</p>
+
+-->
+
+<p>The Mountain Meadows affair was even more shocking. <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> is a beautiful patch of greensward lifted up a little from the plain. It is about thirty-five miles south of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, in <placeName type="county" key="Iron County, UT">Iron County</placeName>.</seg> Here, in <seg type="Massacre" subtype="Dates">August, 1857</seg>, a company of emigrants made their camp.</p>
+
+<p><seg type="Massacre" subtype="Casualties">The company consisted of one hundred thirty-seven people&#8212;men, women, and children.</seg> <seg type="Blame" subtype="MissouriWildCats"><seg type="Emigrants" subtype="StateAffiliationMissouri">This included what was known
+as some "wild cats" from Missouri</seg>, a gang of rowdies, who boasted that they had helped to drive the Mormons from that
+State and otherwise made themselves obnoxious&#8212;<seg type="Encounter" subtype="Poison">poisoning cattle</seg>, for instance.</seg> The rest were well-to-do folk, highly respected where they came from.<seg type="Massacre" subtype="Spoils"> With them were several thousand head of cattle.</seg> They were under the leadership of a Captain <persName key="Fancher, Alexander">Fancher</persName>, and were <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg>.</p>
+
+<p>That there was no ill-will between them and the settlers between <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>&#8212;aside from those
+"wild cats"&#8212;is evident from at least two things. One was that they asked and received the advice of <persName key="Rich, C. C.">C. C. Rich</persName>, who knew both routes to the coast and who had told them why he thought the northern road was the better. They had taken his counsel at first, but later changed their minds. <seg type="Encounter" subtype="TradeLDS">The other circumstance was that the settlers along the way had sold them such provisions as they could spare. The settlers had not sold them grain for their cattle, but had not withheld wheat and flour for human consumption, for just then there was a not too plentiful supply.</seg></p>
+
+<pb n="148" xml:id="mmm.uh.evans.1933.148"/>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">One morning at dawn&#8212;the seventh of September, 1857</seg>, to be exact&#8212;the emigrants were surprised by hearing shots. <seg type="Massacre" subtype="Casualties">Seven men fell dead.</seg> Sixteen others were wounded. Hastily digging trenches, they lowered their wagon wheels into these and fought the enemy.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Surrender">Later, one <persName key="Lee, John D.">John D. Lee</persName>, a Mormon engaged to teach the natives farming, induced the emigrants to surrender. He promised them protection. At the same time <persName key="Lee, John D.">Lee</persName> summoned other white settlers to the scene under the pretext that the dead needed burial. The surviving emigrants, trusting implicitly in the pledged word of the white man, marched out of camp single file, after having given up their weapons. They were shot down by Indians and white men from ambush like so many rabbits.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Only seventeen survived. These were children between a few months old and seven years. The point was, it seems, to get rid of all that would remember what had happened and could talk about it.</seg> <seg type="Massacre" subtype="Spoils">The property of the emigrants was distributed among the murderers.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Attempts have been made to fasten this horrible massacre on <persName key="Young, Brigham">Brigham Young</persName> and the Mormon church. There is no evidence, however, to warrant such a conclusion. It is certain, of course, that there were Mormons in the group of persons who committed the deed. But they were acting in their own individual capacity, not by reason of any order, expressed or implicit, from any church man. As a matter of fact, Governor <persName key="Young, Brigham">Young</persName>, in response to a question asked by a Mormon leader in <placeName type="settlement" key="Parowan, UT">Parowan</placeName> as to what should be done with the emigrants, wrote that "the emigrants should not be meddled with, if it takes all <placeName type="county" key="Iron County, UT">Iron County</placeName> to prevent it."</seg>
+
+<pb n="149" xml:id="mmm.uh.evans.1933.149"/>
+
+<persName key="Haight, Isaac C.">Haight</persName>, a leader there, had told him they were in danger from Indian attacks.</p>
+
+<p><persName key="Lee, John D.">Lee</persName> was later executed for his share in the crime. Others died in exile. <seg type="Massacre" subtype="Survivors">All the children were restored to <seg type="Emigrants" subtype="StateAffiliationArkansas">their relatives in <placeName type="state" key="Arkansas">Arkansas</placeName></seg>.</seg></p>
+
+<milestone unit="section" rend="space"/>
+
+<p><seg type="Context" subtype="IndianRelationsUS">It was during this period of Indian troubles that <placeName type="state" key="Utah Territory">Utah</placeName> became a community of walled towns. North and south, east and west, the settlements were surrounded by high, thick walls, either completed or in the making. They were for protection against the natives.</seg></p>
+
+<p>These walls were about twelve feet high and varied in thickness from about six feet at the bottom to about two and a half feet at the top. They were made of mud mixed with straw, and were built at the suggestion of Governor <persName key="Young, Brigham">Young</persName>. The wall around <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, also that in <placeName type="county" key="Davis County, UT">Davis County</placeName>, was never finished. Parts of these walls in various <placeName type="state" key="Utah Territory">Utah</placeName> settlements may be seen to-day.</p>
+
+</body>
+</text>
+</TEI>

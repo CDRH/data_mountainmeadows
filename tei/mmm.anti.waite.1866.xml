@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.waite.1866">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mormon Prophet and His Harem</title>
+                <title level="m" type="sub"></title>
+                <author><forename>C.</forename> <forename type="middle">V.</forename> <surname>Waite</surname> <addName>[Catherine Van Valkenburg]</addName></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.waite.1866</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">The Mormon Prophet and His Harem; or, An Authentic History of Brigham Young, His Numerous Wives and Children.</title>
+                    <author><roleName>Mrs.</roleName> <forename>C.</forename> <forename type="middle">V.</forename> <surname>Waite</surname> <addName>[Catherine Van Valkenburg]</addName></author>
+                    <publisher>J. S. Goodman and Company</publisher>
+                    <pubPlace>Cambridge</pubPlace>
+                    <extent></extent>
+                    <date when="1866">1866</date>
+                    <note type="source">C. V. Waite [Catherine Van Valkenburg]. <hi rend="italic">The Mormon Prophet and His Harem; or, An Authentic History of Brigham Young, his Numerous Wives and Children.</hi> Cambridge, MA: Riverside Press, 1866. 60-77.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-11-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-08-03"><name>Rosie Hanneke</name> Initial Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+        <text>
+
+   <body>
+
+<div1 type="chapter">
+
+<pb n="60" xml:id="mmm.anti.waite.1874.070"/>
+
+<head type="main">CHAPTER V.</head>
+<head type="sub">POLITICAL HISTORY CONTINUED.</head>
+
+<p><hi rend="center">The Mountain Meadow Massacre and other Crimes of the Mormons.&#8212;Attempts to bring the Perpetrators to Justice.&#8212;Doings of Judge Cradlebaugh.&#8212;Governor Cumming and the Military Officers&#8212;Judge Sinclair's Court.&#8212;Governor Dawson and his Misfortunes.&#8212;New Governor and Associate Justices appointed.</hi></p>
+
+<p>T<hi rend="smallcaps">HE</hi> darkest chapter of Mormon history is now before us. It becomes my duty to relate one of the most perfidious acts of cruelty and <seg type="Massacre" subtype="Casualties">wholesale butchery</seg> to be found in the annals of this or any other country. In doing so, free use will be made of the statements of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> and others who were thoroughly conversant with all the facts.</p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">The following is from the able speech of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, delivered in the House of Representatives on the 7th of February, 1863:&#8212;</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">"As one of the Associate Justices of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, in the month of April, 1859, I commenced and held a term of the District Court for the Second Judicial District, in the city of <placeName type="settlement" key="Provo, UT">Provo</placeName>, about sixty miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. <seg type="Reaction" subtype="MilitaryRetaliation">Upon my requisition, Gen. <persName key="Johnston, Albert Sidney">A. S. Johnson</persName>, in command of the military department, furnished a small military force for the purpose of protecting the court.</seg> A grand jury was empanelled, and their attention was pointedly and specifically called to a great number of crimes that had been committed in the immediate vicinity,&#8212;cases of public notoriety, both as to the offence and the persons who had perpetrated the same; (for none of these things had "been done in a corner"). Their perpetrators had scorned alike  concealment or apology, before the arrival of the American forces. The jury thus instructed, though kept in session two weeks, utterly
+
+<pb n="61" xml:id="mmm.anti.waite.1874.071"/>
+
+refused to do anything, and were finally discharged, as an evidently useless appendage of a court of justice. But the court was determined to try a last resource, to bring to light and to punishment those guilty of the atrocious crimes which confessedly had been committed in <placeName type="state" key="Utah Territory">the Territory</placeName>, and the session continued. Bench warrants, based upon sworn information, were issued against the alleged criminals, and United States Marshal <persName key="Dotson, Peter K.">Dotson</persName>, a most excellent and reliable officer, aided by a military <hi rend="italic">posse</hi>, procured on his own request, had succeeded in making a few arrests. A general stampede immediately took place among the Mormons, and what I wish to call your attention to, as particularly noticeable, is the fact that this occurred more especially among the church officials and civil officers. . . .</seg></p>
+
+<p>"Sitting as a committing magistrate, complaint after complaint was made before me of murders and robberies. Among these I may mention, as peculiarly and shockingly prominent, the murder of <persName key="Forbes">Forbes</persName>, <seg type="Context" subtype="ParrishMurder">the assassination of the <persName key="Parrish, William"><persName key="Parrish, 'Beason'">Parrishes</persName></persName> and <persName key="Potter, Duff">Potter</persName></seg>, of <persName key="Jones, Henry">Jones</persName> and his mother, of <persName key="Aiken, John"><persName key="Aiken, William">the Aiken party</persName></persName>, of which there were six in all; and, worst and darkest in the appalling catalogue of blood, the cowardly, cold-blooded butchery and robbery at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>. <seg type="Massacre" subtype="Aftermath">At that time there still lay, all ghastly, under the sun of <placeName type="state" key="Utah Territory">Utah</placeName>, the unburied skeletons of <seg type="Massacre" subtype="Casualties">one hundred and nineteen men, women, and children</seg>, <seg type="Blame" subtype="LDS_LDS">the hapless, hopeless victims of the Mormon creed</seg>. . . .</seg></p>
+
+<p>"<seg type="Massacre" subtype="Location">The scene of this horrible massacre at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName> is situate about three hundred and twenty miles west of south from <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, on the road leading to <placeName type="settlement" key="Los Angeles, CA">Los Angelos</placeName>, in <placeName type="state" key="California">California</placeName>.</seg> I was the first federal Judge in that part of <placeName type="state" key="Utah Territory">the Territory</placeName> after the occurrence,&#8212;my district extending from a short distance below <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to the south end of <placeName type="state" key="Utah Territory">the Territory</placeName>. I determined to visit that part of my district, and, if possible, expose the persons engaged in the massacre, which I did in the early part of the year 1859. <seg type="Reaction" subtype="MilitaryRetaliation">I accordingly embraced an opportunity of accompanying a small detachment of soldiers, who were being sent to that section by Gen. <persName key="Johnston, Albert Sidney">Johnson</persName>,&#8212;having requested the Marshal of <placeName type="state" key="Utah Territory">the Territory</placeName> to accompany, or to send a deputy. He accordingly sent deputy <persName key="Rodgers, William H.">William H. Rodgers</persName>, who went with me.</seg></p>
+
+<p>"The command went as far south as the St. Clara, twenty miles beyond <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, where we camped, and <choice><orig>re-
+
+<pb n="62" xml:id="mmm.anti.waite.1874.072"/>
+
+mained</orig><reg>remained</reg></choice> about a week. <seg type="Source" subtype="Indians">During our stay there I was visited by the Indian chiefs of that section, who gave me their version of the  massacre.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">˜They admitted that a portion of their men were
+engaged in the massacre, but were not there when the attack commenced. <seg type="Massacre" subtype="Battle">One of them told me, in the presence of the others, that after the attack had been made, a white man came to their camp with a piece of paper, which, he said, <hi rend="italic"><persName key="Young, Brigham">Brigham Young</persName> had sent</hi>, that directed them to go and help to whip the emigrants.  A portion of the band went, but did not assist in the fight. He gave as a reason, that the emigrants had long guns, and were good shots. <seg type="Massacre" subtype="Casualties">He said that his brother [this chief's name was <persName key="Jackson">Jackson</persName>] was shot while running across <geogName type="valley" key="Mountain Meadows">the Meadow</geogName>, at a distance of two hundred yards from the corral where the emigrants were.</seg></seg> He said the Mormons were all painted. <seg type="Massacre" subtype="Spoils">He said the Indians got a part of the clothing</seg>; and gave the names of <persName key="Lee, John D.">John D. Lee</persName>, President <persName key="Haight, Isaac C.">Haight</persName>, and Bishop <persName key="Higbee John M.">Higbee</persName>, as the big captains. It might be proper here to remark that the Indians in the southern part of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> are not numerous, and are a very low, cowardly, beastly set, very few of them being armed with guns. They are not formidable. I believe all in the southern part of <placeName type="state" key="Utah Territory">the Territory</placeName> would, under no circumstances, carry on a fight against ten white men.</seg></seg></p>
+
+<p>"From our camp on the St. Clara we again went back to <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, camping near where the massacre had occurred. <geogName type="valley" key="Mountain Meadows">The Meadow</geogName> is about five miles in length and one in width, running to quite a narrow point at the southwest end, being higher at the middle than either end. It is the divide between the waters that flow into the Great Basin and those emptying into the Colorado River. A very large spring rises in the south end of the narrow part. It was on the north side of this spring the emigrants were camped. The bank rises from the spring eight or ten feet, then extends off to the north about two hundred yards, on a level. A range of hills is there reached, rising perhaps fifty or sixty feet. Back of this range is quite a valley, which extends down until it has an outlet, three or four hundred yards below the spring, into the main meadow.</seg></p>
+
+<p>"<seg type="Massacre" subtype="Battle">The first attack was made by going down this ravine, then following up the bed of the spring to near it, then at daylight firing upon the men who were about the camp-fires,&#8212;in which attack <seg type="Massacre" subtype="Casualties">ten or twelve of the emigrants were killed or wounded</seg>;
+
+<pb n="63" xml:id="mmm.anti.waite.1874.073"/>
+
+<seg type="Massacre" subtype="Spoils">the stock of the emigrants having been previously driven behind the hill, and up the ravine</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">"The emigrants soon got in condition to repel the attack, shoved their wagons together, sunk the wheels in the earth, and threw up quite an intrenchment. The fighting after continued as a siege; the assailants occupying the hill, and firing at any of the emigrants that exposed themselves, having a barricade of stones along the crest of the hill as a protection. The siege was continued for five days, the besiegers appearing in the garb of Indians. <seg type="Massacre" subtype="Surrender">The Mormons, seeing that they could not capture the train without making some sacrifice of life on their part, and getting weary of the fight, resolved to accomplish by strategy what they were not able to do by force.</seg> The fight had been going on for five days, and no aid was received from any quarter, although the  family of <persName key="Hamblin, Jacob">Jacob Hamlin</persName>, the Indian agent, were living in the upper end of <geogName type="valley" key="Mountain Meadows">the Meadow</geogName>, and within hearing of the reports of the
+guns.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"Who can imagine the feelings of these <seg type="Massacre" subtype="Casualties">men, women, and children</seg>, surrounded, <seg type="Blame" subtype="IndiansIndependently">as they supposed themselves to be, by savages</seg>? Fathers and mothers only can judge what they must have been. Far off, in the Rocky Mountains, <seg type="Massacre" subtype="Spoils">without transportation,&#8212;for
+their cattle, horses and mules had been run off</seg>,&#8212;not knowing what their fate was to be,&#8212;we can but poorly realize the gloom that pervaded the camp.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"A wagon is descried, far up <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>. Upon its nearer approach, it is observed to contain armed men. See! now they raise a white flag! All is joy in the corral. A general shout is raised, and in an instant, a little girl, dressed in white, is placed at an opening between two of the wagons, as a response to the signal. The wagon approaches; the occupants are welcomed into the corral, the emigrants little suspecting that they were entertaining the fiends that had been besieging them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Surrender">"This wagon contained President <persName key="Haight, Isaac C.">Haight</persName> and Bishop <persName key="Lee, John D.">John D. Lee</persName>, among others of the Mormon Church. <seg type="Context" subtype="IndianRelationsLDS">They professed to be on good terms with the Indians</seg>, and represented the Indians as
+being very mad. They also proposed to intercede, and settle the matter with the Indians. After several hours of parley, they, 
+having apparently visited the Indians, gave the <hi rend="italic">ultimatum</hi> of the Indians; which was, that the emigrants should march out of their camp, leaving everything behind them, even their guns. It was
+
+<pb n="64" xml:id="mmm.anti.waite.1874.074"/>
+
+promised by the Mormon bishops that they would bring a force, and guard the emigrants back to the settlements.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"The terms were agreed to,&#8212;the emigrants being desirous of saving the lives of their families. The Mormons retired, and subsequently appeared at the corral with thirty or forty armed men. The emigrants were marched out, the women and children in front, and the men behind, the Mormon guard being in the rear. When they had marched in this way about a mile, at a given signal, the slaughter commenced.</seg> <seg type="Massacre" subtype="Casualties">The men were most all shot down at the first fire from the guard. Two only escaped, who fled the desert, and were followed 150 miles before they were overtaken and slaughtered</seg>.</seg></p>
+
+<p>"<seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">The women and children ran on, two or three hundred yards further, when they were overtaken, and <seg type="Blame" subtype="IndiansLDSInfluence">with the aid of the
+Indians they were slaughtered</seg></seg>. <seg type="Massacre" subtype="Survivors">Seventeen only of the small children were saved, the eldest being only seven years.</seg> Thus, <seg type="Massacre" subtype="Dates">on the 10th day of September, 1857</seg>, was consummated one of the most  cruel, cowardly, and bloody murders known in our history. <seg type="Source" subtype="Indians">Upon the way from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, a young Indian pointed out to me the place where the Mormons painted and disguised themselves.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">"I went from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; the distance is thirty-five or forty miles. <seg type="Reaction" subtype="MilitaryRetaliation">I contemplated holding an examining court there, should Gen. <persName key="Johnston, Albert Sidney">Johnson</persName> furnish me protection, and also protect witnesses, and furnish the Marshal a <hi rend="italic">posse</hi> to aid in making arrests.</seg> While there I issued warrants, on affidavits filed before me, for the arrest of the following named persons:</seg>&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<persName key="Haight, Isaac C.">Jacob Haight</persName>, President of the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> Stake; Bishop <persName key="Higbee, John M.">John M. Higbee</persName> and Bishop <persName key="Lee, John D.">John D. Lee</persName>; <persName key="Freeman, Columbus">Columbus Freeman</persName>, <persName key="Slade, William">William Slade</persName>, <persName key="Willis, John">John Willis</persName>, <persName key="Riggs, William">William Riggs</persName>,<persName key="Ingram">&#8212;Ingram</persName>, <persName key="McFarlan, Daniel">Daniel McFarlan</persName>, <persName key="Stewart, William">William Stewart</persName>, <persName key="Allen, Ira">Ira Allen</persName> and <persName key="Allen, Andrew">son</persName>, <persName key="Cartwright, Thomas">Thomas Cartwright</persName>, <persName key="Welean, E.">E. Welean</persName>, <persName key="Halley, William">William Halley</persName>, <persName key="Nomlen, Jabes">Jabes Nomlen</persName>, <persName key="Mangum, John">John
+Mangum</persName>, <persName key="Price, James">James Price</persName>, <persName key="Adair, John W.">John W. Adair</persName>,<persName key="Tyler">&#8212;Tyler</persName>, <persName key="Smith, Joseph">Joseph Smith</persName>,
+<persName key="Pollock, Samuel">Samuel Pollock</persName>, <persName key="McFarlan, John">John McFarlan</persName>, <persName key="Johnson, Nephi">Nephi Johnson</persName>,<persName key="Thornton">&#8212; Thornton</persName>, <persName key="White, Joel">Joel White</persName>, <persName key="Harrison">&#8212;Harrison</persName>, <persName key="Hopkins, Charles">Charles Hopkins</persName>, <persName key="Elang, Joseph">Joseph Elang</persName>, <persName key="Lewis, Samuel">Samuel Lewis</persName>, <persName key="Matheney, Sims">Sims Matheney</persName>, <persName key="Mangum, James">James Mangum</persName>, <persName key="Pierce, Harrison">Harrison Pierce</persName>, <persName key="Adair, Samuel">Samuel Adair</persName>, <persName key="McDulange, F. C.">F. C. McDulange</persName>, <persName key="Bateman, William">Wm. Bateman</persName>, <persName key="Curtis, Ezra">Ezra Curtis</persName>, and <persName key="Loveridge, Alexander">Alexander Loveridge</persName>.</seg></p>
+
+<p>"In a few days after arriving at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, Capt. <persName key="Campbell, Reuben P.">Campbell</persName> arrived, with his command, from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>; on his return, he advised me that he had received orders, for his command entire,
+
+<pb n="65" xml:id="mmm.anti.waite.1874.075"/>
+
+to return to Camp Floyd; the General having received orders from <placeName type="settlement" key="Washington, DC">Washington</placeName> that the military should not be used in protecting the courts, or in acting as a <hi rend="italic">posse</hi> to aid the Marshal in making arrests.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="LDSApostates">"While at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> I was visited by a number of apostate Mormons, who gave me every assurance that they would furnish an abundance of evidence in regard to the matter so soon as they were assured of military protection. In fact, some of the persons engaged in the act came to see me in the night, and gave a full account of the matter,&#8212;intending when protection was at hand, to become witnesses. They claimed that they had been forced into the matter by the bishops. Their statements corroborated what the Indians had previously said to me. <seg type="Massacre" subtype="Survivors">Mr. <persName key="Rodgers, William H.">Rodgers</persName>, the Deputy Marshal, was also engaged in hunting up the children,  survivors of the massacre. They were all found in the custody of the Mormons. Three or four of the eldest recollect and relate all the incidents of the massacre, corroborating the statements of the Indians, and the statements made by the citizens of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to me.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"These children are now in the south part of <placeName type="state" key="Missouri">Missouri</placeName>, or north part of <placeName type="state" key="Arkansas">Arkansas</placeName>; their testimony could soon be taken, if desired. No one can depict the glee of these infants, when they realized that they were in the custody of what they called 'the Americans,'&#8212;for such is the designation of those not Mormons. <seg type="Blame" subtype="LDS_LDS">They say they never were in the custody of the Indians. I recollect of one of them, '<persName key="Sorrow, John Calvin">John Calvin Sorrow</persName>,' after he found he was safe, and before he was brought away from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, although not yet nine years of age, sitting in a contemplative mood, no doubt thinking of the extermination of his family, saying: 'Oh, I wish I was a man; I know what I would do; I would shoot <persName key="Lee, John D.">John D. Lee</persName>; I saw him shoot my mother.' I shall never forget how he looked.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="LDS_LDS">"Time will not permit me to elaborate the matter. I shall barely sum up, and refer every member of this House, who may have the least doubt about the guilt of the Mormons in this massacre, and the other crimes to which I have alluded, to the evidence published in the appendix hereto."</seg></seg></p>
+
+<p>To the foregoing thrilling recital, I will only add:&#8212;<seg type="Emigrants" subtype="WagonTrain">The train consisted of <seg type="Massacre" subtype="Spoils">40 wagons, 800 head of cattle, and about 60 horses and mules</seg>. <seg type="Massacre" subtype="Casualties">As near as can be ascertained, there
+
+<pb n="66" xml:id="mmm.anti.waite.1874.076"/>
+
+were about 150 men and women, besides many children.</seg></seg> <seg type="Emigrants" subtype="Route">They passed through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and <seg type="Context" subtype="LDSApostates">were there joined by some few Mormons, who were disaffected, and sought to travel under their protection.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">A revelation from <persName key="Young, Brigham">Brigham Young</persName>, as Great Grand Archee, or God, was despatched to President <persName key="Haight, Isaac C.">J. C. Haight</persName>, Bishop <persName key="Higbee John M.">Higbee</persName>, and <persName key="Lee, John D.">J. D. Lee</persName>, commanding them to raise all the forces they could muster and trust, follow those cursed gentiles (so read the revelation), attack them, disguised as Indians, and with the arrows of the Almighty make a clean
+sweep of them, and leave none to tell the tale; and if they needed any assistance, <seg type="Blame" subtype="IndiansLDSInfluence">they were commanded to hire the Indians as their allies</seg>, <seg type="Massacre" subtype="Spoils">promising them a share of the booty</seg>. They were to be neither slothful nor negligent in their duty, 
+and to be punctual in sending the teams back to him before winter set in, for this was the mandate of Almighty 
+God.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">On the following day a council of all the faithful was held at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. Many attended from the neighboring settlements; the revelation was read, and the destiny of <seg type="Massacre" subtype="Casualties">the unsuspecting emigrants</seg> sealed. Plans were suggested, discussed, and adopted, and the men designated to carry out their hellish designs. Instructions were given for them to assemble at a small spring, but a short distance to the left of the road leading into <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>,&#8212;a number of intervening hills rendering it a fit place for concealment. Here they painted and disguised themselves as Indians, and when ready to commence operations, by a well-known Indian trail proceeded to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg></seg></seg>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">For the benefit of those who may still be disposed to doubt the guilt of <persName key="Young, Brigham">Young</persName> and his Mormons in this transaction, the testimony is here collated, and circumstances given, which go, not merely to implicate, but to fasten conviction upon them, by "confirmations strong as proofs from Holy Writ."</seg></p>
+
+<p>1. <seg type="Blame" subtype="LDS_LDS">The evidence of Mormons themselves, engaged in the
+
+<pb n="67" xml:id="mmm.anti.waite.1874.077"/>
+
+affair, as shown by the statements of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> and Deputy-Marshal <persName key="Rodgers, William H.">Rodgers</persName></seg>.</p>
+
+<p>2. <seg type="Blame" subtype="LDS_LDS"><seg type="Source" subtype="Indians">The statements of Indians in the neighborhood of the massacre; these statements are shown, not only by <persName key="Cradlebaugh, John">Cradlebaugh</persName> and <persName key="Rodgers, William H.">Rodgers</persName>, but by a number of military officers, and by <persName key="Forney, Jacob">J. Forney</persName>, who was, in 1859, Superintendent of Indian Affairs for <placeName type="state" key="Utah Territory">the Territory</placeName>. To all these were such statements freely and frequently made by the  Indians.</seg></seg></p>
+
+<p>3. <seg type="Blame" subtype="LDS_LDS"><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Survivors">The testimony of the children saved from the massacre.</seg></seg></seg></p>
+
+<p>4. <seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils"><seg type="Massacre" subtype="Survivors">The children and the property of the emigrants found in possession of the Mormons</seg>, and that possession traced back to the very day after the massacre.</seg></seg></p>
+
+<p>5. <seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">The failure of <persName key="Young, Brigham">Brigham Young</persName> to embody any account of it in his Report as Superintendent of Indian Affairs. Also his failure to make any allusion to it whatever from the pulpit, until several years after the occurrence.</seg></seg></p>
+
+<p>6. <seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">The failure of the "Deseret News," the Church organ, and the only paper then published in <placeName type="state" key="Utah Territory">the Territory</placeName>, to notice the massacre, until several months afterward, and then only to deny that Mormons were engaged in it.</seg></seg></p>
+
+<p>7. <seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="TerritorialAdministration">The flight to the mountains of men high in authority in the Mormon Church and State, when this affair was brought to the ordeal of a judicial investigation.</seg></seg></p>
+
+<p>8. <seg type="Blame" subtype="LDS_LDS">The testimony of <persName key="Campbell, Reuben P.">R. P. Campbell</persName>, Capt. 2d Dragoons, who was sent in the spring of 1859 to Santa Clara, to protect travellers on the road to <placeName type="state" key="California">California</placeName>, and to inquire into Indian depredations.</seg></p>
+
+<p>In his report to Major <persName key="Potter, E. J.">E. J. Potter</persName>, Assistant Adjutant-General U. S. Army, dated July 6, 1859, he says:&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<seg type="Massacre" subtype="Casualties">These emigrants</seg> were here met by the Mormons <seg type="Blame" subtype="IndiansLDSInfluence">(assisted by such of the wretched Indians of the neighborhood as they could force or persuade to join)</seg>, and massacred, <seg type="Massacre" subtype="Survivors">with the exception of such infant children as the Mormons thought too young to remember, or tell of the affair</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"The Mormons were led on by <persName key="Lee, John D.">John D. Lee</persName>, then a high dignitary in the self-styled Church of Jesus Christ of Latter Day Saints, and <persName key="Haight, Isaac C.">Isaac Haight</persName>, now a dignitary in the same."</seg></p>
+
+<pb n="68" xml:id="mmm.anti.waite.1874.078"/>
+
+<p>Again, after relating briefly the massacre, he says:&#8212;</p>
+
+<p><seg type="Massacre" subtype="Survivors">"<seg type="Source" subtype="Children">These facts were derived from children who did remember, and could tell of the matter</seg>; <seg type="Source" subtype="Indians">from Indians</seg>, and from the Mormons themselves."</seg></p>
+
+<p>9. The testimony of Hon. <persName key="Forney, Jacob">J. Forney</persName>, Superintendent of Indian Affairs.</p>
+
+<p>In his letter to the Commissioner of Indian Affairs at <placeName type="settlement" key="Washington, DC">Washington</placeName>, dated <placeName type="settlement" key="Provo, UT">Provo City</placeName>, <placeName type="state" key="Utah Territory">U. T.</placeName>, March, 1859, he says:&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">"Facts in my possesion warrant me in estimating that there was distributed, a few days after the massacre, among the leading church dignitaries, $30,000 worth of property."</seg></seg></p>
+
+<p>Again, in another letter to the Commissioner, written from <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, in August of the same year, he says:&#8212;</p>
+
+<p>"<seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">From the evidence in my possession, I am justified in the declaration that this massacre was concocted by white men, and consummated by whites and Indians.</seg> </seg>The names of many of the whites engaged in this terrible affair have already been given to the proper legal authorities. . . .<seg type="Massacre" subtype="Survivors">The children were sold out to different persons in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and <placeName type="settlement" key="Painter Creek, UT">Painter Creek</placeName>.</seg>  Bills are now in my possession from different individuals, asking payment from the Government. I cannot condescend to become the medium of even transmitting such claims to the Department."</p>
+
+<p>The following is from the Annual Report of Superintendent <persName key="Forney, Jacob">Forney</persName>, made in September, 1859:&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"Mormons have been accused of aiding the Indians in the commission of this crime. I commenced my inquiries without prejudice or selfish motive, and with the hope that, in the progress of my inquiries, facts would enable me to exculpate all white men from any participation in this tragedy, and saddle the guilt exclusively on the Indians; but, unfortunately, every step in my inquiries satisfied me that the Indians acted only a secondary part. . . . White men were present, and directed the Indians. <persName key="Lee, John D.">John
+D. Lee</persName>, of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, told me in his own house, last April, in 
+
+<pb n="69" xml:id="mmm.anti.waite.1874.079"/>
+
+presence of two persons, that he was present three successive days during the fight, and was present during the fatal day." . . .</seg></seg></p>
+
+<p>We close the testimony of <persName key="Forney, Jacob">Forney</persName>, by giving entire a letter from him to the Department at <placeName type="settlement" key="Washington, DC">Washington</placeName>,&#8212;</p>
+
+<floatingText>
+<body>
+
+<p><hi rend="right">"<hi rend="smallcaps">Superintendent's Office, <placeName type="state" key="Utah Territory">Utah</placeName>, <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName></hi>, September 29, 1859.</hi></p>
+
+<p>"Sir, &#8212; Your letter dated July 2, in which you request me to ascertain the names of white men, if any, implicated in the Mountain Meadow massacre, reached me several weeks since, about 300 miles west of this city.</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">"I gave, several months ago, to the Attorney-General, and several of the United States Judges, the names of those who I believed were not only implicated, but the hell-deserving scoundrels who concocted and brought to a successful termination the whole affair.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"The following are the names of the persons the most guilty: <persName key="Haight, Isaac C.">Isaac T. Haight</persName>, <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, president of several settlements south; Bishop <persName key="Klingensmith, Philip">Smith</persName>, <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; <persName key="Lee, John D.">John D. Lee</persName>,* <placeName type="settlement" key="Harmony, IL">Harmony</placeName>; <persName key="Higbee, John M.">John M. Higby</persName>, <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; Bishop <persName key="Davies, William R.">Davis</persName>, <persName key="Tullis, David">David Tullis</persName>, <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>; <persName key="Hatch, Ira">Ira Hatch</persName>, <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>. These were the cause of the massacre, aided by others. <seg type="Reaction" subtype="FederalInvestigation"><seg type="Reaction" subtype="StateInvestigation">It is to be regretted that nothing has yet been accomplished towards bringing these murderers to justice.</seg></seg></seg> I remain,</p>
+
+<closer>
+
+<salute>"Very respectfully, your obedient servant,</salute>
+
+<signed>"<persName key="Forney, Jacob">J. F<hi rend="smallcaps">ORNEY</hi></persName>, </signed>
+
+<salute>"<hi rend="italic">Sup't of Indian Affairs</hi>, <hi rend="italic">Utah Territory</hi>.</salute>
+
+<signed>"Hon. <persName key="Greenwood, A. B.">A. B. Greenwood</persName>,</signed>
+
+<address><addrLine>"<hi rend="italic">Commiss'r Indian Affairs</hi>, <hi rend="italic">Washington, D. C.</hi>"</addrLine></address>
+
+</closer>
+</body>
+</floatingText>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">So far as <persName key="Young, Brigham">Brigham Young</persName> himself is concerned, the evidence is not so direct, but is scarcely less conclusive.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">In addition to the circumstances mentioned, of his failing to report the massacre, or to make any mention of it in his public discourses</seg>, and the testimony of the Indians, already referred to; in addition also to the facts concerning the revelation sent from him, &#8212;facts communicated by one intimately acquainted with the secret history of the church; in</seg>
+
+<note type="footnote">*<persName key="Lee, John D.">John D. Lee</persName> is an adopted son of <persName key="Young, Brigham">Brigham Young</persName>.</note>
+
+<pb n="70" xml:id="mmm.anti.waite.1874.080"/>
+
+<seg type="Blame" subtype="LDS_LDS">addition to these things, if we reflect for a moment upon the framework of the Mormon Church, we will find therein still more cogent evidence.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">The organization of the church is such, that no project of importance is ever undertaken without the express or implied consent of <persName key="Young, Brigham">Young</persName>, who is in temporal, as well as spiritual matters, the head and source of all authority. Now here was a large train which had lately passed through the place where <persName key="Young, Brigham">Young</persName> resided, and his feelings and views in relation to it would be well known to the leaders of the church. Can it for a moment be admitted, that members of a community so organized would undertake so important a project as the destruction of that train, requiring, as it did, the concerted action of forty or fifty persons, without the express or implied sanction of him who sat at the head of the community, controlling its every action?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">And if such a thing can be supposed possible, would not the perpetrators be immediately called to account for assuming so much responsibility? Reason and evidence all point one way; and add this to the many other acts which stamp <persName key="Young, Brigham">Brigham Young</persName> as a murderer of the deepest dye,&#8212; adding to the guilt of homicide that of blasphemy and hypocrisy.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">What was the motive which prompted the act? Partly revenge. <seg type="Context" subtype="LDSPersecution"><seg type="Emigrants" subtype="StateAffiliationMissouri">These emigrants were from <placeName type="state" key="Missouri">Missouri</placeName></seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">and <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, the scenes of the alleged injuries and persecutions of the Mormons.</seg> <seg type="Context" subtype="PrattMurder">It was soon after the killing of <persName key="Pratt, Parley P.">Parley P. Pratt</persName>, in <placeName type="state" key="Arkansas">Arkansas</placeName>, by <persName key="McLeon, Hector">McLane</persName>, w<persName key="McLeon Pratt, Eleanor">hose wife</persName> <persName key="Pratt, Parley P.">Pratt</persName> had abducted.</seg> <seg type="Context" subtype="UtahWar">It was at the time, too, when the United States troops were marching to <placeName type="state" key="Utah Territory">Utah</placeName>, and a feeling of revenge and retaliation was prevalent, and was, as has been shown, fostered and encouraged by <persName key="Young, Brigham">Brigham</persName> in his sermons.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSGreed">But the principal motive was plunder. <seg type="Massacre" subtype="Spoils">The train was a very wealthy one. The spoil of the gentile was before them, and it must be appropriated by the Lord's people.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">A great portion of the property was taken to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>,
+
+<pb n="71" xml:id="mmm.anti.waite.1874.081"/>
+
+deposited in the tithing office, and there sold out.</seg> <persName key="Forney, Jacob">Forney</persName> says, in the Annual Report already quoted from,&#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDSGreed"><seg type="Massacre" subtype="Spoils">"Whoever may have been the perpetrators of this horrible deed, no doubt exists in my mind that they were influenced chiefly by a determination to acquire wealth by robbery."</seg></seg> <ref target="n01">*</ref></p>
+
+<p>It is not within the scope of this work to enter into a relation of the many other murders and outrages committed by the authority or connivance of the Mormon Church. This is given as the most notable one,&#8212; "<hi rend="italic">ex uno disce omnes</hi>." Those who wish to examine into these crimes more fully, are referred to the appendix to the printed speech of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>.</p>
+
+<p><seg type="Context" subtype="UtahWar">The "Mormom War" having closed, the federal officers, as soon as practicable, assumed their functions, and proceeded to transact business.  <seg type="Context" subtype="TerritorialAdministration">Federal courts were held, and the authority of the United States again, at least nominally, established in <placeName type="state" key="Utah Territory">Utah</placeName></seg>.</seg></p>
+
+<p>In October, 1858, Judge <persName key="Sinclair, Charles">Sinclair</persName> opened his court in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Efforts were made to bring several noted criminals to justice, but everything failed. In the grand jury-room no indictments were found, and murderers and thieves were allowed to go "scot free."</p>
+
+<p>At this term of court a motion was made to expel <persName key="Ferguson, James">James Ferguson</persName> from the bar, for contempt of court. <persName key="Ferguson, James">Ferguson</persName> offered to retire from the bar, which was not accepted. He then proposed to plead guilty; but the Judge said, as it was alleged that a Judge of the United States had been insulted
+
+<note xml:id="n01">* <seg type="Reaction" subtype="Commemoration">Several years after the massacre, Major, now General <persName key="Carleton, James Henry">Carlton</persName>, visited that region and erected a monument to the memory of the slain.  "It was constructed by raising a large pile of rock, in the centre of which was erected a beam, some twelve or fifteen feet in height.  Upon one of the stones he caused to be engraved, 'Here lie the bones of <seg type="Massacre" subtype="Casualties">one hundred and twenty men, women, and children</seg>, <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, murdered <seg type="Massacre" subtype="Dates">on the 10th day of September, 1857</seg>.'  Upon a cross-tree, on the beam, he caused to be painted: 'Vengeance is mine, saith the Lord, and I will repay it.'  <seg type="Blame" subtype="LDS_LDS">This monument is said to have been destroyed the first time Brigham visited that part of <placeName type="state" key="Utah Territory">the Territory</placeName>."</seg></seg></note>
+
+<pb n="72" xml:id="mmm.anti.waite.1874.082"/>
+
+and intimidated, when in the discharge of his official duty, it was important that the country be put in possession of the facts, and no plea of crimination or stultification should prevent an exposure.</p>
+
+<floatingText>
+<body>
+
+<p>The grand jury did, finally, in this case, make the following presentment:&#8212;</p>
+
+<p>"The grand jury find, that <persName key="Ferguson, James">James Ferguson</persName>, of <placeName type="settlement" key="Salt Lake City, UT">G. S. L. City</placeName>, <placeName type="state" key="Utah Territory">U.T.</placeName>, did use language and threats calculated to intimidate Judge <persName key="Stiles, George P.">George P. Stiles</persName>, U.S. District Judge, while in the discharge of his official duties, and presiding as Judge of this District Court, at the February Term, 1857.</p>
+
+<closer>
+<signed>"<hi rend="smallcaps"><persName key="Miller, Eleazer">Eleazer Miller</persName></hi>, <hi rend="italic">Foreman</hi>."</signed>
+</closer>
+</body>
+</floatingText>
+
+<p>The right of trial by jury is one guaranteed by the Constitution, and with which it would be highly dangerous to
+interfere, except in cases of extreme necessity, involving the safety of a whole people or community. The Mormons, with
+their usual shrewdness, take advantage of this, and manage to control the United States Courts through the grand and
+petit juries. The following extracts will show how it is done.</p>
+
+<p>March 2d, 1856, in his remarks, made in the Tabernacle, <persName key="Grant, Jedediah M.">Jedediah M. Grant</persName>, then one of the "President's" counsellors, said:&#8212;</p>
+
+<p>"Last Sunday, the President chastised some of the Apostles and Bishops, who were on the grand jury. Did he fully succeed in
+clearing away the fog which surrounded them, and in removing blindness from their eyes? No, for they could go to their room
+and again disagree; though to their credit it must be admitted that a brief explanation made them unanimous in their action."</p>
+
+<p>Again, in the same connection, <persName key="Grant, Jedediah M.">Grant</persName>, speaking of a trial-jury, continues,&#8212;</p>
+
+<p>"Several have got into the fog, to suck and eat the filth of a gentile court; <hi rend="italic">ostensibly</hi> a court in <placeName type="state" key="Utah Territory">Utah</placeName>."</p>
+
+<p>Here is the highest evidence of the direct interference of
+
+<pb n="73" xml:id="mmm.anti.waite.1874.083"/>
+
+<persName key="Young, Brigham">Brigham Young</persName> with the right of trial by jury, and the prostitution of the jury-box to the accomplishment of his schemes. How could he strike a more fatal blow at our free institutions, or at the rights and liberties of American citizens who may happen to live within the sphere of his influence? For this alone he should be hurled from the defiant position he occupies, and brought to the bar of impartial justice.</p>
+
+<p>Though the evidence was perfectly plain and conclusive in the case of <persName key="Ferguson, James">Ferguson</persName>, he was acquitted. Comment is unnecessary.</p>
+
+<p>The Judge, finding all efforts to bring criminals to justice unavailing, adjourned his court <hi rend="italic">sine die</hi>.</p>
+
+<p>The Mormon Legislature had never made provision for defraying the expenses of the United States Courts, while
+doing territorial business, though their attention had frequently been called to the necessity of so doing. Their
+object was to throw all the business into the probate courts; and in this they eventually succeeded, except in the court
+presided over by Judge <persName key="Kinney, John F.">Kinney</persName>,&#8212;the only one, <seg type="Context" subtype="UtahWar">after the "war,"</seg> which acted simply as an adjunct and instrument of the church authorities.</p>
+
+<p>"During the sitting of Judge <persName key="Sinclair, Charles">Sinclair</persName>'s court, the Mormon grand jury promptly found a bill of indictment against one <persName key="Pike, Ralph">Ralph Pike</persName>, a sergeant in Company I, of the 10th Infantry, United States Army, for an assault with intent to kill, committed upon one <persName key="Spencer, Howard O.">Howard Spencer</persName>, the son of a Mormon bishop, at the military reserve, in Rush Valley. Upon <hi rend="italic">capias</hi> issued, <persName key="Pike, Ralph">Pike</persName> was arrested, and brought to <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>. The day following, August 11, 1858, about twelve o'clock, <hi rend="smallcaps">M</hi>., as <persName key="Pike, Ralph">Pike</persName> was entering the Salt Lake House, on Main Street, <persName key="Spencer, Howard O.">Spencer</persName> stepped up to him from behind, saying, '˜Are you the man that struck me in Rush Valley?' at the same time, drawing his pistol, shot him through the side, inflicting a mortal wound. <persName key="Spencer, Howard O.">Spencer</persName> ran across the street, mounted his horse, and rode off, accompanied by several noted 'Danites.' <persName key="Pike, Ralph">Pike</persName> lingered in dreadful agony, two days, before he died. The 'Deseret News,' in its next issue, lauded young <persName key="Spencer, Howard O.">Spencer</persName> for his courage and bravery.</p>
+
+<pb n="74" xml:id="mmm.anti.waite.1874.084"/>
+
+<p>"A man by the name of <persName key="Drown, Charles">Drown</persName>, brought suit upon a promissory note for $480, against the Danite captain, <persName key="Hickman, Bill">Bill Hickman</persName>. The case being submitted to the court, <persName key="Drown, Charles">Drown</persName> obtained a judgment. A few days afterwards, <persName key="Drown, Charles">Drown</persName> and a companion named <persName key="Arnold, Josiah">Arnold</persName> were stopping at the house of a friend in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, when <persName key="Hickman, Bill">Hickman</persName>, with some seven or eight of his band, rode up to the house, and called for <persName key="Drown, Charles">Drown</persName> to come out. <persName key="Drown, Charles">Drown</persName>, suspecting foul play, refused to do so, and locked the doors. The Danites thereupon dismounted from their horses, broke down the doors, and shot down both <persName key="Drown, Charles">Drown</persName> and <persName key="Arnold, Josiah">Arnold</persName>. <persName key="Drown, Charles">Drown</persName> died of his wounds next morning, and <persName key="Arnold, Josiah">Arnold</persName> a few days afterwards. <persName key="Hickman, Bill">Hickman</persName> and his band rode off unmolested.</p>
+
+<p>"Thus, during a single term of the court, held in a Mormon community, the warm life-blood of three human victims is shed upon the very threshold of the court; and although the grand jury is in session, no prosecution is attempted, and not one of the offenders brought to justice."</p>
+ 
+<p>Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> was assigned to the Second Judicial District, and held his first term of court in <placeName type="settlement" key="Provo, UT">Provo City</placeName>, commencing April 8th, 1859. An account of his efforts to bring to justice the Mountain Meadow and other murderers has already been given in his own language.</p>
+
+<p>The following notice of this bold and energetic man is from the "Nevada Territorial Enterprise":&#8212;</p>
+
+<p>"Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, of the United States Court of <placeName type="state" key="Utah Territroy">Utah</placeName>, is making his mark in that <placeName type="state" key="Utah Territory">Territory</placeName>, if half that is written of him is true. . . . . Satisfied that many of the leading Mormons had taken part in or instigated the Mountain Meadow massacre, and the murder of <persName key="Jones, Henry">Jones</persName>, <persName key="Potter, Duff">Potter</persName>, <persName key="Forbes, Henry">Forbes</persName>, <persName key="Parrish, William">Parrish</persName>, and a dozen others, he determined to bring them to punishment. . . . . He spoke and acted with the fearlessness and resolution of a Jackson; but the jury failed to indict, or even report on the charges, while threats of violence were heard in every quarter, and an attack on the troops intimated, if he persisted in his course.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">"Finding that nothing could be done with the juries, they were discharged, with a scathing rebuke from the Judge. Sitting as a committing magistrate, he commenced his task alone. He examined witnesses, made arrests in every quarter, and created a
+
+<pb n="75" xml:id="mmm.anti.waite.1874.085"/>
+
+consternation in the camps of the saints, greater even than was occasioned by the arrival of the troops within the walls of Zion. At last accounts, terrified elders and bishops were decamping to save their necks; and developments of the most startling character were being made, implicating the highest church dignitaries in the many murders and robberies committed upon the gentiles during the past eight years."</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">Governor <persName key="Cumming, Alfred">Cumming</persName> did not sustain Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, but, under the pretence of impartiality, sought to screen the Mormons from the demands of justice.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">Hence various differences between <persName key="Cumming, Alfred">Cumming</persName> on one side, and <persName key="Johnston, Albert Sidney">Johnson</persName> and <persName key="Cradlebaugh, John">Cradlebaugh</persName> on the other; <seg type="Reaction" subtype="MilitaryRetaliation">and on one occasion <persName key="Cumming, Alfred">the Governor</persName> went so far as to publish his protest against the use of the troops in aid of <persName key="Cradlebaugh, John">Cradlebaugh</persName>'s proceedings.</seg></seg></p>
+
+<p><persName key="Cumming, Alfred">Cumming</persName> was a native of <placeName type="state" key="Georgia">Georgia</placeName>. He had married a daughter of one of the most distinguished physicians of <placeName type="state" key="Boston, MA">Boston</placeName>, a lady of many accomplishments, who accompanied him to <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<p>During the dreadful reign of the cholera in 1836 he was Mayor of <placeName type="settlement" key="Augusta, GA">Augusta</placeName>, <placeName type="state" key="Georgia">Ga.</placeName>, and is said to have rendered efficient service in saving the lives of the citizens.</p>
+
+<p>For some years he was stationed at Jefferson Barracks, <placeName type="state" key="Missouri">Missouri</placeName>. At the commencement of the Mexican war he was at Point Isabel, and afterwards on the Southern line, attached to General <persName key="Scott, Winfield">Scott</persName>'s staff. Subsequently he was detailed by the Government to visit several tribes of Indians in the far West.</p>
+
+<p>He had performed some service to the country, and was a man of many good qualities; but was very vain, and fond of attention, and was unable to withstand the seductive influences which the Mormons know so well how to bring to bear upon persons of his organization.</p>
+
+<p><persName key="Cradlebaugh, John">Cradlebaugh</persName>, finding he was not supported by <persName key="Buchanan, James">Buchanan</persName>'s administration, left <placeName type="state" key="Utah Territory">Utah</placeName>, and settled in <placeName type="state" key="Nevada">the Territory of Nevada</placeName>; whence he has been twice sent as delegate to Congress, 
+
+<pb n="76" xml:id="mmm.anti.waite.1874.086"/>
+
+and we look to see him, at no distant day, represent the new <placeName type="state" key="Nevada">State of Nevada</placeName> in the Senate of the United States.</p>
+
+<p>In 1860 <persName key="Kinney, John F.">John F. Kinney</persName> was reappointed Chief Justice, succeeding Judge <persName key="Eckels, Delana R.">Eckels</persName>; and Judges <persName key="Crosby, William">Crosby</persName> and <persName key="Flenniken, Robert P.">Flenniken</persName> were appointed Associate Justices, to succeed <persName key="Sinclair, Charles">Sinclair</persName> and <persName key="Cradlebaugh, John">Cradlebaugh</persName>. Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> did not resign, and not recognizing the right of the President to remove the Judges, he continued to perform the duties of his office for some time afterward.</p>
+
+<p>On the 3d of October, 1861, <persName key="Dawson, John W.">John W. Dawson</persName>, of <placeName type="state" key="Indiana">Indiana</placeName>, was appointed by President <persName key="Lincoln, Abraham">Lincoln</persName> Governor of <placeName type="state" key="Utah Territory">Utah</placeName>, to succeed <persName key="Cumming, Alfred">Cumming</persName>, who had left <placeName type="state" key="Utah Territory">the Territory</placeName> some months previous.</p>
+
+<p>In the appointment of <persName key="Dawson, John W.">Dawson</persName>, <persName key="Lincoln, Abraham">Lincoln</persName>, to use his own language, was "imposed on." The Senate relieved him from the imposition, by refusing to confirm the appointment.</p>
+
+<p>The Mormons, however, anticipated the action of the Senate, and speedily ejected <persName key="Dawson, John W.">Dawson</persName> from the governorship. The history of this <hi rend="italic">&#233;meute</hi> is briefly as follows:&#8212;</p>
+
+<p><persName key="Dawson, John W.">Dawson</persName> arrived at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> about the commencement of the session of the Legislature. Having some notions of his own concerning legislative affairs, and not yielding, like his predecessor, to all the views of <persName key="Young, Brigham">Brigham Young</persName>, he soon became involved in difficulties from which he was unable to extricate himself. He had not the nerve and ability to sustain himself in his position. The Mormons saw this, and at once resolved upon, planned, and accomplished a brilliant <hi rend="italic">coup d'&#233;tat</hi>, similar to that practised upon Steptoe. Without going into details, the plan may be seen by the result; which was the affidavit of a widow woman named <persName key="Williams, Albina Merrill">Williams</persName>, to the effect that <persName key="Dawson, John W.">Dawson</persName> had insulted her, by making improper advances, which, of course, she had scornfully repelled and rejected.</p>
+
+<p>The indignation of the Mormons was amused to the highest pitch by this base attempt upon Mormon virtue. Threats were made so freely, that the Governor became
+
+<pb n="77" xml:id="mmm.anti.waite.1874.087"/>
+
+very much alarmed, and precipitately fled <placeName type="state" key="Utah Territory">the Territory</placeName>.
+Not satisfied with this, the "boys" waylaid him at one of the stations, and gave him a severe beating.</p>
+
+<p>In contemplating this serio-comic affair, one hardly knows which most to condemn, the lawless spirit which prompted such treatment, or the timidity and weakness which would submit to it.</p>
+
+<p>About the lst of February, 1862, Judges <persName key="Flenniken, Robert P.">Flenniken</persName> and <persName key="Crosby, William">Crosby</persName> left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and the federal officers there immediately advised the President of the fact by telegraph, and recommended the appointment of their successors. Accordingly on the 3d of February, 1862, <persName key="Drave, Thomas J.">Thomas J. Drave</persName>, of <placeName type="state" key="Michigan">Michigan</placeName>, and <persName key="Waite, Chalres B.">Charles B. Waite</persName>, of <placeName type="state" key="Illinois">Illinois</placeName>, were appointed Associate Justices, and on the 31st of March following, <persName key="Harding, Stephen S.">Stephen S. Harding</persName>, of <placeName type="state" key="Indiana">Indiana</placeName>, was appointed Governor, to succeed <persName key="Dawson, John W.">Dawson</persName>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

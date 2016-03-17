@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.on.18571202">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Mormon Outrages</title>
+		<title level="m" type="sub"></title>
+	<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.on.18571202</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Reprint of the Chicago Daily Tribune of November 21, 1857.</note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="a">The Mormon Outrages.</title>
+		<title level="j">Omaha Nebraskian</title>
+		<author>Editor Omaha Nebraskian</author>
+		<publisher>Publisher Omaha Nebraskian</publisher>
+		<pubPlace>Omaha, NE</pubPlace>
+		<date when="1857-12-02">December 2, 1857</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    	</keywords>
+	        <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2008-04-09"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2008-03-03"><name>Leslie Working</name> Original transcription</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.on.18571202.001"/>
+
+<head>The Mormon Outrages.</head>
+
+<p>WASHINGTON, Nov. 19.</p>
+
+<p><seg type="Source" subtype="WordofMouth"><seg type="Blame" subtype="IndiansLDSInfluence">I learn from an intelligent gentleman who has spent two or three years among Salt Lake Mormons, a fact or two tending to confirm the suspicion that the <seg type="Massacre" subtype="Casualties">recent terrible massacre of over 100 California emigrants </seg>by <orgName type="native" key="Santa Clara">Santa Clara Indians</orgName> was perpetrated under the Mormon leaders.</seg></seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">It is evident the savages who perpetrated this outrage are the same band who cut off <persName key="Gunnison, John">Capt. Gunnison</persName> and his command, for they are the only band of Indians at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, and have corn to sell. They are the same, also who, a year or more ago came very near massacreing Dr. <persName key="Hurt, Garland">Hurt</persName>, the U.S. Indian Agent, Mr. <persName key="Burr, David H.">Burr</persName>, U.S. Surveyor General, and party, and the suggestion of Mormon emissaries, who rode into an Indian village a few miles ahead of them and announced that the Indian agent and his friends were coming to arrest and punish them for Gunnison's murder. On that occasion, fortunately, they were accompanied by the war Chief of a neighboring friendly tribe, who succeeded, with difficulty, in satisfying them that they were on a friendly visit.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">I also learn that <persName key="Hickman, Bill">Bill Hickman</persName> and <persName key="Smith, Lat">Lat Smith</persName>, erroneously published as Locksmith, who headed the party which recently destroyed the train containing supplies for the troops on their way to Utah, are two of the most notorious leaders of the Mormon Danite Band or destroying Arabs.</seg></p>
+
+<p>There is reason to believe that <persName key="Young, Brigham">Brigham Young</persName> has fully made up his mind that he must leave Utah next spring. It seems that part of the mission to England of Elder <persName key="Pratt, Orson">Orson Pratt</persName> and <persName key="Bronson, Ezra">Ezra Bronson</persName>, who are still abroad, was to seek from the British Government permission to settle in the British possessions. The application was refused.</p>
+
+<note type="editorial" resp="Leslie Working">This article is reprinted from the Chicago Daily Tribune of November 21, 1857.</note>
+
+</div1>
+</body>
+</text>
+</TEI>

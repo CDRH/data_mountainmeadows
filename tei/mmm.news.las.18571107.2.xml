@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571107.2">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Arrival of the Salt Lake Mail</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571107.2</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Los Angeles Star</title>
+		    <title level="a" type="main">ARRIVAL OF THE SALT LAKE MAIL.</title>
+		    <publisher></publisher>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <extent></extent>
+		    <date when="1857-11-07">November 7, 1857</date>
+		</bibl>
+	    </sourceDesc>
+
+     </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-02-18"><name>Kelsey F. Harris</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.las.18571107.2.001"/>
+    
+<head type="main">ARRIVAL OF THE SALT LAKE MAIL.</head>
+
+<p><seg type="Source" subtype="Attributed_Christian">The Salt Lake mail, (per carriers Messrs. <persName key="Hunt, John">John Hunt</persName> and <persName key="Mayfield, John">John Mayfield</persName>.) arrived yesterday, in its usual excellent condition. They left <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName> on the 5th instant, at 11 o’clock A.M., and reached this place of the 30th at 11 o’clock A. M., being twenty-four days, traveling time&#8212;making the trip in the common good season. This mail, owing to the ability and promptness of those in whose charge the proprietors have always succeeded in placing it to be conducted across the plains, has never as yet been behind its time one hour. One circumstance, which is characteristic of this mail, and no other upon a similar rout on this continent, and particularly since it has been under the direction of the present conductor, <hi rend="italic">is it never has made a failure, nor been molested.</hi></seg></p>
+    
+<p><seg type="Source" subtype="Attributed_Christian">The carriers report everything quiet in <placeName type="state" key="Utah Territory">Utah</placeName>&#8212;say the people are very industriously engaged in taking care of their crops, which are remarkably fine, and that they seem to know nothing about Uncle Sam’s coming in there, to <q>“tote them out on two chips.”</q> I learned no further particulars about the <q>“massacre;”</q> <seg type="Massacre" subtype="Spoils">neither have I obtained any further intelligence in relation to the cattle lost on the road by the late emigrants. <seg type="Source" subtype="Indians">More than two of the <orgName type="tribe" key="Cheyene">Cheyenes</orgName>, at the crossing of the <geogName type="waterway" key="Muddy Creek">Muddy</geogName>, informed the carriers of their having eighty or one hundred head below the road, near the junction of the <geogName type="waterway" key="Rio Virgin River">Rio Virgin</geogName> and <geogName type="waterway" key="Muddy Creek">Muddy</geogName>. These Cheyenes also said that Isaac, the Santa Clara chief, had <q>“lots of cattle.”</q> It seems that some of the <orgName type="tribe" key="Pueblo">Santa Clara Indians</orgName> were with those at the <geogName type="waterway" key="Muddy Creek">Muddy</geogName> when the stock was run off, having followed the train over to that place. They heard from some of the interpreters&#8212;they are all supposed to have got in without being molested by the Indians.</seg></seg></seg></p>
+
+<closer><signed>Yours truly,		<persName key="Christian, J. Ward">J. WARD CHRISTIAN</persName></signed></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.cdt.18571204a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Terrible Massacre of Emigrants by the Mormons and Indians</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.cdt.18570412</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="summary">An early Chicago report about the Mountain Meadows Massacre. 
+                </note>
+             </notesStmt>
+
+             <sourceDesc>
+
+                 <bibl>
+                     <title level="a">Terrible Massacre of Emigrants by the Mormons and Indians</title>
+                     <title level="j">Chicago Daily Tribune</title>
+                     <author>Editor Chicago Daily Tribune</author>
+                     <publisher>Chicago Daily Tribune</publisher>
+                     <pubPlace>Chicago, IL</pubPlace>
+                     <date when="1857-12-04">1857-12-04</date>
+                 </bibl>
+             </sourceDesc>
+
+         </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term> 
+                </keywords>
+                <keywords scheme="original" n="culpability">
+                    <term>Mormon and Indians</term>
+                </keywords>
+                <keywords scheme="original" n="sympathy">
+                    <term>Non-Mormon</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+    <revisionDesc>
+         <change when="2011-06-16"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+         <change when="2007-05-02"><name>Leslie Working</name> Initial Encoding</change>
+         <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+         <change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.cdt.18571204a.001"/>
+
+<head>Terrible Massacre of Emigrants by the Mormons and Indians.</head>
+
+<p>Elsewhere we publish late and exciting news from <placeName type="state" key="California">California</placeName>, in regard <seg type="Massacre" subtype="Casualties">the massacre of 120 American emigrants</seg> who were <seg type="Emigrants" subtype="Route">crossing the plains en route to <placeName type="state" key="California">California</placeName></seg>. <seg type="Blame" subtype="IndiansLDSInfluence">The actual perpetrators of the massacre were no doubt Indians; but the suspicion is, that they were encouraged, instigated, and perhaps led on by Mormons.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">The party in question is said to have consisted of <seg type="Massacre" subtype="Casualties">about 135 men, women and children, including some forty or forty-five capable of bearing-arms</seg>. <seg type="Massacre" subtype="Spoils"><seg type="Emigrants" subtype="StateAffiliationArkansas">They were from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, were well provided, and had with them quite a stock of horses, mules, and oxen.</seg></seg> <seg type="Emigrants" subtype="Route">They had traveled across the plains by the way of <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, on their way to Southern <placeName type="state" key="California">California</placeName>, and had reached <seg type="Massacre" subtype="Location">the rim of the great basin,</seg> about three hundred miles south-west of the <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>, and fifty miles from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, the most southerly of the Mormon settlements in <placeName type="state" key="Utah">Utah</placeName>,</seg> <seg type="Massacre" subtype="Battle">when they were attacked and all destroyed,</seg> <seg type="Massacre" subtype="Survivors">with the exception of fifteen young children, who were afterward bought from the Indians by the Mormons.</seg> What we know of this affair, <seg type="Massacre" subtype="Dates">which seems to have taken place about the 10th or 11th of September</seg>, <seg type="Source" subtype="WordofMouth">is derived from statements made by the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName> as to what they had learned about it from the <orgName type="native" key="Indians">Indians</orgName>, and from the statements of another party of emigrants who had subsequently passed over the same route, having left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> ten days later.&#8211;</seg>&#8212;<seg type="Blame" subtype="LDS_LDS">Suspicion would seem, however, to rest rather upon the extremely bad state of feeling which prevails between the Mormons and emigrants through their country&#8212;and which, in the case of this particular train, would seem to have been especially bitter&#8212;than upon any facts positively known.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

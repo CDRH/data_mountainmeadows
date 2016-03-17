@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18590609b">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	    	<title level="m" type="main">From Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18590609b</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">New York Times</title>
+		    <title level="a" type="main">From Utah</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1859-06-09">June 9, 1859</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+   <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-05"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-04"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18590609b.001"/>
+
+<head type="main">FROM UTAH.</head>
+
+<head type="sub">PROCLAMATION OF GOVERNOR CUMMING&#8212;THE MOUNTAIN MEADOW MASSACRE&#8212;ITEMS OF NEWS.</head>
+
+<p><seg type="Source" subtype="Reprinted">We have recieved files of the <orgName type="newspaper" key="Desert News">Deseret News</orgName> to May 11.</seg> <seg type="Source" subtype="Government">The following proclamation, issued by Governor <persName key="Cumming, Alfred">CUMMING</persName>, forbids the gathering of armed parties in <placeName type="state" key="Utah Territory">the Territory</placeName>:</seg></p>
+
+<floatingText><body>
+<dateline>EXECUTIVE OFFICE, UTAH.
+GREAT SALT LAKE CITY, MAY 9, 1859.</dateline>
+
+<p><hi rend="italic">Whereas</hi>, I have this day been informed that certain person, who are to me unknown, have associated themselves together in a military or assumed military capactiy, near Goshen, and at other points in or near the mountains surrounding <geogName type="valley" key="Salt Lake Valley">Great Salt Lake Valley</geogName>, in <placeName type="state" key="Utah Territory">this Territory</placeName>;</p>
+
+<p>And, therefore, having reason to believe that these associations and assemblages are unlawful and offectly tending to interrupt and jeopardize the peace and good order of <placeName type="state" key="Utah Territory">this Territory</placeName>:</p>
+
+<p>I now hereby order and command that all persons so associated and assembled together shall immediately disperse and return to their homes and usual avocations; and that all and every of such persons who shall refuse immediately to obey this command and injurcticm are hereby declared disturbers of the public peace of <placeName type="state" key="Utah Territory">this Territory</placeName>, and, as such disturbers of the public peace, shall be arrested and dealt with according to law, in the premises.</p> 
+
+<p>And I hereby direct, authorize and empower Jonx(unclear)Kay, the Marshal elected by the Legislature of <placeName type="state" key="Utah Territory">the Territory of Utah</placeName> to inforce, carry out and execute the foregoing command and injunction for the preservation of the public peace of <placeName type="state" key="Utah Territory">said Territory</placeName>, and that the make due return to me of the execution hereof.</p> 
+
+<p>Given under my hand and the seal of <placeName type="state" key="Utah Territory">said Territory</placeName>, at <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>, this 9th day of May, A.D. 1859</p>
+	<closer><signed><persName key="Cumming, Alfred">A, CUMMING</persName>,
+	Governor of <placeName type="state" key="Utah Territory">Utah Territory</placeName>.</signed></closer>
+
+</body></floatingText>
+
+<p>The <hi rend="italic">Valley Fair</hi> (Anti-Mormon) comments upon this proclamation as follows:</p>
+
+<q><p><seg type="Context" subtype="TerritorialAdministration">"This order, in our opinion, should have been directed to a Federal officer to execute, for Governor <persName key="Cumming, Alfred">CUMMING</persName>, with the history of this Territory before him, and especially the records of the last two months, should not fail to perceive that the last two thunderbolts issued from the Executive Department is a greased shaft in the hands of Mormon manipulators. The circumstances that surround us and these that have preceded us, pregnant with carnage, the utter inability of the United States Courts to do anything in <placeName type="state" key="Utah Territory">this Territory</placeName>, should at least, in our estimation, have called for a different appointment than that made by the Governor."</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The same paper says the condition of affairs at <placeName type="state" key="Utah Territory">Utah</placeName> is daily growing worse, and that treason exists as much now as it did before the troops were sent there to quell it. The President's Proclamation was scouted and derided at the time, and, says the Tan, <q>"the only interpretation that can be put upon it, and, in fact, the only way it is received here is, that it was <hi rend="italic">forced</hi> upon them, The Government stood in the <sic>anomaleus</sic> condition of holding a pardon for her own subjects, and treating for peace upon her own Territories.</q></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The armed parties sent out by the Mormons had cannon mounted, and, when discovered, had signals prepared upon the mountain heights to telegraph to their forces in various parts of <placeName type="state" key="Utah Territory">the Territory</placeName>, which evinces a spirit antagonistic to the Government."</seg></p></q>
+
+<p>Mr. <persName key="Forney, Jacob">FORNEY</persName>, Indian Superintendent in <placeName type="state" key="Utah Territory">Utah</placeName>, addresses to the Editor of the News a long statement of the results of his trip to the Pi-Ute country, <seg type="Massacre" subtype="Survivors">in quest of the survivors of the Mountain Meadow massacre</seg>. the letter is similar to that recently addressed by Mr.<persName key="Forney, Jacob">FORNEY</persName> to the Commissioner of Indain affairs; but the following extract adds some particulars not before published:</p>
+
+<q><p>"The massacre of an entire train, not one remaining to speak of the <q>"drama"</q> <seg type="Massacre" subtype="Survivors">but sixteen fatherless, motherless and penniless children, supposed, probably, to be too young to give the affair tangibility</seg>, cannot remain long univestigated.</p>
+
+<p>The cause or reason for the commission of a crime so terrible as that of killing <seg type="Massacre" subtype="Casualties">at least 115 persons</seg>, must assuredly become a subject of inquiry with the proper legal authoritie.</p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">The Pi-Ute tribe of Indians have been and are charged with the above crime</seg>. Last August my attention was called to the Mountain Meadow affair officially. Since then I have made diligent inquiry, got the written statements of persons living in the neighborhood, and finally visited the sounthern country<cb n="2" />,and <seg type="Blame" subtype="IndiansLDSInfluence">now, after foil inguiry and examination,deem it to be my imperative duty to say that the Indian, had material aid and assistance from whites; and,in my opinion, the Pi-Ute Indians would not have perpetrated the terrible massacre without such aid and assistance."</seg></p></q>
+
+<p>The <hi rend="italic">News</hi>, (Mormon,) of the 11th, has the following paragraph:</p>
+
+<p><q>"Our city has been unusually quiet for eight or ten days, and nothing of any moment has transpired to mar the peace and quietude of the citizens. Most of the people are busily engaged to agricultural pursuits gardening etc. There is not money enough to circulation to keep up rowduism, as those who are thus inclined cannot pay for the requisite amount of liquor to make them <hi rend="italic">brave </hi>and <hi rend="italic">boisterous</hi>, consequently there is not so much business for policemen and magistrater as there was during the Winter. So far as we have heard of late, this state of things exists in other parts of <placeName type="state" key="Utah Territory">the Territory</placeName>, though it appears by the order, proclamation or injunction of <persName key="Cumming, Alfred">the Governor</persName> to be found in another column that somebody has been scared or alarmed by something they have seen or heard, The whole matter is <hi rend="italic">Greek </hi>to us, and we have not been able to ascertain anything tangible relative to the cause that called forth the injunction."</q></p>
+
+<p>Three Elders had arrived in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> from the mission in the Sandwich Islands.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

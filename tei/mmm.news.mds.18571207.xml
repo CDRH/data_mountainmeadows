@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.mds.18571207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Mormons and Indians Butchering Emigrants</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.mds.18571207</idno>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Mormons and Indians Butchering Emigrants</title>
+                    <author></author>
+                    <publisher>Milwaukee Daily Sentinel</publisher>
+                    <pubPlace>Milwaukee, WI</pubPlace>
+                    <extent></extent>
+                    <date when="1857-12-07">December 7, 1857</date>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+    	    </textClass>
+            <textClass>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-08-29"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.mds.18571207.001"/>
+
+<head>Mormons and Indians Butchering Emigrants.</head>
+
+<p>We have had accounts of the massacre of an emigrant train <seg type="Massacre" subtype="Location">between <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, <placeName type="state" key="California">California</placeName></seg>, in which <seg type="Massacre" subtype="Casualties">over one hundred persons including some sixty women and children lost their lives</seg>. <seg type="Source" subtype="Attributed_Powers">A meeting was held at <placeName type="settlement" key="Los Angeles"><choice><sic>Los Angelos</sic><corr>Los Angeles</corr></choice></placeName> to investigate the matter and a statement of Mr. <persName key="Powers, George">George Powers</persName>, who crossed the Plains just behind the slaughtered train, was submitted to the meeting.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Blame" subtype="EmigrantBehavior">He stated that the Mormons alleged that the emigrants were insulting towards them&#8212;calling the Mormon women ill names&#8212;and at a place called <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, near <placeName type="settlement" key="Cedar City, UT">Cedar</placeName>, and </seg><seg type="Encounter" subtype="Poison"><seg type="Blame" subtype="EmigrantBehavior">in the Mormon country, an ox died, and the Indians asking for it, the carcass was given to them. The Indians claim, however&#8212;on the strength of an assertion made by a Mormon&#8212;that before the ox was given to the Indians, an emigrant cut into the meat and poured a vial full of liquid into the flesh, and that thus the Indians who ate of it were poisoned.</seg> <seg type="Blame" subtype="LDS_LDS">Other Indians assert that the Mormons themselves gave the Indians poisoned water-melons.</seg></seg> <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDSGreed">What the truth is cannot be known, but there is much reason to supposed that the Mormons incited the Indians to the massacre and then divided the spoils.</seg></seg></seg></p> 
+
+<p><seg type="Source" subtype="Attributed_Warn"><seg type="Encounter" subtype="Poison">A Mr. <persName key="Warn, P. M.">Warn</persName>, who followed, stated that he conversed with one of the war-chiefs, who said that his people had not been poisoned, though some of them had died.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Blame" subtype="LDS_LDSLeadership">Mr. <persName key="Powers, George">Powers</persName> says that <persName key="Dame, William H.">Dame</persName>, an old Mormon, said that he could have raised a force to rescue the train, but that he dare not disobey the Mormon Council.</seg> <seg type="Massacre" subtype="Dates">The slaughter took place on the 14th of September.</seg> Mr. <persName key="Powers, George">Powers</persName> says:</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="IndianRelationsLDS">On Saturday, at twelve o'clock, we left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. About the middle of the afternoon we met the four men who were sent out the night previous, returning in a wagon. They said the entire train had been cut off; and, as it was still dangerous to travel the road, they concluded it was better for us to pass in the night. We continued on without much conversation, and about midnight met Mr. <persName key="Dame, William H.">Dame</persName>, and three other white men, coming from the scene of slaughter, in company with a band of some twenty Indian warriors. One of the men in company with Mr. <persName key="Dame, William H.">Dame</persName>, was Mr. <persName key="Haight, Isaac C.">Haight</persName>, Mormon President of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. <seg type="Massacre" subtype="Aftermath">Mr. <persName key="Dame, William H.">Dame</persName> said they had been out to the burying of the dead; but the dead were not buried. From what I heard, I believe the bodies were lying naked upon the ground, having been stripped of their clothing by the Indians.</seg>&#8212;<seg type="Massacre" subtype="Spoils">These Indians had a two horse wagon, driven by a white man, and beside him, there were two or three Indians in it. Many of them had shawls and bundles of women's clothes were tied to their saddles. They were also supplied with guns or pistols, besides bow and arrows. The hindmost Indians were driving several head of the emigrants' cattle.</seg> Mr. <persName key="Dame, William H.">Dame</persName> and Mr. <persName key="Haight, Isaac C.">Haight</persName>, and their men, seemed to be on the best of terms with the Indians, and they were all in high spirits, as if they were mutually pleased with the accomplishment of some desired object. They thronged around us, and greeted us with noisy cordiality. We did not learn much from them. They passed on, and we drove all night in silence, and at daylight camped, and were told we were three miles beyond the scene of slaughter.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_TannerMathews"><seg type="Source" subtype="Attributed_Powers"><seg type="Context" subtype="LDSApostates">Mr. <persName key="Powers, George">Powers</persName> and his train arrived has at <placeName type="settlement" key="San Bernardino, CA"><choice><sic>San Bernardine</sic><corr>San Bernardino</corr></choice></placeName>, and he was advised by Mr. <persName key="Mathews, William">Mathews</persName>, who, he learned, was a President, or Elder in that place, not to associate with the "damned apostates"; that they were cut-throats of the worst character.</seg>  If he wished, they would give him constant work at their mill in the mountains, and he must be careful not to talk <choice><sic>to</sic><corr>too</corr></choice> much of what he had seen. <seg type="Blame" subtype="LDS_LDS">While in <placeName type="settlement" key="San Bernardino, CA"><choice><sic>San Bernardine</sic><corr>San Bernardino</corr></choice></placeName>, he heard many persons express gratification at the massacre. At the church services on Sunday, Capt. <persName key="Hunt, Jefferson">Hunt</persName> occupied the pulpit, and, among other things, he said that the hand of the Lord was in it; <seg type="Blame" subtype="IndiansIndependently">whether it was done by white or red skins, it was right!</seg> The prophesies concerning <placeName type="state" key="Missouri">Missouri</placeName> were being fulfilled, and they would all be accomplished. Mr. <persName key="Mathews, William">Mathews</persName> said the work had just begun, and it should be carried on until Uncle Sam and all his boys that were left should come to Zion and beg for bread.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea">Another emigrant, Mr. <persName key="Honea, S. B.">S. B. Honea</persName>, of <placeName type="state" key="Arkansas">Arkansas</placeName>, who left home last May, and has lately arrived at <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, by the way of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, says that at <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>&#8212;near where Col. <persName key="Alexander, Edmund Brooke">Alexander</persName>. command was at last accounts&#8212;his train met large bodies of Indians, 400 in one camp, and near <orgName type="military" key="Fort Bridger">Fort Bridger</orgName> they met three companies of mounted Mormons, with ample baggage wagons, equipment, &amp;c. Mr. <persName key="Honea, S. B.">Honea</persName> says, he also here and there had a conversation with one of the Mormon soldiers, an Englishman, who, camping with the company, grew very communicative over the camp-fires. The substance of this conversation, Mr. <persName key="Honea, S. B.">Honea</persName> reports as follows:</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="UtahWar">He referred in bitter terms to the treatment the Mormons received in <placeName type="state" key="Illinois">Illinois</placeName> and <placeName type="state" key="Missouri">Missouri</placeName>, reflected on the unjustness and tyranny of the people of the U. S., and said that the time was come to get even.</seg> He said they were on their way to meet Gen. <persName key="Harney, William S.">Harney</persName>, to see what he was coming for: "If he was coming peaceably, we will let him come, but if not, we will drive him back," were the words used.  Another Mormon, named <persName key="Killian">Killian</persName>, an old man who lives about seven miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, spoke bitterly against the U. S., denounced Judge <persName key="Drummond, W. W.">Drummond</persName>, and all the Federal officers, and rejoiced that the time had come when the Saints would be avenged on their enemies&#8212;that men were found who could face the enemy, and that <persName key="Harney, William S.">Harney</persName>, with his 2500 men, never would enter <placeName type="settlement" key="Salt Lake Ciyt, UT">Salt Lake City</placeName>. <seg type="Encounter" subtype="TradeLDS">He also stated that Gov. <persName key="Young, Brigham">Brigham Young</persName> had ordered the people to prepare for war&#8212;that they should not sell emigrants anything&#8212;that they must lay up provisions</seg>&#8212;that the men and women must not dress up in store clothes any more, but that all must be saved to forward the cause of the Church against the common enemy&#8212;that the men must be content with buckskin instead of broadcloth, and have plenty of guns and ammunition.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Context" subtype="UtahWar">On the 17th Aug., Mr. <persName key="Honea, S. B.">Honea</persName> passed through the <placeName type="settlement" key="Salt Lake City, UT">City of Salt Lake</placeName>. Remained only three or four hours. Had a conversation with a merchant, a Gentile, who stated that on the previous Sunday <persName key="Young, Brigham">Brigham Young</persName> had declared in the Temple, that henceforth <placeName type="state" key="Utah Territory">Utah</placeName> was a separate and independent Territory, and owed no obedience or allegiance to any form or laws but those of their own enactment, and called upon the people to stand together and support him in maintaining the cause of God and the Church. Was told that the house of <persName key="Gilbert">Gilbert</persName> &amp; <persName key="Garrison">Garrison</persName> had orders from <persName key="Young, Brigham">Brigham</persName> to pack up and leave before the 1st of November.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Honea"><seg type="Context" subtype="IndianRelationsLDS">During all the residue of this journey the train of Mr. <persName key="Honea, S. B.">Honea</persName>, was harassed by the Indians.&#8212;They hired repeatedly Mormon guides, or 'interpreters,' as a protection against the savages, and for this purpose expended $1815&#8212;but found that the wretches were acting the traitors' part, and seemed inclined rather to setting the Indians on to attack, than to projecting them. Two men in a train that joined them, Captain <persName key="Turner, Nicholas">Turner</persName> and Mr. <persName key="Collins, Wilson">Collins</persName>, were shot and seriously wounded while in the Mormon train of <placeName type="settlement" key="Beaver City, UT">Beaver</placeName>, by the Indians. While near the <geogName type="waterway" key="Muddy River">Muddy</geogName>, the Indians made another attack upon Mr. <persName key="Honea, S. B.">Honea</persName>'s train, and run off 375 head of cattle.</seg></seg></p>
+
+<p><seg type="Source" subtype="Reprinted">[From the San Francisco Herald, Nov. 5]</seg></p>
+
+<p><seg type="Source" subtype="Reprinted">Mr. <persName key="Pierce">Pierce</persName>, who came by the way of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and joined the other two families at the Sink of the Humbolt, reports <seg type="Context" subtype="IndianRelationsLDS"><seg type="Context" subtype="UtahWar">some five hundred Indians encamped near <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, who, as he learned from the Mormons, were retained as allies to operate against the troops sent out by the government. He was also assured that these Indians had been instructed not to molest the emigration this year, as preparations were not sufficiently complete to enable the Mormons were nightly practicing military drill, and there was every evidence of energetic preparations for some great event. Before his family left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, vague declarations of a threatening character were made, to the effect that, next year, "the overland emigrants must look out;" and it was even insinuated that the last trains this year might be destroyed. From the Mormon train which recently left Carson Valley, and which these families met on their way, similar statements were vaguely communicated, one Mormon woman even going so far as to congratulate an old lady in one of these families upon her safe arrival so near her destination, and assuring her that "the last trains of this year would not get through so well, for they were to be cut off."</seg></seg> <seg type="Blame" subtype="LDS_LDS">We give these statements as we received them from members of these families, and, admitting their correctness, which we have no reason to doubt, they certainly will go far to confirm a terrible suspicion.</seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

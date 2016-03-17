@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18591221">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Inefficiency of Federal Authorities</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+		<edition>
+		    <date>2012</date>
+		</edition>
+	    </editionStmt>
+	<publicationStmt>
+	    <idno>mmm.news.dn.18591221</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+	
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Desert News</title>
+		<title level="a" type="main">Inefficiency of Federal Authorities.</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1859-12-21">December 21, 1859</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-08-14"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-08-14"><name>Katie Heupel</name> Original Transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dn.18591221.001"/>
+
+<head>Inefficiency of Federal Authorities.</head>
+
+<p><seg type="Context" subtype="WesternViolence"><seg type="Context" subtype="TerritorialAdministration">The corresponding secretaries of some of the Mourning Associations in <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName> and at <orgName type="military" key="Camp Floyd">Camp Floyd</orgName> have been very assiduous, for several months past, in the discharge of the duties assigned to, or assumed by them in writing lamentations about the state of affairs in <placeName type="state" key="Utah Territory">Utah</placeName>, and especially about the imbecility of the federal judiciary and the inefficiency of the army stationed in <placeName type="state" key="Utah Territory">the Territory</placeName>, alleging that the former could not enforce the laws, nor the latter protect the lives and property of American citizens on American soil.</seg></seg></p>
+
+<p>Some of the direful effusions of these scribblers, which have found their way into certain journals devoted to the dissemination of whatever may be considered prejudicial to the people of <placeName type="state" key="Utah Territory">Utah</placeName>, contain so much of what is not altogether untrue, that it is marvelous that they were ever published to the world, as they contain more truth than fiction, and strongly remind us of an assertion made by a Methodist divine, who, in speaking of the teachings of his satanic majesty said, that he always told two truths to one lie, in order the make mankind believe that he was a angel of light.</p>
+
+<p><seg type="Source" subtype="Reprinted"><seg type="Context" subtype="WesternViolence">A lamentation, purporting to have been written at <orgName type="military" key="Camp Floyd">Camp Floyd</orgName> on the 23d of September last, and published in the <orgName type="newspaper" key="San Francisco Bulletin"><hi rend="italic">Bulletin</hi> (San Francisco)</orgName>, contains some items of sorrow, not usually referred to by that class of correspondents, for after mourning over the crimes committed and the impotency of the federal judiciary and army to protect the innocent and punish the guilty in <placeName type="state" key="Utah Territory">Utah</placeName>, alleging that the former could not get any persons but Mormons <q>"<hi rend="italic">to execute their written warrants</hi>,"</q> and that the latter was not permitted by the Government to exercise judicial functions, an awful state of things to be sure, and about which many a tear has been shed, the writer alludes in the most plaintive manner to the depredations of the savages and painted natives, in the region of country immediately north of this Territory, during the past summer, and wails over the inefficiency of the army to protect the lives and property of emigrants, who pass that way in going to <placeName type="state" key="California">California</placeName> and <placeName type="state" key="Oregon">Oregon</placeName>, from the Atlantic side of the continent, a fact that has long been known to those bands of outlaws, and which has emboldened them to commit more murders in one year than were ever committed by white men in <placeName type="state" key="Utah Territory">Utah</placeName> up to the time that the army entered its borders.</seg></seg></p>
+
+<p>In speaking of the depredations and murders of the natives in that section of country, the writer says:</p>
+
+<q><p><seg type="Blame" subtype="IndiansLDSInfluence">"On the northern California and Oregon road, Indian depredations might be <hi rend="italic">punished</hi>; but such as those committed in Washington Territory this year can scarcely ever be <hi rend="italic">prevented</hi>, notwithstanding the strenuous efforts and watchfulness of the army however strong.  With white men (painted when in action) to aid them, and to indicate the position of troops, and to mislead the latter, a small body of Indians can slip in between any two detachments and take advantage of the careless and straggling emigrant.</seg></p>
+
+<p>From the South Pass to the sink of Humboldt, some eight hundred miles, many places favor an ambuscade&#8212;so many that an <hi rend="italic">enormous</hi> army would be required to guard them and patrol the country.  <seg type="Blame" subtype="IndiansLDSInfluence">This year many emigrant trains carried no arms, and by their carelessness invited attacks from Indians and highway robbers.  This body of Indians was a <hi rend="italic">small</hi> band of outlaws from the Bannacks and snakes, whose knowledge of the country enabled them&#8212;with the aid of white men&#8212;to appear suddenly at different points of the roads, to attack parties who were known to be unable to resist them.</seg>  In most cases, when trains were robbed, wagons were searched and money, jewelry, etc., only taken.  Unless emigrants band together in parties of twenty or more men, armed and always on their guard, <hi rend="italic">no force on the road can secure them from attack</hi>, unless they could be united in bodies of such size that all could be escorted by troops."</p></q>
+
+<p>What induced the writer, who from his style, must have been in some way connected either with the army to the judiciary to make so many admissions, about the inability of the army to protect the emigrants, in the region of country to which he refers, against the attack of  <q>"a small band or outlaws,"</q> we cannot conjecture, unless it was to exculpate the force that was sent thither to punish the natives and prevent them from committing further depredations, from the blame that has and will be attached for the ineffective manner in which that duty was seemingly performed.</p>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="LDS_LDS">In <placeName type="state" key="Utah Territory">Utah</placeName> every dereliction of duty on the part of the federal judiciary, as a matter of course, is always attributed to the influence or interference of the Mormons, who invariably find some way, as is alleged, to thwart them in their endeavors to discharge severally the duties of their office, and since the army has been inhibited from interfering in the administration of law, the Government has been severely blamed for its arbitrary interference to prevent them from doing that which they wished to perform; but the idea of complaining so bitterly about the impotency of the army outside of the Mormon settlements is something new.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">The fact that white men would assume the habiliments of Indians, and that when acting in concert with them</seg>, or under a separate organization, they were more cruel and relentless in war and more resembled demons than human beings in all their actions when thus disguised, has long been known, and what is exceedingly strange, when they thus band together and murder, rob, and plunder, there has never been any sufficient power at hand to prevent them from doing whatever they desired, nor to punish them for their unlawful deeds  The authority of States has been too feeble, their military forces too defective and their judicial tribunals too impotent to bring them to justice, and the federal arm has been too short or too impotent to interfere in those matters and to protect the lives and property of citizens of the Republic from their murderous and outlandish depredations for many years.</seg></p> 
+
+<p>We have seen thousands of <q>"painted"</q> natives in <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Illinois">Illinois</placeName>, murdering and plundering wherever they went, and no efforts were made, not even an inefficient army was ordered out to put an end to their deeds of rapine, and there  is no doubt but that there are hundreds of such characters prowling long the national thoroughfares leading across the continent, every year committing depredations whenever opportunity presents.  Neither is there any doubt of the inefficiency of the U. S. army, as is alleged, under present regulations, to successfully protect the passing emigrants from their murderous assaults; but we did not expect that a person weeping over the inefficiency of the federal judge in <placeName type="state" key="Utah Territory">Utah</placeName> and their inability to perform their duties, would in the same lamentation mourn that the army could not conquer a few Indians and self made natives roaming over the plains.  It is truly a lamentable state of affairs, and if we thought that it would do any good, we would mourn too, not only over that, but over any other things that exist of have transpired in this inland portion of the Union during the last two years.</p>
+
+<p>It is certainly a matter of grief that a small number of hostile Indians are permitted to murder men engages in transporting the mails of the United States between this city and <placeName type="state" key="California">California</placeName>, drive off their stock and do whatever they please, and no notice whatever is taken of such outrages, and that too when they are committed within a comparatively short distance of the Head Quarters of the army in <placeName type="state" key="Utah Territory">Utah</placeName>, said to the be largest division of troops stationed at any one point in the United States.  If that is the protection extended by American troops, it is certainly worse than none, and the money that is annually expended to keep up and sustain armies in this country, is so much paid for naught, and might as well be appropriated directly to speculators or thrown into the sea.</p>
+
+<p><seg type="Context" subtype="WesternViolence">It is a matter of grief that so many murders have been committed within the last fifteen months in Great Salt Lake City and in the vicinity of <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>, and that for the want of energy and exertion on the part of those who claim exclusive jurisdiction of such matters, only one of the murderers has been arrested, tried and punished.</seg></p>
+
+<p>It is a matter of grief that when so many deeds of violence have been committed as alleged by the citizens of <placeName type="state" key="Utah Territory">Utah</placeName>, before the introduction of civilization, and the establishment of law and order among them (?) that no legal steps have been taken by those who were expected to <q>"cleanse the land from blood,"</q> to inquire into those alleged offences, not even the <q>"mountain meadow massacre,"</q> and the <q>"painted natives"</q> who have been accused of participating in that murderous transaction still enjoy the same liberty that other natives, disguised with lamp black or soot, enjoyed after committing similar acts in Missouri and in Illinois, and that the <hi rend="italic">natives</hi> "painted with Vermillion" enjoy, that infest the plains intervening between the frontiers of the eastern States and the Pacific coast.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="WesternViolence"><seg type="Context" subtype="UtahWar">The increase of crime in <placeName type="state" key="Utah Territory">this Territory</placeName> since the termination of the <q>"Utah war"</q> is another cause of grief.</seg>  Not only has the soil been deeply crimsoned with human blood, but felonies without number have been committed, and when efforts have been made, to punish any of those engaged in their perpetration according to the laws of <placeName type="state" key="Utah Territory">Utah</placeName>, the question of jurisdiction has been raised by those who will not or do not execute the laws themselves, and are unwilling that those whose duty it is according to the statutes in such case made an provided, to inquire into such matters, should exercise that right; which in effect under the system that has been pursued has had a direct tendency as is well known, to encourage the violation of the laws which have been provided for the good order of society and for the protection of the persons and property of the citizens, from the assaults and depredations of such as have no regard for the rights of their fellow men.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">We could refer to many other items that cause thinking men to mourn, for which there seemingly is no remedy, but we will let them pass unnoticed for the present, hoping that matter in general will assume a more pleasant aspect ere long; that complains about the inefficiency of the army and judiciary cannot be made in truth, and that murderers, thieves and robbers will be punished according to law and not be permitted to escape because there is no power in existence sufficiently strong to arrest them and bring them to justice.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>
+

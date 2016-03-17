@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590315">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Charge</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.vt.18590315</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	   <bibl>
+		<title level="j">Valley Tan</title>
+		<title level="a" type="main">Charge</title>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1859-03-15">March 15, 1859</date>
+    	   </bibl>
+	</sourceDesc>
+
+   </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+   <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie Heupel</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.vt.18590315.001"/>
+
+<head>CHARGE</head>
+
+    <head type="sub"><hi rend="italic"><seg type="Source" subtype="Attributed_Cradlebaugh">Orally delivered by Hon. <persName key="Cradlebaugh, John">John Cradlebaugh</persName> to the Grand Jury, <placeName type="settlement" key="Provo, UT">Provo</placeName>, Tuesday, March 8, 1859, 11 a.m.</seg></hi></head>
+
+<head type="sub">[REPORTER]</head>  
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="WesternViolence">I will say to you, Gentlemen of the Grand Jury, that, from what I learn, it has been some time since a court, having judicial cognizance in your district, was held. No person has been brought to punishment for some two years; and from what I have learned I am satisfied that crime after crime has been committed.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="WesternViolence">There is no such effectual way of stopping crime, no means has been found so effectual and sure as the speedy punishment of the offender; therefore, so far as you are concerned, and your community, it is a very important matter, if you desire innocent and unoffending persons to be protected, that you vigilantly and diligently prosecute all persons who are violators of the law.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="WesternViolence">I will, before I close the remarks that I intend to make, make mention of certain crimes that have committed. I will make mention of certain offences that I am certain have been committed; vigilance is therefore necessary.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">In consequence of the Legislature not having provided proper means, there is not that aid given that is desired to enable the judiciary to prosecute its duties, but I will say that the Legislature, in my opinion, have legislated to prevent the judiciary from bringing such offenders to justice.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">I believe that outside of <placeName type="state" key="Utah Territory">this Territory</placeName>, where they have a Legislature at all, there is no place put what has a provision of law that persons found committing crimes can be arrested, brought before tribunals, committed to prison and detained until the court having jurisdiction can try them. Such provision does not seem to be made here. There is no legislative enactment that seems to authorize a justice of the peace to commit a person accused of crime to prison. I find that a party may be arrested, brought before a justice of the peace and tried, if it is a case that he has jurisdiction over, but if it is a crime or case that he cannot try, there is a provision that he can be taken to the court having jurisdiction, and be tried immediately.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">From the nature of the District Courts, and they are the only courts having criminal jurisdiction, they are designed to investigate and try all criminal cases, but the officer has no authority to detain a person in his custody, but he is immediately to take him before a court and try him. But a District Court cannot always be in session. This legislation was perhaps to take away their criminal jurisdiction; to prevent those cases getting into that court, which is the only court that has jurisdiction.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">They have provided the Probate Courts with criminal jurisdiction, and it would seem that the whole machinery was made so
+that they should be brought before that court and tried, and the fact that there is no additional legislation to provide for bringing them before this court proves that it was done to prevent.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">I will say that the Probate Court can have no criminal jurisdiction. Under the Organic Act that court is confined. That Organic Act provides for Supreme, District and Probate Courts, and for justices of the peace. The Organic Act operates upon the legislation of the Territory. The Legislature are bound by that Organic Act, their legislation. That Organic Act also says that these courts shall be as limited by law; but it is courts shall be as limited by law; but it is not to be presumed, because it says that the jurisdiction of these courts shall be as limited by law, that the Legislature shall extend it. When the Organic Act says there shall be a Probate Court with certain powers, it is not reasonable to suppose that the Legislature shall go and extend those powers; they might as well give Probate jurisdiction to the District Courts as to give criminal
+jurisdiction to the Probate Courts.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">When the Organic Act says the jurisdiction of the Probate Court shall be as limited by law, it means that the shall be, as it is understood, as limited by the laws of the United States. It seems that the Legislature has vested them with criminal jurisdiction to prevent the District Court from having anything of this kind to do. The reasons for this legislation it is not my object to speak of at present, We say they have no power to do so.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">The fact of a person having been before that court is no bar to his coming before this; it is no more bar than it would be if he had been brought before a vigilance committee in <placeName type="state" key="California">California</placeName>. Any person suing in that court, would be liable in a civil action for damages.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="TerritorialAdministration">I do this to impress upon you the necessity of the District Court carrying out its jurisdiction and punishing criminals. At the last session of the Legislature I understand that a code commission was appointed to revise the laws, and I hope that they will take this subject into consideration and make such provision as will enable the court to do its duty.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">There is another general matter to which I wish to call your attention. There has been another attempt to destroy this court, to destroy its usefulness, to bring the judge and the business of the court into disrepute before the people, even to bring the jurors into disrepute. There is no question about this; I read it in the <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, the organ of the church. In that the judges and the members of the bar are abused in all kinds of language, in a manner that is calculated to injure them before the people. And in that organ also the jurors are abused and spoken of in language that is calculated to influence their minds. I say these things are in that paper, the only one published at the time in the Territory, and I say it is proper for me to mention these things.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">These things were enforced by one who was at that time the Governor, the Executive of the Territory. When you see a person of that kind who is bound to enforce law, using language of that abusive character, the court thinks it is within its province to repel such insinuations as are there cast upon it. So far as the attorneys are concerned I feel compelled to say that such assertions as are there made are not true.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">With regard to the jurors who are selected from the community for their good moral character, I say it is proper for you to disregard all outside influences. I understand that the person who was then the Executive had a suit in the court, and because he could riot get the control of the minds of the jurors he made those remarks. I speak of it because it was an effort which was made to bring an influence to destroy the independence of the jurors, and to destroy the efficiency of the court. These having been made to destroy your efficiency, you should manifest that you are not to be governed by these outside influences that are brought to bear and operate upon the minds of the community.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="WesternViolence">I said to you in the outset that a great number of cases had come to my knowledge of crimes having been committed through the country, and I shall take the liberty of naming a few of them. The persons committing those offences have not been prosecuted, the reasons why I cannot tell, but it strikes me that those outside influences have prevented it. If you do your duty you will not neglect to inquire into those matters, or allow the offenders to go unpunished.</seg> I may mention the Mountain Meadow murder, where <seg type="Massacre" subtype="Casualties">a whole train was cut off</seg>, <seg type="Massacre" subtype="Survivors">except a few children who were too young to give evidence in court</seg>. <seg type="Blame" subtype="IndiansLDSInfluence">It has been claimed that this offence was committed by Indians, but there is evidence that there were others who were engaged in it besides.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Blame" subtype="IndiansLDSInfluence">When the Indians commit crimes they are not so discriminate as to save children; they would not be so particular as to save the children and kill the rest. I say you may look at all the crimes that have been committed in the Western country by the Indians, and there is no case where they have been so careful as to save the innocent children.  But if this be not enough, we have evidence to prove that there were others there engaged in it.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Spoils">A large body of persons leaving Cedar City, armed, and after getting away were organized, and went and returned with the spoil</seg>. Now there are persons who know that there were others engaged in the crime; I brought a young man with me who saw persons go out in wagons with arms, others on horseback, were away a day or two <seg type="Massacre" subtype="Spoils">and came back with the spoil. The Indians complain that in the distribution of the property they did not get their share, they seem to think that the parties engaged with them kept the best and gave them the worst.</seg> The chief there (Kanosh) is equally amenable to law, and liable to be punished, and I suppose it is well known that he was engaged in assisting to exterminate <seg type="Massacre" subtype="Casualties">the hundred persons that were in that  train</seg>. I might name to you persons that were there; a great number of them I have had named to me.</seg> And yet notwithstanding this crime has been committed, there has been no effort made to punish those individuals. I say then, gentlemen, it is your duty to look after that, and if it is a fact that they have been guilty of that offence, indict them, send for them and have them brought before this court.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder"><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="ParrishMurder">I might bring your attention to another case, near here, at <placeName type="settlement" key="Springville, UT">Springville</placeName>; that is the case of the Parrishes and Potter Springville is a village of several hundred inhabitants.  There is one young man whom it was intended to kill. He ran to his uncle's, and was followed to his uncle's house. Here are three persons killed, and the criminal goes unpunished.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="ParrishMurder">There can be no doubt but by the testimony of young Parrish that you will be able to identify those persons who were connected with it. He can tell you who was engaged in it, and who followed him to the house <unclear /> his uncle. Here are three persons that were butchered in a most inhuman manner, and the offenders have not been brought to justice.  This is sufficient to show that there has been an effort to cover up instead of to bring to light and punish.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">At the same place there was another person killed, <persName key="Fobbs, Henry">Henry Fobbs</persName>, who came in from <placeName type="state" key="California">California</placeName> and was going to the States, but got in here then the difficulties arose between this community and the General Government and was detained. When <persName key="Fobbs, Henry">Henry Fobbs</persName> was here, he made his home at <persName key="Terry, Partial">Partial Terry</persName>'s staid there a few weeks; during that time his horse and revolver were stolen; he made his escape, tried to get to Bridger, was caught brought back and murdered; and that is the last of <persName key="Fobbs, Henry">Henry Fobbs</persName>. No investigation has been made; his body has been removed several times, so that now, perhaps, it could not be found. Shortly afterwards his horse was traded off by <persName key="Terry, Partial">Terry</persName>. Here is a man said to be killed by the Indians, and then his horse is taken by Mr. <persName key="Terry, Partial">Terry</persName> and traded for sheep.  It seems to me that these are matters that you ought to investigate. <persName key="Fobbs, Henry">Fobbs</persName>, I believe lived in the State of Illinois; he had a wife and children and was very anxious to get back; and I suppose his wife is still anxious about him; but as to what has become of him she cannot tell. I say this case ought to come under your notice and be investigated, and the offenders punished; don't let them go unpunished.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">Then there was <persName key="Jones, Henry">Henry Jones</persName> that was murdered up here; I believe he was first castrated up in the city, then went to <placeName type="settlement" key="Payson, UT">Payson</placeName>, was chased to <orgName type="military" key="Pond Town Fort">Pond Town</orgName> and was shot there.&#8212; It is said that he committed some offence.&#8212; But if persons do commit offences, the public have no right to take the law into their own hands; they have no right to take persons and punish them. I understand that he was castrated; that he came down here, that he was killed, and the house in which he and his mother had lived was pulled down.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="ParrishMurder">There is another matter to which I wish to call your attention. A few days before the matter of the murder of <persName key="Parrish, William"><persName key="Parrish, 'Beason'">the Parrishes</persName></persName> and <persName key="Potter, 'Duff'">Potter</persName>, the stable of <persName key="Parrish, William">Parrish</persName> was broken into and his carriage and horses were taken out; this was done in the night. These horses have never been returned. That woman, the wife of Mr. <persName key="Parrish, Williaim">Parrish</persName>, told the that, since then, at times, she had lived on bread and water, and still there are persons in this community riding about with those horses. Mr. <persName key="Gee, Lysander">Lysander Gee</persName> has those horses; he says that a few days after they were stolen they were given to him, and that he was directed to give them to no person whatever.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="ParrishMurder">Now it is a strange kind of matter that persons should go to Parrish's, break open his stable and rob him, and then take the horses to Mr. <persName key="Gee, Lysander">Lysander Gee</persName> and tell him to keep them. It does not look reasonable. It would look more reasonable to suppose that Mr. <persName key="Gee, Lysander">Lysander Gee</persName> was engaged in it himself, and it is an outrageous thing that this woman, one of whose children was killed with her husband, has been obliged to live in the very dregs of poverty. I say bring that man up and compel him to restore those horses, and give the property back to her, and do not allow her to live in poverty while others are riding about the country here with her husband's property.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh"><seg type="Context" subtype="ParrishMurder">Young Mr. Parrish is here, if the grand jury desire to have him they can use him as a witness.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">It is not pleasant to talk about these things, but the crimes have been committed, and if you desire you can investigate them. My desire is that the responsibility shall be with the grand jury and not with the court; all the responsibility shall be with you, and the question is with you whether you will bring those persons to trial.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">I have hereby named those few things; there has been a great deal of crime committed, and there is a way to punish those who have commited them.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">I hear every day of cases of larceny, and an officer is now after a number who are engaged in committing depredations. A great many cases have been committed near <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>, such as I shall call the attention of the Territorial Attorney to, such as buying soldiers' clothes. Unless you faithfully discharge your duty I cannot see how you are to escape from the influence of these cases of larceny that have been committed. I therefore present these for the purpose of having you promptly discharge your duty.</seg></p>
+ 
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">When you retire you will elect your clerk; and it is the desire of the court to expedite business, you will therefore be permitted to meet upon your own adjournment. If time is required, the court will adjourn from time to time to give it to you.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">To allow these things to pass over gives a color as if they were done by authority. <seg type="Blame" subtype="LDS_LDSLeadership">The very fact of each a case as that of the Mountain Meadows shows that there was some person high in the estimation of the people, and it was done by that authority</seg>; and <seg type="Context" subtype="ParrishMurder">this case of the Parishes shows the same</seg>, and unless you do your duty, such will be the view that will be taken of it.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">You can know no law but the laws of the United States and the laws you have here.&#8212; No person can commit crimes and say they are authorized by higher authorities, and if they have any such notions they will have to despel them.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">I saw something said in that paper of some higher law. It is, perhaps, not proper to mention that, but such teachings will have their influence upon the public mind.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Cradlebaugh">Gentlemen, I have nothing further to say to you. The Marshal will find you a room, and the court will afford you every facility in its power. The District Attorney will be with you, and the court will not object to his being present at the examination of witnesses,  but it will afford you all the aid that may be reqired by you.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

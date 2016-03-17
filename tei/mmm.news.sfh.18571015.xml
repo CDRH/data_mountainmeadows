@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfh.18571015">
+    <teiHeader>
+	<fileDesc>
+	   <titleStmt>
+		<title level="m" type="main">The Emigrant Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfh.18571015</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">A report of Orson Hyde's letter to San Bernardino detailing the massacre as reported by "settlers in the vicinity."</note>
+	    </notesStmt>
+
+	   <sourceDesc>
+		<bibl>
+		    <title level="a">The Emigrant Massacre.</title>
+		    <title level="j">San Francisco Herald</title>
+		    <author>Editors, San Francisco Herald</author>
+		    <publisher>San Francisco Herald</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1857-10-15">1857-10-15</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Indian</term>
+	    </keywords>
+	   <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	   </keywords>
+    	</textClass>
+   </profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2007-05-31"><name>Leslie Working</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.sfh.18571015.001"/>
+
+<head>The Emigrant Massacre.</head>
+<opener>
+<salute>Editor of the San Francisco Herald&#8212;</salute></opener>
+
+<p>I have just had a conversation with Mr. B., who has read a letter from <persName key="Hyde, William">Orson Hyde</persName>, received here the day before yesterday, (Oct. 7th,) from <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, at which place  <persName key="Hyde, William">Hyde</persName> recently arrived, with an escort of thirty men, from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and where his letter was written to a fellow Mormon here, Mr. L. He writes, that he left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> just two days after the unfortunate emigrant train and passed that place, and overtook them in time to save <seg type="Massacre" subtype="Survivors">the children remaining alive &#8212; fifteen infants only</seg>; that <seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">the bodies of 118 persons, men, women, and children</seg>, were lying upon the ground, a prey to the buzzards</seg>, many of whom were of the "back out order," who had joined the California emigrant train for security in traveling.  <persName key="Hyde, William">Hyde</persName> writes, that <seg type="Source" subtype="WordofMouth">he learned from the settlers in the vicinity of the place of the massacre, that <seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">the Indians</seg> fired upon the camp about two hours before day, killing a large number, and then retreated. The emigrants then formed a corral with their wagons, and at daylight the Indians returned to the attack. That the fight lasted "two days," when <seg type="Massacre" subtype="Surrender">the emigrants sent out a little girl about twelve years old with a flag of surrender; <seg type="Massacre" subtype="Casualties">that she was killed, and the entire train destroyed</seg></seg>, <seg type="Massacre" subtype="Aftermath">leaving the bodies upon the ground</seg></seg></seg>, <seg type="Massacre" subtype="Casualties">which  <persName key="Hyde, William">Orson Hyde</persName> himself counted (118,)</seg> <seg type="Massacre" subtype="Survivors">he arriving at the spot just in time to gather up the fifteen infants, which he brought to San Bernardino.</seg>  <persName key="Hyde, William">Hyde</persName> is going directly back to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and takes, per <persName key="Young, Brigham">Brigham Young</persName>'s instructions, a large number of Mormons with him. The recipient of this letters thinks the fate of the "back outs" just and merited. <seg type="Blame" subtype="LDS_LDS">My informant don't believe it was the Indians who killed the emigrants.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

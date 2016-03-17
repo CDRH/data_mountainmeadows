@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.asgd.18580417">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Meeting in Newton County</title>
+                <title level="m" type="sub"></title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.asgd.18580417</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>      
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+	
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Arkansas State Gazette and Democrat</title>
+		    <title level="a" type="main">Meeting in Newton County</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Little Rock, AR</pubPlace>
+	 	    <date when="1858-04-17">April 17,1858</date>
+		    <biblScope type="page">2</biblScope>
+		</bibl>
+	    </sourceDesc>
+
+	    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term> 
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-03"><name>Jaclyn Cruikshsank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2008-08-11"><name>Katie Heupel</name> Original Transcription</change>
+	<change when="2008-08-11"><name>Katie Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.asgd.18580417.001"/>
+
+<head type="main">MEETING IN NEWTON COUNTY.&#8212;</head>
+
+<p>At a public meeting of the citizens of <placeName type="county" key="Newton County, ">Newton county</placeName>, held in <placeName type="settlement" key="#Jasper, AR">Jasper</placeName> on the 15th day of March, 1858, in pursuance of public notice, the following proceedings were had, viz:</p>
+
+<p><persName key="McCoy, John">Mr. John McCoy</persName> explained the object of the meeting.</p>
+
+<p>On motion, <persName key="Brewer, Henry">Henry Brewer, Esq.,</persName> was called to the chair, and <persName key="Bennett, J. S.">J. S. Bennett</persName> was appointed Secretary. On motion, it was determined that the President appoint a committee of three to draft suitable resolutions expressive of the feelings of this meeting.</p>
+
+<p>Thereupon the following gentlemen were appointed such committee, to win: <persName key="Harrison, R. W.">R. W. Harrison, Esq.</persName>, <persName key="Bennett, Joseph">Joseph Bennett</persName> and <persName key="Gage, A. W.">A. W. Gage</persName>.</p>
+
+<p>On motion of <persName key="Cecil, John">Mr. John Cecil</persName> the Secretary was added to the committee.</p>
+
+<p>The committee after deliberating, reported the following preamble and resolutions, which were unanimously adopted:</p>
+
+<p><seg type="Source" subtype="Unattributed">Whereas, The painful intelligence has reached us that in July last, <seg type="Emigrants" subtype="WagonTrain">an emigrant train, with 130 persons</seg>, <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="AR">Arkansas</placeName></seg>, known as Baker's train, was <seg type="Blame" subtype="IndiansLDSInfluence">attacked by the Mormons and <orgName type="tribe" key="Southern Paiutes">Santa Clara Indians</orgName></seg>, <seg type="Massacre" subtype="Location">near the rim of the Great Basin, and about fifty miles from <placeName type="settlement" key="Cedar City, UT">Cedar City, in Utah Territory</placeName></seg>, and that <seg type="Massacre" subtype="Casualties">all the emigrants, <seg type="Massacre" subtype="Survivors">except 15 children</seg>, were then and there inhumanly massacred</seg>&#8212;<seg type="Massacre" subtype="Survivors">that the children, thus saved from the dreadful fate of their parent and company, were delivered over to the custody of the Mormons of <placeName type="settlement" key="Cedar City">Cedar City</placeName></seg>; and that among those who were with said train at the time of the massacre, were many of our most worthy, and much esteemed citizens from <placeName type="county" key="Carroll County, AR">Carroll</placeName>, <placeName type="county" key="Marion County, AR">Marion</placeName>, <placeName type="county" key="Newton County, AR">Newton</placeName>, and <placeName type="county" key="Johnson County, AR">Johnson</placeName> counties.</seg> And whereas a public meeting was held by the citizens of <placeName type="county" key="Carroll County, AR">Carroll county</placeName>, on the 1st day of Feb. last; therefore</p>
+
+<p><hi rend="italic">Resolved</hi>, That we heartily concur in the resolutions passed by them.</p>
+
+<p><hi rend="italic">Resolved</hi>, <seg type="Source" subtype="Unattributed">That as it appears from reliable information, <seg type="Massacre" subtype="Survivors">there were as many as fifteen children saved from destruction in said massacre, that we hereby call on the general government for assistance in reclaiming said children from their captors, and restoring them to their friends in Arkansas.</seg></seg></p>
+
+    <p><hi rend="italic">Resolved</hi>, <seg type="Source" subtype="Unattributed">That we request our representatives and senators in Congress to use their utmost influence to have passed an act making an appropriation for the purpose of defraying the expenses which it may be necessary to incur in bringing home and restoring to their friends, the aforesaid children, who were saved from the massacre.</seg></p>
+
+<p><hi rend="italic">Resolved</hi>, That we offer our heartfelt sympathy to the parents and relatives of <seg type="Massacre" subtype="Casualties">those unfortunate emigrants</seg>, who, as above stated, met such a lamentable fate.</p>
+
+<p><hi rend="italic">Resolved</hi>, <seg type="Reaction" subtype="Extra-legalViolence">That in our opinion the government should immediately adopt decisive measures for subduing the spirit of insubordination and treason now rife among the Mormons; and to that end should call on <placeName type="state" key="Arkansas">Arkansas</placeName> for volunteers, and that we, the people of <placeName type="county" key="Newton County, AR">Newton county</placeName>, hold ourselves in readiness to respond to such call.</seg></p>
+
+<p><hi rend="italic">Resolved</hi>, That the True Democrat, and Gazette and Democrat be requested to publish the proceedings of this meeting.
+<persName key="Brewer, Henry">HENRY BREWER, <hi rend="italic">President</hi></persName></p>
+
+<closer><signed><hi rend="italic"><persName key="Bennett, J. S.">J. S. Bennett, Secretary</persName></hi></signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

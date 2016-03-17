@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.alter.1932">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Utah: The Storied Domain</title>
+                <title level="m" type="sub"></title>
+                <author><forename>J.</forename> <forename type="middle">Cecil</forename> <surname>Alter</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.alter.1932</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Utah: The Storied Domain</title>
+                    <author><forename>J.</forename> <forename type="middle">Cecil</forename> <surname>Alter</surname></author>
+                    <publisher>The American Historical Society</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>285-295</extent>
+                    <date when="1932">1932</date>
+		            <note type="source">J. Cecil Alter. <hi rend="italic">Utah: The Storied Domain</hi>. Chicago: The American Historical Society, 1932. 285-295.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-06-28"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div1 type="chapter">
+
+<pb n="285" xml:id="mmm.uh.alter.1932.285"/>
+
+<head>CHAPTER XXIV</head>
+<head>MOUNTAIN MEADOWS AFFAIR</head>
+
+<cb n="1" />
+
+<p>Conspicuous among the news items carried in <hi rend="italic">The News</hi>, <hi rend="italic">The Star</hi>, and other contemporaneous periodicals affecting <placeName type="state" key="Utah">Utah</placeName> and her people at this time were references to the Mountain Meadow massacre, which <seg type="Massacre" subtype="Dates">occurred a year or two before</seg>. The other unrelated items are inserted in their chronological order, in the hope they will be no more in the way than they were in their original place when first run. They all help to picture the conditions and times.</p>
+
+<floatingText>
+<body>
+
+<opener><hi rend="italic">The Deseret News</hi>, February 16, 1859</opener>
+
+<p>We present to the people the Deseret Alphabet, but have not adopted any rules to bind the taste, judgment or preference of any. Such as it is you have it, and we are sanguine that the more it is practised and the more intimately the people become acquainted with it, the more useful and beneficial it will appear.</p>
+
+<p>The characters are designed to represent the sounds for which they stand, and are so used. Where one stands alone, the name of the character or letter is the word, it being the only sound heard. We make no classification into vowels, consonants, &amp;c., considering that to be of little or no consequence; the student is therefore at liberty to deem all the characters vowels, or consonants, or starters, or stoppers, whatever else he pleases.</p>
+
+<p>In the orthography of the published examples, Webster's pronunciation will be generally followed, though it will be varied from when general usage demands. All words having the same pronunciation will be spelled alike, and the reader will have to depend upon the context for the meaning of such words. . . . .</p>
+    
+</body>
+</floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+<floatingText>
+<body>
+<head>INDIAN HOSTILITIES</head>
+    
+<opener>
+
+<address><addrLine>Executive Office, <placeName type="state" key="Utah Territory">Utah</placeName>:</addrLine></address>
+
+<dateline><name type="place">G. S. L. City</name>, <date>Feb. 14, 1859</date>.</dateline>
+
+<salute>MR. EDITOR:&#8212;</salute>
+
+</opener>
+
+<p><seg type="Blame" subtype="IndiansIndependently">I have received reliable information that several acts of hostility have been committed recently by the Piede and Pi-Ute Indians between <geogName type="valley" key="Mountain Meadows">the "Mountain Meadows"</geogName> and "Santa Clara" on the San Bernardino route to <placeName type="state" key="California">California</placeName>.</seg></p>
+
+<cb n="2" />
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">The necessary requisition has been made upon the officer in command of this department, who will detach a suitable military force to be stationed at such points on the route as will secure the emigration and other travelers from Indian hostilities.</seg></p>
+
+<p>General <persName key="Johnston, Albert Sidney">Johnston</persName> has informed me that the troops assigned to this duty will move soon after the first of March from Camp Floyd.</p>
+
+<p><persName key="Forney, Jacob">J. Forney</persName>, Superintendent of Indian Affairs, will visit the tribes in advance of the troops.</p>
+
+<p>Please publish the above note for the information of the public, and oblige,</p>
+
+<closer>
+
+<signed><persName key="Cumming, Alfred">A. CUMMING</persName>,</signed>
+
+<signed>Governor <placeName type="state" key="Utah Territoy">Utah Territory</placeName>.</signed>
+</closer>
+        
+</body>
+</floatingText> 
+
+<milestone unit="section" rend="horbar"/>    
+
+<floatingText>
+<body>
+<head>FIRST MASONIC LODGE</head>
+
+<p>On March 6, 1859, the first Masonic Lodge in <placeName type="state" key="Utah Territory">Utah</placeName> was organized at Camp Floyd, under the name, Rocky Mountain Lodge No. 205.</p>
+
+</body>
+</floatingText>
+    
+<milestone unit="section" rend="horbar"/>
+
+<floatingText>
+<body>
+        
+<opener><hi rend="italic">The Deseret News</hi>, March 9, 1859</opener>
+
+<head><persName key="Wilson, Alexander">ALEXANDER WILSON</persName></head>
+
+<head>U. S. ATTORNEY FOR <placeName type="state" key="Utah Territory">UTAH</placeName> TERRITORY</head>
+
+<p>Will attend promptly to professional business intrusted to him. OFFICE&#8212;with Dr. <persName key="Forney, Jacob">Forney</persName>, Superintendent of Indian Affairs. <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>.	51-3m</p>
+
+</body>
+</floatingText>
+
+<milestone unit="section" rend="horbar"/>
+    <floatingText>
+        <body>
+            
+<p><hi rend="center">IMPORTANT ANNOUNCEMENT!</hi></p>
+
+<p>PLEASANT GROVE ROPE MANUFACTORY. The undersigned wishes to respectfully inform the public that he has commenced Rope manufacturing in all its branches and is prepared to furnish customers with</p>
+
+<p><hi rend="center">ROPES &amp; TWINE</hi></p>
+
+<p>of a superior quality at fair prices.</p>
+
+<p>FLAX, HEMP, OX &amp; HORSE HAIR taken in exchange, worked on shares or purchased at liberal prices.</p>
+
+<p>He also flatters himself from long experience in the business in England and the abundance of good material now on hand that he will be able to give entire satisfaction to all who may favor him with their patronage.</p>
+
+<closer>
+<signed><persName key="Owen, William O.">WM. O. OWEN</persName>,</signed>
+    <address><addrLine>50-3m	<placeName type="settlement" key="Pleasant Grove City, UT">Pleasant Grove City</placeName>.</addrLine></address>
+    </closer>
+            
+        </body>
+    </floatingText>
+
+<pb n="286" xml:id="mmm.uh.alter.1932.286"/>
+
+<cb n="1" />
+    
+    <floatingText>
+        <body>
+
+            <opener><hi rend="italic">The L. D. S. Millennial Star</hi>, No. 19, Vol. XXI,
+
+<dateline>May 7, 1859</dateline>
+
+<address><addrLine>President's Office.</addrLine>
+
+<addrLine><placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, March 10, 1859.</addrLine></address>
+
+<name><persName key="Calkin, A.">Elder A. Calkin</persName>.</name>
+
+<salute>Dear Brother,&#8212;. . . .</salute></opener>
+
+<p>The bulk of the army are at Camp Floyd passing the time as best they can&#8212;an army of observation, among so law-abiding a people, having but little to do except to attend drill, prepare and consume their rations, and hunt after deserters. There is a small detachment in <placeName type="county" key="Juab County, UT">Juab County</placeName> with some Government stock, another in <placeName type="county" key="San Pete County, UT">San Pete</placeName> for the same purpose, one at the Sevier Bridge, and another near <placeName type="settlement" key="Chicken Creek, UT">Chicken Creek</placeName>, on the south route, to stop deserters; and Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, who commenced holding court in <placeName type="settlement" key="Provo, UT">Provo</placeName> on the 8th inst., has one company of Infantry with him, professedly to serve as a lock-up in the absence of jails, when he well knew or should have known that the civil officers were all sufficient for such duty, or at least that the troops should not be quartered around a court in a peaceful city until it had been demonstrated that the civil authorities were insufficient. . . . .</p>
+
+<p>I remain, as ever, your brother in the Gospel,</p>
+
+<p><hi rend="right"><persName key="Young, Brigham">BRIGHAM YOUNG</persName>.</hi></p>
+            
+        </body>
+        </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+<floatingText>
+    <body>
+        
+    <p><hi rend="center"><hi rend="italic">The Deseret News</hi>, March 16, 1859</hi></p>
+
+<p><hi rend="center">(Reporter)</hi></p>
+
+<p><hi rend="center">DISTRICT COURT. 2nd JUDICIAL
+DISTRICT</hi></p>
+
+<p><hi rend="right"><placeName type="settlement" key="Provo, UT">Provo</placeName>, Tuesday, March 8, 1859, 11 a. m. </hi></p>
+
+<p>Court opened, Hon. <persName key="Cradlebaugh, John">John Cradlebaugh</persName> presiding. . . . . </p>
+
+<p>The grand jury were called into court to be further instructed in their duty, when his Honor said:&#8212;</p>
+
+<p>"Gentlemen of the jury, there is one of your number absent, (<persName key="Peck, Martin H.">Martin H. Peck</persName>) and it is important to have you all present in transacting business; however, it is important that I should speak to you of the manner of transacting business. . . . .</p>
+
+<p>Some United States troops are here. Perhaps it is an unusual thing for them to be here. I knew that there were those who were guilty, out by the camp, and also that there were many guilty around here, of numerous offences. I was informed that there was no prison here, and those troops were sent by the commanding General, at my request, to take care of the prisoners now in custody, and not to interfere with any one. They are here to take care of and preserve the peace. If prisoners are brought they will be taken care of, and the whole authority of the troops is to detain those persons in custody that may be taken prisoners, until they are called for by the court, and they have no power beyond that. . . . . </p>
+
+<cb n="2" />
+
+<p><hi rend="center">CHARGE</hi></p>
+
+<p>Orally delivered by Hon. <persName key="Cradlebaugh, John">John Cradlebaugh</persName> to the Grand Jury, <placeName type="settlement" key="Provo, UT">Provo</placeName>, Tuesday, March 8, 1859, 11 a. m.</p>
+
+<p><hi rend="center">(Reporter.)</hi></p>
+
+<p>I will say to you, Gentlemen of the Grand Jury, that, from what I learn, it has been some time since a court, having judicial cognizance in your district, was held. No person has been brought to punishment for some two years; and from what I have learned I am satisfied that crime after crime has been committed. . . . .</p>
+	
+<p>The persons committing those offences have not been prosecuted, the reasons why I cannot tell, but it strikes me that those outside influences have prevented it. If you do your duty you will not neglect to inquire into those matters, or allow the offenders to go unpunished. I may mention the Mountain Meadow murder, where <seg type="Massacre" subtype="Casualties">a whole train was cut off</seg>, <seg type="Massacre" subtype="Survivors">except a few children who were <choice><sic>two</sic><corr>too</corr></choice> young to give evidence in court</seg>. <seg type="Blame" subtype="IndiansIndependently">It has been claimed that this offence was committed by Indians</seg>, <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">but there is evidence that there were others who were engaged in it besides</seg></seg>. . . . .</p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">A large body of persons leaving <placeName type="settlement" key="Cedar City, UT">Cedar city</placeName>, armed, and after getting away were organized, and went and returned with the spoils.</seg> Now there are persons who know that there were others engaged in the crime; <seg type="Massacre" subtype="Spoils">I brought a young man with me who saw persons go out in wagons with arms, others on horseback, were way a day or two and came back with the spoil. The Indians complain that in the distribution of the property they did not get their share, they seem to think that the parties engaged with them kept the best and gave them the worst.</seg> The chief there (<persName key="Kanosh">Kanosh</persName>) is equally amenable to law, and liable to be punished, and I suppose it is well-known that he was engaged in assisting to exterminate <seg type="Massacre" subtype="Casualties">the hundred persons that were in that train</seg>. . . . .</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">I might bring your attention to another case, near here, at <placeName type="settlement" key="Springville, UT">Springville</placeName>; that is the case of <persName key="Parrish, Beatson"><persName key="Parrish, William">the Parrishes</persName></persName> and <persName key="Potter, Duff">Potter</persName>. <placeName type="settlement" key="Springville, UT">Springville</placeName> is a village of several hundred inhabitants. There is one young man whom it was intended to kill. He ran to his uncle's, and was followed to his uncle's house. Here are three persons killed, and the criminal goes unpunished. . . . . .</seg></p>
+
+<p>At the same place there was another person killed; <persName key="Fobbs, Henry">Henry Fobbs</persName>, who came in from <placeName type="state" key="California">California</placeName> and was going to the States, but got in here when the difficulties arose between this community and the General Government, and was detained. When <persName key="Fobbs, Henry">Henry Fobbs</persName> was here, he made his home at Partial Terry's, staid there a few weeks; during that time his horse and revolver were stolen; he made his escape, tried to get to Bridger, was caught, brought back and murdered; and that is the last of <persName key="Fobbs, Henry">Henry Fobbs</persName>. . . . .</p>
+
+<pb n="287" xml:id="mmm.uh.alter.1932.287"/>
+
+<cb n="1" />
+
+<p>Then there was <persName key="Jones, Henry">Henry Jones</persName> that was murdered up here; I believe he was first castrated up in the city, then went to <placeName type="settlement" key="Payson, UT">Payson</placeName>, was chased to <placeName type="settlement" key="Salem, UT">Pond Town</placeName> and was shot there. It is said that he committed some offence. But if persons do commit offences, the public have no right to take the law into their own hands; they have no right to take persons and punish them. I understand that he was castrated; that he came down here, that he was killed and the house in which he and his mother lived was pulled down. . . . .</p>
+        
+    </body>
+    </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+<floatingText>
+    <body>
+
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, March 23, 1859</hi></p>
+
+<p><hi rend="center">TOBACCO LEAF WANTED</hi></p>
+
+<p>I PURPOSE Manufacturing Chewing tobacco, Cigars, Snuff, Fine and coarse Cut Smoking tobacco, in all their variety, from the plant grown in the valley.</p>
+
+<p><hi rend="right"><persName key="Hampton, Benjamin">BENJ. HAMPTON</persName>, 16th Ward.</hi></p>
+
+<p>If Farmers will put in crops, they will find it will pay well.</p>
+
+<p><hi rend="right">51-5	B. H.</hi></p>
+        
+    </body>
+    </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+    <floatingText>
+        <body>
+
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, March 30, 1859</hi></p>
+
+<p><hi rend="center">DISCHARGE OF THE GRAND JURY. . . . </hi></p>
+
+<p>This day makes two weeks from the time you were impannelled. At that time, the court was very particular to impress upon your minds the fact that it was desirable to expedite business as speedily as possible. . . . .</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The court also called your attention to the fact that there had been, in connection with this legislation, an attempt by persons within <placeName type="state" key="Utah Territory">the Territory</placeName> to bring the United States Courts into disrepute with this people. It particularly called your attention to the fact that <persName key="Young, Brigham">Brigham Young</persName>, the late Executive of <placeName type="state" key="Utah Territory">the Territory</placeName>, at the time when he was a sworn officer of the government&#8212;sworn to see that the laws were executed&#8212;had taken occasion to denounce the courts as vile and corrupt; also that he had taken occasion to denounce all attorneys and jurors of the court, and that this was (lone to prevent the proper and due administration of justice in <placeName type="state" key="Utah Territory">the Territory</placeName>. . . . .</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder"><seg type="Context" subtype="TerritorialAdministration">The court has had occasion to issue bench warrants to arrest persons connected with the Parrish murder; had had them brought before it and examined; the testimony presents an unparalelled condition of affairs. It seems that the whole community were engaged in committing that crime. Facts go to show it. There seems to be a combined effort on the part of the community to screen the murderers from the punishment due them for the murder they have committed.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">I might call your attention to the fact that</seg> 
+
+<cb n="2" />
+
+<seg type="Context" subtype="TerritorialAdministration">when officers seek to arrest persons accused of crimes they are not able to do so; the parties are screened and secreted by the community. <seg type="Context" subtype="ParrishMurder">Scarcely had the officers arrived in sight of the town of <placeName type="settlement" key="Springville, UT">Springville</placeName> before a trumpet was sounded from the walls around the town. This, no doubt, was for the purpose of giving the alarm. The officers were there to make arrests. The officers leave the town, and in a short time a trumpet sounds again from the wall for the purpose of announcing that the danger was over. Witnesses are screened; others are intimidated by persons in that community.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="ParrishMurder">An officer of this court goes to <placeName type="settlement" key="Springville, UT">Springville</placeName>, meets the Bishop of the town, asks him about a certain man, for whom he has a writ, he having understood that the man was a scribe in his office. He (the Bishop) tells him that he has gone to Camp Floyd, while the fact is, the person the officer desires to find is at the time in sight in the street. We have here a Bishop lying to prevent the service of the process of this court, and aiding in preventing criminals being brought to punishment. . . . .</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="ParrishMurder">Such acts and conduct go to show that the community there do not desire to have criminals punished; it shows that the <persName key="Parrish, Beatson"><persName key="Parrish, William">Parrishes</persName></persName> and <persName key="Potter, Duff">Potter</persName> were murdered by counsel, that it was done by authority; the testimony goes to show that the persons engaged in committing these murders are officers in that community, policemen, and that they have since been promoted for committing these hellish crimes. . . . .</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="ParrishMurder">You have had sufficient time to examine those cases; more than two days ago, you had all the testimony before you in the Parrish case and for some cause you refuse to do anything.</seg></seg></p>
+
+<p>Your duty is to find bills when there is sufficient testimony to satisfy you of the probability of the party's guilt. The Court has been patient with you; it has given you time; it has endeavored to be patient, that you might have ample opportunity to do your duty.</p>
+
+<p>The court has no desire but to do its duty; to punish offenders and enforce the law&#8212;it can have no other purpose or motive.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">If it is the desire of this community that persons guilty of crimes shall be screened, and that high, notorious crimes shall be covered up, it will have to be done without the aid of this court. . . . .</seg></p>
+
+<p>The court feels that it has discharged its duty; it has furnished you every facility for discharging yours. Still, you make no report; to continue you longer in service would be wrong&#8212;the public interest would neither be promoted or benefited by it.</p>
+
+<p>You are therefore discharged from further service. . . . .</p>
+
+<pb n="288" xml:id="mmm.uh.alter.1932.288"/>
+
+<figure xml:id="mmm.uh.alter.1932.288.figure">
+<p>CITY AND COUNTY BUILDING, <placeName type="settlement" key="Provo, UT">PROVO</placeName></p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="289" xml:id="mmm.uh.alter.1932.289"/>
+
+<cb n="1" />
+
+        </body>
+    </floatingText>
+    
+    <floatingText>
+        <body>
+
+<p><hi rend="center">(Reporter)</hi></p>
+
+<p><hi rend="center">COURT DOINGS AT <placeName type="settlement" key="Provo, UT">PROVO</placeName></hi></p>
+
+<p><hi rend="right">Saturday Morning, 9 A. M.,</hi></p>
+
+<p><hi rend="right">March 26, 1859.</hi></p>
+
+<p><persName key="Winn, John">John Winn</persName> and <persName key="Merrill, Justin J.">Justin J. Merrill</persName>, of <placeName type="settlement" key="Lehi, UT">Lehi</placeName>, relative to the death of <persName key="Lance, Jacob">Jacob Lance</persName>, late of <placeName type="settlement" key="American Fork, UT">American Fork</placeName>, were examined.</p>
+
+<p>Report says that the man <persName key="Lance, Jacob">Lance</persName> committed a rape on a Danish woman, near <placeName type="settlement" key="Salt Lake City, UT">Lake City</placeName>; that he was afterwards taken into custody by a police officer, conveyed to <placeName type="settlement" key="Lehi, UT">Lehi</placeName>, where he underwent an examination in part, but that before the day to which the examination was adjourned arrived, a woman, or small built man, in female apparel, rushed into the room, while part of the guard was absent, split open <persName key="Lance, Jacob">Lance</persName>'s head with an axe, and disappeared immediately.</p>
+
+<p>Nothing of importance was elicited from the above witnesses, further than that <persName key="Lance, Jacob">Lance</persName> was, on the evening that he received the fatal blow, in the custody of <persName key="Rhodes, Alonzo P.">Alonzo P. Rhodes</persName>, <persName key="Coleman, George">George Coleman</persName> and &#8212;&#8212; (Name of the third person not heard by reporter.) . . . .</p>
+            
+        </body>
+    </floatingText>
+    
+<milestone unit="section" rend="horbar"/>
+    <floatingText>
+        <body>
+
+<p><hi rend="center">MEMORIAL AND PETITION</hi></p>
+
+<p>To his Excellency <persName key="Cumming, Alfred">Alfred Cumming</persName>, Governor of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.</p>
+
+<p>Sir:&#8212; . . .</p>
+
+<p>We, your memorialists, citizens of the United States in the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, respectfully petition your Excellency to use all the influence and authority of your official position as Governor of <placeName type="state" key="Utah Territory">this Territory</placeName> to remove all government troops from in and around the court now in session in the city of <placeName type="settlement" key="Provo, UT">Provo</placeName> and from in and around said city, and to prevent any troops being located in or infringingly near any of our thickly settled villages, towns, or cities, and to fairly and fully, at your earliest convenience, report to the proper Department in <placeName type="settlement" key="Washington City, UT">Washington city</placeName> the official proceedings of Judge <persName key="Cradlebaugh, John">John Cradlebaugh</persName>, in the 2nd Judicial District of <placeName type="state" key="Utah Territory">this Territory</placeName>, and, for such wise, loyal, and just action by your Excellency, your memorialists and petitioners will ever pray.</p>
+
+<p><placeName type="state" key="Utah Territory">UTAH TERRITORY</placeName>, March 22, 1859.</p>
+
+<p>Copies of the foregoing Memorial and Petition to His Excellency <persName key="Cumming, Alfred">Alfred Cumming</persName>, Governor, have been circulated throughout <placeName type="state" key="Utah Territory">the Territory</placeName>, and signed by the people generally; one of which contained the names of about three thousand five hundred citizens, was presented to him on the 25th inst.</p>
+
+        </body>
+        </floatingText>
+
+            <milestone unit="section" rend="horbar"/>
+
+<floatingText>
+    <body>
+
+<p><hi rend="center">BY <persName key="Cumming, Alfred">ALFRED CUMMING</persName>,</hi></p>
+
+<p><hi rend="center">GOVERNOR, <placeName type="state" key="Utah Territory">UTAH TERRITORY</placeName>.</hi></p>
+
+<p><hi rend="center">A PROCLAMATION</hi></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Whereas, one company of the U. S. Infantry, under the command of Captain <persName key="Heth, Henry">Heth</persName>, is now stationed around the Court House at <placeName type="settlement" key="Provo, UT">Provo</placeName>, where the Hon. <persName key="Cradlebaugh, John">John Cradlebaugh</persName> is now </seg> 
+
+<cb n="2" />
+
+<seg type="Reaction" subtype="MilitaryRetaliation">holding court, and eight additional companies of infantry, one of artillery, and one of cavalry, under the command of Major <persName key="Paul, Gabiel R.">Paul</persName>, are stationed within sight of the Court House; and,</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Whereas, the presence of soldiers has a tendency, not only to terrify the inhabitants and disturb the peace of <placeName type="state" key="Utah Territory">the Territory</placeName>, but also to subvert the ends of justice, by causing the intimidation of witnesses and jurors; and,</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Whereas, this movement of troops has been made without consultation with me, and, as I believe, is in opposition to both the letter and spirit of my instructions; and,</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Whereas, Genl. <persName key="Johnston, Albert Sidney">Johnston</persName>, commander of the military department of <placeName type="state" key="Utah Territory">Utah</placeName>, has refused my request that he would issue the necessary orders for the removal of the above mentioned troops:</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Now, therefore, I <persName key="Cumming, Alfred">ALFRED CUMMING</persName>, Governor of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, do hereby publish this my solemn protest against this present military movement, and also against all movements of troops, incompatible with the letter and spirit of the annexed extract from the instructions received by me from government for my guidance while Governor of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.</seg></p>
+
+<p>In testimony whereof, I have hereunto set my hand, and caused the seal of <placeName type="state" key="Utah Territory">the Territory</placeName> to be affixed. Done at <placeName type="settlement" key="Salt Lake City, UT">Great L. S. Salt Lake City</placeName>, this twenty-seventh day of March, A. D. eighteen hundred and fifty-nine, and of the Independence of the United States the eighty-third.</p>
+
+<p><hi rend="right"><persName key="Cumming, Alfred">ALFRED CUMMING</persName>.</hi></p>
+
+<p>By the Governor:</p>
+
+<p><persName key="Hartnett, John">JOHN HARTNETT</persName>, Secretary of State.</p>
+
+    </body>
+    </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+    
+    <floatingText>
+        <body>
+ 
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, April 6, 1559</hi></p>
+
+<p><hi rend="center">(Reporter)</hi></p>
+
+<p><hi rend="center">COURT DOINGS AT <placeName type="settlement" key="Provo, UT">PROVO</placeName> . . . .</hi></p>
+
+<p><hi rend="right">Saturday, (April 2, 1859.)</hi></p>
+
+<p>Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> summed up the case as follows:</p>
+
+<p>I must say that until I commenced the examination of this case, I supposed we were living in a land of liberty&#8212;in a land where any person could go to any place where he thought proper to go; I had also thought that we lived in a land of religious toleration, where persons were allowed to worship God according to the dictates of their own consciences, but the evidence that has been introduced shows, at least, that the people, so far as the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> is concerned, do not enjoy those blessings of the Constitution.</p>
+
+<p><seg type="Context" subtype="LDSApostates">It would seem that the people are not only deprived of their liberty religiously, but of that which is guaranteed by the Constitution of the United States. If, for example, they fall from the faith of the religious denomination that prevails here, the evidence goes to show</seg>
+
+<pb n="290" xml:id="mmm.uh.alter.1932.290"/>
+
+<cb n="1" />
+
+<seg type="Context" subtype="LDSApostates">that their throats must be cut; if they attempt to leave the country the same thing is to follow; therefore, I think I am right in saying that these blessings of the Constitution do not accrue to <placeName type="state" key="Utah Territory">this Territory</placeName>.</seg></p>
+
+<p><seg type="Context" subtype="LDSApostates">(When and where, in <placeName type="state" key="Utah Territory">Utah</placeName>, has any person's throat been cut, or any one in the least personally injured, or in any way hindered from leaving <placeName type="state" key="Utah Territory">this Territory</placeName>, on the ground of his, her or their apostacy? Never and nowhere, so far as a long and intimate acquaintance with civil and ecclesiastical territorial affairs gives us reliable information, 'therefore' the Judge's 'I think I am right' is widely at variance with what we are sanguine are the facts upon this point.&#8212;Ed. News.) . . . .</seg></p>
+
+<p>In this case, the testimony that has been adduced shows that there has not been that toleration that is right for the people to enjoy. Why, let us look at it. We find here, in the village of <placeName type="settlement" key="Springville, UT">Springville</placeName>, but two years ago, two or three persons make up their minds to leave there; there is no complaint of their having done anything wrong, except a complaint in regard to their religious opinions, and that they are going to leave the place.</p>
+
+<p>(How could there be shown 'complaint of their having done anything wrong,' when only one side of the testimony was examined?&#8212;Ed.)</p>
+
+<p><seg type="Context" subtype="LDSApostates"><seg type="Context" subtype="ParrishMurder">Those persons leave, and before they are outside of their own homes, we find that two of them are most brutally murdered. A third one is killed, I suppose unintentionally killed&#8212;but two we find are murdered in a most brutal and inhuman manner, and I say for what cause? There was no other cause than that those persons entertained different sentiments from the people in <placeName type="settlement" key="Springville, UT">Springville</placeName>; there was no other reason, cause or motive for it. In looking at the testimony, we say that this is the state of the facts.</seg></seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">We find that Bishop <persName key="Johnson, Aaron">Johnson</persName>, the Mayor, and the policemen are engaged in that murder. We find council meetings are held, as they call them; that in those meetings the murders are determined upon. The meetings are held in the upper room of the Bishop's house, and those persons' lives are determined to be taken because they are leaving <placeName type="state" key="Utah Territory">the Territory</placeName>. Now, there is no doubt about this. . . . .</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">The evidence before the court goes to show that the entire officials, the Bishops, the justice of the peace, and the policemen, were all engaged in murdering the Parrishes, or in laying their plans. Some are more directly connected with it than others.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder">(How differently do persons view the same evidence! We have carefully examined all the evidence furnished by a remarkably accurate phonographic reporter, and can only conclude that 'the evidence before the court goes to show' that <persName key="Durfee, Abram">Durfee</persName>, <persName key="Potter, Duff">Potter</persName> and <persName key="Parrish, Beatson"><persName key="Parrish, William">two of the Parrishes</persName></persName> got into a row about matters best, </seg>
+
+<cb n="2" />
+
+<seg type="Context" subtype="ParrishMurder">if not only, known to themselves, and that <persName key="Potter, Duff">Potter</persName> and <persName key="Parrish, Beatson"><persName key="Parrish, William">two Parrishes</persName></persName> were killed.&#8212;Ed.). . . .</seg></p>
+        </body>
+        </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+            
+            <floatingText>
+                <body>
+
+<p><hi rend="right">(<placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>.)</hi></p>
+
+<p><hi rend="right">Monday, April 4&#8212;8:30 a. m.</hi></p>
+
+<p>Court met as per adjournment.</p>
+
+<p><seg type="Context" subtype="ParrishMurder">Case of <persName key="Parrish, Alvira L.">Alvira L. Parrish</persName> vs. <persName key="Johnson, Aaron">Aaron Johnson</persName>; writ of attachment returned&#8212;having been served, Sunday the 3d, on defendant's flouring mill. On motion of plaintiff's council, the case was continued.</seg></p>
+
+<p><seg type="Context" subtype="ParrishMurder"><persName key="Daley, John">John Daley</persName> and <persName key="Stout, Hosea">Hosea Stout</persName> having executed a bond of $1,000. Mr. <persName key="Daley, John">Daley</persName> was released on parole.</seg></p>
+
+<p>The Court made the following entry:&#8212;</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">This court has sought diligently, and faithfully to do its duty, to administer the laws of the United States and of <placeName type="state" key="Utah Territory">this Territory</placeName>. It could not have any other object. But at every turn it has had to encounter difficulties and embarrasments. Men high in authority in the Mormon Church, as well as men holding civil authority under the territorial government seem to have conspired to obstruct the course of public justice, and to cripple the earnest efforts of the court.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The whole community presents a united and organized opposition to the proper administration of justice; every art and every expedient have been employed to cover up and conceal crimes committed by Mormons. Witnesses have been prevented by threats of violence from obeying the summons of this court; others that have testified have been driven to seek safety in the protection of the United States troops stationed near here, who, it is proper to say, are here on the requisition of the court, and for whose presence the court is responsible. The absolute necessity of having these troops here has been fully demonstrated by all that has transpired during the session of the court.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">To crown all, the grand jury, sworn to perform a high public duty, has lent itself as a willing instrument to this organized opposition to the laws of the country and refused to meet its obligations.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">A most willing inclination has been manifested to prosecute Indians and other persons, not Mormons, for their offences, while Mormon murderers and thieves are allowed to go unpunished.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">This court determined, as its action manifests, that it did not intend to be used by this community for its protection alone, but that it will do justice to all, or it will do nothing.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">Not being able to do this, the court now adjourns without day.</seg></p>
+
+<p><hi rend="right"><persName key="Cradlebaugh, John">JNO. CRADLEBAUGH</persName>,</hi></p>
+
+<p><hi rend="right">Associate Justice, Sup. Court, </hi></p>
+
+<p><hi rend="right">Ex-Officio Judge 2nd Jud. Dist.</hi></p> 
+
+<p>A true copy.</p>
+
+<p><persName key="Scovil, Lucius">Lucius N. SCOVIL</persName>, clerk.</p>
+
+                </body>
+                </floatingText>
+
+<pb n="291" xml:id="mmm.uh.alter.1932.291"/>
+
+<cb n="2" />
+                    <floatingText>
+                        <body>
+
+<p><hi rend="center">LETTER FROM <placeName type="settlement" key="Manti, UT">MANTI</placeName></hi></p>
+
+<p>EDITOR DESERET NEWS:&#8212; . . . .</p>
+
+<p><persName key="Tintic">Tintic</persName> the notorious Ute chief died on the morning of the 15th inst. The Indians had a big pow-wow on the occasion, and killed eight horses to accompany him to the world of spirits. The citizens of <placeName type="state" key="Utah Territory">this Territory</placeName> who have been acquainted with his history will not much deplore his death.</p>
+
+<p><persName key="Arapene">Arapene</persName>, <persName key="Peteetnete">Peteetnete</persName> and <persName key="Sandpitch">Sandpitch</persName> with a large number of Indians are encamped four miles south of this place, they are a heavy tax upon the people as they are destitute of food, and have to be fed by the citizens; they are waiting for the superintendent, Dr. <persName key="Forney, Jacob">Forney</persName>, to visit them, but hope that his coming will not be prolonged, and that he will do something to relieve their necessities.</p>
+
+<p>The United States troops that have been quartered at <placeName type="settlement" key="Ephraim, UT">Ephraim</placeName> have been ordered to other points. . . . . </p>
+
+<p><hi rend="right">G. P.</hi></p>
+                        </body>
+                        </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+                    
+                    <floatingText>
+                        <body>
+                                                       
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, April 20, 1859</hi></p>
+
+<p><hi rend="center">OPPOSITION IS THE LIFE OF TRADE!</hi></p>
+
+<p>THE Subscriber having made important improvements in the manufacture of WHISKEY, is now enabled to sell it at</p>
+
+<p><hi rend="center">THREE DOLLARS A GALLON</hi></p>
+
+<p>His large rectifier is in successful operation, and he can now recommend it to the public as the most superior article ever brought into this market.</p>
+
+<p><persName key="Howard, William">WILLIAM HOWARD</persName>, Big Cottonwood Distillery, three miles south of <placeName type="settlement" key="Sugar House, UT">Sugar House</placeName>, or at Mr. <persName key="Clements, G.">G. Clements</persName>', <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>. 5-4</p>
+                            
+                        </body>
+                        </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+                            <floatingText>
+                                <body>
+
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, May 4, 1859</hi></p>
+
+<p><hi rend="center"><persName key="Williams, Thomas S.">THOMAS S. WILLIAMS</persName> ATTORNEY AT LAW</hi></p>
+
+<p>WILL practice in all the courts of <placeName type="state" key="Utah Territory">the Territory</placeName>, and especially in the U. S. District Courts, and Supreme Court. He will give efficient attention to all professional engagements.</p>
+
+<p>OFFICE&#8212;East side of East Temple st., one door north of the Post office.	9-3m</p>
+                                    
+                                </body>
+                                </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+                            
+                            <floatingText>
+                                <body>
+
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, May 11, 1859</hi></p>
+
+<p><hi rend="center">VISIT OF THE SUPERINTENDENT OF INDIAN AFFAIRS TO SOUTHERN <placeName type="state" key="Utah Territory">UTAH</placeName></hi></p>
+
+<p><hi rend="right"><placeName type="settlement" key="Salt Lake City, UT">G. S. L. City</placeName>, May 5, 1859. Hon. <persName key="Smith, Elias">Elias Smith</persName>:</hi></p>
+
+<p>Dear Sir:&#8212;Yesterday I returned from a laborious, though interesting trip through the extreme southern portion of <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+
+<p>The purpose of my visit was to see and learn the condition, locality and character of the Pi-ute tribe of Indians and to bring certain children to <placeName type="settlement" key="Salt Lake City, UT">this city</placeName>.</p>
+
+<cb n="2" />
+
+<p>The Pi-ute Indians, living in the southern part of <placeName type="state" key="Utah Territory">the Territory</placeName>, are divided into ten bands, each band numbering from 60 to 150, which live and roam on and adjacent to the Southern California road, from <placeName type="settlement" key="Beaver, UT">Beaver</placeName> to the <placeName type="state" key="California">California</placeName> line, and along the Santa Clara, Los Vegas, and the Virgin rivers. There is one principal chief, whose name is <persName key="Tut-se-guvvit">Tut-se-guvvit</persName>, whom all the bands recognize as their head. Each band has one or more sub-chiefs.</p>
+
+<p>I saw all the chiefs, and many of the Indians during my recent visit. The Pi-ute Indians are not an exception to the other Indians in <placeName type="state" key="Utah Territory">the Territory</placeName> in regard to poverty; if there is any difference, these are the most destitute. There is less game in the country claimed by the Pi-ute Indians than any other part of <placeName type="state" key="Utah Territory">the Territory</placeName>. The vegetation consists in a few scrubby cedars; cottonwoods on the banks of rivers; the cactus, bearing large pods, which, when roasted in ashes, are of indifferent taste; a few roots; some grass and weeds, the seeds of which are carefully gathered; and a peculiar shrub, called mesquite.</p>
+
+<p>A few hands cultivate small patches of land; already, however, most of the land, which is advantageously located for irrigation, is occupied. By begging from the whites, and all sort of shiftings, these Indians merely sustain life; and I very much fear that necessity has compelled them heretofore to steal cattle, horses and mules, and to commit the many crimes too fresh in our memory. I will render them such assistance, in future, as will be in my power. . . . .</p>
+
+<p>I reached <seg type="Massacre" subtype="Location">the memorable <geogName type="valley" key="Mountain Meadows">Mountain Meadow valley</geogName>, 300 miles south of <placeName type="settlement" key="Salt Lake City, UT">this city</placeName></seg>, Wednesday, April 14, and nooned at the spring in <seg type="Massacre" subtype="Location">the south end of the valley</seg>, where <seg type="Massacre" subtype="Casualties">the unfortunate emigrant party</seg> was encamped from five to eight days.</p>
+
+<p><seg type="Massacre" subtype="Location">This valley, usually called <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, is about six miles long and from one to three wide, running in a southerly direction, almost a continuous meadow, and excellent grass already growing throughout the whole valley. The road leading into the valley from the east goes through a narrow kanyon; the road from the valley on the south turned abruptly to the eastward and passes over a considerable hill. There are two narrow outlets from the valley, besides those already mentioned, through which the water runs. The entire valley, excepting the roads and outlets above alluded to, is surrounded by high hills, with several small ravines or gulleys between broken and abrupt hills. From several points within the valley proper I could have a distinct view of anything that might be transpiring in the whole valley. There is one house in this valley, situated in the east end, where there is a corral, &amp;c. . . . .</seg></p>
+
+<p><seg type="Massacre" subtype="Location">About the centre of the valley, in what is called the "Rim of the Basin," or the point</seg>
+
+<pb n="292" xml:id="mmm.uh.alter.1932.292"/>
+
+<cb n="1" />
+
+<seg type="Massacre" subtype="Location">where the water either finds its way to the Pacific or lakes of <placeName type="settlement" key="Utah Territory">Utah Territory</placeName>. . . . . </seg></p>
+
+<p><seg type="Massacre" subtype="Location"><seg type="Massacre" subtype="Aftermath">I informed my then guide and interpreter (Mr. <persName key="Hatch, Ira">Ira Hatch</persName>) that I was anxious to see the spot where the massacre took place, and also where the dead were buried. I saw the three places where the dead are buried.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Dates">Information received from persons in and out of the Mormon Church, and observations whilst at the place, enables me to say that the emigrant party in question arrived and camped <seg type="Massacre" subtype="Location">at the spring in the south end of the valley</seg>, Friday, Sept. 7th or 8th, 1857.</seg> <seg type="Massacre" subtype="Spoils">The amount of property is estimated at from 200 to 700 head, with from ten to thirty wagons. My own impression is, that they had 600 head of cattle and about 40 wagons.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">It is said the firing <seg type="Massacre" subtype="Dates">commenced on Monday, Sept. 10, before daylight</seg>, and that the firing was by the Indians fighting the <seg type="Massacre" subtype="Casualties">said emigrant party</seg> then in camp at the spring, as already stated. <seg type="Massacre" subtype="Dates">The firing was continued, some say five, others say seven days.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Battle">During the five or seven days of firing and fighting by the Indians, the emigrant party was corralled, that is, they made a corral and temporary fort by their wagons, and filled under the wheels and to the bed of the wagons with sand and earth dug in the centre of the corral. I saw the ditch and other evidences of there having been a corral.</seg> <seg type="Massacre" subtype="Surrender">Sept. 17th, <choice><sic>1858</sic><corr>1857</corr></choice>, in the morning, a friendly Indian and one who could talk English, came into the corral. <seg type="Massacre" subtype="Spoils">The emigrants having then been without water from five to seven days, made arrangements or treaty with said Indian&#8212;in which the Indians were to have the property</seg>, spare the lives of the whites, and permit them to return to Pinto Creek and <placeName type="settlement" key="Cedar, UT">Cedar city</placeName>.</seg></seg> <seg type="Massacre" subtype="Aftermath">From the spring and corral to the place where it is said they were murdered, and where I saw the graves (or imperfect holes) is at least one mile and a half.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Location">I walked over the ground where it is supposed they were killed&#8212;the evidences of this being unmistakable from skulls, and other bones and hair laying scattered over the ground. There are there buried, <seg type="Massacre" subtype="Casualties">as near as I can ascertain, 106 persons, men, women and children</seg>; and from one to two miles further down the valley, two or three who, in attempting to escape, were killed, partly up the hill, north side of the valley, and there buried, and three who got away entirely, but were overtaken and killed at or near the Vegas or Muddy; </seg><seg type="Massacre" subtype="Casualties">in all 115. I made strict and diligent inquiry of the number supposed to have been killed, and 115 is probably about the correct number.</seg></seg></p>
+
+<p>April 15th.&#8212;Arrived at Santa Clara this afternoon, and camped in town. Here I met Mr. <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, who has been in my employ since last fall, <seg type="Massacre" subtype="Survivors">collecting certain children</seg>, and other business among the Indians.  Here 
+
+<cb n="2" />
+
+Santa Clara) myself and party were kindly treated during our stay&#8212;two days.</p>
+
+<p><seg type="Massacre" subtype="Survivors">I say in the beginning of my letter that I purposed bringing to <placeName type="settlement" key="Salt Lake City, UT">this city</placeName> certain children remaining of the Mountain Meadow massacre. These children, sixteen in number, I have now in my possession. Thirteen I got in <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>, at Mr.<persName key="Hamblin, Jacob"> J. Hamblin</persName>'s, who collected them in pursuance to my directions, and three I got in <placeName type="settlement" key="Cedar, UT">Cedar city</placeName> on our way home, who were left there by Mr. <persName key="Hamblin, Jacob">Hamblin</persName>. I am pleased to say that Mr. <persName key="Hamblin, Jacob">Hamblin</persName> has discharged his duty in relation to the collection and keeping of those children.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The following is all I have been able as yet to collect of the history of these unfortunate, fatherless, motherless and pennyless children:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Sorrow, John Calvin">John Calvin</persName>, now 7 or 8 years old; does not remember his name; says his family lived at <placeName type="settlement" key="Horse Head, AR">Horse Head</placeName>, <placeName type="county" key="Johnson County, AR">Johnson Co.</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Taggit, Ambrose Mirem">Ambrose Moroni</persName>, about 7 years, and <persName key="Taggit, William Henry">William Taggit</persName>, 4 1-2 years, brothers. These also lived in <placeName type="county" key="Johnston County, AR">Johnston Co.</placeName></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Prudence Angeline">Prudence Angeline</persName>, 6 years, and <persName key=", Annie">Annie</persName>, about 3 years. These are said to be sisters. <persName key="Dunlap, Rebecca">Rebecca</persName>, 9 years; <persName key="Dunlap, Louisa">Louisa</persName>, 5 years, and <persName key="Dunlap, Sarah">Sarah</persName>, 3 1-2 years, named Dunlap.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key=", Betsy">Betsy</persName>, 6 years, and <persName key=", Annie">Annie</persName>, 3 years; said to be sisters. These know nothing of their family or residence.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Fancher, Kit Carson">Charles Francher</persName>, 7 or 8 years, and his sister <persName key="Fancer, Tryphena D. 'Annie'">Annie</persName>, 3 1-2 years.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Hugg, Nancy Sophronia">Sophronia or Mary Huff</persName>, 6 years, and <persName key="Huff, Elisha W.">Elisha W. Huff</persName>, 4 years.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">A boy&#8212;no account of him. Those among whom he lived called him <persName key=", William">William</persName>. <persName key="Hown or Korn, Francis">Francis Hown or Korn</persName>, 4 1-2 years old.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">I have come to the conclusion, after different conversations with these children, that most of them come from <placeName type="county" key="Johnston County, AR">Johnston Co.</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>. Most of them have told me that they have grandfathers and grandmothers in the States.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Mr. <persName key="Hamblin, Jacob">Hamblin</persName> has good reasons for believing that a boy about 8 years, and belonging to the party in question, is among the Navajo Indians, at or near the Colorado river.</seg></p>
+
+<p>My communication is already too long, but I must ask your indulgence for a few lines more.</p>
+
+<p><seg type="Massacre" subtype="Survivors">I will keep the children under my immediate supervision, until the person appointed to take them to Fort Smith arrives.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">The massacre of an entire train, not one remaining to speak of the "drama"</seg> <seg type="Massacre" subtype="Survivors">but sixteen fatherless, motherless and pennyless children, supposed, probably, to be too young to give the affair tangibility</seg>, <seg type="Reaction" subtype="FederalInvestigation">cannot remain long uninvestigated.</seg></p>
+
+<p><seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">The cause or reason for the commission of a crime so terrible as that of killing <seg type="Massacre" subtype="Casualties">at least 115 persons</seg> must assuredly become a subject of inquiry with the proper legal authorities.</seg></seg></p>
+
+<pb n="293" xml:id="mmm.uh.alter.1932.293"/>
+
+<cb n="1" />
+
+<p><seg type="Blame" subtype="IndiansIndependently">The Pi-ute tribe of Indians have been and are charged with the above crime.</seg> Last August, my attention was called to the Mountain Meadow affair officially. Since then I have made diligent inquiry, got the written statements of persons living in the neighborhood, and finally visited the southern country; and now, after a full inquiry and examination, I deem it to be my imperative duty to say that <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">the Indians had material aid and assistance from whites; and, in my opinion, the Pi-ute Indians would not have perpetrated the terrible massacre without such aid and assistance</seg></seg>.</p>
+
+<p>Mr. <persName key="Hamblin, Jacob">Jacob Hamblin</persName> and other, of <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>, expressed much anxiety to bring the guilty to justice.</p>
+            
+<p>I remain, very respectfully, yours &amp;c.</p>
+
+<p><hi rend="right"><persName key="Forney, Jacob">J. FORNEY</persName>.</hi></p>
+                                </body>
+                                </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+                            <floatingText>
+                                <body>
+
+<opener>
+
+<dateline><hi rend="italic">The Deseret News</hi>, June 29, 1859<lb/>
+
+<note>The following letter from the United States Attorney General to the District Attorney for <placeName type="state" key="Utah Territory">Utah</placeName> is published in the <placeName type="settlement" key="Washington, DC">Washington</placeName> Constitution:&#8212;</note>
+
+ATTORNEY GENERAL'S OFFICE <lb/>
+
+May 17,1859</dateline>
+
+</opener>
+
+<p>Sir:&#8212;Your letters of March 24 and April 8, addressed to me have been received. The grave importance of the facts contained in them, and in other communications from <placeName type="state" key="Utah Territory">Utah</placeName> by the same mail, required that the whole correspondence of the several departments with the officers of <placeName type="state" key="Utah Territory">the Territory</placeName> should be laid before the <persName key="Buchanan, James">President</persName>. He has carefully considered the subject, and his opinion will be found expressed in a letter from me to the two Associate Justices of <placeName type="state" key="Utah Territory">the Territory</placeName>&#8212;a copy of which I send you.</p>
+
+<p>You are clothed with the authority of a public accuser for <placeName type="state" key="Utah Territory">the Territory</placeName>. . . . . </p>
+
+<p>But your duty must be performed with energy and impartiality. . . . . </p>
+
+<p>It is only by these general remarks that I can express the wishes of <persName key="Buchanan, James">the President</persName> with reference to your office; for at this distance it is impossible to give you detailed instructions. But there is one subject to which I would call your special attention. It appears that <seg type="Massacre" subtype="Casualties">a company of emigrants</seg> <seg type="Emigrants" subtype="Route"><seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> to <placeName type="state" key="California">California</placeName></seg> was attacked <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, three hundred miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName></seg>, and <seg type="Massacre" subtype="Casualties">one hundred and nineteen cruelly murdered, none being spared</seg> <seg type="Massacre" subtype="Survivors">except a few children, all of whom are under seven years of age.</seg> This crime, by whomsoever committed, was one of the most atrocious that has ever blackened the character of the human race. <seg type="Blame" subtype="IndiansIndependently">The Mormons blame it upon the Indians, and the accusation receives some color from the fact that all the children who survived the massacre were found in the possession of Indians.</seg> <seg type="Blame" subtype="LDS_LDS">Others, and among them a judge of <placeName type="state" key="Utah Territory">the Territory</placeName>, declare their unhesitating belief that the Mormons themselves committed </seg>
+
+<cb n="2" />
+
+<seg type="Blame" subtype="LDS_LDS">this foul murder.</seg> All the circumstances seem, from the correspondence, to be enveloped in mystery. In your letter the manner of the murder is described&#8212;showing that <seg type="Massacre" subtype="Battle">the emigrants were attacked within a corral which they had formed for defense</seg>, <seg type="Massacre" subtype="Surrender">that they agreed to surrender their arms upon the promise that their lives should be spared, and after doing so were <seg type="Massacre" subtype="Casualties">all of them</seg> treacherously butchered.</seg> <seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">Why does the information stop there? If that much be known how is it that we know no more? Who were the parties that received this surrender, and how is it proved? <seg type="Massacre" subtype="Survivors">Cannot the Superintendent of Indian Affairs, or some one connected with that department of the public service trace back the children from the Indians in whose possession they were found to the corral where <seg type="Massacre" subtype="Casualties">their parents</seg> were slain.</seg> <seg type="Massacre" subtype="Spoils">It is said that some of the Mormon inhabitants of <placeName type="state" key="Utah Territory">Utah</placeName> have property of the emigrants in their possession. If this be true, will it not furnish a thread which, properly followed, would lead back to the scene of the crime?</seg></seg></seg></p>
+
+<p>These are mere suggestions, which are intended to show the interest of the government on the subject, rather than to instruct you in the performance of your duty. It is, however, confidently expected of you that you will intermit no watch, nor let any opportunity escape you of learning all that can be known upon this subject. If you shall be under the necessity of employing agents, such reasonable expenses as you may be put to on that account will be paid. . . . . </p>
+
+
+<closer>
+<salute>I am, very respectfully,</salute>
+
+<salute>Yours, &amp;c.,</salute>
+
+<signed><persName key="Black, Jeremiah S.">J. S. BLACK</persName>. </signed>
+
+<signed><persName key="Wilson, Alexander">ALEX. WILSON</persName>, ESQ.,</signed>
+
+<signed>U. S. District Attorney,</signed>
+
+<address><addrLine><placeName type="state" key="Utah Territory">Utah Territory</placeName>.</addrLine></address>
+
+</closer>
+
+                                </body>
+                                </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+                            
+                            <floatingText>
+                                <body>
+
+<p><hi rend="center">THE MILITARY ESCORT</hi></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Last week we published a notice of the response of General <persName key="Johnston, Albert Sidney">Johnston</persName> to the requisition of Governor <persName key="Cumming Alfred">Cumming</persName> for an escort to protect emigrants who propose leaving <placeName type="state" key="Utah Territory">the Territory</placeName> for <placeName type="state" key="California">California</placeName> by the northern route, and by the special request of His Excellency the notice is continued, that all who have a desire to go, may have ample notice of the opportunity that now presents itself for a safe exodus from <placeName type="state" key="Utah Territory">this quiet, peaceful Territory</placeName>, and protection to their persons and property on the way to some other country more congenial to them than this is, or probably ever will be, with their preconceived notions of civilization and refinement.</seg></p>
+
+<p>That there is, or will be any danger of persons being molested on leaving <placeName type="state" key="Utah Territory">the Territory</placeName> we do not for a moment believe. If they owe no man anything and take away nothing that does not of right belong to them, they can go when and where they please, so far as the people who differ with them in opinion are
+
+<pb n="294" xml:id="mmm.uh.alter.1932.294"/>
+
+<cb n="1" />
+
+concerned, the same as heretofore; and every facility will be extended to such persons that can be in reason, to enable them to go where they will be more happy, and better suited with their condition and associations than they are now, not that any desire them to leave unless it is their choice to do so, but to show by works that no one owes them any ill will in consequence of the course they are pursuing. . . . .</p>
+
+<p>If there are any here who came out with the army as employees, teamsters in supply trains, or in any other capacity, that have not the means of leaving and have a desire to do so, it is to be hoped that charity will be extended to them by the government officers, and that they will be taken along with the others who may avail themselves of this opportunity.</p>
+
+                                </body>
+                                </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+
+<floatingText>
+    <body>
+
+<p><hi rend="center">NOTICE!!!
+
+LARGE SALE OF PUBLIC MULES, WAGONS AND HARNESS</hi></p>
+
+<p><hi rend="center">On THURSDAY, 14th JULY next</hi></p>
+
+<p>Will be sold, at PUBLIC AUCTION, AT CAMP FLOYD, <placeName type="state" key="Utah Territory">U. T.</placeName>, to the highest bidder, for Specie or Government Funds, 2000 or more excellent DRAFT AND SADDLE MULES, with several hundred ARMY WAGONS, together with HARNESS for the same complete.</p>
+
+<p>The Mules are all young, sound, thoroughly broken, and in good condition; and the Wagons and Harness are in complete repair, with all equipments for immediate service.</p>
+
+<p>The SALE of this valuable property will commence on the day above mentioned, in lots of one or more, and will continue from day to day, until all are sold.</p>
+
+<closer>
+
+<signed><persName key="Crossman, G. H.">G. H. CROSSMAN</persName>,</signed>
+
+<signed>Depy. Q. M. Genf. </signed>
+
+<dateline>CAMP FLOYD, <placeName type="state" key="Utah Territory">U. T.</placeName>, June 22, 1859	16-4</dateline>
+</closer>
+
+</body>        
+</floatingText>
+       
+<milestone unit="section" rend="horbar"/>
+                <floatingText>
+                    <body>
+
+<p><hi rend="italic">The Deseret News</hi>, June 29, 1859</p>
+
+<p><seg type="Massacre" subtype="Survivors">DEPARTURE.&#8212;Fifteen of the children that survived the "Mountain Meadow Massacre" left <placeName type="settlement" key="Salt Lake City, UT">this city</placeName> yesterday for Fort Smith, <placeName type="state" key="Arkansas">Arkansas</placeName>. They went in carriages, having everything necessary provided for their comfort during their journey.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">Two companies of the 2d dragoons under Capt. <persName key="Anderson, R. H.">Anderson</persName> from Camp Floyd, which are to be joined by another company of the same regiment at Fort Bridger, having been ordered to Laramie and Kearney, will accompany the children as an escort as far as the posts to which they have been ordered; from thence to the place of their destination, they will doubtless be furnished with the necessary protection.</seg></p>
+
+<cb n="2" />
+
+<p>The troublesome years of 1857, 1858 caused a decided retardation of building and other improvements, and The News editor voices the relief felt, and reports on the renewal of construction activity.</p>
+
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, July 13, 1859</hi></p>
+<p><hi rend="center">(EDITORIAL)
+BUILDING AND IMPROVING
+RE-COMMENCED</hi></p>
+
+<p><seg type="Context" subtype="UtahWar">During the last two years, in consequence of the unsettled state of affairs in <placeName type="state" key="Utah Territory">this <choice><sic>Territry</sic><corr>Territory</corr></choice></placeName>, there has been less improvements of any kind made, than in former years since these valleys were settled, and the desolate wastes that were before everywhere seen, have been made to "blossom and bud as the rose" by the untiring energy and perseverance of the Saints. Although the people have not ceased to plant they have in many instances ceased to build houses, to extend their settlements and make other improvements necessary for their comfort and enjoyment, as well as for their security and protection in person and property from the lawless aggressions to which they have ever been subject.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">This temporary cessation from building and improving was not the result of fear, that if the houses were built and improvements made, the owners might not long enjoy the labor of their hands, for every genuine Saint will plant and build and continue to improve, beautify and adorn his possessions to the extent of his ability and capacity, regardless of what the future may bring forth; but circumstances over which they have had no control have prevented the people from following their usual avocations, and although there has been no cessation from labor or toil, their time has been devoted to other duties more arduous and the performance of labors far less desirable than those which they have had to perform since they came to these valleys, in building towns and cities, and converting the desert wastes into fruitful fields.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">In this city in particular there have been but few buildings erected since 1856, and many of the primitive habitations have during this time so far decayed that they are untenantable. But of late things begin to assume a different appearance from what they have for a long time past, so far as building operations are concerned, and quite extensive arrangements are being made for the erection of commodious habitations in every ward, especially in the more thriving parts of <placeName type="settlement" key="Salt Lake City, UT">the city</placeName>, and loads of stone, adobies, lumber, shingles and other building materials are seen daily passing thro' the streets in various directions, and before the return of winter the number of dwelling houses will be very materially increased, and many that were in an unfinished state at the commencement of the "Utah War" will unquestionably be completed. . . . .</seg></p>
+
+<pb n="295" xml:id="mmm.uh.alter.1932.295"/>
+
+<cb n="1" />
+
+<p><seg type="Context" subtype="UtahWar">Improvements are being made in all the towns and cities in this part of the Territory, and several new settlements have been made this season and more are in contemplation, showing conclusively that the people are not looking for the end of the world just yet, and that they have not forgotten, that "the Lord helps those that help themselves."</seg></p>
+
+                    </body>
+                    </floatingText>
+
+                        <milestone unit="section" rend="horbar"/>
+                
+                <floatingText>
+                    <body>
+
+<opener>
+<dateline><hi rend="italic">The Deseret News, July 20, 1859</hi></dateline>
+
+    <dateline><placeName type="settlement" key="Salt Lake City, UT">G. S. L. City</placeName>, July 8, 1859.</dateline>
+
+<salute>EDITOR DESERET NEWS&#8212;DEAR SIR:&#8212;. . . . </salute>
+
+</opener>
+
+<p>Two new settlements have been formed in <placeName type="county" key="Sanpete County, UT">San Pete county</placeName> this season. One about twenty-five miles east of north from <placeName type="settlement" key="Manti, UT">Manti</placeName> on Pleasant creek, called I believe Mt. Pleasant. They have about one thousand acres of wheat growing. There is in that vicinity an abundance of wood, water, stone and timber, in fact every facility for an extensive settlement. The people were living in wagons and brush shanties, but had commenced a stone wall four feet thick at the bottom, which when completed is designed to be twelve feet high and two feet thick at the top, and to enclose six acres of ground, to be finished by the 24th inst. Within that enclosure they purpose building their houses, and when that is done I think their families will be secure from Indian depredations.</p>
+
+<p>The other new settlement lies about ten miles south of west from <placeName type="settlement" key="Mt. Pleasant, UT">Mt. Pleasant</placeName>, near the Sanpitch river, on the direct route from Salt Creek to <placeName type="settlement" key="Manti, UT">Manti</placeName>, and is called <placeName type="settlement" key="Moroni, UT">Moroni</placeName>. They have sown about three hundred acres of wheat. They have also laid off a city and are building on their city lots instead of forting in. The facilities there are abundant for a large settlement. . . . .</p>
+
+<closer>
+
+<salute>In haste, I am your servant and friend,</salute>
+
+<signed><persName key="Cummings, J. W.">J. W. CUMMINGS</persName>.</signed>
+
+</closer>
+
+                    </body>
+                </floatingText>
+                
+<cb n="2" />
+
+                <floatingText>
+                    <body>
+
+<p><hi rend="center"><hi rend="italic">The Deseret News</hi>, July 27, 1859</hi></p>
+
+<p>ARRIVAL OF MERCHANDIZE.&#8212;Merchant trains have been coming in so thick and fast of late that their arrival has almost ceased to attract attention, and if there is not some depreciation in the price of goods offered for sale in this market ere long, there is more money in <placeName type="state" key="Utah Territory">the territory</placeName> and a greater demand for merchandize than has been seen of late. Among the trains that have arrived lately is that of Mr. <persName key="Randall">Randall</persName>, freighter for Livingston, Bell &amp; Co., consisting of some fifty wagons and about one hundred and fifty yoke of oxen. There are many other trains on the road from the Missouri River, some freighted with goods for the regular merchants, and others for transient traders, who are coming out here to pick up some of Uncle Sam's cash, which they suppose will be scattered about profusely. If the latter succeed in gathering many of the golden eagles that are uncaged, they will have to be very expert and sell their trappings at more reasonable prices, than have been demanded by dealers since the "war."</p>
+                    </body>
+                    </floatingText>
+
+<milestone unit="section" rend="horbar"/>
+            <floatingText>
+                <body>
+
+<p>THE SALE of Government mules, wagons, etc., at Camp Floyd, we understand has closed. It is reported that the government property, especially the mules, brought higher prices than ever known before at similar sales, most of the animals having been purchased by citizens, and not by speculators as some anticipated.</p>
+
+<p>It is also reported that there will be another sale there sometime in September next, it being reported that the number of teams at that post are to be reduced to some forty or fifty.</p>
+
+<p>If this be so, the army in <placeName type="state" key="Utah Territory">Utah</placeName> will thereafter be in a poor condition to enter at once upon an Indian war, if one should occur.</p>
+                    
+                </body>
+            </floatingText>
+            </div1>
+    </body>
+    </text>
+</TEI>

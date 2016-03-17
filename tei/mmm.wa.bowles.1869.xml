@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.bowles.1869">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Our New West</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Samuel</forename> <surname>Bowles</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+	    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.bowles.1869</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+		<name>Center for Digital Research in the Humanities</name>
+		<address>
+		    <addrLine>319 Love Library</addrLine>
+		    <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+		    <addrLine>Lincoln, NE 68588-4100</addrLine>
+		    <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+		</address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+		<p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Our New West: Records of Travel between the Mississippi River and the Pacific Ocean. Over the Plains&#8212;Over the Mountains&#8212;Through the Great Interior Basin&#8212;Over the Sierra Nevadas&#8212;To and Up and Down the Pacific Coast. With Details of the Wonderful Natural Scenery, Agriculture, Mines, Business, Social Life, Progress, and Prospects of Colorado, Wyoming, Utah, Idaho, Montana, Nevada, California, Oregon, Washington, and British Columbia; including A Full Description of the Pacific Railroad; and Of the Life of the Mormons, Indians, and Chinese. With Map, Portraits, and Twelve Full Page Illustrations.</title>
+                    <author><forename>Samuel</forename> <surname>Bowles</surname></author>
+                    <publisher>Hartford Publishing Co.</publisher>
+                    <pubPlace>Hartford, CT.</pubPlace>
+                    <extent>232-270</extent>
+                    <date when="1869">1869</date>
+	  	    <note type="source">Samuel Bowles. <hi rend="italic">Our New West</hi>. Hartford, CT: Hartford Publishing Company; New York, NY: J. D. Dennison &amp; Chicago, IL: J. A. Stoddard, 1869. 232-258, 259-270.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+<term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-14"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-07-13"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+
+        </revisionDesc>
+        
+    </teiHeader>
+
+<text>
+<body>
+	
+<div1 type="chapter">
+
+<pb n="232" xml:id="mmm.wa.bowles.1869.245"/>
+
+<head>XII. MEN AND WOMEN, OR POLYGAMY, IN UTAH.</head>
+
+<p><hi rend="center">Brigham Young, Heber C. Kimball, and other Leading Apostles&#8212;
+Long Interviews and Talks with Them&#8212;Discussion about Polygamy
+&#8212;Suggestion of a New Revelation against it&#8212;Later Extension of
+Polygamy&#8212;The Sabbath Services of the Mormons&#8212;Preaching by
+Brigham Young&#8212;Extracts from Mormon Sermons&#8212;Mr. Colfax in
+the Mormon Pulpit&#8212;How does Polygamy Work?&#8212;The Children
+&#8212;The Husbands and the Wives&#8212;What the Latter Say and How
+they Bear it&#8212;Illustrations of Polygamous Life and Habits&#8212;Brig&#8211;
+ham Young&#8217;s Children and Wives&#8212;Beauty and the Beast&#8212;List
+of Young&#8217;s Harem.</hi></p>
+
+<!-- Section Not Direclty Relevant to the Mountain Meadows Massacre:
+
+<p>Of course we had a good deal of curiosity, while in
+Utah, to study the persons and characters of the
+Mormon leaders and the operation of polygamy; and
+though one avenue to information was largely denied
+us, every other was freely open, and the lacking
+in that was measurably made up to us by plenty of
+second&#8211;hand testimony from and about the fractional
+wives of the saints. When we arrived, Brigham
+Young was away from the city; but he soon came
+back in grand state, for he travels among his subjects
+like an oriental prince, with procession of carriages
+and men on horseback. He takes with him always
+two personal servants, one a barber, and the other
+
+<pb n="233" xml:id="mmm.wa.bowles.1869.246"/>
+
+<figure xml:id="mmm.wa.bowles.1869.246.figure">
+<p>Salt Lake City&#8212;Brigham Young&#8212;Proposed Mormon Temple.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="235" xml:id="mmm.wa.bowles.1869.248"/>
+
+one of his wives. Directly he came, with half a
+dozen of his Apostles, to pay his respects to Mr.
+Colfax,&#8212;for the Speaker had given out that he
+should observe Washington etiquette, and not call
+first on him, which pleased the Gentiles,&#8212;and they
+spent most of a morning with us. We had free and
+familiar talk of the Territory and its industries, of
+the scenery, of irrigation, of the Indians, of everything 
+but the one theme upon which both sides were
+the most eager to compare notes. Young explained
+to me the Mormon policy as to the Indians; in brief,
+it was that they had found it cheaper and easier to
+feed them than to fight them. But, he said, they
+could not last long; the food and the diseases of civilization
+are killing them off; even white bread, of
+which they are very fond, weakens and destroys their
+constitutions. And he told of an Indian boy, whom
+he took into his family, robust and healthy, but,
+though he fared as well as his own children, he soon
+sickened and died.</p>
+
+<p>Brigham Young is a well-preserved, good-looking
+man of now near seventy years; stout, smooth&#8211;faced,
+self&#8211;controlled; slow and careful of speech; with a
+light gray eye, cold and uncertain; a thin, short under-lip 
+and chin, betraying great power of will, and
+which shrank and curled and quivered under feeling
+with a most devilish ugliness. That lip and that
+chin were the only indexes to his character, as exhibited in 
+his life, that I could find either in his face
+or manner; but they showed that he would allow
+nothing to stand in the way of his purposes. There
+was not the faintest sign of rashness or weakness, but
+
+<pb n="236" xml:id="mmm.wa.bowles.1869.249"/>
+
+abundant token of the spirit that would send and has
+sent men to a sudden grave, in the most cool and
+relentless manner, for resisting his authority or standing in 
+the way of his purposes. He is physically a
+handsome man, and takes great pains with his dress;
+but he was to me repellant in personal atmosphere.
+In conversation, he is cool, quiet, but intelligent and
+suggestive, has strong, original ideas, but conveys
+them with rather coarse and ungrammatical language.
+He was somewhat formal, but courteous, and at the
+last affected frankness and freedom, if he felt it not;
+and when his eye did sparkle and his lips soften, it
+was with most cheering, though not warming, effect;
+it was pleasant but did not melt you.</p>
+
+<p>Heber C. Kimball ranked next to Young in church
+and state, when we were there, and was accounted by
+the Mormons to hold the gift of prophecy in even
+more divine degree than his leader. But he seemed
+to us, from all we saw and heard of him, a blessed old
+rascal; unctuous in looks and manners as Macassar
+hair oil, and pious in phrase as good old Thomas &#224;
+Kempis; but a consummate hypocrite, hard and tricky
+at a bargain in worldly matters, and tyrannical to his
+long retinue of sorry-looking wives, the happiest day
+of whose lives was that of his death. His office
+appeared to be that of keeper of the seals of Heaven,
+and the fulminator of the Divine wrath or the dispenser 
+of the Divine grace, and he distributed both
+about with equal vulgarity and repulsiveness.</p>
+
+<p>George A. Smith is another of the head Apostles,
+and succeeded Kimball as Vice-President. He is one
+of the oldest and most faithful Mormons, very intelligent
+
+ <pb n="237" xml:id="mmm.wa.bowles.1869.250"/>                   
+
+in their history, and a heavy, full-orbed man,
+with solid qualities of body and mind, who contents
+himself with five wives. Two of the Apostles, Amasa
+Lyman and Franklin Richards, are Massachusetts
+men; several others are Englishmen, who are now
+creeping into place and power in the church; and
+they all average four wives each. Perhaps the most
+refined man of our hosts in personal appearance and
+manners was a Mr. Felt, originally from Salem, Mass.;
+he lived in a very neat two-story cottage, embowered
+with trees, and with two or three suggestive front
+doors. But the American proportion, both of leaders
+and followers, is fast decreasing. Brigham Young
+himself says that fifteen out of every twenty of the
+original American Mormons have apostatized; and
+Apostle Smith says five out of six.</p>
+
+<p>Two or three of the party who called on us had
+fine faces,&#8212;such as you would meet in intellectual
+or business society in Boston or New York,&#8212;but the
+strength of most of them seemed to lie in narrowness,
+bigotry, obstinacy. They looked as if they had lived
+on the same farms as their fathers and grandfathers,
+and made no improvements; gone to the same church, and sat 
+in the same pews, without cushions; borrowed the same weekly
+newspaper for forty years; drove all their children to the
+West or the cities; and if they went to agricultural fairs, 
+insisted on having their premiums in pure coin.</p>
+
+<p>When we came to return their call, and met at
+Brigham Young&#8217;s office pretty nearly the same
+company of prominent Mormons, there was a full hour&#8217;s
+frank talk of the whole matter of polygamy. He
+
+<pb n="238" xml:id="mmm.wa.bowles.1869.251"/>
+
+had, just before we entered, been bothered by a man
+who could not keep his <q>"women"</q> straight, and either
+wanted a reinforcement of authority from head-quarters, or 
+liberty to take an additional wife by way of
+equalizing the contending forces; and it was not long
+after we were seated ere he blurted out the blunt
+question to Mr. Colfax&#8212;<q>" Well, now you have conquered 
+the South and abolished slavery, what are
+you going to do with us and our polygamy?”</q> With
+his usual tact, Mr Colfax replied that he had no authority 
+to speak for the government; but for himself,
+if he might be permitted to make the suggestion, he
+had hoped the prophets of the church would have a
+new revelation on the subject, which should put a
+stop to the practice of polygamy. He added further
+that, as the people of Missouri and Maryland, without
+waiting for the action of the general government
+against slavery, themselves believing it to be wrong
+and an impediment to their prosperity, had taken
+measures to abolish it, so he hoped the people of the
+Mormon church would see that polygamy was a hindrance 
+and not a help, and move for its abandonment. Mr. Young responded 
+quickly and frankly, and apparently as much to the surprise 
+of his friends as to our own, that he should readily welcome such a
+revelation; that polygamy was not in the original
+book of the Mormons; that it was not an essential
+practice in the church, but only a privilege and a
+duty, under special command of God; that he knew
+it had been abused; that people had entered into
+polygamy who ought not to have done so, and
+against his protestation and advice; and that wives
+
+<pb n="239" xml:id="mmm.wa.bowles.1869.252"/>                   
+
+and husbands, in polygamy, were constantly fretting
+him with their troubles. At the same time, he defended the practice as having biblical authority, and
+as having, within proper limits, a sound, moral and
+philosophical reason and propriety.</p>
+
+<p>The discussion, thus opened, grew general and
+sharp, though ever good-natured. Mr. Young was
+asked how he got over the fact that the two sexes
+were about equally divided all over the world, and
+that if some men had two, five, or twenty wives,
+others would have to go without altogether. His
+reply was that there was always a considerable 
+proportion of the men who would never marry, who were
+old bachelors from choice. But, retorted one, are
+there any more of such than of women who choose to
+be old maids? Oh yes, said he, most ungallantly;
+there is not one woman in a million who will not
+marry if she gets a chance! Mr. G. Q. Cannon, an
+Englishman, and probably the most learned of the
+Apostles, strongly pressed the biblical usage and 
+authority for many wives, as above all laws and constitutions, 
+but was asked as to the effect of the same
+usage and authority for human sacrifce,&#8212;would you,
+for instance, if commanded by God, offer up your
+son or your enemy as a sacrifice, killing them? Yes,
+he promptly replied. Then the civil law would lay
+its hands upon you and stop you, and would be justified in 
+doing so, was the apparently effective answer.</p>
+
+<p>In the course of the discussion, Mr. Young asked,
+Suppose polygamy is given up, will not your government 
+then demand more,&#8212;will it not war upon the
+Book of the Mormons, and attack our church <choice><orig>organ-
+                    
+<pb n="240" xml:id="mmm.wa.bowles.1869.253"/>
+                    
+ization</orig><reg>organization</reg></choice>? The reply was, emphatically, No, that it had no right, 
+and could have no justification in doing so, and that we had 
+no idea there would be any disposition in that direction. 
+The Mormons would then take rank and take their chances with the other
+Protestant denominations,&#8212;the Methodists, Baptists
+and Episcopalians,&#8212;and all would be left free to
+work and quarrel together on the same platform of
+equal rights.</p>
+
+<p>The talk, which was said to be the freest and
+frankest ever known on that subject in that presence, 
+ended pleasantly, but with the full expression,
+on the part of Mr. Colfax and his friends, of their
+hope that the polygamy question might be removed
+from existence, and thus all objection to the admission 
+of Utah as a State be taken away; but that, until
+it was, no such admission was possible, and that the
+government could not continue to look indifferently
+upon the enlargement of so offensive a practice. And
+not only what Mr. Young said, but his whole manner
+left with us the impression that, if public opinion and
+the government united vigorously, but at the same
+time discreetly, to press the question, there would be
+found some way to acquiesce in the demand, and
+change the practice of the present fathers of the
+church.</p>
+
+<p>But this indication of a change of base was not well
+received by the Mormon leaders generally. They protested
+against it, and very soon after we left, it was
+disowned or explained away, and polygamy took a
+fresh start. There has seemed, indeed, to be an effort
+to extend its complications and influences, and get
+
+-->
+
+<pb n="241" xml:id="mmm.wa.bowles.1869.254"/>
+
+<!--
+
+everybody into it of any character or power in the
+church or in society. When we were there, it was
+estimated that not more than one in six or eight of
+the men had embraced the practice; but since, it has
+increased from fifty to one hundred per cent, and one
+in three or four of the men have more than one wife
+each. So the evil has grown to formidable proportions, 
+and its eradication, even its limitation, seems
+much harder to compass than it did in 1865.</p>
+
+End of Section Not Relevant to Mountain Meadows Massacre -->
+
+<p>Our afternoon&#8217;s talk with <persName key="Young, Brigham">Young</persName> and his associates included the proper way of treating the leading rebels
+and the merits of slavery in the abstract. He boldly
+espoused slavery <hi rend="italic">per se</hi> as established by Divine
+authority, like polygamy, but denounced the chattel
+system of the South; and he opposed the hanging of
+any of the rebel chiefs as an unwise and aggravating
+policy. Now that peace is established, let all be pardoned, 
+he said; but early in or during the war, he
+would have disposed of the rebel chiefs that fell into
+the hands of the government without mercy or hesitation. 
+Had he been President when Mason and Slidell were captured, 
+he would have speedily put them <q>"<hi rend="italic">where 
+they never would peep,</hi>"</q> and negotiated with England 
+afterwards. As he said this, the thin lip shortened and the
+lower jaw worked, most diabolically; and I felt sure he could 
+be as good as his word, and no longer doubted where the inspiration 
+for the Mountain Meadow massacres, the slaughter of the recusant 
+Josephites, or the various assassinations by the <q>"Danites"</q> 
+of individual rebels from the church or uncompromising Gentiles, came from.
+Young thoroughly believes in punishing his enemies
+
+<pb n="242" xml:id="mmm.wa.bowles.1869.255"/>
+
+with fire and sword, and all in the name of the Lord
+his God. He is a resolute and literal Old Testament
+Christian in theory and practice,&#8212;thus far at least.</p>
+
+<!-- Not Relevant to Mountain Meadows Massacre:
+
+<p>On both Sabbaths we attended the Mormon religious
+services in the Church square. Meetings are held
+every Sunday, also, and on some week-day nights, in
+the church edifices in each of the twenty wards of
+the city, where the local bishops and elders drill the
+people in all the duties of life, instructing them with
+a plainness and with an autocratic authority as to
+their entire line of thinking and acting, that any
+other Protestant people or even any American Catholics
+would resent with indignation. But their ignorant, fanatical 
+followers seem to take it all as law and gospel, and are 
+under such strict surveillance and authority that most of 
+them would not even dare to disobey or protest. At the 
+Tabernacle building, the gathering is from the whole city, 
+amounting commonly to several thousands, and the services 
+are conducted by some of the Apostles. The congregations
+are naturally not of a very high grade, either of physical 
+beauty or mental capacity,&#8212;they were as dreadfully 
+commonplace as you can imagine the refuse of
+the English factory towns, with a sprinkling of the
+peasantries of Germany, Finland, Sweden, Scotland,
+Norway, even Iceland, would be. Yet they exhibited
+improvement over their probable former life in tidiness of 
+dress and better living. But the small narrow heads told of 
+limited brains and shallow thought. The handsome girls were few;
+ the fine-looking women even fewer; intelligent, strong-headed men were more
+numerous; but the great mass, alike in size, looks and
+
+<pb n="243" xml:id="mmm.wa.bowles.1869.256"/>
+
+dress, were below the poorest, hardest-working and
+most ignorant classes of our eastern large towns.</p>
+
+<p>The gatherings and the services, both in speaking
+and singing, reminded me of the Methodist camp-meetings 
+of fifteen or twenty years ago. The singing, as on the 
+latter occasions, was the best part of
+the exercises, simple, sweet, and fervent. <q>"Daughters of 
+Zion,"</q> as sung by the large choir one Sunday
+morning, was prayer, sermon, song and all. The
+preacher that day was Apostle Richards, but beyond
+setting forth the superiority of the Mormon church
+system, through its presidents, councils, bishops, elders
+and seventies, for the work made incumbent upon
+Christians, and claiming that its preachers were inspired
+like those of old, his discourse was a rambling, unimpressive 
+exhortation, such as you may have
+heard from a tonguey deacon in any country Baptist
+or Methodist meeting-house of the last generation.
+The Bible, both Old and New Testaments, is used
+with the same authority as by all Protestants; the
+Mormon Scriptures are simply new and added books,
+confirming and supplementing the teachings of the
+original Scriptures. The rite of the sacrament is administered every Sunday, water being used instead
+of wine, and the distribution proceeding among the
+whole congregation, men, women and children, and
+numbering from three to five thousand, while the
+singing and the preaching are in progress. The
+prayers are few and simple, undistinguishable, except
+in these characteristics, from those heard in all Protestant churches, and the congregation all join in the Amen.</p>
+
+<pb n="244" xml:id="mmm.wa.bowles.1869.257"/>
+
+<p>The next Sunday, especially for our edification,
+Brigham Young himself preached; but he was very
+unsatisfactory and disappointing in his effort. There
+was every incentive for him to do his best; he had an
+audience of four or five thousands spread out under the
+<q>"Bowery,"</q> adjoining the Tabernacle, where the summer
+meetings are held; before him was Mr. Colfax, who had
+asked him to preach upon the distinctive Mormon doctrines; 
+around him were all his elders and bishops, in
+unusual numbers; and he was fresh from the exciting
+discussion of the day before on the subject of polygamy. 
+But his address lacked logic, lacked effect, lacked
+wholly magnetism or impressiveness. It was a curious medley 
+of scriptural exposition and exhortation,
+bold and bare statement, coarse denunciation and vulgar 
+allusion, cheap rant and poor cant. So far as his
+statement of Mormon belief went, it amounted to this:
+that God was a human, material person, with like flesh
+and blood and passions to ourselves, only perfect in all
+things; that he begot his son Jesus in the same way
+that children are begotten now; that Jesus and the
+Father looked alike and were alike, distinguishable
+only by the former being older; that our resurrection
+would be material, and we should live in heaven with
+the same bodies and the same passions as on earth;
+that Mormonism was the most perfect and true religion; 
+that those Christians who were not Mormons
+would not necessarily go to hell and be burned by
+living fire and tortured by ugly devils, but that they
+would not occupy so high places in heaven as the
+Latter Day Saints; that polygamy was the habit of
+all the children of God in the earlier ages, and was
+
+<pb n="245" xml:id="mmm.wa.bowles.1869.258"/>
+
+first abolished by the Goths and Vandals who conquered and 
+reconstructed Rome; that Martin Luther approved of it in a 
+single case at least; that a clergyman of the Church of England
+once married a man to a second wife while his first wife was living;
+and that in England now, if a man wanted to change his
+wife, he had only to offer her at auction and knock
+her off for a pot of beer or a shilling, and marry another. 
+A good deal of boasting of the success of the
+Mormons, their temperance, frugality and honesty,
+and a sharp denunciation of the <q>"few stinking lawyers who 
+lived down in Whiskey street, and for five
+dollars would attempt to make a lie into a truth,"</q>
+were the only other noticeable features of this discourse 
+of the President of the Church of the Latter
+Day Saints. It was a very material interpretation of
+the statements and truths of Scripture, very illogically 
+and roughly rendered; and calculated only to
+influence a cheap and vulgar audience. Brigham
+Young may be a shrewd business man, an able organizer of labor,
+a bold, brave person in dealing with
+the practicalities of life,&#8212;he must, indeed, be all of
+these, for we see the evidences all around this city
+and country; but he is in no sense an impressive or
+effective preacher, judged by any standards that I
+have been accustomed to.</p>
+
+<p>A good many Mormon sermons have been reported
+and published, some by themselves, others by Gentile
+listeners. Their language in many instances is shockingly 
+blasphemous; in others, where rebellious or vain or wicked 
+women are denounced, or the young girls are instructed in 
+their duty to become <choice><orig>con-
+                    
+<pb n="246" xml:id="mmm.wa.bowles.1869.259"/>
+                    
+cubines</orig><reg>concubines</reg></choice> and bear children as soon as the laws of nature will permit, 
+it is positively filthy and disgusting, such as would not be 
+tolerated elsewhere out of the vilest dens of great cities. 
+As specimens, not of such sermons, but of the more decent sort,
+I quote a few independent sentences,&#8212;they are from Brigham
+Young, and Apostles Smith and Pratt:&#8212;</p>
+
+<p><q>" When a man comes right out like an independent devil, and says
+'D&#8212; Mormonism and all the Mormons,&#8217; and is off with himself to
+California, I say he is a gentleman by the side of a nasty, sneaking
+apostate, who is opposed to nothing but Christianity. But now, you
+Gladdenites [a band of recusant Mormons,] keep your tongues still,
+lest sudden destruction come upon you. I say, rather than that apostates 
+should flourish here, I will unsheath my bowie-knife and conquer or die.”</q></p>
+
+<p><q>" There are sins that men commit for which they cannot receive 
+forgiveness in this world, or in that which is to come; and if they had
+their eyes open to see their true condition they would be perfectly 
+willing to have their blood spilt, that the smoke thereof might ascend to
+heaven as an ofering for their sins, and the incense would atone for
+their sins. I know when you hear my brethren telling about cutting
+people of from the earth that you consider it strong doctrine; 
+<hi rend="italic">but it is to save them, not to destroy them.</hi> 
+It is true that the blood of the Son of God was shed for sins through 
+the fall and those committed by men, yet men can commit sin which it 
+never can remit. There are sins which can be atoned for by an offering 
+upon an altar as in ancient days, but there are also sins which the blood 
+of a lamb, of a calf, or of turtle doves cannot remit; 
+<hi rend="italic">but they must be atoned for by the blood of the man</hi>."</q></p>
+
+<p><q>" No wonder that you grope in the dark; that you are subject to
+doubts and fears concerning your eternal salvation. The law of celestial 
+marriage is right, but you will not obey it, and those of you who
+do not accept the Gospel of Christ can expect nothing but darkness.
+There is no inducement for any man to become a Latter Day Saint
+unless he accepts the Spirit of God in his heart and obeys His teachings."</q></p>
+
+<p><q>"If an elder has borrowed from you, and you find he is going to
+apostatize, then you may tighten the screws upon him; but if he is
+
+<pb n="247" xml:id="mmm.wa.bowles.1869.260"/>
+
+willing to preach the Gospel without purse or scrip, it is none of your
+business what he has done with the money he has borrowed from you.
+If you murmur against that elder, it will prove your damnation! No
+man need judge me. You know nothing about it, whether I am sent
+or not; furthermore it is none of your business, only to listen with open
+ears to what is taught you and serve God with an undivided heart."</q></p>
+
+<p><q>"How was it with Mary and Martha, and other women who followed
+Jesus? In old times, and it is common in this day, the women, even
+Sarah, called their husbands lord. The word is tantamount to husband
+in some languages. Master, lord and husband are synonymous. When
+Mary came to the sepulchre, Jesus said unto her, Mary! She said
+unto him, Rabboni, which is to say master. Is there not here manifested 
+the affection of a wife? These words were the kindred ties and
+sympathies that are common between husband and wife."</q> The same
+discourse declared that Jesus was himself the bridegroom at the marriage 
+in Cana of Galilee, and that Mary and Martha were both his wives!</p>
+
+<p>These are fair illustrations of the intellectual and
+religious husks on which these poor people are fed
+from Sunday to Sunday. Perhaps they are above
+the average in propriety and piety of expression; but
+they show, better than any characterization of mine,
+the spirit both of priests and people; how brutal is
+that of the one, how debased that of the other.</p>
+
+<p>Mr. Colfax&#8217;s presence in their pulpit was certainly
+a novelty for the Mormon audience. On the Sunday
+evening after Brigham Young&#8217;s sermon, he repeated
+there, by request, his eulogy on the life and principles
+of President Lincoln, then a fresh theme everywhere
+in our broad land. The audience was swollen to five
+or six thousands; and, dull of comprehension and
+fanatically devoted to Young and his Apostles as most
+of them were, they could not have failed to feel that
+they were listening to a higher order of eloquence
+
+<pb n="248" xml:id="mmm.wa.bowles.1869.261"/>
+
+and patriotism,&#8212;to nobler thoughts in nobler garb,&#8212;
+than those which were usually doled out to them. At
+least they listened with rapt attention and apparent
+sympathy; and it is rare that they hear so lofty and
+loyal sentiments from that platform. The Mormon
+preachers never allude to the national government
+but to criticise, belittle and abuse.</p>
+
+<p>But of polygamy in practice? How does it operate?&#8212;
+what are its results?&#8212;what its prospects?
+Most obviously, first, there are plenty of children.
+The houses and yards and streets swarm with them.
+The Divine injunction to increase and multiply, that
+they may people the earth, is held in great respect
+by the Mormon patriarchs. They quote it often in
+defense to Gentile doubters, or as injunction to hesitating 
+believers, men or women, who fear to launch away on the sea 
+of polygamy. The care of the children is obviously not of 
+the best; it would not be strange if many of them were not wise enough to
+know their own fathers; but this is not the worst
+form of their ignorance. There are fathers who are
+loyal, there are mothers who are tender, of course, even
+the more tender because of their own sufferings, and
+the church exhorts and enforces a certain degree of
+care and instruction; but the general life of the
+Mormons is simple, material and hard; there is not
+only little unity in polygamous families, but a good
+deal of discord, and the children cannot avoid suffering, 
+not only from neglect and from the general debasement 
+and materiality of life, but sharply and especially from the 
+inevitable revenge that outraged nature, unelevated and undisciplined by <choice><orig>cul-
+                    
+<pb n="249" xml:id="mmm.wa.bowles.1869.262"/>
+                    
+ture</orig><reg>culture</reg></choice>, is forever certain to wreak on those nearest
+and even dearest to it.</p>
+
+<p>Their religion is of course the great reason for
+polygamy; it is the excuse of the men; it is the 
+reconciliation of the women. Many, perhaps most of
+both sexes really believe in it as a religious duty;
+but I find this part of their religion is much easier
+and more acceptable to the men than to the women.
+The former go to the sacrifice with a certain brutal
+joy; the latter with a hard, sad resignation. When
+men talk with men, as men, the truth cannot help
+but crop out as to such a matter as this; and the
+chances are two to one, that before you get through
+discussing polygamy with a many-wived Mormon, he
+will commend it, with a lustful leer, to the master-passion 
+of the sex. But with the women, ignorant and degraded as 
+most of them are, the universal testimony of all but their 
+husbands is, that it is a grievous sorrow and burden; 
+only cheerfully submitted to and
+embraced under a religious fanaticism and self-abnegation 
+rare to behold, and possible only to women.
+They are taught to believe, and many of them really
+do believe, that through and by it they secure a
+higher and more glorious reward in the future world.
+<q>"Lord Jesus has laid a heavy trial upon me,"</q> said one
+poor, sweet woman, <q>"but I mean to bear it for His
+sake, and for the glory He will grant me in His kingdom."</q> 
+This is the common wail, the common solace.</p>
+
+<p>In some cases the common wives live harmoniously
+and lovingly together; oftener, it would seem, they
+have separate parts of the same house, or even separate houses. 
+The first wife is generally the <choice><orig>recog-
+
+<pb n="250" xml:id="mmm.wa.bowles.1869.263"/>
+
+nized</orig><reg>recognized</reg></choice> one of general, especially of Gentile society, and frequently 
+assumes contempt for the others, regarding them as concubines, 
+and not wives. But it is a dreadful state of society to any one 
+of fine feelings and true instincts; it robs married life of all its
+sweet sentiment and companionship; and while it
+degrades woman, it brutalizes man, teaching him to
+despise and domineer over his wives, over all women.
+It breeds jealousy, distrust, and tempts to infidelity;
+but the police system of the church and the community is so 
+strict and constant that it is claimed and
+believed the latter vice is very rare. As I have said,
+we had little direct communication with the women of
+the Saints; but their testimony came to us in a hundred 
+ways, sad, tragic, heart-rending. One woman,
+an educated, handsome person, as yet a single wife,
+said, with bated breath and almost hissing fury, to
+one of our party, in some aside discussion of the subject,&#8212;
+<q>" Polygamy is tolerable enough for the men,
+but it is hell for the women."</q> Poor creature, she has
+now bitterly realized in her own what she then saw
+in other lives, for her brute of a husband has since
+had <q>" sealed "</q> to himself, not only for eternity but for
+earth, two or three young and fresh girls.</p>
+
+<p>The only half wives we saw intimately were two
+young Englishwomen, of nearly equal years; they
+appeared together in the parlor and in public with
+their husband, and dressed alike; but they had the
+same quiet, subdued, half-sad air that characterized
+all the Mormon women, young and old, that I saw
+in public or private. There is certainly none of that
+<q>"loudness"</q> about the Mormon ladies that an 
+<choice><orig>East-
+
+<pb n="251" xml:id="mmm.wa.bowles.1869.264"/>
+
+ern</orig><reg>Eastern</reg></choice> man cannot help observing in the manners of our
+Western women generally. And I hardly think the
+difference is to be attributed to the superior refinement
+and culture of the sisters of the Salt Lake
+Basin; it rather and really is the sign and mark of
+their servitude, their debasement. Indeed, we have
+the frequent testimony of the husbands, and even of
+Brigham Young himself; to the irreconciliation of
+wives with the polygamous state. Said Young in a
+public sermon: <q>"It frequently happens that women
+will say they are unhappy; and husbands testify that
+&#8216;my wife, though a most excellent woman, has not
+seen a happy day since I took my second wife.&#8217;"</q>
+And then he proceeded to scold them for their rebellious feelings, and to enjoin upon them the Divine
+duty of sweet submission!</p>
+
+<p>The first generation of Mormon-born girls and boys
+is just now coming to maturity. Despite their education 
+they are not very eager to embrace the Divine
+institution. But it is hard to escape its meshes.
+Some of the girls have bolted and married Gentiles;
+but more have been gobbled up as fresh victims for
+the middle-aged and old men of the church. The
+elders preach submission to this to the girls with 
+sanctimonious solemnity as a Christian duty, and then
+make haste to take advantage of the conviction they
+have gained. Two unmarried Mormon young men
+stated the case very humanly when they said: <q>"This
+polygamy would be all right, only the women, you
+know, &#8216; pull hair &#8217; so like darnation!"</q></p>
+
+<p>Polygamy introduces many curious cross-relationships, 
+and intertwines the branches of the genealogical
+
+<pb n="252" xml:id="mmm.wa.bowles.1869.265"/>
+
+tree in a manner greatly to puzzle a mathematician,
+as well as to disgust the decent-minded. The marrying of 
+two or more sisters is very common; one young
+Mormon merchant in Salt Lake City has three sisters
+for his three wives. There are several cases of men
+marrying both mother (widow) and her daughter or
+daughters; taking the <q>"old woman"</q> for the sake of
+getting the young ones; but having children by all.
+Please to cipher out for yourselves how this mixes
+things. Consider, too, how these children of one
+father and many mothers,&#8212;the latter often blood
+relations,&#8212;are likely to become crossed again in new
+marriages, in the second or third, if not the first,
+generations, under the operations of this polygamous
+practice; and it is safe to predict that a few generations 
+of such social practices will breed a physical,
+moral and mental debasement of the people most
+frightful to contemplate. Already, indeed, are such
+indications apparent, foreshadowing the sure and terrible realization.</p>
+
+<p>In many cases, the Mormon wives not only support
+themselves and their children, but help support their
+husbands. Thus a clerk or other man, with similar
+limited income, who has yielded to the fascinations
+and desires of three or four women, and married them
+all, makes his home with number one, perhaps, and
+the rest live apart, each by herself, taking in sewing
+or washing, or engaging in other employment, to
+keep up her establishment and be no charge to her
+husband. He comes around, once in a while, to
+make her a visit, and then she sets out an extra
+table and spends all her accumulated earnings to
+
+<pb n="253" xml:id="mmm.wa.bowles.1869.266"/>
+
+make him as comfortable and herself as charming
+as possible, so that her fraction of the dear sainted
+man may be multiplied as much as may be. Thus
+the fellow, if he is lazy and has turned his piety to
+the good account of getting smart wives, may really
+board around continually, and live in clover, at no
+personal expense but his own clothing. Is not this a
+divine institution, indeed!</p>
+
+<p>Brigham Young&#8217;s wives are numberless; at least
+no one seems to know how many he has; and he has
+himself confessed to forgetfulness in the matter. The
+probability is he has from sixteen to twenty genuine
+or complete wives, and about as many more women
+<q>"sealed"</q> to him for heavenly association and glory.
+The latter are mostly pious old ladies, eager for high
+seats in the Mormon heaven, and knowing no surer
+way to get there than to be joined on to Brigham&#8217;s
+angelic procession. Some of these sealed wives of
+his are the earthly wives of other men; but, lacking
+faith in their husbands&#8217; heavenly glory, seek to make
+a sure thing of it for the future by the grace of gracious Brigham.
+Down East, you know, many a huband calculates on stealing into heaven under the
+pious petticoats of his better wife; here the thing is
+reversed, and women go to heaven because their
+husbands take them along. The Mormon religion is
+an excellent institution for maintaining masculine
+authority in the family; and the greatness of a true
+Mormon is measured, indeed, by the number of wives
+he can keep in sweet and, loving and especially obedient 
+subjugation. Such a man can have as many
+wives as he wants. But President Young objects
+
+<pb n="254" xml:id="mmm.wa.bowles.1869.267"/>
+
+to multiplying wives for men who have not this rare
+domestic gift; and he finds great annoyance in being
+teased by men, unfit to drive double teams of women,
+to let them try their hands.</p>
+
+<p>Brigham Young has in all some sixty or seventy
+children; the younger ones, as seen in his school, to
+which we were admitted, looked sprightly and bright
+and handsome; and some of his grown up daughters
+are comely and clever; but his older sons give no
+marked sign of their father&#8217;s smartness. Brigham,
+Jr., and Joseph A. have set up as polygamists and
+prophets for themselves. They are big and burly
+fellows; Brigham has shown some business capacity,
+and has been a good deal of the time for years in
+England and New York, forwarding the emigration
+of the church; but the accomplishments of the other
+are summed up as smoking good cigars, drinking
+good liquors, playing poker, licking his wives, and
+preaching the Mormon Gospel. It cannot be said,
+surely, that he does not practice what he preaches.</p>
+
+<p>The grand Head of the Church manages his household
+on strict business principles. A son-in-law acts
+as commissary; the wives have nothing to do with
+the table or its supply; and whenever they want
+new clothes or pocket-money, they must go to this
+chief of staff or head of the family bureau. He does
+not allow any of them to come begging or whining
+about him for any cause,&#8212;when he wants one, he
+sends for her. And the rule for children, <q>"Speak
+when you are spoken to, and not otherwise,"</q> is the
+law of his domestic economy. Considering his opportunities,
+he seems to have made a rather 
+sorry <choice><orig>selec-
+
+<pb n="255" xml:id="mmm.wa.bowles.1869.268"/>
+                    
+tion</orig><reg>selection</reg></choice> of women on the score of beauty. The oldest
+or first is a matronly-looking old lady, serene and
+sober; the youngest and present pet, who was obtained, 
+they say, after much seeking, is comely but
+common-looking, despite the extra millinery in which
+she alone of the entire family indulges; while all between are very  
+<q>"or&#8217;nary"</q> indeed. Handsome women
+and girls, in fact, are scarce among the Mormons of
+Salt Lake,&#8212;the fewer Gentiles can show many
+more of them. Why is this? Is beauty more esthetic and ascetic? Or, good-looking women being
+supposed to have more chances for matrimony than
+their plainer sisters, do they all insist upon having
+the whole of one man, and leave the Mormon husbands to those whose choice is like Hobson&#8217;s?</p>
+
+<p>The following list and description of Brigham
+Young&#8217;s family, made up from various sources by
+Mr. Coffin of Boston, who visited Salt Lake City in
+1868, agree substantially with the information we
+obtained concerning them during our earlier visit.
+The extract will help my readers to a personal 
+appreciation of the fact and operation of polygamy; but
+it is an institution, after all, whose realities neither
+description nor imagination can fairly set before the
+mind:&#8212;</p>
+
+<p><q>"This is the harem. A covered passage leads from the ground floor
+to another building East in which is the general business office of
+Young, and from which telegraph wires run to every hamlet
+in the Territory. Another passage leads to the private office of Brigham
+&#8212;back of which is his private bedroom, where his concubines wait
+upon him,&#8212;Amelia to-day, Emeline to-morrow, Lucy the day after.</q></p>
+
+<p><q>" Brigham&#8217;s lawfully wedded wife was Mary Ann Angell,&#8212;a native
+of New York,&#8212;the mother of five children,&#8212;Joseph, or <q>" Joe "</q> as he
+                    
+<pb n="256" xml:id="mmm.wa.bowles.1869.269"/>
+                    
+is called at Salt Lake, Brigham A., John, Alice and Luna. She
+married the prophet while he was a young man, before he was a
+prophet, and with him accepted the revelations of Joseph Smith. She
+lives in a large stone building in the rear of the harem. Brigham does
+not often visit her now.</q></p>
+
+<p><q>" His first concubine is Lucy Decker. She is the lawful wife of Isaac
+Seely, mother of two children; but Brigham could make her a queen
+in heaven, and so, bidding good-by to Isaac, she became first concubine, 
+and has added eight children to the prophet&#8217;s household.</q></p>
+
+<p><q>"Her younger sister, Clara Decker, also aspired to be a heavenly
+queen, and became his second concubine, and is the mother of four
+children.</q></p>
+
+<p><q>" The third is Harriet Cook, mother of one turbulent boy, who does
+pretty much as he pleases, as does the mother. When in her tantrums 
+she does not hesitate to send Brigham to the realm of evil spirits.</q></p>
+
+<p><q>" Lucy Bigelow is said to be one of the most lady-like of all the
+concubines. Mrs. Waite, wife of one of the United States Judges of
+the Territory, who saw all of the ladies of the harem, describes her as
+of middling stature, dark brown hair, blue eyes, aquiline nose and a
+pretty mouth. She is pleasant and affable.</q></p>
+
+<p><q>"Miss Twiss has sandy hair, round features, blue eyes, low forehead,
+freckled face, but as she has no children, is not of much account
+in the eyes of the prophet. She looks after his clothes, sews buttons
+on his shirts, and acts the part of a housewife.</q></p>
+
+<p><q>" Martha Bowker is another of the same sort, quiet, neat in dress,
+childless, and therefore of little account.</q></p>
+
+<p><q>" Harriet Barney, like Lucy Decker, left her husband and three children
+to become a concubine that she might have exaltation in Heaven,
+but has not been honored in the harem, not having added any children
+to the household.</q></p>
+
+<p><q>"Eliza Burgess is the only English woman in the harem, small of
+stature, black eyes. quick-tempered, but mother of several children.</q></p>
+
+<p><q>" Ellen Rockwood, daughter of the jail-keeper, is another of the
+unfortunate women&#8212;not having had children.</q></p>
+
+<p><q>"Mrs. Hampton, whose first husband died at Nauvoo, afterward
+married a man by the name of Cole, who left her at Nauvoo and went
+to California. Brigham, hearing of his departure, sent for the wife,
+who obeyed the summons and became a concubine, lived in the harem
+
+<pb n="257" xml:id="mmm.wa.bowles.1869.270"/>
+                    
+eight years, then was cast out by Brigham. She now lives at Ogden
+City with her son, Nephi Hampton.</q></p>
+
+<p><q>" Mary Bigelow is another castaway. She lived in the harem several
+years, but Brigham became tired of her and sent her away.</q></p>
+
+<p><q>" Margaret Pierce is another who, not having added to the glory of
+the prophet by being a mother, is of little account, though still in the
+harem.</q></p>
+
+<p><q>"Emeline Free, as described by Mrs. Waite, is the <q>" light of the
+harem,"</q> tall, graceful, mild, violet eyes, fair hair, inclined to curl.
+She was a lively young lady, and Brigham fell in love with her. Her
+father and mother were opposed to polygamy, but Emeline had ambitious 
+projects, accepted his proposal and became the favorite of the
+harem. The favor shown her brought on a row. The other concubines 
+carried this jealousy to such a pitch that the prophet had a private
+pasage constructed from his bed-room to Emeline&#8217;s room, so that his
+visits to her and her&#8217;s to him could be made without observation. She
+has contributed greatly to his glory in the future world by presenting
+him with eight children in this.</q></p>
+
+<p><q>"The poetess of the church is Eliza Snow, said to be quite intellectual.
+In one of her poems published in Brigham&#8217;s paper, the &#8217;Deseret News,&#8217;
+she thus exalts the Mormon religion;</q></p>
+
+<lg><l>&#8216; We have the ancient order,</l>
+<l>To us by prophets given:</l>
+<l>And here we have the pattern</l>
+<l>As things exist in heaven!&#8217;</l></lg>
+
+<p><q>"From which we are to understand that there are harems in heaven!
+So the Turk believes.</q></p>
+
+<p><q>"Zina Huntington also writes poetry and acts as a sort of governess
+to the numerous children of the prophet. Zina came to Salt Lake with
+her lawfully wedded husband, Dr. Jacobs. Brigham liked her, sent
+the doctor on a missionary tour to England, took his wife into the harem,
+and became the spiritual father of her children,&#8212;made her his temporal
+concubine that he might also exalt her to be a queen in heaven! The
+doctor returned from his mission, apostatized, and went to California,
+where he now resides.</q></p>
+
+<p><q>"Amelia Partridge has added four children to the prophet&#8217;s 
+household. She is said to be of a sweet disposition and is not jealous when
+the prophet turns his attentions to the other concubines.</q></p>
+
+<pb n="258" xml:id="mmm.wa.bowles.1869.271"/>
+
+<p><q>"Mrs. Augusta Cobb was formerly a Bostonian, became converted
+to Mormonism eighteen years ago,left her home and accepted a position
+in the harem.</q></p>
+
+<p><q>"Mrs. Smith, a devout Mormon, wished to be sealed to Brigham for
+eternity, but the prophet did not care to make her a heavenly queen.
+He sealed her to Joseph Smith for eternity and to himself for time.</q></p>
+
+<p><q>"One 'poor unfortunate' Clara Chase, became a maniac, and has
+gone to where the wicked cease from troubling.</q></p>
+
+<p><q>" Amelia Folsom, a native of Portsmouth, N. H., is the mistress of
+the harem. She entered it on the 29th of January, 1863. She was
+then about nineteen and the prophet sixty-three. She has things
+pretty much her own way,&#8212;private box at the theater, carriage of her
+own, silks, satins, a piano, parlor elegantly furnished. If the prophet
+slights her, she pays him in his own coin."</q></p>
+
+-->
+
+</div1>
+    
+<div1 type="chapter">
+                    
+<pb n="259" xml:id="mmm.wa.bowles.1869.272"/>
+
+<head>XIII. THE FUTURE OF THE MORMONS.</head>
+
+<quote><p>What of the Church and Polygamy?&#8212;How the Problem will be
+Solved&#8212;No Fit Successor for Brigham Young&#8212;The Past Neglect
+and Present Duty of the Government&#8212;The Division of the Territory
+&#8212;How the Soldiers attack Polygamy&#8212;The Order of Danite Assassins,
+and their Bloody Work&#8212;The Mountain Meadow Massacre&#8212;The
+Rebellious Morrisites and Josephites&#8212;Summing up of Observations
+in Utah and our Conclusions&#8212;0ur Stage Driver <q>"The Coming Man."</q></p></quote>
+
+<!--
+
+<p>What will become of the Mormons? Is polygamy
+to be fastened upon our social institutions, and are
+we to have a State of polygamists? If not, how is
+the evil to be cured? These are questions that every
+visitor in Utah, every student of the anomaly there
+so flourishing, asks of himself and of his neighbor.
+They seemed easier of answer in 1865 than now in
+1869, for both polygamy and the power of the church
+that backs it have greatly increased since then; and
+yet I cannot but think we are nearer the solution of
+the problem,&#8212;not only as to time, but in means,&#8212;
+now than then. The whole spirit of the social life, the
+religion, the political government in operation there, is
+in such antagonism to everything American, to everything modern,
+that it must give way. It is Romish,
+
+<pb n="260" xml:id="mmm.wa.bowles.1869.273"/>
+                    
+barbaric, monarchical; it crushes and degrades the
+individual, to uphold a system as tyrannical over persons and 
+property as that of any Czar ever was, as
+supreme over the mind as that of any Pope, as enslaving to 
+woman as that of any Sultan. The Railroad now crosses the Territory;
+it will soon pass up and down through it; and though the Apostles say
+they are not afraid of its influences, either upon the
+Mormon church or its <q>" peculiar institution,"</q> and
+Brigham Young declares that his <q>"must, indeed, be
+a. &#8212; poor religion, if it cannot stand one railroad,"</q> he
+and they will find out that it cannot and will not.
+Thousands of Gentiles will come in now, where tens
+came before; the railroads must have great work
+and supply shops at important points in the Territory; 
+and they will bring a power of numbers and of
+influence, that cannot be met by the social, business
+or murdering persecutions, that have heretofore kept
+all foreign and resisting elements timid and weak.</p>
+
+<p>What precise form the revolution will take,&#8212;where
+the wedge will be entered that shall split this rotten
+trunk to pieces, no one can wisely predict. The government 
+cannot longer be so indifferent and neglectful of the 
+situation here as it has been; it must come
+here with authority and power to protect citizens who
+are not Mormons, and will not be subservient to them,
+who will try titles to property with them, who will
+claim the right to marry their superfluous wives, who
+will set up rival churches and schools and papers, and
+all the other enginery of freedom and revolution. The
+work may be slow,&#8212;sapping the strength of the church
+by the processes of education, discussion and law, and
+
+<pb n="261" xml:id="mmm.wa.bowles.1869.274"/>
+polygamy may fade away by degrees through the
+death of the old, and the absence of new disciples,
+&#8212;or it may come suddenly and sharply in a violent
+collision between the new settlers and the old, with
+the government taking the side of the former as the
+side of its long-neglected, long-outraged laws. But
+come it must and will. To doubt would be to question 
+progress, to deny civilization, to outrage God.</p>
+
+<p>I can discover no successor to Brigham Young.
+He has men of ability,&#8212;men of fanaticism and 
+courage,&#8212;around him; able instruments for his will; but
+I see no <q>" coming man"</q> for his place; no one who
+can stand alone in his shoes, who can command such
+obedience among followers, such fear among outsiders, 
+such serene victory over himself Most of
+his wisest and ablest associates, men inspired with
+the traditions of the church, and inspiring the faith
+of its members, are all old like himself. They and
+he must soon die; and, if not before, then will enter
+in the elements of doubt and difference and disintegration, 
+in response to the elements of change and
+revolution and re-creation that follow the banners of
+civilization and of democracy everywhere. No Mormon will 
+admit this, perhaps; but it is truth by a
+diviner sight than any that he possesses. Devout as
+a Mussulman, devoted as a Romanist, zealous as a
+Methodist, there is a higher truth than he has mastered,
+&#8212;the truth of revolution in the interests of
+equality, of individuality, and of woman&#8217;s independence. 
+These are against him; these will conquer him,
+pray he ever so sacredly, fight he ever so valiantly.
+Brigham Young, Louis Napoleon, the Sultan and the
+
+<pb n="262" xml:id="mmm.wa.bowles.1869.275"/>
+                    
+Pope are all doomed by the same law. Slavery
+went down under it, polygamy will follow.</p>
+
+<p>But the government should no longer hold a doubtful 
+or divided position toward this great crime of the
+Mormon church. Declaring clearly both its want of
+power and disinclination to interfere at all with the
+church organization as such, or with the latter&#8217;s 
+influence over its followers, assuring and guaranteeing
+to it all the liberty and freedom that other religious
+sects hold and enjoy, the government should still,
+as clearly and distinctly, declare, by all its action
+and all its representatives here, that this feature of
+polygamy, not properly or necessarily a part of the
+religion of the Mormons, is a crime by the common
+law of all civilization and by the statute law of the
+Nation, and that any cases of its extension will be
+prosecuted and punished as such. Now half or two-
+thirds the federal officers in the Territory are polygamists; 
+and others bear no testimony against it.
+These should give way to men who, otherwise
+equally Mormons it may be, still are neither polygamists 
+nor believers in the practice of polygamy.
+No employes or contractors of the government should
+be polygamists in theory or practice.</p>
+
+<p>Here the government should take its stand, calmly,
+quietly, but firmly, giving its moral support and
+countenance, and its physical support, if necessary for
+fair play, to the large class of Mormons who are not
+polygamists, to missionaries and preachers of all other
+sects, who choose to come here, and erect their
+standards and invite followers; and to that growing
+public opinion, here and elsewhere, which is 
+<choice><orig>accumu-
+
+<pb n="263" xml:id="mmm.wa.bowles.1869.276"/>
+                    
+lating</orig><reg>accumulating</reg></choice> its inexorable
+force, against an institution which
+has not inaptly been termed a twin barbarism with
+slavery. There is no need and no danger of physical
+conflict growing up; only a hot and unwise zeal and
+impatience on the part of the government representatives, 
+and in the command of the troops stationed
+here, could precipitate that. There is a possibility
+still, as there was probability in 1865, that, upon such
+a demonstration by the government, as these pages
+urge, the leaders of the church would receive new
+light on the subject themselves,&#8212;perhaps have a
+fresh revelation, and abandon the objectionable feature 
+in their polity. No matter if they did not,&#8212;it
+would soon, under the influences now rapidly aggregating, 
+and thus reinforced by the government, abandon them.</p>
+
+<p>In this way, all violent conflict would, I believe,
+be successfully avoided; and all this valuable population 
+and its industries and wealth may be retained in
+place and to the Nation, without waste. Let the people
+continue to be Mormons, if they choose, so long as
+they are not polygamists. They may be ignorant
+and fanatical, and imposed upon and swindled even,
+by their church leaders; but they are industrious,
+thriving, and more comfortable than, on the average, 
+they have ever been before in the homes from
+which they came hither; and there is no law against
+fanaticism and bigotry and religious charlatanry. All
+these evils of religious benightment are not original
+in Utah, and they will work out their own cure here,
+as they have done elsewhere in our land. We must
+have patience with the present, and possibly 
+<choice><orig>forgive-
+                    
+<pb n="264" xml:id="mmm.wa.bowles.1869.277"/>
+                    
+ness</orig><reg>forgiveness</reg></choice> for supposed crimes in the past by the leaders, because we have 
+heretofore failed to meet the issues promptly and clearly, 
+and have shared, by our consent and protection to 
+their authors, in the alleged wrongs.</p>
+
+<p>Though the Territory has abundant population for
+a State, there is and should be no disposition in 
+Congress or the country to endow it with that organization, 
+so long as its people continue to be so at variance
+with all the democratic principles of our nationality.
+It must be kept, at least, where the federal government 
+can reach and govern it, so long as its local
+organization is such a pure religious autocracy, ruling
+in a manner defiant alike of the laws and constitution
+of the United States, and the first principles of a
+republican government. Not only is a tree press and
+a free speech practically denied; not only is justice
+driven out of the courts; but the simplest rights of a
+man over his own property are outraged. When a
+Mormon dies, the church assumes control of his
+estate,&#8212;it goes practically into the common coffers,
+and the widows and children, however numerous, get
+henceforth only what the church chooses to give
+them. The idea of dividing the Territory up among
+the adjoining Territories is not practicable now; under it, 
+the Mormons, instead of being divided and
+conquered, would divide and conquer; for, with their
+numbers and discipline, they could out-vote and out-
+manage three territories. The changes of population,
+by the opening of the Railroad and the discovery of
+new mines in adjoining sections of Nevada, will soon
+suggest the practical manner of reforming the 
+<choice><orig>Mor-
+                    
+<pb n="265" xml:id="mmm.wa.bowles.1869.278"/>
+                    
+mons</orig><reg>Mormons</reg></choice>,&#8212;very likely reform them by their own operation, and without the government 
+being more than a policeman on guard to keep the peace.</p>
+
+<p>The soldiers at Camp Douglas, near Salt Lake
+City, were, during our visit, illustrating one of the
+ways in which polygamy will fade away before the
+popular principle. Two companies, who went home 
+to California in the fall of 1864, took about twenty-
+five wives with them, recruited from the Mormon
+flocks. There were in 1865 some fifty or more women
+in the camp, who had fled thither from town for protection, 
+or been seduced away from unhappy homes
+and fractional husbands; and all or nearly all found
+new husbands among the soldiers. Only the week
+we were there, a man with three daughters, living in
+the city, applied to Colonel George for leave to move
+up to the camp for a residence, in order, as he said,
+to save his children from polygamy, into which the
+bishops and elders of the church were urging them.
+The camp authorities tell many like stories; also of
+sadder applications, if possible, for relief from actual
+poverty and from persecution in town. The Mormons have no 
+poor-house, and say they have no poor,
+permitting none by relieving all through work or gifts.
+But a late winter was so long and so severe, with wood
+at thirty and forty dollars a cord, that there was much
+real suffering, and the soldiers yielded to extensive
+demands upon their charity, that the church authorities had 
+neglected to fulfill, or absolutely denied.</p>
+
+End of Section Not Relevant to Mountain Meadows -->
+
+<p>We hear less of late than in past years of the order
+of the <q>"Danites,"</q> a band of secret Mormon assassins,
+who, under the direction of Brigham Young, put out
+
+<pb n="266" xml:id="mmm.wa.bowles.1869.279"/>
+                    
+of the way any particularly threatening or provoking
+opponents of the church. But of their existence and
+diabolical operations there can be no doubt. In the
+fall of 1857 a Mormon sued Brigham Young for false
+imprisonment; the day before the suit came to court
+he was shot in his own house. In 1858, two men
+obtained a judgment of the court against a leading
+Danite, and both were shot in cold blood. About the
+same time, Mr. Babbitt, Secretary of the Territory,
+had a quarrel with Young, and was murdered. In
+1866, Mr. Beanfield of Austin, Nevada, a highly 
+respectable gentleman, had some difficulty with the 
+Mormons, and was shot. In October, the same year, Dr. 
+Robinson, Surgeon of the United States Army, who
+had taken possession of unoccupied land, was called
+from his house at night to visit a patient, and was
+shot. In August, 1867, three men,&#8212;Potter, Wilson
+and Walker,&#8212;who had given offense to the church,
+were arrested on the pretense of stealing a cow and
+put into jail. At midnight sixteen Avengers, disguised, 
+broke open the jail and murdered all three.
+The United States Marshal arrested them, but the
+Mormon Sherif permitted them to escape, without
+any effort to retain them; and the <q>"Deseret News,"</q>
+the organ of the church, published a threatening letter 
+to Judge Titus and backed it up by editorials,
+warning the Chief Justice to leave the Territory,
+and menacing him with death if he remained!</p>
+
+<p>Some of these sharp and swift punishments for
+offending or resisting the Mormons have been on a
+larger scale. The Mountain Meadow massacre <seg type="Massacre" subtype="Dates">of a
+dozen years ago</seg>, in the southern part of the 
+<choice><orig>Terri-
+                    
+<pb n="267" xml:id="mmm.wa.bowles.1869.280"/>
+                    
+tory</orig><reg>Territory</reg></choice>, is one of the most notable cases. Its history is as follows:&#8212;<seg type="Context" subtype="PrattMurder">One of the Mormon missionaries, <persName key="Pratt, Parley P.">Parley P.
+Pratt</persName>, was in Southern <placeName type="state" key="California">California</placeName> preaching, and made
+a convert of a married woman, whose husband was
+absent. She left home, joined herself to <persName key="Pratt, Parley P.">Pratt</persName>, and
+became his concubine. The husband determined to
+be revenged, followed them to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, then to 
+<placeName type="state" key="Arkansas">Arkansas</placeName>, where <persName key="Pratt, Parley P.">Pratt</persName> was preaching, and took vengeance 
+by shooting him.</seg> Months passed on. One day
+<seg type="Emigrants" subtype="StateAffiliationArkansas">a party of emigrants from the county in <placeName type="state" key="Arkansas">Arkansas</placeName> in
+which the homicide was committed</seg> <seg type="Emigrants" subtype="Route">reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>,
+on their way to Southern <placeName type="state" key="California">California</placeName></seg>. <seg type="Emigrants" subtype="WagonTrain">It was a party
+well to do in the world,&#8212;forty wagons and about one
+hundred and fifty persons. <seg type="Massacre" subtype="Spoils">In one wagon was a piano.</seg> One emigrant, with his family, rode in a well built
+carriage.</seg> <seg type="Encounter" subtype="TradeLDS">They purchased provisions of the Mormons and passed on</seg>, reached <geogName type="valley" key="Mountain Meadows">the green meadow among the mountains</geogName> and stopped to recruit their stock before entering the desert. Several Mormon settlements
+were near by; some houses within sight. <seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently">Suddenly they were attacked by Indians</seg>, or white men disguised as Indians.</seg> <seg type="Massacre" subtype="Dates">It was at daylight.</seg> The emigrants fought from behind their wagons, threw up a ditch and kept the assailants at bay. The fighting lasted a week.
+<seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS">One morning a Mormon advanced, told them that if they would give up their arms, the Indians would not
+harm them. They complied with his request. Then
+began the massacre.</seg></seg></seg><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties"> All but seventeen children were
+killed, and the oldest of these was only six years old,
+&#8212;too young to give certain testimony, except that
+their fathers were shot down, their mothers and sisters 
+outraged, and then <seg type="Blame" subtype="LDS_LDS">had their brains beaten out
+                    
+<pb n="268" xml:id="mmm.wa.bowles.1869.281"/>
+                    
+by men, who, though wearing an Indian dress, could
+speak the English language.</seg></seg></seg> <seg type="Massacre" subtype="Spoils">A few days after the
+massacre, the wagons, horses, carriages, and clothing of
+the murdered ones, were brought to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> and
+sold. Ten per cent. of the proceeds went into the
+treasury of the church. <persName key="Young, Brigham">Brigham Young</persName> bought the carriage for his own use, and the piano is now owned
+by one of the leading Mormons.</seg></p>
+
+<!-- Section Not Relevant to Mountain Meadows:
+
+<p>There have been two or three prominent apostasies
+from the church in the Territory during its history.
+The two most important were those of Joseph Morris
+in 1860, and of Joseph Smith, Jr., son of the original
+prophet, in 1863-5. Of the followers of Morris, some
+were killed and nearly all robbed by the Mormon
+leaders in Salt Lake City in 1862, under pretense of
+enforcing the confiscations of the church against them
+for their rebellious conduct; and those who held out
+against this assault and the continuous persecution of
+the church, some eighty families, moved off to Idaho
+Territory, and have made a settlement there. The
+disciples of Joseph Smith, Jr., or <q>"Josephites,"</q> are
+scattered in Missouri and Iowa, number about fifteen
+hundred, and include several hundred who left Utah
+in 1864-5, under government protection, for fear of
+massacre by the instruments of Young. Smith is a
+man of sincerity and purity, but lacks the courage and
+the force to cope fairly with the combination under
+Brigham Young at Salt Lake City. His creed denounces 
+Young and his followers as apostates from the true 
+Mormon church, forbids polygamy, and professes loyalty 
+to the government. The Josephites are thus reduced to a mere sect of Protestantism, as
+
+<pb n="269" xml:id="mmm.wa.bowles.1869.282"/>
+                    
+Mormonism would be in the overthrow of polygamy
+and the severance of its church government from
+State craft.</p>
+
+<p>All our experience and observation in Utah tended,
+however, to increase our appreciation of the value of
+its material progress and development to the nation;
+to justify congratulations to the Mormons and to the
+country for the wealth they have created and the
+order, frugality, morality and industry that have been
+organized in this remote spot in our Continent; to
+excite wonder at the perfection and power of their
+church system, the extent of its ramifications, the
+sweep of its influence; and to enlarge our respect for
+the personal sincerity and character of many of the
+leaders in the organization;&#8212;but also, on the other
+hand, to deepen our disgust at their polygamy, and
+strengthen our convictions of its barbaric and degrading 
+influences. They have tried it and practiced
+it under the most favorable circumstances, perhaps
+under the mildest form possible; but, now as before,
+here as elsewhere, it tends to and means only the
+degradation of woman. By it and under it, she becomes 
+simply the servant and serf, not the companion
+and equal of man; and the inevitable influence of
+this upon all society need not be depicted.</p>
+
+<p>And so we could not, and cannot yet, doubt that,
+sooner or later, before the influences of emigration,
+civilization and our democratic habits, an organization 
+so aristocratic and autocratic as the Mormon
+church now is must modify its rule; it must compete
+with other sects, and take its chance with them. And
+especially, that its most aristocratic and uncivilized
+
+<pb n="270" xml:id="mmm.wa.bowles.1869.283"/>
+                    
+incident or feature of plurality of wives must fall first
+and completely before contact with the rest of the
+world,&#8212;marshalled with mails, daily papers, railroads
+and telegraphs,&#8212;ciphering out the fact that the men
+and women of the world are about equally divided, and
+applying to the Mormon patriarchs the democratic
+principle of equal and exact justice. Nothing can
+save this feature of Mormonism but new flight and a
+more complete isolation. A kingdom in the sea, entirely 
+its own, could only perpetuate it; and thither,
+even, commerce and democracy would ultimately follow it. 
+The click of the telegraph and the roll of
+the overland stages were its unheeded death-rattle;
+the whistle of the locomotive will speedily sound its
+requiem; and the pickax of the miner is already
+digging its grave. Squatter sovereignty must ere
+long settle the question, even if the government 
+continues to coquette with the offense and humor the
+offenders, as it has done. Our bachelor stage-driver
+out of Salt Lake, who said he expected to have a
+revelation soon to take one of the extra wives of a
+Mormon saint, is a representative of the Coming Man.
+Let the Mormons look out for him! </p>
+
+-->
+
+</div1>
+</body>
+</text>
+</TEI>

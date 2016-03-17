@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfeb.18580812">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Morman Agency In Last Year's Massacre At Mountain Meadows</title>
+		<title level="m" type="sub"></title>
+	  	<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfeb.18580812</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">San Francisco Daily Evening Bulletin</title>
+		    <title level="a" type="main">Morman Agency In Last Year's Massacre At Mountain Meadows</title>
+		    <publisher></publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1858-08-12">August 12, 1858</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+   </profileDesc>
+
+   <revisionDesc>
+	<change when="2011-04-20"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2010-02-23"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.sfeb.18580812.001"/>
+
+<head type="main">Mormon Agency in Last Year’s Massacre at Mountain Meadows.</head>
+
+<p><seg type="Source" subtype="Reprinted">A correspondent of the <orgName type="newspaper" key="Southern Vineyard">Southern <hi rend="italic">Vineyard</hi></orgName>, writing from <placeName type="county" key="San Bernardino County, CA">San Bernardino</placeName>, gives and account of <seg type="Blame" subtype="LDS_LDS">the part the Mormons played in the massacre</seg> <seg type="Massacre" subtype="Dates">last year</seg> of a large body of emigrants <seg type="Emigrants" subtype="Route">bound for <placeName type="state" key="California">California</placeName></seg>. He says:</seg></p>
+
+<p><seg type="Source" subtype="Reprinted"><seg type="Blame" subtype="LDS_LDSRetribution">The Mormons have sworn vengeance against the people of <placeName type="county" key="San Bernardino County, CA">San Bernardino</placeName>, and they say they have never sold their land, but only took what the devil saw fit to give them, and they intend to make them pay tribute to the Lord by Daniting them, as they did the <seg type="Massacre" subtype="Casualties">men, women and children</seg> <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> <seg type="Massacre" subtype="Dates">last fall</seg></seg>, who I am credibly informed, were massacred in the following manner:</seg></p>
+
+<p><seg type="Source" subtype="Reprinted"><seg type="Blame" subtype="IndiansLDSInfluence">The Mormons armed a party of Indians, and instructed them at what place to attack the doomed emigrants. The Indians obeyed council</seg>, but <seg type="Massacre" subtype="Battle">the men of the train, having their women and children by their sides, and all at stake, fought manfully; and my informant says they could have fought all the way to <placeName type="state" key="California">California</placeName> had it not been for <seg type="Blame" subtype="IndiansLDSInfluence">a fiendish Mormon Danite, who had been sent to instruct the Indians how to manage.</seg></seg></seg></p>
+
+<p>[Moderately accurate version of massacre follows]</p>
+
+<p><seg type="Massacre" subtype="SexualViolence"><seg type="Blame" subtype="LDS_LDS">But does the hellish deed stop here? No. What next? That which followed can be more easily imagined than written or told! Suffice to say, <persName key="Dame, William H.">William H. Dame</persName>, Colonel of the Iron Military District, ordered the women to be stripped, which was done. He then, as <persName key="Matthew, William">William Matthew</persName>’s, formerly of <placeName type="county" key="San Bernardino County, CA">San Bernardino</placeName>, said, found them all diseased, and it was no harm to kill them.</seg></seg></p>
+
+<p>I have also been informed that one <persName key="Carter, David">David Carter</persName> was the means of saving the lives of the company of emigrants known as <persName key="Duke">Captain Duke</persName> and <persName key="Turner">Turner</persName>’s train, who were robbed of all their stock last fall, <persName key="Johnson, Nephi">Nephi Johnson</persName> was the man who commanded the Indians and Mormons on that occasion, and was the man who borrowed the pistol, and ran off the stock.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

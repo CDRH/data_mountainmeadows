@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.erskine.1934">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Broncho Charlie [Miller]: A Saga of the Saddle</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>Gladys</forename> <forename type="middle">Shaw</forename> <surname>Erskine</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.shaw.1934</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Broncho Charlie [Miller]: A Saga of the Saddle</title>
+                    <author><forename>Gladys</forename> <forename type="middle">Shaw</forename> <surname>Erskine</surname></author>
+                    <publisher>Thomas Y. Crowell Company</publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent>44-45</extent>
+                    <date when="1934">1934</date>
+		    <note type="source">Gladys Shaw Erskine. <hi rend="italic">Broncho Charlie [Miller]: A Saga of the Saddle</hi>. New York: Thomas Y. Crowell Company, 1934. 44-45.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-03-07"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+
+<pb n="44" xml:id="mmm.wa.erskine.1934.44"/>
+
+            <p>Well, to get on with my story about young <persName key="Tate, Billy">Billy Tate</persName>. <seg type="Massacre" subtype="Dates">Some time back in the fifties, 1857</seg> it was, a family name of Tate was with <seg type="Emigrants" subtype="WagonTrain">an emigrant wagon train <seg type="Emigrants" subtype="Route">comin' from the East to settle in Southern <placeName type="state" key="California">California</placeName></seg>. <seg type="Massacre" subtype="Casualties">There was about one hundred and twenty people &#8230; men, women, and children</seg> &#8230; in that group. Well, most of 'em were Methodists, and they had mornin' and evenin' prayers, when they halted on the long trek. One day they halted at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and, after their prayers, started out again, and met with a fate that has left a blot on the history of the settlin' of the West.</seg></p>
+
+            <p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Location">At <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> the emigrants were overtaken by a band of Mormons and Indians. Some of the Mormons was dressed like Indians &#8230; and they commenced firin' on the surprised emigrants. However, the emigrants was courageous, and they circled their wagons, and prepared to defend themselves. But they was too far from water to hold out. For four days they fought valiantly. During the third day it became necessary for them to get water &#8230; the women and the small children was cryin' that their throats was parched. That water hole was in plain sight, but it was covered by the fire of the enemy. <seg type="Massacre" subtype="Surrender">Well, the poor emigrants talked it over, and then, hopin' that the Mormons would have some pity on them, even if the Indians wouldn't, they dressed two little girls in white, and sent them, carryin' a bucket between
+
+<pb n="45" xml:id="mmm.wa.erskine.1934.45"/>
+
+them, toward the spring. The two little things was shot down, in sight of their horrified mothers.</seg></seg></seg></seg></p>
+
+            <p><seg type="Massacre" subtype="Surrender">A man named <persName key="Lee, John D.">Lee</persName> was in charge of the Mormons. On the mornin' of the fourth day, he sent a message to the men of the emigrant wagon train that he had orders to kill the entire company, <seg type="Massacre" subtype="Survivors">except the children</seg>. He offered 'em a truce, if they would lay down their arms. What could the men do? If they didn't take this chance, they would all die of thirst anyway, and they could no longer stand the pitiful cryin' of the children for water. So they marched out in good faith, and put themselves under the protection of this man, General <persName key="Lee, John D.">Lee</persName>. Well, he ordered the train and all to take up the line of march, and when they'd gone scarce half a mile he halted, and gave the command to shoot &#8230; and <seg type="Massacre" subtype="Casualties">all of 'em was shot down, in cold blood, in full sight of their wailing wives and sisters and little ones</seg>.</seg> <seg type="Massacre" subtype="Casualties">Some of the women was killed, too</seg> &#8230; but <seg type="Massacre" subtype="Survivors">all the children was carried away &#8230; and the idea was so make Mormons of 'em.</seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration">In 1859 General <persName key="Carleton, James Henry">Carlton</persName> put a cairn of stones on that spot, and this is what he had writ on it: "Here lie the bones of one hundred and twenty men, women, and children, <seg type="Emigrants" subtype="StateAffiliationArkansas">from Arkansas</seg>, murdered on <seg type="Massacre" subtype="Dates">the 10th day of September, 1857</seg>." And on a sort of cross-beam he had painted: "Vengeance is mine, I will repay, saith the Lord."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">And it sure do look as though the Lord doesn't forget, for, later, <persName key="Lee, John D.">John D. Lee</persName> was tried and executed by the Government, for his part in the Mountain Meadow massacre.</seg></p>
+
+            <p>Well, as I was tellin' you, little <persName key="Tate, Billy">Billy Tate</persName> and his father and mother was with this wagon train, and in the bloody massacre I've been tellin' you about. The Mormons stole the mother, but some way <persName key="Tate, Billy">Billy</persName> and his father got away, with three others &#8230; and they got finally to <placeName type="settlement" key="Silver City, NV">Silver City</placeName>, <placeName type="state" key="Nevada">Nevada</placeName>, which was then a pretty flourishin' mining town. Later on, they drifted still further west, and Billy was about fourteen when I first met him, and we was both ruin' the Pony Express.</p>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.greeley.1860">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">An Overland Journey from New York to San Francisco in the Summer of 1859</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Horace</forename> <surname>Greeley</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.greeley.1860</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">An Overland Journey from New York to San Francisco in the Summer of 1859</title>
+                    <author><forename>Horace</forename> <surname>Greeley</surname></author>
+                    <publisher>C. M. Saxton, Barker &amp; Co.</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <publisher>H. H. Bancroft &amp; Co.</publisher>
+                    <pubPlace>San Francisco</pubPlace>
+                    <extent>182-189; 219-229; 245-257; 258-274</extent>
+                    <date when="1860">1860</date>
+                    <note type="source">Horace Greeley. <hi rend="italic">An Overland Journey from New York to San Francisco in the Summer of 1859.</hi> New York: C. M. Saxton, Barker &amp; Company, 1860. 182-89, 219-29, 245-57, 258-74.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-07-14"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+
+        </revisionDesc>
+
+      
+    </teiHeader>
+
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="182" xml:id="mmm.wa.greeley.1860.191"/>
+
+<head>XVII</head>
+
+<head type="sub">LARAMIE TO SOUTH PASS.</head>
+
+<opener><dateline><hi rend="smallcaps">SOUTH PASS</hi>, Rocky Mountains, <hi rend="italic">July</hi> 5, 1859.</dateline></opener>
+
+<!-- Need to double Check, this section does not appear relevant:
+
+<p><hi rend="smallcaps">I exhausted</hi> all the possibilities of obtaining a lodging
+in Laramie before applying to the commander of 
+the post; but no one else could (or would) afford me a
+shelter on any terms; so I made a virtue of necessity,
+and applied to Captain <persName key="Clarke, Newman S.">Clark</persName>, who at once assigned me
+a room&#8212;there being few troops there at present&#8212;and
+for the five days I remained there I slept between a
+floor and a roof, after five weeks' experience of the more
+primitive methods of keeping cold and storm at bay.
+I was treated with more than hospitality&#8212;with generous
+kindness&#8212;by Captain <persName key="Clarke, Newman S.">Clark</persName>, Lieutenants <persName key="Hascall, Herbert A.">Hascall</persName>
+and <persName key="Follett, Frederick M.">Follett</persName>, and Dr. Johns&#8212;and yet the long tarry
+became at length irksome, because I had already lost
+too much time, and was most anxious to be moving
+westward. Finally, the mail-stage from the East hove
+in sight on the morning of June 30, but halted just
+across Laramie River all day, repairing coach; and it
+was eight, p.m., when it started&#8212;I alone perched on
+the summit of its seventeen mail-bags as passenger&#8212;
+he who had thus far filled that exalted post kindly 
+giving way for me, and agreeing to take instead the slower
+wagon that was to follow next morning. We forded
+the swollen Laramie two miles above the fort, in the last
+vestige of twilight&#8212;had the usual trouble with mules
+
+<pb n="183" xml:id="mmm.wa.greeley.1860.192"/>
+
+turning about in mid-stream, tangling up the team, and
+threatening to upset the wagon&#8212;but overcame it after
+a while, got safely out, drove on fifteen miles to Warm
+Spring&#8212;a fountain which throws out half water enough
+for a grist-mill, all which is drank up by the thirsty
+sands through which it takes its course, before it can
+reach the Platte, only three or four miles distant. We
+camped here till daylight, then lost two hours in 
+hunting up our mules, which had been simply tied in pairs,
+and allowed to go at large in quest of the scanty grass
+of that region. They were found at last, and we went
+on our way rejoicing.</p>
+
+<p>I shall not weary my readers with a journal of our
+travels for the last four days. Hitherto, since I left
+civilized <placeName type="state" key="Kansas">Kansas</placeName>, I had traversed routes either newly
+opened, or scarcely known to the mass of readers; but
+from Laramie I have followed the regular California
+and Oregon Overland Trail, already many times 
+described, and by this time familiar to hundreds of 
+thousands. Suffice it that, for over two hundred miles from
+Laramie, it traverses a region substantially described
+in my notes of my journey from the buffalo-range to
+Denver, and from <placeName type="settlement" key="Denver, CO">Denver</placeName> to Laramie; a region, for the
+most part, rainless in summer and autumn, yet on whose
+soil of more or less sandy clay, lacking support from
+ridges of underlying rock, has been more seamed, and
+gouged, and gullied, and washed away, by the action
+of floods and streams than any other on earth&#8212;a region
+of bluffs and buttes, and deep ravines, and intervales,
+and shallow alkaline lakelets, now mainly dried up, and
+streams running milky, even when low, with the clay
+
+<pb n="184" xml:id="mmm.wa.greeley.1860.193"/>
+
+gullied from their banks, and sent off to render the 
+Missouri a river of mud, and to fertilize the bottoms of the
+lower Mississippi. Occasionally, but not so frequently
+as south of Laramie, the clay-hills, hardened into rock
+by some alchemy of nature, present the perpendicular
+fronts and ruinous-castle aspects already described&#8212;in
+a few instances, the scanty creeks which make their
+way from the mountains to the North Platte, or the
+Sweetwater run through narrow ca&#241;ons of such rock;
+but usually each creek has washed out for itself a wide
+valley, and the bluffs or buttes, where they exist, are
+distant many miles on one side if not on both. In a
+few places, the mountains are so near that their thinly-
+scattered, stunted, scraggy yellow-pines are plainly
+seen&#8212;are even close beside us; but usually the 
+prospect is composed of rolling prairie very scantily grassed
+and often thickly covered for miles on miles by the
+everlasting sage-bush of this desolate region. This is
+not an anomaly, as might be supposed&#8212;the stem lives
+for years, perhaps centuries, though the shoots and
+leaves die* every autumn. Another shrub, less 
+common, but which often thickly covers hundreds of acres,
+is the grease-wood&#8212;a low, prickly bush, growing in
+bunches, like the sage-bush, and looking like a bad imi-
+tation of the English privet. Besides these two 
+miserable shrubs, the dry land, other than the mountains,
+for hundreds of miles, produces a very little burnt-up
+grass in patches, and a good many ill-favored weeds of
+<note type="footnote">* I guess this is a mistake; further observation induces me to believe
+that the sagebush is an evergreen.</note>
+
+<pb n="185" xml:id="mmm.wa.greeley.1860.194"/>
+
+no known or presumed value. Of wood, the Platte
+and its more easterly tributaries have, at intervals, a
+shred of the eternal cotton-wood of the plains, much of
+it the more scrubby and worthless species known as
+bitter cotton-wood, with a very little of the equally
+worthless box-elder&#8212;and that is all. But, one hundred
+and forty miles this side of Laramie, we leave the Platte,
+which here comes from the south, and strike nearly
+forty miles across a barren "divide" to its tributary,
+the Sweetwater, which we find just by Independence
+Rock, quite a landmark in this desolate region, with
+several low mountains of almost naked rock around it,
+having barely soil enough in their crevices to support a
+few dwarfish pines. Five miles above this is the Devil's
+Gate&#8212;a passage of the Sweetwater, through a 
+perpendicular ca&#241;on, some twenty-five feet wide, and said to
+be six hundred feet high&#8212;a passage which must have
+been cut while the rock was still clay. Here a large
+party of Mormons were caught by the snows, while on
+their way to Salt Lake, some years since, and compelled
+to encamp for the winter, so scantily provided that
+more than a hundred of them died of hunger and 
+hardship before spring. Many more must have fallen 
+victims had not a supply-train from Salt Lake reached
+them early in the season. And here is a fountain of
+cold water&#8212;the first that I had seen for more than a
+hundred miles, though there is another on the long
+stretch from the Platte to the Sweetwater, which is said
+to be good, but a drove of cattle were making quite too
+free with it when we passed. Here the weary crowds
+of emigrants to <placeName type="state" key="California">California</placeName> were to gather yesterday for
+
+<pb n="186" xml:id="mmm.wa.greeley.1860.195"/>
+
+a celebration of the "glorious fourth," and I was warmly
+invited to stop and participate, and I now heartily wish
+I had, since I find that all our haste was in vain.</p>
+
+<p>It was midnight of the 3d, when we reached the mail-
+route station known as the Three-Crossings, from the
+fact that so many fordings of the Sweetwater (here 
+considerably larger than at its mouth, forty miles or more
+below) have to be made within the next mile. We had
+been delayed two hours by the breaking away of our
+two lead-mules, in crossing a deep water-course after
+dark&#8212;or rather by the fruitless efforts of our conductor
+to recover them. I had been made sick by the bad
+water I had drank from the brooks we crossed during
+the hot day, and rose in a not very patriotic, certainly
+not a joyful mood, unable to eat, but ready to move on.
+We started a little after sunrise; and, at the very first
+crossing, one of our lead-mules turned about and ran
+into his mate, whom he threw down and tangled so
+that he could not get up; and in a minute another
+mule was down, and the two in imminent danger of
+drowning. They were soon liberated from the harness,
+and got up, and we went out; but just then an 
+emigrant on the bank espied a carpet-bag in the water&#8212;
+mine, of course&#8212;and fished it out. An examination
+was then had, and showed that my trunk was missing&#8212;
+the boot of the stage having been opened the night
+before, on our arrival at the station, and culpably left
+unfastened. We made a hasty search for the estray,
+but without success, and, after an hour's delay, our 
+conductor drove off; leaving my trunk still in the bottom
+of Sweetwater, which is said to be ten feet deep just
+
+<pb n="187" xml:id="mmm.wa.greeley.1860.196"/>
+
+below our ford. I would rather have sunk a thousand
+dollars there. Efforts were directed to be made to fish
+it out; but my hope of ever seeing it again is a faint
+one. We forded Sweetwater six times yesterday after
+that, without a single mishap; but I have hardly yet
+become reconciled to the loss of my trunk, and, on the
+whole, my fourth of July was not a happy one.</p>
+
+<p>Our road left a southerly bend of Sweetwater after
+dinner, and took its way over the hills, so as not to
+strike the stream again till after dark, at a point three
+miles from where I now write. We passed, on a high
+divide some miles before we were crossing of the 
+Sweetwater, a low swamp or meadow known as "Ice Springs,"
+from the fact that ice may be obtained here at any time
+by digging down some two or three feet into the frosty
+earth. We met several wagon-loads of come-outers
+from Mormonism on their way to the states in the course
+of the afternoon ; likewise, <seg type="Massacre" subtype="Survivors">the children</seg> of <seg type="Massacre" subtype="Casualties"><seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName>
+people killed</seg> <seg type="Massacre" subtype="Dates">two years since</seg></seg>, in what is known as the
+mountain-meadows-massacre. We are now nearly at
+the summit of the route, with snowy mountains near us
+in several directions, and one large snow-bank by the
+side of a creek we crossed ten miles back. Yet our
+yesterday's road was no rougher, while it was decidedly
+better, than that of any former day this side of Laramie,
+as may be judged from the fact that, with a late start,
+we made sixty miles with one (six mule) team to our
+heavy-laden wagon. The grass is better for the last
+twenty miles than on any twenty miles previously; and
+the swift streams that frequently cross our way are cold
+and sweet. But, unlike the Platte, the Sweetwater has
+
+<pb n="188" xml:id="mmm.wa.greeley.1860.197"/>
+
+scarcely a tree or bush growing on its banks; but up
+the little stream on which I am writing, on a box in the
+mail company's station-tent, there is glorious water,
+some grass, and more wood than I have seen so close
+together since I emerged from the gold diggings on 
+Vasquer's Fork, five hundred miles away. A snow-bank,
+forty rods long and several feet deep, lies just across the
+brook; the wind blows cold at night; and we had a
+rain-squall&#8212;just rain enough to lay the dust&#8212;yesterday
+afternoon.  The mail-agent whom we met here has
+orders not to run into Salt Lake ahead of time; so he
+keeps us over here to-day, and will then take six days
+to reach Salt Lake, which we might reach in four. I am
+but a passenger, and must study patience.</p>
+
+<p>A word on the Salt Lake mail. Of the seventeen
+bags on which I have ridden for the last four days and
+better, at least sixteen are filled with large bound books,
+mainly Patent Office Reports, I judge&#8212;but all of them
+undoubtedly works ordered printed at the public cost&#8212;
+<hi rend="italic">your</hi> cost, reader!&#8212;by 
+Congress, and now on their way
+to certain favored Mormons, franked (by proxy) " Pub.
+Doc. <hi rend="italic">Free</hi>, J. M. Bernhisel, M. C." I do not blame
+Mr. B. for clutching his share of this public plunder,
+and distributing it so as to increase his own popularity
+and importance; but I do protest against this business
+of printing books by wholesale at the cost of the whole
+people for free distribution to a part only. It is every
+way wrong and pernicious. Of the one hundred and
+ninety thousand dollars per annum paid for carrying the
+Salt Lake mail, nine-tenths is absorbed in the cost of
+carrying these franked documents to people who 
+<choice><orig>contrib-
+
+<pb n="189" xml:id="mmm.wa.greeley.1860.198"/>
+
+ute</orig><reg>contribute</reg></choice> little or 
+nothing to the support of the government
+in any way. Is this fair? Each Patent Office Report
+will have cost the treasury four or five dollars by the
+time it reaches its destination, and will not be valued by
+the receiver at twenty-five cents. Why should this 
+business go on? Why not " reform it altogether?" Let
+Congress print whatever documents are needed for its
+own information, and leavethe people to choose and
+buy for themselves. I have spent four days and five
+nights in close contact with the sharp edges of Mr ^
+Bernhisel's " Pub. Doc."&#8212;have done my very utmost to
+I make them present a smooth, or at least endurable 
+surface; and I am sure there is no slumber to be extracted
+therefrom unless by reading them&#8212;a desperate resort,
+which no rational person would recommend. For all
+practical purposes, they might as well&#8212;now that the
+printer has been paid for them&#8212;be where I heartily wish
+they were&#8212;in the bottom of the sea.</p>                
+            
+</div1> 
+
+<div1 type="chapter">
+
+<pb n="219" xml:id="mmm.wa.greeley.1860.228"/>
+                
+<head>XXII.</head>
+<head><hi rend="smallcaps">The Mormons and Mormonism</hi>.</head>
+<head><hi rend="smallcaps">Salt Lake City</hi>, <hi rend="italic">July</hi> 18, 1859.</head>
+
+<p>S<hi rend="smallcaps">ince</hi> my interview with Brigham Young, I have
+enjoyed opportunities for studying the Mormons in their
+social or festive and in their devotional assemblies. Of
+private social intercourse&#8212;that is, intercourse between
+family and family&#8212;I judge that there is comparatively
+little here; between Mormons and Gentiles or strangers,
+of course still less. Their religious services (in the 
+tabernacle) are much like those that may be shared or 
+witnessed in the churches of most of our popular sects; the
+music rather better than you will hear in an average
+worshiping assemblage in the states ; the prayers 
+pertinent and full of unction ; the sermons adapted to tastes
+or needs different from mine. They seemed to me
+rambling, dogmatic, and ill-digested; in fact, 
+Elder Orson Pratt, who preached last Sunday morning, prefaced
+his harangue by a statement that he had been hard at
+work on his farm throughout the week, and labored
+under consequent physical exhaustion. Elder John
+Taylor (I believe he is one of the Twelve ; at all events
+he is a high dignitary in the church, and a man of 
+decided natural ability) spoke likewise in the afternoon
+with little or no premeditation. Now, I believe that
+every preacher should be also a worker; I like to see
+one mowing or pitching hay in his shirt-sleeves; and I
+            
+<pb n="220" xml:id="mmm.wa.greeley.1860.229"/>
+                
+hear with edification an unlettered but devout and 
+earnest evangelist who, having worked a part of the week
+for the subsistence of his family, devotes the rest of it to
+preaching the gospel to small school-house or wayside
+gatherings of hearers, simply for the good of their souls.
+Let him only be sure to talk good sense, and I will
+excuse some bad grammar. But when a preacher is to
+address a congregation of one to three thousand persons,
+like that which assembles twice each sabbath in the
+Salt Lake City Tabernacle, I insist that a due regard for
+the economy of time requires that he should prepare
+himself, by study and refiection, if not by writing, to
+speak directly to the point. This mortal life is too short
+and precious to be wasted in listening to rambling,
+loose-jointed harangues, or even to those which severally
+consume an hour in the utterance, when they might be
+boiled down and clarified until they were brought within
+the compass of half an hour each. A thousand half-
+hours, Reverend Sir! have you ever pondered their
+value? Suppose your time to be worth ten times that
+of an average hearer; still, to take an extra half-hour
+from a thousand hearers in order to save yourself ten or
+fifteen hours' labor in the due and careful preparation
+of a sermon, is a scandalous waste, which I see not how
+to justify. Be entreated to repent and amend!</p>
+
+<p>The two discourses to which I listened were each 
+intensely and exclusively Mormon. That is, they assumed
+that the Mormons were God's peculiar, chosen, beloved
+people, and that all the rest of mankind are out of the
+ark of safety and floundering in heathen darkness. I
+am not edified by this sort of preaching. It reminds
+
+<pb n="221" xml:id="mmm.wa.greeley.1860.230"/>
+
+me forcibly of the Pharisee's prayer: "Lord, I thank
+thee that I am not as other men are&#8212;unjust, 
+extortioners," etc. I do not think good men delight in this
+assumption of an exclusive patent for the grace of God;
+and I am quite sure it is not well adapted to the 
+transformation of bad men into good. It is too well calculated
+to puff up its disciples with self-conceit and spiritual
+pride. That Jesus Christ is about to re-appear on the
+earth in all the pomp and splendor of a mighty 
+conqueror&#8212;that he will then proceed to take vengeance on his
+enemies (mankind in general, whether heathen or 
+nominally Christians) and to glorify his elect (the Latter-Day
+Saints or Mormons) were treated by the Tabernacle
+preachers as propositions too self-evident to need 
+demonstration. Having thus chastised his enemies and 
+"gathered his elect from the four winds of heaven," the
+Saviour is to reign over them here on earth for a 
+thousand years; at the end of which period, they are together
+to be transferred to heaven. Of course, I had heard the
+like of this before; but it always seems to me a very
+gross and wooden perversion of the magnificent 
+imagery whereby the Bible foreshadows a great spiritual
+transformation. The spirit of the Mormon religion 
+appears to me Judaic rather than Christian; and I am
+well assured that Heber O. Kimball, one of the great
+lights of the church, once said in conversation with a
+Gentile&#8212;"I <hi rend="italic">do</hi> pray for my enemies : I pray that they
+may all go to hell." Neither from the pulpit nor 
+elsewhere have I heard from a Mormon one spontaneous,
+hearty recognition of the essential brotherhood of the
+human race&#8212;one generous prayer for the enlightenment
+
+<pb n="222" xml:id="mmm.wa.greeley.1860.231"/>
+
+and salvation of all mankind. On the other hand, I
+have been distinctly given to understand that my 
+interlocutors expect to sit on thrones and to bear rule over
+multitudes in the approaching kingdom of God. In
+fact, one sincere, devout man has to-day assigned that
+to me as a reason for polygamy; he wants to qualify
+himself, by ruling a large and diversified family here,
+for bearing rule over his principality in the "new earth,"
+that he knows to be at hand. I think he might far 
+better devote a few years to pondering Christ's saying to
+this effect, "He who would be least in the kingdom of
+heaven, the same shall be greatest."</p>
+
+<p>I was undeceived with regard to the Book of 
+Mormon. I had understood that it is now virtually 
+discarded, or at least neglected, by the church in its 
+services and ministrations. But Elder Pratt gave us a
+synopsis of its contents, and treated it throughout as of
+equal authority and importance with the Old and New
+Testaments. He did not read from it, however, but
+from Malachi, and quoted text after text from the 
+prophets, which he cited as predictions of the writing and
+discovery of this book.</p>
+
+<p>The congregation consisted, at either service of some
+fifteen hundred to two thousand persons&#8212;more in the
+morning than the afternoon. A large majority of them
+(not including the elders and chief men, of whom a
+dozen or so were present) were evidently of European
+birth; I think a majority of the males were past the
+meridian of life. All gave earnest heed to the exercises
+throughout; in fact, I have seldom seen a more devout
+and intent assemblage. I had been told that the 
+<choice><orig>Mor-
+
+<pb n="223" xml:id="mmm.wa.greeley.1860.232"/>
+
+mons</orig><reg>Mormons</reg></choice>
+ were remarkably ignorant, superstitious, and
+brutalized; but the aspect of these congregations did
+not sustain that assertion. Very few rural 
+congregations would exhibit more heads evincing decided ability;
+and I doubt whether any assemblage, so largely 
+European in its composition, would make a better 
+appearance. Not that Europeans are less intellectual or
+comely than Americans ; but our emigrants are mainly
+of the poorer classes; and poverty, privation, and 
+rugged toil, plow hard, forbidding lines in the human 
+countenance elsewhere than in Utah. Brigham Young was
+not present at either service.</p>
+
+<p>Do I regard the great body of these Mormons as
+knaves and hypocrites? Assuredly not. I do not 
+believe there was ever a religion whereof the great mass
+of the adherents were not honest and sincere. 
+Hypocrites and knaves there are in all sects; it is quite 
+possible that some of the magnates of the Mormon Church
+regard this so-called religion (with all others) as a 
+contrivance for the enslavement and fleecing of the many,
+and the aggrandizement of the few; but I cannot believe
+that a sect, so considerable and so vigorous as the 
+Mormon, was ever founded in conscious imposture, or built
+up on any other basis than that of earnest conviction.
+If the projector, and two or three of his chief 
+confederates are knaves, the great body of their followers were
+dupes.</p>
+
+<p>Nor do I accept the current Gentile presumption, that
+the Mormons are an organized banditti&#8212;a horde of 
+robbers and assassins. Thieves and murderers mainly
+haunt the purlieus of great cities, or hide in caverns
+
+<pb n="224" xml:id="mmm.wa.greeley.1860.233"/>
+
+and forests adjacent to the great routes of travel. But
+when the Mormon leaders decided to set up their Zion
+in these parched mountain vales and ca&#241;ons, the said
+valleys were utterly secluded and remote from all 
+Gentile approach&#8212;away from any mail-route or channel of
+emigration. That the Mormons wished to escape 
+Gentile control, scrutiny, jurisprudence, is evident; that
+they meant to abuse their inaccessibility, to the 
+detriment and plunder of wayfarers, is not credible.</p>
+
+-->
+
+<p>Do I, then, discredit the tales of Mormon outrages
+and crime&#8212;of <seg type="Context" subtype="ParrishMurder">the murder of the Parrishes</seg>, the Mountain Meadow massacre, etc. etc.&#8212;<seg type="Source" subtype="PublicMind">wherewith the general ear has recently been shocked?</seg> No, I do not. <seg type="Blame" subtype="LDS_LDS">Some of these may have been fabricated by Gentile malice&#8212;others are doubtless exaggerated&#8212;but there is some basis of truth for the current Gentile conviction that
+the Mormons have robbed, maimed, and even killed
+persons in this territory, under circumstances which
+should subject the perpetrators to condign punishment,
+but that Mormon witnesses, grand jurors, petit jurors,
+and magistrates determinedly screen the guilty.</seg> I
+deeply regret the necessity of believing this; but the
+facts are incontestable. That <seg type="Massacre" subtype="Casualties">a large party of emigrants &#8212;not less than eighty</seg>&#8212;<seg type="Emigrants" subtype="StateAffiliationArkansas"><seg type="Emigrants" subtype="Route">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> to <placeName type="state" key="California">California</placeName></seg>,
+were foully massacred <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> <seg type="Massacre" subtype="Dates">in
+September, 1857</seg>, <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">more immediately by Indians, but under the
+direct inspiration and direction of the Mormon settlers
+in that vicinity</seg>&#8212;to whom, and not to the savages, <seg type="Massacre" subtype="Surrender">the emigrants had surrendered, <seg type="Massacre" subtype="Battle">after a siege</seg>, on the strength
+of assurances that their lives at least should be spared</seg>&#8212;
+is established by evidence that cannot (I think) be 
+<choice><orig>in-
+
+<pb n="225" xml:id="mmm.wa.greeley.1860.234"/>
+
+validated</orig><reg>invalidated</reg></choice>
+&#8212;the evidence of conscience-smitten partakers
+in the crime, both Indian and ex-Mormon</seg>, and of 
+<seg type="Massacre" subtype="Survivors">children of the slaughtered emigrants, who were spared as too young to be dangerous even as witnesses, and of
+whom the great majority have been sent down to the
+states as unable to give testimony; <seg type="Source" subtype="Children">but two boys are retained here as witnesses, who distinctly remember
+that <seg type="Massacre" subtype="Surrender">their parents surrendered to white men, and that <seg type="Blame" subtype="LDS_LDS">these white men at best did not attempt to prevent their perfidious massacre.</seg></seg> <seg type="Blame" subtype="LDS_LDS">These children, moreover, were
+all found in the possession of Mormons&#8212;not one of
+them in the hands of Indians; and, though the 
+Mormons say they ransomed them from the hands of Indians,
+the children deny it, saying that they never lived with,
+nor were in the keeping of savages; and the Indians
+bear concurrent testimony.</seg></seg></seg> <seg type="Context" subtype="ParrishMurder">So in the Parrish case:</seg> the
+family had been Mormons, but had apostatized&#8212;and
+undertook to return to the states; they were warned
+that they would be killed if they persisted in that 
+resolution; they did persist, and were killed. Of course,
+nobody will ever be convicted of their murder; but
+those who warned them of the fate on which they were
+rushing know why they were killed, and could discover,
+if they would, who killed them.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The vital fact in the case is just this: The great mass
+of these people, as a body, mean to be honest, just, and
+humane; but they are, before and above all things else,
+Latter-Day Saints, or Mormons. They devoutly believe
+that they are God's peculiar and especial people, doing
+His work, up-building His kingdom, and basking in the
+sunshine of His peculiar favor. Whoever obstructs or
+
+<pb n="226" xml:id="mmm.wa.greeley.1860.235"/>
+                
+impedes them in this work, then, is God's enemy, who
+must be made to get out of the way of the establishment
+of Christ's kingdom on earth&#8212;made to do so by lawful
+and peaceful means if possible, but by any means that
+may ultimately be found necessary.</seg> <seg type="Context" subtype="ParrishMurder">The Parrisheswere apostates; had they been allowed to pursue their journey to the states, they would have met many Saints
+coming, up the road, whose minds they would have
+troubled if not poisoned; and they would have told
+stories after reaching their destination which would have
+deepened the general prejudice against the Saints; so
+the up-building and well-being of Christ's kingdom 
+required that they should die.</seg> <seg type="Blame" subtype="EmigrantBehavior">The <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName> emigrants</seg> slaughtered <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain-Meadows</geogName></seg>, had in some way
+abused the Saints, or interposed obstacles to the progress
+of God's work, and they were consequently given over
+to destruction.</seg> Far be it from me to hint that one-fifth,
+one-tenth, one-twentieth, of the Mormons ever bore any
+part in these bloody deeds, or even know to this day
+that they were perpetrated. The great body of the
+Saints undoubtingly believe all the current imputations
+of Mormon homicide and outrage to be abominable
+calumnies. Many of the highest dignitaries of the
+church may be included in this number. But there are
+men in the church who know that they are <hi rend="italic">not</hi>
+calumnies&#8212;who know that Gentiles and apostates have been
+killed for the church's and for Christ's sake, and who
+firmly believe that they <hi rend="italic">ought</hi> to have been. I grieve
+to say it, but I hold these more consistent and logical
+Mormons than their innocent and unsuspicious brethren.
+For if I were a Latter-Day Saint, undoubtingly 
+<choice><orig>believ-
+
+<pb n="227" xml:id="mmm.wa.greeley.1860.236"/>
+
+ing</orig><reg>believing</reg></choice>
+ all opposers of the Mormon Church to be God's
+enemies, obnoxious to His wrath and curse, and 
+powerfully obstructing the rescue of souls from eternal 
+perdition and torture, I should be strongly impelled to help
+put those opposers of God's purposes out of the way of
+sending any more immortal souls to everlasting fire. I
+should feel it my duty so to act, as a lover of God and
+man. And I confidently predict that not one Mormon
+who has killed a Gentile or apostate under a like view
+of his duty will ever be fairly convicted in this territory.
+No jury can be drawn here, unless in flagrant defiance
+of territorial laws, which is not mainly composed of
+Mormons; and no such jury will convict a Mormon of
+crime for any act done in behalf of God's kingdom&#8212;
+that is, of the Mormon church.</p>
+
+<p>I ask, then, the advocates of "popular sovereignty"
+in the territories to say what they propose to do in the
+premises. How do they intend to adapt their principle
+to the existing state of facts? They have superseded
+<persName key="Young, Brigham">Brigham Young</persName>, with a full knowledge that at least
+nine-tenths of the people of <placeName type="state" key="Utah Territory"> Utah</placeName> earnestly desired his
+retention as governor. They have sent hither a batch
+of judges, who would like to earn their salaries; but
+the Mormon legislature devotes its sessions principally
+to the work of crippling and fettering these judges, so
+that they shall remain here as mere dummies or be
+driven into resignation. Their juries are all drawn for
+them by Mormon officials, under regulations which 
+virtually exclude all but Mormons from each panel; it is
+a violation of all the laws of <placeName type="state" key="Utah Territory">Utah</placeName> to cite in argument
+before any judge or jury here the decisions of any
+      
+<pb n="228" xml:id="mmm.wa.greeley.1860.237"/>
+                
+court&#8212;even the supreme court of the United States&#8212;
+but the courts of <placeName type="state" key="Utah Territory">Utah</placeName>; so that even the <persName key="Scott, Dred">Dred Scott</persName>
+decision could not lawfully be cited here in a fugitive
+slave case; in short, the federal judiciary, the federal
+executive, and the federal army, as now existing in
+<placeName type="state" key="Utah Territory">Utah</placeName>, are three transparent shams&#8212;three egregious
+farces; they are costing the treasury very large sums to
+no purpose; and the sooner the governor, marshal,
+judges, etc., resign, and the army is withdrawn, the 
+better for all but a handful of contractors. "Popular
+sovereignty" has such full swing here that <persName key="Young, Brigham">Brigham
+Young</persName> carries <placeName type="state" key="Utah Territory"> the territory</placeName> in his breeches' pocket 
+without a shadow of opposition; he governs without 
+responsibility to either law or public opinion; for there is no
+real power here but that of "the church," and he is
+practically the church. The church is rich, and is 
+hourly increasing in wealth; the church settles all civil
+controversies which elsewhere cause lawsuits; the
+church spends little or nothing, yet rules everything;
+while the federal government, though spending two or
+three millions per annum here, and keeping up a fussy
+parade of authority, is powerless and despised. If,
+then, we are to have "popular sovereignty" in the 
+territories, let us have it pure and without shams. Let
+<persName key="Young, Brigham">Brigham</persName> be reappointed governor; withdraw the 
+present federal office-holders and army; open shorter and
+better roads to <placeName type="state" key="California">California</placeName> through the country north of
+Bridger; and notify the emigrants that, if they choose
+to pass through <placeName type="state" key="Utah Territory">Utah</placeName>, they will do so at their own risk. Let the Mormons have the territory to themselves&#8212;it is worth very little to others, but reduce its area by
+
+<pb n="229" xml:id="mmm.wa.greeley.1860.238"/>
+                
+cutting off Carson Valley on the one side, and making
+a Rocky Mountain territory on the other, and then let
+them go on their way rejoicing. I believe this is not
+only by far the cheapest but the safest and best mode
+of dealing with the difficulties already developed and
+daily developing here, unless the notion of "popular
+sovereignty" in the territories is to be utterly exploded
+and given up. "Popular Sovereignty" in a territory
+is a contradiction in terms; but "popular sovereignty"
+in a territory backed by a thousand sharp federal 
+bayonets and a battery of flying artillery, is too monstrous a
+futility, too transparent a swindle, to be much longer
+upheld or tolerated.</p>
+
+</div1>
+
+<div1 type="chapter">
+
+<pb n="245" xml:id="mmm.wa.greeley.1860.254"/>    
+
+
+
+<head>XXIV. THE ARMY IN UTAH.</head>
+
+<head><hi rend="smallcaps">Camp Floyd</hi>, Utah, <hi rend="italic">July</hi> 21, 1869.</head>      
+
+<!-- The following Section is not Directly Relevant to Mountain Meadows:
+
+<p>C<hi rend="smallcaps">amp</hi> F<hi rend="smallcaps">loyd</hi>, 
+forty miles south of Salt Lake City, is
+located on the west side of a dry valley, perhaps ten
+miles wide by thirty miles long, separated by high hills
+from Lake Utah, some fifteen to twenty miles distant on
+the north-east. This valley would be fertile were it not
+doomed to sterility by drouth. A small stream takes its
+rise in copious springs at the foot of the western hills
+just north of the camp, but is soon drank up by the
+thirsty plain. Water in this stream, and wood (low
+cedar) on the adjacent hills, probably dictated the 
+selection of this site for a camp; though I believe a desire,
+if not a secret compact, to locate the troops as far as
+possible from the Mormon settlements, had an influence
+in the premises. No Mormons live in this valley nor
+within sight of it; though all the roads leading from
+Salt Lake City, as well as from Provo and the other
+settlements around Lake Utah, are within a day's march
+and may be said to be commanded by the camp. The
+soil is easily pulverized when dry, and keeps the entire
+area enveloped, during summer, in a dense cloud of
+dust, visible for miles in every direction. I saw it when
+eight miles away, as I came down from Salt Lake City
+yesterday. We passed few houses on the way; but a
+distillery and a brewery were among them. We crossed
+
+<pb n="246" xml:id="mmm.wa.greeley.1860.255"/>
+
+the Jordan by fording, at a point seven or eight miles
+from the Lake, and twenty-five to thirty from Salt Lake
+City. The stream is here swift and strong, but hardly
+thirty inches deep, and not more than thirty yards
+wide. We passed within sight of Provo, but several
+miles from it. We passed one spring on the route, and
+two or three brooks running from the high-steep 
+mountains on the east. The drouth was intense, and seemed
+habitual in summer; there was no cultivation nor 
+industry of any sort on our road, save within twenty miles of
+Salt Lake City.</p>
+
+<p>The camp is formed of low and neat adobe houses,
+generally small. I presume there are three or four 
+hundred of them&#8212;enough, at all events, to make six or
+eight Kansas cities. "Frogtown" is a satellite, or 
+suburb, whence grog and other luxuries (including 
+execrable whisky at about ten dollars per gallon) are 
+dispensed to thirsty soldiers who have not already drank
+up more than their pay amounts to. The valley is
+covered with sage-bush and grease-wood, as usual; but 
+the camp has been freed from these, and is mainly level
+as a house-floor. The adobes ware made on the spot by
+Mexicans; the boards for roofs, finishing off, etc., 
+supplied by Brigham Young and his son-in-law, from the
+only ca&#241;on opening into Salt Lake Valley which abounds 
+in timber (yellow-pine, I believe,) fit for sawing. The
+territorial legislature&#8212;(which is another name for "the 
+church") granted this ca&#241;on to Brigham, who runs three 
+saw-mills therein, at a clear profit of one hundred dollars
+or so per day. His profit on the lumber supplied to the
+camp was probably over fifty thousand dollars. The
+
+<pb n="247" xml:id="mmm.wa.greeley.1860.256"/>
+                
+price was seventy dollars per thousand feet, delivered.
+President Young assured me, with evident self-complacency,
+that he did not need and would not accept a 
+dollar of salary from "the church"&#8212;he considered himself
+able to make all the money he needed by business, as
+he had made the two hundred and fifty thousand dollars
+worth of property he already possesses. With a 
+legislature ever ready to grant him such perquisites as this
+lumber ca&#241;on, I should think he might. The total cost
+of this post to the government was about two hundred
+thousand dollars.</p>
+
+<p>The army in Utah has numbered three thousand five
+hundred men&#8212;I believe its present strength is but about
+three thousand. It is mainly concentrated in this camp,
+though some small detachments are engaged in 
+surveying or opening roads, guarding herds, etc., in different 
+parts of the territory. I presume this is still the largest
+regular force ever concentrated upon the soil of our 
+country in time of peace. It consists of the 5th, 7th 
+and 10th regiments of infantry, a battalion of light
+artillery, and two or three companies of dragoons. I 
+met, between Bridger and Ham's Fork, a considerable
+force of dragoons going down.</p>
+
+<p>Let us briefly consider the history and position of this
+little army: </p>
+
+<p>In the earlier half of 1857, it was concentrated in 
+Kansas; late in that year, the several regiments 
+composing it were severally put in march toward the Rocky
+Mountains. The Mormons soon full learned that this
+band was to be launched against them, and at once 
+prepared to give it a warm reception; the army had no
+
+<pb n="248" xml:id="mmm.wa.greeley.1860.257"/>
+                
+information on the subject, save general report. 
+Detained in Kansas to give effect to Governor Walker's
+electioneering quackeries, it was at length sent on its
+way at a season too late to allow it to reach Salt Lake
+before winter. No commander was sent with it; 
+General Harney was announced as its chief, but has not
+even yet joined it. It was thus dispatched on a long
+and difficult expedition, in detachments, without a chief,
+without orders, without any clear idea of its object or
+destination. Entering Utah thus as no army, but as a
+number of separate, straggling detachments, neither of 
+which was ordered to protect the supply-train, which 
+followed one or two marches behind them, the soldiers
+had the mortification to learn, about the first of 
+October, that those supply-trains, without even an armed
+corporal's guard in their vicinity, had been surprised
+and burnt by a Mormon band, who thus in effect made 
+war on the United States. Indignantly, but still 
+without a leader and without definite orders, the army 
+struggled on to Bridger, one hundred and thirteen miles from
+Salt Lake, which the Mormons abandoned on its 
+approach. Bridger is many thousand feet above the sea
+level, and the ground was here so buried in snow that
+its gaunt animals died by hundreds, and the residue
+were unable to drag the baggage over the rivers and
+steep mountains which still separated it from Salt Lake.
+So the regiments halted, built huts to shelter themselves i
+from the winter's inclemency, and lived through the 
+snowy season as they might on a half allowance of
+beef from their lean, gristly animals, without salt.</p>
+
+<p>Spring at length came; the order to march, long
+
+<pb n="249" xml:id="mmm.wa.greeley.1860.258"/>
+
+hoped and impatiently waited for, was given; they had
+been promised a warm reception in the narrow defiles
+of Echo Canon by Lieutenant-General Wells and his
+Mormon host, and they eagerly courted that reception.
+If General Wells were able, as he boasted, to send them
+to the right about, they would have nothing to do but
+to go. They had grown rusty from inaction, and stood
+ready to be polished, even by so rough an implement as
+General Wells. But news came that the whole affair
+had been somehow arranged&#8212;that Colonel Kane, 
+Brigham Young, and Governor Cumming had fixed matters
+so that there would be no fighting&#8212;not even further
+train-burning. Yet the Mormons lied from Salt Lake
+City in anticipation of their entering it; they were
+somehow, required to encamp as far from the Mormon
+settlements as possible; and they have ever since been
+treated by the federal executive as though they had
+volunteered to come here in defiance of, rather than in
+obedience to, that executive's own orders.</p>
+
+<p>Whether truly or falsely, this army, probably without 
+an individual exception, undoubtingly believes the 
+Mormons as a body to be traitors to the Union and its 
+government, inflexibly intent on establishing here a
+power which shall be at first independent of, and 
+ultimately dominant over, that of the United States. They
+believe that the ostentatious, defiant refusal of Brigham
+Young, in 1857, to surrender the territorial 
+governorship, and his declaration that he would hold that post
+until God Almighty should tell him to give it up, were
+but the natural development of a polity which looks to
+the subjugation of all earthly kingdoms, states, empires,
+            
+<pb n="250" xml:id="mmm.wa.greeley.1860.259"/>
+                
+sovereignties, to a rule nominally theocratic, but 
+practically autocratic, with Brigham Young or his designated
+successor as despot. They hold that the instinct of self-
+preservation, the spirit of that requirement of the 
+Federal Constitution which enjoins that each state shall be
+guaranteed a republican form of government, cry out
+against such a despotism, and demand its overthrow.</p>
+
+-->
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="TerritorialAdministration">The army undoubtingly and universally believes that Mormonism is, at least on the part of the master spirits
+of "the church," an organized, secret, treasonable 
+conspiracy to extend the power, increase the wealth, and
+gratify the lecherous appetites of those leaders, who are
+using the forms and terms of religion to mask and shield
+systematic adultery, perjury, counterfeiting, robbery,
+treason, and even murder. It points to the <seg type="Massacre" subtype="Casualties">wholesale
+massacre</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meados">Mountain-meadows</geogName></seg>, <seg type="Context" subtype="ParrishMurder">the murder of the 
+Parrishes</seg>, and a hundred more such, as instances of 
+Mormon assassination for the good of the church, the 
+chastisement of its enemies, or the aggrandizement of its
+leading members&#8212;to the impossibility of bringing the 
+perpetrators of these crimes to justice, to the territorial
+laws of <placeName type="state" key="Utah Territory">Utah</placeName> which empower Mormon functionaries to select the grand and petit jurors even for the United 
+States courts, and impose qualifications which in effect 
+secure the exclusion of all but Mormons from the jury-
+box, and to the uniform refusal of those jurors to indict
+or convict those who have committed crimes in the 
+interest of Mormonism,* as proof positive that all <choice><orig>at-
+
+<note type="footnote">* <seg type="Blame" subtype="LDS_LDS"><persName key="Cradlebaugh, John">Judge Cradlebaugh</persName> asserts that on the list 
+of jurors recently imposed on him for the investigation at <placeName type="settlement" key="Provo, UT">Provo</placeName>
+<seg type="Context" subtype="ParrishMurder">of the Parrish and other murders</seg>, he knows there were not less
+than <hi rend="italic">nine</hi> leading participants in 
+those murders.</seg></note>
+
+<pb n="251" xml:id="mmm.wa.greeley.1860.260"/>
+
+tempts</orig><reg>attempts</reg></choice>
+ to punish Mormon criminals by Mormon jurors
+and officers must ever prove abortive, and demands of
+the federal government that it shall devise and put in
+execution some remedy for this unbearable impunity to
+crime.</seg> <seg type="Context" subtype="LDSApostates">It is uniformly believed in camp that not less than <hi rend="italic">seventy-five</hi> distinct instances of murder by Mormons because of apostacy, or some other form of 
+hostility to "the church," or mainly for the sake of 
+plunder, are known to the authorities here, and that there
+is no shadow of hope that one of the perpetrators will
+ever be brought to justice under the sway of Mormon
+"popular sovereignty" as now established in this 
+territory.</seg> The army, therefore, turns an anxious eye to
+Washington, and strains its ear to hear what remedy is
+to be applied.</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Manifestly, the recent responses from that quarter
+are not calculated to allay this anxiety. The official
+rebuke recently and publicly given to the federal judges
+here, for employing detachments of troops to arrest and
+hold securely Mormons accused of capital crime, elicits
+low mutterings of dissatisfaction from some, with a
+grave silence on the part of many whom discipline
+restrains from speaking. As the recent orders from
+<placeName type="state" key="Washington, D. C.">Washington</placeName> are understood here, no employment of federal troops to arrest or secure persons charged with or even convicted of crime is allowed, except where the
+civil power (intensely Mormon) shall have certified that
+the execution of process is resisted by a force which it
+cannot overcome by means of a civil <hi rend="italic">posse</hi>. How 
+opposite this is to the orders given and obeyed in the
+fugitive slave cases at <placeName type="settlement" key="Boston, MA">Boston</placeName>, etc., need hardly be 
+indicated.</seg></p>
+                              
+<pb n="252" xml:id="mmm.wa.greeley.1860.261"/>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">Very general, then, is the inquiry in the army, Why were we sent here? and why are we kept here? What
+good can our remaining do? What mischief can it
+prevent? A fettered, suspected, watched, distrusted
+army&#8212;an army which must do nothing&#8212;must not even
+be asked to do anything in any probable contingency&#8212;
+what purpose does it subserve beyond enriching 
+contractors and Mormon magnates at its own cost and that 
+of the federal treasury? Every article eaten, drank, 
+worn, or in any manner bought by the soldiers, costs
+three to ten times its value in the states; part of this
+extra cost falls on the treasury, the residue on the troops
+individually. Their position here is an irksome one;
+their comforts few; home, family, friends are far away.
+If the policy now pursued is to prevail, they cannot be
+needed in this territory. Why, then, are they kept
+here? <persName key="Young, Brigham">Brigham Young</persName> will contract, and make moneyby contracting, to put down all resistance to this policy
+at one-tenth the cost of keeping the army here: why,
+then, not withdraw it?</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">I have not so bad an opinion of the Mormons as that entertained by the army. While I consider the 
+Mormon religion, so called, a delusion and a blight, I believe
+many of its devoted adherents, including most of those
+I have met, to be pure-minded, well-meaning people;
+and <seg type="Blame" subtype="LDS_LDS">I do not believe that Mormons generally delight in plunder or murder, though the testimony in the 
+Mountain-meadows, <seg type="Context" subtype="ParrishMurder">Parrish</seg>, and one or two other cases, is certainly staggering.</seg> But I concur entirely in the 
+conviction of the army, that there is no use in its retention
+here under existing orders and circumstances, and that
+            
+<pb n="253" xml:id="mmm.wa.greeley.1860.262"/>
+
+three or four companies of dragoons would answer every
+purpose of this large and costly concentration of troops.
+The army would cost less almost anywhere else, and
+could not anywhere be less useful.</seg></p>
+
+<p>A suspicion that it is kept here to answer private
+pecuniary ends is widely entertained. It is known that
+vast sums have been made out of its transportation by
+favored contractors. Take a single instance already
+quite notorious: twenty-two cents per pound is paid
+for the transportation of all provisions, munitions, etc.,
+from Leavenworth to this point. The great contractors
+were allowed this for transporting this year's supply
+of flour. By a little dexterous management at 
+<placeName type="settlement" key="Washington, D. C.">Washington</placeName>, they were next allowed to furnish the flour here
+&#8212;<placeName type="state" key="Utah Territory">Utah</placeName> flour&#8212;being paid their twenty-two cents per
+pound for transportation, in addition to the prime cost
+on the <placeName type="state" key="Missouri">Missouri</placeName>. As <placeName type="state" key="Utah Territory">Utah</placeName> has a better soil for growing
+wheat than almost anything else, they had no difficulty
+in sub-letting this contract at seven cents per pound 
+net, making a clear profit of one hundred and seventy 
+thousand dollars on the contract, without risking 
+a dollar, or lifting a finger. Of course, I expect 
+contractors to bargain for themselves, not for the 
+government, but somebody is well paid for taking care of the
+public's interest in such matters. Has he done his 
+duty? </p>
+
+<p>Again, pursuant to a recent order from <placeName type="state" key="Washington, D. C.">Washington</placeName>,
+the Assistant Quartermaster-General here is now selling
+by auction some two thousand mules&#8212;about two-thirds
+of all the government owns in this territory. These
+mules cost one hundred and seventy-five dollars each,
+            
+<pb n="254" xml:id="mmm.wa.greeley.1860.263"/>
+                
+and are worth to-day one hundred and twenty-five to
+one hundred and fifty dollars. I attended the sale for
+an hour or so this forenoon; the range of prices was
+from sixty to one hundred and fifteen dollars; the 
+average of the seven hundred already sold about seventy-
+five dollars. Had these mules been taken to <placeName type="state" key="California">California</placeName>,
+and there properly advertised and sold, they would have
+brought nearly cost; even at Leavenworth, they must
+have sold for at least one hundred thousand dollars more
+than here, where there is practically no demand and no
+competition for such an immense herd; and, after every
+Mormon, who can raise a hundred dollars or over, shall
+have supplied himself with a span of mules for half
+their value, one or two speculators will make as much as
+they please, while the dead loss to the people will be at
+least one hundred and fifty thousand dollars. Nobody 
+here has recommended the sale of these mules; they
+were being herded, under the care of detachments of the 
+army, at no cost but for herdsmen, and they could have 
+been kept through next winter, in secluded mountain
+valleys, at a cost of about ten dollars per head; whereas 
+the army can never move without purchasing an equal 
+number; and they can neither be bought here nor
+brought here for two hundred thousand dollars more 
+than these animals are now fetching. <hi rend="italic">Somebody's</hi>
+interest is subserved by this sale; but it is certainly not
+that of the army nor of the people. The order is to sell
+seven hundred wagon's as well; but these would not 
+bring thirty dollars each, while they cost at least one 
+hundred and thirty, and could not be replaced when
+wanted even for that, while the army cannot move 
+
+<pb n="255" xml:id="mmm.wa.greeley.1860.264"/>
+                
+without them, and keeping them costs absolutely 
+nothing. Who issues such orders as this, and for whose
+benefit?</p> 
+
+<p>Look at another feature of this transaction. There is
+at this moment a large amount due to officers and 
+soldiers of this army as pay, in sums of forty to five 
+hundred dollars each. Many of those to whom this money
+is due would very much like to take mules in part-
+payment, either to use while here, to sell again, or to bear
+them and their baggage to <placeName type="state" key="California">California</placeName>, or back to the
+<placeName type="state" key="Missiouri">Missouri</placeName>, on the approaching expiration of their terms of enlistment. In many instances, two soldiers would
+doubtless club to buy a mule on which to pack their
+blankets, etc., whenever their time is out. Hundreds
+of mules would thus have been bought, and the 
+proceeds of the sale considerably augmented, if the 
+government, by its functionaries, had consented to receive its
+own honest debts in payment. But no! on some 
+ridiculous pretense of ill-blood between the pay and the
+subsistence bureaux of the War department, this is
+refused&#8212;it would be too much trouble to take 
+certificates of soldiers' pay actually due in payment for these
+mules; so the officers and soldiers must purchase of
+speculators at double price, or go without, and the
+mules be sold for far less than they would have brought,
+if those who must have them had been enabled to bid
+directly for them. Two or three speculators reap a
+harvest here at the sore cost of the soldiers and the
+treasury.</p>
+
+<p>But it will be said that forage is dear in <placeName type="state" key="Utah Territory">Utah</placeName>. It would suffice to answer that idle mules obtain, save in
+
+<pb n="256" xml:id="mmm.wa.greeley.1860.265"/>
+
+winter, only grass growing on the public lands, which
+may as well be eaten in part by government mules as
+all by those of the Mormon squatters. But let us see
+how it costs so much. There have recently been 
+received here thirty thousand bushels of corn from the
+states at a net cost, including transportation, of three 
+hundred and forty thousand dollars, or over eleven 
+dollars per bushel. No requisition was ever made for this
+corn, which could have been bought here, delivered,
+for two dollars per bushel, or sixty thousand dollars in
+all. The dead loss to the treasury on this corn is two
+hundred and eighty thousand dollars, even supposing
+that the service required it at all. <hi rend="italic">Somebody</hi> makes a
+good thing of wagoning this corn from the Missouri at
+over ten dollars a bushel. Who believes that said 
+somebody has not influential and thrifty connections inside
+of the War department?</p>
+
+<p>I will not pursue this exposition; Congress may.</p>
+
+<p>Let me now give a sample of retrenchment in the 
+public service in this quarter:</p>
+
+<p>The mail from <placeName type="state" key="Missouri">Missouri</placeName> to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> has hitherto been carried weekly in good six-mule wagons; the 
+contract time being twenty-two days. The importance of 
+frequent and regular communication with head-quarters,
+at least so long as a large army is retained here at a
+heavy extra cost, and because of some presumed public
+necessity is evident. Yet the new Postmaster-General
+has cut down the mail-service on this important central
+route from weekly to semi-monthly. But the 
+contractors, who are obliged to run their stages weekly because
+of their passenger business, and because they have to
+                   
+<pb n="257" xml:id="mmm.wa.greeley.1860.266"/>
+                
+keep their stock and pay their men, whether they work
+or play, find that they cannot carry the mail every
+other week so cheaply as they can every week. For
+instance, a mail from the states now often consists of
+twelve to sixteen heavy sacks (most of them filled with
+franked documents), weighing as many hundred pounds.
+Double this, and no six-mule team would draw it at the
+requisite pace, and no mail-wagon stand the jerks and
+jolts of an unmade road. So they say, "please let us
+carry the mail weekly, though you only pay us for car-
+rying it semi-monthly." But no! this is strictly 
+forbidden! The post-master at Salt Lake has express 
+written orders to refuse it, and of course he at St. Joseph
+also. And thus all this central region, embracing, at
+least a dozen important military posts, and countless
+Indian agencies, is reduced to a semi-monthly mail-
+service, though the contractor would gladly make it weekly
+at the same price!</p>
+
+</div1>
+          
+<div1 type="chapter">
+
+<pb n="258" xml:id="mmm.wa.greeley.1860.267"/>
+                         
+<head>XXV.</head>
+
+<head><hi rend="smallcaps"><choice><sic>ROM</sic><corr>FROM</corr></choice> SALT LAKE TO CARSON VALLEY.</hi></head>
+
+<head>P<hi rend="smallcaps">lacerville</hi>, Cal., <hi rend="italic">July</hi> 31, 1859.</head>
+
+<p>There are two emigrant trails from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to Carson Valley and the pass thence into <placeName type="state" key="California">California</placeName>&#8212;
+the older and more favored, starts north-west from the
+Mormon Zion, passes north and west of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, crossing Weber and Bear Rivers near their mouths, with several small creeks, and gradually veering west and
+south-west so as to strike the head springs of the 
+Humboldt, which stream it follows more than three hundred
+miles to its "sink," within a hundred miles of the 
+eastern Base of the Sierra Nevada. The other route leaves
+the Mormon capital in a south-westerly direction, touches
+Lake Utah on the north, passes west of that Lake
+through <placeName type="settlement" key="Provo, UT">Provo</placeName>, and thence southerly through <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, the nominal capital of the territory, and so down by
+Soyier River and Lake nearly to <seg type="Massacre" subtype="Location">the southern boundary of <placeName type="state" key="Utah Territory">Utah</placeName>, whence it stretches west, nearly upon the southern rim of the Great Basin, on which are the "<geogName type="valley" key="Mountain Meadows">Mountain-Meadows</geogName>,"</seg> where <seg type="Massacre" subtype="Casualties">a large emigrant party</seg>  from <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName></seg> was so atrociously massacred <seg type="Massacre" subtype="Dates">in 1857</seg>.
+Thence this trail turns north-west to hit the sink of 
+Carson River. (I can get no tolerable map of <placeName type="state" key="Utah Territory">Utah</placeName>, and the above may not be entirely correct, but is nearly so.) It will be seen that each of these routes must necessarily
+be very circuitous, and that almost, if not quite half
+
+<pb n="259" xml:id="mmm.wa.greeley.1860.268"/>
+                
+<placeName type="state" key="Utah Territory">the territory</placeName> lies between them.</p>
+
+<!-- The Following Section is Not Directly Relevant to Mountain Meadows. (Note: The break falls in mid-paragraph, but a closing p tag was insterted after "the territory lies between them" in order for the file to be valid, despite the remainder of the actual paragraph falling within the commented out section):
+
+ So, last year, Major <persName key="Chorpening, George">Chorpening</persName>, the contractor for carrying the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>
+and <placeName type="state" key="California">California</placeName> Mail, resolved to seek a shorter route midway between them, which he partially succeeded in 
+establishing. This route passes Camp Floyd, forty-three
+miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and thence strikes west
+south-west through "the Desert," so called, which it
+penetrates for one hundred and fifty miles or more;
+thence turning north-west to reach and follow the 
+original emigrant and mail-route down the Humboldt. Even
+thus, it is somewhat shorter than any other traveled route
+from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to Carson Valley, but still very tortuous,
+and at least one hundred and fifty miles longer than it
+should be. Capt. <persName key="Simpson, James H.">Simpson</persName>, of the U. S. Topographical Corps, has recently made his way quite through the desert,
+on a route which makes the distance only five hundred
+and sixty-one miles from Camp Floyd to Carson Valley;
+whereas it is six hundred and seventy by the present
+mail-route, and further by any other. Capt. <persName key="Simpson, James H.">Simpson</persName> is now engaged in further surveys, whereby he hopes* to
+shorten the distance from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to <placeName type="settlement" key="Genoa, UT">Genoa</placeName>, near
+the head of Carson Valley, to about five hundred and 
+fifty miles; and two of Major <persName key="Chorpening, George">Chorpening</persName>'s superintendents
+are now examining the new portion of this route, 
+intending to recommend a transfer of the mail to it should
+they deem it practicable for wagons, and not hopelessly
+destitute of grass and water. I trust they will find it
+
+<note type="footnote">* These hopes have since been fully realized. The new direct central route is not only one hundred miles shorter, but is said to be better 
+supplied with grass and water, than that I traveled.</note> 
+           
+<pb n="260" xml:id="mmm.wa.greeley.1860.269"/>
+                
+passable; meantime, let me give some account of so
+much of it as I have traveled, as I am not aware that
+any is yet extant. </p>
+
+<p>I left Camp Floyd in the mail-wagon from Salt Lake
+City, on the morning of Thursday, July 21st, pursuing
+a south-west course over a low mountain pass. 
+Twenty miles on, we found a small brook making from the
+mountains south of us across a thirsty plain, which, I 
+presume, soon drank it up. The vegetation was the
+same eternal sage-bush and grease-wood, which I am 
+tired of mentioning, but which, together or separately, 
+cover two-thirds of all the vast region between the 
+Rocky Mountains and the Sierra Nevada. In places
+the sage-bush, for miles in extent, is dead and withering,
+seemingly parched up by the all-pervading drouth; the 
+grease-wood is either hardier, or chooses its ground
+more judiciously; for it is rarely found dead by acres. 
+There is some bunch-grass on the sides of two or three
+mountains, but very little of aught that can be relied 
+on to sustain human or animal life. The mountains and 
+plains seem to divide the ground very fairly between 
+them&#8212;the soil of both being mainly a white clay;
+while the former have that creased, gullied, washed-
+away appearance, which I have repeatedly noticed.
+Sometimes they are nearly perpendicular on one or
+more sides, like the Buttes further east; but usually
+they can be ascended on any side, and seem to rise
+but one to three thousand feet above the plains at
+their bases. These plains appear from a distance to be
+level as so many tables; but, on attempting to cross
+them in a wagon, you find them creased and scored by 
+
+<pb n="261" xml:id="mmm.wa.greeley.1860.270"/>
+                
+innumerable water-courses, now dry, but showing that,
+in the wet season, water is most abundant here. In
+most instances, a gradual slope of a mile or two 
+intervenes between the foot of a mountain and the adjacent
+plain or valley; this slope is apt to be intensely dry,
+sterile, and covered with dead or dying sage-bush. I
+judge these slopes to be composed of the rocky, 
+gravelly material of the mountains, from which the lighter
+clay has been washed out and carried off. They often
+seem to be composed almost wholly of small bits of
+rock. The valleys or plains are from five to fifteen
+miles across, though they seem, in the clear, dry 
+atmosphere of Utah, not half so much. These plains have
+an imperceptible slope to some point near their 
+respective centers, where a wider water-course runs toward
+some adjacent valley; in some cases, a marsh or naked
+space near the center indicates that the surplus water
+from the surrounding monntains forms here in winter
+and spring a petty, shallow lake, which the hot suns 
+soon evaporate or the thirsty soil absorbs. The 
+mountains are thinly belted or dotted with low, scrubby 
+cedar, seldom ten feet high, and often nearly as far across
+the green top formed by three or four stalks or stems
+starting from a common root. The mountains seem to
+have no particular, or rather no general direction; some
+of the valleys being nearly or quite surrounded by
+them. Even in the wettest seasons, I cannot perceive
+that this region sends of any surplus water to Salt Lake 
+or any other general reservoir. Such is the face of the 
+country for some two hundred miles directly south-west 
+of Camp Floyd.</p>
+                 
+<pb n="262" xml:id="mmm.wa.greeley.1860.271"/>
+              
+<p>We found a station, a change of horses, and something
+that was called dinner, on the little stream I have 
+already mentioned, and halted here, twenty miles or more
+from Camp Floyd. In the afternoon, we came on, over
+a higher, rockier mountain-pass and a far rougher road,
+to the next station&#8212;Simpson's Spring, nearly fifty
+miles from Camp Floyd&#8212;where we halted for the night.
+I fear the hot suns of August will dry up this spring;
+while there is no other fit to drink for a weary distance
+south and west of this point.</p>
+
+<p>The station-keeper here gave me an incident which
+illustrates the character of the country. Some few days
+previously to our arrival, he ascertained that his oxen,
+eight in number, had gone off, two or three nights 
+before, taking a southerly course; so he mounted a horse
+and followed their trail. He rode upon it one hundred
+miles without reaching water or overtaking the cattle,
+which had lain down but once since they started, and
+were still a day's journey ahead of him. If he continued
+the pursuit his horse must die of thirst, and then he too
+must perish; so he turned about and left his oxen to die
+in the desert or be found and eaten by savages. There was
+not a shadow of hope that he would ever see them again.</p>
+
+<p>We had to drive the same team (mules of course} all
+next day, making fifty miles; but we stopped to rest
+and feed them at a sub-station, only twenty miles from
+our starting-point. It was about the forlornest spot I
+ever saw. Though at the foot of a low mountain, there
+was no water near it; that which was given our mnles
+had been carted in a barrel from Simpson's Spring,
+aforesaid, and so must be for most of each year. An
+           
+<pb n="263" xml:id="mmm.wa.greeley.1860.272"/>
+                
+attempt to sink a well at this point had thus far proved
+a failure. The station-keeper here lives entirely alone
+&#8212;that is, when the Indians will let him&#8212;seeing a 
+friendly face but twice a week, when the mail-stage passes
+one way or the other. He deeply regretted his lack of
+books and newspapers; we could only give him one of
+the latter. Why do not men who contract to run mails
+through such desolate regions comprehend that their
+own interest, if no nobler consideration, should impel 
+them to supply their stations with good reading matter!
+I am quite sure that one hundred dollars spent by Major
+Chorpening in supplying two or three good journals to
+each station on his route, and in providing for their 
+interchange from station to station, would save him
+more than one thousand dollars in keeping good men in
+his service, and in imbuing them with contentment and
+gratitude. So with other mail-routes through regions
+like this.</p>
+
+<p>We drove on that day thirty miles further, to Fish
+Springs station, just before reaching which we passed
+one of the salt wells which are characteristic of this
+country, though not absolutely peculiar to it. This one
+is about six or eight feet in diameter, and perhaps an
+equal distance from the surface of the surrounding 
+earth to that of the water, which has a whitish green
+aspect, is intensely salt, and said to be unfathomable,
+with a downward suction which a man could hardly or
+not at all resist. I had no desire to try, badly as I
+needed ablution.</p>
+
+<p>Fish Springs form quite a large pool at the north end
+of a low mountain range, and send of a copious stream
+              
+<pb n="264" xml:id="mmm.wa.greeley.1860.273"/>
+                
+to be drank up in the course of three or four miles by 
+the thirsty clay of the plain. The water is brackish,
+and I think sulphurous, as that of a spring in the 
+adjacent marsh near the station clearly is. There are many
+fish in the pool and stream, and they are said to be 
+good. I should have liked to verify the assertion; and 
+if they bite a hundredth part so freely as the musketoes
+do hereabout, it were an easy matter to afford the stage
+passengers here a change from their usual rations of
+pork, bread and coffee; which, when the flour, or the
+pork, or the coffee, happens to be out, as it sometimes
+is, renders the diet unsatisfactory, even to those who 
+would seem to have been seasoned to the like by a 
+passage across the plains and the Rocky Mountains. Fish
+Springs are just fifty miles from living water on either
+side, and the stages have to run at least ten miles out
+of their course to strike them. There is some coarse
+grass here.</p>
+
+<p><hi rend="italic">July</hi> 23<hi rend="italic">d</hi>.&#8212;
+We traveled this forenoon over a plain
+nearly surrounded by mountains. Said plain is very
+level to the eye, but the rapid traveler's sense of feeling
+contradicts this, for he finds it full of dry-water-courses,
+which give him most uncomfortable jolts. Before noon,
+we came to the spot, where the stage-mules are turned
+out to feed and rest, by the side of a sink or depression
+in the plain, which is covered with coarse grass and reeds 
+or bulrushes. By digging in the side of this sink,
+water has been easily obtained, but so sulphurous, and 
+generally bad, as to be barely drinkable. Even the
+mules, I noticed, practice great moderation in the use 
+of it. At one, we harnessed up, and were soon rising
+
+<pb n="265" xml:id="mmm.wa.greeley.1860.274"/>
+                
+over a long mountain-pass, hardly less than ten miles 
+from the level plain to its summit, where a light 
+thunder-shower&#8212;that is, a light rain with heavy 
+thunder&#8212;overtook us. We drove rapidly down its western 
+declivity, and, a little after 5, <hi rend="smallcaps">p. m.</hi>, reached our next 
+station in "Pleasant Valley," a broad ravine, which 
+descends to the south-west. Here we found water&#8212;bright,
+sweet, pure, sparkling, leaping water&#8212;the first water
+fit to drink that we had reached in a hundred miles; if
+Simpson's Spring ever dries up, the distance will then
+be at least a hundred and twenty. We were now across
+what is here technically known as "the desert"&#8212;that
+is to say, we had crossed the north-east corner of it. I
+believe it extends at least two hundred miles south from
+this point, and is at least as far from east to west across
+its center. If Uncle Sam should ever sell that tract for
+one cent per acre, he will swindle the purchaser 
+outrageously.</p>
+
+<p>Let me endeavor, on quitting it, to give a clear idea
+of this desert, and thus of about half the land inclosed
+between the Rocky Mountains and the Sierra Nevada&#8212;
+the other half being mainly covered by mountains and
+the narrow ravines or ca&#241;ons which separate them.</p>
+
+<p>The plains or valleys of Utah, then, have generally
+a soil of white clay, sometimes rocky, at others streaked
+by sand or gravel; but usually pure clay, save as it is
+impregnated with some alkaline substance:&#8212;usually
+sal&#1237;ratus; but in plae niter, in others, salt or sulphur.
+Sometimes, but rarely, considerable areas of this alkali
+in a nearly pure state are exposed on the surface; in
+many places, it covers the beds of shallow, dried-up
+
+<pb n="266" xml:id="mmm.wa.greeley.1860.275"/>
+                
+lakes, and even streams, with a whitish incrustation;
+but it is more generally diffused through the soil, and
+thus impregnates the springs and streams. Irrigating
+a piece of ground, strongly imbued with alkali, will
+often bring an incrustation of it to the surface, after 
+which no trouble from it is experienced in that place.
+I think the greater proportion of these plains ar valleys
+&#8212;which could easily be cleared of their grease-wood
+and sage-bush and plowed&#8212;would produce large crops
+of wheat, and of almost anything else, if they could be
+irrigated. But that can never be, unless by Artesian
+wells. But little rain falls in summer, and that little is
+speedily evaporated from the hot earth, leaving the clay
+as thirsty as ever. I fear it is mainly doomed to 
+perpetual barrenness.</p>
+
+<p>The mountains which divide these plains exude very
+little water. Wherever a range is single&#8212;that is, with
+a broad valley each side of it&#8212;it is apt to be not more
+than one to three thousand feet high, and so to be early
+denuded of snow; its springs are few and generally
+feeble, and their waters are often dried up before 
+trickling half way down the sides of the mountain which
+gave them birth. If a spring is so copious, or so many
+are speedily combined, as to form a considerable stream,
+they may reach the plain; but only to be speedily
+drank up by its scorched surface. Cultivation, 
+therefore, save in a very few narrow spots, seems here 
+impossible.</p>
+
+<p>But wherever a chaos or jumble of mountains is 
+presented&#8212;still more, where mountains rise behind 
+mountains, range behind range, rank above rank, till the 
+                
+<pb n="267" xml:id="mmm.wa.greeley.1860.276"/>
+                
+summits of the furthest that may be seen are flecked
+with snow&#8212;there the case is altered. Springs are there
+more abundant and more copious; the gradual melting 
+of the snows swells the rivulets formed by the speedy
+meeting of their waters; and thus considerable brooks 
+are formed and poured down upon the subjacent plains,
+as we observe in and around Salt Lake City, and north
+and west of Lake Utah. Thus are formed Bear and
+Weber Rivers; such, I believe, is the origin of the
+Humboldt. But such instances are far too rare in Utah.
+From the Jordan to the Humboldt is about three 
+hundred and fifty miles by the route I traveled, and in all 
+that distance the brooks and rills I crossed or saw, could
+they be collected into one channel, would barely form a
+decent mill-stream. I thence traveled down the south
+side of the Humboldt for two hundred and twenty-five
+miles, and in all that distance not more than two 
+tributaries come in on that side, and their united currents 
+would barely suffice to turn a grindstone. This 
+desolation seems therefore irredeemable.</p>
+
+<p>The mountains of central Utah are less hopeless than
+the Plains. Contrary to my former impression, they
+are fairly wooded; by which I mean that wood is 
+procurable on them at almost any point. This wood is for
+the most part cedar, six to ten feet high, and from a foot
+downward in diameter near the ground. White pines
+of like size, and of equally scrubby character, are quite
+common in the western part of the mountains I 
+traversed, and there is some balsam-fir in the deeper ca&#241;ons,
+which attains a diameter of fifteen to twenty inches,
+and a height of forty to sixty feet. Of this fir, several
+
+<pb n="268" xml:id="mmm.wa.greeley.1860.277"/>
+                
+of the mail-station cabins are constructed; in Ruby
+Valley, they have one of red or Indian-pine; but they
+are quite commonly built of stones and mud. One on
+the Humboldt is built of dwarf-willow canes or wattles
+&#8212;not one any where of cedar nor of the dwarfed white-
+pine of this region. Neither could be made to answer.</p>
+
+<p>But I must hurry on. At Pleasant Valley, we turned
+north-west up a broad ravine, and thenceforth held that
+general course to reach the Humboldt, instead of still
+making west south-west directly toward Carsou Valley,
+as it is proposed hereafter to do if that be found 
+practicable. For the next one hundred and forty miles or
+thereabouts, our trail led us mainly up one side of a
+mountain range and down the other, thence across a
+valley of some ten miles in width to the foot of another
+chain, and so on. As the train naturally runs up the 
+deepest ca&#241;ions and over the lowest passes, the ascent
+and descent are rarely abrupt for any considerable 
+distance, and we seldom lacked water; but our route was
+the most devious imaginable&#8212;veering from north-east
+on one hand to south on the other. Sometimes, two or
+three hundred square miles were visible at a glance&#8212;
+the mountain-sides half covered with cedar and pine,
+with some dwarf-willows and rose-bushes often fringing
+their slender rivulets; but not a tree other than 
+evergreen in sight. There is a large, pine-leaved shrub or
+small tree which a driver termed a mountain-mahogany
+and a passenger called a red haw, growing sparingly
+among the evergreens on some mountain slopes, which
+seems about half way between a thorn-bush and an 
+untrimmed apple-tree, but nothing else deciduous above 
+   
+<pb n="269" xml:id="mmm.wa.greeley.1860.278"/>            
+
+the size of the dwarf-willow. Even the sage-bush and
+grease-wood appear to be evergreens. Grass is here not
+abundant but unfailing, as it must be where water is
+perennial and wood in fair supply. The plains or 
+valleys remain as further east, save that they are smaller,
+and, because of the less scanty supply of water, more
+susceptible of improvement. At Shell Creek, forty-five
+miles from Pleasant Valley, where we spent our next
+night, there is a little garden&#8212;the first I had seen since
+Camp Floyd&#8212;and at Ruby Valley, fifty miles or so 
+further on, the government has a farm in crop, intended
+for the benefit, and partly cultivated by the labor of the
+neighboring Indians. The mail-station also has its 
+garden, and is cutting an abundance of hay. From this
+station, it is expected that the new cut-off, saving one
+hundred miles or more in distance to Carson Valley,
+will be made, so soon as those now scrutinizing it shall
+have pronounced it practicable.</p>
+
+<p>At Ruby, the stage usually stops for the night; but
+we had been six days making rather less than three
+hundred miles, and began to grow impatient. The
+driver had his own reasons for pushing on, and did so,
+over a road partly mountainous, rough and sideling;
+but, starting at eight <hi rend="smallcaps">p. m.</hi>, we had reached the next
+(Pine Valley) station, forty miles distant, before 
+sunrise. Here we were detained three or four hours for
+mules&#8212;those we should have taken being astray&#8212;but
+at nine we started with a new driver, and were soon 
+entangled in a pole-bridge over a deep, miry stream&#8212;a
+drove of a thousand head of cattle (the first ever driven
+over this road) having recently passed, and torn the frail
+            
+<pb n="270" xml:id="mmm.wa.greeley.1860.279"/>
+                
+bridge to pieces. Our lead-mules went down in a pile,
+but were got up and out and the wagon ran over, after
+a delay of an hour. We soon rose from Pine Valley
+by a long, irregular, generally moderate ascent, to a
+mountain divide, from which our trail took abruptly
+down the wildest and worst ca&#241;on I ever saw traversed
+by a carriage. It is in places barely wide enough at
+bottom for a wagon, and if two should meet here it is
+scarcely possible that they should pass. The length of
+this ca&#241;on is a mile and a half ; the descent hardly less
+than two thousand feet ; the side of the road next to the
+water-course often far lower than the other; the road-
+bed is often made of sharp-edged fragments of broken
+rock, hard enough to stand on, harder still to hold back
+on. The heat in this ca&#241;on on a summer afternoon is
+intense, the sun being able to enter it while the wind is 
+not. Two or three glorious springs afford partial 
+consolation to the weary, thirsty traveler. I am confident no
+passenger ever rode down this rocky ladder; I trust
+that none will until a better road is made here ; though
+a good road in such a gulch is scarcely possible. Fifteen 
+miles further, across a plain and a lower range of hills, I
+brought our mail-wagon at last, about seven <hi rend="smallcaps">p. m.</hi> of its
+seventh day from Salt Lake City, to</p>
+
+<p><hi rend="smallcaps"><hi rend="center">The Humboldt.</hi></hi></p>
+
+<p>I am not going to describe the route down this river,
+as it is the old emigrant-trail, repeatedly written about
+already. I only wish to record my opinion, that the
+Humboldt, all things considered, is the meanest river
+of its length on earth. Rising in the Humbnldt 
+<choice><orig>Moun-
+
+<pb n="271" xml:id="mmm.wa.greeley.1860.280"/>
+
+tains</orig><reg>Mountains</reg></choice>, hardly one hundred and fifty miles west of Salt
+Lake, it is at first a pure stream&#8212;or rather streams, for
+there are two main branches&#8212;but is soon corrupted by
+its alkaline surroundings, and its water, for at least the
+lower half of its course, is about the most detestable I
+ever tasted. I mainly chose to suffer thirst rather than
+drink it. Though three hundred and fifty miles in
+length, it is never more than a decent mill-stream; I
+presume it is the only river of equal length that never
+had even a canoe launched upon its bosom. Its narrow
+bottom, or intervale, produces grass; but so coarse in
+structure, and so alkaline by impregnation, that no 
+sensible man would let his stock eat it, if there were any
+alternative. Here, however, there is none. Cattle must
+eat this, or die&#8212;many of them eat it, and die. One of
+the most intelligent emigrants I conversed with on its
+banks informed me that he had all the grass for his
+stock mowed, as he had found by experience that his
+cattle, if grazed upon it, pulled up much of their grass
+by the roots, and these roots were far more alkaline
+than the stalks. I believe no tree of any size grows on
+this forlorn river from its forks to its mouth&#8212;I am sure
+I saw none while traversing the lower half of its course.
+Half a dozen specimens of a large, worthless shrub,
+known as buffalo-bush or bull-berry, with a prevalent
+fringe of willows about the proper size for a school-
+ma'am's use, comprise the entire timber of this 
+delectable stream, whose gad-flies, musketoes, gnats, etc., are
+so countless and so blood-thirsty as to allow cattle so
+unhappy as to be stationed on, or driven along this
+river, no chance to eat or sleep. Many have died this
+
+<pb n="272" xml:id="mmm.wa.greeley.1860.281"/>
+                
+season of the bad water, that would have survived the
+water, but for these execrable insects, by which the
+atmosphere, at times, is darkened. It certainly is not
+a pleasure to ride, night and day, along such a stream,
+with the heat intense, the dust a constant cloud, and
+the roads all gullied, and ground into chuck-holes; but
+then, who would stay in such a region one moment
+longer than he must?</p>
+
+<p>I thought I had seen barrenness before&#8212;on the upper
+course of the Republican&#8212;on the North Platte, Green
+River, etc.&#8212;but I was green, if the regions washed by
+by those streams were not. Here, on the Humboldt,
+famine sits enthroned, and waves his scepter over a
+dominion expressly made for him. On the above-
+named rivers, I regarded cotton-wood with contempt;
+here, a belt, even the narrowest fringe, of cotton-wood
+would make a comparative Eden. The sage-bush and
+grease-wood, which cover the high, parched plain on
+either side of the river's bottom, seems thinly set, with
+broad spaces of naked, shining, glaring, blinding clay
+between them; the hills beyond, which bound the 
+prospect, seem even more naked. Not a tree, and hardly
+a shrub, anywhere relieves their sterility; not a brook,
+save one small one, runs down between them to swell
+the scanty waters of the river. As the only 
+considerable stream in the Great Basin that pursues a general
+east and west direction, the Humboldt may continue
+for years to be traveled; but I am sure no one ever left
+it without a sense of relief and thankfulness. There
+can never be any considerable settlement here.</p>
+
+<p>After a course, at first west by south, then north by
+
+<pb n="273" xml:id="mmm.wa.greeley.1860.282"/>
+                
+west, afterward south-west, and for the last fifty miles
+due south, the river falls into Lake Humboldt, a fine 
+sheet of clear water, perhaps fifteen miles in length and
+forty in circumference. I tried to obtain an 
+approximation to its depth, but could not; those who have
+staid beside it longest assuring me that no boat had
+ever floated upon its waters&#8212;a statement which the
+destitution of wood in all this region renders credible.
+I am satisfied, however, that this lake is being slowly
+filled up from the gradual washing down, and washing
+in, of the hills which approach it on the east and south,
+and that time will make great changes in its 
+configuration and the volume of its waters.</p>
+
+<p>A stream, not so copious as the river, runs from the
+lake on the south, and flows with a gentle, sluggish
+current into a large <hi rend="italic">tul&#233;</hi> or reed-marsh, which has no 
+outlet, and is said to be but moderately salt. The lake
+water is accounted sweeter than that of the river.
+Here the Humboldt is said to <hi rend="italic">sink</hi>, like the Carson,
+Truckee and Walker, which issue from the Sierra 
+Nevada, and run eastwardly into the adjacent desert; but I
+suspect they are all drank up by evaporation and by
+the thirsty sands which surround them. The 
+Mississippi, if it ran across the Great Basin and kept clear of
+mountains, would be threatened by a similar fate.</p>
+
+<p>We reached the Sink at 6 1/2 <hi rend="smallcaps">p. m.</hi> on Thursday, the
+29th&#8212;scarcely two days from Gravelly Ford, where
+we struck the river, having in those two days traversed
+some two hundred and twenty miles of very bad and
+intensely hot, dusty road. At eight, we were ready to
+pass "the Desert"&#8212;that is, the desolate plain which
+            
+<pb n="274" xml:id="mmm.wa.greeley.1860.283"/>
+                
+separates the Sink of the Humboldt from that of the
+Carson. Bpt one of our fresh mules was sick and could
+not be replaced, which made our first drive a tedious
+one, and we contrived, by dexterous mismanagement,
+to get stuck in a bayou or back-set of the Humboldt
+Sink, where we for a while seemed likely to spend the
+night. Our lead-mules, having been mired and thrown
+down, would not pull; the sick wheeler could not. At
+length, by putting one of the leaders in his place, we
+made a start, and come through, finding the bottom
+firm and the water not deep, a yard either way from
+the place of our misadventure. By a little past 
+midnight, we were at the half-way station, where a well of
+decent brackish water has been dug, and which a drove
+of four or five hundred mules reached about the time
+we did. They stopped here to rest, however, while we
+pushed on with a fresh team&#8212;for ten miles of the way,
+over as heavy a drag of sand as I ever endured, 
+whereas most of this desert is a hard, alkaline clay. By five
+<hi rend="smallcaps">A. M.</hi>, after riding four days and the intervening nights
+without rest, we drew up at the station near the sink of
+the Carson.</p>
+        
+-->
+
+</div1>
+</body>          
+</text>
+</TEI>

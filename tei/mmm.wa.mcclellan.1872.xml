@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.mcclellan.1872">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Golden State</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>R.</forename> <forename type="middle">Guy</forename> <surname>McClellan</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.mcclellan.1872</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Golden State</title>
+                    <author><forename>R.</forename> <forename type="middle">Guy</forename> <surname>McClellan</surname></author>
+                    <publisher>William Flint &amp; Company; Union Publishing Company; A. Roman &amp; Company; Connolly &amp; Kelly</publisher>
+                    <pubPlace>Philadelphia, PA, Cincinnati, OH, Atlanta, GA, Springfield, MA; Chicago, IL; San Francisco, CA; Halifax, Nova Scotia, CAN</pubPlace>
+                    <extent>563-599</extent>
+                    <date when="1872">1872</date>
+		    <note type="source">R. Guy McClellan. <hi rend="italic">The Golden State</hi>. Philadelphia, PA: William Flint &amp; Company, 1872. 587-589.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-18"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="563" xml:id="mmm.wa.mcclellan.1872.563"/>
+
+<head>CHAPTER XXXIV.</head>
+
+<head>MORMONISM AND THE MORMON'S.</head>
+
+<p><hi rend="center">Population and religions of the world&#8212;Christianity&#8212;Mohammedanism&#8212;Buddhism&#8212;Judaism&#8212;Mormonism: its rise, progress, history, and practices&#8212;Joseph the prophet and his followers&#8212;The <hi rend="italic">golden plates</hi> from the hill Cumorah&#8212;Christ in America&#8212;Mormon and Moroni&#8212;John the Baptist ordains Joseph Smith&#8212;Smith's birth, early history, life, adventures, and death&#8212;Polygamy&#8212;Brigham Young: his birth, history, and career&#8212;Desertion of Kauvoo&#8212;Mormons march westward&#8212;Settle at Salt lake&#8212;Their city, religion, society, and practices&#8212;Despotism in Utah&#8212;Mormon godhead.</hi></p>
+
+<!-- The Following Section Does Not Directly Deal with the Mountain Meadows Massacre:
+
+<p>I<hi rend="smallcaps">N</hi> considering the peculiar religious tenets of the only organized religious body claiming to be Christian which still practices, as a part of its faith, polygamy, and holds a distinct revelation from God to its prophet, it is well to briefly review the several religious divisions of the earth, and the leading organized religions of the world.</p>
+
+<p>The population of the globe is in round numbers about 1,381,000,000, divided as follows: 380,000,000 Caucasians, 200,000,000 Ethiopians, 220,000,000 Malays 1,000,000 American Indians, and 580,000,000 Mongolians.</p>
+
+<p>All these people speak 3,064 languages and practice 1,000 different religions, which may be classed into six general divisions, within which all the other creeds and denominations exist. These general divisions of course convey but an imperfect idea of the religious faith of the several divisions of the globe, as the reader may judge from the fact that all European countries and America are classed as <hi rend="italic">Christian</hi>; but the division will
+
+<pb n="564" xml:id="mmm.wa.mcclellan.1872.564"/>
+
+at least form a general estimate without going into complicated details of enumeration. The six great religious organizations represent the population of the world as follows: Christians, 388,600,000; Pagans, 200,000,000; Mohammedans, 165,400,000; Jews, 7,000,000; and * Buddhists and other Asiatic religions, 620,000,000, or almost one-half of the population of the whole globe.</p>
+
+<p>The countries in which Christianity is the prevailing religion are Europe, America, Australia, some of the Polynesian islands, that part of Russia in Asia, and a few minor places.</p>
+
+<p>Before the discovery of Japan by Pinto, in 1542, it had passed through many religious forms. As early as 1549, Xavier, the great apostle of Catholicism, was received by the Prince of Satsuma into the empire, and he and his successors had, up to 1584, converted to the Christian faith 1,800,000 Japanese, and had 200 priests established in the country, all of whom were subsequently, by edicts of banishment, driven from the empire; since which time no trace of Christianity has existed in the land until the year 1872, when an imperial decree abolished the edicts against Christianity, some of which had been strictly enforced for more than three centuries. The royal edicts of 1872, ordering the Buddhist priests to learn trades or enter the army, under pains and penalties for disobedience, exhibit a practical turn of mind in the Mikado and his progressive advisers.</p>
+
+<p>Mohammedanism prevails in Turkey, Persia, Afghanistan, Morocco, Egypt, Tunis, Tripoli, and numerous interior States.</p>
+
+<p>Buddhism, the prevailing religion of China and Japan, (modified and changed in some places,) extends over
+
+<pb n="565" xml:id="mmm.wa.mcclellan.1872.565"/>
+
+India, Farther India, China, Japan, Burmah. and Siam, and other portions of Asia; and the seven million Jews are "dispersed" over the globe as follows: in Germany, 47.8,500; Austria, 1,124,000; Great Britain, 40,000; France, 80,000; European Russia, 2,277,000; Italy, 20,200; Switzerland, 4,200; Belgium", 1.500; Netherlands, 64,000; Luxemburg, 1,500; Denmark, 4,200; Sweden, 1,000; Greece, 500; European Turkey, 70,000; Portugal, 3,000; Syria and Asiatic Turkey, 52,000; Morocco and North Africa, 610,000; Eastern Asia, 500,800; and America, 500,000.</p>
+
+<p>Of the 38,555,983 people forming the population of the United States, according to the census of 1S70, there arc estimated to be 33.555,983 Protestants and 5,000,000 Catholics. The Catholics belong to the Romish church, and acknowledge the pope as the sovereign head of the church. The Protestants, so called, represent ever)' conceivable religion, from believing in Christ, either as the Saviour or as a moral reformer simply, or the intensest atheism.</p>
+
+<p>Throughout most parts of the world, some particular religious order is established and maintained by legal authority; as the Greek church in Russia, the Episcopal church in England, the Catholic church in Austria, Buddhism in China, and Sintooism in Japan. In America, there are no religious orders or sects maintained by authority of the government, but the republic is classed among the <hi rend="italic">Protestant</hi> nations of the world. All persons not Catholics are supposed to be and are denominated Protestants, although this class embraces hundreds of religious orders differing almost as much from each other as do the Universalist and the Catholic from each other.</p>
+
+<pb n="566" xml:id="mmm.wa.mcclellan.1872.566"/>
+
+<p>The guarantee of equal religious freedom assured to all by the federal constitution of the United States gives generous scope to die people either to practise or to organize new forms of religion ; but with few exceptions, new religious enterprises have been barren of desirable results, and have failed to attract such support as would give them material strength and national or international prominence.</p>
+
+<p>The four great controlling religions of the world&#8212;<hi rend="italic">Christianity</hi>, <hi rend="italic">Mohammedanism</hi>, <hi rend="italic">Judaism</hi>, and <hi rend="italic">Buddhism</hi>&#8212;had their origin in Asia and in Europe, as is claimed, under the direct control of God and visitation of angels. But whether from the fact of the turbid waters of the Atlantic not being inviting for aerial celestial (lights from the Old to the New World, or that the soil of the new continent was not productive of worthy objects of "inspiration," America, with all its progress and invention, has not promulgated a religion of any great magnitude, and its people have received but few celestial visitations, and these generally of a very local and imperfect order, and generally ending in complete failure. True, the great established religious bodies have been fearfully mutilated, and limbs lopped off and new ones engrafted, but generally without change or injur)* to the parent body. "Warnings, visitations, and dreams" of coming events have been "foreshadowed" to "wiseones," and "visions" have proclaimed the "end of the world" to "chosen ones," who abandoned their earthly goods preparatory to their aerial flight. Trumpets have sounded to warn people of the "coming to pass" of the destruction of the race; but a few days generally found the disciples of such doctrines visiting the "groceries" for pork and beans, and their "celestial
+
+<pb n="567" xml:id="mmm.wa.mcclellan.1872.567"/>
+
+trumpets" turned into fish-horns to aid in peddling clams, or gathering old clothes and "soap-fat."</p>
+
+<p>"Spiritual manifestations" have been pretty freely dispensed in America; and, besides the "appearance" of all the notables of our own country, Europe and Asia have sent us some of their choicest brands. Hannibal, Julius Caesar, Confucius, and Napoleon have "come over the seas," and, through "mediums," given us glimpses of cool and sulphurous regions without much disturbing the equanimity of our people.</p>
+
+<p>The only genuine demonstration that we have yet had in America, through the direct medium of " inspiration" and "angels," was the "revelations" made to the "prophet" Joseph Smith, the founder of <hi rend="italic">Mormonism</hi>&#8212;the new American religion of the " Disciples of Jesus Christ of Latter-day Saints." In this new enterprise many of the necessary elements in successfully establishing religious creeds seem well defined: the obscurity, ignorance, and superstition of its founder and "prophet," and the "persecution" of its disciples.</p>
+
+<p>Joseph "the prophet," vulgarly called Joseph Smith, is supposed to have come "among his people" without any mysterious disturbances of the ordered laws of nature other than attend the birth of common "sinners." His father in the flesh was a plain, medium-sized man, without education, who lived by doing odi jobs for his neighbors, telling fortunes, "finding things lost," and seeing with a " double sight." He had no visible physical marks to distinguish him from his fellow-men, save that he was rather taller than ordinary persons, had a long nose and a large mouth, and was afflicted with chronic laziness.</p>
+
+<p>The mother of the "prophet," whose maiden name
+
+<pb n="568" xml:id="mmm.wa.mcclellan.1872.568"/>
+
+was Lucy Mack, is said to have belonged to the "lower order" of people. She was a simple-minded, ignorant, unlettered woman, full of superstitious notions, and believing; in " signs" and dreams, and was of much service to her husband, Joseph Smith, Sr., in "divining" things. This pair had their terrestrial domicil at the little village of Sharon, Windsor county, in the State of Vermont; and here, on the 23d of December, 1S05, Joseph the "prophet" was born. It is not recorded by the people of Sharon that there were any terrestrial or celestial "signs" to proclaim the advent of the " revealer of truth." The boy, at a very tender age, exhibited marked symptoms of the "talents" of his parents&#8212;ignorance, superstition, and "sight-seeing;" and soon became expert in "divining," and the use of witch-hazel in locating suitable positions for his neighbors' wells, from which occupation he acquired the title of "water-witch," in which he much delighted. It was in one of these wells, located by his "divining-rod," that he once found the " mysterious peep-stone," through which he could see all things, "past, present, and to come;" and by which he could, like his earthly progenitor, "find things lost." Indeed, the boy seemed to have absorbed the whole of the varied " talents" of his parents, as die rest of the family seem to be only like other poor, ignorant people.</p>
+
+<p>In the year 1S15, when Joseph was ten years of age, the family with the young "prophet" settled in Wayne county, near the village of Palmyra, in the State of New York, where they remained for ten years. - At the end of this period the "prophet" was twenty years of age, and had considerably developed his "talent" as "water-witch" and "sight-seer," and "revealing" the
+
+<pb n="569" xml:id="mmm.wa.mcclellan.1872.569"/>
+
+location of "lost, strayed, or stolen" cattle or goods, and the "buried treasures of the pirates," in all of which he spent much of his time when not employed in hewing wood and drawing water, or feeding the hogs and stock of his neighbors, at a monthly stipend of six dollars.</p>
+
+<p>On leaving Wayne county, the "Smith family" moved to the adjoining county of Ontario, taking up their abode near Manchester.</p>
+
+<p>It is reported by Joseph that, at the tender years of sixteen, he had a "visitation," warning him of the danger of his losing his soul, and of the ungodly character of the organized religious institutions of his time; and that while at prayer "in the bush" at the rear of the paternal mansion, in Ontario county, a celestial pyrotechnic display illuminated the forest and "the person of the prophet," and in a "vision" he saw two angels, who brought unto him the glad news of the forgiveness of his sins, and that he was chosen by God to reveal the "true religion" and dispel all existing sects. On the 23d of September, 1823, the prayers of Joseph brought him another visit from angels, and renewed assurance of heavenly powers, and finally "revealing" to him that his hand should draw forth from " the hill Cumorah" the <hi rend="italic">plates of gold</hi> whereon were inscribed, in a language known only to himself, the gospel of the true God.</p>
+
+<p>On the 22d of September, 1826, in the midst of angels and revolting devils, "with a mighty display of celestial machinery," Joseph, unaccompanied, save by the "messengers," extracted from the hill Cumorah, near Manchester, the domicil of his parents in Ontario county, New York, a "mysterious  box, containing
+
+<pb n="570" xml:id="mmm.wa.mcclellan.1872.570"/>
+
+golden plates of the thickness of tin, bound together like a book, fastened at one side by three rings, which run through the whole, forming a volume about six inches thick," upon which was engraved, in "reformed Egyptian, the language of the Jews and the writings of the Egyptians." The box also contained four precious stones, "transparent and clear as crystal&#8212;the <hi rend="italic">Urim</hi> and <hi rend="italic">Thummim</hi> used by seers in ancient times&#8212;the instruments of revelations of things distant, past, and future."</p>
+
+<p>From these golden plates Joseph, by inspiration, translated the "Book of Mormon," the Bible of the Mormons, which was first published in 1830 by Pome-roy Tucker, of Ontario count)', New York. The divine authenticity of the work being doubted by "unbelievers," the Lord sent living witnesses in the persons of three "disciples"&#8212;David Whitmer, an obscure, simple man, Martin Harris, a superstitious neighbor of the young "prophet," and Oliver Cowdery, an itinerant scribe, who aided Joseph in the translation&#8212;all of whom make the solemn declaration attached to the printed copies of the "Book of Mormon," as follows:</p>
+
+<p><quote>"We have seen the plates which contain the records. They were translated by the gift and power of God, for His voice hath declared it unto us, wherefore we know of a surety that the work is true; and we declare, with words of soberness, that an angel of God came down from heaven, and brought and laid before our eyes, that we beheld and saw the plates and the engravings thereon."</quote></p>
+
+<p>Other disciples of the "prophet" followed with evidence of the "divine origin" of the <hi rend="italic">plates</hi>. Among these testifying were three of the Smith family, besides a number of the immediate friends and neighbors of Joseph. They certify:</p>
+
+<pb n="571" xml:id="mmm.wa.mcclellan.1872.571"/>
+
+<p><quote>"Joseph Smith, the translator, has shown us the <hi rend="italic">plates</hi> of which hath been spoken, which had the appearance of gold; and as many of the plates as the said Smith had translated we did handle with our hands; and also saw the engravings thereon; all of which had the appearance of ancient work and curious workmanship."</quote></p>
+
+<p>The account given of the origin of the golden plates, and the necessity of their discovery, as given by Smith, together with the "evidence" of those who "saw" the plates, is doubtless sufficient evidence to establish, in the minds of many, the "divine origin" of the "Book of Mormon;" and however shallow and absurd it may be, it must be acknowledged that it is but little more absurd and unnatural than the basis upon which thousands, if not millions, of the race found their faith.</p>
+
+<p>The prophet Joseph says that, about six hundred years before Christ, God warned a band of Israelites at Jerusalem of approaching captivity and destruction, and directed them eastward to seek the "promised land;" that when at the sea, Nephi. the leader of the band, was directed by angels to build a craft, upon which a "double ball and spindle" were attached, in which the Israelites set sail for the west, and landed all safe in Central America, (Columbus had not yet started his ships toward the new world.) After spending some time in South America, where they "multiplied," a vicious Jew of the name of Laman got up a conspiracy against the "priesthood," for which all hands, priests, and all, were "cursed" and doomed henceforth "to be a brutish and a savage people, having dark skins, compelled to dig in the ground for roots, and hunt their meat in the forests like beasts of prey." It, however, was prophesied that God would eventually rescue a portion of the tribe, who should "have the curse
+
+<pb n="572" xml:id="mmm.wa.mcclellan.1872.572"/>
+
+removed, and become a fair and delightsome people," who, in coming time, should "blossom as the rose under the teachings of the Latter-day Saints." The party upon whom the " curse" remained were the followers of Laman, called the Lamanites, from whom sprang the American Indians; and from the party having the curse removed came the Nephites, called after Nephi, their first ruler. Alma, Kish, Noah, and others had ruled these people, who, like the Lamanites, had spread over the whole American continent, built cities, and carried on protracted wars in which hundreds of thousands were slain.   Local disorders, caused by "false prophets," had long disturbed the composure of the Nephites, who had become numerous and powerful, holding complete dominion of a great part of interior America; finally powerful bands from the Rocky mountains came down and drove the Nephites east, to the waters of Lake Erie, where a vigorous stand was made, in which the Nephites were worsted.</p>
+
+<p>After the crucifixion of Christ at Jerusalem, he came over to America, and dispensed his gospel to the tribes of the "lost children of Israel," making many converts among the Nephites. But the new disciples were doomed to defeat and annihilation ; from the north came down the famous mountain chief, Onandagus, and " covered the whole land with dead bodies." </p>
+
+<p>The fierce Lamanites with the "curse" on them were still in rebellion, and after pushing the Nephites from the mountains, across the Mississippi, and beyond the lakes, finally surrounded them in Ontario county, New York, where, in the year of our Lord 430, at the hill Cumorah, two hundred and thirty thousand of the Christian Nephites lay slain. <hi rend="italic">Mormon</hi>, and his son
+
+<pb n="573" xml:id="mmm.wa.mcclellan.1872.573"/>
+
+Moroni, of all this once powerful nation, remained. By these the history of their extinct race was perpetuated. Mormon having added an account of his departed people, and being" assured by angels from heaven that in lapse of time the hand of a prophet should restore the record to the world, took the sacred volume and delivered it into the hands of his son Moroni, who, in obedience to his father's injunction, buried it in the hill Cumorah, which is in the county of Ontario, in the State of New York, from whence, on the 22d day of September, 1826, according to prophecy, .hey were brought forth by the hand of "Joseph the prophet."</p>
+
+<p>This is the record left by Joseph Smith of the origin of the new religion of "the Church of Jesus Christ of Latter-day Saints," of which he was the founder. The sect and their book take their names from the preserver of the records of the Christian Nephites, Mormon, whose volume, "The Book of Mormon," as translated by Joseph, was first given to the world from the press of a newspaper office in Ontario county, New York, in 1830.</p>
+
+<p>In denial of the <hi rend="italic">divine origin</hi> of the Book of Mormon, it is stated that, in 1812, the Rev. Solomon Spaul-ding, a Presbyterian minister, who from failing health had left his profession, had written a romance called the "<hi rend="italic">Manuscript Found</hi>" having its principal scenes laid in the history of the Indian tribes of the interior of America. The manuscript Mr. Spaulding endeavored to have printed by Mr. Patterson, of Pittsburg, Pennsylvania, and others, desiring it to be prefaced as deciphered from plates dug from the earth in Ohio. But failing in this, the manuscript was left in the hands
+
+<pb n="574" xml:id="mmm.wa.mcclellan.1872.574"/>
+
+of Mr. Patterson, who kept a printing office, in which Sidney Rigdon, one of the "founders of the faith," was employed. Patterson died in 1826, but the manuscript was never after seen by any of his friends.</p>
+
+<p>Mrs. Spaulding, the widow of the author of "<hi rend="italic">Manuscript Found</hi>" avers that she had a complete copy of her husband's book in manuscript; and, in 1825, while residing in Ontario county, New York, that Joe Smith was digging a well for a Mr. Stroud, who lived next door to her, and that her copy of the book disappeared from her trunk.</p>
+
+<p>When the "Book of Mormon" appeared, the relatives of Patterson, the printer, and Mrs. Spaulding and her relatives recognized the latter as an interpolation of " Manuscript Found" and published all the facts; only, however, to draw from Smith, Rigdon, and their followers cries of "persecution."</p>
+
+<p>Mormonism was being promulgated as early as the 15th of May, 1829. John the Baptist appeared among the disciples and ordained Joseph Smith and Oliver Cowdcry in the Aaronic priesthood, and on the 6th of April, 1830, near the town of Manchester, the home of the prophet, the "Mormon church" was organized with the friends and family of Joseph, six in all, consisting of Joseph Smith, his father Joseph, senior, Samuel Smith, Hyrum Smith, Joseph Knight, and Oliver Cow-dery. The laying on of hands'" for the gift of the 1 loly Ghost" followed the sacrament, which had been partaken of by all, and on the 11 th of April, 1830, the first Mormon sermon was preached by Oliver Cowdery, soon after followed by a "miracle," and a first "conference " on June 1st following. The wife of the prophet
+
+<pb n="unnumbered" xml:id="mmm.wa.mcclellan.1872.575"/>
+
+<figure xml:id="mmm.wa.mcclellan.1872.575.figure">
+<p>Brigham Young.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="575" xml:id="mmm.wa.mcclellan.1872.576"/>
+
+Joseph was, by special revelation, proclaimed "Elect Lady and Daughter of God."</p>
+
+<p>Soon acquisitions to the "revealed truth" from all sides poured in, and zealous preachers were sent among the Gentiles and Lamanites to tell them of the fulfilment of the prophecy.</p>
+
+<p>At first, the "doctrines" of the church were not very definite; any views suited to attract superstitious, simple-minded persons, seeking for " signs," 11 wonders," and "revelations" were acceptable. The "destruction of the world" was very effective in drawing timid women and semi-idiotic men into the circle of the "saints."</p>
+
+<p>Joseph Smith soon assumed absolute control of the Mormon church, not alone from the fact that he had been "inspired by God to reveal the truth," but that he was endowed with the spirit of prophecy, and by " revelation" was to direct the spiritual and temporal affairs of "his people." So step by step during the life of Smith, and through the reign of Brigham Young, the affairs of the Mormon church and people have been directed by "revelation."</p>
+
+<p>During the latter part of 1830 and the early part of 1831, nearly all the saints had departed from New York State and settled at Kirtland, Ohio, proselyting on their journey west.</p>
+
+<p>In June, 1831, Joseph Smith, with a few chosen elders, were on the march to "Zion, which should never be moved," as Joseph had a revelation that Jackson county, Missouri, had been "solemnly dedicated to the Lord and His saints," and here they began to establish themselves. The early converts, including the Smiths and friends, were "dispensingthe gospel," while Joseph
+
+<pb n="576" xml:id="mmm.wa.mcclellan.1872.577"/>
+
+Smith and Sidney Rigdon opened a bank, which soon failed. Among other active missionaries in the field was Samuel H. Smith, the brother of Joseph, whose ministrations " brought to the fold " the grandest apostle of them all in the person of Brigham Young, " Prophet, Priest, Seer, Revealer in all the world; first President and Trustee-in-trust of the Church of Jesus Christ of Latter-day Saints," and late Governor of the Territory of Utah; who, with his four brothers and six sisters, all embraced the new religion.</p>
+
+<p>The State of Vermont, the birthplace of Joseph Smith, also produced the great polygamist Brigham Young, who was born at Whittingham, Windham county, in that State, on the ist of June, 1S01. Brig-ham, who was raised on a farm, had at an early age learned the painting and glazing business, which he followed until the rich field of Mormonism opened for his splendid talents as a ruler.</p>
+
+<p>With the growth of Mormonism, its leaders became bold and defiant, proclaiming themselves kings and rulers, before whom all others must bow, and that eventually they would drive all "disbelievers" out of the country.</p>
+
+<p>So violent and intemperate had become the leaders of the new religion, and so obnoxious had they rendered themselves to the people of Missouri, that, in the summer of 1833, the inhabitants assembled at Independence, the head-quarters of the Mormons, destroyed their newspaper office, whipped, tarred and feathered some of the leaders, and after serious conflicts, in which some of the populace were slain in a hand-to-hand conflict, the Mormons retreated, evacuated Jackson county, and headed west; and, on the nights of
+
+<pb n="577" xml:id="mmm.wa.mcclellan.1872.578"/>
+
+November 4 and 5, crossed the Missouri river into Clay county. After a brief sojourn at Liberty, Clay county, Missouri, in May, 1836, on warning of the people "to leave," they evacuated Clay county, and located in the counties of Davis, Carroll, and Caldwell. The organization at Kirtland, Ohio, was still maintained. Joseph had marched with an army into Missouri to avenge the wrongs of his people, but the cholera overtook the prophet and his soldiers, and drove them from the field. Meantime Smith had finished an " inspired translation" of the Old Testament; Brigham had received the "gift of tongues," and he and Heber C. Kimball, and others of "the twelve apostles," in 1835, started from Kirtland on their missionary labors, adopting the name of "Latter-day Saints," as the world was soon to be destroyed, and they would be the last saints of earth. Continuous conflicts between the saints and people of Missouri kept several counties of the State in war, and the disorders of dissenting saints kept the leaders in endless confusion and dread. As early as June, foreign missions were organized, and Orson Hyde, H. C. Kimball, and W. Richards sent to Kng-land, where many converts were made.</p>
+
+<p>The seat of Mormonism was in confusion. Multiplied crimes caused Governor Boggs to issue an order of banishment of the saints out of the State, "even if it was necessary to exterminate them." Smith and Rigdon were flying from the angry creditors of their decayed bank, and Brigham Young, for participation in evils, was heading for Quincy, Illinois. Armed bands of Mormons were in the field, and the State militia of Missouri, under the call of the governor, had met and defeated the saints, and after their leaders had been
+
+<pb n="578" xml:id="mmm.wa.mcclellan.1872.579"/>
+
+held to trial " for treason, murder. robbery, arson, and larceny," the whole Mormon community in Missouri, numbering more than twelve thousand, now headed for Illinois, and in January, 1839, settled at Quincy, Adams county, and other parts of the State. By this time the "persecutions" of the Mormons gained them much sympathy as they wandered west, and, either through negligence or the desire of the people of Missouri to be relieved as easily as possible of the Mormon prisoners, Smith and his associates escaped from their guards, and headed for Illinois; and he and his people, >n the nth of June, 1839, laid the foundations of their famous city of Nauvoo, in Hancock county, wherein (rreat activity and zeal were manifested. A thriving city rose as if by magic, missionaries issued in every direction, and Brigham Young, as "president of the twelve aposdes," had, in April, 1S40, arrived in England, where great success attended the missionary efforts of "Latter-day Saints." who, early in the year 1841, led to their "Zion" in the wilderness nearly eight hundred English converts to the "faith." On October 3, 1840, the foundations of the great temple, which Joseph had spiritual command to erect, were laid, and Nauvoo attained an important position, and the "prophet" and his disciples assumed spiritual and temporal supervision of all with whom they came in contact, proclaiming the speedy conversion of the whole world to the "revealed religion of Mormon."</p>
+
+<p>The new religion and its followers, however, were doomed to further "persecution for the Lord's sake." The liberties of the saints had drawn to their circle hundreds of designing, vicious, and cunning rascals, who, playing upon the weak minds of the enthusiastic
+
+<pb n="unnumbered" xml:id="mmm.wa.mcclellan.1872.580"/>
+
+<figure xml:id="mmm.wa.mcclellan.1872.580.figure">
+<p>Brigham Young.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="579" xml:id="mmm.wa.mcclellan.1872.581"/>
+
+converts, led them into all manner of excesses and crimes against the "Gentiles," who finally, dreading the political influence of the sect, and the power of the "Nauvoo legion," rose and drove them from the land.</p>
+
+<p>The prophet had, in 1S44, nominated himself for the Presidency of the United States, and his people had placed him as lieutenant-general at the head of the "Nauvoo legion." Courts and all local authority were controlled by the Mormons, and a political and social warwaged against the "Gentiles;" new orders of priestly functions and nobility were established, ending in the crowning and anointing of Joseph as king and high priest, and claiming his direct descent from Joseph, the son of Jacob.</p>
+
+<p>Plurality of wives had gradually crept into the order at Nauvoo, and Joseph and his elders reaped a rich harvest of <hi rend="italic">spiritual</hi> wives from the fairest doves of their flocks.</p>
+
+<p>The final end of the prophet of the "revealed truth" was at hand. A number of Mormons, Including Smith, had, on the 24th of June, 1844, been arrested, and were held in jail at Carthage, near Nauvoo. Soon, however, all except Joseph Smith and his brother, Hyrum, were released, but their offences appearing great they were held in custody. The political and military power of the Mormons had now become so great in the city of Nauvoo and vicinity, and their crimes so appalling, that the people had determined to take the law into their own hands, and avenge themselves. The most effective way to accomplish this, and to insure future security, they thought, was to strike at the fountain-head; so the life of the prophet must atone the wrongs of his people. A band of citizens, disguised and armed, had entered
+
+<pb n="580" xml:id="mmm.wa.mcclellan.1872.582"/>
+
+into a conspiracy with the guard, so that easy access was had to the jail. About six o'clock on the morning of the 27th of June, 1844, this band forced open the prison doors, shot and killed Hyrum Smith instantly. Joseph, who was armed with a pistol, bravely defended himself, ascended to the upper part of the jail, and sprang from the window to the ground, receiving stunning injuries, and in his helpless condition was brutally murdered by being riddled by the balls from the guns of his assassins.</p>
+
+<p>Thus fell the great American prophet at the early age of thirty-nine years, full of spiritual and muscular strength, fair and comely, erect in his six feet of manly beauty&#8212;the proud commander of his sect and the admired of his "sisters in the Lord."</p>
+
+<p>The death of Joseph spread a pall of mourning over N'auvoo: the wives and people of the "founder of the faith" joined in sending lamentations to heaven for the slain king, upon whose head they placed the martyr's crown dyed in the blood of sacrifice.</p>
+
+<p>On the death of the prophet dissensions sprang up among his people, and the church and saints looked for " signs" of a leader. Joseph had a son named after himself, but it was said by the prophet that "the man was not born who was to lead this people."</p>
+
+<p>Many of the "saints" had revelations of special missions and authority to succeed Joseph, but to no purpose.</p>
+
+<p>Brigham Young, who was at the head of the twelve aposdes, at once took a leading position, and on the 15th of August, 1844, an "encyclical letter to all the saints in the world" was issued by himself and his apostles.   On the 7th of October, a general council of
+
+<pb n="581" xml:id="mmm.wa.mcclellan.1872.583"/>
+
+the Mormons at Nauvoo decided to leave the government of the "church" with the "college of the twelve apostles," at the head of which was Brigham Young. From this period dates the rule of the man who built up Nauvoo until it spread over an area of six square miles, with its magnificent temple, costing over a million dollars, and its <hi rend="italic">fifteen thousand saints</hi>.</p>
+
+<p>Continued conflicts between the Mormons and the Gentiles, with charges of murder, arson, counterfeiting, and other crimes, aroused the people of Illinois; and, warned by an approaching general uprising to exterminate them, the whole Mormon people commenced the evacuation of their city and temple, and, bidding adieu to Nauvoo, in the winter of 1845-6, headed by Brigham Young and his fellow-apostles, turned their faces toward.the great desert, in the direction of the setting sun. Fifteen thousand men, women,and children, with their sluggish ox-teams, numbering many thousands, plunged into the dead of winter, experiencing untold miseries, privations, and death, wended their tedious journey over the precipitous mountains and arid plains, leaving the new-made graves of their fellows to mark their sad pilgrimage beyond the reach of persecution.</p>
+
+<p>The Mormon leaders had no settled views of a permanent location, further than that in some quarter of the Pacific coast they might find refuge from Gentile intolerance. Oregon, Vancouver island, the Sandwich islands, and the Spanish Territory of California were all looked to as suitable fields of retreat; and, in the hope of reaching the latter Territory, five hundred Mormons joined the expedition of General Kearney, which left Fort Leavenworth, on the Missouri, in June,
+
+<pb n="582" xml:id="mmm.wa.mcclellan.1872.584"/>
+
+1846, marching by way of Santa Fc, New Mexico, and the Gila, until it reached the coast of California. Many of these people finally settled in California; and on the discovery of gold, in 1848, abandoned San Francisco and the lower country and went to the mines.</p>
+
+<p>In 1845, and while California was yet a Spanish colony, an expedition of saints was fitted out, and sailed in due time from the city of New York on board the ship <hi rend="italic">Brooklyn</hi>. She made the voyage safely round Cape Horn, and first visited the Sandwich islands; and finally, on the 31st of July, 1846, (twenty-four days after Commodore Sloat had hoisted the American flag over California,) entered the Bay of San Francisco, where the Mormons pitched their tents on the adjacent sand-hills, and, under the leadership of Samuel Bran-nan, a shrewd Maine Yankee, maintained an organization until the discovery of gold, in 1848; when the consequent fever infesting the whole camp, the saints, leader and all, started for the mines. This broke up the design of permanent settlement on the Pacific shores, west of the Sierras.</p>
+
+<p>During this period, the main body of the Mormons had collected near Omaha, where, under the executive talent of their new leader, they had consolidated their strength, and the people unanimously proclaimed that " the mantle of the prophet Joseph had fallen on the seer and revelator, Brigham Young."</p>
+
+<p>The object of the saints now was to reach the Pacific and join their brethren gone before them by sea. President Young accordingly, at the head of the pioneer pilgrims, consisting of one hundred and forty-three men, with seventy wagons, left Omaha, on the 14th of April, 1847; and, after a three months journey across the
+
+<pb n="unnumbered" xml:id="mmm.wa.mcclellan.1872.585"/>
+
+<figure xml:id="mmm.wa.mcclellan.1872.585.figure">
+<p>FINER ROCK, WEBER CANON, UTAH</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="583" xml:id="mmm.wa.mcclellan.1872.586"/>
+
+trackless desert, on the 24th of July following, entered the valley of Great Salt lake. Here the saints pitched their tents, fully believing that in this most secluded and unfrequented region of the continent they might live unmolested for centuries. But the discovery of gold in California, in 1848, led the people of the East across the plains in vast numbers; and the trail of the pioneer saints to their Jordan and Zion in the desert was made the highway of the vast emigrant trains and bands of gold-hunters, and Salt lake became the best known section of America west of the Missouri.</p>
+
+<p>The acquisition of California brought the Territory of Utah, then a part of California, under the dominion of the United States; a fact which die saints have been loath to learn, as from their first settlement they have had absolute social, religious, and political control of the country, in utter defiance of federal laws and the national constitution.</p>
+
+<p>As early as the 5th of March, 1849, the Mormon leaders assumed sovereign dominion over their "Zion," by the meeting of a convention at Salt Lake City "of all the citizens of that portion of Upper California lying east of the Sierra Nevada mountains, to take into consideration the propriety of organizing a territorial or State government" The convention established the " free and independent <hi rend="italic">State of Deseret</hi>," elected State officers, and finally applied to Congress for admission as a State into the Union. Congress declined, however, to admit the new State; but, on September 9, 1850, organized the Territory of Utah. President Fillmore appointing lirigham Young governor. From that period forward national authority has been completely ignored by the Mormons, until the
+
+<pb n="584" xml:id="mmm.wa.mcclellan.1872.587"/>
+
+years 1871-2, when the federal territorial officers, for the first time in the history of the Territory, seemed to comprehend that Utah was not a foreign nation, but was subject to the authority and laws of the United States.</p>
+
+<p>During the rebellion of 1861-5, active measures were adopted by the Mormon leaders, looking to the separation of Utah from the jurisdiction of the United States, and the establishing of an independent government; while not a man, dollar, nor sign of interest or sympathy was offered to the national government. Repeated efforts, from time to time, have been made to induce the Federal Congress to admit Utah as a State, the last time being on the 18th of March, 1872, when an election was held, a constitution adopted, United States Senators elected, and the "State of Deseret" once more sought in vain admission into the Union. At the election in March, 1872, all the women in the Territory over twenty-one years of age, regardless of birthplace or nationality, voted. The Gentile population being so small a minority, did not offer any opposition, nor vote at this election.</p>
+
+<p>Brigham Young, who had ruled as a despot at the head of the Mormon church, had, by federal appointment, held the office of territorial governor from 1850 until the early part of 1858, when he was succeeded by Governor Cumming, who, with Colonel Albert Sidney Johnston, (late of the Confederate army,) led James Buchanan's " army of invasion " into Utah to quell the " Mormon rebellion," which had driven the federal officers from the Territory, and, under the leadership of Governor Brigham Young, had assumed alarming proportions; and drew from the Mormon
+
+<pb n="585" xml:id="mmm.wa.mcclellan.1872.588"/>
+
+chief his famous edict, addressed to the commander of the federal forces sent into the Territory to enforce order:</p>
+
+<p><hi rend="center"><hi rend="smallcaps">Governor's Office, Utah Territory</hi>, </hi></p>
+
+<p><hi rend="center"><hi rend="italic">Great Salt Lake City</hi>, <hi rend="italic">September</hi> 29, 1857. </hi></p>
+
+<p><hi rend="smallcaps">Sir</hi>: By reference to the act of Congress passed September 9, 1S50, organizing the Territory of Utah, published in a copy of the Laws of Utah, herewith, p. 146, chap. 7, you will find the following:</p>
+
+<p><hi rend="smallcaps">Sec</hi>. 2. <hi rend="italic">And be it further enacted</hi>, That the executive power in and over said Territory of Utah shall hi vested in a governor, who shall hold his office for four years, <hi rend="italic">and until his successor shall be appointed and qualified</hi>, unless sooner removed by the President of the United States. The governor shall reside within said Territory, shall be commander-in-chief of the militia thereof, &amp;c, &amp;c.</p>
+
+<p>I am still the Governor, and Superintendent of Indian Affairs for this Territory, no successor having been appointed and qualified, as provided by law, nor have I been removed by the President of the United States.
+By virtue of the authority thus vested in me, I have issued and forwarded you a copy of my proclamation forbidding the entrance of armed forces into this Territory. This you have disregarded. I now further direct that you retire forthwith from the Territory by the same route you entered. Should you deem this impracticable, and prefer to remain until spring in the vicinity of your present encampment, Black's Fork or Green river, you can do so in peace, and unmolested, on condition that you deposit your aims and ammunition with Lewis Robinson, Quarter-master General of the Territory, and leave in the spring as soon as the condition of the roads will permit you to march. And should you fall short of provisions, they can be furnished you by making the proper application therefor.</p>
+
+<p>General D. H. Wells will forward this, and receive any communication you may have to make.</p>
+
+<p><hi rend="center">Very respectfully,</hi></p>
+
+<p><hi rend="right"><hi rend="smallcaps">Brigham Young</hi>,</hi></p>
+
+<p><hi rend="center"><hi rend="italic">Governor, and Sufxrin/tndtnt of Indian Affairs, Utah Territory. </hi></hi></p>
+
+<p><hi rend="italic">To the Officer commanding the Forces</hi></p>
+
+<p><hi rend="italic">Now invading Utah Territory.</hi></p>
+
+<pb n="586" xml:id="mmm.wa.mcclellan.1872.589"/>
+
+<p>The army still marched toward the city of the saints, causing a general "scare," and a stampede of one-half of the Mormon population toward the Colorado and Mexico. Finally, "peace commissioners" were appointed, the "war" ended, and the Mormons returned to their city.</p>
+
+<p>Passing through various phases 01 social local disturbance of church and State, and continuously opposing the authority of the national government, the Mormons have found themselves surrounded by an increasing population from all quarters of the republic, induced by recent railroad communication, curiosity, and the development of rich silver and other mines in the Territory. Until within a recent period the temporal and spiritual power of the American prophet and his people are fast running below zero; and eventually must be frozen out in the pure atmosphere that chills concubinage and the incestuous pollutions of marriage to whole families.</p>
+
+<p>The Mormon leaders, dreading the influx of Gentiles, and the consequent danger to their long sway of political power, in 1870, resorted to the expedient of female suffrage; and, by territorial enactment, at a single dash, added <hi rend="italic">fifteen thousand</hi> to the Mormon "cause." By this law, every woman in the Territory, over twenty-one years of age, and all under that age, if married, vote at all elections. No naturalization laws of the nation are applied to those women, three-quarters of whom are ignorant, superstitious foreigners. This is the only quarter of the republic enjoying (?) female suffrage; and the spectacle of the polygamists on election day opening the doors of their harems and marching their wives to the polls is a strange contradiction
+
+-->
+
+<pb n="587" xml:id="mmm.wa.mcclellan.1872.590"/>
+
+<!--
+    
+and perversion of liberty. Brigham casts seventeen votes—his sixteen living wives and his own, to say nothing of the control over his "<hi rend="italic">interesting family</hi>."</p>
+
+<p>In 1852, to check the "licentious cohabitation" of anti-Mormons and the "lewd men of California," who sometimes found their way to the harems of the saints, a law was enacted by the territorial Legislature of Utah, with severe pains and penalties for "lewd and lascivious cohabitation." These statutes have now been made to recoil against those who enacted them, suits having been commenced before the United States territorial judges by oppressed Mormon women against their truant lords, for over-indulgence in "wives;" and even Brigham, who, as Governor of the Territory, signed the law to keep the unrighteous feet of the invading Gentile from his domicile, found himself indicted by a grand jury and held in bonds to appear for trial, for the crime of "<hi rend="italic">lewd and lascivious cohabitation</hi>" Doubtless the prophet thought this a new "revelation."</p>
+
+<p>The Gentiles (all those who are not Mormons) in the Territory hold that all marriages with Mormons and their women are void, except with their first living wife; while the Mormons hold that they are supported by die Christians' Bible itself in polygamy; that marriage is a <hi rend="italic">sacrament</hi>, the regulation of which is solely with the "church;" that they can have as many wives as they please, when their "religion" directs them; that <hi rend="italic">the church alone can marry and divorce</hi>; and that all acts of courts in these matters are usurpations, tyrannical and void.</p>
+
+-->
+
+<p>Trouble continued to accumulate with the saints in 1870-1. The mystic circle of the "holy twelve apostles" had been broken by the rude hand of the
+
+<pb n="588" xml:id="mmm.wa.mcclellan.1872.591"/>
+
+United States territorial marshal; <persName key="Young, Brigham">Brigham</persName> and apostle <persName key="Wells, Daniel">Daniel H. Wells</persName> had been arrested and held in bonds for trial for "raising a family," under indictments for lasciviousness; and the murderous <persName key="Hickman, Bill">Bill Hickman</persName> came forth from his mountain retreat, "unbosomed" himself to the federal territorial officers, disclosing the participation of <persName key="Young, Brigham">Brigham Young</persName> and his saints in the most revolting crimes and murders, revealing a sickening record of individual assassinations, and ending with the avowal that the direct orders of <persName key="Young, Brigham">Brigham Young</persName> preceded almost every murder of the terrible list of slain in <placeName type="state" key="Utah Territory">Utah</placeName>; and that <seg type="Blame" subtype="LDS_LDS">the Mountain Meadows massacre, where <seg type="Massacre" subtype="Casualties"><hi rend="italic">one hundred and thirty-two</hi> innocent immigrants&#8212;men, women, and children</seg>&#8212;were cruelly butchered <seg type="Massacre" subtype="Dates">in 1858</seg>, <seg type="Massacre" subtype="Location">in Southern <placeName type="state" key="Utah Territory">Utah</placeName></seg>, was by the authority of <persName key="Young, Brigham">Young</persName> and his "apostles."</seg> On these confessions, and other charges of crime by numerous witnesses, <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Well, Daniel H.">Daniel H. Wells</persName>, <persName key="Hyde, Orson">Orson Hyde</persName>, <persName key="Stout, Hosea">Hosea Stout</persName>, and <persName key="Kimball, William">William Kimball</persName>, all saints, were accused. Some were arrested, while others fled, and <persName key="Young, Brigham">Brigham</persName>, who had been held in heavy bonds to appear in court on charges of murder, fled to Southern <placeName type="state" key="Utah Territory">Utah</placeName>, but finally returned to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, where he was arrested early in 1872, and cast into prison to await his trial.</p>
+
+<p>The case of <persName key="Young, Brigham">Young</persName> and his associates was, on appeal upon the irregularity and want of jurisdiction of the federal territorial court, carried to the Supreme Court of the United States, which held that the manner of drawing juries by the territorial courts from September 20, 1870, to April, 1872, was illegal. By this decision, on the 25th of April, 1872, <persName key="Young, Brigham">Brigham Young</persName> and four hundred other prisoners, including twenty-four charged
+
+<pb n="589" xml:id="mmm.wa.mcclellan.1872.592"/>
+
+with murder, were released. This event was the signal for new vows, and faith in the Divine interposition to release his saints and humiliate their persecutors. At the great annual conference held at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> at this period more than twelve thousand disciples swelled the chorus in the great tabernacle, proclaiming the victory of God and his saints, and giving new inspiration to the elders and bishops, a new batch of whom were despatched "with glad tidings" to the people of Europe.</p>
+
+<!-- The Following Section is Not Directly Relevant to Mountain Meadows Massacre:
+
+<p>The social practices and religious dogmas of the Mormons are almost as romantic, singular, and ridiculous as the crimes of which they are accused are atrocious and appalling. They claim to be Christians, but assert that all other Christian organizations have departed from the "true doctrine," having scarcely grace enough to become good Mormons, while the disciples of Joseph the prophet shall eventually, by the grace of God, subdue the whole races of men, lead them to salvation, and eventually rule over them as gods and kings in the land of their inheritance in the skies. The <hi rend="italic">Bible</hi> they hold as the foundation of all their faith, giving it a literal interpretation; but that the <hi rend="italic">Book of Mormon</hi>, translated from the golden plates by their prophet, is an infallible and indispensable key to the mysteries of revelation and the kingdom of heaven. Souls, they say, existed from all time, and in invisible bodies float in vacancy, are caught by angels, and finally, from the cradles of the harems of the saints, arc sent out in tangible form as live Mormons to fulfil the Scriptures by multiplication and conversion of the " heathen," which is the highest mission of the saints and the especial business of the Mormon women; for if, by missionary labors, a Mormon convert a dozen
+
+<pb n="590" xml:id="mmm.wa.mcclellan.1872.593"/>
+
+Gentiles, how much "glory must surround his head in the presence of his many wives and his many children." Surely here is a "gathering of spirits."</p>
+
+<p>In the eternity they hold there arc many worlds and many gods, and that each world has a head god, and a son next in command, but that over all is one chief, who is the father of all the little gods; and that he, too. "is the father of Jesus Christ in the only way known in nature, just as John Smith, senior, is the father of John Smith, junior."</p>
+
+<p>The theory of creation and of the Garden of Eden, as well as Darwin's " Descent of Man," giving the origin of our ancestors in oysters, slugs, and apes, arc all rejected by the saints, who claim that "when the earth was prepared, there came from an upper world a son of God, with his beloved <hi rend="italic">spouse</hi>, and thus a colony from heaven, it may be from the sun, was transplanted on our soil." This theory is synonymous with the view recently promulgated by the learned professor in Edinburgh, Scotland, who declares that there are no germs of human creative life on our globe, and that, after "careful study of the subject of creation and the race," he concludes that our ancestors came from some of the globes above us, and made their terrestrial descent upon an <hi rend="italic">areolite</hi>. It is not mentioned whether other emigrants are to follow, or whether the sudden contact of the metal aerial horse with the earth gave the riders a vivid and unpleasant realization of terra firma. Doubtless the Mormon theory is as correct as any other version of this subject, and any of the others are as correct as that of the Mormon view.</p>
+
+<p>Mormons and the few others who may reach heaven are to appear "in the flesh," and, surrounded by their
+
+<pb n="unnumbered" xml:id="mmm.wa.mcclellan.1872.594"/>
+
+<figure xml:id="mmm.wa.mcclellan.1872.594.figure">
+<p>VIEW OF GREAT SALT LAKE, AND THE MORMON CITY OF OGDEN. (From an observations car, Central Pacific Railroad.)</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="591" xml:id="mmm.wa.mcclellan.1872.595"/>
+
+wives and children, sing perpetually to their prophet. Baptism by immersion is a sacrament. Brigham himself lias been twice in the "plunge," and the sins of all converts are <hi rend="italic">floated</hi> on the "waters of regeneration;" and upon the appearance of an influx of Gentile immigrants, lascivious men from California, or grasshoppers, all saints that are considered " shaky " get a dip.</p>
+
+<p>The composition and order of the "godhead" are Eloheim, Jehovah, Adam, Christ, and Joseph Smith. From this "head centre" issue the inspirational light that led the saints from New York to Nauvoo, and thence to the " promised land" in the vicinity of Great Salt lake.</p>
+
+<p>A plentiful supply of <hi rend="italic">prophecy, power of the Holy Ghost, inspiration, gospels, signs, wonders, mystic powers, visions, faith, atonement, regeneration, spirits, angels, saints, revelations, testimony, healing by laying on of hands, anointments, holy oils, patriarchs, remissions, bishops, teachers, evangelists, purgations, ascensions, descen-sions, dreams, callings, priesthoods, sacraments, orders, progressions, gifts of tongues, consecrations, and miracles</hi> are woven through the doctrines of the Mormon faith to render it palatable to the most visionary of mortals, while the practical workings of polygamy have strong attractions for the more materialistic. Christ, the Mormons say, was but a man as others, having in his brief lifetime set his followers the injunction of <hi rend="italic">multiplication</hi> by having five wives himself, among whom were Mary and Martha.</p>
+
+<p>Polygamy at first was not a part of the Mormon faith. Joseph did not find any revelation of its necessity on the golden plates, and in the <hi rend="italic">Book of Mormon</hi> such a practice is fiercely denounced. In the second
+
+
+<pb n="592" xml:id="mmm.wa.mcclellan.1872.596"/>
+
+chapter of the work is found a warning to the Nephites:</p>
+
+<p><quote>"But the word of God burdens me because of your grosser crimes. For this people begin to wax in iniquity; they understand not the Scriptures, for they seek to excuse themselves in committing whoredoms because of the things that were written concerning David and Solomon, his son. They, truly, had many wives and concubines, which thing was abominable before me, saith the Lord. Wherefore, hearken unto the word of the Lord, for there shall not any man among you have save it be one wife, and concubines he shall have, none; for I, the Lord God, delighteth in the chastity of woman."</quote></p>
+
+<p>With the Mormons, as with other mortals, even <hi rend="italic">prophecies</hi> and <hi rend="italic">revelations</hi> are controlled or altered by circumstances; so, while at Nauvoo, the increase of beautiful young women so inspired Joseph, Brigham, and other saints, that a <hi rend="italic">new</hi> revelation was deemed necessary. The prophet sought it and it came, fully denying the injunction in the Book of Mormon, and going back to the harems of "the servants of the Lord" for a justification of concubinage and incest. Joseph received the new revelation at Nauvoo, on the 12th of July, 1843; and in the <hi rend="italic">Deseret News extra</hi>, of the 14th of September, 1852, at Salt Lake City, it was first publicly proclaimed to the "people;" the bishops and elders having first selected the fairest of their flocks for their own use.</p>
+
+<p>The "revelation" in part reads:</p>
+
+<p><quote>"Verily, thus saith the Lord unto you, my servant Joseph, that inasmuch as you have inquired at my hands to know wherein I, the Lord, justified my servants, Abraham, Isaac, and Jacob, as also Moses, David, and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines; behold and lo, I am the Lord, and will answer thee as touching this matter."</quote></p>
+
+<pb n="593" xml:id="mmm.wa.mcclellan.1872.597"/>
+
+<p><quote>"And again, as pertaining to the law of the priesthood, if any man espouse a virgin and desires to espouse another, and the first give her consent, and if he espouse the second and they are virgins and have vowed to no other man, then is he justified; he cannot commit adultery, for they are given unto him; for he cannot commit adultery with that that belongeth unto him and to none else: and if he have ten virgins given unto him by this law, he cannot commit adultery, for they belong to him and are given unto him; therefore is he justified. They are given unto him to multiply and replenish the earth according to my commandment, and to fulfil the promise which was given by my Father before the foundation of the world, and for their exaltation in the eternal worlds, that they may bear the souls of men, for herein is the work of my Father continued that he may be glorified."</quote></p>
+
+<p>Emma Smith, the wife of Joseph, is commanded, under dire penalties from the Lord, to receive kindly to her bosom all the wives that Joseph may have given unto him, and the Mormon women generally are advised of God's impending wrath if they reject the wife-offerings he gives to his saints; and to fully provide against emergencies and be ready for any change that may be desirable, the spirit tells the prophet of further revelations, concluding:</p>
+
+<p><quote>"And now, as pertaining unto this law, verily, verily, I say unto you, I will reveal more unto you hereafter; therefore, let ibis suffice for the present.  Behold, I am Alpha and Omega. Amen!"</quote></p>
+
+<p>In the "new revelation," provision is made for "spiritual wives" for the saints, so that the "apostles," elders, and others of the church may <hi rend="italic">seal</hi> unto themselves the wives of others as <hi rend="italic">spiritual</hi> wives for eternity; so that in the land where the "streets are paved with gold" and Mormons are <hi rend="italic">gods</hi>, the wife is not necessarily obliged to associate with her <hi rend="italic">poor</hi> husband of earth,
+
+but can select her company while here, provided she
+
+<pb n="594" xml:id="mmm.wa.mcclellan.1872.598"/>
+
+avoid the "lascivious men of California" and choose a faithful saint. Virgins also can, before marriage, select their heavenly mate by <hi rend="italic">sealing</hi> on earth.</p>
+
+<p>On the first mention of the new doctrine of polygamy, in 1843, it caused great commotion, and many rebelled against it. A few elders attempted to promulgate the revelation, but so fierce was the opposition that, while Joseph and a few of his leaders held a monopoly of the new law," he made public proclamation <hi rend="italic">against</hi> it in the church paper, the <hi rend="italic">Times and Seasons</hi>, published at Nauvoo, as follows:</p>
+
+<p><hi rend="center">NOTICE.</hi></p>
+
+<quote><p>As we have lately been credibly informed that an elder of the Church of Jesus Christ of Latter-day Saints, by the name of Hiram Brown, has been preaching polygamy and other false and corrupt doctrines in the county of Lapeer and State of Michigan,</p>
+
+<p>This is to notify him and the church in general that he has been cut off from the church for his iniquity, and he is further notified to appear at the special conference on the 6th of April next, to make answer to these charges.</p></quote>
+
+<p><hi rend="smallcaps">Joseph Smith</hi>,</p>
+
+<p>This <hi rend="italic">proclamation</hi> satisfied the "common people," and suited particularly the European missionaries, who rook good care to give it publicity. Meantime, Young and his ciders had stocked their harems with the choice doves of their flocks.</p>
+
+<p>Mary Ann Angell Young, the second wife of Brig-ham, (he was a widower with two children when he joined the church,) who now lives in separate quarters at Salt Lake City, soon found herself surrounded by the increasing <hi rend="italic">wives</hi> of ber husband, and this too, while
+
+<pb n="595" xml:id="mmm.wa.mcclellan.1872.599"/>
+
+polygamy was publicly proclaimed "the work of the devil." Lucy Decker Seely, the divorced wife of Dr. Seely, was the <hi rend="italic">second</hi> (or first polygamous) wife, soon followed by Harriet Cook, who gave birth to the first offspring of polygamy—Oscar Young. Clara Decker, Clara Chase, Lucy Bigelow, Harriet Bowker, Harriet Barry, and the charming Emeline Free, so long the favorite of the "president," were all soon added to 'the harem; Emeline in turn being succeeded among others by Amelia Folsom, Brigham's present centre of affection.</p>
+
+<p>Brigham Young, who for the past twenty-eight years has ruled as a king at the head of Church and State in Utah, has practically fulfilled the injunction to " increase and multiply." His children are counted by scores, and they and his wives, <hi rend="italic">spiritual and temporal</hi>, may never be fully discovered until the division of the property of the dead president enters the courts.</p>
+
+<p>Marriages in Mormondom are not publically proclaimed: no license is necessary, and all unions are "solemnized" at the "Endowment House," in the presence of a few friends only.</p>
+
+<p>Brigham, who was born on the 1st of June, 1801, and was consequently <hi rend="italic">seventy-one</hi> years of age on the ist of June, 1872, had, up to that period, <hi rend="italic">twenty-four wives</hi>, (sixteen of whom were living,) and fifty-four spiritual wives <hi rend="italic">sealed</hi> to him "for eternity."</p>
+
+<p>Among the wives of Brigham, as among those of many of the saints, arc instances of three or four sisters all married to the same man, and mothers and daughters, in pairs and triplets, joining to one husband in the same house, and a grandmother, mother, and child all wives of one man.</p>
+
+<pb n="596" xml:id="mmm.wa.mcclellan.1872.600"/>
+
+<p>The late Heber C. Kimball, who so long stood next in authority to Young, fulfilled well his earthly mission, leaving <hi rend="italic">seventeen</hi> widows to "mourn his loss," and innumerable children to his "inheritance," 'besides "spiritual wives for eternity."</p>
+
+<p>All the "apostles," as well as nearly all the Mormon "brethren," embrace polygamy; and they and their children in their footsteps have jumbled the laws-of consanguinity beyond the hope of solution.</p>
+
+<p>The marrying of brothers and sisters, at least of the half-blood, has been permitted; and innumerable instances of marriages with nieces and other close blood-relations are constantly occurring. Two of the daughters of Brigham Young are married to H. B. Clawson, a prominent saint, and but recently the aggregate wives of five Mormons numbered <hi rend="italic">seventy</hi>, and their offspring <hi rend="italic">one hundred and fifty</hi>.</p>
+
+<p>The doctrines of Mormonism, as given by "Joseph the prophet," arc as follows:</p>
+
+<quote><p>"We believe in God the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.</p>
+
+<p>"We believe that men will be punished for their own sins, and not for Adam's transgression.</p>
+
+<p>"We believe that through "atonement of Christ all mankind may be saved by obedience to the laws and ordinances of the gospel.</p>
+
+<p>"We believe that these ordinances are: First, Faith in the Lord Jesus Christ; Second, Repentance; Third, Baptism by immersion for the remission of sins; Fourth, Laying on of hands for the gift of the Holy Ghost.</p>
+
+<p>"We believe that a man must be called of God by 'prophecy and by laying on of hands,1 by those who are in authority to preach the gospel and administer the ordinances thereof.</p>
+
+<p>"We believe in the same organization that existed in the primitive church, viz.: apostles, prophets, pastors, teachers, evangelists, &amp;c.</p>
+
+<pb n="597" xml:id="mmm.wa.mcclellan.1872.601"/>
+
+<p>"We believe in the gift of tongues, prophecy, revelation, visions, healing, interpretation of tongues, &amp;c.</p>
+
+<p>"We believe the Bible to be the word of God as far as it is translated correctly. We also believe the Book of Mormon to be the word of God.</p>
+
+<p>"We believe all God has revealed, all that He does now reveal, and we believe that He will yet reveal many great and important things pertaining to the kingdom of God.</p>
+
+<p>"We believe in the literal gathering of Israel, and in the restoration of the ten tribes; that Zion will be built upon this continent; that Christ will reign personally on the earth, and that the earth will be renewed in its paradisiac glory.</p>
+
+<p>"We claim the privilege of worshipping Almighty God according to the dictates of our own conscience, and allow all men the same privilege, let them worship how, where, or what they may.</p>
+
+<p>"We believe in being subject to kings, presidents, rulers, magistrates; in obeying, honoring, and sustaining law.</p>
+
+<p>"We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men. Indeed, we may say that we follow the admonition of Paul: 'we believe all things; we hope all things;' we have endured many things and hope to be able to endure all things. If there is any thing virtuous, lovely, or of good report, or praiseworthy, we seek after these things."</p>
+
+<p>How closely the <hi rend="italic">practices</hi> of the "latter-day Saints" comport with the "inspired doctrines" may well be known by the dark catalogue of crime on the court records of Utah against the "head of the church," his apostles and followers, and the misery and social disorder of the harems.</p></quote>
+
+<p>In American polygamy, as in the East, women are generally regarded little better than slaves; herded as they are, in Young's and Kimball's and other establishments, by scores, giving birth to children whose fathers are claimed as <hi rend="italic">husband</hi> in such infinitesimal parts that love and the kindred accompaniments of the household are mythical illusions, leaving the hearth of home a
+
+<pb n="598" xml:id="mmm.wa.mcclellan.1872.602"/>
+
+barren waste, and the heart of woman an empty sepulchre, where the light of love never casts a ray to dispel the eternal eclipse, in whose unholy shadow the canker-worm of jealousy and the pangs of despair gnaw their victims to the grave.</p>
+
+<p>If the sullen, dreamy apathy of the Mormon women, looking with wild distrust upon husbands claimed by others, and wincing under unprovoked neglect, or the display of hypocritical affection to associates by their lord; the unwelcome proclamation o( the birth of the child of their associate in fractional wedlock; and the pangs and gloom to which their imprisoned and impoverished love is bound as it struggles through the night of absolute despair&#8212;if these things be "joy and gladness," and "woman's highest mission," by what name shall we calf the ordered laws that centres one woman's love to the heart of one affectionate and confiding husband, where the mutual love and parental joys are lighted anew in the innocent faces proclaiming the unity of souls in the "twain flesh made one?"</p>
+
+<p>Society, as it is known in other parts of America, is entirely unknown in Utah. There is but little intercourse between Mormon families. Even in the city of Salt Lake, where an elegant theatre is maintained, it is patronized chiefly by Gentiles and apostate Mormons. Visiting among women and evening entertainments are rare, and Gentile men are excluded from all intercourse with die wives and daughters of the saints.</p>
+
+<p>On the Sabbath the harems let loose their flocks, who file in solemn procession to the tabernacle, to listen to the prophecies of Joseph, and die laws of "increase," as expounded by the "elders of the Lord."</p>
+
+<p>In Salt Lake City, a few leading Mormons who have
+
+<pb n="599" xml:id="mmm.wa.mcclellan.1872.603"/>
+
+means maintain spacious establishments, where their wives and families live in comparative comfort. But as the great body of the people are poor, a man often finds it burdensome to support five, eight, or ten wives, so the women soon find that they have to rely upon their own industry for their bread. Dress, fashion, and the filigrees of modern city women are unknown among Mormon wives. Plain dressing, plain food, hard work, obedience, baptism, and child-bearing are the pleasures and duties of Mormon women.</p>
+
+<p>Of late years, the influx of Gentiles, railroad intercourse and enterprise in the Territory have somewhat changed the position of the young Mormon females, manv of whom decline to enter the harems, and leave the country, seeking homes and protection in California, Oregon, and Nevada, and other sections, much to the displeasure of the bishops and elders.</p>
+
+<p>The solution of the "Mormon question" still distracts the country. Utah as a State, with an anti-Mormon majority, could soon exterminate polygamy. As a Territory, with Mormon juries, no punishment can be imposed on Mormon offenders. A few years, however, at most, will give Utah an anti-Mormon majority, when Mormonism, now embraced by about eighty thousand in Europe and America, will be weeded out of Utah, and eventually be known only as a thing of the past.</p>
+
+-->
+
+</div1>
+</body>
+</text>
+</TEI>

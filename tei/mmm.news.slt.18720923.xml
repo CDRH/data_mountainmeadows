@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.slt.18720923">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">"As Ye Sow, Ye Shall Reap"</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+		</titleStmt>
+		<editionStmt>
+		    <edition>
+			<date>2010</date>
+		    </edition>
+		</editionStmt>
+		<publicationStmt>
+			<idno>mmm.news.slt.18720923</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+   	    <notesStmt>
+	        <note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Salt Lake Tribune</title>
+		    <title level="a" type="main">"As Ye Sow, Ye Shall Reap"</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Salt Lake City, UT</pubPlace>
+		    <date when="1872-09-23">September 23, 1872</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+            </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-04-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2009-10-06"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.slt.18720923.001"/>
+
+<head>“AS YE SOW, YE SHALL REAP.”</head>
+<p><seg type="Source" subtype="Attributed_Klingensmith">This morning we published the affidavit of <persName key="Klingensmith, Philip">Philip Klingon Smith</persName> in relation to the Mountain Meadows massacre as also the editorial of the <orgName type="newspaper" key="New York Herald">N.Y. “Herald”</orgName> on the subject.</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDSZealots">This terrible and <unclear>unatoned</unclear> for crime is yet destined to exert a powerful influence in the revolution of Mormonism, as it was the result of a condition of society brought about through the teachings of a fanatical priesthood acting on the minds of ignorant men, literally creating a reign of terror among the disaffected Mormons as well as Gentiles who in any way opposed the will of the leaders.</seg></p>	
+
+<p><seg type="Blame" subtype="IndiansIndependently">It is well known that for many years the Indians were accused of the massacre, and the complicity of Mormons was stoutly denied</seg>&#8211; <seg type="Context" subtype="Polygamy">the charge of polygamy too at tone time it will be remembered was also as energetically disavowed</seg>&#8211;<seg type="Blame" subtype="LDS_LDS">yet subsequent events have only proved how much duplicity they are capable of in the interests of the kingdom.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="IndiansIndependently">For years probably a large portion of the Mormon people believed it was the work of Indians</seg>, <seg type="Blame" subtype="LDS_LDS">but today there are but few who believe that the atrocious outrage was not the work of men calling themselves Latter-day Saints, acting either on their own responsibility of upon orders <q>“from headquarters.”</q></seg> Of course the Mormon diplomats East have denied in the most emphatic terms, time after time, any knowledge of the affair further than that it was the work of Indians, yet <persName key="Young, Brigham">Brigham Young</persName>, as Governor, never took any steps to punish the Indians for so wholesale a slaughter of men and women.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">The question whether orders did or did not emanate from “headquarters’ for the fiendish butchery, is not the point. We aver that it and other crimes have been the legitimate results of the blood atonement teachings of the leaders of the Church, <seg type="Blame" subtype="LDS_LDSZealots">uttered in the security of isolation and when it was fanatically but, nevertheless, confidently</seg> expected that in a few years the Church would gain the ascendency over the United States Government, and even it should be swept away in <q>“avenging the blood of the prophets.”</q></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">It will be acknowledged that <seg type="Blame" subtype="LDS_LDSLeadership">for years in <placeName type="state" key="Utah Territory">this Territory</placeName>, <persName key="Young, Brigham">Brigham Young</persName> was the supreme ruler</seg>, and he has asserted <q>“that no matter who the Governments sent he would be Governor of <placeName type="state" key="Utah Territory">Utah</placeName>.”</q> It is equally well known that his will was law in everything pertaining to the people throughout <placeName type="state" key="Utah Territory">the Territory</placeName>.</seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">Granting this premise we say that, with such unlimited power as the Spiritual and Secular headship of this community gave him, his teachings could have been such as to render crime almost unknown in <placeName type="state" key="Utah Territory">Utah</placeName>, but such expressions as <q>“sending men to hell across lots,"</q> the <q>“unsheathing of the bowie-knife,”</q> <q>“avenging the blood of the prophets”</q> and a score of other anti-Christian sentiments have taken strong hold upon an ignorant people who believed him to be the mouthpiece of God to them. <seg type="Context" subtype="Polygamy">The Mountain Meadows massacre was then the effect of a religious belief, the same as polygamy is alleged to be</seg>, and we here ask the question, whether in justice lenders, such as Brigham Young, <persName key="Smith, George Albert">Geo. A. Smith</persName>, <persName key="Cannon, George Q.">Geo. Q. Cannon</persName> and others, are <unclear>cotuled</unclear>to the rights’ of American Citizenship? Long has been the forbearance and great has been the generosity of this nation towards them.</seg></p>	
+
+<p><seg type="Blame" subtype="LDS_LDS">Notwithstanding the <q>“religion”</q> which keeps a republican side in view to the government, and still maintains strictly theocratic views in their public and private teachings to the people, such consummate hypocrisy is treason, a treason infinitely greater than that of the South during the war, in as much as it is not open and <unclear>scewed</unclear>but is secretly hopeful and defiant.</seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution">When <persName key="Cannon, George Q.">Geo. Q. Cannon</persName> goes to Congress let him go with the mountain Meadow record before him and let the nation understand that he is a believer in the ancient dogma of destroying his enemies and in saving apostates by killing them?</seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">The belief in such doctrines should be met by immediate disfranchisement of every man holding them, and no sentimentality about the rights of religion should prevail a moment against banishing such relics of barbarism. These practical exponents of the Mosaic theory must learn that in this republic as they sow they must reap.</seg></p> 
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.cpt.18590826">
+    <teiHeader>
+	<fileDesc>
+	     <titleStmt>
+		<title level="m" type="main">Horace Greeley in Utah</title>
+		<title level="m" type="sub">The Mountain Meadow Massacre&#8212;Popular Sovereignty</title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	    <idno>mmm.news.cpt.18590826</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+	
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Chicago Press and Tribune</title>
+		    <title level="a" type="main">Horace Greeley in Utah</title>
+		    <title level="a" type="sub">The Mountain Meadow Massacre&#8212;Popular Sovereignty</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Chicago, IL</pubPlace>
+		    <date when="1859-08-26">August 26, 1859</date>
+                </bibl>
+
+	    </sourceDesc>
+
+	    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	     <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term> </term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+		    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-08-08"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-25"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.cpt.18590826.001"/>
+    
+<head type="main">HORACE GREELEY IN UTAH.</head>
+
+<head type="sub">The Mountain Meadow Massacre&#8212;Popular Sovereignty.</head>
+
+<dateline>[Editorial Correspondence of the N.Y. Tribune]
+SALT LAKE, July 18, 1859.</dateline>
+
+    <p><seg type="Source" subtype="Attributed_Greely">Do I discredit the tales of Mormon outrages and crime&#8212;of <seg type="Context" subtype="ParrishMurder">the murder of the Parishes</seg>, the Mountain meadow massacre, &amp;c., &amp;c.&#8212;wherewith the general ear has recently been shocked? No I do not. <seg type="Context" subtype="LDSPersecution">Some of these may have been fabricated by Gentile malice</seg>&#8212;others are doubtless exaggerated&#8212;but there is some basis of truth</seg> for the current Gentile conviction that <hi rend="italic">Mormons have robbed, maimed, and even killed persons in this Territory, under circumstances which should subject the <choice><sic>pertrators</sic><corr>perpetrators</corr></choice> to condign punishment, but that Mormon witnesses, grand jurors, petit jurors and magistrates determinedly screen the guilty.</hi> I deeply regret the necessity of believing this: but the facts are incontestable. <seg type="Emigrants" subtype="WagonTrain">That <seg type="Massacre" subtype="Casualties">a large party of emigrants&#8212;not less than eighty</seg></seg>&#8212;<seg type="Emigrants" subtype="Route"><seg type="Emigrants" subtype="StateAffiliationArkansas">from Arkansas</seg> to <placeName type="state" key="California Territory">California</placeName></seg>, <seg type="Blame" subtype="IndiansLDSInfluence">were foully massacred <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> <seg type="Massacre" subtype="Dates">in September, 1857,</seg> more immediately by Indians, but under the direct inspiration and direction of the Mormon settlers in that vicinity</seg>&#8212;<seg type="Massacre" subtype="Surrender">to whom, and not to the savages, the emigrants had surrendered, after a siege on the strength of assurances that their lives at least should be spared</seg>&#8212;is established by evidence that cannot (I think) be invalidated&#8212;the evidence of conscience&#8212;smitten partakers in the crime, both Indian and ex-Mormon, and of <seg type="Massacre" subtype="Survivors">children of the slaughtered emigrants, who were spared as too young to be dangerous even as witnesses, of whom the majority have been sent down to the States as unable to give testimony&#8212;but two boys retained here as witnesses, who distinctly remember that their parents surrendered to white men, and that these white men at best did not attempt to prevent their perfidious massacre. Those children, moreover, were all found in the possession of Mormons&#8212;not one of them in the hands of the Indians&#8212;and, though the Mormons say they ransomed them from the hands of Indians, the children deny it, saying that they never lived with nor were in the keeping of savages; and the Indians bear current testimony.</seg> <seg type="Context" subtype="ParrishMurder">So in the Parish case: The family had been Mormons, but had apostatized&#8212;and undertook to return to the States; they were warned that they would be killed if they persisted in that resolution&#8212;they <hi rend="italic">did</hi> persist, and were killed. Of course, nobody will ever be convicted of their murder; but those who warned them of the fate on which they were rushing know why they were killed, and could discover, if they would, who killed them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The vital fact in the case is just this: The great mass of these people, as a body, mean to be hones, just and humane; but they are, before and above all things else, Latter-day Saints, or Mormons. They devoutly believe that they are God's peculiar and especial people, doing His work, up-building His kingdom, and basking in the sunshine of His peculiar favor. Whoever obstructs or impedes them in this work, then, is God's enemy, who must be made to get out of the way of the establishment of Christ's kingdom on earth&#8212;made to do so by lawful and peaceful means if possible, but by any means that my ultimately be found necessary.</seg> <seg type="Context" subtype="ParrishMurder">The Parishes were apostles; had they been allowed to pursue their journey to the States, they would have met many Saints coming up the road, whose minds they would have troubled, if not poisoned; and they would have told stories after reaching their destination which would have deepened the general prejudice against the Saints: so the upbuilding and well-being of Christ's kingdom required that they should die.</seg> <seg type="Blame" subtype="EmigrantBehavior">The <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansas emigrants</seg> had in some way abused the Saints, or interposed obstacles to the progress of God's work and they were consequently give over to destruction.</seg> <seg type="Blame" subtype="LDS_LDSZealots">Far be it from me to hint that one-fifth, one-tenth, one-twentieth, of the Mormons ever bore any part in these bloody deeds, or even know to this day that they were perpetrated. The great body of the Saints undoubtingly believed all the current imputations of Mormon homicide and outrage to be abominable calumnies.</seg> <seg type="Blame" subtype="LDS_LDSLeadership">Many of the highest dignitaries of the church may be included in this number.</seg> But there are men in the Church who know they are <hi rend="italic">not</hi> calumnies&#8212;who know that Gentiles and apostates have been killed for the Church's and for Christ's sake, and who firmly believe that they <hi rend="italic">ought</hi> to have been. I grieve to say it, but I hold these more consistent and logical Mormons than their innocent and unconscious brethren. For if I were a Latter-Day Saint undoubtingly believing all opposers of the Mormon Church to be God's enemies, obnoxious to His wrath and curse, and powerfully obstructing the rescue of souls from eternal perdition and torture, I should be strongly impelled to help but those opposers of God's purposes out of the way of sending more immortal souls to everlasting fire. I should feel it my duty so to act, as a lover of God and man. <seg type="Context" subtype="TerritorialAdministration">And I confidently predict that not one Mormon who has killed a Gentile or apostate under a like view of his duty will ever be fairly convicted in this Territory. No jury can be drawn here, unless in flagrant defiance of the Territorial laws, which is not mainly composed of Mormons; and no such jury will convict a Mormon of crime for any act done in behalf of God's kingdom&#8212;that is, of the Mormon Church.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">I ask, then, that the advocates of <q>"Popular Sovereignty"</q> in the Territories to say what they propose to do in the premises. How do they intend to adapt their principle to the existing state of facts? They have sent hither a batch of Judges, who would like to earn their salaries; but the Mormon Legislature devotes its sessions principally to the work of crippling and fettering these Judges so that they shall remain here as mere dummies or be driven into resignation. <seg type="Blame" subtype="LDS_LDSLeadership">Their juries are drawn for them by Mormon officials, under regulations which virtually exclude all but Mormons from each panel; it is a violation of the laws of <placeName type="state" key="Utah Territory">Utah</placeName> to cite in argument before any Judge or jury here the decision of any court&#8212;even the Supreme Court of the United States&#8212;but the courts of <placeName type="state" key="Utah Territory">Utah</placeName>; so that even the <persName key="Scott, Dred">Dred Scott</persName> decision could not be lawfully cited here in a Fugitive Slave case: in short, the Federal Judiciary, the Federal Executive, and the Federal Army, as now existing in <placeName type="state" key="Utah Territory">Utah</placeName>, are three transparent shams&#8212;three egregious farces; they are costing the Treasury very large sums to no purpose; and the sooner the Governor, marshal, Judges, &amp;c., resign, and the Army is withdrawn, the better for all but a handful of contractors. <q>"Popular Sovereignty"</q> has such full swing here that <persName key="Young, Brigham">Brigham Young</persName> carries the Territory in his breeches pocket without a shadow of opposition; he governs without responsibility to either law or public opinion; for there is no real power here but that of <q>"the Church"</q> and he is practically the Church. </seg></seg><seg type="Blame" subtype="LDS_LDSGreed">The Church is rich, and is hourly increasing in wealth; the Church settles all civil controversies which elsewhere cause lawsuits; the Church spends little or nothing, yet rules everything</seg>; <seg type="Context" subtype="TerritorialAdministration">while the Federal Government, though spending two or three millions per annum here, and keeping up a fussy parade of authority, is powerless and despised. If, then, we are to have <q>"popular Sovereignty"</q> in the Territories, let us have it pure and without shams. Let <persName key="Young, Brigham">Brigham</persName> be re-appointed Governor; withdraw the present Federal office-holders and Army, open shorter and better roads to <placeName type="state" key="California Territory">California</placeName> through the country north of <orgName type="military" key="Fort Bridger">Bridger</orgName> and notify the emigrants that if those choose to pass through <placeName type="state" key="Utah Territory">Utah</placeName>, they will do so at their own risk. Let the Mormons have the Territory to themselves&#8212;it is worth very little to others, but the reduce its area by cutting off the <placeName type="settlement" key="Carson Valley, NV">Carson Valley</placeName> on the one side and making a Rocky Mountain Territory on the other, and then let them go on their way rejoicing. I believe this is not only by far the cheapest but the safest and best mode of dealing with the difficulties already developed and daily developing here, unless the notion of <q>"Popular Sovereignty"</q> in the Territories is to be utterly exploded and given up. <seg type="Reaction" subtype="MilitaryRetaliation"><q>"Popular Sovereignty"</q> in a Territory is a contradiction in terms; but "Popular Sovereignty" in a Territory backed by a thousand sharp Federal bayonets and a battery of flying artillery is too monstrous a futility, too transparent a swindle to be much longer upheld or tolerated.</seg></seg> <seg type="Source" subtype="Attributed_Greely">H.G.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

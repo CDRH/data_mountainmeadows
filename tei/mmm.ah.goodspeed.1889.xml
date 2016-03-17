@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.ah.goodspeed.1889">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Goodspeed's History of Northwest Arkansas</title>
+                <title level="m" type="sub">History of Benton, Washington, Carroll, Madison, Crawford, Franklin and Sebastian Counties, Arkansas</title>
+                <author><forename>Goodspeed Brothers</forename></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.ah.goodspeed.1889</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Goodspeed's History of Northwest Arkansas</title>
+                    <title level="m" type="sub">History of Benton, Washington, Carroll, Madison, Crawford, Franklin and Sebastian Counties, Arkansas</title>
+                    <author><forename>Goodspeed Brothers</forename></author>
+                    <publisher>The Goodspeed Publishing Company</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>346-350</extent>
+                    <date when="1889">1889</date>
+                    <note type="source"><hi rend="italic">Goodspeed's History of Northwest Arkansas: History of Benton, Washington, Carroll, Madison, Crawford, Franklin and Sebastian Counties, Arkansas</hi> Chicago, IL: The Goodspeed Publishing Company, 1889. 346-350.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+		<keywords scheme="original" n="category">
+		    <term>arkansas_history</term>
+		</keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+            <pb n="346" xml:id="mmm.ah.goodspeed.1889.346"/>
+            
+            <head>THE MOUNTAIN MEADOWS MASSACRE.</head>
+            
+            <p><seg type="Emigrants" subtype="WagonTrain">In the spring of 1857 <seg type="Emigrants" subtype="StateAffiliationArkansas">an emigrant train was organized in Northwestern <placeName type="state" key="Arkansas">Arkansas</placeName>, and principally in <placeName type="county" key="Carroll County, UT">Carroll County</placeName></seg>, by Capt. <persName key="Fancher, Alexander">Alexander Fancher</persName>, and in due time <seg type="Emigrants" subtype="Route">set out for the journey across the plains and the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName> to <placeName type="state" key="California">California</placeName>.</seg> Capt. <persName key="Fancher, Alexander">Fancher</persName> was a native of <placeName type="state" key="Tennessee">Tennessee</placeName>; he married in <placeName type="county" key="Cumberland County, IL">Cumberland County</placeName>, <placeName type="state" key="Illinois">Ill.</placeName>, and settled on Osage. He had made two overland journeys to <placeName type="state" key="California">California</placeName>, and was well qualified to conduct them thither. <seg type="Massacre" subtype="Spoils">His train consisted of about forty wagons, several carriages in which some of the ladies rode, nearly a 1,000 head of cattle, several hundred horses, including a stallion valued at $2,000, and was said to have been the finest that crossed the plains in 1857.</seg> There were forty or fifty men. The entire company were in comfortable circumstances; <seg type="Massacre" subtype="Spoils">they had with them valuables and money which, with the property referred to, has been estimated at $70,000</seg>.</seg></p>
+            
+            <p><hi rend="italic">Progress of the Train</hi>.&#8212;<seg type="Emigrants" subtype="Route">The train left <placeName type="state" key="Arkansas">Arkansas</placeName> in the spring of 1857, passed through <placeName type="state" key="Kansas">Kansas</placeName> and <placeName type="state" key="Colorado">Colorado</placeName> by the accustomed route, and reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> in August. From here "the southern route," through <placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> and <placeName type="settlement" key="Cedar city, UT">Cedar City</placeName>, was taken, and at the last named point the party reached the Spanish trail, their road to Southern <placeName type="state" key="California">California</placeName>. They had not traversed the favored land of the Saints many days before it became apparent that they were regarded with suspicion and aversion. It was in vain that supplies of food and forage were negotiated for; they were "friendless as in a voiceless desert." The Federal power was openly defied in <placeName type="settlement" key="Utah Territory">Utah</placeName>, and armed troops were on the march toward its borders. <persName key="Young, Brigham">Brigham Young</persName> openly declared that his "protection" would be withdrawn from emigrants passing through the Territory, and, under a combination of the most unfavorable circumstances, Capt. <persName key="Fancer, Alexander">Fancher</persName> and his party slowly approached the melancholy termination of their journey. They crossed the Great Basin; they climbed up the southern rim, and on this border of Mormonism they stopped for a few days, to let their cattle revel in the rank, coarse mountain grass, before they went on the "Ninety Mile Desert."</seg></p>
+            
+            <p><seg type="Massacre" subtype="Location">The location of the Mountain Meadows, their stopping place,</seg>
+                
+                <pb n="347" xml:id="mmm.ah.goodspeed.1889.347"/>
+                
+                <seg type="Massacre" subtype="Location">is in the southwestern corner of <placeName type="state" key="Utah Territory">Utah</placeName>, in the present <placeName type="county" key="Washington County, UT">county of Washington</placeName>, about eight miles south of the <placeName type="settlement" key="Pinto, UT">village of Pinto</placeName>. The place is a pass, sometimes called a valley, about five miles in length and one in width, but running to a rather narrow point at the southwest end. At about its center, lengthwise, is the "divide" between the basin and the Pacific slope, the ascents being very gradual, and at each end is a large spring. At the eastern spring was the house and corral of <persName key="Hamblin, Jacob">Jacob <choice><sic>Hamlin</sic><corr>Hamblin</corr></choice></persName>, Mormon sub-agent for the Pah Utes, who, with some assistance, all Mormons, was pasturing cattle on the meadows. The train passed his place on the 3d of September, and encamped at the western spring on the 4th. This spring, which is a large one, is in the southern end of the narrow part. The bank rises from it to a height of about eight feet,and from its top there reaches a level stretch of some 200 yards, upon which the emigrants encamped.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates"><hi rend="italic">The First Attack</hi> occurred on Monday morning, September 7, 1857, while the party were at breakfast.</seg> <seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">A volley was fired from the gully through which the waters of the spring meander, killing seven and wounding sixteen.</seg></seg> A momentary confusion ensued but the coolness of Capt. <persName key="Fancher, Alexander">Fancher</persName> avoided a panic, and the women and children were soon placed within the shelter of the corralled wagons, while the men returned a vigorous fire. The attacking party drew off, and the emigrants improved the opportunity by chaining their wagons, wheel to wheel, and throwing up a breastwork. <seg type="Massacre" subtype="Spoils">Their cattle had been driven away</seg>, and <seg type="Blame" subtype="IndiansIndependently">the frequent appearance of savages caused continual apprehension</seg>. <seg type="Blame" subtype="LDS_LDS">One <persName key="Aden">Aden</persName> and another man were accordingly dispatched to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for assistance, on Wednesday night. They were attacked by whites from that place at Richard's Spring; <persName key="Aden">Aden</persName> was killed, but his companion returned to camp, and <seg type="Blame" subtype="IndiansLDSInfluence">for the first time the truth dawned upon their minds&#8212;the Indians were abetted and instigated by the Mormons.</seg> <seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">A written statement was prepared, imploring assistance from good people generally, and intrusted to three of their best scouts, who set out for <placeName type="state" key="California">California</placeName>. <seg type="Context" subtype="IndianRelationsLDS">They were overtaken at the <geogName type="mountain" key="Santa Clara Mountains">Santa Clara Mountains</geogName> by an Indian party under <persName key="hatch, Ira">Ira Hatch</persName>, and all three suffered death.</seg></seg></seg></seg></seg></p>
+            
+            <p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning"><hi rend="italic">The Massacre</hi>.&#8212;The fifty-four white men and about 200 Indians under <persName key="Lee, John D.">John D. Lee</persName>, were convinced that a direct assault</seg></seg>
+                
+                <pb n="348" xml:id="mmm.ah.goodspeed.1889.348"/>
+                
+                <seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">would not be successful. A meeting of the Mormons in the meadows, under Maj. <persName key="Higbee, John H.">John Higbee</persName>, was held; the orders of President <persName key="Haight, Isaac C.">Haight</persName>, of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, directing that the entire party should be exterminated, was read; and after prayer (?) <persName key="Higbee, John H.">Higbee</persName> announced in confident tones, that he had the evidence of divine approval. The higher law," in all its naked enormity, was to be executed by treachery.</seg></seg></p>
+            
+            <p><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Dates">On the morning of Friday, September 11, 1857,</seg> <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Bateman, William">William Bateman</persName> advanced toward the emigrants with a white flag, and were met by one of the party. <seg type="Blame" subtype="EmigrantBehavior"><persName key="Lee, John D.">Lee</persName> explained that the Indians were much excited because of certain acts of violence committed by the party, and that the only way of pacifying them was a surrender to the Mormon militia.</seg> They agreed to do so. Their arms were placed in wagons brought by <persName key="Lee, John D.">Lee</persName>, with the small children; the women and older children followed on foot; the men, each at the side of a Mormon, brought up the rear. The wagons had just passed over the divide toward the eastern spring, the women were a quarter of a mile behind, and the men an equal distance behind them, in the ravine. Suddenly from among the ambushed Indians the form of Higbee appeared on the divide; he motioned with his arms, and at once the work of death began. Each militiaman wheeled and shot his man. The rifle of <persName key="Lee, John D.">John D. Lee</persName> cracked, and a wounded woman in the forward wagon fell from the seat. The Indians rushed upon the women. Two young girls escaped some distance, but were pursued by <persName key="Lee, John D.">Lee</persName> and an Indian chief. <seg type="Massacre" subtype="SexualViolence">There is reason to think they begged for more than life.</seg></seg></p>
+            
+            <p><hi rend="italic">Burial</hi>.&#8212;<seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration">October 2, 1857, the scene of the massacre was visited by eleven Mormons, secretly escaping from Utah. They mention two piles of bodies, one composed of women and children, the other of men. The bodies were entirely nude; all were more or less torn by wolves except one, that of a woman, which lay apart from the rest, and showed no signs of decay. In the spring of 1859 Capt. <persName key="Campbell, Reuben P.">R. P. Campbell</persName>, with two companies of infantry and one of dragoons, passed through the meadows and buried the remains of twenty-six of the victims. May 20, 1859, Maj. <persName key="Carleton, James Henry">James Henry <choice><sic>Carlton</sic><corr>Carleton</corr></choice></persName>, United States Army, buried the disjointed bones of thirty-four skeletons in a grave on the</seg></seg> <choice><orig>north-
+                
+                <pb n="349" xml:id="mmm.ah.goodspeed.1889.349"/>
+                
+                ern</orig><reg>northern</reg></choice><seg type="Massacre" subtype="Aftermath"> <seg type="Reaction" subtype="Commemoration">side of the ditch. A rude monument, conical in form, and fifty feet in circumference at the base and twelve feet high, was erected over this grave. This was surmounted by a red-cedar cross, upon the transverse part of which was carved this inscription:</seg></seg></p>
+            
+            <p><hi rend="center"><hi rend="smallcaps"><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration">VENGEANCE IS MINE: I WILL REPAY, SAITH THE LORD.</seg></seg></hi></hi></p>
+            
+            <p><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration">A rude slab of granite, leaning against the northern base of the monument, bore these words:</seg></seg></p>
+            
+            <p><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration"><hi rend="center"><hi rend="smallcaps">HERE<lb/>
+                ONE HUNDRED AND TWENTY MEN, WOMEN AND CHILDREN<lb/>
+                WERE MASSACRED IN COLD BLOOD,<lb/>
+                IN SEPT., 1857.<lb/>
+                THEY WERE FROM ARKANSAS.</hi></hi></seg></seg></p>
+            
+            <p><seg type="Massacre" subtype="Casualties"><hi rend="italic">The Entire Number Killed</hi> was 121, 10 at the camp, 107 at the massacre, young Aden and the three scouts.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Spoils"><hi rend="italic">The Property</hi>, by direction of <persName key="Young, Brigham">Brigham Young</persName>, was disposed of by <persName key="Lee, John D.">Lee</persName>. A portion was given to the Indians; the money was kept by <persName key="Lee, John D.">Lee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName> ; the bedding and clothing were deposited in the tithing house at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and was commonly referred to as "property taken at the siege of Sevastopol." The wagons, stock, etc., were disposed of at the tithing house, and the proceeds turned over to the Mormon treasury.</seg></p>
+            
+            <p><hi rend="italic">The Survivors</hi>.&#8212;The circumstances of the massacre were known at <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, <placeName type="state" key="California">Cal.</placeName>, the following month, and on the last day of the year 1857 <persName key="Mitchell, William C.">William C. Mitchell</persName>, ex-clerk of <placeName type="county" key="Carroll County, AR">Carroll County</placeName>, and then a member of the State senate, apprised a friend of the death of his son and brother-in-law, with their families, numbering twenty-four persons; the Legislature of <placeName type="state" key="Arkansas">Arkansas</placeName> took immediate action, as did also the National Congress. <seg type="Massacre" subtype="Survivors">Dr. <persName key="Forney, Jacob">Jacob Forney</persName>, superintendent of <placeName type="state" key="Utah Territory">Utah</placeName>, learned the whereabouts of the surviving children June 22, 1858; they had been distributed among Mormon families of the vicinity. June 29, 1859, fifteen of them were placed in charge of Maj. <persName key="Whiting, D. P.">Whiting</persName>, United States Army, who reached <orgName type="military" key="Fort Leavenworth">Fort Leavenworth</orgName> August 25, 1859.</seg>
+                
+                <pb n="350" xml:id="mmm.ah.goodspeed.1889.350"/>
+                
+                <seg type="Massacre" subtype="Survivors">Here they were taken in charge by <persName key="Mitchell, William C.">William C. Mitchell</persName>, special agent of the Government, and reached <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName> September 16, 1859. Two other children, <persName key="Miller, John C.">John C. Miller</persName> and <persName key="Taggit, Ambrose Mirem">M. Tackett</persName>, were detained in <placeName type="state" key="Utah Territory">Utah</placeName> as witnesses. In January, 1860, they were taken to <placeName type="state" key="Washington, D. C.">Washington</placeName> by Dr. <persName key="Forney, Jacob">Forney</persName>, and from there to Carrollton by Maj. <persName key="Henry, John">John Henry</persName>, of Van Buren. The following is a list of the names, ages and residences of the children referred to:</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Females; daughters of <persName key="Dunlap, Jesse">Jesse Dunlap</persName>,deceased, of <placeName type="county" key="Carroll County, AR">Carroll County</placeName>, <placeName type="state" key="Arkansas">Ark.</placeName><lb/>
+                <persName key="Dunlap, Rebecca">Rebecca Dunlap</persName>, 9<lb/>
+                <persName key="Dunlap, Louisa">Louisa Dunlap</persName>, 7,<lb/>	
+                <persName key="Dunlap, Sarah">Sarah Dunlap</persName>, 4.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Females; daughters of <persName key="Dunlap, L. D.">L. D. Dunlap</persName>, deceased, of <placeName type="county" key="Marion County, AR">Marion County</placeName>, <placeName type="state" key="Arkansas">Ark.</placeName><lb/>
+               <persName key="Dunlap, Prudence Angeline"> Prudence Angeline Dunlap</persName>, 7,<lb/> 
+                <persName key="Dunlap, Georgiana">Georgiana Dunlap</persName>, 4.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Heirs of <persName key="Baker, G. W.">G. W. Baker</persName>, deceased, of <placeName type="county" key="Carroll County, AR">Carroll County</placeName>, <placeName type="state" key="Arkansas">Ark.</placeName><lb/>
+                <persName key="Baker, Elizabeth">Elizabeth Baker</persName>, 8,<lb/>	
+                <persName key="Baker, Sarah A.">Sarah A. Baker</persName>, 6,<lb/>
+                <persName key="Baker, William B.">William B. Baker</persName>, 4.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Heirs of <persName key="Fancher, Alexander">Alexander Fancher</persName>, deceased, of <placeName type="county" key="Carroll County, AR">Carroll County</placeName>.<lb/>
+                <persName key="Fancer, Kit Carson">C. C. Fancher</persName>, 9,<lb/>	
+                <persName key="Fancher, Tryphena D.">Tryphena Fancher</persName>, 5.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Heirs of <persName key="Miller, Joseph M.">Joseph M. Miller</persName>, deceased, of <placeName type="county" key="Crawford County, AR">Crawford County</placeName>, <placeName type="state" key="Arkansas">Ark.</placeName><lb/>
+                <persName key="Miller, John C.">John C. Miller</persName>, 9,<lb/>	
+                <persName key="Miller, Mary">Mary Miller</persName>, 7,<lb/>
+                <persName key="Miller, Joseph">Joseph Miller</persName>, 4.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Heirs of <persName key="Tackett, Pleasant">Pleasant Tackett</persName>, deceased, of <placeName type="county" key="Carroll County, AR">Carroll County</placeName>, <placeName type="state" key="Arkansas">Ark.</placeName><lb/>
+                M. Tackett,<lb/>
+                William Tackett.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">Heirs of <persName key="Jones, J. M.">J. M. Jones</persName>, deceased, of <placeName type="county" key="Marion County, AR">Marion County</placeName>, <placeName type="state" key="Arkansas">Ark.</placeName><lb/>
+                F. M. Jones, 4,<lb/>		
+                Sophronia Jones. 7.</seg></p>
+            
+            <p><seg type="Massacre" subtype="Survivors">But one of this number, <persName key="Fancher, Tryphena D.">Tryphena Fancher</persName>, the wife of <persName key="Wilson, J. C.">J. C. Wilson</persName>, of Rule, is at present a resident of <placeName type="county" key="Carroll County, AR">Carroll County</placeName>.</seg></p>
+            
+            <p><seg type="Blame" subtype="LDS_LDS"><hi rend="italic"><persName key="Lee, John D.">John D. Lee</persName></hi> was tried and convicted twenty years after the commission of his crime; he was given his choice of being hung, shot or beheaded. He preferred to be shot, and was accordingly executed at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> on March 23, 1877.</seg></p>
+            
+        </body>
+    </text>
+</TEI>

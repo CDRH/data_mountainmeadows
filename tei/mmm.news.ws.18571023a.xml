@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.ws.18571023a">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Massacre of Emigrants&#8211;Reckless and Malignant Slanders</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.ws.18571023a</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+   	    <sourceDesc>
+		<bibl>
+		    <title level="a">Massacre of Emigrants&#8211;Reckless and Malignant Slanders.</title>
+		    <title level="j">Western Standard</title>
+		    <author>George Q. Cannon</author>
+		    <publisher>Western Standard</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1857-10-23">1857-10-23</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term>Indians</term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+		    <term>LDS</term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2007-05-11"><name>Douglas Seefeldt</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.ws.18571023a.001"/>
+    
+<head>Massacre of Emigrants&#8211;Reckless and Malignant Slanders.</head>
+
+    <p>AN extra of the <orgName type="newspaper" key="Los Angeles Star">Los Angeles Star</orgName> contains an account of a horrible massacre of emigrants, which took place at <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, near the <geogName type="feature" key="Great Basin">rim of the Great Basin</geogName></seg>, <seg type="Massacre" subtype="Dates">between the 10th and 12th of Sept.</seg> The details, so far as known, have been given in <seg type="Source" subtype="Attributed_Christian">a letter written by <persName key="Christian, J. Ward">J. Ward Christian</persName> of San Bernardino, under date of Oct. 4th, to a gentleman in Los Angeles, and is published in the Star. <seg type="Emigrants" subtype="WagonTrain">The company consisted of about 130 or 135 men, women and children, and included some forty or forty-five capable of bearing arms.</seg> <seg type="Emigrants" subtype="StateAffiliationMissouri"><seg type="Emigrants" subtype="StateAffiliationArkansas"><seg type="Emigrants" subtype="Route">They were on their way from Missouri and Arkansas to this State.</seg></seg></seg> The causes which have led to this massacre, are given as follows by Mr. <persName key="Christian, J. Ward">Christian</persName>, he having obtained them from Elders <persName key="Mathews, William">Wm. Mathew</persName> and <persName key="Hyde, William">Wm. Hyde</persName>, who were on their way to San Bernardino and several days' journey in the rear of this train:</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian">"<seg type="Encounter" subtype="TradeIndian">The train camped at Corn Creek, near Fillmore city, where there is an Indian village, the inhabitants of which have raised a crop of wheat, and a few melons, etc. And in trading with the Indians they gave them cash for wheat, and they, no knowing the value of coin, were severely cheated. They wanted a blanket for a sack of wheat, but they gave them fifty cents, and told them that amount would buy a blanket.</seg> <seg type="Encounter" subtype="Poison">They also had an ox with them which had died, and they put strychnine in him for the purpose of poisoning the Indians; and also put poison of some description in the water which is standing in holes. This occasioned several deaths among them, within a few days after the departure of the train.</seg> <seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Planning">And upon this, it seems, the Indians gathered themselves together, and had, no doubt, chosen the place of attack and arranged everything before the train arrived at the place where they were murdered.</seg>"</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">It appears from what can be gleaned from the Indians, that the encampment was attacked about daylight in the morning</seg> by the combined forces of all the various tribes in that section of the country. The majority of them were slain at the first onset; the remainder placed themselves in the best position for <choice><sic>defence </sic><corr>defense</corr></choice>
+that their circumstances would allow; but before they could complete their arrangements, there were but few left who were capable of bearing arms. Sheltered by their wagons and a ditch they had dug for protection, these few continued for one or two days to fire upon the Indians; but it was of no avail; the Indians were so securely secreted, that, according to their own statement, there was not one of them killed, and but few wounded. <seg type="Massacre" subtype="Surrender">A flag of truce, borne by a little girl, was then sent out by the emigrants, and they gave themselves up to the mercy of the Indians, who immediately rushed in and slaughtered all of them</seg>, <seg type="Massacre" subtype="Survivors">with the exception of fifteen infant children, that have since been purchased, with much difficulty, by the "Mormon" interpreters</seg>.</seg></seg></p>
+
+<p>These are all the particulars which have yet come to light relative to this dreadful affair. But corrupt editors have not been idle in manufacturing and circulating the most base and damnable suspicions about this occurrence.</p>
+
+<p>&#8212;"Trifles light as air,
+Are, to an Anti-Mormon editor, confirmation strong as proofs of holy writ."</p>
+
+<p><seg type="Source" subtype="UnattributedPublishedAccount">The fact that the massacre occurred <seg type="Massacre" subtype="Location">somewhere within the boundaries of Utah</seg>, and the fact also that <seg type="Emigrants" subtype="StateAffiliationArkansas"><seg type="Emigrants" subtype="StateAffiliationMissouri">the train was from Missouri and Arkansas&#8211;</seg></seg><seg type="Blame" subtype="LDS_LDS">States against which, we are gratuitously informed, the "Mormons" entertain the most intense hatred&#8211;are deemed a sufficient foundation upon which to base an accusation of guilt against the Mormons.</seg> It is incredible, and utterly inconsistent with civilized human nature, in these editors' view of the case, for <seg type="Encounter" subtype="TradeIndian">the emigrants to cheat the Indians</seg>, or to <seg type="Encounter" subtype="Poison">poison their water and the 
+<choice><sic>carcase </sic><corr>carcass</corr></choice> of an ox</seg>. This is too hard a story to believe. <seg type="Context" subtype="LDSPersecution">But mark the difference, when there exists the slightest possible chance of attributing the most foul and atrocious deeds to an innocent people, because they are "Mormons," and live in the Territory where they are committed.</seg></seg> <seg type="Blame" subtype="LDS_LDS">It is not incredible to think that the "Mormons" either perpetrated themselves or instigated the Indians to perpetrate the murder of upwards of a hundred men, women and children, because, forsooth, they hailed from the States of Missouri and Arkansas! This is not too hard a story believe&#8211;it does not tax the credulity of these very incredulous gentlemen in the least. They can believe this without the slightest shadow of evidence</seg>; <seg type="Blame" subtype="EmigrantBehavior">but transactions which every season's emigration witness&#8211;the cold-blooded murder and poisoning of Indians, can not be believed</seg>, because, if believed, the "Mormons" could not be charged as the instigators of the massacre.</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS"><seg type="Blame" subtype="EmigrantBehavior">Inconsistent as it may seem with "civilized human nature," <seg type="Encounter" subtype="Poison">every man who has affected to discredit the story of the poisoning of the water and the <choice><sic>carcase </sic><corr>carcass</corr></choice> of an ox by the emigrants, must know that it is a practice of common occurrence on the plains, especially among "border ruffians," to shoot down every Indian they can get sight at, and to leave the poisoned <choice><sic>carcases </sic><corr>carcasses</corr></choice> of cattle as a means of entrapping the unsuspecting savage.</seg> If they had been killed in any other territory than Utah, the story would have been believed without hesitation; and it would have been said, that the emigrants provoked a most fearful retribution by their own acts.</seg></seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">We appeal to every honest, intelligent man to view all the facts of the case as they have thus far come to light, and ask, Is it not enough to drive any people mad, to be thus charged with an atrocious crime of this kind, when they know they are as innocent of it as the child unborn&#8211;and when they know, also, that their accusers are no more warranted by the evidence before them in accusing them, than they would be in fastening  a similar charge on the inhabitants of San Francisco? As if the feelings of the people were not already sufficiently hostile against the people of Deseret, a venal and incendiary press must seek to add fuel to the flame, and raise a feeling of embittered hated against "Mormonism" and the "Mormons" in the breast of every man who will be influenced by them, or who will not take the trouble to think and investigate for themselves. What cause is there for wonder at our talking as plainly and independently as we do, when this persistent determination on their part of fasten upon us the commission of the most foul and unnatural crimes, regardless of all evidence and all our protestations of innocence, is sufficient to finally extinguish it. And the instance above is only one out of a numerous list that might be adduced; it is but another illustration of that utter disregard of justice and honor which has been continually exhibited by journalists and others in their treatment of the "Mormons." How long they expect we can endure such things, and not arise and resent them, we do not know; but such creatures may yet learn that there is a limit even to Mormon forbearance and endurance.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

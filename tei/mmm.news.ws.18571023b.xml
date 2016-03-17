@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.ws.18571023b">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Untitled [Since the arrival of the last Utah mail&#8230;]</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.ws.18571023b</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">Untitled [Since the arrival of the last Utah mail&#8230;]</title>
+		    <title level="j">Western Standard</title>
+		    <author>George Q. Cannon</author>
+		    <publisher>Western Standard</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1857-10-23">1857-10-23</date>
+		</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+		    <term>LDS</term>
+		</keywords>
+		    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-08"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2007-05-11"><name>Douglas Seefeldt</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.ws.18571023b.001"/>
+    
+<p>S<hi rend="smallcaps">INCE</hi> the arrival of the last Utah mail, there has been considerable speculation among our contemporaries, in regard to the result of the Utah expedition. The bold, independent and outspoken manner in which the people of Desert have made known their feelings of late; has had a startling effect on public journalists generally; and they begin to realize that there is a possibility of <seg type="Context" subtype="LDSPersecution">goading the inhabitants of that <placeName type="state" key="Utah Territory">Territory</placeName>, by a series of long continued acts of oppression, to the defence of their religion and homes. Of course it was expected that the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">"Mormons"</orgName> would endure passively, as they had always heretofore done, every indignity that was to be heaped upon them. But even this was to have availed us nothing. The Administration organ in this city informed the public a few weeks ago, that the contingency of our submission had been foreseen, and such a course could not in any measure divert or change the policy resolved upon at Washington towards Utah. <seg type="Context" subtype="TerritorialAdministration">That policy as set forth by paper, was, to overthrow the practices at present prevalent in Utah and inaugurate a new order of things in their stead&#8211;to bring about collisions between the church and the officers of the law, and to do every thing in their power to efface every distinctive feature of "Mormonism;" or, to tell the policy in plain English, to prevent us from worshiping God according to the dictates of our own consciences.</seg></seg> If resistance were offered to this violent and unparalleled deprivation of constitutional rights, an armed force was to be on hand, whose numbers and equipments were to be of such a nature as to stifle any such expedition at its birth.</p>
+
+<p>But suspicions have lately been aroused in the minds of many, which make them think that if by any means the Mormons should be aroused to resistance, it might not be so easy a matter to accomplish all that had been laid out for the new officials to do as bad been imagined. <seg type="Context" subtype="UtahWar">Our bellicose neighbor of the reputed Administration organ, who has been noted for the fanfaronade he indulged in on the Mormon question and who predicted so confidently a few weeks ago, the speedy downfall of "Mormonism" and the subjugation of the <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">"Mormon,"</orgName> now thinks that should a collision take place, and the "Mormons" be disposed to resist, a war would be commenced the most protracted and bloody the country ever engaged in, and which would require an immense outlay to bring to a termination. Well may he and his confreres of the press be startled at the train they have set in motion, and the consequences which are likely to attend the present movements towards Utah. If blood be shed, if a collision take place, and a war be commenced, a large share of the blame must fall upon the heads of leaders of public journals throughout the country. They have done all in their power to bring about such a consummation.</seg> Not content that the public should judge of the case themselves, and weigh carefully the evidence presented before them, they have sought with all their talents and the influence they could exert, to create a deep-rooted and deadly antipathy against the people of Utah and their belief, circulating the most base and malicious falsehoods concerning them, and keeping the public mind in a state of continual agitation and ferment. They have given publicity to the slanders of every vile and corrupt wretch that would denounce "Mormonism"&#8211;have given place in their columns to every absurd and ridiculous story that has been started about the "Mormons," and have done al in their power to array the Administration against us; but in almost every instance, they have either treated with contempt or totally ignored every rebuttal of the false stories afloat respecting the Deseretians.</p>
+
+<p><seg type="Context" subtype="LDSPersecution">If "Mormonism" is to be overthrown and exterminated by the new Governor and the troops now on their way to Utah, and the different papers really state the truth when they affirm that this is the object for which they are sent, then it need not be expected that when the Mormons in that Territory are informed of the intentions, they will submit quietly to their enforcement. Where is the people that posses any claim to manhood, that are worthy of the blessings of liberty that would? We solemnly declare that, were we in Utah, and aware of the intentions of the officials and troops which are so boastingly and universally avowed in the public prints, we would never submit to such things.</seg> We have ever felt that the storms of liberty would be preferable to the serenity of slavery; and we know that there are hundreds in Deseret that feel as we do on this subject. Let this policy be carried out, and where is the liberty of conscience which the Constitution guarantees unto every citizen, "Mormon" or otherwise, and of which we vaunt so much?</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The people of <placeName type="settlement" key="Deseret, UT">Deseret</placeName> are willing and determined to abide by the Constitution and laws of their country, they were willing to be governed in a proper manner by the appointee of the Federal Government; but they are not willing to have that rule enforced at the point of the bayonet or the mount of the cannon.&#8211;They expressed their wishes to the Administration in relation to the Federal appointees who were to be sent in their midst; but their wishes were utterly disregarded. Instead of men being selected who would attend to the duties of their office; and not interfere with the religious rights of the people, officers have been sent whose especial mission, it appears, is to produce strife and disunion, and curtail the religious privileges of the people. </seg>Such a course dare not be adopted towards any other Territory than Utah, or to other people than "Mormons." It would be attended by too many serious consequences for any sane Administration to attempt. But, when pursued towards "Mormons," it corresponds with the treatment they have heretofore received, and becomes a fitting finale to the long list of wrongs which they have endured.</p>
+
+<p><seg type="Context" subtype="LDSPersecution">Talk about the people of <placeName type="settlement" key="Deseret, UT">Deseret</placeName> declaring their independence; they have had sufficient provocation years ago, to declare themselves free and independent, not of the Constitution, laws and institutions of their fathers and of the land that gave them birth, but of the corrupt and partial administrators of those laws. They have never experienced such treatment as they ought, in common justice, to have received. They have been abused, vilified and wronged in the most outrageous manner&#8211;called murderers, thieves and every thing else that was vile, and not only called but treated as such&#8211;until the people have almost persuaded themselves that the "Mormons" had no rights, and that they were absolutely conferring a favor upon them by permitting them to live at all.</seg> The first settlers of other territories have been rewarded by large grants of land and the most liberal help and encouragement; but how has it been with the Deseretians? Though their labors in reclaiming the wilderness, in adding to the conveniences of traveling, and in enduring the peculiar hardships incident to a residence in that sterile and uninviting country, have been such as to draw forth the unwilling admiration from our enemies, yet, instead of seeking to encourage them, every thing has been done that would have the contrary effect. <seg type="Context" subtype="TerritorialAdministration">Appropriations have been withheld, or when not withheld, doled out with a niggardly hand; schemes have been concocted and made public, to deprive us of the land on which we have settled, and every measure put forward for adoption that would be likely to humble and annoy us. Our mail privileges have been cut off, and we have been looked upon and treated as outlaws and slaves, permitted to dwell by sufferance only, on a portion of that unoccupied land which we had taken so active a part in adding to the public domain.</seg> These are facts which can not be truthfully disputed, and they are facts, too, which the world know to be true.</p> 
+
+</div1>
+</body>
+</text>
+</TEI>

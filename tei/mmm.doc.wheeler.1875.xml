@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.wheeler.1875">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Preliminary Report Upon A Reconnaissance Through Southern and Southeastern Nevada</title>
+                <title level="m" type="sub"></title>
+                <author><forename>George</forename> <forename type="middle">M.</forename> <surname>Wheeler</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.doc.wheeler.1875</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="a">“Indians,” “Saint Thomas,” and “Utes or Piedes”</title>
+                    <title level="m">Preliminary Report Upon A Reconnaissance Through Southern and Southeastern Nevada, Made in 1869, by First Lieut. Geo. M. Wheeler, Corps of Engineers, U. S. Army, Assisted by First Lieut. D. W. Lockwood, Crops of Engineers, U. S. Army, under the Orders of Brig. Gen. E. O. C. Ord, Bvt. Maj. U. S. Army, Commanding Department of California</title>
+                    <author><forename>George</forename> <forename type="middle">M.</forename> <surname>Wheeler</surname></author>
+                    <publisher>Government Printing Office</publisher>
+                    <pubPlace>Washington, DC</pubPlace>
+                    <extent>35, 36-37, 47</extent>
+                    <date when="1875">1875</date>
+                    <note type="source">George M. Wheeler.  “Indians,” “Saint Thomas,” and “Utes or Piedes,” in <hi rend="italic">Preliminary Report Upon A Reconnaissance Through Southern and Southeastern Nevada, Made in 1869, by First Lieut. Geo. M. Wheeler, Corps of Engineers, U. S. Army, Assisted by First Lieut. D. W. Lockwood, Crops of Engineers, U. S. Army, under the Orders of Brig. Gen. E. O. C. Ord, Bvt. Maj. U. S. Army, Commanding Department of California.</hi>. Engineer Department, US Army.  Washington, DC: GPO, 1875. 35, 36-37, 47.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+	    <keywords scheme="original" n="category">
+		<term>government_document</term> 
+	     </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2011-08-18"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change> 
+	    <change when="2011-05-31"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>        
+            <change when="2010-02-09"><name>Kelsey F. Harris</name> Initial Encoding</change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+    <div1>
+    <pb n="1" xml:id="mmm.doc.wheeler.1875.001"/>
+  
+<head type="sub">Engineer Department, U.S. ARMY.</head>
+<head type="main">PRELIMINARY REPORT<lb/>
+UPON<lb/>
+A RECONNAISSANCE<lb/>
+THROUGH<lb/>
+SOUTHERN AND SOUTHEASTERN NEVADA,<lb/> 
+MADE IN 1869,<lb/> 
+BY<lb/>
+FIRST LIEUT. GEO. M. WHEELER, CORPS OF ENGINEERS, U.S. ARMY,<lb/>
+ASSISTED BY<lb/>
+FIRST LIEUT. D. W. LOCKWOOD, CORPS OF ENGINEERS, U.S. ARMY,<lb/> 
+UNDER THE ORDERS OF<lb/>
+BRIG. GEN.E.O.C.ORD,<lb/> 
+BVT. MAJ. U.S. ARMY,<lb/>
+COMMANDING DEPARTMENT OF CALIFORNIA.<lb/>
+
+    <milestone unit="section" rend="horbar"/>
+
+WASHINGTON:<lb/>
+GOVERNMENT PRINTING OFFICE.<lb/>
+1875.</head>
+<div2>
+<pb n="35" xml:id="mmm.doc.wheeler.1875.035"/>
+    
+<head type="sub">INDIANS.</head>
+
+<p>All the Indians through Southern <placeName type="state" key="Nevada">Nevada</placeName> may be termed "Mountain Indians," in contradistinction to those that inhabit the valleys or plains, or live along the ocean-shore. The habits, dispositions, and mental characteristics of all the Indains that I have encountered on the Pacific Slope seem to be governed largely by the topography of the country and the principal articles used as food, the latter undoubtedly having the greater effect.</p>
+    
+<p>The mountain Indians are more hardy, intelligent, shrewd, and cunning, generally going into the valleys to plant and harvest, returning to their mountain retreats after gathering their slender crops. They make up the deficit in food from nuts and acorns, rarely eating roots. The well-known Digger Indians of the <placeName type="state" key="California">California</placeName> valleys formerly subsisted in the main upon roots and plants, and to them pine-nuts and acorns were a great luxury. They were and are a filthy, sluggish-minded, disgusting race. Certain other shore Indians, closely allied in general worthlessness of character to the diggers, subsist upon fish and any refuse or offal found along the shore, together with seasweed and various sea-roots and plants. They inhabit the northern coasts of <placeName type="state" key="California">California</placeName> and <placeName type="state" key="Oregon">Oregon</placeName>.</p>
+    
+<p>The mountain Indians of <placeName type="state" key="Nevada">Nevada</placeName> and Idaho, as a general rule have been endowed by nature with more of the civilized instincts than those found below the <geogName type="waterway" key="Colorado River">Colorado River</geogName>; and, in fact, it is not unlikely that a provisional latitudinal distinction, modified by the form and extent of the drainage basins, may be made general in its application to all tribes west of the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName>.</p>
+    
+<p>With the development and population of countries like <placeName type="state" key="Arizona">Arizona</placeName>, the Indian will become impressed with the fact that warlike aggression or resistance will be futile; and the submissive Apache of a few years hence will be found to differ but little from the tame Ute and Pah-ute of today.</p> 
+
+<p>Our guide and interpreter, Henry Butterfield, a thorough master of the Shoshone and Gosinte tongues, succeeded in gaining a pretty accurate census of the "wickeups" at which the Indians were found at home. His estimate of those enumerated was very nearly two thousand five hunderd; and it is not unsafe to suppose that at least this number are permanent inhabitants of the area surveyed.</p> 
+</div2>
+    
+<div2>
+
+<pb n="36" xml:id="mmm.doc.wheeler.1875.036"/>    
+        
+<head type="sub">UTES OR PIEDES</head>
+    
+<p>The Utes, Utahs, or Piedes, as they have sometimes been called, are roving, treacherous Indian. They are found from <geogName type="valley" key="Pahranagat Valley">Pahranagat Valley</geogName> to the mouth of the <geogName type="waterway" key="Virgin River">Virgin River</geogName> as the most westerly ine of their country, extending to the north and east along the different lines of Mormon settlements as high up as 38 degrees north latitude, thence stretching out to the east ward as far as the <geogName type="waterway" key="Grand River">Grand River</geogName>, and bounded on the south and east by the <geogName type="waterway" key="Colorado River">Colorado</geogName> proper.</p>
+    
+<p>Their number, all told, is variously estimated from three to five thousand; some six or seven hundred were found along our route.</p>
+    
+<pb n="37" xml:id="mmm.doc.wheeler.1875.037"/>  
+
+<p><seg type="Blame" subtype="IndiansIndependently">An old fellow by the name of Toshob was chief of these bands on the <geogName type="waterway" key="Muddy River">Muddy</geogName>; a wily, treacherous, cold-blooded old scamp, who was well known to have been the leader of the Indians that were engaged in the "Mountain Meadow Massacre," that <seg type="Massacre" subtype="Casualties">horrible murder of helpless emigrants, both male and female, old and young.</seg> the details of this dreadful occurence were gleaned here and there, and, when fully known, for all coming history will stand out as one of the most disgusting pictures of human baseness.</seg></p>
+    
+<p>The Utes or Piedes cultivate the soil, are at war with no particular tribe, and excepting the fact that they are great thieves, and treacherous to a heightened degree, even for an Indian, do not differ greatly from others of these mountain tribes. They have no hesitation to rob, plunder, and murder, provided they are not found out, while their sagacity teaches them the advantages to be gained from the reputation of "good Indians." They have a most wonderful antipathy against Germans, whom they can tell at a glance, and no one of this nationality can get past their habitations without a good chance of losing everything he has in the way of personal effects. I know of no manner in which to explain the above except that this tribe has been for long years at enmity with the Navajoes, who have been in the habit of crossing the <geogName type="waterway" key="Colorado River">Colorado</geogName> and making inroads upon the Utes and Piedes, taking their stock, squaws, or anything else, and then beating a hasty retreat. It is a train, killing all the men and taking the women to their villages, and thereby created a changed race of bad blood, they say; and possibly in their own minds they think that all their troubles with the Navajoes have arisen in consequence. These Utes or Piedes had killed two men in a canon leading into one that we traversed from <geogName type="valley" key="Mountain Meadows">Meadow Valley</geogName> to the Muddy settlements. These were travelers with good horses. The indians who were supposed to have been concerned had left their wicke-ups and fled.</p>
+
+</div2>
+    
+<div2>
+ 
+<pb n="47" xml:id="mmm.doc.wheeler.1875.047"/>  
+    
+<head type="sub">SAINT THOMAS,</head>
+    
+<p>is situated at the confluence of the <geogName type="waterway" key="Muddy River">Muddy</geogName> with the <geogName type="waterway" key="Virgian River">Virgin</geogName>; rather a fine-looking place, well laid out, with shade-trees along the streets. Its inhabitants number as high as three hundred or four hundred altogether, but of the same moving character as the two settlements above named. The bishop at this place, and another person, ex-member of the <placeName type="state" key="Arizona">Arizona</placeName> legislature, received us with pleasant courtesy. <seg type="Blame" subtype="IndiansLDSInfluence">Near this place an Indian chief named <persName key="Toshob">Toshob</persName> was his wick-e-ups. He is known to have been engaged with some of his Indians in the Mountain Meadow massacre, while the leader of the same was reported to be in a small place called <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, some seventy-five miles to the northeast, in a state bordering on insanity from remorse for his actions at that time. No one can judge of the revolting character of that affair who has not been near the ground to learn of the details of the cold-blooded murder of <seg type="Massacre" subtype="Casualties">men, women, and children</seg>.</seg></p>
+    
+<p>Thus it will appear that the late reconnaissance has developed the fact that there are seven Mormon settlements, numbering very nearly two thousand inhabitants, that heretofore have been supposed, certainly or uncertainly, to be in Utah, that lie beyond a doubt within the domain of <placeName type="state" key="Nevada">Nevada</placeName>. So far they have paid taxes in, and conformed to the laws of, Utah. Some action should now be taken clearly defining their status and place the jurisdiction of both the State and Territory upon proper ground.</p>
+    
+<p>That part of <placeName type="state" key="Arizona">Arizona</placeName> to the north and west of the Colorado River that was ceded by act of Congress of 1866 to <placeName type="state" key="Nevada">Nevada</placeName>, has never been legally accepted by the State, since their constitution prohibits the accession of territory in this direction, thereby rendering the action of the State officials invalid and liable to be protested in case of attempting to execute their statutes.</p>
+    
+<p>The Mormons are prospecting for further lands contiguous to their outer settlements, to be used as asylums for their constantly thickening population, and it is but a short time ago that a call was made for one thousand families to go into Northern <placeName type="state" key="Arizona">Arizona</placeName>.</p>
+
+</div2>
+</div1>    
+</body>
+</text>
+</TEI>

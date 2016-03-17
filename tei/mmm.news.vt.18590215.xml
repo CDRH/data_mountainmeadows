@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590215">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	    <title level="m" type="main">Untitled [The massacre at the Mountain Meadows is still fresh&#8230;]</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.vt.18590215</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+ 	<notesStmt>
+	   <note type="summary"></note>
+	</notesStmt>
+
+    <sourceDesc>
+	<bibl>
+	    <title level="j">Valley Tan</title>
+	    <title level="a" type="main">Untitled [The massacre at the Mountain Meadows is still fresh&#8230;]</title>
+	    <publisher></publisher>
+	    <pubPlace>Salt Lake City, UT</pubPlace>
+	    <date when="1859-02-15">February 15, 1859</date>
+	</bibl>
+    </sourceDesc>
+
+   </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term> </term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	   </keywords>
+	</textClass>
+     </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie Heupel</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+<pb n="unknown" xml:id="mmm.news.vt.18590215.001"/>
+
+<p><seg type="Source" subtype="PublicMind">The massacre <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> is still fresh in the memory of many in this City, and an allusion to it will touch the hearts of many in the States.</seg> <seg type="Massacre" subtype="Casualties">It was there that about one hundred and thirty nine emigrants were brutally murdered</seg>, <seg type="Massacre" subtype="Aftermath">and whose bones even to this day bleach the grounds of that dreadful spot.</seg></p>
+
+<p><seg type="Source" subtype="PublicMind"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">Who did this damnable deed,&#8212;the Indians? A strong suspicion rests upon the popular mind that white men, or at least those who claim to be white, were interested in it, and if not actual participants, encouraged the massacre. This wholesale murder must come to light, and we are glad to see thatt the Federal officers are moving in the matter, and that there is at least some probability that the parties, whether Indians or their adjuncts, Mormons, will be brought to justice.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="WesternViolence"><placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName> and the vicinity of the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> seems to be a favored spot for murder, Below we annex two letters, received some time since, which inform us of the murder of two or three others by the Indians.</seg> In view of the circumstances, Gov. <persName key="Cumming, Alfred">Cumming</persName> has made a requisition upon Gen. <persName key="Johnston, Albert Sidney">Johnston</persName> for troops, and they will proceed to that locality about the first of next month.  The Executive, with that energy of purpose that has ever characterised him, is determined to protect the emigration which necessarily passes through this region south, as the following letter will show:&#8212;</p>
+
+<floatingText>
+<body>
+<opener><dateline>EXECUTIVE OFFICE, UTAH,
+Great Salt Lake City. February 14, 1850.</dateline>
+
+<salute><persName key="Anderson, Kirk">KIRK ANDERSON</persName>, Esq.:</salute></opener>
+
+    <p><seg type="Source" subtype="Unattributed"><seg type="Context" subtype="WesternViolence">I have received reliable information that several acts of hostility have been committed recently by the Piede and Pi-ute Indians between the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> and <placeName type="settlement" key="Santa Clara, CA">Santa Clara</placeName>, on the <placeName type="route" key="SanBernardino Route">San Bernardino route</placeName> to <placeName type="settlement" key="California">California</placeName>.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">The necessary requisition has been made upon the Officer in command of this Department, who will detach a suitable military force to be stationed at such points on the route as will secure the emigration and other travelers from Indian hostilities.
+General <persName key="Johnston, Albert Sidney">Johnston</persName> has informed me that the troops assigned to this duty will move soon after the first of March, from <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>.</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation"><persName key="Forney, Jacob">J. Forney</persName>, Superintendent Indian Affairs, will visit the tribes in advance of the troops. Please publish the above note for the information of the public, and oblige.</seg></p>
+
+<closer><signed><persName key="Cumming, Alfred">A. CUMMING</persName>, 
+Governor <placeName type="state" key="Utah Territory">Utah Territory</placeName>.</signed></closer>
+</body>
+</floatingText>
+
+<p><seg type="Massacre" subtype="Survivors">In relation to the children rescued from that terrible slaughter, we refer to the following letters, by which it will be seen 15 have been rescued from the savages:&#8212;</seg></p>
+
+<floatingText>
+<body>
+<opener><dateline><placeName type="settlement" key="Santa Clara, CA">SANTA CLARA</placeName>, Dec. 9, 1858.</dateline> Dr. <persName key="Forney, Jacob">FORNEY</persName>, Esq.,
+Super't of Indian Affairs, <placeName type="state" key="Utah Territory">U.T.</placeName>,
+<lb/>
+
+<salute>Dean SIR:</salute>&#8212;</opener><p><seg type="Massacre" subtype="Survivors">I think I have discharged my duty faithfully as to gathering the unfortunate childen; I have now fifteen of them in my possession. I am satisfied that there were seventeen of them saved from the massacre; I know there were two of them taken east by the Pi-utes. I have visited the Pi ranigeta, west of there; they said they let the Pi-utes have the two that they got, and all they ever had; that they wanted to take them to the Mopais or Navajos, and they would get two or three horses a-piece for them. I could not feel satisfied in my mind until I had visited those two tribes. I accordingly got twelve men, pack mules, and 30 days' provisions; traveled east to the Colorado, then up the river three days before we could cross. The third day, after we crossed the Colorado, our mule that was packed with flour and dried meat took fright and run off, leaving us on a desert without food or water. I sent two men in pursuit of the animal. As there was no water, the company had to proceed.
+After traveling and fasting five days, we came to the Oribies, a city of Indians belonging to the Moquis nation, where the Pi-utes children have been sold as slaves for some years past.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">We visited all the towns belonging to this nation, five in number; found many of the Navajos in these towns that had been driven back by the U. S. troops, save several of the chiefs who said they were goirg to try and make peace with the Government.
+On our first appearance the Navajos all left the town, supposing the U. S. troops from the west to cut them off. We had a good Spanish interpreter with us, and found those of the Moquis and Navajos that spoke good Spanish. I told them the evils that would follow in case they did not make peace with the Government.</seg></p>
+
+<p>The Moquis advised us not to trust them, as they would kill us if they got the advantage, as they hated White faces.
+<seg type="Massacre" subtype="Survivors">We could hear of no white children among the Moquis, except one white child, a. boy, three years old; they said they got him of the Paches; he was sick and not able to leave the town comfortably. Knowing that if we carried long, we would be shut out for the winter by snows on the high mountains we had to cross, we accordingly started for home, pushing our animals as fast as they would bear it.</seg></p>
+
+<p>I had engaged an Indian to hunt and furnish us meat on our way back near <geogName type="waterway" key="Colorado River">the Colorado</geogName>. This supply of meat we did not get, and a heavy fall of snow set in upon us, having been rationed on less than a pint of beans a day to the man, for five days, our strength reduced for the want of food; snow knee deep and the storm increasing, and the knawing of bark, hunger induced us to kill a horse; we feasted on his flesh over night, and were enabled to pursue our journey. The storm having abated, so that we could see our course, we arrived home safe December 3, having been 37 days out.</p>
+
+<p><seg type="Context" subtype="WesternViolence">The Pi-ute Indians of late have been difficult to manage; travelers have passed unmolested until of late.
+Soldiers and discharged teamsters have flooded by there, many of whom pay no regard to counsel, or care for no one but themselves, trading guns and much ammunition. They are unmanageable to a certain extent. If I would stand back and let them steal, and perhaps kill, it would be all right. I have, spent my time and means since I saw you to keep peace in this part of the Territory, which I could have done if there had been none but Indians to deal with</seg>.</p>
+
+<p><seg type="Massacre" subtype="Survivors">As regards the children and our journey to <placeName type="state" key="California">California</placeName>, I intend to go with you according to your request, I have engaged a nurse. You can travel in the winter season, after you pass <geogName type="feature" key="Great Basin">the rim of the Basin</geogName>, bettert ban in summer.</seg></p>
+
+<p>I anticipate a pleasant trip with you; it will rest my mind from the cares and anxiety that has encumbered me of late. I would be much pleased to hear from you; let me know your mind when you will be here.</p>
+
+<closer><signed><persName key="Hamblin, Jacob">JACOB HAMBLIN</persName></signed></closer>
+
+
+<postscript><p>P.S. You can get all the teams you want for crossing the desert here, which will be less expense than to bring them from the city.</p>
+
+<p><seg type="Context" subtype="WesternViolence">I have told the Indians that the Americans and Mormons were one and friends. This was according to your instructions. You can, of course, see what would naturally follow their ancient hatred and animosity: we have to shoulder together with all the mean tricks the travelers are guilty of. They stole horses, killed cattle, and shot some two or three men, while I was gone to the Moquis nation. We have stood guard of late for our own safety. I saved nearly one hundred cows from being killed and wasted last fall, that were taken from the emigrants on <geogName type="waterway" key="Big Muddy River">the Big Muddy</geogName>. 'There were but few of them left; many of ours killed.</seg> J.H.</p></postscript>
+</body>
+</floatingText>
+
+<floatingText>
+<body>
+<opener><dateline>PORT CLARA, Dec. 11, 185S.</dateline> MR. <persName key="Forney, Jacob">JACOB FORNEY</persName>:
+
+<salute>DEAR SIR</salute>salute>:&#8212;</opener><p>By the request of Mr. <persName key="Hamblin, Jacob">Jacob Hamlin</persName>, I seat myself to answer your letter which came to hand last night. Mr. <persName key="Hamblin, Jacob">Hamlin</persName>, starting early this morning on a trip to the Big Muddy, could not attend to it himself. He requested me to say that he had written three letters to you, why you had not received them he could not tell.</p>
+
+<p><seg type="Massacre" subtype="Survivors">The Indians in our absence in search of the lost children, have proved very troublesome about this place, as well as south of here, on the California road. They have killed some two or three travelers; also several head of cattle and horses. Mr. <persName key="Hamblin, Jacob">Hamlin</persName> has now gone to quiet the disturbance if possible, so that travelers can pass unmolested. Seventeen of the lost children are safe and well provided for. Mr. <persName key="Hamblin, Jacob">Hamlin</persName> is ready to take them through as soon as you arrive.</seg></p>
+
+<closer><salute>Yours with respect,</salute>
+<signed>THALES H. HASKELL.</signed></closer>
+</body>
+</floatingText>
+
+<p>The Superintendent of Indian Affairs, Dr. <persName key="Forney, Jacob">Forney</persName>, will leave this city next week for the south, and it may prove that his visit and investigations will not prove very wholesome to even some of our white folk who live about here and are considered some nous verrons.</p>
+
+<p>We would call the attention of our readers to the advertisement of Mr. <persName key="Gebow">Gebow</persName>, interpreter for Dr. <persName key="Forney, Jacob">Forney</persName>. Mr. <persName key="Gebow">G.</persName> has been in the mountains for fourteen years, and we believe him to be well qualified to get out such a book.</p>
+
+<p>The Eastern mail arrived in this city on Sunday night, at 11 o'clock.</p>
+
+
+<p>The news by the last mail from the States is rather meagre. Montgomery and his bandits have been committing depredations upon the frontiers of <placeName type="state" key="Missouri">Missouri</placeName>, and Gov. Stewart had sent in a special message to the Legislature upon the subject who promptly responded by appropriating $30,000 and authorizing the executive to call out the militia.</p>
+
+<p>A fierce war is raging between Senators <persName key="Douglas">Douglas</persName> of <placeName type="state" key="Illinois">Illinois</placeName>, <persName key="Jones">Jones</persName> of <placeName type="state" key="Iowa">Iowa</placeName> and Hon. <persName key="Slidell, J.">J. Slidell</persName>. It smacks of pistols and coffee, if grave Senators are ever presumed to have a weakness for gunpowder.</p>
+
+<p>Congress is still hammering away on the Pacific rail road bill.</p>
+
+<p>The gold excitement about <geogName type="mountain" key="Pike's Peak">Pike's Peak</geogName> and <placeName type="state" key="Arizona">Arizonia</placeName> is increasing.</p>
+
+<p>The two Congressmen, Mr. <persName key="Montgomery">Montgomery</persName>, of <placeName type="state" key="Pennsylvania">Pa.</placeName>, and Mr. <persName key="English">English</persName> of <placeName type="state" key="Indiana">Indiana</placeName>, who had a difficulty on Pennsylvania avenue which resulted in a correspondence, has ended on paper&#8212;of course. This is a part of the history of Congress.</p>
+
+<p>We perceive by our late <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName> and <placeName type="state" key="Missouri">Missouri</placeName> dates that the <geogName type="mountain" key="Pike's Peak">Pike's Peak</geogName> gold fever still rages, and from the best information we can derive more than 15,000 people will leave the borders next spring for this new El Dorado. In view of the discovery of these rich mineral deposits both at <geogName type="mountain" key="Pike's Peak">Pike's Peak</geogName> and <placeName type="state" key="Arizona">Arizonia</placeName>, the Chamber of Commerce at <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName> have acted officially in the matter, and passed resolutions recommending the establishment of a branch mint and assay ones in <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>.</p>
+
+<p>The <placeName type="state" key="Missouri">Missouri</placeName> legislature has never been within our recollection without its representative of the "cap and bells;" and we should judge from the reports that reach us through the papers, that Mr. Pitt was the clown ohe present one.</p>
+
+<p>A few nights since a clerk in one of our mercantile houses, while passing, along the street, was suddenly assailed by a man who confronted him, and who struck at him with a knife, and then ran. Fortunately, it only passed through his garments and inflicted a slight wound in the breast.</p>
+
+<p>The following extracts we take from the Carries's Address of the <orgName type="newspaper" key="St. Louis Morning Herald">St. Louis Morning Herald</orgName>, for the reason that they have a local application to this latitude. We think we see in them, the tracings of the pen of our old friend Ferguson, formerly connected with the Herald:</p>
+
+<p>''In wild Utah a wail or woe is heard, And sympathetic crinoline is stirred:</p>
+
+<p>The scripture prophecy was there fulfilled, By saints accepted, and by <persName key="Young, Brigham">Brigham</persName> willed That seven short petticoats should proudly float.</p>
+
+<p>As the appendage of one long-tailed coat  "What!" cried old Buck, "shall <persName key="Young, Brigham">Brigham Young</persName> have seven, And I not one? It shall not be, by Heaven!"</p>
+
+<p>"Come on!" said Young, "my agents now are drumming For new recruits,"</p> 
+
+<p>Buck coolly answered "<persName key="Cumming, Alfred">CUMMING</persName>!"</p>
+
+<p>The nation's chivalry was all on fire, In womans cause to battle and perspire; A gallant host rode gaily o'er the plains, But only got "their labor for their pains;" For <persName key="Young, Brigham">Brigham</persName>'s men, in <geogName type="waterway" key="Echo Canyon">Echo Kanyon</geogName> rallied, Against the foe in crawfish fashion sallied. The Gentile band, with mule meat for their fare, Called Called for the foe, but Echo answered "Where!"  Brigham surrendered&#8212;he could not afford To die, and leave his sixty beds and board,</p>
+
+
+<lg><l>War would be cruel in the Mormon land, For every saint that death snatched from the band</l>
+<l>A dozen weeping widows would be left, And fifty orphans of their sire bereft.</l>
+<l>A railroad to this region we must build;</l>
+<l>It shall be done&#8212;the people have so willed. Whether it run by choke-a-toper pass,</l>
+<l>Or Albert Quick's&#8212;the line of early grass&#8212;Through the wild region of eternal snow,</l>
+<l>Or TERRE CALIENTE&#8212;down below;</l>
+<l>A road to California must be built,</l>
+<l>Though life be lost, and precious blood be spilt.</l>
+<l>Why on the hackneyed subject longer dwell? It must be built, although it pass through well</l>
+<l>The lower regions, we might safely say,</l>
+<l>For surely there we have the right of way."</l></lg>
+
+
+<p>Col. Booneville, U. S. A., and. Col. Collins, Superintendent of Indian Affairs, left <placeName type="settlement" key="Santa Fe,  NM">Santa Fe</placeName> on the 14th December, for <orgName type="military" key="Fort Definance">Fort Defiance</orgName>, to enter into peace negotiations with the Navajos, but it was doubtful whether they would arrive before the expiration of the armistice. The trial of Professor <persName key="Mahan">Mahan</persName>, of West Point though its result has not been officially declared, has ended in his acquittal of the charges preferred against him by Lieut. <persName key="Morton">Morton</persName>, of conduct unbecoming an officer and a gentleman.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

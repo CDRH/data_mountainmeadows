@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.beadle.1870">
+ 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Life in Utah</title>
+                <title level="m" type="sub"></title>
+                <author><forename>John</forename> <forename type="middle">H.</forename> <surname>Beadle</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.beadle.1870</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Life in Utah; or, the Mysteries and Crimes of Mormonism.</title>
+		    <title level="m" type="sub">Being an Expos&#233; of the Secret Rites and Ceremonies of the Latter-Day Saints, with a Full and Authentic History of Polygamy and the Mormon Sect from its Origin to the Present Time.</title>
+                    <author><forename>John</forename> <forename type="middle">H.</forename> <surname>Beadle</surname></author>
+                    <publisher>National Publishing Company</publisher>
+                    <pubPlace>Philadelphia, PA.</pubPlace>
+                    <extent>177-195</extent>
+                    <date when="1870">1870</date>
+                    <note type="source">John H. Beadle. <hi rend="italic">Life in Utah: Or, the Mysteries and Crimes of Mormonism.</hi> Philadelphia, PA: National Pub. Co., 1870. 177-95.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-08-04"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+		<change when="2010-11-09"><name>Jaclyn Cruikshank Vogt></name> Encoding Enrichment</change>
+        </revisionDesc>
+        
+    </teiHeader>
+
+        <text>
+   <body>
+       
+<div1 type="chapter">
+
+<pb n="177" xml:id="mmm.anti.beadle.1870.193"/>
+
+    <head type="main">CHAPTER VI.</head>
+    <head type="sub">THE BLOODY PERIOD.</head>
+
+<p><hi rend="center">Sounds of war in Utah&#8212;Popular excitement&#8212;Fears of the disaffected&#8212;Attempted flight&#8212;Murder of the Potter and Parrish <choice><sic>familes</sic><corr>families</corr></choice>&#8212;Massacre of the Aiken party&#8212;Assassination of Yates&#8212;Killing of Forbes&#8212;Brigham "Turns loose the Indians"&#8212;M<hi rend="smallcaps">ountain</hi> M<hi rend="smallcaps">eadow</hi> M<hi rend="smallcaps">assacre</hi>&#8212;Horrible barbarity of Indians and Mormons&#8212;Evidence in the case&#8212;Attempt of Judge Cradlebaugh&#8212;Progress of the "Mormon War"&#8212;Delay of the army&#8212;Treachery or inefficiency?&#8212;Mormon Legion&#8212;Lieutenant-General Wells&#8212;Brigham "Commands" the National troops to withdraw&#8212;Army trains destroyed&#8212;Lot Smith, the Mormon Guerilla&#8212;The "Army of Utah" in Winter Quarters&#8212;Colonel Kane again&#8212;Negotiations with Brigham&#8212;Governor Cumming "passed" through the Mormon lines&#8212;"Peace Commissioners"&#8212;Mormon exodus&#8212;Weakness of Cumming&#8212;End of the War&#8212;Murders of Pike, the Jones's, Bernard, Drown, Arnold, McNeil and others&#8212;A change at last.</hi></p>
+
+<p>W<hi rend="smallcaps">e</hi> enter now upon the black chapter in the annals of <placeName type="state" key="Utah Territory">Utah</placeName>&#8212;a period replete with crime and stained with innocent blood.  <seg type="Context" subtype="UtahWar">Occasional rumors of the march of the army had reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> early in the season, and on the 24th of July, when the entire population were collected in Cottonwood Park to celebrate "Anniversary Day," "Port" Rockwell and <persName key="Kimball, John">John Kimball</persName> appeared among them just from the plains, and announced that the column was certainly destined for <placeName type="state" key="Utah Territory">Utah</placeName>. <persName key="Young, Brigham">Brigham</persName> turned to those nearest him and with a savage scowl remarked, "I said when we reached here that if the devils would only give us ten years I'd be ready for them.  They've taken me at my word, and now they
+
+<pb n="178" xml:id="mmm.anti.beadle.1870.194"/>
+
+will see that I <hi rend="italic">am</hi> ready." The news spread rapidly throughout the settlements, producing everywhere fierce anger or a mixture of hope and dread, according as the hearer was firm in the Mormon faith or secretly dissatisfied.  The Tabernacle and Ward Assembly Rooms resounded with harangues in fierce denunciation of the Government, and <persName key="Young, Brigham">Brigham Young</persName> and <persName key="Kimball, Heber C.">Heber C. Kimball</persName> vied with each other in vile language and inflammatory appeals.</seg></p>
+
+<p><persName key="Young, Brigham">Brigham</persName> repeatedly stated that "if any proved traitor, or attempted to shield his own when the day came to burn and lay waste, he should be sheared down; for judgment should be laid to the line and righteousness to the plummet." The effect of such teaching upon a fanatical people may well be imagined. A perfect reign of terror ensued. Of those devoted to <persName key="Young, Brigham">Brigham</persName>, every one was a spy upon his neighbors, while the disaffected trembled at the storm, and made efforts to escape.  <seg type="Context" subtype="ParrishMurder"><persName key="Parrish, 'Beason'"><persName key="Parrish, William">Two men by the name of Parrish</persName></persName> at <placeName type="settlement" key="Springville, UT">Springville</placeName>, just south of Utah Lake, had declared their intention to start for <placeName type="state" key="California">California</placeName>.  The night before their intended departure their stock was run off, and going to search for it they were murdered but a few hundred yards from their dwelling, and after death their bodies mutilated in a shocking manner.  Two of their neighbors, by the name of <persName key="Potter, Duff">Potter</persName>, were killed at the same time.</seg>  One <persName key="Yates, Richard">Yates</persName>, a mountaineer, passing westward was assassinated in Echo Ca&#241;on, and a party of six from <placeName type="state" key="California">California</placeName>, under the command of a Mr. <persName key="Aiken, William">Aikin</persName>, were attacked west of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and four of them instantly killed.  The other two were promised 
+
+<pb n="179" xml:id="mmm.anti.beadle.1870.195"/>
+
+they "should be sent out of <placeName type="state" key="Utah Territory">the Territory</placeName> by the southern route," and, in pursuance of that promise, started south under guard. They were never again heard of, and by the testimony of an apostate woman, <persName key="Lamb, Alice">Alice Lamb</persName>, they were killed and their bodies thrown into a large spring near the road. She adds that one was only stunned by the first shot, when <persName key="Rockwell, Porter">Porter Rockwell</persName> stepped up, placed a pistol to his ear, and, adding, "This never misses," literally blew out his brains. The Mormons aver that this was a party of gamblers, that they carried with them "powders to drug Mormon women," and that they deserved death anyhow;" and in all such cases they have established the principle of assassination. In this time of excitement, suspicion was proof. <seg type="Context" subtype="IndianRelationsLDS">About the same time <persName key="Young, Brigham">Brigham Young</persName>, preaching in the Tabernacle, stated that hitherto as Governor and Indian Agent he "had protected emigrants passing through the territory, but now he would turn the Indians loose upon them."</seg> This hint was as good as a letter of <hi rend="italic">marque</hi> to the land pirates of southern <placeName type="state" key="Utah Territory">Utah</placeName>, and was not long in being acted upon. <seg type="Emigrants" subtype="WagonTrain">Early in August, and before the excitement had reached its greatest height, <seg type="Emigrants" subtype="Route">a large train on its way to <placeName type="state" key="California">California</placeName> reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Doctor <persName key="Brewer, Charles">Brewer</persName>, of the United States Army, who saw this train last at O'Fallon's Bluff on the Platte, the 11th of June preceding, describes it as "probably the finest train that had ever crossed the plains.</seg> <seg type="Massacre" subtype="Casualties">There seemed to be forty heads of families, many women, some unmarried, and many children.</seg> <seg type="Massacre" subtype="Spoils">They had three carriages; one very fine, in which ladies rode and to which he made several
+
+<pb n="180" xml:id="mmm.anti.beadle.1870.196"/>
+
+visits as he journeyed with them. There was something peculiar in the construction of the carriage, its ornaments, the blazoned stag's head upon the panels, etc." <seg type="Blame" subtype="LDS_LDS">This carriage was many years afterwards in the possession of the Mormons.</seg></seg></seg></p>
+
+<p>In <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> several disaffected Mormons joined the train, and all <seg type="Emigrants" subtype="Route">proceeded by the southern route</seg>. The train was last seen entire by <persName key="Hamblin, Jacob">Jacob Hamlin</persName>, Indian sub-agent for the Pah-Utes, who lived at the upper end of <geogName type="valley" key="Mountain Meadows">the Mountain Meadow</geogName>. He met them at Corn Creek, eight miles south of <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, while on his way to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Thenceforward no more was heard of the train; it was "lost," and a whole year had passed before any news of its fate reached the officials.</p>
+
+<p>Nor was it till many years afterwards, that all the damning facts in regard to its destruction were brought to light. But when revealed, it stands forth pre-eminent in shocking barbarity above all that has occurred in American history, scarcely equalled by aught in the old world, and certainly not by anything in the history of our English race. The massacre of Glencoe pales in comparison.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Without going into detail of the witnesses examined, or the evidence of each, suffice it to give events as they occurred, and as they were fully proved in various examinations since made. <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName> is three hundred miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, on the road to <placeName type="settlement" key="Los Angelos, CA">Los Angelos</placeName>, <placeName type="state" key="California">California</placeName>. <geogName type="valley" key="Mountain Meadows">The meadows</geogName> are about five miles in length and one in width, on the "divide" between the waters of the Great Basin and the Colorado. A very large spring rises near the south end, by which the <choice><orig>em-
+
+<pb n="181" xml:id="mmm.anti.beadle.1870.197"/>
+
+igrants</orig><reg>emigrants</reg></choice> camped for a few days, having been told by <persName key="Hamblin, Jacob">Hamlin</persName> that this was the best place to rest and recruit their stock before entering upon the Great Desert. Thirty-four miles below <geogName type="valley" key="Mountain Meadows">the Meadow</geogName> is a Mormon settlement on the Santa Clara; thirty miles north is <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and eighteen miles east of that is the town of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>. From the "divide" down to the Colorado, are a few Pah-Ute Indians, and north to <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, a small tribe of Pah-Vents. The day after the emigrants passed <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, a grand council was called there by Bishop <persName key="Higbee, John M.">Higbee</persName> and President <persName key="Haight, Isaac C.">J. C. Haight</persName> of that town, and Bishop <persName key="Lee, John D.">John D. Lee</persName> of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>. They stated that they had received a command from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> "to follow and attack those accursed Gentiles and let the arrows of the Almighty drink their blood."</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS">A force of sixty men was soon raised, and <seg type="Blame" subtype="IndiansLDSInfluence">joined with a much larger force of Indians</seg>, encircled the emigrants' camp before daylight. The white men had meanwhile painted and disguised themselves as Indians. A portion crept down a ravine near the camp, and fired upon the emigrants while at breakfast, <seg type="Massacre" subtype="Casualties">killing ten or twelve</seg>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The latter were completely taken by surprise, but seized their arms, shoved the wagons together, sunk the wheels in the earth, and got in condition for defence.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">The idea that enough of the Utes of that district could be got together to attack a train with fifty armed men, is too absurd to be entertained for a moment, and the emigrants had rested in the ease of fancied security.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">But their resistance was far greater than the <choice><orig>Mor-
+
+<pb n="182" xml:id="mmm.anti.beadle.1870.198"/>
+
+mons</orig><reg>Mormons</reg></choice> had expected; and there for an entire week, with their <seg type="Massacre" subtype="Casualties">women and children</seg> lying in the trenches they had dug, they maintained the siege and kept the savages, as they supposed, at bay. And all of this time, as testified by <persName key="Hamblin, Lucinda">Mrs. Hamlin</persName>, wife of <persName key="Hamblin, Jacob">the Agent</persName>, the shots were constantly heard at <persName key="Hamblin, Jacob">Hamlin</persName>'s ranche, and parties of Mormons, bishops, elders and laymen, were coming and going to and from the ranche, eating and drinking there, and "<hi rend="italic">pitching quoits and amusing themselves at various ways</hi>." They had the emigrants effectually secured, and could afford to divide time and slaughter the Gentiles at their leisure. <seg type="Massacre" subtype="Surrender">But at the end of a week they grew tired and resolved upon strategy. The firing ceased, and while the weary and heart-sick emigrants looked for relief, and hoped that their savage foes had given up the attack; they saw, at the upper end of the little hollow in which they were, a wagon full of men. The latter raised a white flag, and it was perceived they were white men. A glad shout of joy rang through the <hi rend="italic">corral</hi> at the sight of men of their own color, their protectors, as they had every reason to believe. They held up a little girl dressed in white to answer the signal, and the party entered. The wagon contained <persName key="Haight, Isaac C.">J. C. Haight</persName>, <persName key="Lee, John D.">John D. Lee</persName> and other dignitaries. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">They accused the emigrants of having poisoned a spring on the road used by the Indians, which was denied. It afterwards appeared in evidence that the spring ran so strong that "a barrel of arsenic would not have poisoned it."</seg></seg> The Mormons said they were on good terms with the Indians, but the latter were very angry, and would not let the emigrants escape.</seg></seg></seg>
+
+<figure xml:id="mmm.anti.beadle.1870.200.figure">
+<p>Mountain Meadow Massacre &#8212; 132 Emigrants Killed by Mormons and Indians.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="183" xml:id="mmm.anti.beadle.1870.201"/>
+
+<seg type="Massacre" subtype="Surrender">The Mormons would, however, intercede for the latter, if desired. This offer was gladly accepted, and after a few hours' absence the Mormons returned and stated that the Indians gave as an ultimatum, that the emigrants should give up all their property, <hi rend="italic">particularly their guns</hi>, and go back the way they came. The Mormons promised in this case to guard them back to the settlements. These hard terms were acceded to, and the emigrants left their wagons and started northward on foot.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The women and children were in front, the men behind them, and a Mormon guard of forty men in the rear. <seg type="Blame" subtype="IndiansLDSInfluence">A mile or so from the spring, the road runs through a thicket of scrub oaks, where are also many large rocks, and here a force of Indians lay in ambush. At an agreed signal, a sudden fire was poured into the body of emigrants, and then Mormons and Indians together rushed upon them, shooting, cutting their throats, beating them to death with stones and clubs and in a very few minutes <seg type="Massacre" subtype="Casualties">a hundred and twenty men, women and children, Americans, Christians, Gentiles, lay dead upon the ground, the miserable, hapless victims of Mormonism. The Mormons and Indians <seg type="Massacre" subtype="Casualties">fell upon the women, bit and <seg type="Massacre" subtype="Spoils">tore the rings from their fingers and ears</seg>, and trampled in the faces of the dying</seg>.</seg> <seg type="Massacre" subtype="SexualViolence">One young girl was dragged aside by President <persName key="Haight, Isaac C.">Haight</persName>, and kneeling implored him for life. He violated her with shameful barbarity, then beat out her brains with a club.</seg> Another young woman was taken out of the throng by <persName key="Lee, John D.">John D. Lee</persName>. He afterwards stated he intended to save her life and take her to his harem; but
+
+<pb n="184" xml:id="mmm.anti.beadle.1870.202"/>
+
+that she struck at him with a large knife, when he immediately shot her through the head. Three men escaped. One starved to death upon the desert, another was murdered by the Indians ninety miles south, and the third was killed upon the Colorado, by whom is not known.</seg> <seg type="Massacre" subtype="Survivors">Seventeen children were saved alive, who were supposed to be too young to remember anything about the circumstance. But two of them did, and afterwards gave important evidence.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">The children were first taken to <persName key="Hamblin, Lucinda">Mrs. Hamlin</persName>'s, and afterwards distributed among Mormon families in the neighborhood; <persName key="Dunlap, Sarah">one was shot through the arm and lost the use of it</persName>. They were all recovered two years after and returned to their friends in the States.</seg> <seg type="Massacre" subtype="Spoils">The property was divided, <seg type="Blame" subtype="IndiansLDSInfluence">the Indians getting most of the flour and ammunition</seg>; but they claim that the Mormons kept more than their share. Much of it was sold in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> <hi rend="italic">at public auction</hi>; it was there facetiously styled, "Property taken at the siege of Sebastopol;” and there is legal proof that the clothing stripped from the corpses, spotted with blood and flesh and shredded by bullets, was placed in the cellar of the tithing office and privately sold. As late as 1862, jewelry taken at <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, was worn in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and the source it came from not denied.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Such was the Mountain Meadow Massacre; and to the eternal disgrace of American justice, not one of the perpetrators has ever been punished according to law. But the vengeance of heaven has not spared them. Some of the young men in the Mormon party have since removed to <placeName type="state" key="California">California</placeName>, and others apostatized. They earnestly insist that they were never informed
+
+<pb n="185" xml:id="mmm.anti.beadle.1870.203"/>
+
+that any killing was intended; that they were told the only object was to turn back the emigrants and prevent their carrying information to <placeName type="state" key="California">California</placeName>; that no more than a dozen white men, besides the bishops and President, were in the secret, and that <seg type="Blame" subtype="IndiansLDSInfluence">these with the Indians did all the killing</seg>. This is the present belief of most of the Mormons, and they add that <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Lee, John D.">Lee</persName> forged the order from <persName key="Young, Brigham">Brigham Young</persName>, which was produced in extenuation of the crime. Two of the principal perpetrators are now insane. <persName key="Lee, John D.">John D. Lee</persName> still resides in <placeName type="settlement" key="Harmony, IL">Harmony</placeName>, no longer a bishop, and one can scarcely restrain a feeling of satisfaction at knowing that his life is one of misery. He is shunned and hated even by his Mormon neighbors, he seldom ventures beyond the square upon which he lives, his mind is distracted by an unceasing dread of vengeance, and his intellect disordered.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Though a too lenient government has failed of its duty, yet, in the sufferings of a fearful mind, he anticipates the hell his crimes deserve. Some months passed away before it was even whispered in the northern district that white men were concerned in this affair; and to the credit of the Mormon people be it said, a great horror spread among them at the report. A lady, then resident at <placeName type="settlement" key="Springville, UT">Springville</placeName>, told me that the people of that place first learned of the massacre the next spring, and the complicity of white men was put beyond doubt, in her mind, by the confession of her cousin, who was in the party but claimed he did not assist at the killing. "For weeks," she added: "I and the other women could not sleep for hearing the screams and groans of the poor creatures in our ears.
+
+<pb n="186" xml:id="mmm.anti.beadle.1870.204"/>
+
+We thought we saw signs in the sky. We trembled in dread. We wanted to run away from the land, for we thought it was cursed&#8212;that the vengeance of God would destroy everybody in the southern district." The lady escaped to Fort Bridger, and afterwards married a Gentile. The superstitious fears, of which she speaks, still rest in many minds; nor is it difficult to believe that, in the mysterious decrees of the moral order, the fearful stain must be washed out in blood. The guilty have escaped earthly justice; but to the eye of faith an avenging Nemesis is poised upon the mountains of southern <placeName type="state" key="Utah Territory">Utah</placeName>, and pointing to the plains below demands "blood for blood."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">One question remains: Did <persName key="Young, Brigham">Brigham Young</persName> know aught of, or give command for this massacre? The strong probability of course, is, that he did not. The majority of the Mormons, while they admit that church officials were concerned, yet claim that they acted without <persName key="Young, Brigham">Brigham</persName>'s knowledge, and his own family add, that when news of the affair was brought him, he burst into tears and said, "If anything could break up and destroy this people, that one act would do it." Against these opinions there are many strong proofs: the evidence of the Mormons <seg type="Blame" subtype="IndiansLDSInfluence">and Indians</seg> engaged in the affair; <seg type="Reaction" subtype="Silence">the failure of <persName key="Young, Brigham">Brigham</persName> to give any account of it, whatever, in his next report as Indian Superintendent; the complete silence of his organ, the Church paper, on the subject;</seg> his sermon "turning loose the Indians on emigrants;" the fact <hi rend="italic">that <persName key="Lee, John D.">John D. Lee</persName> is his son by Mormon "adoption" and has never been punished</hi>; the testimony of the young Mormons who escaped from <placeName type="settlement" key="Harmony, UT">Harmony</placeName> in <placeName type="state" key="California">California</placeName>, and more than all else, the overwhelming
+
+<pb n="187" xml:id="mmm.anti.beadle.1870.205"/>
+
+certainty that no fact of great importance is ever entered upon without the advice and consent of <persName key="Young, Brigham">Brigham Young</persName>. An attempt was made by Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, in the autumn of 1859, to bring the murderers to justice, which failed from causes to be hereafter fully explained&#8212;"Mormon courts and juries.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">I resume the regular history. On the 15th of September, 1857, <persName key="Young, Brigham">Brigham</persName> issued a proclamation putting <placeName type="state" key="Utah Territory">the Territory</placeName> under martial law; all the militia and able-bodied men were ordered "to hold themselves in readiness to march at a moment's notice to repel invasion," and Lieutenant-General <persName key="Wells, Daniel H.">Daniel H. Wells</persName> was ordered with two thousand men to "occupy the passes of the Wasatch mountains, to defend their hearths and homes against the violence of the army." Echo Ca&#241;on was fortified, and orders issued to harass the Federal Army in every way, by driving off stock, burning wagons and blocking up the roads, but to take no lives till further ordered. Besides several other papers, <persName key="Young, Brigham">Brigham</persName> sent to the commander of the United States forces the following remarkable document:</seg></p>
+
+<p><hi rend="right">"G<hi rend="smallcaps">overnor's</hi> O<hi rend="smallcaps">ffice</hi>, U<hi rend="smallcaps">tah</hi> T<hi rend="smallcaps">erritory</hi>,</hi></p>
+
+<p><hi rend="right"><hi rend="smallcaps"><placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName></hi>, <hi rend="italic">September</hi> 29, 1857.</hi></p>
+
+<p>"S<hi rend="smallcaps">ir</hi>: By reference to the Act of Congress, passed September 9, 1850, organizing <placeName type="state" key="Utah Territory">the Territory of Utah</placeName>, published in a copy of the Laws of <placeName type="state" key="Utah Territory">Utah</placeName>, herewith, p. 146, Chap. 7, you will find the following: </p>
+
+<p>"'S<hi rend="smallcaps">ec</hi>. 2. <hi rend="italic">And be it further enacted</hi>, That the executive power in and over said <placeName type="state" key="Utah Territory">Territory of Utah</placeName> shall be vested in a Governor, who shall hold his office for four years, <hi rend="italic">and until his successor shall be appointed and</hi>
+
+<pb n="188" xml:id="mmm.anti.beadle.1870.206"/>
+
+<hi rend="italic">qualified</hi>, unless sooner removed by the President of the United States. The Governor shall reside within <placeName type="state" key="Utah Territory">said Territory</placeName>, shall be Commander-in-Chief of the militia thereof,' etc., etc.</p>
+
+<p>"I am still the Governor and Superintendent of Indian Affairs for <placeName type="state" key="Utah Terrtitory">this Territory</placeName>, no successor having been appointed and qualified, as provided by law, nor have I been removed by the President of the United States.</p>
+
+<p><seg type="Context" subtype="UtahWar">"By virtue of the authority thus vested in me, I have issued and forwarded you a copy of my proclamation, forbidding the entrance of armed forces into <placeName type="state" key="Utah Territory">this Territory</placeName>. This you have disregarded. I now further direct that you retire forthwith from <placeName type="state" key="Utah Territory">the Territory</placeName> by the same route you entered. Should you deem this impracticable, and prefer to remain until spring in the vicinity of your present encampment, Black's Fork, or Green River, you can do so in peace, and unmolested, on condition that you deposit your arms and ammunition with <persName key="Robionson, Lewis">Lewis Robinson</persName>, Quartermaster-General of <placeName type="state" key="Utah Territory">the Territory</placeName>, and leave in the spring, as soon as the condition of the roads will permit you to march. And should you fall short of provisions, they can be furnished you by making the proper applications therefor.</seg></p>
+
+<p>"General <persName key="Well, D. H.">D, H. Wells</persName> will forward this, and receive any communications you may have to make.</p>
+
+<p><hi rend="right">"Very respectfully,</hi></p>
+
+<p><hi rend="right">"<hi rend="smallcaps"><persName key="Young, Brigham">Brigham Young</persName></hi>,</hi></p>
+
+<p>"<hi rend="italic">Governor and Superintendent of Indian Affairs, <placeName type="state" key="Utah Territory">Utah Territory</placeName></hi>.</p>
+
+<p>"To the Officer commanding the Forces now invading <placeName type="state" key="Utah Territory">Utah Territory</placeName>."</p>
+
+<pb n="189" xml:id="mmm.anti.beadle.1870.207"/>
+
+<p><seg type="Context" subtype="UtahWar">It is difficult to believe that the Federal forces were handled with any skill whatever, the official report indicating that troops and supplies were scattered without order all the way from Green River to the head of Echo Ca&#241;on; and the following extract from the official report will show that the Mormon forces were "obeying orders:"</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"Forts Bridger and Supply were vacated and burned down. Orders were issued by <persName key="Wells, Daniel H.">Daniel H. Wells</persName> (Lieut.-General Nauvoo Legion) to stampede the animals of the United States troops on their march, to set fire to their trains, to burn the grass and the whole country before them and on their flanks, to keep them from sleeping by night surprises, and to block the roads by felling trees and destroying the fords of rivers.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">"On the 4th of October, 1857, the Mormons, under Captain <persName key="Smith, Lot">Lot Smith</persName>, captured and burned on Green River, three of our supply trains, consisting of seventy-five wagons loaded with provisions and tents for the army, and carried away several hundred animals."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Late in the fall the army halted at Fort Bridger, and wintered at a place which was called Camp Scott. November 21st, the newly-appointed Governor, <persName key="Cumming, Alfred">Cumming</persName>,issued a proclamation, which might be summed up in a little advice to the Mormons "to go home and obey the laws, and they would not be molested."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">While matters were in <hi rend="italic">statu quo</hi>, in January, 1858, Colonel <persName key="Kane, Thomas L.">Kane</persName>, the old friend of the Mormons, proceeded to <placeName type="state" key="California">California</placeName> by sea, thence into <placeName type="state" key="Utah Territory">Utah</placeName> by the southern route, and reaching <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, opened negotiations with <persName key="Young, Brigham">Brigham Young</persName>. Soon after he was escorted by
+
+<pb n="190" xml:id="mmm.anti.beadle.1870.208"/>
+
+<persName key="Rockwell, Porter">Porter Rockwell</persName> and <persName key="Kimball, Daniel">Daniel Kimball</persName> through the Mormon army, and thence found his way to Fort Bridger, and had a lengthy interview with the Federal officials. The result was that Governor <persName key="Cumming, Alfred">Cumming</persName> accompanied him on his return, and was permitted to pass through the Mormon forces to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. He was much flattered with his reception, particularly by an illumination in his honor, of Echo Ca&#241;on, which they passed in the night. They were escorted by <persName key="Kimball, Heber C.">Kimball</persName> and <persName key="Rockwell, Porter">Rockwell</persName>, and reached the city early in the spring; the Mormons hastened to assure him that "the rebellion in <placeName type="state" key="Utah Territory">Utah</placeName> was a pure invention," and the records which were supposed to have been destroyed, were produced entire! They had only been concealed.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Such flattery and attention were bestowed upon the Governor that he was completely captivated, and such earnest representations made that he was soon convinced the Mormons were an innocent and much abused people, and was anxious to spare them all humiliation possible. But he could not control the army which had orders from the Secretary of War. He reported a "respectful reception" to <placeName type="settlement" key="Washington, DC">Washington</placeName>, and on the 12th of April, Mr. <persName key="Buchanan, James">Buchanan</persName> appointed <persName key="Powell, L. W.">L. W. Powell</persName>, of <placeName type="state" key="Kentucky">Kentucky</placeName>, and <persName key="McCulloch, Ben">Ben McCulloch</persName>, of <placeName type="state" key="Texas">Texas</placeName>, as "Peace Commissioners," and by them sent a proclamation of pardon! But <persName key="Young, Brigham">Brigham Young</persName> had given orders for a move, and early in April, 20,000 people from the city and north of it started south, they knew not where, but many supposed it was to Mexico. Governor <persName key="Cumming, Alfred">Cumming</persName> in vain implored them to remain. Old Mormons have often described to me how he stood
+
+<pb n="191" xml:id="mmm.anti.beadle.1870.209"/>
+
+upon the street as the long trains rolled southward, with the tears streaming from his eyes, and protested, "if he followed his feelings he would rather go with them than remain with the apostates."  Late that month he issued a proclamation offering "protection to all illegally restrained of their liberty in <placeName type="state" key="Utah Territory">Utah</placeName>," but few availed themselves of it. The latter part of May, the Peace Commissioners arrived, and had an interview with the leading Mormons. The latter stipulated that the army should not be stationed within forty miles of the city; that they should protect private property; should march through the city without halting, and must not encamp till they passed the Jordan. They promised on their part everything that was asked and "accepted the President's pardon."</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">June 26th the Federal army marched through the deserted city, led by Lieutenant-Colonel <persName key="Cooke, Philip St. George">Cooke</persName>, who, according to Mormon account, "rode with his head uncovered." Their permanent camp was at a point west of Utah Lake, and forty miles south of the city, which was named Camp Floyd. Late in the season the absent Mormons returned to their homes in great poverty and destitution, and the "Mormon war" was ended. The Federal officials entered again upon their duties; courts were reopened and attempts made to administer justice; but no grand jury would indict and no petty jury convict, and criminals went "scot free.” The following cases appear upon the record:</seg></p>
+
+<p>"During the sitting of Judge <persName key="Sinclair, Charles">Sinclair</persName>'s Court, the Mormon Grand Jury promptly found a bill of indictment against one <persName key="Pike, Ralph">Ralph Pike</persName>, a Sergeant in Company
+
+<pb n="192" xml:id="mmm.anti.beadle.1870.210"/>
+
+I, of the 10th Infantry, United States Army, for an assault with intent to kill, committed upon one <persName key="Spencer,  Howard O.">Howard Spencer</persName>, the son of a Mormon bishop, at the military reserve in Rush Valley. Upon <hi rend="italic">capias</hi> issued, <persName key="Pike, Ralph">Pike</persName> was arrested and brought to Great <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. The day following, August 11, 1858, about 12 o'clock, M., as <persName key="Pike, Ralph">Pike</persName> was entering the Salt Lake House, on Main street, <persName key="Spencer, Howard O.">Spencer</persName> stepped up to him from behind, saying, 'Are you the man that struck me in Rush Valley?' at the same time drawing his pistol, and shot him through the side, inflicting a mortal wound. <persName key="Spencer, Howard O.">Spencer</persName> ran across the street, mounted his horse and rode off accompanied by several noted 'Danites.' <persName key="Pike, Ralph">Pike</persName> lingered in dreadful agony two days before he died. The 'Deseret News,' in its next issue, lauded young <persName key="Spencer, Howard O.">Spencer</persName> for his courage and bravery.</p>
+
+<p>"A man by the name of <persName key="Brown, Chalres M.">Drown</persName> brought suit upon a promissory note for $480, against the 'Danite' captain, <persName key="Hickman, Bill">Bill Hickman</persName>. The case being submitted to the court, <persName key="Brown, Chalres M.">Drown</persName> obtained a judgment. A few days afterwards <persName key="Brown, Chalres M.">Drown</persName> and a companion named Arnold were stopping at the house of a friend in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, when <persName key="Hickman, Bill">Hickman</persName> with some seven or eight of his band rode up to the house and called for <persName key="Brown, Chalres M.">Drown</persName> to come out. <persName key="Brown, Chalres M.">Drown</persName> suspecting foul play refused to do so and locked the doors. The Danites thereupon dismounted from their horses, broke down the doors and shot down both <persName key="Brown, Chalres M.">Drown</persName> and <persName key="Arnold, Josiah">Arnold</persName>. <persName key="Brown, Chalres M.">Drown</persName> died of his wounds next morning, and <persName key="Arnold, Josiah">Arnold</persName> a few days afterwards. <persName key="Hickman, Bill">Hickman</persName> and his band rode off unmolested.</p>
+
+<p>"Thus, during a single term of the court held in a Mormon community, the warm life-blood of three human
+
+<pb n="193" xml:id="mmm.anti.beadle.1870.211"/>
+
+victims is shed upon the very threshhold of the court; and although the Grand Jury is in session no prosecution is attempted, and not one of the offenders brought to justice."</p>
+
+<p>Soon after, a deaf and dumb boy named <persName key="Bernard, Andrew">Andrew Bernard</persName> was killed in Weber Ca&#241;on, as was pretty clearly proved by <persName key="Hanks, 'Ephe'">"Ephe" Hanks</persName>, a noted "Danite;" and an apostate named <persName key="Forbes, Henry">Forbes</persName> was found dead. The same year one <persName key="Jones, Henry">Henry Jones</persName> and his mother living near <persName key="Salem, UT">Pondtown</persName>, south of Utah Lake, were accused of horse-stealing by their neighbors. They were attacked at night and the woman instantly killed; the young man escaped and ran some two miles pursued by the "Danites." He was finally captured and a pistol placed to his ear and discharged, blowing his head to pieces. Both the bodies were placed in their dwelling, a "dug-out" half under the ground; the roof was then thrown down upon them and covered with dirt, making that their only grave. The next winter a Mormon bishop of that locality killed one of his wives for alleged infidelity, and one <persName key="McNeil, Franklin">Franklin McNeil</persName>, who had sued <persName key="Young, Brigham">Brigham Young</persName> for false imprisonment, was shot dead in his own door.</p>
+
+<p>Another abomination of that bloody period was not brought to light till long after.</p>
+
+<p>Early in 1858, while the army was yet at Fort Bridger, eighty discharged teamsters started through the city to <placeName type="state" key="California">California</placeName>. An officer of the Nauvoo Legion was informed that he would find a "trusty force," at a certain place, with which to guard them through, and received the following order:</p>
+
+<pb n="194" xml:id="mmm.anti.beadle.1870.212"/>
+
+<p><hi rend="right">'<hi rend="smallcaps"><placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName></hi>, <hi rend="italic">April</hi> 9<hi rend="italic">th</hi>, 1858.</hi></p>
+
+<p><seg type="Context" subtype="UtahWar">"The officer in command of escort is hereby ordered to see that every man is well prepared with ammunition and have it ready at the time you see those teamsters a hundred miles from the settlements. President <persName key="Young, Brigham">Young</persName> advises that they should be all killed to prevent them from returning to Bridger to join our enemies. Every precaution should be taken, and see that not one escapes. Secrecy is required.</seg></p>
+
+<p>"By order of General <persName key="Wells, Daniel H.">Daniel H. Wells</persName>.</p>
+
+<p><hi rend="right">"<hi rend="smallcaps"><persName key="Ferguson, James">James Ferguson</persName></hi>,</hi></p>
+
+<p><hi rend="right">"<hi rend="italic">Assistant Adjutant General</hi>."</hi></p>
+
+<p>The officer refused to execute the order, for which his life was threatened. He took refuge at the Federal camp and was sent out of <placeName type="state" key="Utah Territory">the Territory</placeName>. The signature of <persName key="Ferguson, James">Ferguson</persName> is authenticated by two Mormons, formerly merchants in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Several years after, the widow of <persName key="Ferguson, James">Ferguson</persName> called upon a Federal Judge who had the writing in his possession. She stated that she had heard the rumor that there was such a paper and desired to see it.</p>
+
+<p>It was not given to her but spread upon the desk for her inspection. She read it through, turned deadly pale, and rushed out of the room without saying a word. Through 1858 and '59 various difficulties occurred; Governor <persName key="Cumming, Alfred">Cumming</persName> did not sustain the judiciary in their efforts, and finally an order was received from<placeName type="settlement" key="Washington, DC"> Washington</placeName> that the troops were not to be used as a posse to aid the United States Marshal in making arrests. This, of course, completely put an end even 
+
+<pb n="195" xml:id="mmm.anti.beadle.1870.213"/>
+
+to the attempt to administer justice. But the entrance of the army had done good in a variety of ways; stage and mail lines had been established; means of intelligence had been multiplied, and a considerable Gentile influence established, and we gladly turn away from the dark period of crime and degradation, and enter upon the era in which outside influence began to produce good effects even in <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18590429">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	   	<title level="m" type="main">Important From Utah</title>
+				<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18590429</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">New York Times</title>
+		    <title level="a" type="main">Important from Utah</title>
+		    <author></author>
+		   <publisher></publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		   <date when="1859-04-29">April 29, 1859</date>
+	 	</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	   </keywords>
+	</textClass>
+   </profileDesc>
+
+   <revisionDesc>
+	<change when="2011-05-05"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie Heupel</name> Original Transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18590429.001"/>
+
+<div1 type="newspaper">
+
+<head type="main">IMPORTANT FROM UTAH.</head>
+<milestone unit="horbar" />
+
+<head type="sub">The Mormons Again Disaffected.</head>
+<milestone unit="horbar" />
+<head type="sub">Collision Between the Judicial Authorities and the Mormons</head>
+<milestone unit="horbar" />
+<head type="sub">The Refusal of the Grand Jury to Perform its Duties&#8212;The Judge calls upon the Military&#8212;Action of the Governor&#8212;Outbreak amoung the People&#8212;General Turbulence and Popular Commotion</head>
+
+<milestone unit="horbar" />
+<div2>
+<head type="sub">From Our Own Correspondent.</head>
+<dateline>Provo City, Utah Territory,
+Sunday, March 27, 1859.</dateline>
+
+<p><seg type="Context" subtype="TerritorialAdministration">We have suddenly reached a most important crisis in the affairs of <placeName type="settlement" key="Utah Territory">this Territory</placeName>.  <seg type="Context" subtype="LDSPersecution">The events connected with the present session of the United States District Court in this city, are fraught with the deepest interest, as they have put an entirely new phase upon the aspect of the Mormon question.  It is now settled that the Judiciary of <placeName type="state" key="Utah Territory">the Territory</placeName> are powerless without the assistance of the military, and that in confining themselves strictly within the bounds furnished by precedents in the Judicial annals of our country, they become mere tools in the hands of an organized confederacy of villains.</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">It is now to be determined whether the troops now in <placeName type="state" key="Utah Territory">this Territory</placeName> are to remain here at an expense of millions of dollars to the nation, merely to act as wooden men&#8212;scarecrows&#8212;or whether they are to assist in asserting and maintaining the supremacy of the law and justice among us.</seg></p>
+
+<p>In order that the public and yourself may be fully informed in regard to the condition of affairs a <unclear /> exisiting here, we shall as briefly as possible give you a complete history of the present session of the United States District Court (Second Judicial District) in this city with the incidents conrected therewith.</p>
+
+<p>We informed you, in a former communication, that soon after the adjournment of the United States Court in <placeName type="settlement" key="Salt Lake City">Great Salt Lake City</placeName>, Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName>, of this District, had received important information relative to crimes which were committed in his District. We now learn that <unclear /> then Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName> has satisfied himself beyond a doubt that <seg type="Massacre" subtype="Casualties">the massacre of a train of emigrants</seg> <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg>, <seg type="Massacre" subtype="Casualties">numbering 140 souls</seg>, <seg type="Massacre" subtype="Location">at the Mountain Meadows</seg>, <seg type="Massacre" subtype="Dates">in the fall of 1857</seg>, <hi rend="italic"><seg type="Blame" subtype="LDS_LDSLeadership">was committed by leading Mormons</seg></hi>, <seg type="Blame" subtype="IndiansLDSInfluence">assisted by tthe Indains</seg>, and also that the murders of the two PAR <unclear /> (father and son) and <persName key="Potter, 'Duff'">POTTER</persName> and <persName key="Forbes, Henry">FORBSS</persName>, at <placeName type="settlement" key="Springville, UT">Springville</placeName>; of <persName key="Jones, Henry">JONES</persName> and his mother, at Spanish FORK; of LANCE, at <unclear />; and of others committed in his District, <seg type="Blame" subtype="LDS_LDSLeadership">were also perpetrated at the instigation and command of the Church leaders.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Reaction" subtype="MilitaryRetaliation">There being no jail, or any kind of a prison, or suitable place of confinement in the District, and the Legislature having made no provision of law for keeping and sustaining prisoners, the Judge found himself compelled, from necessity, to make a <sic>requition</sic> upon General <persName key="Johnston, Albert Sidney">JOHNSTON</persName> for sufficient detachment of the troops to guard such prisoners as were already or might be arrested.  This requisition was promptly complied with, and Company F., of the Tenth Infantry, and a small detachment from the Seventh and Fifth Infantry, numbering altogether seventy men, under command of Captain <persName key="Heth, Henry">HENRY HETH</persName> and First Lieutenant <persName key="Dudley, N. A. M.">N. A. M. DUDLEY</persName>, of the Tenth, were placed at his disposal for this purpose.</seg></seg></p>
+
+<p>The United States Marshal rented a school house in this city, which has been on previous occasions been used as a Court-room, together with the adjoining vacant grounds, at the rate of $10 per day for the use of the Court.</p>
+
+<p>On Tuesday morning, the 8th of March, the Court was organized, with a Mormon Clerk and a full Mormon Grand and Petit Juries, and on the same day Captain <persName key="Heth, Henry">HETH</persName> arrived with his Company, and encamped on the vacant lot adjoining the Court-house, he having already in his custody some offenders, who had been committed to await their trial at this term of the Court.</p>
+
+<p>The Judge, upon the organization of his Court, delivered a charge to the Grand Jury.  Desirous that the Grand Jury should have no possible excuse for avoiding their responsibility in the cases which were to be brought before them, and also to ascertain fully whether it were possible to obtain justice from them, the Judge took the extraordinary precaution of calling most pointedly and decidedly their attention to crimes which have been committed almost within sight of the Court-house door.</p>
+
+<p><seg type="Context" subtype="ParrishMurder">The Judge, before the Grand Jury were sworn, discharged one of those summoned on the panel, named <persName key="Earl, Wilber J.">WILBER J. EARL</persName>, stating to him in open Court, as his reason, that he had an affidavit before him implicating him as one of the principal actors in the murder of <persName key="Parrish, William">PARRISH</persName> and <persName key="Potter, 'Duff'">POTTER</persName>.</seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">Immediately upon the arrival of the company of soldiers, the leading citizens of <placeName type="settlement" key="Provo, UT">Provo</placeName> commenced creating a stir among the populace in regard to their presence in the city.  The police force was doubled, as they asserted, to prevent the indignant citizens from attacking the soldiers.</seg></p>
+
+<p>Shortly after arriving here, the Judge called in the Sheriff of the county, and inquired of him if there was any jail or place of confinement in which to keep prisoners.  The Sheriff replied that they had <q>"no jail here, but that he thought that the prisoners might be secured in the cellar under the building in which the Court is held."</q>  The Judge then inquired if they would be safe there.  He replied that <q>" they might be kept there, if there was a sufficient guard put around them."</q></p>
+
+<p>On Thursday, the 10th inst., after tow days' deliberation, the Grand Jury brought in two bills of indictment one against two Indians, named <persName key="Mose">MOSE</persName> and <persName key="Looking Glass">LOOKING GLASS</persName>, who were removed from the Tairi District to this one for trial, on a charge of assault, with intent to commit a rape, on a Danish Mormon girl; the second against a Mormon, for procuring and enticing soldiers to desert.</p>
+
+<p>On the 12th inst., the following correspondence passed between the Mayor and Common Council of <placeName type="settlement" key="Provo, UT">Provo</placeName> and Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName>.</p>
+
+<floatingText>
+<body>
+<dateline><placeName type="settlement" key="Provo, UT">Provo</placeName>, March 11, 1859</dateline>
+<p>To the Hon. <persName key="Cradlebaugh, John">John Cradlebaugh</persName>, Associate Justice of the Supreme Court of the United States for <placeName type="state" key="Utah Territory">Utah Territory</placeName>, and ex-offices Judge of the Second Judicial District: Your memo <unclear />, the Mayor and Church of <placeName type="settlement" key="Provo City, UT">Provo City</placeName> <unclear /> leave respectfully to represent that. Whereas, the City Council have received petitions from the various wards of the city representing that a detachment of the United States troops for several days pas have been encamped on the seminary lot, <unclear /> as occupying the west lower room of the seminary building without the consent of the Council or citizens of this city, and to the no small annoyance of the community. <unclear /> directly to intimidate these persons who have occasion to attend the District Court, now in session in the seminary; and also, rendering it exceedingly difficult for the officers of the city to preserve the peace between the unruly portion of the citizens and soldiers, several unpleasant circumstances having a <unclear /> occurred and their present <unclear /> around the seminary <unclear /> of a military interference with the municipal <unclear /> of 
+American citizens:</p>
+
+<p>Your memorialists respectfully pay your <unclear /> to came the immediate removal of the troops <unclear /> ing the seminary and vicinity, <unclear />, out the limits of the city.  And your memorialists as in duty <unclear /> will ever pray.</p>
+
+<p>On behalf of the City Council.
+B K. BULLOCK, Mayor.</p>
+</body>
+</floatingText>
+
+<p>Judge <persName key="Cradlebaugh, John">CradleRADLEBAUGH</persName> replied:</p>
+
+<floatingText>
+<body>
+<opener><dateline><placeName type="settlement" key="Provo City, UT">Provo City</placeName>, March 12, 1859.</dateline>
+
+<salute><hi rend="italic">To the Honorable the Mayor and City Council of <placeName type="settlement" key="Provo, UT">Provo</placeName></hi>:</salute>
+</opener>
+<p>GENTLEMEN&#8212;Your letter of the 11th inst. has fast been received.  In reply to it I take occasion to say that the movement of a company of infantry to this city, and their temporary location here was well considered before it was determined upon.  It was a matter of necessity. There were a number of prisoners to be tried before my Court; neither the Territory nor the city afforded a jail or other place of confinement for them.  No manner of provision had been made for their support or <unclear /> 
+neither by the Territory nor your city.  To secure these prisoners and to maintain them are duties that I <unclear /> any office and to them.</p>
+
+<p>I have adopted the only means left me of accomplishing these <unclear />  The military company, kindly furnished by the commanding General, <unclear /> and support these prisoners.  That this small force should be pear the Court-house, or the building used as such, <unclear /> only a matter of convenience, but of necessity to the Court.  This I will say, however, that so soon as I can dispense with their most useful services, I shall do so. </p>
+
+<p>You speak of their being here to the annoyance of the citizens of this city and intimidation of those persons having business with the District Court.</p>
+
+<p>When, where, or in what manner these soldiers have <sic>nnoyed</sic>, or interfered with the citizens of <placeName type="settlement" key="Provo, UT">Provo</placeName>, I challenge<cb n="2" /> 
+you to show.  A more quiet, orderly set of men I never saw; they have deported themselves with a propriety and decorum truly remarkable.</p>
+
+<p>As to your remark about intimidation, allow me to say that good American citizens have no cause to fear American troops.</p>
+
+<p>I am, gentlemen, your obedient servant,
+<persName key="Cradlebaugh, John">JOHN CRADLEBAUGH</persName>."</p>
+</body>
+</floatingText>
+
+<p>On the 15th the City Council sent a rejoinder to the Judge's letter in which they asserted that they were ready and willing to "secure and safely protect any number of prisoners;</p>
+
+<p>That the lives and liberties of all persons accused are jeopardized by the examination of witnesses and <sic>sotion</sic> of jurors, under the influence of a military intimidation and espionage.</p>
+
+<p>We have been under the necessity of doubling the police force and exerting ourselves to prevent indignant citizens from doing violence to the soldiers."</p>
+
+<p>They also asserted most falsely that the soldiers had been disorderly, and then continued in among high-flown strain of indignation, of which the following passage is fair specimen:</p>
+
+<q><p>"Your Honor says that good American citizens have no cause to fear American troops.  The gallantry of our officers, the discipline and bravery of our soldiers, have <unclear /> armies a terror to the enemies of liberty throughout the world; but when, through prejudice, political intrigue, speculative selfishness, or other causes, these gallant arms are placed in a position to intimidate American citizens, why should they not fear?</p>
+
+<p>Honored Sir, when our gallant army, or any portion thereof, is degraded by any cause whatever, from that high position which the Constitution and laws have given it, as the arm of national defense, to the law station of supplanting the civil power, it must most certainly be feared by every American citizen, not <unclear /> to the perpetuity of our national institutions.  As a beginning a single crops. highly honored for its discipline, the superior skill and scientific attainments of its officers is placed out of <unclear /> constitutional sphere to perform the duties of sheriff, marshal or jailor, the military power then supersedes the civil, in a limited degree to be sure, but military power seldom retrogrades and jurors are controlled by them; the court follows in the wake&#8212;that bulwark of human liberty- an independent, high-minded judiciary, sustained by the people, is thus annihilated&#8212;the legislative and executive departments are soon overcome, and the sword of a Julius Caesar puts an end to the whole fabric of liberty."</p></q>
+
+<p>The Judge also received a petition, signed by the witnesses on the part of the prosecution, summoned here in the different cases, praying that the troops might be kept here for their protection.</p>
+
+<p>In the mean time, the time of the Court was taken up, during its sessions, with the naturalization of aliens, some eighty or one hundred of whom were admitted to citizenship.</p>
+
+<p>The Judge, on this subject, decided that no one who has borne arms against the United States during the five years next preceding his application could be admitted to citizenship, on the ground that he had not behaved as a man <q>"attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the same,"</q> and therefore allowed the examination of witnesses on that point.</p>
+
+<p>On the 14th inst., Gov. CUMMING arrived here from <placeName type="settlement" key="Salt Lake City">Great Salt Lake City</placeName>, and a few days after he addressed a letter to Gen. JOHNSTON, in which (as we understand), after stating that a detachment of troops are encamped here against the repeated protests of the inhabitants, and that although he had been here several days, Capt. HETH had not reported officially to 
+him, he requests the General promptly to order the removal of the command from the city.  He also adds that he is satisfied that the presence of the military here is unnecessary, and that should be hereafter have reason to believe that they were necessary where, he would promptly take measures to secure their services to act as a posse <unclear />.</p>
+
+<p>In reply, Gen. JOHNSTON probably told the Governor that he himself was commander of the army of <placeName type="state" key="Utah Territory">Utah</placeName>, and would send his troops where he thought cast, and that if Capt. HETH had reported officially to him as Governor he would have been guilty of gross military impropriety, but we do not know definitely what the reply of the General was.  We know only this, that the troops have not been removed, but that, on the contrary, more have been sent to their aid.</p>
+
+<p>Under the laws of the Territory the Grand Jurors are selected by the Clerk of the County Court, (the County Commissioners are here styled the Country Court.) and on Wednesday, the 16th inst., the Grand Jury still failing to report, although some ten witnesses had been examined, and the Judge being fully satisfied from the composition of the Jury that the Commissioners had been examined, and the Judge being fully satisfied from the composition of the Jury that the Commissioners had designedly placed upon the panel the very persons engaged in the commission of these murders with their relatives and friends, in order to prevent any bills from being reported, he commenced the examination of the witnesses in the Parrish case himself, acting in his capacity as a committing magistrate, and upon the evidence adduced issued warrants for the arrest of a number of persons implicated.</p>
+
+<p>On the day following&#8212;MCDONAL, who was Mayor at the time of the murder, and&#8212;DAILEY, a policeman, and KEARNS, the Marshal of Springville were arrested and put under guard.</p>
+
+<p>On the 18th, KIMBALL BULLOCK, the Mayor of this city was arrested, but the next day, upon further examination, was released.</p>
+
+<p>In the meantime the demonstrations of the people against the soldiers became so positive that Capt. HETH fearing that an attempt would be made to rescue the prisoners in his hands from him -sent to Gen. JOHNSTON for assistance -whereupon on the 10th inst., a force consisting of eight companies of Infantry (three from the Tenth and five from the Seventh,) with one section of artillery and one company of dragoons were sent under the command of Brevet-Major G.R. PAUL, of the Seventh, and encamped on the <geogName type="waterway" key="Provo River">Provo River</geogName>, about 6 miles above the city.  They have since moved and encamped within four miles of the city so as to be ready for any emergency. These soldiers are under the strictest discipline and are not permitted to approach the city -so that they do not in any manner molest the citizens. Upon continuing the examination of the witnesses LORIN JOHNSON, another member of the Grand Jury, was implicated in the Parrish murder -ac also <persName key="Johnson, Aaron">AARON JOHNSON</persName>, the Bishop of Springville, and 
+<persName key="Snow, Joseph C.">JOSEPH C. SNOW</persName>, the President, of the <placeName type="settlement" key="Provo, UT">Provo</placeName> Stake.  These men, however, <unclear /> fled and escaped before the Marshal could arrest them, and it is said have got e into the mountains.  <seg type="Blame" subtype="LDS_LDSLeadership">The Bishops of <seg type="Massacre" subtype="Location">Paronem and Cedar City, near the scene of the
+Mountain Meadows massacre</seg>, have also fled; and, in fact, you can now scarcely find a leading Bishop, teacher or other prominent churchmen in the southern settlements -they have all secreted themselves.</seg></p> 
+
+<p>On Monday, the 21st inst, the Grand Jury not having examined a single witness wince the preceding Wednesday, and still refusing to make any report whatsoever, were discharged by the Judge, who made to them some very pointed remarks on the occasion. </p>
+
+<p>On the same day, the Mormon who had been indicted for enticing soldiers to desert, was tried and acquitted by the Petit Jury.   The Judge then discharged the Petit Jury.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The ensuing morning, the prisoners who were held to answer before the Court, including the two Indians MORE and LOOKING GLASS, were discharged from the custody of the court, the Judge stating to them that they were not discharged because
+of any proof of their innocence, and that they had really committed any offences the probability was that they would yet be punished for them, but that as there seemed to be an effort here to cover up any crimes and offenses committed by the Mormons, this Court had determined not to be used by this community for his protection against "Gentiles" and in <unclear />, until a disposition was manifested to punish its own high offenders.</seg>  And that if the community could not be brought to a proper sense of duty in any other way the Court would assume the responsibility of turning criminal loose to prey upon criminal,-for the Courts could not be used inertly to punish one set of criminals and protect another in the commission of even more flagrant crimes.  He moreover told the Indians that they might remain with the soldiers, for protection until they returned to camp.</p> 
+
+<p>The Judge has <unclear /> then adjourned the Court from day to day, but has been daily engaged is the <unclear /> <unclear /> of witnesses in the murder cases.</p>
+
+<p>The evidence adduced is astounding, and will form a dark, dark chapter in our history.  We shall be <unclear /> <unclear /> by the <unclear /> mail to forward you the particulars of this evidence and you will then perceive the importance of the decisive steps which Judge GRADLEBAUGH has taken.</p>
+
+<p>Without the assistance of the military nothing could have been done.  Every single witness who has to <unclear /> <unclear /> has sought home lately the protection of the <unclear /> not dare to leave it.  They are in the greatest fear of the "destroying angels." for they have seen their work before.  Two came arrests have been made of men who attempted to escape to Salt Lake City; when they reached there, however, their lives were threatened by some who feared that they might be induced to testify and fearing that the threats would be carried into execution, they sought the protection of Secretary HARTNETT.  <seg type="Context" subtype="ParrishMurder">One of them, named DURTEE, is the man who led the PARRISES and POTIER out when they were killed; he acknowledges his guilty participation in the crime, and is anxious to become State's evidence.</seg></p>
+
+<p>There are several witnesses now under the protection of the troops, who can identify the devils who led on the parties how massacred and butchered the California emigrants <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</p>
+
+<cb n="3" />
+<p>In Salt Lake City the greatest excitement has prevailed in consequence of the movements here.  The Mormons are all under arms and have spies out day and night.  Expresses run from here there every few hours.</p>
+
+<p>The Governor returned to the city on the 23d inst., and on the night of the 25th a long memorial was presented to him, a copy of which I herewith enclose to you.  It is a tissue of falsehoods from beginnings to end.</p>
+
+<p>The Desert News issued an Extra on the night of the 25th, containing copies of the petitions sent to Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName> and of the memorial to the Governor. This sheet is full of misrepresentations. One of the prominent falsehoods is the statement that the Grand Jury sent a remonstrance to the Judge upon their discharge.  This is not so, the Judge has never received a single word or line from them.</p>
+
+<p>The following are extracts from this document:</p> 
+
+<q><p>"It has pleased Judge <persName key="Cradlebaugh, John">CradleRADLEBAUGH</persName> to set aside, in several instance, the civil authorities, and, without the least valid reason known to us, to employ federal troops to execute the orders of the Court, thereby clearly indicating on his part, so far as we can discern, an utter disregard of the latest expressed vies and policy of the Administration concerning <placeName type="state" key="Utah Territory">Utah</placeName>, and the views and policy of your Excellency and all good citizens, and a settled purpose, for some cause, to force an angry collision between the citizens and troops, which is well known is not so difficult to accomplish in the best ordered town or city in the Union, especially when on class is caused to illegally supplant, taunt, and oppress the other.</p>
+
+<p>That the peaceful policy of the Administration and of you Excellency be not subverted by the vile schemes of such sutters, speculators, camp-followers and gamblers as plot evil and bloodshed for gain; that citizens be not imposed upon in any of their rights, nor when subpoenaed as witnesses, treacherously arrested by bench warrants and unfed and without bedding, guarded by troops, nor jurors to attend to their duties under the bristling of bayonets; that the laws be respected and magnified; that the citizens be not evaded until they cannot sustain their anger, and thus forego for a time the happy results of the labors and toile of so many patriots and philanthropists, and cause the riotons to exalt with joy; and that your Excellency" take care that the laws be faithfully executed;" we, your memorialists, citizens of the United States in the territory of <placeName type="state" key="Utah Territory">Utah</placeName>, respectfully petition your Excellency to use all the influence and authority of your critical position as Governor of this Territory to remove all Government troops from in and around the Court now in session in the <placeName type="settlement" key="Provo, UT">city of Provo</placeName> and from in and around said city, and to prevent any troops being located in or infringingly near any of our thickly-settled villages, towns and cities, and to fairly and fully, at your earliest convenience, report to the proper department in Washington City, the official proceedings of Judge <persName key="Cradlebaugh, John">JOHN CRADLEBAUGH</persName>, in the Second Judicial District of this Territory, and for such wise, loyal, and just action by our Excellency, your memorialists and <unclear /> will every pray.</p></q>
+
+<p>We know not what action the Governor will take upon the memorial which has been presented to him, requesting him to remove the troops.  We merely know that his former actions have been in pursuance  of his <unclear /> peace policy.  He has already 
+left the seat of the Executive Department of the Territory to come and endeavor to break up the session of the U.S. Court, by depriving it from all protection or power.  In this he had failed signally, and <unclear /> with interest for his next movement in support of the Mormon policy.</p>
+
+<p>A difficulty between some Mormons and a detachment of soldiers in Rush Valley, has added fuel to the prevailing excitement.  It appears that the Mormons had quarted on the Military Reservation; these Mormons having refused to leave after due notice had been given to them., a squared of men were sent to drive them off.  When they reached the place the soldiers were insulted by the Mormons there, and one of them, a young man named SPENCER, drew his revolver and aimed it at the officer in command, when the sergeant of the squad immediately knocked him down with the butt of his rifle, slightly fracturing his 
+skull.  An army surgeon was immediately sent for, who dressed the wound, and the youth is now recovering.</p>
+
+<p>The weather still continues very stormy.  We have had snow storms, and very severe ones at that, on an average of two a week the whole month, and on the mountains it has snowed almost incessantly.</p>
+
+<p>The following is a list of the companies and officers in command under Major PAUL, now camped three miles from here:
+
+Co. H, 10th Infantry &#8212; Capt. A. Trasv.<lb/>
+Co. A, 10th Infantry &#8212; 1st Lieut. H. B. Kelly.<lb/>
+Co. F,  7th Infantry &#8212; 1st Lieut. John Forney.<lb/>
+Co. E,  7th Infantry &#8212; Capt. H. Little.<lb/>
+Co. B,  7th Infantry &#8212; 1st Lieut. P.W.L. Piympion.<lb/>
+Co. K,  7th Infantry &#8212; 1st Lieut. A.H. Plummer.<lb/>
+Co. H,  7th Infantry &#8212; 1st Lieut. A.W. Evans.<lb/>
+Co. I,  7th Infantry &#8212; 2d Lieut. B. Silvers.<lb/>
+Co. B, 4th Artillery &#8212; 1st Lieut. S.H. Weed.<lb/>
+Co. E,   2d Dragoons &#8212; 1st Lieut. George N. Gordon<lb/>
+
+commanding, with 2d Lieut. H.B. Livingston attached.</p>
+
+<p>The following officers are also serving with tals force: 1st Lieutenant D. P. Hancock, 2d Lieutenant E.K. Potts, of the 7th; 2d Lieutenant J.L. Thompson and 2d Lieutenant Wm. Kearney, of the 10th; 2d Lieutenant Edward J. rooks is the Adjutant and A.A.Q.M., A.A.C.M.S.; assistant Surgeon John Moore accompanies the troops; 2d Lieutenant Ryan of the 7th Infantry, has also been temporarily a <unclear /> to Captain Heth's command.     A.B.C.</p>
+</div2>
+<milestone unit="horbar" />
+
+<div2>
+<head type="sub">ATTEMPTS OF THE AUTHORITIES TO ARREST CRIMINALS&#8212;THEY ARE THWARTED BY THE MORMONS&#8212;TERRIBLE MASSACRE AT MOUNTAIN MEADOWS&#8212;PROCLAMATION OF THE GOVERNOR, WHO IS SERENADED BY THE MORMONS.</head>
+
+<dateline><placeName type="settlement" key="Provo City, UT">Provo City</placeName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>,
+Thursday, March 31, 1850.</dateline>
+
+<p>The United States Marshal and his deputies have been thwarted in every manner in their attempts to serve the processes of the Court during the past week.  They have experienced the greatest difficulty finding any one for whom they were searching.</p>
+
+<p>In villages, they can obtain nothing but evasive replies to their inquiries relative to the residence of anyone, and but few of the inhabitants seem to know even who their next door neighbor is.</p>
+
+<p>On Monday morning, the 28th inst., Deputy Marshal BROOKIS attempted to arrest GEO. HANCOCK, the Bishop of Payson, but after searching thoroughly his house retired unable to find him.  HANCOCK was the principle actor in the murder of JONES and his mother.  We have now positive information that not only this Bishop of Payson has fled, but also the Bishops of Cedar City and Parowan, JNO. D. LEE and H. <unclear />, who were deeply implicated in the Mountain Meadow massacre. AARON JOHNSON, Bishop of Springville, who directed the murder of the PARRIBURG, POTTER and FORBES; BLACKBAUM, Bishop of <placeName type="settlement" key="Provo, UT">Provo</placeName>, and WAL SNOW, President of the <placeName type="settlement" key="Provo, UT">Provo</placeName> Stake, accessories to these and other crimes, and &#8212; EVANS, Bishop of Lehi, concerned in the murder of <persName key="Lane, Jacob">JACOB LANE</persName>, have all made their escape to parts unknown.</p>
+
+<p>Four of the persons who sat on the Grand Jury lately discharged by Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName>, have been deeply implicated by the evidence adduced before the Judge, and have fled: as also the father-in-law of another of the Grand Jurors.  But few of the others have called for their pay, and are not to be seen. This forms a most striking illustration of the working of the law passed by the Legislature at its last session, and signed by Governor <persName key="Cumming, Alfred">CUMMING</persName>, which prescribes that the juries for the United States District Courts shall be selected by the County Courts, in this case the County Commissioners, who constitute the County Court, being all men of high standing in the Mormon Church, and appointed by BRIGHAM YOUNG thought that they would prevent an investigation into the crimes committed under the direction of the Church, by taking the "bull by the horns," and placed in on the juries the very criminals themselves to <unclear /> er with their relatives, friends and <unclear />.  At 
+the time the Grand Jury were sworn in the Judge had to dismiss one of them, on <unclear /> and that he had an affidavit <unclear /> before him implicating him in the Parrish murder.</p>
+
+<p>The prisoners now in custody cannot procure a single witness for the defense.  Every person who knew the <unclear /> concerning the crimes under investigation have <unclear /> fled under a consciousness of guilt or have been compelled to leave by the Church authorities.  The following statement made under oath or <unclear /> of the <unclear /> <unclear /> murder will <unclear /> illustrate by whom witnesses and others are <q>"intimidated."</q></p>
+
+<p><unclear /> companion, who joined him in <unclear /> the protection of Secretary HARTNETT, <unclear /> by the history of the PARISSH murder <unclear /> with <unclear /> one of the chief <unclear /> of the Church, but he preferred to risk his neck in the 
+helter, which the law now holds over him,  <unclear /> to the dreadful <unclear /> and butcheries prescribed by the Mormon Church, which he himself had assisted in <unclear /> on others.</p>
+
+<p>GEORGE BARTHOLOMEW, after giving his testimony in regard to the murder of the PARRISHES, says:</p>
+<q>
+<p>"It all passed off well enough until two weeks ago, the second time that Marshal DOTSON came to summons me as a witness; then <persName key="Niles, Andrew">ANDREW NILES</persName> and <persName key="Fulle, Sandford">SANDFORD FULLE</persName> came to me and told me I must go off into the mountains and <persName key="Earl, John Wilber J.">John WILBER J. EARL</persName> and<cb n="4" /> <persName key="Durfee, Abraham">AHBAM DURFEE</persName>, whom they told me wore then up in Limeklin Canon.  [<persName key="Earl, Wilber J.">EARL</persName> is also proven by the testimony to be one of the murderers ;] I I started out immediately that night from one house where I then was (McBRIDE'S.) followed by two of the men who were then there, and went up the mountains towards the point indicated, fearing, however, that there might be a plan laid to put me out of the way.  After I had got up the mountain about eighty <sic>roos</sic>, I slipped to one side into a little gully, and from thence got up among some rocks and hid until the men who were following had passed and lost me.  I then turned and went in another direction about half a mile to Rock Canon, where I concealed myself. This was on Friday night.  I remained there until Sunday night with nothing to eat, and exposed to the storm which raged that day; Sunday night I returned to town, and, without going home, went to URIAH CURTIS' house.  Here I was again notified that I must go to where <persName key="Durfee, Abraham">DURFEE</persName> and <persName key="Earl, Wilber J.">EARL</persName> were, or abide the consequences.  This notice was given me by <persName key="Johnson, Williaim">Wn. JOHSNOSN</persName>, the Marshal of Springville. OLIVER AND HARLAN McBRIDE were sent to go with me, and in the evening we went out and found <persName key="Durfee, Abraham">DURFEE</persName> and <persName key="Earl, Wilber J.">EARL</persName> a little way up Hobole Creek, hid among the willows.  We had scarcely got up there when Wm. BIRD and URIAH CURTIS came to us on horseback with an express telling us we must start immediately for <placeName type="settlement" key="Salt Lake City">Salt Lake City</placeName>.  They would not tell us who the message was from, but said it was <q>"counsel"</q> that we should go to the city, and also charged us particularly that we should go to the city, and also charged us particularly that we should keep along the mountains and not allow ourselves to be seen by any living being, but must travel at night and remain hid in the daytime. In obedience to this counsel we three started, and traveling along the mountains that night camped for the day early the next morning between <geogName type="waterway" key="Provo Canon">Provo Canon</geogName> and <geogName type="waterway" key="Battle Creek">Battle Creek</geogName>.  The next night we crossed over the mountains of the Traverse Range instead of going round through the Jordan Canon, and the next morning camped near <geogName type="waterway" key="Dry Creek">Dry Creek</geogName>, in <geogName type="valley" key="Salt Lake Valley">Salt Lake Valley</geogName>. We remained here until about noon, when EARL seemed to get very uneasy and wished to travel on.  <persName key="Durfee, Abraham">DURFEE</persName> and I opposed it because we had been forbidden to travel by day, but as he persisted in going on we finally consented to go also.  Then, instead of avoiding the roads leading to the town of Cottonwood. When he got within a half mile of this town he stopped and buckled his pistol round in front of him, and then wanted us to go up in the willows on the creek above the fort, and wait there until night.  These circumstances aroused our suspicions in regard to his intentions, and we believed that there was a plan later to kill us there.  We would not, therefore, go with him, but made him go on with us.</p>
+
+<p>When I got opposite the Fort, I stopped and asked then whether they intended to kill and butcher me, as they had done others, and told them that I believed that that was their intention.  They both denied it positively, and <persName key="Earl, Wilber J.">EARL</persName> said I must be going crazy. About a mile beyond Cottonwood Fort a man passed us riding at full speed on horseback; he rode <unclear /> speed until he got out of sight.  <persName key="Durfee, Abraham">DURVEE</persName> and I <unclear /> believed that that man was one of a party <unclear /> on the creek to kill me, and that <persName key="Earl, Wilber J.">EARL</persName> wanted to lead us to them."</p></q>
+
+<p>He then relates other circumstances occurring on the road, which continued so to excite their suspicions against <persName key="Earl, Wilber J.">EARL</persName> that, when they reached the city, they took the first opportunity to slip away, and ran to the <q>"Gentile"</q> store of MESSIS, LIVINGSTON, KINKEAD &amp; Co., and asked for protection.  They were placed under the protection of Secretary <persName key="Hartnett, John">HARTNETT</persName> until the Marshal arrived and took them in custody. During the time which they remained at the Secretary's they were not contained at all, but they would not leave the room in which they were placed&#8212;not even to go to meals.</p>
+
+<p><seg type="Massacre" subtype="Location">By recent advices from the Southern settlements we were informed that the towns in the vicinity of the scene of the terrible massacre at Mountain Meadows are almost depopulated</seg>.  In <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, a town of between 800 and 900 inhabitants there are but twelve or thirteen families left.  The men have all fled in consequence of the news which had reached them of the decisive action of the United States Court in this city.</p>
+
+    <p>The Indians under the leadership of the Mormon Chief <persName key="Kanosh">CANOSH</persName> are collecting in the neighborhood of the Mountain Meadows, and are already 1,000 strong. <persName key="KANOSH">CANOSH</persName> has been joined by two of the Southern tribes, and his force is increasing daily.  He expresses his determination to resist to the death all attempts to arrest any one in that vicinity.  We are also informed that there are several white men with him.</p>
+
+<p>On the morning of Tuesday, the 20th day of March, Marshal DOTSON having received information which led him to suspect that certain offenders against whom he had warrants in his possession were still concealed in the town of Springville, secretly summoned a posse of vive civilians, and having made a  requisition upon Major PAUL for a company of dragoons, left his place between 2 and 3 o'clock in the morning with this force.</p>
+
+<p>The company of dragoons were commanded by Lieutenants GORDON and LIVINGSTON of the Second Dragoons, and accompanied by Lieutenant KEARNEY, of the Tenth Infantry.</p>
+
+<p>Previous to the departure of the main body a small party was detached, who proceeded rapidly in advance and stationed themselves at a point where they could intercept any men eager who might be sent to give notice of their approach.  As the party, however, left most secretly and silently, in the midst of a heavy snow storm, no one seems to have noticed their departure.</p>
+
+<p>Upon reaching the town it was a immediately surrounded by details from the company of dragoons, who were so stationed that no one could possibly leave the city unperceived by them.</p>
+
+<p>Just at daybreak, the Marshal with his deputies entered the town, and commenced the search of all those houses in which it was suspected the offenders might be concealed.</p>
+
+<p>The house of Bishop JOHNSON as one of the first entered, but no one was found therein, except his <unclear /> wives.  Four of these wives are sisters, and the Bishop's own nieces, and he has besides these, two sisters out of one family, and also a mother and her daughter. This is polygamy with a vengeance.  These wives received the Marshal with a very good grace, even joking with him in regard to the fruitlessness of his search.</p>
+
+<p>After an hour's search, no trace of the persons sought for (some eleven in all) could be found.  Not only those implicated had flown but also many others not before suspected.  In fact nearly one half of the male inhabitants of Springville, where the PARRISHES were murdered, have fun off and conceived themselves, leaving their numerous wives and families at the mercy of the <q>"d--d Gentiles,"</q> and of a <q>"licentious soldiery."</q></p>
+
+<p>It being rumored that some of them were concealed up Hobble Creek canon, the Marshal proceeded up the canon some eight miles, but not finding any trace of them, and the snow becoming very deep so <unclear /> was difficulty that the horses could proceed, they returned to this city from their unsuccessful search.</p>
+
+<p>On the same day (Tuesday) an express received here from Governor <persName key="Cumming, Alfred">CUMMING</persName> and distributed copies of the following so-styled Proclamation:</p>
+
+<p><hi rend="italic">By <persName key="Cumming, Alfred">Alfred Cumming</persName>, Governor, Utah Territory</hi></p>
+<p>A PROCLAMATION.</p>
+
+<p><hi rend="italic">Whereas</hi>, One company of the United States infantry, under the command of Captain HETH, is now stationed around the Court-house at <placeName type="settlement" key="Provo, UT">Provo</placeName>, where the Hon. <persName key="Cradlebaugh, John">JOHN CRADLEBAUGH</persName> is now holding Court, and eight additional companies of infantry, one of artillery and one of cavalry, under command of Major PAUL, are stationed within sight of the Court-house; and,</p>
+
+<p><hi rend="italic">Whereas</hi>, the presence of soldiers has a tendency, not only to terrify the inhabitants and disturb the peace of the Territory but also to subvert the <unclear /> of justice, by causing the intimidation of witnesses and jurors; and,</p>
+
+<p><hi rend="italic">Whereas</hi>, This movement of troops has been made without <sic>consuiation</sic> with me, and, as I believe, is is opposition to both the letter and spirit of my instructions; and,</p>
+
+<p><hi rend="italic">Whereas</hi>, General <persName key="Johnston, Sidney Albert">JOHNSTON</persName>, Commander of the Military Department of <placeName type="state" key="Utah Territory">Utah</placeName>, has refused <unclear /> request that he would issue the necessary orders for the removal of the above mentioned troops;</p>
+
+<p>Now, therefore, I, <persName key="Cumming, Alfred">ALFRED CUMMING</persName>, Governor of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, so hereby <unclear /> protest against the present military <unclear /> against all movements of troops, <unclear /> the letter and spirit of the annexed extract from the <unclear /> by me <unclear /> Government for my guidance where Governor of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.</p>
+
+<p>In testimony where of, I have <unclear /> my hand, and <unclear /> Territory <unclear /> <unclear />. Done at <placeName type="settlement" key="Salt Lake City">Great Salt Lake City</placeName> <unclear /> day of March <unclear /> and of the <unclear /> <unclear /> of the United States the eighty of<unclear /></p>
+
+<p><persName key="Cumming, Alfred">ALFRED CUMMING</persName></p>
+
+<p>By the Governor:
+JOHN HARTNETT Secretary of State.</p>
+
+<p><unclear />&#8212;"It is your duty to take care that the <unclear /> are <unclear /> and to maintain the <unclear /> <unclear /> also in <unclear /> <unclear /> <unclear /> If these officers when threatened <unclear /> <unclear /> or have just <unclear /> <unclear /> 
+<unclear /> to <unclear /> aid as <unclear /> many deem <unclear /> <unclear /> should lead you to be <unclear /> that the <unclear /> <unclear /> he <unclear /> of such officer <unclear /> be <unclear /> any resistance that may be reasoned by <unclear /> <unclear /> are authorized  to call for <unclear /> of troops as the occasion <unclear /> requires, who will <unclear />, <unclear /> while they employed they <unclear /> under the direction of the proper civil offices, and <unclear /> <unclear /> formity with the <unclear /> you may give as the Chief Executive Magistrate of the Territory."</p>
+
+<p>Gov. <persName key="Cumming, Alfred">CUMMING</persName> has at last defined his position, unmistakably and unequivocally.  He has set himself up in opposition to the efforts of the <unclear /> to ferrit out and punish those who have been guilty of those <cb n="5" />heinous crimes which have made the term Mormon almost synonymous with that of a treacherous murderer, and now endeavors, by a usurpation of power, to make the Judiciary subservient to the Executive in order to carry out the policy so earnestly advocated by the Mormons before the Peace Commissioners, viz: <q>"let by gones be by gones."</q></p>
+
+<p>The position now assumed by the Governor in regard to his authority over the United States  troops is this: He concedes that the United States Judges and Marshal have the right to make a requisition for troops, but he contends that after they have procured those troops, that he has the full control of them.  It would be strange, if the Judges have the power to call for the assistance of troops, that when they have obtained that assistance, it should be by Executive dictation that it would become of benefit, or would be removed.</p>
+
+<p>Immediately upon the receipt of the Proclamation here it was publicly reported that the Governor had issued orders through Lieutenant General <persName key="Wells, Daniel H.">DANL. H. WELLS</persName> for the militia to prepare themselves and be in readiness to march and drive the troops from 
+<placeName type="settlement" key="Provo, UT">Provo</placeName> by force, they were not removed by order of GEN. JOHNSTON.</p>
+
+<p>In Salt Lake City the band of the Nauvoo Legion serenaded the Governor the night after he issued his Proclamation.</p>
+
+<p>The affidavit of GEORGE BARTHOLOMEW, already given, and the following affidavit made by those of the witnesses for the prosecution who are now in the City, will show fully by whom witnesses and Jurors are intimidated:</p>
+
+<floatingText><body>
+<p><placeName type="state" key="Utah Territory">Territory of Utah</placeName>, Utah County, ss: We, Albert Parrish, Henry Higgins, James O'Bennion, Leonard Philips, Orvin Parrish and James Gemmell do solemnly swear that we are, and have been, for several years past residents of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, that we are summoned to appear as witnesses before the United States District Court for the Second Judicial District of said Territory, which convened at the city of <placeName type="settlement" key="Provo, UT">Provo</placeName>, on the 8th March, 1859.  That we possessed certain knowledge of various 
+crimes which had been in the past two or three years committed in said district, on account of which said knowledge we had been so summoned; that on account of the <unclear /> in or <unclear /> afterwards, of the said crimes, by the community in which said crimes were committed <unclear />, as we believe, from the authorities of the Mormon Church; we considered our lives and property in eminent peril from the Mormon community should we appear and testify to the facts within our knowledge, <unclear /> 
+<unclear /> a portion of the United States troops should (as they have beth) be stationed in the town of <placeName type="settlement" key="Provo, UT">Provo</placeName>, near enough 
+the Court-room to guarantee safety, and that from the Mormon community we have received threats of intimidation in case we should divulge the facts concerning said crimes, which have come to our knowledge, and which threats we believe would have been carried into execution but for the timely all afforded by the Commanding General in hes a looing of troops now in and 
+near the city; and, further, we believe our lives to be in danger hereforward, without military protection from the United States troops, and further deponent 
+<unclear />,     (Signed)</p>
+
+<signed>LEONARD PHILLIPS, 
+HENRY HIGGINS
+His ALBERT G. PARRISH
+JAMES BANION,     
+His mark. EVAN PARRISH,
+JAMES GAMMELL, mark.
+<unclear /> and swown to before me this 29th day of March, 1859.     
+CHAS E. SINCLAIR.
+Associate Justice Supreme Court,
+<placeName type="state" key="Utah Territory">Utah Territory</placeName>.
+</signed>
+</body></floatingText>
+
+<p>On Wednesday, the 30th inst., Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName>, after the opening of his Court, made the following remarks in open Court in regard to the Governor's Proclamation:</p>
+
+<p>"I have received a document from <persName key="Cumming, Alfred">ALFRED CUMMING</persName>, Governor of <placeName type="state" key="Utah Territory">this Territory</placeName>, which is its <unclear /> <unclear /> to be a Proclamation, while in the body  of the document it would seem to be <unclear /> of protest. Instead of being addressed to the General commanding the Department of <placeName type="state" key="Utah Territory">Utah</placeName>, it seems to be intended for the public at large.  Taking the whole thing together, it seems to be designed to exasperate the people of this Territory against the troops to obstruct the course of public justice, and to excite insubordination in the Army.</p>
+
+<p>In this document, Governor <persName key="Cumming, Alfred">CUMMING</persName> speaks of a company of United States Infantry being stationed around the Court-house, in which I am now holding a  term of the District Court, and also of several additional companies of infantry, one of Artillery, and one of Cavalry, being stationed in sight of this Court-house.</p>
+
+<p>He also says that the presence of these soldiers has a tendency, not only to terrify the inhabitants and disturb the peace of the Territory, but also to subvert the ends of justice by causing the intimidation of witnesses and jurors.  We says that this movement  of troops has been made without consolation with him, against the letter and spirit of his instructions.</p>
+
+<p>In regard to his statement that troops are stationed <q>"around the Court-house at <placeName type="settlement" key="Provo, UT">Provo</placeName>,"</q>  I have only to say that the assertion is not true.  They are stationed near the Court-house, and entirely on one side of it.</p> 
+
+<p>The additional troops referred to as being <q>"stationed within sight of the Court house,"</q> are at least four miles distant.  This assertion must have been designed to create a false impression as to the relative situation of the Court house and the troops.</p>
+
+<p>In regard to the inhabitants being terrified by the presence of troops, it is proper to say that many of them are very much annoyed by their being here at this time, but those who seem to be stricken with terror have fled the country on account of crimes committed bye them, and the fear of just punishment for their offences.  Among them are to be found several of the jurors, Presidents of <q>"stakes,"</q> Bishops, and also civil officers of the Territory.</p>
+
+<p>It is, perhaps, proper to say that the Grand Jury was selected by the County Court, under a recent act of the Legislature of this Territory, which was signed and approved by Governor <persName key="Cumming, Alfred">CUMMING</persName>, and that several notorious criminals were members of it.</p>
+
+<p>That none but those who are conscious of guilt are under the influence of fear, is manifested by the fact that at all times, when the Court is in session, the Court-room is crowded by hundreds of citizens.</p>
+
+<p>The ascertain that witnesses and jurors are, or have been, intimidated by the small military detachments near the Court house, is without foundation.  While the real facts is that witnesses have been threatened and intimidated by the very inhabitants who are said to be so much terrified.</p>
+
+<p>To such an extent has this been carried, that witnesses who appear and testify in behalf of the prosecution are compelled to seek safety under the protection of the <unclear /> that are hear, many of them having signed a petition requesting that the troops shall not be removed, and representing that their security and safety depended upon their presence.</p>
+
+<p>In regard to their statement that the troops are here without consultation with His Excellency, the Court has yet to <unclear /> that it is subservient to, and cannot act except under executive dictation.</p>
+
+<p>Time was requested by the counsel for the defense, in order to procure their witnesses.  They state, that the witnesses had been here, but had "stampeded." The Marshal has been after these witnesses several times already, but they have fled and are not to be found.</p>
+
+<p>The Court expressed its entire willingness to adjourn the Court from day to day, and give the defense eery possible assistance in its power in procuring witnesses.</p>
+
+<p>Mr. WILECK, the Territories Attorney, made a statement of great number of cases, which have come to his knowledge, and requested to know of the Court whether it would proceed with the investigation of them.  The Judge replied that he would not examine any cases at this place, except those in which he had already issued warrants, but that he would devote his time at his place of residence, during the ensuing Summer, until the Chief Justice arrives who will supersede him in the District, to the investigation of all criminal matters within the District, and hoped to be able to <unclear /> there to the bottom.</p>
+
+<p>By an act of the Legislature, passed at his last session, Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName> was transformed to the Carson Valley District, but he has the right to continue to act here, as a committing magistrate, until the arrival of Judge <persName key="Eckels, Delana R.">ECKELS</persName>, who was transferred to this District.</p>
+
+<p>The Court will probably adjourn <unclear /> next Saturday, but the Judge will continue his examinations.</p>
+
+<p>It is, a fact worthy of notice that the families of these criminals now in custody seem to entertain no <unclear /> in regard to the fate of their relatives&#8212;as it is asserted they have an assurance from the Governor that if they are found guilty, and sentenced under these circumstances he will pardon them.  <unclear /> even <unclear /> that the Governor's object in visiting this 
+town lately was to prevent the possibility of the execution of any of these villains, whom it is his <unclear /> <unclear /> to pardon, he fearing at that <unclear /> that they <unclear /> be found guilty and <unclear /> The weather remains cold, stormy and Wintry. The Spring is unusually backward.   A.B.C.</p>
+</div2>
+<milestone unit="horbar" />
+
+<div2>
+<head type="sub">The Murder of the two Parrishes, Father and Son, and of Potter, at <placeName type="settlement" key="Springville, UT">Springville</placeName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>, March 14, 1857.</head>
+<p>Pavo <unclear /> <placeName type="state" key="Utah Territory">Utah</placeName>, Thursday. March 31, 1859.</p>
+
+<p>In the Spring of 1857, the Mormons became unusually severe upon all "Gentiles" and "Apostates." <unclear />.  It was the same Spring that all the United States Government <unclear /> remaining here were driven out of the Territory.</p>
+
+<p>In the Southern settlements, it appears from evidence <unclear /> before the <unclear /> was by no means <unclear /> for the Bishops and Elders to <unclear /> of <q>"cutting off"</q> <unclear /> <q>"Apostate"</q> from the earth; of killing or sacrificing them to prevent their falling upon grace, and thus to save their souls in eternity.</p>
+
+<p>In the <unclear /> town of Springville, the PARRISH family had apostatized and determined to go to <placeName type="state" key="California">California</placeName>. They had, consequently, disposed of all of their available property and purchased a span of horses and a carriage and a complete traveling outfit.  Their movements attracted the attention of the Bishop and Elders, and it was determined that the <cb n="6" />should not be allowed to leave.  Two <q>"Council"</q>  meetings were held in a private room at the house of <persName key="Johnson, Aaron">AARON JOHNSON</persName>, the Bishop of Springville, at the first of which two men, <persName key="Poter, 'Duff'">DUFF POTTER</persName> and <persName key="Durfee, Abraham">ABRAHAM DURFEE</persName>, were set apart for the purpose of watching the movements of the PRRISHES and finding out all that they could in regard to their plans.  This was done and everything reported at the second council meeting, which was held one week before the murder.  At this second meeting it was resolved to take away their traveling outfit, and of thus preventing them from going.  A few nights afterwards <persName key="Parrish, William">PARRISH</persName> was robbed of all  his horse and his carriage.  He found one span of his horses the next morning in the Bishop's stable, but when he claimed them the Bishop told him pointedly that he could not have those horses to leave <placeName type="state" key="Utah Territory">the Territory</placeName> with.</p> 
+
+<p>Mrs. PARRISH, after her husband's death, found the other two horses in the stable of the Mayor of <placeName type="settlement" key="Provo, UT">Provo</placeName> <persName key="Bullock, K.">K. BULLOCK</persName>; these she obtained possession of.</p>
+
+<p><persName key="Durfee, Abraham">DURFEE</persName>, after having been set apart by the Council to watch he <persName key="Parrish, William"><persName key="Parrish, 'Beason'">PARRISHES</persName></persName>, succeeded in obtaining some employment from Mr. PARRISH.  He and <persName key="Potter, 'Duff'">POTTER</persName> then persuaded PARRISH that they wished also to go to California, and would go with him.  After his horses and carriage had been stolen, PARRISH determined to leave his family and start as soon as possible on foot, as he now became alarmed for his personal safety.</p>
+
+<p><persName key="Durfee, Abraham">DURFEE</persName> and POTTER agreed to go with him on foot. In the meantime offers were made to him to restore his property, upon condition that he would remain. He still expressed a determination to go, and was thereupon told that he would never see his horses again.  Being led to suppose, from the threatening manner of the men who made these proposition to him, (<persName key="McDonald, Alexander">ALEX. McDONALD</persName> and <persName key="Earl, Wilber J.">WILBER J. EARL</persName>,) that they wished to kill him, he bared his breast to them there and told them that if they intended to do him any harm to do it then and there.  They replied that they were not ready to shed blood then.  When he returned to his wife after the interview&#8212;which she overheard&#8212;he told her, at the same time writing it down.  <q>"You will be a living witness when I am gone."</q></p>
+
+<p>It was now arranged that the whole party should start on Sunday, March 14, 1857, and that to avoid suspicion, they should leave town during the day, one at a time.  The whole party were to unite, just after dark, at the corner of a fence of the road, about half a mile from the town.</p>
+
+<p>On Sunday morning, at 10 o'clock, <persName key="Potter, 'Duff'">POTTER</persName> and <persName key="Durfee, Abraham">DURFEE</persName> were at PARRISH's house.  PARRISH then asked them if they were true to their trust.  <persName key="Durfee, Abraham">DURFEE</persName> replied: <q>"Yes, brother WILLIAM, I am as true as a hero, but when it comes to the test, I don't know how I shall do."</q>  POTTER took a gun to pieces for PARRISH, so that he could carry it out concealed.</p>
+
+<p>PARRISH and <persName key="Durfee, Abraham">DURFEE</persName> left town together at about 2 o'clock in the afternoon.  <persName key="Durfee, Abraham">DURFEE</persName> returned again about dusk and started out with the two boys, RIN and <persName key="Parrish, William">Wm. BRASMAN BARRISH</persName>; he told Mrs. MARRISH that her husband was waiting for them a short distance outside of the Fort.  He then takes them outside of the city wall, and tells them to go and wait for him at its southwest corner they go there and wait, and in a short time he rejoins them.  He now asks the elder of the two, who was called by his middle name, BEASMAN, to go with him into a field to hunt for some things which he said were hid there, but they return in about ten minutes without having found anything.  While they were gone the younger son the report of a gun in the direction of the point at which they were all to meet; and on <persName key="Durfee, Abraham">DURFEE</persName>'s return, he asked him what it meant. <persName key="Durfee, Abraham">DURFEE</persName> told him that there were Indians camped in that vicinity, and it was probably one of them who had fired.</p>
+
+<p><persName key="Durfee, Abraham">DURFEE</persName> and the two boys now started towards the corner of the fence, where they were all to meet after dark.  As they approached the place, DURVEE called out, "DURF!  DURF!" (POTTER's name,) and stopped and looked towards the fence on the east side of the road.  They then proceeded on until within about twenty feet of the corner of the fence, when some one called out, "<persName key="Durfee, Abraham">DURFEE</persName>!" three times.  <persName key="Durfee, Abraham">DURFEE</persName> answered, and immediately a gun or pistol was fired, and BEASMAN PARRISH, the eldest son, who was the farthest from <persName key="Durfee, Abraham">DURFEE</persName>, fell mortally wounded.  Both of the sons were unarmed.  Several shots were then fired in rapid succession, the ball from one of which  lodged in a cartridge box which ORRIN PARRISH wore on his belt.  <persName key="Durfee, Abraham">DURFEE</persName>, in the mean time, drew up his gun, pointed it at ORRIN, and snapped a cap.</p>
+
+<p>ORBIN immediately started an ran across the fields and clambored over the city wall at a place where it was rather low.  In doing so, however, he hurt himself quite severely.  He ran to his uncle's house and rushed by some 10 or 12 men who were standing in front of it before they could stop him.</p>
+
+<p>He told his uncle that <persName key="Parrish, 'Beason'">BEASMAN</persName> was shot, and wanted him to go and see if he was killed.  His uncle, however, was afraid to go himself, but sent another man in his place.  This man was stopped at the gate and told if he went a step farther he would be a dead man.</p>
+
+<p>That night a wagon is procured, and a company of men start with it from the school house and go after two bodies.  <persName key="Potter, 'Duff'">POTTER</persName> and old man PARRISH are found lying close together, near the corner of the fence. <persName key="Potter, 'Duff'">POTTER</persName> was killed by three buck-shot; which entered the left breast; these were the only wounds on his person.  Old man PARRISH was covered with knife wounds, and was literally cut to pieces.  His throat was cut on the left side, his bowe's ripped open, and he had cuts on his back, arms, legs, in fact all over his body.  He had no bullet wounds on his person. YOUNG PARRISH was lying about twenty yards off.  He 
+was shot with four balls, which entered through his left arm and passed out at the center of his back.</p>
+
+<p>The bodies were placed in the school house, and the next day Mrs. PARRISH was allowed to see them. A sort of inquest was held by <persName key="Stweard, John M.">JOHN M. STEWARD</persName>, Justice of the Peace, who as present at both the <q>"council"</q> meetings in which their fate had been decided.</p>
+
+<p>CABPE was there and was examined, but had but little to say.  <persName key="Parrish, Orbin">ORBIN PARRISH</persName> was called to testify, but his uncle had previously told him not to tell anything which he knew and so he said but little.  The verdict was of course brought in, <q>"Murdered by persons unknown."</q></p>
+
+<p>In the evening of that today Mrs. PARRISH, hearing that <persName key="Parrish, Orbin">ORBIN</persName> was at his uncle's, went over to see him and found him in bed, weak from the effects of his hurt in jumping the wall.  She attempted to speak to him, but was jerked away by <persName key="Johnson, William">Wm. JOHNSON</persName>, who was stationed there to guard the boy.  He told her she should not speak of him unless it was out loud.  She then asked ORBIN where his father was?  He said he did not know.  Seeing a crowd about the school-house, she sent her third son to see what was the matter, and he found out that the body of his father and brother lay in there.</p>
+
+<p>The same Sunday on which the second <q>"council"</q> meeting was held, after church services in <placeName type="settlement" key="Provo City, UT">Provo City</placeName>, President <persName key="Snow, James C.">JAMES C. SNOW</persName>, of the <placeName type="settlement" key="Provo, UT">Provo</placeName> stake, desired to know if there was any one there who would take a letter for him to Bishop <persName key="Johnson, William">JOHSNON</persName>, of 
+<placeName type="settlement" key="Springville, UT">Springville</placeName>, and deliver it into his hands. A man, with his horse all ready saddled and bridled, stepped and took it.  As SNOW handed it to him, he remarked, <q>"dead men tell no tales.,"</q>  That night, in the <q>"Council,"</q> Bishop <persName key="Johnson, William">JOHNSON</persName> spoke of having received the letter, and made the same remark, <q>"dead men tell no tales."</q></p>
+
+<p>Mr. PARRISH had in his pocket book, at the time, he started, a $500 or Territorial Draft, but Mrs. PARRISH has never received a single thing which was found in his possession.</p>
+
+<p>The testimony had disclosed the names of all who were present at the councils, and who participated in the crime.  They have, however, all fled the country. </p>
+
+<p>Six men implicated implicated in this dreadful murder are now under arrest, among whom are <persName key="Durfee, Abraham">DURVEE</persName> and McDONALD.</p>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

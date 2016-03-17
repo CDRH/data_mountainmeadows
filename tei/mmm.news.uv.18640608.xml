@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18640608">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Untitled [We are permitted to publish the following letter from Captain Geo. F. Prince&#8230;]</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18640608</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Union Vedette</title>
+		    <title level="a" type="main">Untitled [We are permitted to publish the following letter from Captain Geo. F. Prince&#8230;]</title>
+		    <title level="a" type="sub"></title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Camp Douglas, UT</pubPlace>
+		    <date when="1864-06-08">June 8, 1864</date>
+		</bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	     <keywords scheme="original" n="culpability">
+		<term>^%culpability%</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>^%sympathy%</term>
+	   </keywords>
+	</textClass>
+     </profileDesc>
+
+<revisionDesc>
+    <change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+    <change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>Validation</change>
+    <change when="2010-03-31"><name>Kelsey F. Harris</name>Initial Encoding</change>
+    <change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+<pb n="unknown" xml:id="mmm.news.uv.18640608.001"/>
+    
+<p><seg type="Source" subtype="Government">We are permitted to publish the following letter from Captain <persName key="Price, George F.">Geo. F. Price</persName>, Co. M, 2d Cavalry, C. V., now (with his company) on an expedition to <orgName type="military" key="Fort Mojave">Fort Mojave</orgName>.</seg> His friends here will be glad to know that he and his command are in good health and spirits, and fully agree with him in, and re-echo the deep and indignant protest which he utters
+against the culpable neglect which has so long allowed <seg type="Blame" subtype="LDS_LDS">the well known assassins and their
+better known instigators in the Mountain Meadow massacre</seg>, to brave the light of day until they have apparently almost forgotton the fact that a day of retribution, though slowly, will yet assuredly come:</p>
+
+<p>SALT LAKE AND Fort MOJAVE W R Expedition,<lb/> 
+Camp No. 20. <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName>, <placeName type="state" key="Utah Territory">U T</placeName>,<lb/>
+May 25th, 1864</p>
+
+<p><hi rend="italic">Captain</hi>:&#8212;It may be interesting to the General commanding the <placeName type="state" key="Utah Territory">District of Utah</placeName>, to know that on yesterday and <seg type="Reaction" subtype="Commemoration">today I caused a monument to be erected beside the grave containing the bones of the victims of the Mountain Meadow massacre of <seg type="Massacre" subtype="Dates">September, 1857</seg>. Upon my arrival here on yesterday I found the monument which was erected several years ago by an army officer, torn down&#8212;the cross taken away, and the stones forming the monument, scattered around the springs. Near the remains of this monument is the grave, giving evidence of much decay&#8212;both grave and monument having been defaced by impious hands, I immediately determined to repair the grave and rebuild the monument. Yesterday afternoon I had erected a substantial monument of stone of the following size and dimensions, viz: Twelve feet square at base, and four feet high, compactly filled in with loose stone and earth. From the center of this square, rises a pyramidal column seven feet high, of stone, compactly laid. We planted in the centre of it a substantial cedar pole, on which is fastened a small cross. manufactured from one of our packing boxes. This cross reaches three feet above the apex of the pyramid&#8212;making the height of monument fourteen feet. On the side of the cross facing to the East, so that the rising sunlight of God may each day cast its rays of beauty upon it, are these words:</seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration"><q>"Vengence is mine , I will repay saith the Lord"</q></seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration">Below these words and on the arm of the cross, are these words:</seg></p>
+
+<p><q><seg type="Reaction" subtype="Commemoration">"Mountain Meadow massacre, September 1857"</seg></q></p>
+
+<p><seg type="Reaction" subtype="Commemoration">On the opposite side me these words:</seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration"><q>"Erected by officers and men of Company M, 21 California Cavalry, May 24th and 25th 1864"</q></seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration">The monument, rudely but substantially erected, appears well from the road, and will stand for years, if no impious hand destroy it. The grave has also been neatly repaired, filling it with earth and rounding it on the surface&#8212;coloring the whole with a layer of stones. <persName key="Price, George F.">Myself</persName>, Lieut. <persName key="Conrad, George D.">Conrad</persName>, and every soldier of my command, consider that the fatigues and hardships of a twelve hundred mile march to Mojave and back to <orgName type="military" key="Camp Douglas">Camp Douglas</orgName>,  are cancelled in the privilege of erecting at this place beside <seg type="Massacre" subtype="Casualties">the remains of the murdered innocent</seg>, who were betrayed and massacred in cold blood <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">by white friends</seg> and their Indian allies</seg>&#8212;a monument at once expressive of our honor at the act&#8212;our respect for the memory of the murdered dead, and our sympathy for their fate.</seg> I cannot refrain at this time, from entering my protest as a soldier and as an American, at the delay of a powerful Government in at least attempting to bring <seg type="Blame" subtype="LDS_LDS">the leaders of this infamous crime</seg> to justice, and holding them up for the execration of the entire Christian world. <seg type="Massacre" subtype="Location">The <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> are 302 1-2 miles from <orgName type="military" key="Camp Douglas">Camp Douglas</orgName>.</seg></p>
+
+<closer><salute>Very resp't, your obd't servant.</salute><lb/>
+
+<signed><persName key="Price, George F.">GEO. F. PRICE</persName>, Capt 2d Cal. Cav.,
+Commanding expedition.<lb/>
+To Captain <persName key="Lewis, M. G.">M. G. Lewis</persName>, A. A. G., <placeName type="state" key="Utah Territory">District
+of Utah</placeName>, <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <placeName type="state" key="Utah Territory">U. T.</placeName></signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.hurt.1860">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Message of the President of the United States: Hurt Report from Fort Bridger</title>
+		<title level="m" type="sub"></title>
+		<author><forename>Garland</forename> <surname>Hurt</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.hurt.1860</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+    <notesStmt>
+	<note type="summary"></note>
+    </notesStmt>
+
+    <sourceDesc>
+	    <bibl>
+	        <title level="a">Fort Bridger, Utah, December 4, 1859</title>
+	        <title level="m">Message of the President of the United States, communicating, in compliance with a resolution of the Senate, information in relation to the massacre at Mountain Meadows and other massacres in Utah Territory</title>
+	        <author><forename>Garland</forename> <surname>Hurt</surname></author>
+	        <title level="s">US Senate. 36th Cong., 1st sess. Senate Exec. Doc. 42, Serial 1033</title>
+	        <publisher>George W. Bowman, Printer</publisher>
+	        <pubPlace>Washington, DC</pubPlace>
+	        <extent>95-98</extent>
+	        <date when="1857-12">December 1857</date>
+	        <note type="source">Garland Hurt. “Fort Bridger, Utah, December 4, 1859,” in <hi rend="italic">Message of the President of the United States, communicating, in compliance with a resolution of the Senate, information in relation to the massacre at Mountain Meadows and other massacres in Utah Territory</hi>. US Senate. 36th Cong., 1st sess. Washington, DC: George W. Bowman, Printer, 1860. Senate Exec. Doc. 42, Serial 1033. 95-98.</note>
+	    </bibl>
+    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p>The entire report spans pages 92-98, but we are only displaying pages 95-96.</p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	     </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	    <change when="2011-08-18"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+    	<change when="2011-05-31"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+    	<change when="2010-01-08"><name>Laura Weakly</name> Validation</change>
+    	<change when="2009-10-29"><name>Kelsey F. Harris</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+     </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="doc">
+
+<gap reason="irrelevant" />
+
+<pb n="92" xml:id="mmm.doc.hurt.1860.092" />   
+    
+<head type="main">Garland Hurt Report</head>
+    
+    <opener><dateline>FORT BRIDGER, UTAH, <lb/>    
+    December 4, 1859</dateline>
+    </opener>
+    
+<pb n="95" xml:id="mmm.doc.hurt.1860.095" />
+    
+<p>On the tenth day of September last, <persName key="Hancock, George W.">George W. Hancock</persName>, a merchant in the town of <placeName type="settlement" key="Payson, UT">Payson</placeName>, came to the Indian settlements to look at some fat cattle that I proposed selling, and in the course of conversation, said that he had learned that the <placeName type="state" key="California">California</placeName> emigrants on the southern route had got themselves into a very serious difficulty with the Piedes, who had given them to understand that they could not pass through their country, and on attempting to disregard this injunction, found themselves surrounded by the Indians, and compelled to seek shelter behind their wagons. He said he had learned these facts from an express man, who passed his house that morning with a message from the Indians <hi rend="italic">to President <persName key="Young, Brigham">Young</persName></hi>, inquiring of him what they must do with the Americans. The express man had been allowed one hundred consecutive hours in which to perform the trip of nearly three hundred miles and return, which Mr. <persName key="Hancock, George W.">Hancock</persName> felt confident he would do. On the day following, one of the <placeName type="state" key="Utah">Utah</placeName> Indians, who had been absent for some days gathering pine nuts, west of the <geogName type="waterway" key="Sevier Lake">Sevier Lake</geogName>, returned, and said that <seg type="Blame" subtype="LDS_LDS">the Mormons had killed all the emigrants</seg>. He said he learned this news from a band of the Piedes, but could not tell when the fight occurred, or how many had been killed. One of the Utahs, named Spoods, came to the farm on the morning of the 14th, having traveled all night, and also confirmed the report of the difficulty between the emigrants and the Piedes, but stated that when his brother <persName key="Ammon">Ammon</persName> (chief who lives in the Piede country,) went to <placeName type="county" key="Iron County, UT">Iron county</placeName> to persuade the Piedes to leave the road, the bishop told him he had no business with the Piedes, and had better leave, where upon an altercation arose between the bishop and the chief.</p>
+    
+<p><seg type="Blame" subtype="IndiansLDSInfluence">Spoods thought that the Piedes had been set upon the emigrants by the Mormons.</seg></p>
+    
+<p><seg type="Blame" subtype="IndiansIndependently">It soon began to be talked among the employe[e]s at the farm that all the emigrants on the southern road had been killed by the Piede
+    
+<pb n="96" xml:id="mmm.doc.hurt.1860.096" />
+    
+Indians, and the report was confirmed by several other persons who visited the farm;</seg> <seg type="Blame" subtype="LDS_LDS">but Indians insisted that Mormons, and not Indians, had killed the Americans.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">This affair had become so much the subject of conversation, that on the 17th, I started an Indian boy, named <persName key="Pete">Pete</persName>, who speaks the English language quite fluently, with instructions to proceed to <placeName type="county" key="Iron County, UT">Iron county</placeName> on a secret route, and to learn from the Piedes if possible, and also from the Utahs, what the nature of the difficulty was, and who were the instigators of it. He returned on the 23rd, and reported that he only went to Amman’s village, in <placeName type="county" key="Beaver County, UT">Beaver county</placeName>, where he met a large band of Piedes, who had just returned from <placeName type="county" key="Iron County, UT">Iron county</placeName>.</seg></p>
+    
+<p><seg type="Blame" subtype="IndiansLDSInfluence">They acknowledged having participated in the massacre of the emigrants, but said that the Mormons persuaded them into it. They said that about ten or eleven sleeps ago, <persName key="Lee, John D.">John D. Lee</persName> came to this village, and told them Americans were very bad people, and always made a rule to kill Indians whenever they had a chance. He said, also, that they had often killed the Mormons, who were friends to the Indians. <seg type="Massacre" subtype="Casualties">He then prevailed on them to attack the emigrants, who were then passing through the country, (about one hundred in number,)</seg> and promised them that if they were not strong enough to whip them, the Mormons would help them. <seg type="Massacre" subtype="Surrender">The Piedes made the attack, but were repulsed on three different occasions, when <persName key="Lee, John D.">Lee</persName> and the <persName key="Klingensmith, Philip">bishop</persName> of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, with a number of Mormons, approached the camp of the emigrants, under pretext of trying to settle the difficulty, and with lying, seductive overtures, succeeded in inducing the emigrants to lay down their weapons of defense and admit them and their savage allies inside of their breastworks, when the work of destruction began, and in the language of the unsophisticated boy, <hi rend="italic"><q>"they cut all of their throats but a few that started to run off, and the Piedes shot them!"</q></hi></seg> <seg type="Massacre" subtype="Survivors">He also stated that there were some fifteen or sixteen small children that were not killed, and were in charge of the <persName key="Klingensmith, Philip">bishop</persName>.</seg></seg></p>
+    
+<p><seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="IndiansLDSInfluence"><persName key="Lee, John D.">Lee</persName> and the <persName key="Klingensmith, Philip">bishop</persName> took all the stock (over a thousand head,) as also a large amount of money.</seg> <seg type="Encounter" subtype="Poison">The Mormon version of this affair is that the Piedes went to the emigrant camp and asked for meat, and they gave them beef with strychnine upon it, and that when <persName key="Young, Brigham">Brigham</persName> learned this fact, he sent word back to them <hi rend="italic"><q>"to do with the Americans as they thought proper."</q></hi> But I have not yet been able to learn that the <choice><sic>strynchaine</sic><corr>strychnine</corr></choice> had killed any of the Indians, or even made them sick.</seg></seg>A report also reached the Indian farm on Spanish Fork, about the 15th of September, that the Snake Indians, under a chief named <persName key="Little Soldier">Little Soldier</persName>, had attacked an emigrant, named <persName key="Squires">Squires</persName>, from <placeName type="state" key="Missouri">Missouri</placeName>, who was camped near Ogden, and driven off all his cattle, (over four hundred,) together with all the mules and horses belonging to him. But the Utahs made no hesitation in asserting that the Mormons took the stock themselves, and that they had learned all about it from some Gosh-Utes who live in <geogName type="valley" key="Rush Valley">Rush valley</geogName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSGreed"><seg type="Source" subtype="Indians">In confirmation of the truth of this report of the Utahs, I learned a few days ago from <persName key="Simon, Ben">Ben Simon</persName>, a Delaware Indian, who lives with the Snakes in Weaber valley,</seg> that sometime in the early part of September, <persName key="Huntington, Dirnie B.">Dirnie B. Huntington</persName>, (interpreter for <persName key="Young, Brigham">Brigham Young</persName>,) and <persName key="West">Bishop West</persName>, of Ogden, came to the Snake village, and told the Indians that 
+    
+<pb n="97" xml:id="mmm.doc.hurt.1860.097" />    
+    
+<persName key="Young, Brigham">Brigham</persName> wanted them to run off the 'emigrants' cattle, and if they would do so they might have them as their own. <persName key="Simon, Ben">Simon</persName> says the Snake chiefs consulted him about the propriety of undertaking the theft, and he advised them to have nothing to do with the cattle, which course they concluded to adopt, but <persName key="Huntington, Dirnie B.">Huntington</persName> and <persName key="West">West</persName> insisted on their taking the stock ; whereupon the chiefs told them that they did not want it, and if the Mormons wanted it let them go and get it themselves, and so the interview ended. <persName key="Simon, Ben">Simon</persName> thinks that if any of the Indians had anything to do with it they were hired by the Mormons, and says that he knows that the Mormons got the stock.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It may be objected by the incredulous that those charges are too vague and uncertain, and deficient in point of names and dates; in answer to which I would say, that the commission of these crimes need no proof, there existence being generally admitted. The only questions to be determined are who instigated them? and whose testimony is deserving the most credit&#8212;the Mormons or the Indians? And under existing circumstances I am free to say that I prefer yielding my credence to the more unsophisticated. <seg type="Context" subtype="UtahWar"><seg type="Context" subtype="IndianRelationsLDS">I have frequently been told by the chiefs of the Utahs, that <persName key="Young, Brigham">Brigham Young</persName> was trying to bribe them to join in rebellion against the United States by offering them guns, ammunition, and blankets, on condition that they would assist in opposing the advance of the United States troops into the Territory, and he has not only made these overtures by his agents, but has at sundry times made them in person. How far he may have succeeded in his plots of treason, at the expense of the government, may not as yet be fully known and understood, but one thing is certain, that the more powerful tribes of the Utahs and Snakes have so far resisted all the allurements that have been offered them and kept themselves untrammeled by this unholy alliance, and I am proud to say that they manifest no inclination whatever to participate in it.</seg></seg></seg></p>
+
+<p>And this fact has no doubt been a source of disappointment to this <hi rend="italic">ex officio superintendent of Indian affairs</hi>, as he persists in styling himself, and invoked upon my head a series of persecutions, which ran so high, at one time, that the destruction of the Indian settlement on the Spanish Fork (as I am credibly informed) was actually resolved upon, and nothing, perhaps, but the fear of open hostilities with the Indians prevented them from executing their resolution.</p>
+
+<p>Believing that I have maintained my position among them for the last three or four months under circumstances of the most extreme hazard to my life, I determined on the 27th day of September last to try to make my escape, and seek protection with the army then en route for <placeName type="state" key="Utah Territory">Utah</placeName>, and for an account of the particulars of that event I must refer to my letter of the 24th October to Colonel <persName key="Johnston, Albert Sidney">A. S. Johnston</persName>; a copy of which is also transmitted herewith.</p>
+
+<p>The policy which I deemed advisable to pursue with the Indians in this Territory, so far as they have been placed under my control, has incurred heavier disbursements than the appropriations by Congress would enable the Commissioner to liquidate, and consequently exposed myself to the reproach of being regarded as an injudicious public officer, and unworthy of the public trust.</p>
+    
+<pb n="98" xml:id="mmm.doc.hurt.1860.098" />  
+
+<p>But of this I have no disposition at present to complain, as I have ever admitted the tenacity with which the administrators of the government adhere to rules of economy in disposing of the national treasure. Neither have I any particular desire to assume responsibilities, but the conviction that the service demands my utmost exertions impressed itself upon my mind with a force too powerful for me to resist, consequently I have maintained this policy under circumstances of the most extreme adversity, and more recently, of danger to my life; yet I am gratified to say that I now realize all that I could reasonably have anticipated, and in the midst of rebellion and treason on the part of the white population of <placeName type="state" key="Utah Territory">Utah</placeName>, <seg type="Blame" subtype="LDS_LDS">I am able to present the major portion of the poor natives with hands unspotted and uncontaminated by this cursed evil.</seg> Having realized in this fact the consummation of my fondest hopes and only aim, I would respectfully say, in conclusion, that I have personally no further inclination to impose my services upon the country.</p>
+
+<closer>
+
+<salute>Respectfully, your obedient servant,</salute>
+
+<signed><persName key="Hurt, Garland">GARLAND HURT</persName>, Indian Agent, <placeName type="state" key="Utah Territory">Utah</placeName>.</signed>
+
+<signed>Dr. <persName key="Forney, Jacob">JACOB FORNEY</persName>, Superintendent.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.swisher.1881">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">How I Know. Or Sixteen Years' Eventful Experience</title>
+                <title level="m" type="sub"></title>
+                <author><forename>James</forename> <surname>Swisher</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.swisher.1881</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">How I Know. Or Sixteen Years' Eventful Experience</title>
+                    <author><forename>James</forename> <surname>Swisher</surname></author>
+                    <publisher>Jones Brothers &amp; Co.</publisher>
+                    <pubPlace>Cincinnati, OH</pubPlace>
+                    <extent>26-44</extent>
+                    <date when="1881">1881</date>
+                    <note type="source">James Swisher. <hi rend="italic">How I Know. Or Sixteen Years' Eventful Experience.</hi> Cincinnati, OH: Jones Brothers &amp; Co., 1881. 26-44.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-04"><name>Jalcyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+ <div1 type="chapter">
+ 
+<pb n="26" xml:id="mmm.anti.swisher.1881.026"/>
+
+<head type="main">Chapter II.</head>
+     
+<head type="sub">UTAH AND THE MORMONS.</head>
+
+<p><hi rend="smallcaps">RETURNING</hi> home at the close of the war, I remained for nearly two years, a portion of the time with my father, and the remainder with friends in <placeName type="county" key="Madison County, OH">Madison County</placeName>, <placeName type="state" key="Ohio">Ohio</placeName>. This period I will pass over without further notice.</p>
+
+<p>In 1863 an uncle, my mother's brother, went to <placeName type="state" key="California">California</placeName>. He was continually writing for me to come to him. I hesitated a long time. Finally he became, as he thought, permanently located in <placeName type="county" key="Piute County, UT">Piute County</placeName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>. Then he again wrote me, holding out inducements so strong that I could no longer resist. He wrote to his brothers and to me of the enormous fortunes that were made in a few days (like Jonah's gourd, that sprung up in a night), and that people who would or did come there would amass fortunes ten and twenty times faster than they could in <placeName type="state" key="Ohio">Ohio</placeName>.</p>
+
+<p>Consequently I could not rest satisfied until I had turned all my resources into cash, and the Fall of '68 found me in <placeName type="state" key="Utah Territory">Utah</placeName>, in a new mining camp located two hundred miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. I was green in the business of mining. I had some money; but I loaned it to uncle and his friends. The consequence was, I must work or starve. This now brings me up to the beginning of a three years' sojourn in <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<pb n="27" xml:id="mmm.anti.swisher.1881.027"/>
+
+<p><placeName type="state" key="Utah Territory">Utah</placeName> is situated in the great basin between the Rocky Mountains on the East and the Sierra Nevada on the West. Some of the valleys owned and worked by the Mormon saints are as fertile as any on the continent. They raise everything for their own use, and have considerable of an export trade with the adjacent States and Territories. But, for all that, I found it was as much as people could do to live there, for <placeName type="state" key="Utah Territory">the Territory</placeName> was populated with fanatics, and unless you were one of their creed, and agreed with them in their wild notions, you were liable to be forever lost unless you passed through the ordeal of Blood Atonement. You should be murdered for the remission of your sins. And they were careful that this should be done in secret. Not that the chosen of the Lord should operate with deadly revenge, on dark nights; but that the perpetrators of their criminal deeds might be the better concealed from the eyes of the Law and of the Christian world. Unless persons residing there were of their faith, or upheld them in their deeds of violence, such as murdering, stealing, and burning the property belonging to the Gentiles, they were regarded as evil doers, by the Mormon profession. Violent acts, fully premeditated, and without any cause or provocation whatever, were committed time and again; were almost daily occurrences, indeed. Numbers of instances could I mention, but they have been fully narrated heretofore by others, such as following up and murdering in the most brutal manner, <seg type="Massacre" subtype="Casualties">one whole emigrant train of men, women, and children</seg>, who were <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg>.
+
+<pb n="28" xml:id="mmm.anti.swisher.1881.028"/>
+
+<seg type="Massacre" subtype="Aftermath">To this day their bones lie bleaching in the sun. Some claim that they did have a burial; but, judging from appearances and the manner in which I saw the bones lying scattered over the plain, it would be very difficult for <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Haight, Isaac C.">Haight</persName>, <persName key="Higbee, John M.">Higbee</persName>, and <persName key="Lee, John D."><choice><sic>Delee</sic><corr>D. Lee</corr></choice></persName>, and their hordes of destroying angels to verify the statement</seg>
+
+<figure xml:id="mmm.anti.swisher.1881.028.figure">
+<p>MOUNTAIN MEADOW MASSACRE.</p>
+<figDesc></figDesc>
+</figure>
+
+<seg type="Massacre" subtype="Aftermath">that they did bury those that were massacred <seg type="Massacre" subtype="Location">at <geogName type="valley" key="">Mountain Meadow</geogName></seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Location">Taking a view of the picturesque and beautiful landscapes which compose <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, one would hardly think that this had been the scene of such a wanton outrage.</seg> But this was no worse than <choice><orig>hun-
+
+<pb n="29" xml:id="mmm.anti.swisher.1881.029"/>
+
+dreds</orig><reg>hundreds</reg></choice> of others. Several incidents have come under my own observation. One I may mention, occurred in <placeName type="settlement" key="Manti, UT">Manti</placeName>, <placeName type="county" key="Sanpete County, UT">San Pete County</placeName>. There was a young man living there who had become entangled in a love affair with a young lady of the same place. It so happened that Bishop S&#8212;, of the precinct, had had revelations; that is, the Lord had commanded him to take this young lady as his wife, notwithstanding the fact that he had several wives already. The bishop tried to reason the young lady out of having anything to say to the young man. But the fact was, the young couple were engaged to be married; and the bishop, finding that loving words to his desired darling were of no avail, resolved not to be outdone, but to seek revenge on the young man. Consequently he had a secret conference with a few of the brethren, and they decided to hold a meeting in the school-house, which meeting the young man should be prevailed upon to attend. At this meeting these plotters in a most cruel manner destroyed the manhood of the young man. He, after lingering some time in great suffering, died. Several instances of like character have taken place in <placeName type="state" key="Utah Territory">Utah</placeName>, all in obedience to the "revelations of the Lord," as given to those whose lives have been passed worse than brutes of the field. Another way of seeking revenge is for some one to sell horses or cattle to one not belonging to the faith. Then officers are sent to arrest him for stealing. He is certain to receive no mercy, because they will murder him on the road to trial, and make a report to the effect that he had been some desperado of the worst dye. The case of
+
+<pb n="30" xml:id="mmm.anti.swisher.1881.030"/>
+
+<persName key="Smith, D. P.">D. P. Smith</persName>, of <placeName type="county" key="Piute County, UT">Piute County</placeName>, is a good illustration. He bought a span of mules from a certain saint who resided in <placeName type="settlement" key="Ogden, UT">Ogden</placeName>, a settlement thirty-six miles north of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and took them to the mines on the Sevier River. They followed and arrested him on the charge of stealing the mules, and started to take him to the city for trial. They soon became tired of him, and, after hauling him twenty-five miles, they shot him, and buried the body in an old manure bank.</p>
+
+<p>One more illustration of their saintliness. Captain <persName key="Hawley, ">Hawley</persName>, now living at <placeName type="settlement" key="Pleasant Grove, UT">Pleasant Grove</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, hired a young man of seventeen years of age to work for him. After the young fellow had labored six months Captain <persName key="Hawley, ">Hawley</persName> paid him off with an old horse that was not worth a cent, since good broncos were selling at only ten and twelve dollars, a piece. The young fellow, glad to get anything, took the horse, and started toward <placeName type="settlement" key="Corinne, UT">Corinne</placeName>. Captain <persName key="Hawley, ">Hawley</persName> waited a sufficient time for his victim to get well on his way, then got the sheriff and followed and arrested him, before he had reached <placeName type="settlement" key="Corinne, UT">Corinne</placeName>, on the charge of having stolen the horse. The Mormons, being so bitterly opposed to worldly immigration into <placeName type="state" key="Utah Territory">Utah</placeName>, would charge any criminal offense against a Gentile already in <placeName type="state" key="Utah Territory">the Territory</placeName>. So it was with the young man with the horse. He was taken to the nearest tree and hung by the neck, his hands being untied. When he was swung off he commenced to climb the rope hand over hand. Captain <persName key="Hawley, ">Hawley</persName> then took a small cedar post that lay there and broke both of the young man's arms, and, after pounding him with the club until
+
+<pb n="31" xml:id="mmm.anti.swisher.1881.031"/>
+
+satisfied, he rode off and left the poor fellow to the mercy of some one who could show enough sympathy for such unfortunates to give him a burial.</p>
+
+<p>The people in <placeName type="state" key="Utah Territory">Utah</placeName> who profess to belong to the Mormon Church are two-thirds of them direct from Europe (Danes and Swedes being largely in the majority), and among the most of them ignorance predominates. I have seen in Southern <placeName type="state" key="Utah Territory">Utah</placeName> the women out plowing with cattle, breaking up the ground, harrowing and seeding it, and tending and gathering their crops, while the men were too shiftless to either help them or otherwise to provide sustenance for their household.</p>
+
+<p>Hundreds of them live in 
+
+<figure xml:id="mmm.anti.swisher.1881.031.figure">
+<p>MORMON PERSECUTION.</p>
+<figDesc></figDesc>
+</figure>
+
+adobe houses. These are made by mixing black earth to the consistency of thick mud and forming it into very large-sized blocks shaped like bricks. Then they are spread over a piece of ground leveled off for the purpose, there to be sun-dried, when they are considered fit material of which to build their houses. Then they go to the canon and there cut small straight poles for the roof. The poles are laid along the sides of the house, one end resting on a large log that is laid up for a center beam, the other on the top of the adobe wall; after which they mix more mud and water together
+
+<pb n="32" xml:id="mmm.anti.swisher.1881.032"/>
+
+and plaster these poles all over. This forms the roof. Shingle and all other expensive roofs are dispensed with. Here in these castles the saints have their wives brushing up their dirt floors, washing, mending, ironing, cooking and indeed providing for the support of the household, while they themselves spend their time in receiving revelations from the Lord regarding the future prosperity of Mormondom and the number of additional wives it would be necessary to take in order to obtain celestial glory.</p>
+
+<p><seg type="Context" subtype="Polygamy">The following illustration is given to convey some idea of marriage in <placeName type="state" key="Utah Territory">Utah</placeName>. A certain Mr. <persName key="Buntz, ">Buntz</persName>, who is now living in <placeName type="county" key="Sanpete County, UT">San Pete County</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, received a revelation from the Lord, as he claimed, that, notwithstanding he had already a number of wives, he must still increase his better half by taking to his arms and marrying three sisters who were living near by. He married all three at one and the same time with as much unconcern as if it were an every-day occurrence. Another instance I will notice. There was a certain bishop then living in <placeName type="settlement" key="Provost City, UT">Provost City</placeName>, who became enamored with a married lady of one of the adjoining villages. In order to obtain his sixth loved one he went to the lady's husband, and there in pleading tones he narrated the revelations he had received from the Lord, setting forth the way in which he must do in order to receive his share of celestial glory in the world to come. The husband listened very attentively until the bishop had finished his request; then, in a good-natured way, he showed him the fallacy of such proceedings both in a moral and religious view
+
+<pb n="33" xml:id="mmm.anti.swisher.1881.033"/>
+
+But the bishop was not to be argued out of his hope of celestial happiness. That night the husband was followed and murdered in cold blood upon his own doorstep. Some who read this may think that I am overstating the facts. Indeed such is not the case; for I have given only a few instances when I could recount more than one hundred such, most of which can be verified by many who are still living in <placeName type="state" key="Utah Territory">Utah</placeName>, and in surrounding States and Territories.</seg></p>
+
+<!-- The remainder of the chapter is not relevant to the Mountain Meadows Massacre:
+
+<p>I will next speak of the scenery. In traveling through <placeName type="state" key="Utah Territory">Utah</placeName> from the north-east you are constantly passing into and out of ca&#241;ons with mountains on either side, towering for thousands of feet above you. These mountain sides, where not too rocky and abrupt, are covered with a dense growth of timber, while between the mountains in the canons are clear running brooks of cold water, in most of which trout abound.</p>
+
+<p>In traveling along one frequently passes alkaline springs, boiling springs, and springs of almost freezing water oftentimes located only a few feet apart. Many of these springs are intermittent in their action and they are all a source of unfailing interest to the traveler and geologist.</p>
+
+<p>The Jordan River and City Creek run through the <placeName type="settlement" key="Salt Lake City, UT">city of Salt Lake</placeName>, affording an abundant supply of the purest water in any city as large as this, in the world. Most beautiful trout are hooked out of the streams, by the little boys, right in the street.</p>
+
+<p>After leaving <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, going south, one is struck with the prominence of the old Wasatch range,
+
+<pb n="34" xml:id="mmm.anti.swisher.1881.034"/>
+
+now ascending gradually, then rising abruptly in broken, rough, and dangerous looking precipices. At other places it looks as if the country had been inundated with water, and the rock, being in some places softer than its connecting sides, had been worn away, leaving canons of all shapes, depths, and lengths.</p>
+
+<p>The valleys through <placeName type="county" key="Juab County, UT">Juab</placeName> and <placeName type="county" key="Sanpete County, UT">San Pete Counties</placeName> are made very productive by irrigation. This is done by
+
+<figure xml:id="mmm.anti.swisher.1881.034.figure">
+<p>BRIGHAM YOUNG.</p>
+<figDesc></figDesc>
+</figure>
+
+taking water and conducting it through ditches all over the land under cultivation. After their crops are planted, and it becomes necessary to moisten the ground, the water is turned into these small ditches and left running until the earth is sufficiently moistened, when it is shut off until it becomes necessary to repeat the operation. The valleys are of a dark, loamy soil mixed with sand, and before they are brought under cultivation are covered with sage brus&#8212;a small scrubby bush that grows sometimes to the height of six feet. It is found from the British possessions on the the North to the Gulf of Mexico on the South. All the valleys and plains throughout the mountains of the West produce the sage bush in great abundance. The sage bush is the home of the jack-rabbit. Dozens of them
+
+<pb n="35" xml:id="mmm.anti.swisher.1881.035"/>
+
+may be seen at any time running in all directions from the traveler, as he journeys over the plains.</p>
+
+<p>Some of the loftiest peaks of <placeName type="state" key="Utah Territory">Utah</placeName> can be seen at a distance of many miles. Mt. Nebo is as prominent as any, with an elevation of a little over twelve thousand feet. As the traveler journeys on South, through <placeName type="state" key="Utah Territory">the Territory</placeName>, he travels over sandy deserts, unsettled and uncultivated, except in a few places where the streams flow through from the mountains, furnishing water sufficient for irrigating purposes. Generally along these streams a few of the saints have settled in adobe houses, built after their own fashion, usually surrounded by a stone wall built in the form of a square, and often containing as much as an acre of land. Into this they remove their families, and use it as a fortress in defending themselves against the Indians, when they make their raids through the settlements.</p>
+
+<p>The bench lands all over <placeName type="state" key="Utah Territory">the Territory</placeName> produce great quantities of bunch grass, a very nutritious grass that grows to the height of eighteen inches, and in bunches. In passing through <placeName type="state" key="Utah Territory">the Territory</placeName> you see thousands and thousands of cattle feeding upon this grass. The valleys are productive of no timber whatever, unless it be a few scattering cottonwoods along the banks of the streams. But sufficient timber grows in the mountains for all necessary purposes. Mahogany and cedar constitute the kinds that grow on that side of the ranges facing the South, while the pine, fir, spruce, balsam, and small scrub-oaks, with a few more scrubby little bushes, constitute the timber on the North slope.</p>
+
+<pb n="36" xml:id="mmm.anti.swisher.1881.036"/>
+
+<p>Mines were discovered in <placeName type="state" key="Utah Territory">Utah</placeName> years ago; but owing to the influences brought to bear by the Mormon leaders upon their not so well enlightened followers, mining was prohibited within the limits of <placeName type="state" key="Utah Territory">the Territory</placeName>. But as time passed on, and people began to emigrate to the West in greater numbers, crowding full the older places, and seeking for newer fields, where fortunes might be dug from the earth, at last, and in the face of all opposition from the Mormons, prospecting and mining throughout <placeName type="state" key="Utah Territory">the Territory</placeName> began. So that to-day thousands of honest, hard-working miners can be seen toiling and striving for the treasures of gold and silver, and other minerals that lie buried underneath the surface earth of <placeName type="state" key="Utah Territory">Utah</placeName>. Notwithstanding the many difficulties that the pioneer miners of <placeName type="state" key="Utah Territory">the Territory</placeName> had to encounter and overcome, some of them have done extremely well. And now some who were so bitterly opposed to opening up mines there, finding it useless to resist the fast growing population of miners, are zealously engaged, themselves, in opening up some of <placeName type="state" key="Utah Territory">the Territory</placeName>'s precious wealth.</p>
+
+<p>Gold, silver, lead, copper, zinc, iron, salt, and a few other minerals are found in many parts of <placeName type="state" key="Utah Territory">the Territory</placeName> in sufficient quantities to leave a balance over all expenditures in running them.</p>
+
+<p>At different places throughout <placeName type="state" key="Utah Territory">the Territory</placeName>, salt is found in the mountains, and is easily taken out and refined. Large deposits of coal are found in various places throughout <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+
+<p>While in <placeName type="state" key="Utah Territory">Utah</placeName> my home was in a mining camp
+
+<pb n="37" xml:id="mmm.anti.swisher.1881.037"/>
+
+located on Sevier River. A great number of locations was recorded. The recorder was kept busy writing out and recording claims, as people would do nothing but locate and then record. I often times thought to myself, "What will this amount to?"   But green as I
+
+<figure xml:id="mmm.anti.swisher.1881.037.figure">
+<p>THE MORMON TABERNACLE.</p>
+<figDesc></figDesc>
+</figure>
+
+was, I could only do as others did, I then knew no more about mining than a two-year-old boy knows about making an arasta, or quartz mill. I worked a few days and obtained a little money&#8212;enough for a grub-stake&#8212;then I went to hunting for hidden millions, along with
+
+<pb n="38" xml:id="mmm.anti.swisher.1881.038"/>
+
+others. I would write out a notice and post it up on everything that my ignorance claimed as a very valuable mine. It was only a short time until every bowlder and pile of rocks for miles around the camping spot was located and recorded. The recorder would most always do the work of recording, and wait for his fees until the mine became a paying property. And I rather think that the recorder of Ohio District is yet waiting, like Micaw-ber, for some of the miners that located there to turn up.</p>
+
+<p>It would sometimes happen that two or more notices would be found on the same bowlder. Then war would be the result. A mine is of no value until a few persons are butchered over it, in an effort to determine the question as to who shall be the possessor of it.</p>
+
+<p>Thousands of locations are made throughout the mountains, when work to the amount of one dollar has not been done upon them; yet the location is named, filed, and recorded, and the worthy claimant struts around and talks of his mine as though it were worth thousands, when in reality it is not worth the paper he has soiled in writing the notice. But stay with your mine, pard, you may sell it for several thousand yet. It is very easy to tell a prospector from any one else. The prospector always has his pockets full of rocks of all sizes, shapes, colors, and kinds, each piece of which he will tell you the nature of, the probability of its value, and all the different combinations of mineral that it contains, with as much ease, and all the grace of a first-class mineralogist. If he is not able to do this he is a "tenderfoot," and has much to learn in the art of <choice><orig>min-
+
+<pb n="39" xml:id="mmm.anti.swisher.1881.039"/>
+
+ing</orig><reg>mining</reg></choice>. To prospect successfully he should send to some friend in <placeName type="state" key="California">California</placeName> and have some very rich specimens of gold rock sent to him. Then, if he keeps his little tongue in the right channel, the whole camp is soon on its feet, anxious to see a specimen of the richest gold-bearing quartz rock that was ever heard of; and the next day, and for days after, the lucky miner is watched in his every movement, to see in what direction he leaves camp. He is then still watched and carefully trailed.</p>
+
+<p>Miners in well doing are the most excitable of men. Often and often will they leave mines or claims that pay well, to go to a distance, led by some new excitement; and when they arrive there it frequently happens that they find nothing but disappointment and starvation staring them in the face. The White Pine excitement, in <placeName type="state" key="Nevada">Nevada</placeName>, is a good illustration. Hundreds flocked there to spend the last cent they had, and then to leave, packing their blankets on their backs; that is, they who were fortunate enough to have blankets, for hundreds had not even a meal's provisions to serve them on their exit from what a few days before was supposed to be one of the richest camps the world had ever seen.</p>
+
+<p>A miner's fortune is like a mushroom&#8212;it springs up where least expected, then again it vanishes with as great rapidity as it came. I shall always remember the first mine I endeavored to work for myself. After prospecting for two months on all quarters of the compass from <placeName type="settlement" key="Bullion City, Ut">Bullion City</placeName>, the mining town I was holding responsible for my bed and board, I at last resolved to go to work on what I supposed the best of my many locations. So
+
+<pb n="40" xml:id="mmm.anti.swisher.1881.040"/>
+
+I laid in a supply of drills, hammers, powder and fuse, and hired a man to work with me for four dollars a day. Then, after spending a day surveying the location and arguing the many advantages one spot had over another for working, we at last concluded that the cheapest and best way to work the mine advantageously was to go down below the mine on the slope of the mountain and
+
+
+<figure xml:id="mmm.anti.swisher.1881.040.figure">
+<p>NEW MINING TOWN.</p>
+<figDesc></figDesc>
+</figure>
+
+run a tunnel in until we struck the vein, then we would be at a sufficient depth to ascertain the value of our ore. So we spent the whole day, and did nothing except to come to the conclusion that a tunnel was the cheapest and best method, and that by running in twenty feet we could tap the lead at about that or a little greater depth, and that the next morning we would
+
+<pb n="41" xml:id="mmm.anti.swisher.1881.041"/>
+
+begin digging the tunnel. After digging, picking, drilling and blasting one month we had run a tunnel in twenty-seven feet and had found no ledge. Then what to do I did not know, for my money was exhausted and I had been running in debt at the store for provisions two weeks. At last I resolved to have some older, experienced miners to go up with me and see my claim and give me some idea of what I should do in order to show up my vein of ore, for I was sure it was there some place, and plain to be seen on top I thought. Some said I was working it right; others were doubtful. At last one of them agreed to come the next morning and to help me work some on it from the top in exchange for work, which I accepted.</p>
+
+<p>The next morning found me on the ground as usual, but not to tunnel. I was now about to sink a shaft right down on what I considered to be the vein. After spending the day in prying around large rocks and pushing off smaller ones, we were ready to begin sinking the next morning. Before noon we had sunk a shaft clear through my mine, and there was now no more of an indication left than there is on a barn floor. So I was out about three hundred dollars in time, money, and provisions, not counting my tools in, for I still had them&#8212;all because I was no miner, but simply wanted to do something I knew nothing about. This was my first out in mining.</p>
+
+<p>But I remained by no means an idle prospector, showing nothing but notices on file. A company of ten of us went in on the Webster Location Lode, and we located
+
+<pb n="42" xml:id="mmm.anti.swisher.1881.042"/>
+
+all of the available ground that the law specified we should have and more too, and then went to work on it, some of my partners expecting to sell out in a few days for fabulous amounts. But my courage was none of the best in developing; for my first work spent in tunneling had proved such an entire failure. We had hard rock to blast, and progress was slow. At a called meeting of the members of the company, we concluded to put in the remainder of the work done in developing by sinking a shaft parallel with the vein. We got along very well with this until we had attained the depth of fifty or -sixty feet, when the walls became scaly and we had to timber the shaft. Then the water came in in torrents, which had to be kept out, and the consequence was our progress was so impeded that we were two years sinking on the Webster Lode and only obtained a depth of two hundred feet. I always will think it is a good mine, could it be worked with any reasonable expense; but it can not. So there it lies yet with no one doing anything with it.</p>
+
+<p>Thus it is with thousands of others who have located and worked claims until they were satisfied that the mineral extracted from the lead would not pay expenses of labor and cost of milling, and have abandoned claims that sometimes assay hundreds of dollars to the ton. In this way prospecting is going on all over the West and not one mine out of every ten thousand that is located and even put on file in the county or district clerk's office ever pays back the cost of expenditures, counting money, time, provisions, tools, and all other necessary expenses.</p>
+
+<pb n="43" xml:id="mmm.anti.swisher.1881.043"/>
+
+<p>It can, therefore, plainly be seen that all men can not make a fortune mining; but the majority of people that are carried away by mining excitements rush in pell-mell, without ever taking time to think what they can or will do when they get there. They seem to think that the precious metals are lying around in quantities sufficient for them to amass enormous fortunes, so that they may live at ease and in luxury and splendor the balance of their lives; and all this is to be obtained within a short time and at little or no expense, merely expecting to shovel the gravel into a sluice box, or by some other method to separate the gold from the mother earth. Now, friends, this is all a mistake. Where one man reaps a fortune in a mining field, scores are retiring to hunt some other place where the chance would seem better in their favor, and they will never find it. Mining is a legitimate business, as much so as farming or any other branch of industry that one might engage in. But yet there is more chance work connected with mining than with all the other different pursuits of business. I am well aware there are a great many writing to the contrary, and I would not wish to try to dissuade any one from mining; but, on the contrary, go if you want to. There is yet plenty to learn. Hundreds will go to the West, expecting to make their mark in some profession where shrewdness and education are required. They will find all the professions full and much more so than is needed. Some want to know where to go. Bear patiently with me and I will show you where there is yet room before I come to the end of this book.</p>
+
+<pb n="44" xml:id="mmm.anti.swisher.1881.044"/>
+
+<p>Mining, when you are on a good mine, is an invest-ment or enterprise that surpasses all other enterprises that I know of as a high road to fortune. Thousands of dollars have rewarded the sturdy prospector in some instances in a single day. But the day is past when the miner can take up his pan and in an hour or two pan out enough dust to supply himself and friends with abundant funds. One meets hundreds of good old fellows, who will tell of the money they made in the early days of <placeName type="state" key="California">California</placeName> and how they spent it, thinking there were such vast quantities lying in the gulches, that they could be possessors of all the luxuries of the land as long as they lived.</p>
+
+-->
+
+</div1>
+</body>
+</text>
+</TEI>

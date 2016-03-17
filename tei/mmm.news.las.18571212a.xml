@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571212a">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Untitled [Letter to the Editor from Cajon Pass]</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+	    </titleStmt>
+	    <editionStmt>
+		<edition>
+		    <date>2010</date>
+	        </edition>
+	    </editionStmt>
+	<publicationStmt>
+		<idno>mmm.news.las.18571212a</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Los Angeles Star</title>
+		<title level="a" type="main">Untitled [Letter to the Editor from Cajon Pass]</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Los Angeles, CA</pubPlace>
+		<date when="1857-12-12">December 12, 1857</date>
+	    </bibl>
+	</sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2008-08-11"><name>Katie Heupel</name>Original Transcription</change>
+	<change when="2008-08-11"><name>Katie M. Heupel</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+	
+	<pb n="unknown" xml:id="mmm.news.las.18571212a.001"/>
+	
+	<head>CAJON PASS, SAN BERNARDINO COUNTY, CAL.,</head>
+	
+	<dateline>Nov. 26th, 1857.</dateline>
+	<opener><salute><hi rend="italic">Editor of Los Angeles Star:</hi></salute></opener>
+
+<p><seg type="Context" subtype="LDSPersecution">Dear Sir&#8212;Being about fifteen miles from the beautiful and peaceful city of <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, on my return to <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>, and camped upon the same spot where the pioneer Mormon camp rested a few days, on their entrance into <placeName type="state" key="California">the Golden State</placeName>, about six years and a half ago, this circumstance brings to mind many fond remembrances and friends, though comparatively few, compared with the prejudices of the public, and the hosts of bigoted, selfish, ignorant, and blood-thirsty wretches, who if it were in their power, would consign us to the fate that now awaits an honest, upright and law-abiding people, in the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">The circumstances connected with our entrance and living in <placeName type="state" key="California">the State of California</placeName>, are well known to the world, though many are willfully ignorant of our object and intentions. We came not as the multitudes that visit the shores of "Ophir," and throng the fashionable resorts of your cities in search of gold and the perishable things of the world. No! But we came in the name of the Lord, and under the authority of His Holy Priesthood, as vested in His Prophets and Apostles, in these last days. We came with "palm, and with olive branches" in our hands,&#8212;"peace and good will to mankind." We came to bear testimony of the work of God, and to establish His kingdom in this modern <hi rend="italic">Sodom</hi>. We toiled from year to year, but the selfishness and hardness of the people's hearts, will prove their own destruction; they have closed the door in their own faces, and cut themselves short of an inheritance in the kingdom of God. Under these circumstances and the continual <hi rend="italic">bellowing of the press</hi>, exposing (pretendingly) the iniquity of the Mormons, but in most instances, lying in every sentence, we became basely misrepresented.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">As you properly remarked in the <hi rend="italic"><orgName type="newspaper" key="Los Angeles Star">Star</orgName></hi> of the 21st inst., that we were "honest upright, peaceable and law-abiding citizens;" in many instance this was true-not that we cared for or respected the laws of the Gentiles, only so far as they corresponded with the higher and purer laws of the priesthood, so far as your laws answered our purposes, so far as we were "law-abiding" citizens. For we acknowledge no law, no creed, nor system of men. But we revere and honor the laws and commandments of God, as He reveals them through His living servants, the Prophets, and those who are ordained and inspired by the the [sic] holy priesthood. In obedience to His commandments, we are now returning to Zion; and in obedience to His laws we 	are willing to sacrifice our lives for the redemption of Zion, and in defence [sic] of Zion's noble sons. We have borne our testimony, faithfully, and sincerely, to the inhabitants of the <placeName type="state" key="California">State of California</placeName>, but it has been rejected, and our names and characters bitterly used by an hireling <hi rend="italic">press</hi>. We cease our testimony; we now shake the dust from off our feet, as testimony against you. We seal the fate of this wicked State, and it shall be subject to the curse of Almighty God,&#8212;to famine, drought, war and earthquakes. Nay! This State shall not be alone in its weeping and woes; but, inasmuch as this nation has dishonored the servants of God, and rejected his word, sudden destruction shall speedily overtake it, unless it repenteth!</seg> Farewell.	<seg type="Source" subtype="Unattributed">W.
+A Mormon Missionary.</seg></p>
+
+<p>Desirous that all shall have an opportunity of explaining their sentiments to the public, we give insertion to the foregoing characteristic letter. It will be seen that the Gentile world is in rather a hopeless condition, given over to the righteous indignation of the saints. We pity the case of these poor deluded people, who are thus forced to leave all at the command of their ruthless leaders, and cannot but express our astonishment at the strength of that fanaticism which impels them to face all dangers, in <choice><sic>defence</sic><corr>defense</corr></choice> of their religion.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

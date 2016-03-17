@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfeb.18571112">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Letter From San Bernardino: The Mormon-Indian Outrages on the Plains</title>
+                <author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.news.sfeb.18571112</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2010</date>
+                <availability>
+                    <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="j">San Francisco Evening Bulletin</title>
+	 	    <title level="a" type="main">Letter From San Bernardino.</title>
+		    <title level="a" type="sub">The Mormon-Indain Outrages on the Plains.</title>
+	            <author></author>
+                    <publisher></publisher>
+                    <pubPlace>San Francisco, CA</pubPlace>
+                    <extent></extent>
+                    <date when="1857-11-12">November 12, 1857</date>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+        	<change when="2011-04-21"><name>Jaclyn Cruikshank Vogt </name> Concept Highlighting</change>            
+		<change when="2010-02-16"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	        <change when="2009"><name>Laura Weakly</name>Model Encoding</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+	<div1 type="newspaper">
+	    
+	    <pb n="unknown" xml:id="mmm.news.sfeb.18571112.001"/>
+	    
+	    <head type="main">Letter from San Bernardino.</head>
+	    <milestone unit="section" rend="horbar"/>
+	    <head type="sub">The Mormon-Indian Outrages on the Plains.</head>
+	    <milestone unit="section" rend="horbar"/>
+	    <head type="sub">[FROM A REGULAR CORRESPONDENT]</head>
+	    <milestone unit="section" rend="horbar"/>
+	    
+	<div2>
+	 <opener>
+	    <dateline>SAN BERNARDINO, CAL., Nov. 1, 1857</dateline>
+	 </opener>
+
+<p>EDITOR OF THE BULLETIN:&#8212;<seg type="Source" subtype="PublicMind">For the last four weeks, the citizens of our country have been more or less excited, from time to time, on receipt of additional information from the plains.</seg> <seg type="Source" subtype="Attributed_Honea">In my last, dated 18th October, I gave you an interesting narrative by <persName key="Honea, S. B.">Mr. S. B. Honea</persName>.</seg>&#8230;</p>
+
+<p>Since that time, I have been as far out as 65 miles on the emigrant road in company with <persName key="Babbitt, M.">Mr. M. Babbitt</persName>, with a wagon load of provisions, subscribed by our independent citizens for the relief of <seg type="Blame" subtype="IndiansLDSInfluence">the suffering emigrants who were so cruelly mal-treated and robbed by the Mormons, and their allies, the Indians,</seg> We sent another wagon load of provisions out, which preceded us six days, and met the emigrant train near the last crossing of the Mohave.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSGreed">To do justice to our Mormon neighbors, I must say, that on the arrival of nine men who came in on foot from <geogName type="waterway" key="Cottonwood Springs">Cottonwood springs</geogName>, a distance of 250 miles from this place, to solicit immediate relief for those remaining with their families, some of the Mormons thought this a good opportunity to redeem their characters by sending out a small portion of provisions to their relief. This was done, and two or three of their men went with it, and on meeting the first division of the train which was some 30 or 40 miles in advance of the other part of the train, <persName key="Van Luvan">Mr. Van Luvan</persName>, <persName key="Brook, J. H.">J. H. Brook</persName>, and <persName key="Brown, Peter">Peter Brown</persName>, who were Americans, distributed their load to the suffering emigrants. The Mormons, <persName key="Daley">Mr. Daley</persName> and <persName key="Whipple">Whipple</persName>, gave out a portion of their load upon the same terms; but the Mormons proceeded to the second division, and there sold the balance of their load at the following moderate prices: flour 8c, sugar 20c, coffee 20c, tobacco 75c per plug, &amp;c., thus realizing a handsome profit off what they sold, although the main part of their load was given by the merchants and others not of their fraternity. I mention this to show that their avarice cannot be satisfied, even if they have to suck the heart’s blood of their victims.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I found the most of the people of this train short of provisions, enjoying hearty appetites, and a determination to be revenged on the Mormons for the injuries they have received at their hands. I need not extend my remarks, as the statements of the gentlemen of this train will suffice to convince all candid persons that the Mormons are the leaders and participators in these foul outrages practiced upon our fellow countrymen</seg>&#8230;I enclose the following statement of <persName key="Daivs, George B.">Mr. Geo. B. Davis</persName>, of <placeName type="state" key="Arkansas">Arkansas</placeName>.</p>
+
+<p><persName key="Davis, George B.">Mr. Davis</persName> says, that during his stay in <placeName type="settlement" key="Salt Lake City, UT">Salt lake City</placeName>, of four days, he found the Mormons very hostile to the government, and also against the emigrants who were on their way to <placeName type="state" key="California">California</placeName>. The Mormons made no secrecy of their intentions; they declared that the U.S. troops should never enter their cities or settlements, and that if they did enter, they would fire their cities, and lay it all in ashes, and carry their provisions into the mountains, and then <seg type="Context" subtype="IndianRelationsLDS">take up their abode with their Indian brethren</seg>, and starve Uncle Sam out of <placeName type="state" key="Utah Territory">the Territory</placeName>. He proceeded on his way as far as <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, when he was informed by the bishop and the people that they were expecting to hear of the train which had passed that place a few days before to be cut off by the Indians. <seg type="Blame" subtype="LDS_LDSGreed"><seg type="Blame" subtype="LDS_LDSLeadership">Because they refused to sell grain to the emigrants, (according to the instructions of <persName key="Young, Brigham">Brigham Young</persName>,) a Dutchman became excited, and swore that if he if he had a good riding horse, he would go back to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> and shoot <persName key="Young, Brigham">Young</persName>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">The threats very much incensed the people of <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName>, and the men collected together their rifles, etc., to follow the train and cut it to pieces. But, according to the bishop’s own acknowledgment, he stopped the boys from doing so, by promising to set the Indians upon them which would save the credit of the Mormons.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy"><seg type="Context" subtype="Polygamy">The reason why the bishop at <placeName type="settlement" key="Beaver, UT">Beaver</placeName> became so communicative, and confident with <persName key="Davis, George B.">Mr. Davis</persName>, was because Davis did not oppose them in their religious views and doctrines of polygamy</seg>. This encouraged the bishop in his nefarious designs, supposing that a little sophistry would convert Mr. Davis to his views and finally persuade him to stay. He asked Mr. Davis for his only daughter, promised great things, etc.; but Miss Davis remonstrated, as also did her parents at the first intimation of this matter. Mr. Davis saw plainly his true position and the dangers which his family would be subjected to if he stayed there any longer.</seg> So he promised the bishop that he would go as far as <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName> anyway. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDSLeadership">The bishop advised Mr. Davis, for the respect he had for him and his family not to join the Missouri train, then behind; for it would be dangerous, as all the Mormons were <hi rend="italic">“down on all the Missourians,”</hi> and he expected that difficulties with them and the Indians would ensue. But, if he could not better himself, he was to drop the two hindmost bows of his wagon, and that would be a sign to the Indians. If Mr. Davis would do so, the bishop would guarantee that not one hair of his head should be hurt.</seg></seg> Mr. Davis reviewed the whole matter, and concluded to act the part of a <hi rend="italic">true American</hi>&#8212;to join the train, and share the dangers of the Missourians, and live or die with them.</p>
+
+<p>The company proceeded on their way, and passed through the troubles described by <persName key="Honea, S. B.">S. B. Honea</persName>. At the Muddy, <seg type="Blame" subtype="LDS_LDS">a number of the members of this train, noticed a striking peculiarity of the Indians which surrounded their wagons. It was noticed that some of the painted Indians had blue, gray, and different colored eyes; they had straight, curly, and fine hair, differing materially from the other Indians in this respect. <persName key="Davis, George B.">Mr. Davis</persName> remarks, also, that a number of those painted Indians had streaks, and spots of white in the creases round their eyes, being in close proximity to the eyeballs; also around and behind the ears it was discovered that the skin of the white man was quite apparent. The painted <hi rend="italic">whites </hi>were shy; they did not act with the same freedom and boldness as the aborigines did; <seg type="Blame" subtype="LDS_LDSGreed"><seg type="Massacre" subtype="Spoils">but undoubtedly they were the leaders of the band of robbers that drove off the three hundred and twenty-six head of cattle that night.</seg></seg></seg></p>
+
+<p><seg type="Encounter" subtype="Poison"><seg type="Source" subtype="Attributed_Christian"><seg type="Blame" subtype="LDS_LDS">In respect to the poison story as reported by <persName key="Christian, J. Ward">J. Ward Christian</persName>, and <seg type="Source" subtype="Reprinted">published in various papers in California</seg>, it is regarded by every person in this [the Dukes] train as a fabrication</seg>, on the part of the Mormons to clear themselves of suspicion, and to justify the Indians in murdering that company of emigrants.</seg> Our company camped four days at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, where the poisoning is said to have been done, was there ten days after the other company had passed, and at the same time as <seg type="Source" subtype="Attributed_TannerMathews"><persName key="Mathews, William">Wm. Mathews</persName>, of <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, who started the tale</seg>, but during our stay, we never heard anything of the poisoning. We used the same water, and between five and six hundred head of our cattle and horses used the same water, yet we discovered no poison, nor heard anything of it, till we got to <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, 85 miles from <geogName type="waterway" key="Corn Creek">Corn Creek</geogName>, where <persName key="Mathews, William">Mathews</persName> started the story.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><persName key="Hillhouse, John">Mr. John Hillhouse</persName>, another member of the train, says, that about the month of July last, <persName key="Angle">Mr. Angle</persName>, a nephew to <persName key="Young, Brigham">Brigham Young</persName>, told him in great confidence that <persName key="Rich, Charles C.">Charles C. Rich</persName>, late of <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, brought with him to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, a wagon load of ammunition. And also, he was informed by other persons, that <persName key="Mathews, William">Wm. Mathews</persName> had a wagon load of gun-powder when he arrived at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> last spring, for the purpose of carrying on war with Uncle Sam&#8230;</seg></p>
+
+<p>&#8230;This train consisted of seventy-one souls; Men, 27; women, 17; children 22. The second division of this train, under the supervision of <persName key="Turner, Nicholas">Capt. Nicholas Turner</persName>, of Missouri, is expected to arrive here in the course of five or six days. It consists of ten men, five women, and fourteen children&#8230;</p>	<closer><signed>&#8212;PILGRIM</signed></closer>
+</div2>
+</div1>
+        </body>
+    </text>
+    </TEI>

@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.price.1877">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Two Americas</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Rose</forename> <forename type="middle">Lambart</forename> <surname>Price</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.price.1877</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">The Two Americas</title>
+		            <title level="m" type="sub">An Account of Sport and Travel. With Notes on Men and Manners in North and South America.</title>
+                    <author><forename>Rose</forename> <forename type="middle">Lambart</forename> <surname>Price</surname></author>
+                    <publisher>Sampson Low, Marston, Searle, and Rivington</publisher>
+                    <pubPlace>London, ENG</pubPlace>
+                    <extent></extent>
+                    <date when="1877">1877</date>
+		    <note type="source">Rose Lambart Price.  <hi rend="italic">The Two Americas.</hi> London, ENG: Sampson Low, Marston, Searle and Rivington, 1877. 228-270.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-07-15"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+            <change when="2011-02-16"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+        </revisionDesc>
+        
+    </teiHeader>
+
+<text>
+<body>
+<div1 type="chapter">
+
+<pb n="228" xml:id="mmm.wa.price.1877.257"/>
+  
+<head>CHAPTER X.</head>
+
+<p><hi rend="center">Lathrop&#8212;Merced&#8212;American Politicians&#8212;Tuolumne Grove&#8212;The Yo-Semite Valley&#8212;Garrote&#8212;Mammoth Grove of "Big Trees," Calaveras County&#8212;South Park Grove of "Big Trees"&#8212;Lake Tahoe&#8212;Fishing on Tahoe&#8212;Carson&#8212;Night ride on a "cow-catcher"&#8212;Visit to a silver mine&#8212;Gold&#8212;Earthquakes&#8212;Virginia City&#8212;Land of Mormon&#8212;Funeral of George A. Smith&#8212;The Tabernacle&#8212;A Mormon sermon&#8212;Sulphur Springs&#8212;The trowel-bayonet&#8212;The Great Salt Lake&#8212;Jackass rabbits.</hi></p>
+
+<!-- Following Section Not Relevant to Mountain Meadows Massacre:
+
+<p>A<hi rend="smallcaps">t</hi> Lathrop we halted for dinner, and here I parted
+with my friends, Mr. and Mrs. G., who continued
+their journey to San Francisco. The next passenger-
+train for Merced did not go for five hours, and I was,
+after they left, somewhat disconsolately contemplating
+a large grizzly bear confined on the platform in a
+cage, and anatomically considering the best place for
+driving in a bullet if ever I got a shot at one,&#8212;a
+favourite habit of mine when examining captive wild
+beasts,&#8212;when I heard the whistle of a goods train,
+and finding that I could go by it at once if I liked,
+and save a long delay, I jumped on board and
+started.</p>
+
+<p>Our track lay through a perfectly flat stubble-
+covered plain, and though it was interesting to know
+that much of the land we were passing over, though
+a common prairie and covered with shaparall and
+scrub not six years ago, was now yielding from fifty
+
+<pb n="229" xml:id="mmm.wa.price.1877.258"/>
+
+to a hundred bushels of grain an acre, the monotony
+became unbearable, and I was heartily glad when the
+journey ended. These great plains are horribly 
+irksome. In England a man can amuse himself for
+hours&#8212;at any rate, I can&#8212;by selecting the places in
+a fence we are coming at, that, out hunting, I should
+ride for, and looking as the train passes to see
+whether my judgment was sound, or if I should have
+got a "cropper." Here the land was flat as a 
+pancake, not a fence or tree to be seen, or even a bird,
+to break the never-ending stagnation of sameness.</p>
+
+<p>Merced is a town of but little over two years’
+growth. It has a first-class hotel, "El Capitan,"
+which is four stories high, and can accommodate two
+hundred visitors; and a handsome Court House,
+which would be an ornament to a town ten times its 
+size and importance. From Merced the tourist starts
+by coach for Yo-Semite.</p>
+
+<p>The rivalry that exists between the different
+companies renders a decision as to the route to be
+taken somewhat baffling, each tout swearing that the
+other’s road is uninteresting or wrong, and that the
+unavailing regret of a lifetime will follow its 
+selection. Being hard up for amusement to kill time,
+I made no choice until the different stages were
+actually about to start, and was considerably 
+entertained by the skirmishes which continually took
+place at intervals during the day, between the rival
+agents to secure my dollars.</p>
+
+<p>In the evening I was fortunate enough to hear a
+couple of republican members of Congress, who
+were what is usually termed "stumping the
+
+<pb n="230" xml:id="mmm.wa.price.1877.259"/>
+
+country," give vent to their pent-up patriotism by a
+violent attack on another body of political opponents
+termed "independents." The speeches took place
+opposite the hotel, and though the audience chiefly
+consisted of people belonging to the Democrat 
+persuasion, they listened to the address of their 
+antagonists with attention and forbearance, and gave
+them a far more liberal hearing, than a Radical
+audience at home would ever dream of giving 
+Conservatives similarly situated.</p>
+
+<p>A gentleman, called Bidwell, candidate for the
+post of Governor, was the chief object of their 
+vituperation; and the fact of his owning a farm of some
+fifty thousand acres, which was all highly cultivated,
+and had been made so entirely by his own energy
+and capital, seemed their principal grievance and
+cause of complaint against him.</p>
+
+<p>In the course of the speeches, one of the 
+honourable gentlemen described how, from the summit of a
+neighbouring hill, he had beheld the vast plain
+covered with standing crops, amid which was situated
+this gentleman's country-house, and how his blood
+boiled at such an act of monopoly. "Am I," he
+cried, "in England or America? Is this the castle of
+some feudal baron&#8212;or the house of an American
+citizen? Am I under the Cross of St. George&#8212;or
+the glorious ‘Stars and Stripes’ of liberty and
+freedom? Citizens, this land should have belonged
+to you. Each hundred and sixty acres should have
+supported a happy family," &amp;c., &amp;c. As the property
+in question was by no means an unusually large one
+for California, and as there are any amount of millions
+
+<pb n="231" xml:id="mmm.wa.price.1877.260"/>
+
+of acres of equally valuable land in the States, still
+lying idle and uninhabited, I thought it a little
+rough on Mr. Bidwell, that, after taking so much
+trouble, an outsider should quietly distribute his 
+property into one-hundred-and-sixty-acre lots; though
+goodness knows such political reasoning is not 
+uncommon, as one of our own shining lights attempted
+a line of policy not very dissimilar with regard to
+other people’s estates in Ireland.</p>
+
+<p>All staging in America commences abominably
+early, and six o’clock one morning saw me start with
+a four-horse team for the Yo-Semite <hi rend="italic">via</hi> Coulterville.
+I was fortunate in having pleasant companions for 
+the trip, and during my stay in the valley we
+generally did our sight-seeing together. Coulterville
+is an almost deserted mining-town. In its immediate
+vicinity the surface of the land is burrowed and
+turned over in every direction, lasting monuments to
+all ages of the race for gold, which rendered California
+once so famous; but not till we reached Dudley’s, a
+comfortable little crib where we spent the night, did
+the aspect of the country become a bit inviting, or
+show the slightest approach to pretty scenery. Next
+day the drive became more interesting. For miles
+we passed through the Foot Hills, covered with 
+endless acres of forest; and gradually getting into the
+Sierra Nevadas, beheld the magnificent timber for
+which this part of the world is so justly celebrated.</p>
+
+<p>All the trees were large, but occasionally we met
+some veritable giants among the sugar-pines, which
+ran frequently up to two hundred feet in height, often
+having a diameter of as much as nine feet at their
+
+<pb n="232" xml:id="mmm.wa.price.1877.261"/>
+
+base. Great, however, as these trees undoubtedly
+were, the Tuolumne grove of "big trees" (<hi rend="italic">Sequoia
+gigantea</hi>), which we drove through in the afternoon,
+quite surpassed them. The stump of one, partly
+burned out, was over twenty feet in diameter, and
+many of the others were but little inferior to it in
+size. Most of them ran to a height of from two
+hundred to two hundred and fifty feet, and their huge
+stature and bulk certainly produced an effect on all of
+us of more astonishment and wonder than any trees
+had ever done before. One of our party, an American
+colonel, who had lost an arm during their late civil
+war, was justly indignant at the manner in which
+many of the trees were disfigured by idiots hacking
+their names on the bark. All through the Yo-Semite
+I afterwards found this to be the prevailing custom,
+and though I thought our own people were the
+greatest snobs in existence for cutting, hacking, and
+disfiguring trees, churches, and buildings of all sorts,
+I am glad to be able to add as a rider, to gratify my
+national conceit, that in this most unpleasant family
+failing our Yankee cousins lick us hollow.</p>
+
+<p>We passed through some exquisite morsels of
+scenery, and at last reached the crowning point of all
+that is enchanting&#8212;the great valley of the Yo-Semite
+itself. Words are quite inadequate to do it justice,
+or convey to the reader anything of an idea of this
+marvellously beautiful spot. I not only never saw,
+but cannot even conceive anything more soul-
+inspiring or grand. What so many skilled writers
+have failed in attempting to describe, I shall not
+venture on; for I never read an account yet that
+
+<pb n="233" xml:id="mmm.wa.price.1877.262"/>
+
+brought the picture to my mind’s eye that I now saw
+before me.</p>
+
+<p>The road into the valley was just sufficiently wide
+to allow our leaders room to move along, but nothing
+could have passed us on the way. In some places the
+grade was exceedingly steep; the corners were 
+invariably as sharp as they could possibly be made with
+the slightest regard to safety, and, the whole way
+down, the smallest move off the road would have
+entailed certain destruction for all of us. I occupied
+the box-seat, and was delighted with the manner our
+driver (the "Buffalo" he was called, and I do not
+know his real name) handled his team of five horses,
+the three leaders being harnessed abreast. With the
+brake hard on, we went at first a fair trot all the way.
+Over such ground a man should have a nerve of iron,
+a hand of steel, and the eye of a hawk, and my friend
+"the Buffalo" seemed to possess all of them. As I
+have observed before, there are no "whips" in the
+world that can touch the Californians&#8212;I do not mean
+to say that there are not a few "muffs" among them;
+but the general lot are marvels, and if you sit by the
+side of a good man on visiting the Yo-Semite for the
+first time, I do not think ages will ever efface your
+enjoyment of the drive.</p>
+
+<p>There is little to choose in the matter of hotels.
+They are not bad, but, considering the length of 
+time the valley has been declared a "national park,"
+none of them are as good as they ought to be. Smith’s
+Cosmopolitan Saloon and Bath-house is the only
+establishment among them that shows any of the 
+enterprise and improvement that the Americans as a
+
+<pb n="234" xml:id="mmm.wa.price.1877.263"/>
+
+rule are famous for. If, immediately after your hot
+and dusty drive, Mr. Smith makes <hi rend="italic">himself</hi> for the
+thirsty traveller one of his celebrated iced claret
+punches, a very happy termination to the day’s 
+journey will have been satisfactorily arrived at, as he
+is certainly one of the most clever manipulators of
+liquor in the States. <hi rend="italic">Apropos</hi> of drinks, much as the
+Californians praise their wine to strangers, I observed
+they studiously refrained from drinking it 
+themselves; and though San Franciscan bars are 
+invariably crowded, I never heard any of the <hi rend="italic">habitués</hi> ever
+call for the beverage they so frequently vaunt as
+equalling the wines of France or Spain.</p>
+
+<p>Next morning we rode to the Nevada falls, 700
+feet high and called by the Indians, Yo-wi—e; had
+luncheon at Snow’s hotel, and after a swim in a 
+deliciously cool little pond just above them, sent our
+ponies round, and walked to the Vernal, or Pi-wa-
+ack, which signifies a cataract of diamonds, and has
+about 350 feet of clear descent.</p>
+
+<p>Our next expedition was to Mirror Lake, on whose
+surface during a clear still morning, the reflection of
+the "South Dome," 4737 feet above the Merced river,
+and the perpendicular face of smoothly cut granite on
+the side towards Tenaza Ca&#241;on, are as distinctly
+visible as one’s own countenance when looking at a
+glass. The "Bridal Veil" fall, Po-ho-no, or Spirit of
+the Evil Wind, 940 feet, was also done. This was
+a very easy day’s work, as, with the exception of a 
+slight scramble of a few hundred yards over rocks to
+get to the immediate base of the Bridal Veil, both
+places were visited by carriage.</p>
+
+<pb n="235" xml:id="mmm.wa.price.1877.264"/>
+
+<p>Glacier Point and South Dome formed the next
+trip. This, in my opinion, is the cream of the whole
+lot of points of observation to which trails have been
+cut, and strangers recommended to visit. By a 
+winding zigzag path an altitude of over 4000 feet is
+gradually attained. As each grade in the road is
+ascended, fresh beauties in the valley are brought to
+view; cattle and horses become mere specks; until
+at last the grand old El Capitan&#8212;Tu-tock-a-mu-la&#8212;
+lies almost beneath us, and on looking over a rock at
+the summit, an apparently perpendicular wall shows
+a sheer descent to the bottom, and startles the gazer 
+by its terrible abruptness and fearful depth. From
+this point one not only gets an entire view of the
+valley, absolutely looking down on the Yo-Semite
+falls, themselves 2634 feet, but gains also an 
+extended range of the Sierra Nevada Mountains, which
+rise in serried peaks, pine-clad or snow-capped, far, far
+away in the distance. Nothing can be more beautiful
+or grander; and if time should be an object, and only
+one day be devoted by the hurried traveller to see the
+valley, he cannot do better than select Glacier Point
+as the one thing to be visited.</p>
+
+<p>In the Yo-Semite are several very beautiful trees
+for cabinet purposes, and a German residing here
+has manufactured many pieces of inlaid work formed
+entirely from the woods found in the valley. The
+Manzaneta (<hi rend="italic">Arctostaphylos glauca</hi>), the Buck-eye
+(<hi rend="italic">&#1236;sculus Paira</hi>), and the Laurel (<hi rend="italic">Tetranthera 
+Californica</hi>), all take a beautiful polish, and are much
+sought after for veneering.</p>
+
+<p>I killed a few dozen small trout with fly in the
+
+<pb n="236" xml:id="mmm.wa.price.1877.265"/>
+
+Merced river. The fish run small, and the water is very
+clear and much hacked in the immediate vicinity of
+the hotel; but by riding about eight miles down the
+river, tolerably fair sport can be obtained, and any
+one possessed of ordinary skill will easily capture
+from three to six dozen.</p>
+
+<p>My friend Mr. G., who is, however, a first-class
+fisherman, constantly made much larger bags; but
+ordinary anglers will easily manage the numbers I
+have given them, though the hotel-keepers invariably
+talk of their extraordinary shyness, and pretend that
+the Indians alone are able to kill trout on the Merced.</p>
+
+<p>Having exhausted the principal views of the Yo-
+Semite, though still wishing to linger, we tore 
+ourselves away, and at the usual disagreeably early hour
+started one morning for the Mammoth and South
+Park Grove of Sequoias in Calaveras County, a
+three days' drive by stage from the valley. Our
+intention was to have halted for the night at Chinese
+Camp, which, with any regard to equalising the
+distance and comfort of next day's drive, would
+undoubtedly have been our wisest plan; but at
+Garrote we were seized upon by a predatory and
+plausible inn-keeper, who by the bribe of a butterfly
+to one man, and a swim to another, prevailed on the
+whole party to halt there, and I was perforce obliged
+to follow their example, though much against my
+will. The butterfly was described as being rare and
+beautiful; the bathing as refreshing as divine. The
+road, like all Californian ones, was dusty in the
+extreme, and cleanliness being next to godliness,
+only a good deal easier of attainment, I became
+
+<pb n="237" xml:id="mmm.wa.price.1877.266"/>
+
+somewhat reconciled to my fate, and cross-questioned
+our plausible friend as to the locality of the stream
+he had been describing. How far off was it ? Oh,
+quite close&#8212;not a quarter of a mile,&#8212;and he
+would show us the way. Was it deep? Not
+very, but we could wade in nicely. Away started
+the Colonel and myself in the direction pointed out,
+and at last, after a hot and tiresome walk, of at least
+a mile and a half, came on the long-looked-for water.
+It was a dirty little mud ditch, not four feet wide,
+used for conveying water to some neighbouring
+hydraulic and placer mines. Not two inches of
+water ran over its slimy-looking bottom, and the
+wading <hi rend="italic">in</hi> could only be accomplished by wading
+<hi rend="italic">through</hi> two feet of soft mud. The butterfly, I am
+happy to say, was as great a sell as the bath; but I
+will do the fellow justice by saying that his feeding
+was good, his charges reasonable, and his house
+scrupulously clean.</p>
+
+<p>Our next day’s drive lay through a country
+burrowed and excavated in every possible direction
+by the seekers after gold. Round Senora parties
+were still busily engaged at this captivating species
+of toil, and several mines were pointed out by our
+driver which were yielding very heavy receipts
+above their working expenditure. Parts of the
+country were pretty, and particularly so near where
+we crossed the Tuolumne river by a ferry kept by
+an old Yorkshire man, who gave us several bunches
+of fine grapes. At Murpheystown, a small village
+entirely supported by a mining population, we
+halted for the night, and a good plunge in the clear
+
+<pb n="238" xml:id="mmm.wa.price.1877.267"/>
+
+blue water of an old worked-out and deserted mine
+over a hundred feet deep, reconciled us to our
+disappointment on the previous day.</p>
+
+<p>The elections were still being busily pushed, and 
+noisy politicians loudly proclaimed their individual
+opinions, until gradually in the small hours of the
+morning I went to sleep with the sounds of 
+Republican, Independent, Democrat, and Dolly Varden,
+rapidly chasing one another through my bewildered
+brain, till Morpheus reigned triumphant, and 
+temporary oblivion at last conquered all things. Next
+morning we again started, but this day only sixteen
+miles had to be accomplished, and a four hours’ drive
+&#8212;the horses were bad and the roads hilly&#8212;landed us
+at the Mammoth Grove. In one of the narrowest
+and worst parts of the road we suddenly came on a
+waggon load of "campers." To pass abreast was
+impossible, and I soon had an opportunity of judging
+of one of the many resources of Californian travel.
+The driver of the waggon, unhitching his team,
+fastened them behind, and we, all getting out of our
+coach, clapped on to the pole and quietly dragged
+the obstructive conveyance over the almost 
+precipitous bank, locked the wheels to prevent its
+sliding, and passed above in safety.</p>
+
+<p>The hotel kept by Messrs. De Briges and Sperry
+at the "big trees" is comfortable and clean, and the
+<hi rend="italic">cuisine</hi> far superior to anything we met with in the
+Yo-Semite. The approach to it passes between the
+Two Sentinels, each over three hundred feet high;
+the largest is twenty-three feet in diameter, and on the
+right-hand side lies the celebrated Mammoth Grove.</p>
+
+<pb n="239" xml:id="mmm.wa.price.1877.268"/>
+
+<p>Description almost fails to give a person an 
+adequate idea of the vastness and grandeur of these huge
+vegetable monsters, and even after viewing them, one
+is obliged to measure, to get inside, to walk round
+or crawl on the fallen ones, to gradually comprehend
+their enormous structure. One of these trees which
+has fallen is called the "Father of the Forest," and
+must have been four hundred and fifty feet high,
+and forty feet in diameter before it fell. Through a
+hundred feet of the trunk, which is hollow, I rode
+a moderate-sized horse without stooping my head.
+In 1853 one of the largest trees, ninety-two feet in
+circumference, and over three hundred feet high,
+was cut down. Five men worked twenty-five days
+in felling it, and as many as thirty-two dancers have
+figured together on its stump.</p>
+
+<p>Near the stump lies a section of the trunk, twenty-
+five feet in diameter. And beyond lies the immense
+trunk as it fell, measuring three hundred and two
+feet from end to end. Upon this was constructed a 
+bar-room and a bowling alley, which stretching along
+its upper surface for a distance of eighty-one feet,
+afforded ample space for two alley-beds side by side.
+I believe there are ninety-three of these sequoias in
+the grove, not including those under twenty years’
+growth, but out of the number there are ten, each
+thirty feet in diameter; and over seventy, between
+fifteen and thirty feet for the same measurement.
+All the largest have names nailed upon them, and
+"Starr King," three hundred and sixty-six feet high,
+is, I believe, the biggest standing in the group.</p>
+
+<p>Having dawdled for a couple of days among these
+
+<pb n="240" xml:id="mmm.wa.price.1877.269"/>
+
+monsters, and varied the amusement by catching a
+few trout in a small stream ("creek," they always
+call them here) running within a couple of miles of
+the house, we determined on visiting the South Park 
+Grove, six miles distant from our hotel.</p>
+
+<p>Horses, guides, and luncheon being forthcoming,
+we started off, and after an exceedingly pleasant ride
+arrived at a likely-looking stream about a mile from
+the grove, where, having my trout-rod with me and
+a cast of flies, I soon managed to kill sufficient fish to
+form an acceptable addition to our mid-day meal.
+The South Park Grove is far away the finest of all
+the groups of <hi rend="italic">Sequoia gigantea</hi> yet discovered. It
+contains one thousand three hundred and eighty of
+these trees, many of them of immense size. Into a
+hollowed portion five of us rode our horses, which
+had plenty of room to turn without the slightest
+inconvenience, and the guide declared he had seen
+fifteen mounted people inside at the same time. A
+tall, wiry-looking man has located himself in this
+grove, and pre-empted the usual allowance of land
+about it. He took us to his house, which is formed
+in the hollow of a nobly-grown sequoia. It made
+a first—rate chamber, affording plenty of space for
+bed, table, and chair, and even allowed him room to
+offer, during very severe weather, stabling and 
+protection to his trusty steed. In this singular abode,
+for eleven years, he had resided alone and happy.
+No rent to pay, taxes to afflict, or wife to torment
+him. He ate when hungry, and slept when tired;
+fished during the summer, and hunted bear and
+deer and did his trapping during winter, and was,
+
+<pb n="241" xml:id="mmm.wa.price.1877.270"/>
+
+according to his own account, perfectly contented
+with his lot. One of the chief charms of this grove at
+present, independent of its vast size, is that everything
+is in a perfect state of nature. The trees are 
+undoubtedly much larger and better grown than any
+of those at the Mammoth Grove, and are not spoiled
+by having a lot of names, like so many signboards,
+stuck upon them. They are less visited, and are 
+consequently less disfigured by Tom, Dick, and Harry 
+hacking their uninteresting designations all over the 
+bark; and, as no, hotel or bar-room is in the 
+immediate vicinity, silence and nature reign supreme. On
+the embers of an oak-bark fire I cooked our trout,
+and a delightful afternoon was passed in wandering
+quietly about this wonderful grove. The sugar-pines
+(<hi rend="italic">Pinus sabininai</hi>) seem to attain more astonishing
+proportions in the immediate vicinity of these "big
+trees" than in any other locality. Some of them
+attain a height of two hundred and seventy feet, and
+not unfrequently a diameter of from nine to eleven
+and a half and twelve feet. Their proportions are,
+to my mind, far more symmetrical than the sequoia;
+and, notwithstanding the latter’s enormous growth,
+I was often puzzled to tell, while looking at them
+together, which tree I admired most.</p>
+
+<p>After leaving Calaveras our party broke up. Some
+went east, and others west; and, tumbling across
+another wandering baronet, we directed our steps
+towards Virginia City, the great centre of all silver
+mining; the modern Potosi in fact of North America.
+Mr. G. had given me a letter of introduction to Messrs.
+Mackay and Fair, the managers and part proprietors
+
+<pb n="242" xml:id="mmm.wa.price.1877.271"/>
+
+of the California and Virginia Consolidated Mines, at
+the present moment the most wealthy and best paying
+in the world, and H., thinking the opportunity of
+seeing them under their auspices too good to be lost,
+came with me, though he was in a red-hot hurry to
+get to Denver for the shooting.</p>
+
+<p>The scenery from the train in the neighbourhood
+of Cape Horn was undoubtedly grand, and as the
+guide-books have it: "Timid ladies draw back with
+a shudder, one look into the awful chasm being 
+sufficient to unsettle their nerves, and deprive them of
+the wish to linger near the grandest scene on the
+whole line of the trans-continental railroad." Had I
+not so very recently seen Yo-Semite, I might have
+admired it more, but under the circumstances I was
+rather glad when at 10 <hi rend="smallcaps">P.M.</hi> our train arrived at a
+station called Truckee, where, at a second or third rate
+kind of inn attached to the railway station, we were
+obliged to pass the night.</p>
+
+<p>Our drive next morning from Truckee to Lake
+Tahoe, along the banks of the River Truckee, was one
+to be remembered. A well-kept road followed the
+river’s bank through forest and meadow, forming a
+kind of ca&#241;on. On each side rose steep 
+mountains, in some places showing extraordinary rock
+formations, whose fantastic outlines and queer 
+conformation added considerably to the general effect of all
+around us. The river was clear as crystal and formed
+a very beautiful piece of water, spoiled, however, for
+trout fishing by the numberless saw-mills and mill-
+dams that are established along its banks; this part
+of Nevada being the great lumber region of the
+
+<pb n="243" xml:id="mmm.wa.price.1877.272"/>
+
+state, and Truckee City (almost every town of half-
+a-dozen streets, or even houses, in America is called
+a city) the principal dep&#244;t and chief market.</p>
+
+<p>On our road we were pointed out the scene of a
+recent coach disaster, in which a couple of people
+were killed, and a few more badly injured. It seems
+that in going down a steep incline with a high bank
+on one side and a precipice on the other, the brake 
+had carried away. The horses became unruly, and
+finally the stage was pitched about sixty or eighty
+feet down an almost precipitous declivity, killing and
+wounding the people mentioned. The horses were, I
+believe, all killed, and on examining the place, my
+only surprise was that the whole party had not 
+suffered the same fate.</p>
+
+<p>Our intention had been to cross Lake Tahoe at
+once and go on to Virginia City, but while waiting
+for the steam-boat which was to convey us across the
+lake, H. became so enamoured of a beautiful dish of
+trout, some of them running about five pounds, that
+he determined on staying to try his luck, a local
+fisherman promising to provide the necessary 
+equipment, and I was only too glad of the delay. Lake
+Tahoe is really very beautiful. The water is 
+singularly clear. Even on coral banks in the Indian
+Ocean, atolls rising from an almost unfathomable
+depth nearly perpendicularly, and celebrated for
+the extraordinary translucency of the blue water
+that surrounds them, have I never seen to greater
+depths. On a calm, clear, bright day, when the
+surface of the lake is unruffled, a white plate can
+easily be discerned a hundred feet beneath its tranquil
+
+<pb n="244" xml:id="mmm.wa.price.1877.273"/>
+
+waters. The counties of Eldorado and Placer in
+California, and Washoe, Ormsby, and Douglas in
+Nevada, share it between them. Its greatest depth
+is 1700 feet, its length twenty-two miles, and width
+about ten miles.</p>
+
+<p>After a swim we repaired to the boat, where our
+fisherman awaited us, and judge of our surprise when
+the means of capture met our astonished gaze. A
+huge cod-line, armed with a hook large enough to
+kill a shark, was the rude and unsportsmanlike 
+implement used for killing the speckled beauties, whose
+good looks we had both so much admired. No play
+and no sport could possibly be obtained, as neck and
+crop by main force the wretched fish is bundled into
+the boat. Of course fishing under such circumstances
+was a "dead sell," and not having our own gear with
+us, nothing could be done. The Tahoe hotel was
+exceedingly comfortable, and I can hardly recommend
+a pleasanter or more charming spot for any one
+willing to linger a week amid delightful scenery,
+with the certain knowledge of returning each day
+after his wanderings to a good dinner; but should he
+be an angler, let him remember to bring his own rod.</p>
+
+<p>Our next day was somewhat eventful. It was
+polling day for California, and instead of being 
+conveyed directly across the lake to meet the coach for
+Carson, we were trotted round to accommodate the
+different voters whose patriotism demanded their
+presence at the poll. The cruise was certainly
+pleasant enough, and one could hardly fail to admire
+the beauty of all around, but the delay nearly 
+necessitated our spending the night in Carson, an event,
+
+<pb n="245" xml:id="mmm.wa.price.1877.274"/>
+
+under the peculiar circumstances of our being pressed
+for time, devoutly to be dreaded. On arriving at the
+pier, we were, as I expected, several hours late for the
+train; and not even the driving of Hank Monk,
+Mark Twain’s "b&#234;te noir," served to do us any good.</p>
+
+<p>Carson, the capital town of Nevada, seemed a
+bustling thriving spot. The shops appeared good
+and the streets crowded, but there was nothing of any
+particular interest to be seen or done, and we wanted
+to get on. All the passenger trains for that day had
+departed, and our only chance being that the manager
+of the line would give us permission to travel up on
+one of the freight trains during the night, we sent in
+our cards and requested an interview. This 
+gentleman was no exception to the rest of his countrymen 
+with whom I have had the pleasure of being brought
+into contact; and being as kind and obliging as all
+the educated Americans I have ever come across
+invariably are to Englishmen who require a favour
+and ask for it civilly, he readily gave the necessary
+order, which enabled us to reach Virginia City 
+without stopping; At 10 <hi rend="smallcaps">P.M.</hi> our train started. The
+waggons were all quite full; the standing room on
+the engine (already pretty well crowded by the
+driver, stoker, and conductor) was hot and dirty; so
+a good-natured clerk belonging to the company, who
+came down to see us off, recommended our sitting just
+over the cow-catcher in front of the engine.</p>
+
+<p>I remember once seeing in ‘Punch’ a cartoon which
+represented a director somewhat similarly placed, with
+the exception, that I think he had a glass of grog and
+an arm-chair. I did not envy his position even then,
+
+<pb n="246" xml:id="mmm.wa.price.1877.275"/>
+
+but little thought that circumstances over which I
+had no control would have ever led me to be situated
+infinitely worse off. Up we both scrambled, the
+whistle screamed, and holding on tightly by a
+stanchion, we dashed forward into darkness. Our
+billet had certainly the sensation of novelty to 
+recommend it, and after confidence became restored by
+getting over the first half-dozen miles in safety, we
+lighted our pipes, and began somewhat to relish our
+queer ride. As well as we could make out, the line
+seemed occasionally to run over ground somewhat
+similar in places to Cape Horn on the Union Pacific.
+Lights and fires at times glimmered in the valleys
+many feet beneath us, and an occasional streak like
+silver told us that we passed a stream. Going through
+the tunnels produced an odd sensation. However, on
+the whole we both enjoyed the trip, and in a few hours
+our journey ended by the engine suddenly detaching
+itself from its burden, and halting at a "Round house"
+about a mile from the city.</p>
+
+<p>The conductor I imagine went with his freight, as
+he did not take our fare and we never saw him again;
+the stoker disappeared likewise, and the driver was
+of an uncommunicative and slightly morose 
+disposition, not given to answer questions. "Where are we
+to go?" asked H. "The engine stays here," was his
+laconic reply; and almost intimating by his silence
+that we might go to the d&#8212;l if it pleased us, he also
+vanished from our view.</p>
+
+<p>Our position was so ludicrous and absurd that we
+both fairly screamed with laughter. Alone on an
+engine, in the dark, hampered with a lot of luggage,
+
+<pb n="247" xml:id="mmm.wa.price.1877.276"/>
+
+and not knowing where on earth we were, for a few
+minutes we could only look at each other and roar.
+There seemed every prospect of our spending the
+night by the wayside, when fortunately we discovered
+a couple of men smoking in the engine-house, who
+were of a more friendly and amiable disposition than 
+the driver. They allowed us to leave our baggage
+in a place of safety, and telling us the town was about
+a mile off, pointed out the way, and H. shouldering a
+light portmanteau, we again started in the dark.
+Tripping over railway sleepers, barking our shins
+against unseen obstacles, at last we reached the
+town, a couple of as disreputable looking objects as
+well could be imagined. The road between Lake
+Tahoe and Carson is far and away the dirtiest in
+the West, which is saying a very great deal; and
+the blacks gathered on the engine, lying over the
+coating of dust picked up during our drive with
+Hank Monk, rendered us simply filthy. H. also
+carried his portmanteau himself, a thing very few
+free-born Americans ever dream of doing, and the
+remarks that greeted us on passing through a 
+somewhat disreputable portion of the town were, if not
+complimentary, at least good-natured and amusing.
+"Where are you poor beggars going to?" "Pretty
+well played out I guess?” and "Have a drink?"
+were the various comments of the sympathising
+"innocents," who evidently took us for discharged
+miners or workmen on the tramp. At last we 
+succeeded in getting comfortably settled in an hotel,
+and were glad enough to turn in after our 
+adventurous but somewhat fatiguing journey.</p>
+
+<pb n="248" xml:id="mmm.wa.price.1877.277"/>
+
+<p>Next day I presented my introduction to Messrs.
+Mackay and Fair, who were exceedingly kind, and
+sent one of their foremen to show and explain the
+workings of their mine.</p>
+
+<p>Our first visit was to the robing-room, where, after
+divesting ourselves of every stitch of clothing, we
+were soon equipped in full miner’s costume, of shirt,
+trowsers, thick stockings, boots, and an old hat. Thus
+apparelled we were conducted to the mouth of the
+shaft, and holding tightly to an iron bar running
+across the cage which held us, we rapidly descended
+into the bowels of the earth. Fifteen hundred feet
+were soon run down, and stepping out of the cage
+we were introduced to Mr. Lamb, the leading foreman
+of the gang of hands at present working, who giving
+us each a lantern, conducted us round the various
+workings, passages, and shafts; pointing out what he
+deemed interesting, and explaining everything we
+saw. The heat in places was intense, but 
+ventilation effected by engines worked by compressed air
+rendered it perfectly healthy. No noxious gases are
+ever developed, and naked lights are carried freely
+and without danger. In each shaft was placed a
+barrel of iced water, from which the tired miners
+drank copiously, as, stripped to their trowsers and
+pouring with sweat, they from time to time repaired
+to them for this grateful refreshment.</p>
+
+<p>The quality of ore obtained in the various 
+workings varied considerably, but some was of immense
+value, and so thoroughly impregnated with gold
+that even by the dull light of the miner’s candle
+we could see the yellow flecks that betokened the
+
+<pb n="249" xml:id="mmm.wa.price.1877.278"/>
+
+presence of the precious metal. In these places we
+were literally surrounded by silver. The ground we 
+trod on was silver, almost pure, and the sides of the
+shaft and the roof were formed of the same substance.
+A square, formed by cuttings some 200 feet long,
+was almost entirely composed of this extraordinarily
+valuable deposit, and according to the most reliable
+authority the estimated value of what we ourselves
+beheld was £74,000,000 sterling. The work on the 
+men is severe, but as none receive less than sixteen
+shillings a day, and a foreman gets £750 a year,
+there is little difficulty in providing as many hands as
+are required. As the ore is excavated from the mine
+the vacant space is carefully shored up with timber,
+and eventually a solid mass of wood replaces the
+abstracted metal. It was singular to observe the
+commencement of the "find" in the shafts. As
+regular as possible were the marks which betokened
+the presence of the metal, which was preceded by dirt,
+clay, and porphyry. The end of a worked-out shaft
+always finished by showing silver, porphyry, clay, and
+dirt, in as regular a succession as the strata through 
+which we entered. I was surprised at the extreme
+dryness of the workings; hardly a drop of water was
+to be found in any of them except what was used for
+drinking purposes, and occasionally water had 
+absolutely to be pumped on the timbers to prevent dry rot.</p>
+
+<p>Such enormous excavations as are here perpetually
+being carried on necessarily take proportionately
+enormous masses of timber to replace them.
+Hundreds of thousands of square feet of ore have to
+be replaced by an equally great quantity of wood,
+
+<pb n="250" xml:id="mmm.wa.price.1877.279"/>
+
+and whole forests are soon buried deep in the inmost
+recesses of the earth, peradventure after the lapse of
+many years to undergo a strange reconstitution, and
+bother some scientific discoverer as to how on earth
+such enormous masses of&#8212;whatever it may be&#8212;got
+together. The mere conveyance of these forests,
+doomed to such premature burial, was in itself a
+herculean labour, until the managers of the mine, at
+the cost of about a quarter of a million of dollars,
+built a water flume fifteen miles in length, which,
+from the heavily-wooded summits of the Sierras
+west and north-west from Huffaker, belonging to
+the company, conveys at little expense and with
+extraordinary rapidity all the timber they can
+possibly require. The flume is constructed of planks
+two inches thick, and built in the shape of the letter
+V. To gain a uniform grade it was found necessary
+to build it on trestle work and stringers from one end 
+to the other, and this framework, which in some places
+is forty-eight feet high, is substantial enough to support
+a narrow-gauge railway, it being thoroughly braced
+longitudinally and across. All the main supports,
+which are five feet apart, are firmly set in mud sills;
+the boxes rest in brackets placed four feet apart, and
+these again rest upon substantial stringers. Mr.
+Fair described a trip he took by nailing a piece of
+board at the end of one of the V-shaped boxes, and
+being floated down by the workmen.</p>
+
+<p>A strip of wood nailed across furnished a seat,
+and being once started, away he flew at the rate of
+twenty miles an hour for a commencement. The
+average grade is sixteen inches to sixteen feet, but
+
+<pb n="251" xml:id="mmm.wa.price.1877.280"/>
+
+the sharpest fall is three in six, which is, however,
+only for two hundred feet, and over this he flew at 
+such a pace that he could hardly gain breath. H.
+and myself were both extremely anxious for a sail on
+such queer waters, and begged hard for a ride. Mr.
+Fair, however, declared the risk too great, that he
+had only gone down as a matter of duty, and that
+nothing would ever induce him to do so again. As the
+workmen go down it almost every day, this was all
+rubbish; however, he would not give us a mount, and
+we were both a good deal disappointed at his raising
+our curiosity without gratifying it.</p>
+
+<p>At one of the richest deposits our guide begged
+we would take a sample of the ore, and seizing a
+pick, I set to work at the part being cleared out. It
+was astonishing with what surprising ease the pick
+detached large masses of metal, and selecting a small
+piece strongly marked with gold, I took it away in
+remembrance of our visit. I never saw anything
+more interesting than these extraordinary mines, and
+we both felt quite bewildered at the enormous
+amount of wealth we beheld all round us.</p>
+
+<p>In connection with these mines, Mr. G. related a
+singular fact which I fancy is not generally known,
+but which must I imagine upset many a cherished
+theory on the subject of earthquakes.</p>
+
+<p>While he was a resident in Virginia City, an
+earthquake of unusual severity one day terrified all
+its inhabitants. Houses shook, roofs fell in, and
+frightened women and children rushed into the
+streets thinking their last hour surely had arrived.
+After a few terrible shocks, the commotion subsided
+
+<pb n="252" xml:id="mmm.wa.price.1877.281"/>
+
+and tranquillity again reigned in the shaken town.
+Immediate apprehension for their own safety having
+ceased, the cry instantly became, "The miners!" Away
+rushed mothers and children to the mouths of the
+various shafts that honeycombed the mountain.
+Again terror, more intense than that caused by the
+fear of personal safety, seized the mother and the
+wife, and half dead with excitement, they reached the
+pit’s mouth. The miners, astonished, looked at them,
+and could not make out what was the matter. The
+earthquake! "Guess they had felt no earthquake.
+What the thunder was up?" So indeed it was; and
+fifteen hundred feet under ground not the slightest
+movement of a shock, so severe on the surface as to
+cause the most intense alarm even among a 
+population comparatively inured to such visitations, was
+even felt.</p>
+
+<p>Having been through all the workings, a task that
+took nearly three hours in an atmosphere somewhat
+resembling the hot room in a Turkish bath, we bid
+adieu to our good-natured conductor, regretting that
+our unscientific education had not enabled us better 
+to follow and comprehend the many descriptions he
+so kindly tried to make us understand; and once
+more getting on the cage we ascended to earth.</p>
+
+<p>On our arrival we found a warm bath in readiness,
+and a glass of excellent whisky-and-water soon made
+us fit to examine the next process in the working of
+the metal.</p>
+
+<p>Mr. John Mackay now kindly became our pilot,
+and showed the first process, where the large lumps
+of ore, having been brought up from the mine, are
+
+<pb n="253" xml:id="mmm.wa.price.1877.282"/>
+
+crushed by what, not knowing its correct name in
+machinery, I shall call a "mouth of iron." These
+iron jaws having broken in pieces the larger lumps,
+they are passed under stampers, ponderous iron rods 
+shod with steel, which, rising and falling heavily with
+unceasing regularity, soon pulverise the already
+broken ore lying beneath their massive hammers.
+Water passing through this latter machinery turns
+the crushed metal into a kind of thick paste, which
+then passes into large circular pans; where water,
+quicksilver, and certain chemicals being added, the
+whole is kept constantly in motion by iron rakes 
+radiating from the centre of the vat and revolving
+rapidly round it. The quicksilver seizes on the gold
+and silver, and finally settles in large flannel bags 
+placed in boxes separate from but near the bottom of
+the vats, and this amalgam is fit for the furnace.
+Water carries off the superfluous dirt, but as this is
+often charged with precious metal, it is subjected to
+a still further examination by being caused to pass
+over coarse blankets laid on a small wavy kind of bed,
+which being charged with more quicksilver soon
+grasps the minute particles which have escaped
+seizure in the former process, and forming more
+amalgam likewise becomes fit for smelting. The
+amalgam being now all collected is placed in iron
+retorts and subjected to the action of fire. The gold
+and silver mass soon becomes liquid, the quicksilver
+passing away in a vapour, which being caused to
+pass through water, again consolidates itself and
+becomes available for further use. The molten
+metal is then cast into bricks which contain a certain
+
+<pb n="254" xml:id="mmm.wa.price.1877.283"/>
+
+amount of silver and a certain quantity of gold. To
+determine the accurate value of each is the next
+process. A corner of each brick is chipped off and
+sent to the assayer, who, determining the exact value
+of each metal in the brick it belongs to, registers the
+same and has the correct value stamped on the huge
+ingot, which is then fit for the market, and, I need
+hardly observe, finds a ready sale. The whole
+process, even to a tyro like myself, was exceedingly
+curious; but to a man versed in machinery, who
+could understand the beauty of the powerful engines,
+etc., he saw in play all around him, I can imagine it
+to be still more interesting and instructive.</p>
+
+<p>Virginia City is well worth a visit on its own
+account, even without a trip to the mines. Few
+towns in the world are so lively, and a very few
+years back the lively nature of its inhabitants
+exhibited itself in constant shootings when they
+imagined things were getting slow. I was told by
+an old resident before I went there that it was a
+somewhat rapid place. "If you are in luck," he
+said, "you ought to get a man for breakfast;" which
+expression, I afterwards learned, meant that an
+account of a murder should be served up in the
+morning paper with my matutinal meal. Every
+other shop in the principal streets seemed to be a
+drinking saloon, and in most of them were established
+"hells" for the carrying on of the popular game of
+"faro." Drinking, gambling, and other 
+unmentionable vices seem the chief occupation of the above-
+ground population. Underground I had seen them
+hard at work, and now I could witness their ideas of
+
+<pb n="255" xml:id="mmm.wa.price.1877.284"/>
+
+enjoyment. The two principal streets run parallel
+to each other and are about half a mile long. One 
+consists of shops, stores, gambling-houses, and 
+drinking-bars, the latter greatly predominating; and the 
+other entirely of houses kept by Phrynes of various
+and manifold nationalities. Wages being high, 
+everything was proportionately extravagant, and the
+ordinary charge of the common street shoe-black
+was a quarter-dollar (a shilling) for cleaning one°s
+boots.</p>
+
+<p>I had expected to have seen people wearing the
+proverbial red flannel that is supposed to designate
+the son of toil in this particular industry, but it 
+was quite the reverse; "biled shirts,” the western
+American name of white ones, were the rage, and
+H. and myself suffered severely by our contrast to
+these wonderfully got-up gentry. Mr. F. had put
+our names down as hon. members of the Washoe
+Club, but never dreaming that there was more than
+one club in such a place, we omitted to inquire its
+name, thinking "the club" would be sufficient. On
+going there we missed our way, and H., addressing
+a gentleman with flashy diamond studs in a very 
+much "biled shirt," asked him to be kind enough to
+tell us the way to the club. "The club!" he replied.
+"What club?" H. was nonplussed, but managed,
+Englishman-like, to stammer, "Oh&#8212;ah&#8212;why&#8212;don’t
+you know? <hi rend="italic">the</hi> club." Our friend looked at us
+both from top to toe with a perplexed expression of
+countenance, evidently taking stock of our probable
+social position. Neither of us had diamond studs or
+a black coat. I wore a rather seedy hat. I think the
+
+<pb n="256" xml:id="mmm.wa.price.1877.285"/>
+
+hat decided him, for with a spit of relief he answered,
+"Guess you want the Miner’s Club: straight down
+two blocks and turn to your right." H. looked
+bewildered, but it was somewhat more than delicious
+to see a member of "White’s," the "Marlborough,"
+and goodness knows how many of the best clubs in
+London, quietly pooh-poohed for not wearing a
+"biled shirt," and when the possessor of the diamond
+studs was out of hearing, we both laughed till our
+sides ached. Eventually we did arrive at the club,
+and found it an exceedingly nice and comfortable one,
+and every member in it quite willing to be kind and
+obliging.</p>
+
+<p>Before 1861 the State of Nevada, now the richest
+mining country in the world, formed part of Utah;
+and prior to that, in 1848, being a part of Alta
+California, it belonged to Mexico. The whole
+country is more or less covered with mines, good,
+bad, or indifferent, and their names on the "Share
+List" are legion. The Comstock lode is pretty well
+known throughout the world; for the others, those
+who care about such things know well enough where
+to get detailed accounts, and those who do not would
+not care to see them enumerated here. With regard
+to its wealth, I may state without exaggeration that
+the streets of Virginia City are paved with silver.
+A curious statement, but nevertheless a true one, as
+the metal used in laying down the roads has been
+found on analysis to be composed of dirt which if
+worked would return a very fair profit per ton.</p>
+
+<p>At about two o’clock one morning I was awakened
+by bugles, horns, whistles, and all kinds of music.
+
+<pb n="257" xml:id="mmm.wa.price.1877.286"/>
+
+Wondering what new and peculiar phase of life in
+America I was about to witness, I jumped out of bed,
+and on throwing open my window needed no 
+interpreter to explain the cause. The whole town seemed
+in a blaze. Fire-engines shrieked, men shouted, and
+women in scanty apparel rushed wildly about the
+passages of the hotel. I proceeded to rouse out my
+companion, and after a couple of bad shots at his
+door, of which I forgot the number, discovered him
+sleeping tranquilly through all the turmoil. On
+getting into the street we found that a livery stable
+about a block off had been entirely destroyed, and
+that the Odd-fellows’ Hall, a handsome brick edifice,
+was now battling with the flames. At one time 
+there was every prospect of Virginia City emulating
+Chicago in its holocaust. The houses are nearly all
+built of wood, and on their shingle roofs a perfect
+hailstorm of fire was being rained down. Many
+people packed up all their effects, and piling them
+in the streets, quietly sat on them, waiting to see
+how things would turn out; while others repaired to
+the saloons, considerately opened for so festive an
+occasion, and nerved themselves by a morning 
+cocktail for the coming struggle. The fire brigade,
+a volunteer one, did its duty well, and after a hard
+fight the flames were got under and the excitement
+subsided.</p>
+
+<p>Having exhausted the chief wonders, and visited
+the commencement of a shalt Messrs. Mackay and
+Fair intend running 4000 feet deep, we took our
+departure, and after a tiresome delay at Reno, an 
+unimportant little town, twenty-one miles from Virginia
+
+<pb n="258" xml:id="mmm.wa.price.1877.287"/>
+
+City, we once more found ourselves in a Palace
+sleeping-car, and <hi rend="italic">en route</hi> to the East.</p>
+
+<p>We had breakfast at Humbolt, a small station with
+a scanty garden, in which was a pond and a couple
+of Mandarin ducks. The country all around is barren
+and arid. Alkali incrustations render white the
+surface of the ground, and sage-brush seems the only
+vegetable produce. On the platform lay a huge mass
+of sulphur in a solid lump; it was a desolate place,
+and we were glad to get on.</p>
+
+<p>The Humbolt ca&#241;on is curious; the river running
+through it rather slimy and green. We dined at
+Battle Mountain; elevation 4508 feet. Slight 
+improvement in the aspect of the country. More
+grazing land, and a few cattle were to be seen from
+the train. A lot of children were in the car who
+raced about from end to end, knocking over books
+and incessantly disturbing one's papers. Occasionally
+they varied the amusement by howling loudly, while
+their mothers looked complacently on without 
+endeavouring to stop them, evidently well pleased with
+the healthy condition of the disagreeable little animals'
+lungs. I certainly did pine for the ease and quiet
+of an English first-class carriage, in which, thank
+Heaven, such bores can be avoided. We fed again at
+Elko; elevation 5065 feet. Badly divided time, only
+a few hours having elapsed since the previous meal.
+We passed the one thousand mile tree west from
+Omaha, and at last arrived at the Mormon town of
+Ogden, in the territory of Utah. Here we had
+breakfast and parted company&#8212;H. going to Denver,
+to shoot in the North and South Parks; while I
+
+-->
+
+<pb n="259" xml:id="mmm.wa.price.1877.288"/>
+
+<!--
+
+continued my journey towards Salt Lake City, to
+study Mormonism in its own headquarters.</p>
+
+End of Section Not Relevant to Mountain Meadows Massacre -->
+
+<p>I arrived there on Sunday September 5th, in time
+to witness the funeral solemnities of one of <persName key="Young, Brigham">Brigham
+Young</persName>’s shining lights&#8212;Mr. <persName key="Smith, George A.">George A. Smith</persName>; his First Councillor, Church historian, and President of
+the Twelve Apostles. This Apostle became identified
+with the Mormon Church in its very infancy, and
+participated in its travels and trials from <placeName type="state" key="New York">New York</placeName> to <placeName type="state" key="Ohio">Ohio</placeName>, to <placeName type="state" key="Missouri">Missouri</placeName>, to <placeName type="state" key="Illinois">Illinois</placeName>, and finally to <placeName type="state" key="Utah">Utah</placeName>. <seg type="Blame" subtype="LDS_LDSLeadership">Most people in <placeName type="state" key="Utah">Utah</placeName> suspected him of having been
+the willing instrument that <persName key="Young, Brigham">Brigham</persName> used in compassing the massacre of <seg type="Massacre" subtype="Casualties">the emigrants at <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadow">Mountain Meadows</geogName></seg></seg>; and had Mr. <persName key="Smith, George A.">Smith</persName> lived another year, he would in all probability have been indicted and tried for that fearful crime.</seg> The Tabernacle&#8212;a huge building, looking at a distance more like an enormous
+inverted boat on a pedestal than anything else I can
+think of&#8212;was crowded to suffocation. Over ten
+thousand people were congregated within its walls,
+and it would have been impossible to have had a
+better opportunity for inspecting these strange beings.</p>
+
+<!-- Section: Not Relevant to Mountain Meadows:
+
+<p>I was chiefly struck by the extreme ugliness of the
+greater portion of their women, and by the shocking
+manner in which they were dressed. I never saw
+such a lot of frights, and can quite understand their
+jumping at polygamy, as a last chance of becoming
+entitled to even the fractional part of a husband,
+after failing to secure an entire one in the various
+parts of the world they may have come from. The
+plainest women find no difficulty in getting married.
+Becoming servants immediately after the ceremony,
+
+<pb n="260" xml:id="mmm.wa.price.1877.289"/>
+
+in a country where domestic labour is almost 
+impossible to be procured, unprepossessing as they
+generally are, they represent a certain amount of
+value to their owners; and as they are systematically
+worked, they soon a good deal more than pay for
+their keep. The men looked thick and brutish, and
+in no part of the world have I seen so unprepossessing
+a set of whites, or such a vast quantity of ugly men
+and women congregated together, as were assembled
+here to assist in burying their departed Apostle&#8212;
+Mr. Smith.</p>
+
+<p>While Brigham Young and some of the Apostles
+were eulogising the departed saint, whom they 
+endowed with every earthly virtue, I had time to
+examine the interior of the building. It was 
+tastefully decorated with flowers, and round the gallery
+were various inscriptions, such as, "Brigham, our
+leader and friend"; "We thank Thee, O God, for a
+Prophet"; "Utah’s best crop&#8212;children.” In the
+afternoon I again attended service in the Tabernacle,
+and this time heard a sermon on secular matters.
+The service was tedious and dragged out and
+lengthened to a considerable extent by the 
+administration to the entire congregation of the sacrament.
+Several loaves of bread having been broken in small
+fragments were handed round to the people, who
+never left their pews; and shortly after large mugs
+of water followed. The organ was a fine one, and
+the music and singing fairly good. One of the
+"Twelve Apostles" addressed the saints (they all
+call themselves saints in Utah) and took them to
+task roundly on their various short-comings. He
+
+<pb n="261" xml:id="mmm.wa.price.1877.290"/>
+
+complained that they were paying too much attention
+to the laying up of wealth, while at the same time
+they begrudged the Church her accustomed share;
+that they were adopting the vices and bad habits of the
+Gentiles who had thrust themselves in among them,
+and that while walking in the streets he had 
+absolutely seen saints smoking pipes and cigars, without
+even having the grace to seem ashamed of such a
+thing. He believed some of them drank; but at any 
+rate they would never prosper if they smoked or
+took snuff. The women caught it next. They were
+going to the bad also. Many of them used tea and
+coffee, and perhaps sugar. They were departing
+from the simplicity of that mode of life laid down as
+best by their teachers, and he could hardly tell to
+what depravities such behaviour might not lead.
+He gave tongue for about half an hour, and talked
+more bosh during that space of time than any man I
+ever heard before or since.</p>
+
+End of Section Not Relevant to Mountain Meadows -->
+
+<p>I put up at a Mormon hotel, "The Townsend
+House," and can strongly recommend it. The
+proprietor, a Mormon, was extremely obliging, and
+does all in his power to make his guests comfortable.
+He took me to call on <persName key="Young, Brigham">Brigham Young</persName>, and drove me about the city, showing and explaining the
+various objects of interest. Just about this time the
+excitement caused by the trial of <persName key="Lee, John D.">Lee</persName> for his participation in the Mountain Meadow massacre was still
+going on; and many of the atrocities perpetrated by
+the Mormons were constantly being published in the
+daily papers. <seg type="Blame" subtype="LDS_LDS">There is not the slightest doubt but that the leaders of the Mormon Church encouraged
+
+<pb n="262" xml:id="mmm.wa.price.1877.291"/>
+
+assassination in the most methodical and wholesale
+manner; the confessions of some of their own
+disciples who were actually engaged in these 
+outrages showed that such atrocities actually did occur</seg>;
+<seg type="Reaction" subtype="FederalInvestigation">and to me it seems strange that the Government of the country did not, and do not, take some active
+steps in avenging the victims.</seg></p>
+
+<!-- Section Not Relevant to Mountain Meadows Massacre:
+
+<p>Putting aside the wickedness and absurdity of the
+religion, and the unscrupulous villainy of the 
+sacerdotal power, which in Mormonism is omnipotent, there
+is much to be admired in the industrious, frugal, and
+simple customs of the people. Finding a desert,
+they converted it into a garden, and Salt Lake City
+is laid out with the strictest regard to both health
+and convenience. Every street is about eighty yards
+wide, and has broad side walks well sheltered by
+locust or other ornamental trees; streams of clear
+running water border each side, and every house is
+surrounded by a garden laden with fruit-trees. The
+town is built on a gentle slope, behind it are the lofty
+ranges of the Wahsatch Mountains, and I doubt if it
+be possible to find any town in the States better
+planned for either comfort or scenic effect.</p>
+
+<p>Gradually handsome buildings are beginning to
+be constructed. The Temple, when finished, will
+certainly be an attractive and ornamental structure,
+its very unusual style of architecture perhaps 
+constituting its principal charm. The Prophet's
+favourite wife, Amelia, has had a handsome house
+just finished for her particular benefit; and wealthy
+Mormons in various parts of the town are building
+residences that would be considered fine anywhere.
+
+<pb n="263" xml:id="mmm.wa.price.1877.292"/>
+
+Fresh discoveries of mineral wealth are almost daily
+taking place; and when confidence, so entirely
+destroyed by that gigantic swindle the "Emma
+Mine," again returns, and once more Gentile capital
+becomes invested in the country, I expect to see not
+only Salt Lake become a wealthy and prosperous
+town, but the Mormon faith rapidly become shaken,
+and the power of their Prophet and his apostles
+sensibly decline.</p>
+
+<p>Not far from the town are two sulphur springs,
+over one of which has been built a bath-house. The
+water is kept at a temperature of 90°, and besides
+hip-baths they have constructed a very fair plunge
+one. A mile farther another stream of strongly-
+impregnated sulphur water, with about l30° of heat,
+rushes from beneath a solid rock. The odour, which
+is extremely unpleasant, can be detected at least
+half a mile off, and the stones and herbage growing
+near its banks are both tinted with a brilliant
+emerald green.</p>
+
+<p>A small garrison of United States troops are
+quartered at Camp Douglas, which is built 
+commanding the town and about two miles from it.
+Mr. A., the brother of an old schoolfellow, living at
+the hotel I was staying at, drove me over, and I met
+with every kindness and attention from the officers.
+I saw here, for the first time, the new American
+bayonet, "Rice’s trowel bayonet with the 
+Chillingworth attachment,"* and cannot speak too highly of
+its admirable qualities. It is simply a sharp-pointed
+strongly-built trowel, of eleven inches in length,
+<note type="footnote">*See Appendix B.</note>
+
+-->
+
+<pb n="264" xml:id="mmm.wa.price.1877.293"/>
+
+<!--
+
+exclusive of handle, and three and a half inches
+broad&#8212;quite sufficiently formidable as a weapon of
+offence; while for throwing up cover rapidly for
+infantry troops exposed to an enemy’s fire it is
+simply, as a tool, unparalleled. With it a man
+can chop wood, build a wall, bake a cake, and
+stab or cut down his enemy. I see no reason why,
+without impairing its efficiency, one side should not
+be partially filed into a saw. An officer, who had
+seen troops drilled to its use, informed me that in
+less than ten minutes he saw a company 
+completely shelter themselves (on rather hard ground
+into the bargain) from musketry. Our "shelter-
+trench drill," with its necessary accompaniment of
+picks and shovels, is as childish and grotesque in
+comparison to the handy implement used by the
+Americans, as the Indian bow in modern warfare
+would be to the Henry &#8212; Martini breechloader.
+Another exceedingly useful invention employed by
+them is the stacking "swivel," <hi rend="italic">i.e.</hi> a small hook-
+swivel placed on the upper band of the rifle, which
+weighs almost nothing, and enables the men to stack
+their arms regardless of any inequality of ground.
+Were it the slightest use to urge our War 
+Department to adopt any improvement not emanating from
+themselves, I could not advocate too strongly the
+adoption of both these plans in our own service.</p>
+
+End of Section Not Relevant to Mountain Meadows -->
+
+<p>Clintons station and hotel on the Great Salt Lake
+is about a three hours’ ride from the town. The
+country on each side of the line leading to it is flat,
+and in some parts marshy. A few wet splashes,
+which we passed through just before first coasting
+
+<pb n="265" xml:id="mmm.wa.price.1877.294"/>
+
+the lake, were covered with wild duck; I also saw a 
+few snipe, and should fancy the shooting there in
+winter would be pretty good. The mosquitos on
+this part of the line were fierce and bloodthirsty as
+tigers, and quite took possession of the cars, driving
+most of us who were not extra thick-skinned to take
+refuge on the platform, where the current of air
+prevented them effecting a lodgment. After passing
+Black Rock we stopped at Clintons, nicely situated on
+the Lake, and looking directly on Church and 
+Antelope islands. <seg type="Massacre" subtype="Spoils">On the former <persName key="Young, Brigham">Brigham</persName> is accused of
+having stowed away the plunder so fearfully obtained
+by the massacre at Mountain Meadows.</seg> A small
+steamboat for the use of excursionists lay at a pier
+near the hotel, and a few bathing boxes were erected
+for the use of visitors.</p>
+
+<!-- Section Not Relevant to the Mountain Meadows Massacre:
+
+<p>I was somewhat curious to test the buoyancy of
+these waters, and shortly after arriving was floating
+about on their surface. The sensation of such
+extreme buoyancy is certainly curious, and for an
+indifferent swimmer I daresay pleasant. I could
+stand upright without motion. Lying on my back
+I could keep both feet entirely out of the water, with
+my arms also at the same time extended upwards
+to their full stretch. In breast swimming I could
+keep both legs above water from the knee joints,
+merely paddling with my hands; in fact, in any
+position it was difficult to sink. Swimming a distance
+was, however, difficult and tedious, as when on my
+breast the extraordinary buoyancy of the water had
+a tendency to throw the feet and legs right up in the
+air, which naturally forced the head forward and
+
+<pb n="266" xml:id="mmm.wa.price.1877.295"/>
+
+kept an unpleasant strain on the neck to secure its
+elevation. Diving was next to impossible, and the
+slightest drop of water getting into one’s eyes caused
+extreme pain. The day was fine and the lake as
+smooth as glass, and I pottered about very pleasantly
+for over an hour, floating and paddling on its
+surface experimentalising with its peculiarly buoyant
+properties, when in one of my efforts I got and
+swallowed a mouthful of water. Great goodness!
+what a mouthful it was. The most nauseous medicine
+I ever tasted was nectar to it, added to which, it
+possessed a burning acrid power that almost took the
+skin off my mouth. I tried no more tricks, and feel
+convinced that the strongest swimmer in the world,
+even the famed Captain Webb, would be unable to
+live beyond thirty minutes in rough weather on Salt
+Lake. Three such mouthfuls as I swallowed would
+kill a water-buffalo "let alone" a man.</p>
+
+<p>Round the lake, and extending for many miles on
+each side of the long flat valley in which it is situated,
+rims a curious but distinctly marked water line on the
+hills, a hundred feet or so above the water's present
+level; and at some distant and long past period, Salt
+Lake must have covered an extent of ground at least
+double its present area.</p>
+
+<p>Among the sage-brush growing on the large
+alkali plains in the vicinity of Salt Lake, there are
+at certain seasons innumerable hares, or as people 
+persist in calling them here, "jackass rabbits." They I
+really are the true prairie hare (<hi rend="italic">Lepus Campestris</hi>, 
+<hi rend="italic">Bachman</hi>), and not the jackass rabbit (<hi rend="italic">Lepus callotis</hi>, <hi rend="italic">Wagler</hi>), who is not to be found in either Utah or 
+
+<pb n="267" xml:id="mmm.wa.price.1877.296"/>
+
+California; but as every description of hare or rabbit,
+with the exception of the "cotton tail," is called
+"jackass," I suppose we must let it pass and adopt the
+national cognomen. A couple of Mormon 
+gentlemen, hearing I was anxious to get a day at them, very
+kindly drove me out some ten miles across the plains,
+and passing the River Jordan, a muddy sluggish
+stream that runs into Salt Lake, we shortly 
+afterwards commenced operations. Although not the
+best season of the year, immense numbers of them
+were scattered through the sage-brush, the only plant
+growing on these alkali bottoms. We found them
+rather wild, still they afforded good sport, and as the
+cover was in places somewhat thick, it required
+tolerably quick shooting to knock them over.</p>
+
+<p>Judge H., to whom I had an introduction, and
+who had been residing for some years among the
+Mormons, explained many of their eccentricities, and
+told me many stories about these extraordinary
+people; and though tempted to give some of the
+benefits of his experience along with my own 
+impressions, and "let out" on them, I will be merciful to
+my readers and spare them a dissertation on such a
+well-worn subject as Mormonism, contenting myself
+with an adoption of Bret Harte's remarks 
+concerning the "long-tailed gentry," to whom in some things
+they are very similar, viz. "ways that are dark and
+tricks that are vain."</p>
+
+<p>Salt Lake City could hardly be visited at a more
+favourable time of the year for witnessing it under
+its brightest garb than during the month of 
+September. The fruit-trees were laden with peaches, apples,
+
+<pb n="268" xml:id="mmm.wa.price.1877.297"/>
+
+plums, and pears. The gardens were brilliant with
+flowers of many colours. Trees with their 
+spreading branches threw a cool and grateful shade on
+all the side walks. Sparkling water rippled by
+their sides. A delicious fragrance perfumed the air,
+and whatever one may think of-the Mormons, it
+is impossible to go away otherwise than charmed
+with their capital town. Utah, like Nevada, 
+California, and many of the Western States, abounds in
+silver. For some inexplicable reason the wise people
+of Salt Lake City got it into their heads that I was a
+capitalist, and I was constantly beset with offers of
+mines for a mere song, that only required some
+of my superfluous wealth to develop into second
+editions of the Comstock Lode.</p>
+
+<p>It is quite impossible for any man with an ordinary
+amount of brains to shut his eyes to the indisputable
+fact, that from the immense quantities of silver being
+poured into the market, a very serious and important
+change must shortly take place in this great 
+circulating medium, and one which, coming with such
+extraordinary celerity as it really is doing, is certain
+most seriously to affect the whole world.</p>
+
+<p>Financiers and legislators cannot look to this
+matter too soon; and accepting for a solution of the
+difficulty the argument of short-sighted or wilfully
+blind people, who assume that the adoption by
+America and other countries of specie payments will
+be sufficient to absorb the surplus, will only lead
+them more and more astray.</p>
+
+<p>Up to a very recent period, Mexico was the only
+silver producing country of any importance in the
+
+<pb n="269" xml:id="mmm.wa.price.1877.298"/>
+
+world, and the greater portion of the bullion even
+sent from there came from but one mine&#8212;that of
+Potosi. Since those days, silver has been discovered
+in all directions, and were the country in a fit state
+to warrant the introduction of foreign capital, most
+of these mines could be made to pay.</p>
+
+<p>The mines of Utah are many of them returning a
+high dividend on the very small capital expended in
+their primary working, and fresh deposits of ore are
+being discovered daily by people without any capital
+at all, and are consequently untouched. The Emma
+Mine is strongly suspected by the knowing ones at
+Salt Lake of having a rich "Bonanza" but a very
+few hundred feet below the distance worked by its 
+present shareholders.</p>
+
+<p>On the mines in Nevada it is impossible to touch
+without going into a matter of statistics and figures
+too wearisome for a short gossiping book of travels,
+but let it be borne in mind that, in only one mine
+out of the several hundred that exist in a small
+portion of Nevada, I saw myself ore which, still
+unraised, represented seventy-four millions of pounds
+sterling.</p>
+
+<p>It has only been very recently that people have
+systematically looked for silver at all. Up to this
+the rage has merely been for gold. Experienced and
+resolute men are now prospecting in all kinds of wild
+and out of the way places for metals that a few
+years ago were rarely searched for by men educated
+to their task. Silver, more or less, exists in all
+the Western States; even Alaska contains it; but
+were not another mine to be discovered, those that
+
+<pb n="270" xml:id="mmm.wa.price.1877.299"/>
+
+exist at present are more than sufficient to halve
+the present market value of silver, if they were only
+properly worked.</p>
+
+<p>In San Francisco the vulgar but successful 
+speculator in mines has his dinner menu engraved on a
+silver plate, which each guest puts in his pocket and
+takes away; but if it even became the fashion to
+pocket the spoons, the flow of silver is too incessant
+and steady to feel the drain.</p>
+
+<p>I have studied this subject at far greater length
+than it is necessary to enter upon here, and feel
+convinced that the depreciation of the metal, owing
+to the immense quantities produced, will soon become
+so decided that statesmen will be compelled to take
+the matter very seriously up, and the sooner they
+take their task in hand the better.</p>
+
+-->
+
+</div1>
+</body>
+</text>
+</TEI>

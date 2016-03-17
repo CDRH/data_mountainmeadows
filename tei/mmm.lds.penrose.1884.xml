@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.lds.penrose.1884">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Mountain Meadows Massacre: Who Were Guilty of the Crime?</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Charles</forename> <forename type="middle">William</forename> <surname>Penrose</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.lds.penrose.1884</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Mountain Meadows Massacre: Who Were Guilty of the Crime? The Subject Fully Discussed and Important Documents Introduced in an Address Delivered in An Address Delivered by the Twelfth Ward Assemby Hall, Salt Lake City, October 26, 1884, by Elder Charles W. Penrose, Reported by John Irvine.</title>
+                    <author><forename>Charles</forename> <forename type="middle">William</forename> <surname>Penrose</surname></author>
+                    <publisher>Juvenile Instructor Office</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>entire</extent>
+                    <date when="1884">1884</date>
+                    <note type="source">Charles William Penrose. <hi rend="italic">The Mountain Meadows Massacre: Who Were Guilty of the Crime? The Subject Fully Discussed and Important Documents Introduced in an Address Delivered in An Address Delivered by the Twelfth Ward Assemby Hall, Salt Lake City, October 26, 1884, by Elder Charles W. Penrose, Reported by John Irvine.</hi> Salt Lake City, UT: Juvenile Instructor Office, 1884.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>lds_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-10-18"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1>
+
+<pb n="3" xml:id="mmm.lds.penrose.1884.003"/>
+
+<head>INTRODUCTION.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><hi rend="smallcaps">THERE</hi> is a general misunderstanding in the public
+mind in reference to nearly every subject connected with “Mormonism.” Particularly is this the case in regard to “Mormon” doctrine on the taking of human life. <seg type="Blame" subtype="LDS_LDSBloodAtonement">It is popularly supposed that the Church of Jesus Christ of Latter-day Saints authorizes and <seg type="Context" subtype="LDSApostates">justifies the
+killing of men and women for apostasy</seg>, or for any grave act in opposition to its interests. This is called
+“blood atonement” by unprincipled writers and lecturers who wish to deceive the public, and many people believe that this is really one of the tenets of this Church. The Mountain Meadows Massacre has been made to do active duty in the work of deception.</seg> It has been charged to the “Mormon” Church and the “Mormon” leaders so many times and in so many places that any attempt to present the facts seems almost like labor in vain. And yet to allow these falsehoods to go unrefuted appears wrong and impolitic. They should be met and overturned for the benefit of the few among mankind who prefer the truth to deception and love light rather than darkness. It was for the purpose of aiding in the correction of error concerning these subjects that the author responded to an invitation to deliver a public <choice><orig>ad-
+
+<pb n="4" xml:id="mmm.lds.penrose.1884.004"/>
+
+dress</orig><reg>address</reg></choice> in the Twelfth Ward Assembly Hall, <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, on the subject of “Blood Atonement,” and another two weeks later on “The Mountain Meadows Massacre.” In the former address the doctrine of the Church on the shedding of human blood was explained and substantiated and popular errors exposed, by reference to the Church standards and the sermons of leading Elders. In the latter address the responsibility of the terrible crime committed at an early date in <placeName type="state" key="Utah Territory">this Territory</placeName> was traced to its true source, and numerous references were made to anti-Mormon works, and documents of
+unimpeachable authenticity and veracity were introduced for the first time in a public assembly.</seg> These addresses have now been published, by request, in pamphlet form, and are submitted to the world for the perusal and judgment of thinking men and women everywhere. And the blessing of the Author of all truth and light is invoked upon these simple but earnest efforts to enlighten mankind, to the end that prejudice may be dispelled, to make way for the everlasting truths which a maligned and misunderstood Church has a mission to proclaim for the salavtion of man and the glory of God.</p>
+
+<p><hi rend="right"><hi rend="smallcaps"><persName key="Penrose, Charles W.">CHARLES W. PENROSE</persName></hi>.</hi></p>
+
+</div1>
+
+<div1>
+
+<pb n="5" xml:id="mmm.lds.penrose.1884.005"/>
+
+<head>The Mountain Meadows Massacre.</head>
+
+<milestone unit="section" rend="horbar"/>
+
+<p><hi rend="smallcaps">THE</hi> subject upon which I have to speak this evening has attracted a great deal of attention. It has been mentioned, I think, in every part of the civilized world. Wherever our Elders have gone abroad to preach the
+gospel of Christ they have been met with the statement that the “Mormon” Church, with <persName key="Young, Brigham">Brigham Young</persName> at its head, is a bloody church; <seg type="Context" subtype="LDSApostates">that it not only teaches, but practices the doctrine of shedding human blood for apostasy; that there is an organization in the midst of the people called “Danites” or “Destroying Angels,”<ref target="n01">*</ref> whose business it is to kill everyone who attempts to escape from <placeName type="state" key="Utah Territory">Utah</placeName>, or any obnoxious person, Mormon” or Gentile, who may come into the midst of the people.</seg> This has been denied frequently, and those who have made these statements have been challenged to the proof. The proof, of course, has not been forthcoming, because the charge is a falsehood. Still, wherever our Elders go they meet with a statement of this kind, and <seg type="Blame" subtype="LDS_LDS">particularly is the cry of “The Mountain Meadows Massacre” raised against them. <seg type="Blame" subtype="LDS_LDSLeadership">It is</seg></seg> 
+
+<note xml:id="n01">* For refutation see my “Address on Blood Atonement,” published at the <hi rend="smallcaps">Juvenile Instructor</hi> Office</note>
+
+<pb n="6" xml:id="mmm.lds.penrose.1884.006"/>
+
+<seg type="Blame" subtype="LDS_LDSLeadership">claimed that that awful tragedy was performed by the “Mormon" Church, or that the “Mormon” Church is responsible for it; that it was perpetrated at the command of <persName key="Young, Brigham">Brigham Young</persName> as the leader of the Church, and that it was in accordance with the doctrines of the Church.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">This untruth has been repeated so many times that the world, who are not acquainted with our principles and our acts, have come to believe in a great measure that it is true. It has been proclaimed by the press repeatedly. Over and over again the Mountain Meadows massacre has been charged to the “Mormon” Church, and particularly to its former President. Ministers in the pulpit have found this a convenient weapon wherewith to oppose the Elders of the Church in the preaching of the gospel. They could not refute the arguments which they brought forth, they could not overturn the doctrines which they preached, and so stories like those I have mentioned have been told from the pulpit, over and over again, to prejudice the public mind against the Elders of the Church. Wherever the servants of God have gone to preach the gospel, the Mountain Meadows massacre has been thrown in their teeth.</seg></p>
+
+<p>Now, this evening I will endeavor to give a brief account of this terrible occurrence, and then, if possible, to trace up the responsibility for it, show who perpetrated it, who were the guilty parties, so far as I can, and to see whether the “Mormon” Church is responsible or not for that terrible deed; whether <persName key="Young, Brigham">Brigham Young</persName> was or was not an <choice><orig>acces-
+
+<pb n="7" xml:id="mmm.lds.penrose.1884.007"/>
+
+sory</orig><reg>accessory</reg></choice> before the fact, or an accessory after the fact; and whether the charge that has been made against the “Mormon” people has any foundation in fact. I hope I shall have the assistance in doing this of the faith of my brethren and sisters, that I may have the Spirit of the Lord to rest upon me to quicken my mind, to give me grasp of thought, so that I may be able to bring forward clearly those evidences which I have been able to collect, and put them before the people in an intelligent shape so that all can understand them.</p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Dates">In the summer of 1857</seg>, a company of emigrants, as stated by some, composed of two parties, <seg type="Emigrants" subtype="StateAffiliationMissouri">one from <placeName type="state" key="Missouri">Missouri</placeName></seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas">the other from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, <seg type="Emigrants" subtype="Route">came into <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. They were on their way to <placeName type="state" key="California">California</placeName>. After staying here a short time, they were advised to take the northern route to <placeName type="state" key="California">California</placeName> by way of Bear River. There were two routes by which the stream of emigration flowed to the west from this point. One was northward, and the other south and westward. They were advised by Elder <persName key="Rich, Charles C.">Charles C. Rich</persName> to go by the northern route. They went as far as Bear River, but returned and concluded to take the southern route. <seg type="Encounter" subtype="Slander"><seg type="Blame" subtype="EmigrantBehavior">On their way south they became very impertinent and abusive.</seg></seg> <seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="UtahWar">At that time news had been received here of the approach of <persName key="Buchanan, James">Buchanan</persName>’s army, supposed to be coming here to destroy the Latter-day Saints, to endeavor to break up “Mormonism,” and to execute the atrocious threats which had been made by the soldiery in their camps on
+
+<pb n="8" xml:id="mmm.lds.penrose.1884.008"/>
+
+the plains, news of which had been brought here by runners.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Emigrants" subtype="WagonTrain"><seg type="Context" subtype="UtahWar">These emigrants boasted to the people as they passed through the settlements <seg type="Emigrants" subtype="Route">that they were going to <placeName type="state" key="California">California</placeName></seg>, where they intended to get up a company and return and attack our people in the south when the army arrived in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg> It is related that on the way, when going through small settlements&#8212;<seg type="Massacre" subtype="Casualties">it was a large company, 120 to 150 persons, differently estimated</seg>&#8212;they would rob hen-roosts, and passing through the streets would flip off the heads of chickens with their whip-thongs. <seg type="Encounter" subtype="Poison">At one place, it is related, they poisoned the springs, so that the people who partook of the water died in consequence thereof. Still further, it is said that they poisoned beef and gave it to the Indians, and several Indians died from its effects</seg>, and at another place they caught an Indian, tied him up to a wagon wheel and whipped him severely. These are the stories which were told concerning these emigrants; whether they are true or false I am unable to say, but these were the stories told concerning them, and the people believed them. <seg type="Blame" subtype="IndiansIndependently">The Indians became very much enraged, and as this company traveled further and further south the rage of the Indians increased.</seg></seg> On the way they met <persName key="Hamblin, Jacob">Jacob Hamblin</persName> and asked him&#8212;as a resident of <placeName type="state" key="Utah Territory">this Territory</placeName>, a man well acquainted with the country, who had been among the Indians a great deal &#8212;which was the best place to camp in a certain region, and he told them the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, at the north part
+
+<pb n="9" xml:id="mmm.lds.penrose.1884.009"/>
+
+of which he had a ranch. They went on and camped at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. <seg type="Blame" subtype="EmigrantBehavior">But, as I told you, all the way down they were committing these depredations, by which not only were the settlers very much aggrieved, but <seg type="Blame" subtype="IndiansIndependently">the Indians were aroused to the greatest indignation and fury.</seg></seg></seg> <seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">When they arrived <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> they were attacked by Indians</seg>, but they entrenched themselves; they threw up earthworks to the level of the hubs of their wagon wheels, and prepared to defend themselves as in a state of siege.</seg> According to the evidence presented, it appears that <persName key="Lee, John D.">John D. Lee</persName> was at that time a member of the Church&#8212;not a Bishop, by the way, I understand he never was a Bishop, but <seg type="Context" subtype="IndianRelationsLDS">was a member of the Church and looked after the interests of a great number of Indians in that part of the country as Indian farmer.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">It is stated that <persName key="Lee, John D.">John D. Lee</persName> led the first attack of the Indians against those emigrants.</seg> <seg type="Massacre" subtype="Planning">About this time a council was held at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, at which were present <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, who was the acting Bishop, a man by the name of <persName key="Morill, Laban">Laban Morill</persName>, and some others. <seg type="Blame" subtype="EmigrantBehavior">These persons at this council took into consideration the depredations which had been made by this party of emigrants.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">You must understand that the people were very much excited at this time. The news of the coming of the army had reached different parts of <placeName type="state" key="Utah Territory">the Territory</placeName>, and a plan had been prepared, if they should come into <placeName type="state" key="Utah Territory">the Territory</placeName>, to burn down our houses, to destroy our property and leave <placeName type="state" key="Utah Territory">the Territory</placeName> a desert, a barren waste; for the <choice><orig>peo-
+
+<pb n="10" xml:id="mmm.lds.penrose.1884.010"/>
+
+ple</orig><reg>people</reg></choice> to flee to the mountains and leave nothing as a prey to their enemies. The people were getting ready for this emergency. <seg type="Context" subtype="LDSPersecution">You must remember also that the people living here in that early period had been driven from different parts ofthe United States, time and time again, for their religion; they had suffered untold hardships, privations and persecutions, and now the prospects were that an army was coming in upon them to drive them out again, or pull them up, root and branch, and destroy them. Of course there was a great deal of excitement at the time, and <seg type="Blame" subtype="EmigrantBehavior">this body of emigrants having made those threats, cursing <persName key="Young, Brigham">Brigham Young</persName>, declaring that “old <persName key="Smith, Joseph">Joe Smith</persName> ought to have been killed before he was,” some of them declaring that they had taken part in his assassination, naturally aroused the anger of the people.</seg></seg></seg> <seg type="Massacre" subtype="Planning">Well, this council was held in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to determine what was best to be done, whether or not to intercept them and prevent the emigrants from going further south. <seg type="Blame" subtype="LDS_LDS">Some person present on that occasion advocated their interception and destruction.</seg> <persName key="Morill, Laban">Laban Morill</persName> and some others were of a different mind, stating that the proper thing to do was to send a messenger to Governor <persName key="Young, Brigham">Young</persName> to find out what his advice was concerning this matter, and to. desist from doing anything of a hostile nature until word was received from Governor <persName key="Young, Brigham">Young</persName>. <seg type="Massacre" subtype="Dates">A messenger was dispatched on the 7th day of September, 1857</seg>. His name was <persName key="Haslam, James Holt">James Haslam</persName>. He came to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, saw President <persName key="Young, Brigham">Young</persName>, delivered his
+message and a letter 
+
+<pb n="11" xml:id="mmm.lds.penrose.1884.011"/>
+
+from <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, and received a despatch from President <persName key="Young, Brigham">Young</persName> to take back, and he was told to “spare no horse-flesh”&#8212;to go “with all speed” and deliver the despatch as quickly as possible. That despatch was delivered to <persName key="Haight, Isaac C.">Isaac C. Haight</persName> at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> <seg type="Massacre" subtype="Dates">on the following Sunday, which, according to the dates that I have traced up, must have been on the 13th day of September</seg>.</seg> <persName key="Haight, Isaac C.">Isaac C. Haight</persName>’s answer was, “It is too late.” <seg type="Blame" subtype="LDS_LDS">It appears that a number of men had been called by <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, the acting Bishop, and <persName key="Higbee, John M.">John M. Higbee</persName>, who claimed to be acting under orders of <persName key="Haight, Isaac C.">Isaac C. Haight</persName> and <persName key="Lee, John D.">John D. Lee</persName>, to go to the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. According to the testimony delivered at the trials, to which I will refer presently, most of these men had not the least idea that they were going <seg type="Massacre" subtype="Location">to <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> to perform any deed of blood or to commit anything wrong. They expected to be gone two or three days. <seg type="Massacre" subtype="Casualties">Some of the emigrants had been killed <seg type="Blame" subtype="IndiansIndependently">by the Indians</seg> and they expected they were going to help bury the dead.</seg> <seg type="Massacre" subtype="Surrender">When they arrived there, according to the testimony given at the trial of <persName key="Lee, John D.">John D. Lee</persName>, a man was sent down into the camp of the emigrants with a white flag, or a flag of truce. Afterwards <persName key="Lee, John D.">John D. Lee</persName> went down and had some conversation with the emigrants, and they were induced to give up their arms, which were placed in wagons and they were all drawn out of the camp.</seg> When they had passed a considerable distance away, <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">the Indians</seg></seg>, and it is said some of the whites, fired upon the emigrants and <seg type="Massacre" subtype="Casualties">they were
+
+<pb n="12" xml:id="mmm.lds.penrose.1884.012"/>
+
+all butchered, men and women, and none were saved</seg> <seg type="Massacre" subtype="Survivors">but about seventeen small children, the oldest seven years of age</seg>. <seg type="Massacre" subtype="Casualties">It is related that <persName key="Lee, John D.">John D. Lee</persName> assisted in the slaughtering of the wounded emigrants who were in the wagons; those who were able to walk, marching without arms, <seg type="Blame" subtype="IndiansLDSInfluence">were set upon by the Indians</seg>, and, as stated, some white men fired among them. But it appears that <persName key="Lee, John D.">John D. Lee</persName> assisted in the killing of the wounded persons, so that all the men, and the women, and the older children were slain;</seg> <seg type="Massacre" subtype="Survivors">there were none left but the seventeen little children, who were taken and distributed around among the people, until <persName key="Forney, Jacob">Forney</persName>, the Indian agent, some time afterwards came and gathered them up and took them away</seg>.</seg></p>
+
+<p>Now, I have endeavored to tell you, as briefly as possible, the dreadful story of the massacre. It was a horrible affair. It makes one’s blood run cold to think of such a slaughter. <seg type="Massacre" subtype="Casualties">One hundred and twenty persons&#8212;some say one hundred and nineteen, but it is generally conceded to be about one hundred and twenty&#8212; inhumanly butchered.</seg> They were murdered. No one can palliate the crime. I would not attempt to do so; No circumstances that existed at that time could, in my mind, palliate that dreadful deed. <seg type="Blame" subtype="LDS_LDS">And to think that any white person should be engaged in it is most horrible to my mind, most repugnant to my feelings, and I know it is repugnant to the feelings of my brethren and sisters, not only those present tonight, but the great body of people called Latter-day Saints wherever they may be.</seg></p>
+
+<pb n="13" xml:id="mmm.lds.penrose.1884.013"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now, this horrible crime is laid at the door of the Church because certain individuals, who were then members of the Church, were engaged in this horrible massacre. This has always appeared to me to be very unjust. Why should the “Mormon” Church, the Church of Jesus Christ of Latter-day Saints, be held responsible for the crimes of a few of its members any more than other churches for the crimes of a few of their members? The Roman Catholic church for the deeds alleged to have been done by members of that church; the church of England, the Episcopal church, for the deeds done by men belonging to that church in early times, and some in later times? Why should the different denominations of the day, as religious denominations, as churches, be charged with the weaknesses, the corruptions and the diabolical deeds perpetrated, not only by members of these denominations, but by persons who officiate therein as ministers? Sensible people do not lay these crimes at the door of the denomination to which the individuals may belong, but charge them home to the individuals themselves. They are responsible for their acts, they alone should be charged with them, unless&#8212;unless what they do is taught by that church to which they belong, or is allowed by that church, or is in consonance with any of its doctrines. If it can be shown that the Church of Jesus Christ of Latter-day Saints teaches the people to commit murder; if it can be shown that the Church, as a religious body, ordered that massacre, or, after it occurred, condoned it, palliated it, or
+
+<pb n="14" xml:id="mmm.lds.penrose.1884.014"/>
+
+agreed that it was right, considered it was proper, then we may lay this crime upon the Church and claim that the Church is responsible for it. But if the Church teaches to the contrary, if the spirit of the whole people is against such deeds of blood, if it can be shown that in doing these dreadful things such white persons as were members of this Church who were guilty, actually violated the laws of the Church, then I say that the crime cannot be reasonably and consistently laid upon the Church as a body.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName>, in his work called “Rocky Mountain Saints,” says that no sane person ever did lay the crime at the door of the Church. Now, I would like to refer you to a few of the charges that have been made concerning this crime, laying it upon the Church and people, and particularly upon <persName key="Young, Brigham">Brigham Young</persName>; because if it is true that the charge has not been made against the Church, then there is no need for me to make any rebuttal; but if the charge is made that the “Mormon” Church is responsible for this crime, then I am justified and it is my duty to-night to bring forth evidence showing that the “Mormon” Church had nothing to do with it.</seg></p>
+
+<p>On the 7th of February, 1863, <persName key="Cradlebaugh, John">John Cradlebaugh</persName>, of <placeName type="state" key="Nevada">Nevada</placeName>, who was once one of the associate justices of the Supreme Court of <placeName type="state" key="Utah Territory">Utah Territory</placeName> made a speech in Congress, and I will quote from page 17 of the pamphlet published with the full text of his speech and references.</p>
+
+<pb n="15" xml:id="mmm.lds.penrose.1884.015"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">“I shall publish a portion as an appendix to these remarks that you may see that I am justified in charging that the Mormons are guilty, aye, that the Mormon Church is guilty, of the crimes of murder and robbery as taught, in their books of faith.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">You see, according to the Hon. <persName key="Cradlebaugh, John">John Cradlebaugh</persName>, the “Mormon” Church is charged with this crime, and charged in the Congress of the United States, in a speech published to the country.</seg></p>
+
+<p>There was a pamphlet prepared in this city called “The Handbook of Mormonism”&#8212;perhaps you have heard of it before, it is a most abominable book&#8212;I will make a short quotation from it, page 67:</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">“It is said to be a truth that <persName key="Young, Brigham">Brigham Young</persName> sent letters south authorizing, if not commanding, that the train should be destroyed.”</seg></seg></p>
+
+<p>I will now refer you to a speech made by Mr. <persName key="McGrorty, W.">W. McGrorty</persName> in the case of <persName key="McGrorty, W.">McGrorty</persName> <hi rend="italic">versus</hi> <persName key="Hooper, William H.">Hooper</persName>. You will remember that Mr. <persName key="McGrorty, W.">McGrorty</persName>, in 1868, contested the seat of Hon. <persName key="Hooper, William H.">W. H. Hooper</persName>, our Delegate in Congress, and made an attack upon the “Mormons.” He received 105 votes against Mr. <persName key="Hooper, William H.">Hooper</persName>’s 15,068. Let me say here that nearly all the anti-Mormon stories that have been since dished up in various shapes and forms have been taken from Mr. <persName key="McGrorty, W.">McGrorty</persName>’s speech in Congress; from that speech <persName key="Cradlebaugh, John">Cradlebaugh</persName> made up most of his story, and it has been retold over and over again from that time to the present. I will read from page 40 of the pamphlet containing Mr. <persName key="McGrorty, W.">McGrorty</persName>’s speech. Mr. <persName key="McGrorty, W.">McGrorty</persName> thought that 
+
+<pb n="16" xml:id="mmm.lds.penrose.1884.016"/>
+
+<placeName type="state" key="Utah Territory">the Territory</placeName> ought at once to be put under martial law, and he said:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“This may be the only practicable way in which even partial punishment can be meted out to these latter-day devils. But how inadequate would be the punishment of a few even by death for this crime which nearly the whole Mormon population from <persName key="Young, Brigham">Brigham Young</persName> down, were more or less instrumental in perpetrating.”</seg></p>
+
+<p>I have a work here which was published by Mr. <persName key="Bishop, William W.">Bishop</persName>, who defended <persName key="Lee, John D.">John D. Lee</persName> at both of his trials. I will make a quotation from this book, page 19. He says:</p> 
+
+<p><seg type="Blame" subtype="LDS_LDS">“I claim that <persName key="Young, Brigham">Brigham Young</persName> is the real criminal, and that <persName key="Lee, John D.">John D. Lee</persName> was an instrument in his hands. That <persName key="Young, Brigham">Brigham Young</persName> used <persName key="Lee, John D.">John D. Lee</persName> as the assassin uses the dagger, to strike down his unsuspecting victim; and as the assassin throws away the dagger, to avoid its bloody blade leading to his detection, so <persName key="Young, Brigham">Brigham Young</persName> used <persName key="Lee, John D.">John D. Lee</persName> to do his horrid work; and when discovery becomes unavoidable, he hurls <persName key="Lee, John D.">Lee</persName> from him, cuts him away from the Church, and casts him far out into the whirlpool of destruction. The assassin has no further use for his weapon. <seg type="Blame" subtype="LDS_LDSZealots">I also claim that if religious fanaticism can clear a man from crime <persName key="Lee, John D.">John D. Lee</persName> was guiltless, for he was one of the most intensely fanatical Mormons that infested <placeName type="state" key="Utah Territory">Utah</placeName> in <seg type="Massacre" subtype="Dates">1857</seg>. But I do not claim that the fact of his being a fanatic and blinded believer of <persName key="Young, Brigham">Brigham Young</persName>'s so-called revelations excused him&#8212;far from it. In place of excusing him it added to his crime. Such insanity as that which fanaticism breeds can only, and should only, be treated by the executioner. And there are many thousands in Utah who are alliicted with the 
+
+<pb n="17" xml:id="mmm.lds.penrose.1884.017"/>
+
+disease that calls for the radical treatment that was administered to <persName key="Lee, John D.">Lee</persName></seg>.”</seg></p>
+
+<p>I will read to you now some opinions of the press appended to a report of the first <persName key="Lee, John D.">Lee</persName> trial, in a pamphlet emanating from the <hi rend="italic">Tribune</hi> office in this city. These are culled from diiferent newspapers.</p>
+
+<p>From the <placeName type="settlement" key="Leavenworth, KS">Leavenworth</placeName> (<placeName type="state" key="Kansas">Kansas</placeName>) <hi rend="italic">Commercial</hi>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The Mormons are making a desperate effort to clear <persName key="Young, Brigham">Brigham Young</persName> of the Mountain Meadows massacre, but they will never succeed in convincing the world that the old sinner was not guilty of participation in the preliminaries to the inhuman outrage, nor that the work of butchery was not perpetrated with his sanction, if not by his positive command.”</seg></p>
+
+<p>From the <placeName type="settlement" key="Fort Wayne, IN">Fort Wayne</placeName> (<placeName type="state" key="Indiana">Indiana</placeName>) <hi rend="italic">Journal</hi>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The evidence in the trial of the Mormon leader, <persName key="Lee, John D.">John D. Lee</persName>, charged with participating in the Mountain Meadows massacre <seg type="Massacre" subtype="Dates">in 1857</seg>, clearly points to the unmistakable guilt of many distinguished Mormons, including <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Hooper, William H.">Hooper</persName>, the ex-Congressman, and others.”</seg></p>
+
+<p>From the <placeName type="settlement" key="Leavenworth, KS">Leavenworth</placeName> <hi rend="italic">Times</hi>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“It would be a waste of time and money to attempt to bring the Mountain Meadows assassins to justice. They have too strong a following. The Church of the Latter-day Saints is bound to stand by them. To convict <persName key="Lee, John D.">Lee</persName> would be to convict the Church and strike a fatal blow at its foundation.”</seg></p>
+
+<p>From the <placeName type="settlement" key="Chicago, IL">Chicago</placeName> <hi rend="italic">Inter-Ocean</hi>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="WesternViolence">“The investigation, however, has resulted in fixing an indelible stain on the Mormon Church and settling the responsibility for an act of barbarism which was even regarded as a reproach by the <choice><orig>law-
+
+<pb n="18" xml:id="mmm.lds.penrose.1884.018"/>
+
+less</orig><reg>lawless</reg></choice> savages of the west, who are supposed to know no shame nor pity, but who protested against the infamy of such a deed.”</seg></seg></p>
+
+<p>From the <placeName type="State" key="Idaho">Idaho</placeName> (<placeName type="state" key="Montana">Montana</placeName>) <hi rend="italic">Statesman</hi>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“This circumstance is so enormous and crime so heinous, and the evidence so plain, that it must and will be laid at the door of the Church with <persName key="Young, Brigham">Brigham Young</persName> as its leader, and be remembered by every man, woman and child wherever the name of Mormon is mentioned.”</seg></p>
+
+<p>From the <placeName type="settlement" key="Hartford, CT">Hartford</placeName> (<placeName type="state" key="Connecticut">Connecticut</placeName>) <hi rend="italic">Times</hi>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDSZealots">“That much at any rate has been shown by <persName key="Lee, John D.">Lee</persName>’s trial, and the guilt of mercilessly sacrificing <seg type="Massacre" subtype="Casualties">unarmed men, women and children</seg> to religious fanaticism are justly chargeable against the Mormon Church. It now remains to be seen whether American justice will much longer allow the existence of such a bloodthirsty and barbarous organization in the country. The good repute of our institutions is at stake in permitting Mormonism a place in the land.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I think it will not be denied now that the charge has been made that the “Mormon” Church is responsible for the massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. Now, I claim that the Church is not responsible, and to begin my defense of the Church, I will read to you from the 42nd section of the Book of Doctrine and Covenants.</seg> This is a revelation given through the Prophet <persName key="Smith, Joseph">Joseph Smith</persName> to the Church, February 9th, 1831, to be found on page 170 of the Book of Doctrine and Covenants, new edition:</p>
+
+<p>“And now behold I speak unto the Church. Thou shalt not kill; and he that kills shall not have forgiveness in this world, nor in the world to come.</p>
+
+<pb n="19" xml:id="mmm.lds.penrose.1884.019"/>
+
+<p>“And again I say, thou shalt not kill; but he that killeth shall die.”</p>
+
+<p>I will now read to you from page 176, the same revelation:</p>
+
+<p>“And it shall come to pass that if any persons among you shall kill, they shall be delivered up and dealt with according to the laws of the land; for remember that he hath no forgiveness, and it shall be proven according to the laws of the land.”</p>
+
+<p>That is received by Latter-day Saints in all the world as a revelation from God, and as a commandment, a standing commandment to this Church&#8212;that is, “Thou shalt not kill, and he that killeth shall not have forgiveness in this world nor in the world to come.” In the revelation on celestial marriage it is set forth that when persons have entered into certain covenants before God of a sacred character, and partaken of the Holy Ghost, and received the higher ordinances of the Church, if they commit murder&#8212;shed “innocent blood,” it will be impossible for them to be forgiven either in this world or in the world to come; it will be impossible for them to regain their salvation; their exaltation is gone. <seg type="Blame" subtype="LDS_LDS">Now, then that being the doctrine of the Church, how could the Church of Jesus Christ of Latter-day Saints authorize <seg type="Massacre" subtype="Casualties">the wholesale destruction of men, women and children</seg>? It could not be. Such an act would be contrary to the doctrines of the Church, contrary to the revelations believed by its members to be the word of God, believed by the people to be binding upon them, their faith being that if they commit
+
+<pb n="20" xml:id="mmm.lds.penrose.1884.020"/>
+
+such crimes they cannot be forgiven either in this world or in the world to come.</seg></p>
+
+<p>I will refer you now to a book published by an anti-Mormon named <persName key="Beadle, John H.">Beadle</persName>&#8212;perhaps you have heard of Mr. <persName key="Beadle, John H.">Beadle</persName> before. He is the author of a good many blood-curdling stories, and some of them are told in this book. But I am not going to read them tonight, I will merely read to you <persName key="Beadle, John H.">Beadle</persName>’s testimony in regard to this point. This is the evidence of an enemy:</p>
+
+<p>“Some months passed away before it was whispered in the northern district that <seg type="Blame" subtype="LDS_LDS">white men were concerned in this affair</seg>; and to the credit of the Mormon people be it said, a great horror spread among them at the report.</p>
+
+<p>“<persName key="Lee, John D.">John D. Lee</persName> still resides in <placeName type="settlement" key="Harmony, UT">Harmony</placeName> (1870) no longer a Bishop [he never was a Bishop] and one can scarcely restrain a feeling of satisfaction at knowing that his life is one of misery. He is shunned and hated by his Mormon neighbors; he seldom ventures beyond the square upon which he lives; his mind is distracted by an unceasing dread of vengeance and his intellect is disordered.” (<hi rend="italic">Beadle's Mysteries of Mormonism</hi>, page 185.)</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now, I ask, how could “a great horror” spread among the people if the people were accessories to this deed? If it was part of the doctrine of their Church, if they were willing and anxious for this massacre, how could a great horror spread among them at the report of it? And why should <persName key="Lee, John D.">Lee</persName> be shunned by his neighbors if this was a deed that the Church ordered or approved, or that its members condoned or palliated?</seg></p>
+
+<pb n="21" xml:id="mmm.lds.penrose.1884.021"/>
+
+<p>I will now read to you a few questions from <persName key="Stenhouse, T. B. H.">Stenhouse</persName>’s “Rocky Mountain Saints.” This work, as you are well aware, was published against the “Mormons.” <seg type="Context" subtype="LDSApostates"><persName key="Stenhouse, T. B. H.">Stenhouse</persName> was a member of the Church and afterwards apostatized and wrote a book against the Church.</seg> On page 459 he says:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The Mormon newspapers very properly declaim against ‘the people’ of <placeName type="state" key="Utah Territory">Utah</placeName> being branded as murderers, because murders have been committed within <placeName type="state" key="Utah Territory">their Territory</placeName>, and further they protest against the great crimes being charged to <persName key="Young, Brigham">Brigham Young</persName>.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">That shows that the “Mormon” people themselves did not approve of that crime, or of any other crimes of a similar character.</seg></p>
+
+<p>I will next read from page 460 of the same work:</p>
+
+<p>“When the news of that deed was heard, the people north were terror-stricken, and shuddered with horror at the thought of the barbarous crime, and the recital of the bloody work is harrowing to them today.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The Mormon people of <placeName type="state" key="Utah Territory">Utah</placeName> are not the offspring of a barbarous race, neither were they raised and nurtured in uncivilized nations. Apart from the spitefulness of religious controversy&#8212;which, by the by, is nothing peculiar to them&#8212;a kinder and more simple-hearted people is not upon the face of the earth. Had the Mountain Meadows massacre occurred in any of the neighboring Territories, and that crime was clearly the work of white people, the Mormons would have despised them, hated them, and in all probability would have refused all intercourse with them.”</seg></p>
+
+<pb n="22" xml:id="mmm.lds.penrose.1884.022"/>
+
+<p>And on the same page appears the following:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“That <persName key="Young, Brigham">Brigham Young</persName> is by his natural instincts a bad man, or that his apostles and his bishops are men of blood, is not true. Here and there among them a malicious man is met with but apart from religion, the ruling men in <placeName type="state" key="Utah Territory">Utah</placeName> would be considered good citizens in any community.”</seg></p>
+
+<p>That is the testimony of Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName> in a book written against the Church.</p>
+
+<p>I have a little work here published by <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, the man whose ranch was at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, but who was not at home when the massacre took place; he was here in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. He met the emigrants on his way here as they were going south. I will read you from page 46 of his book:</p>
+
+<p>“This deplorable affair caused a sensation of horror and deep regret throughout the entire community, by whom it was unqualifiedly condemned.</p>
+
+<p>“In Cove Creek Valley we met others from the south, who told us that the Indians were gathering to attack another company of emigrants. I procured a horse, left the wagons, and rode on day and night. At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> I found Brothers <persName key="Knight, Samuel">Samuel Knight</persName> and <persName key="Leavitt, Dudley">Dudley Leavitt</persName>.</p>
+
+<p>“As I was weary with hard riding and want of sleep, I hurried them on after the emigrants, while I traveled more slowly. I instructed these men to make every possible effort to save the company and their effects, and to save their lives at all hazards.</p>
+
+<p>“They overtook the company 156 miles from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, on Muddy Creek, in the heart of the Indian country. They found a large body of excited Indians preparing to attack and destroy them.</p>
+
+<pb n="23" xml:id="mmm.lds.penrose.1884.023"/>
+
+<p>“Finding it altogether impossible to control the Indians, they compromised the matter. The Indians agreed to take only the loose stock of the company, and not meddle with the teams and wagons, and not make any efforts to take their lives.</p>
+
+<p>“The Indians took the loose stock, amounting to 480 head, on the fifty-mile desert beyond the Muddy.</p>
+
+<p>“The brethren remained with the company, determined to assist in its defense, should the Indians attempt anything more than they had agreed.”</p>
+
+<p>This was the company that followed immediately behind <seg type="Massacre" subtype="Casualties">the company that was killed</seg>, according to <persName key="Hamblin, Jacob">Jacob Hamblin</persName>.</p>
+
+<p>I need not tell the Latter-day Saints that the deed was condemned. It was a long time before any news of this massacre reached the north. It should be understood that at that time the southern settlements were few and far between, and the country was sparsely settled. <seg type="Massacre" subtype="Location">The place where the massacre took place was 350 miles or thereabouts south and west of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg> There were no railroads in the country at that time; there were no telegraphs here at that time; and <seg type="Context" subtype="UtahWar">the United States mails had been stopped. Uncle Sam had sent out an army&#8212;or <persName key="Buchanan, James">James Buchanan</persName>, representing the government, had sent it out, in hostility to the "Mormons," and the mails were suspended. We had no regular mail connection between these settlements, no telegraphs, no telephones, no railroads, no swift method of communication</seg>, and it was a long time before the bad tidings reached the 
+
+<pb n="24" xml:id="mmm.lds.penrose.1884.024"/>
+
+north, and when it did <seg type="Blame" subtype="IndiansIndependently">it was supposed that the crime had been perpetrated by Indians</seg>. <seg type="Context" subtype="IndianRelationsUS">It was known very well that the feeling of the Indians at that time was hostile towards the whites, and it was a common expression among them that they wanted to fight the “Mericats,” as they called them.</seg> <seg type="Blame" subtype="IndiansIndependently">It was thought, therefore, when the word came, that the crime had been committed by the Indians, and then a feeling of horror pervaded the entire community, and it was deplored and condemned in toto.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I have shown in these few references I have made that this dreadful crime cannot be laid to the door of the people, and it takes the body of the “Mormon” people to make the Church. The “Mormon” Church is not composed simply of the First Presidency. It was not composed at that time of <persName key="Young, Brigham">Brigham Young</persName> and his Counselors. They merely formed one quorum in the Church. It was not composed of the First Presidency and the quorum of the Twelve Apostles. It took the whole body of the Church to make the Church. We are told in the Book of Doctrine and Covenants that “all things in the Church shall be done by common consent,” and nothing can be called an act of the Church except that which the Church votes for or consents to. Even if it could be proved that <persName key="Young, Brigham">Brigham Young</persName>, or <persName key="Smith, George A.">George A. Smith</persName>, or other leading men of the Church were in any way compromised in that terrible affair, it would not prove that the “Mormon” Church was guilty. The Church is not responsible for the acts of <persName key="Young, Brigham"><choice><orig>Brig-
+
+<pb n="25" xml:id="mmm.lds.penrose.1884.025"/>
+
+ham</orig><reg>Brigham</reg></choice> Young</persName>, nor for the acts of any individual. Each person is responsible before God for his own acts. He is responsible to the Church when he violates the laws of the Church. Every man in the Church, from the highest authority down to the lowest, is amenable to the Church courts when he falls into transgression; but the transgression must be proved and established by the mouths of two or three witnesses according to the Church laws; and if a member of the Church transgresses, if any man holding the Priesthood transgresses, if any man holding any authority whatever transgresses the laws of God and the laws of the Church, he is amenable to the courts of the Church. Provision is made for the case of every individual, from the First Presidency down. If he does anything that is unrighteous he can be judged by the Council which is set apart for that purpose. So I say that any movement that is made, to be rightly chargeable to the Church, must be endorsed by the Church as a body, must be done by common consent of the Church. The Church of Jesus Christ of Latter-day Saints never preached the doctrine that it was right to kill <seg type="Massacre" subtype="Casualties">men, women and children, as those emigrants</seg> were killed <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. The Church never endorsed that deed, never approved of it. The crime caused a thrill of horror to run through the entire community.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I think I need not dwell any further on the accusation in regard to the body of the Church. The principal charges that are made as <choice><orig>individ-
+
+<pb n="26" xml:id="mmm.lds.penrose.1884.026"/>
+
+uals</orig><reg>individuals</reg></choice> center right against President <persName key="Young, Brigham">Brigham Young</persName> and Apostle <persName key="Smith, George A.">George A. Smith</persName>, who was afterwards the first Counselor of President <persName key="Young, Brigham">Young</persName>. Brother <persName key="Smith, George A.">George A. Smith</persName> has been charged with going before the emigrants down south and arousing the people against them. <seg type="Encounter" subtype="TradeLDS">He has been also charged with counseling the people not to sell to this company of emigrants any grain, or flour, or provisions of any kind.</seg> He has been charged with stirring up a feeling of hostility among the people against this particular company, and it is claimed that the effects of his teachings culminated in the massacre.</seg></p>
+
+<p>I will then first take up the case of <persName key="Smith, George A.">George A. Smith</persName> and see how far he was implicated in this matter. I will read to you the affidavit made by <persName key="Smith, George A.">George A. Smith</persName> himself, which was presented at the <persName key="Lee, John D.">Lee</persName> trial, and I will take it from this lovely(?) book of Mr. <persName key="Bishop, William W.">Bishop</persName>’s, on page 307. I prefer, where I possibly can, to get my evidence from the works of persons who are bitterly opposed to us:</p>
+
+<p><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, }ss</p>
+
+<p><placeName type="county" key="Beaver County, UT">Beaver County</placeName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">In the Second Judicial District Court of <placeName type="state" key="Utah Territory">the Territory of Utah</placeName>. The People, etc., vs <persName key="Lee, John D.">John D. Lee</persName>, <persName key="Dame, William H.">William H. Dame</persName>, <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, et al., <placeName type="county" key="Salt Lake County, UT">Salt Lake Co.</placeName> Indictment for murder, <seg type="Massacre" subtype="Dates">committed September 16th, 1857</seg>.</seg></p>
+
+<p><persName key="Smith, George A.">George A. Smith</persName>, having been first duly sworn, deposes and says that he is aged 58 years. That he is now and has been for several months suffering from a severe and dangerous illness of the head and lungs, and that to attend the court at <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, in the present condition of his health, would in all probability end his life.</p>
+
+<p><seg type="Massacre" subtype="Planning">Deponent further saith, that he never, in the year 1857, at <placeName type="settlement" key="Parowan, UT">Parowan</placeName> or elsewhere, attended a council where <persName key="Dame, William H.">Wm. H. Dame</persName>, <persName key="Haight, Isaac C.">Isaac C. Haight</persName> or others were present to discuss any measures for attacking, or in any manner injuring, <seg type="Massacre" subtype="Casualties">an emigrant train</seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> or any other place, which is alleged to have been destroyed <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> <seg type="Massacre" subtype="Dates">in September, 1857</seg>.</seg></p>
+
+<p>Deponent further saith, that he never heard or
+
+<pb n="27" xml:id="mmm.lds.penrose.1884.027"/>
+
+knew anything of <seg type="Massacre" subtype="Casualties">a train of emigrants</seg>, which he learned afterwards by rumor was <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, until he met said train at Corn Creek on his way north to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <seg type="Massacre" subtype="Dates">on or about the 25th day of August, 1857</seg>.</p>
+
+<p>Deponent further saith, that he encamped with <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, <persName key="Farnsworth, Philo T.">Philo T. Farnsworth</persName>, <persName key="Smith, Silas S.">Silas S. Smith</persName> and <persName key="Hopps, Elijah">Elijah Hopps</persName>, and there for the first time he learned of the existence of <seg type="Massacre" subtype="Casualties">said emigrant train</seg>, and <seg type="Emigrants" subtype="Route">their intended journey to <placeName type="state" key="California">California</placeName></seg>.</p>
+
+<p>Deponent further saith, that having been absent from <placeName type="state" key="Utah Territory">the Territory</placeName> for a year previous, he returned in the Summer of 1857 and went south to visit his family at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and to look after some property he had there, and also visit his friends, and for no other purpose, and that on leaving <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> he had no knowledge whatsoever of the existence of <seg type="Massacre" subtype="Casualties">said emigrant train</seg>, nor did he acquire any until as before stated.</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">Deponent further saith, that as an Elder in the Church of Jesus Christ of Latter-day Saints he preached several times on his way south, and also on his return, and tried to impress upon the minds of the people the necessity of great care as to their grain crops, as all crops had been short for several years previous to 1857, and many of the people
+
+<pb n="28" xml:id="mmm.lds.penrose.1884.028"/>
+
+were reduced to acitual want and were suffering for the necessaries of life.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">Deponent further saith, that he advised the people to furnish all emigrant companies passing through <placeName type="state" key="Utah Territory">the Territory</placeName> with what they might actually need for breadstuff, for the support of themselves and families while passing through <placeName type="state" key="Utah Territory">the Territory</placeName>, and also advised the people not to feed their grains to their own stock, nor to sell to the emigrants for that purpose.</seg></p>
+
+<p>Deponent further saith, that he never heard or knew of any attack upon <seg type="Massacre" subtype="Casualties">said emigrant train</seg> until some time after his return to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and that while near Fort Bridger he heard for the first time that <seg type="Blame" subtype="IndiansIndependently">the Indians had massacred <seg type="Massacre" subtype="Casualties">an emigrant company</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</seg></p>
+
+<p>Deponent further saith, that he never at any time, either before or after that massacre, was accessory thereto, that he never directly or indirectly aided, abetted or assisted in its perpetration, or had any knowledge thereof except by hearsay; that <seg type="Massacre" subtype="Spoils">he never knew anything of the distribution of the property taken there, except by hearsay as aforesaid</seg>.</p>
+
+<p>Deponent further saith, that all charges and statements as pertaining to him contrary to the above are false and untrue.</p>
+
+<p>(Signed) <persName key="Smith, George A.">GEO. A. SMITH</persName>.</p>
+
+<p>Subscribed and sworn to before me this 30th day of July, A. D. 1875.</p>
+
+<p>(Signed.) <persName key="Clayton, William">WM. CLAYTON</persName>, <hi rend="italic">Notary Public</hi>.</p>
+
+<p>I will now read to you the testimony given at the first <persName key="Lee, John D.">Lee</persName> trial in regard to this matter on pages 33 and 34 of <hi rend="italic">Tribune</hi> report. This <choice><sic>estimony</sic><corr>testimony</corr></choice> was given under oath by <persName key="Smith, Jesse N.">Jesse N. Smith</persName>, with whom many of you are acquainted&#8212;a man of honor, a 
+
+<pb n="29" xml:id="mmm.lds.penrose.1884.029"/>
+
+man of veracity, a man of integrity, well known in this community, whose word is as good as his bond. I will not read you the whole of the testimony, but just that part pertaining to <persName key="Smith, George A.">George A. Smith</persName>:</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">“I lived in <placeName type="settlement" key="Parowan, UT">Parowan</placeName> in 1857, came to <placeName type="state" key="Utah Territory">Utah</placeName> ten years previously. Knew W<persName key="Dame, William H.">m. H. Dame</persName>, saw the emigrant train at the town above-named; sold them flour and salt, had flour to spare and asked if they wanted more; they wanted vegetables, but witness had none to spare. Saw <persName key="Smith, George A.">George A. Smith</persName> in <placeName type="settlement" key="Parowan, UT">Parowan</placeName> Aug. 8th; he came in from the north, went down among the settlements, witness accompanying him. A meeting was held in every settlement. Witness attended them all. He [<persName key="Smith, George A.">George A. Smith</persName>] deprecated selling grain and breadstuils to feed to horses and mules. Never heard him in his public addresses allude to this train.”</seg></p>
+
+<p>I will now read from the testimony of <persName key="Smith, Silas S.">Silas S. Smith</persName>, a man that is as well known and as highly respected as <persName key="Smith, Jesse N.">Jesse N. Smith</persName>, and was, for many years in this commtmity, a member of the Legislative Assembly:</p>
+
+<p>“Know <persName key="Smith, George A.">George A. Smith</persName>; saw him in August of 1857 at <placeName type="settlement" key="Parowan, UT">Parowan</placeName> and traveled with him through the southern settlements, returning with him to <placeName type="settlement" key="Cedar Springs, UT">Cedar Springs</placeName>, <placeName type="county" key="Millard County, UT">Millard County</placeName>. <seg type="Encounter" subtype="TradeLDS"><persName key="Smith, George A.">George A. Smith</persName>, in his speeches, referred to the necessity of saving grain and not feeding it to horses or stock; he disapproved of selling it for any such use. Heard nothing said to discourage the sale of provisions to emigrant trains for food.</seg> Witness camped at <placeName type="settlement" key="Corn Creek, UT">Corn Creek</placeName> and found <seg type="Emigrants" subtype="StateAffiliationArkansas">the <placeName type="state" key="Arkansas">Arkansas</placeName> train</seg> in camp there on arrival. <seg type="Encounter" subtype="Poison">Some of them came over ‘to witness’ fire and simply made inquiries. Nothing special was said. One of the party asked if the
+
+<pb n="30" xml:id="mmm.lds.penrose.1884.030"/>
+
+Indians would be likely to eat the flesh of an ox that lay dead near camp. Some said that they probably would.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">“Two days after, came to <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, passing the emigrants at Indian Creek, six or seven miles from here. Took supper with the emigrants there. Four days after this the emigrants passed through the town where witness lives, 30 miles south, and camped there. Spoke to some of the party; saw the leader; heard him called Mr. <persName key="Fancher, Alexander">Fancher</persName>. <persName key="Duke, William C.">Duke</persName>’s party followed several days after. They got into trouble with the Indians near <placeName type="settlement" key="Beaver, UT">Beaver</placeName> and witness was sent over with ten men by Col. <persName key="Dame, William H.">Dame</persName>, who called at his house to request witness to go to the relief of the emigrants.</seg> Reached <placeName type="settlement" key="Beaver, UT">Beaver</placeName> at night, and <seg type="Massacre" subtype="Battle">in the morning found the train corraled and a rifle pit dug for their protection. <seg type="Blame" subtype="IndiansIndependently">Sent a runner, who brought in the chief, and <seg type="Massacre" subtype="Spoils">witness placated the wrath of the red men by a liberal distribution of beef</seg>. The Indians claimed that <seg type="Massacre" subtype="Casualties">some of the braves had been shot by men belonging to the train</seg>, and they must wash out the offense in blood.</seg></seg><seg type="Blame" subtype="IndiansIndependently"> Witness understood that his intervention had settled the difficulty. </seg>Had no further connection with the emigrant trains.</p>
+
+<p>“Traveled with <persName key="Smith, George A.">George A. Smith</persName> from <placeName type="settlement" key="Parowan, UT">Parowan</placeName> to <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>, 150 miles. Held five or six meetings on the way. <persName key="Smith, George A.">George A. Smith</persName> invited witness to accompany him. <seg type="Encounter" subtype="TradeLDS">The object of his visit was to preach to the people to lay up grain for their future support. <seg type="Context" subtype="UtahWar">Col. <persName key="Johnston, Albert Sidney">Johnston</persName>’s army was then approaching <placeName type="state" key="Utah Territory">Utah</placeName>. Heard nothing said against allowing emigrant trains to pass through the country.</seg> * * <persName key="Smith, George A.">George A. Smith</persName> did not tell witness why he left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> alone to travel through <placeName type="state" key="Utah Territory">the Territory</placeName>. His only mission, so far as witness knows, was to counsel the people to save their grain and not feed it to stock.</seg>”</p>
+
+<pb n="31" xml:id="mmm.lds.penrose.1884.031"/>
+
+<p><seg type="Encounter" subtype="TradeLDS">It is well known by those who were residing in <placeName type="state" key="Utah Territory">Utah</placeName> at that time&#8212;I was not here&#8212;that this was the advice given all over <placeName type="state" key="Utah Territory">the Territory</placeName>. <seg type="Context" subtype="UtahWar">The people were counseled not to feed grain to their stock, nor to sell their grain to emigrants for their animals, but to save it for breadstuff, because of the coming of the army</seg>. These facts appeared in the <hi rend="italic">Journal of Discourses</hi>, which I had the privilege of reading in a distant land at that time, and these instructions were given to the whole people, not only in the south, but in the north, and to the whole community. <persName key="Smith, George A.">George A. Smith</persName>, when traveling to <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, preached this to the people in every settlement where he stayed, and when he returned to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> he reported in public, in the Tabernacle, and his discourse was published in the <hi rend="italic">Journal of Discourses</hi>, previously appearing in the <hi rend="italic">Deseret News</hi>&#8212;that he had counseled the people not to waste their grain nor feed it to their own stock, or sell it for that purpose to the emigrants. <persName key="Smith, George A.">George A. Smith</persName> has been charged with going out in advance of this company, prejudicing the minds of the people against the emigrants and counseling the people not to sell them provisions of any kind. The allidavit of <persName key="Smith, George A.">George A. Smith</persName> and the evidence of the two Smiths, that I have just read to you, show to the contrary. There is no proof whatever, no reliable evidence of any description, that <persName key="Smith, George A.">Geo. A. Smith</persName> did anything of the kind imputed to him.</seg> <seg type="Blame" subtype="LDS_LDS">We all know that <persName key="Smith, George A.">George A. Smith</persName> was not a man of vengeance nor a man of blood. I do not think I need spend much more time in regard to
+
+<pb n="32" xml:id="mmm.lds.penrose.1884.032"/>
+
+his case, because, after all, the chief person whom responsibility for the massacre was desired to be saddled was President <persName key="Young, Brigham">Brigham Young</persName>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The question now is whether President <persName key="Young, Brigham">Young</persName> was responsible for that awful crime committed <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. President <persName key="Young, Brigham">Young</persName> must have been an accessory before the fact, or an accessory after the fact, if he was in any way chargeable with that dreadful deed. <seg type="Massacre" subtype="Planning">I will first examine the evidence to see whether he was an accessory before the fact; whether he advised this crime; whether such of the people who were guilty were influenced by any instructions or message he had sent to them.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Those of you who are acquainted with the facts in relation to the coming of the army from the east against the people here, are well aware that it was a time of great excitement. The army was encamped out east, and our brethren were in Echo Canyon preparing their defenses. Some of them who were out on the plains taking measures to arrest the progress of the army, received instructions from President <persName key="Young, Brigham">Young</persName>. Of what nature were they? Everybody acquainted with the facts knows that the instructions from President <persName key="Young, Brigham">Young</persName> were that they might arrest the progress of the army, burn the grass, stampede their animals and destroy their trains; but they were not to shed a drop of blood. These instructions were given over and over again to those in charge. I have read copies of those despatches in a letter book, signed by <persName key="Young, Brigham">Brigham Young</persName>. I have seen these <choice><orig>instruc-
+
+<pb n="33" xml:id="mmm.lds.penrose.1884.033"/>
+
+tions</orig><reg>instructions</reg></choice> with my own eyes. I have heard the brethren who were engaged in that defense bear testimony to this. The instructions that were given over and over again were that they were not to shed a drop of blood unless actually compelled to do so in self-defense. <seg type="Blame" subtype="LDS_LDS">And, mind you, this was at the very time that President <persName key="Young, Brigham">Young</persName> is said to have given instructions to destroy <seg type="Massacre" subtype="Casualties">this company of emigrants</seg>!</seg></seg></p>
+
+<p>I have to refer you to a good many documents and papers, for I do not want you to rely on my testimony, but I want to bring forward as clear evidence and proof as I have been able to collect in regard to this matter. I want to read to you now a statement made by General <persName key="Wells, Daniel H.">Daniel H. Wells</persName>, which was published in the <hi rend="italic">New York Herald</hi> of May 6, 1877, being a part of an interview between the representative of the <hi rend="italic">New York Herald</hi> and President <persName key="Young, Brigham">Young</persName>; the former having been sent here especially to interview the latter in regard to this matter:</p>
+
+<p><seg type="Context" subtype="UtahWar">“Everybody remembers how the people behaved when ordered out by President <persName key="Young, Brigham">Young</persName> to prevent <persName key="Johnston, Albert Sidney">Johnston</persName> from entering <placeName type="state" key="Utah Territory">the Territory</placeName> at what might have seemed to another man a most dismal moment of his career. The president issued an order which, while it obliged us to burn forage in advance, set fire to the grass at night, carry off animals and do various other things to hold back the enemy, absolutely forbade a single man to shed a drop of blood.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">“I remember when a young officer was captured by one of your troops a wallet found on him <choice><orig>con-
+
+<pb n="34" xml:id="mmm.lds.penrose.1884.034"/>
+
+tained</orig><reg>contained</reg></choice> an order to him signed by me, on the back of which was the usual inscription, ‘Shed no blood.’ That order was taken first to <persName key="Johnston, Albert Sidney">Johnston</persName>, and was afterwards taken to <placeName type="settlement" key="Washington, DC">Washington</placeName> and brought out in the famous debate of the next session.”</seg></p>
+
+<p>You see, this man that was captured had the document upon his person giving him instructions, and the positive command was that he was to “shed no blood.”</p>
+
+<p>I will now read to you an extract from a letter published by a company of teamsters who passed through this country at the time of the <placeName type="state" key="Utah Territory">Utah</placeName> expedition. It was published on the 5th of June, 1858, in the <hi rend="italic">Southern Vineyard</hi>, a paper printed in <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>. It shows the disposition of the people at that time, and the orders of the authorities:</p>
+
+<p>“On the 16th we arrived at a Mormon station, at the mouth of Echo Canyon, in a famished condition. On representing our distressed circumstances our wants were <hi rend="italic">promptly and gratuitously supplied</hi>. Here we were furnished with an escort to the city, where we met with Lieut. Gen. <persName key="Wells, Daniel H.">D. H. Wells</persName>, of the <placeName type="state" key="Utah Territory">Utah</placeName> militia, who issued instructions regarding our safety throughout the settlements, accompanied with a relieved escort at each station. We recruited ourselves at <placeName type="settlement" key="Beaver, UT">Beaver City</placeName>, and it was deemed advisable to fit up for the journey to <placeName type="state" key="California">California</placeName>. <seg type="Context" subtype="WesternViolence">We would be exceedingly ungrateful in omitting an expression of our sincere thanks and deep indebtedness to our Mormon friends of <placeName type="state" key="Utah Territory">Utah</placeName>, and the mail carriers, for the disinterested kindness evinced toward us in ministering to our wants, and for the aid extended to us in our journey to <placeName type="state" key="California">California</placeName>, without which we could never have
+
+<pb n="35" xml:id="mmm.lds.penrose.1884.035"/>
+
+reached our destination, but have perished in the desert, or been killed by merciless savages.”</seg></p>
+
+<p>This very company of teamsters the “Mormons” were accused of murdering, while the facts were they owed their lives to “Mormon” generosity. Their testimony shows the disposition of the people here at that time and the orders of the President to Gen. <persName key="Wells, Daniel H.">D. H. Wells</persName>.</p>
+
+<p>I will now read to you the instructions of President <persName key="Young, Brigham">Young</persName> to Col. <persName key="Dame,William H.">Dame</persName>, at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, which you will find in the beautiful(?) book of Mr. <persName key="Bishop, William W.">Bishop</persName>’s, page 316. I do not think I will take up the time in reading the whole of this circular. I will, however, read the latter part of it. It is published in full in, this and other books. It is dated, “<placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName>, <seg type="Massacre" subtype="Dates">September 14, 1857”&#8212;just about the time of the massacre. I will give you the exact date of that occurrence presently. It has been disputed as to the actual date when the massacre took place, the dates varying from the 10th to the 16th of September; but I think I can give you the exact date:</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">“Herewith you will receive the Governor’s proclamation declaring martial law.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">“You will probably not be called out this Fall, but are requested to continue to make ready for a big fight another year.”</seg></p>
+
+<p>At the close of the circular which was not only sent to this gentleman, Col. <persName key="Dame, William H.">Dame</persName>, but all over <placeName type="state" key="Utah Territory">the Territory</placeName>, it says:</p>
+
+<p>“And what we said in regard to saving the grain and provisions we say again, let there be no waste.
+
+<pb n="36" xml:id="mmm.lds.penrose.1884.036"/>
+
+Save life always when it is possible. We do not wish to shed a drop of blood if it can be avoided.”</p>
+
+<p>Now, here is <persName key="Young, Brigham">Brigham Young</persName> sending a circular to all the chief men of the militia throughout <placeName type="state" key="Utah Territory">the Territory</placeName>, declaring that he does not want a drop of blood shed if it can be avoided. They were to save, not destroy, life. And yet we are expected to believe that right at that time, or a day or two previously, President <persName key="Young, Brigham">Young</persName> sent down word to our brethren in the same neighborhood to kill off the emigrants! The story does not hold very well together in the light of this circular, from which I have just read.</p>
+
+<p>I will now refer again to Mr. <persName key="Stenhouse, T. B. H.">Stenhouse</persName>’s book, “Rocky Mountain Saints.” You must excuse me if I take up a good deal of time in reading extracts. My object is to establish the facts, as far as possible, from the testimony of persons not connected with us. I read from <persName key="Stenhouse, T. B. H.">Stenhouse</persName>’s book, page 369:</p>
+
+<p>“The Prophet had given orders that no blood was to be shed under any temptation or provocation, save only in the extremity of self-defense.” This is the testimony of <persName key="Stenhouse, T. B. H.">T. B. H. Stenhouse</persName>, an enemy. I will refer you again to the same book, page 385. It is an extract from an address by President <persName key="Young, Brigham">Young</persName>:</p>
+
+<p>“Should I take a course to waste life? We are in duty bound to preserve life&#8212;to preserve ourselves on the earth&#8212;consequently <hi rend="italic">we must use policy</hi> and follow in the counsel given us, in order to preserve our lives.”</p>
+
+<p>This address was delivered at the time when the army was coming in. I have read this extract 
+
+<pb n="37" xml:id="mmm.lds.penrose.1884.037"/>
+
+to show you that the policy of President <persName key="Young, Brigham">Young</persName> was to preserve life, notwithstanding there was a hostile army right on our borders, coming for the express purpose of destroying the people, yet the policy of President <persName key="Young, Brigham">Young</persName> was not to shed blood.</p>
+
+<p>Next, I will read to you an extract from the <persName key="Lee, John D.">Lee</persName> trial&#8212;remarks made by Mr.<persName key="Howard, Sumner">Sumner Howard</persName>,the U.S. prosecuting attorney at the second trial of <persName key="Lee, John D.">John D. Lee</persName>:</p>
+
+<p><seg type="Blame" subtype="Lee">“He proposed to prove that <persName key="Lee, John D.">John D. Lee</persName>, without any authority from any council or officer, but in direct opposition to the feelings and wishes of the officers of the Mormon Church, had <seg type="Blame" subtype="IndiansLDSInfluence">gone to <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, where the Indians were then encamped, accompanied only by a little Indian boy, and had assumed command of the Indians, whom he had induced, <seg type="Massacre" subtype="Spoils">by promises of great booty</seg>, to attack these emigrants</seg>; that in his attack on the emigrants he was repulsed; that finding he could not get the emigrants out, he sent word to the various settlements of southern <placeName type="state" key="Utah Territory">Utah</placeName> for men to be sent to him, representing that the men were needed for various purposes, <seg type="Blame" subtype="IndiansIndependently">to some saying the Indians had attacked the emigrants and it was necessary to have men sent to draw off the Indians</seg>, to others that men were necessary to protect the emigrants, and still others that <seg type="Massacre" subtype="Casualties">the emigrants were all killed</seg>, and that <seg type="Massacre" subtype="Aftermath">they were required to bury the dead</seg>; these men went in good faith to perform a humane act; that <seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="IndiansLDSInfluence">he had arranged with the Indians</seg> to bring the emigrants out from their corral, or fort, by means of a flag of truce; that by this act of perfidy he had induced the emigrants to give up their arms and place themselves under his protection, loading the arms and <seg type="Massacre" subtype="Casualties">the wounded with the helpless children into two wagons, which he
+
+<pb n="38" xml:id="mmm.lds.penrose.1884.038"/>
+
+had ordered up for the purpose; that he then started the wagons ahead, following them himself, and the women following next, the men bringing up the rear in single file</seg></seg><seg type="Massacre" subtype="Casualties">; that <persName key="Lee, John D.">Lee</persName>, after having traveled from three-quarters of a mile to a mile, gave the order to fire, and the slaughter commenced; that <persName key="Lee, John D.">Lee</persName> shot one woman with his rifle, and brained another woman; then drawing his pistol, shot another, and seizing a man by the collar and drawing him out of a wagon, cut his throat;</seg> that <seg type="Massacre" subtype="Spoils">he gathered up the property of the emigrants and took it to his own place, using and selling it for his own benefit and use</seg>. All these charges against <persName key="Lee, John D.">John D. Lee</persName>, he (District Attorney <persName key="Howard, Sumner">Howard</persName>) proposed to prove to the jury by competent testimony, beyond reasonable doubt, or beyond any doubt, and thought no appeal to the jury would be required to induce them to give a verdict in accordance with the evidence.”</seg></p>
+
+<p>I will now read to you a passage from <persName key="Lee, John D.">Lee</persName>’s confession, or reported confession. <persName key="Lee, John D.">John D. Lee</persName> made a great many so-called “confessions” which are rather contradictory. This confession is supposed to be the “only true and genuine one.” Whether it is or not I cannot say. My opinion is from what I have read that <persName key="Lee, John D.">John D. Lee</persName> furnished particulars and data to Mr. <persName key="Bishop, William H.">Bishop</persName>, who worked them up with some of his own notions and fabrications into this book. I cite this work of an enemy to show that President <persName key="Young, Brigham">Young</persName> was not an accessory before the fact. I read from <persName key="Bishop, William H.">Bishop</persName>’s book, page 233:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">“Major <persName key="Higbee, John M.">Higbee</persName> said ‘Here are the orders’ and handed me a paper from <persName key="Haight, Isaac C.">Haight</persName>. It was in <choice><orig>sub-
+
+<pb n="39" xml:id="mmm.lds.penrose.1884.039"/>
+
+stance</orig><reg>substance</reg></choice> that it was the orders of <persName key="Haight, Isaac C.">Haight</persName> <seg type="Massacre" subtype="Surrender">to decoy the emigrants from their position</seg> and <seg type="Massacre" subtype="Casualties">kill all of them that could talk</seg>. This order was in writing. <persName key="Higbee, John M.">Higbee</persName> handed it to me and I read it, and then dropped it on the ground, saying ‘I cannot do this.’ The substance of the orders were that <seg type="Massacre" subtype="Surrender">the emigrants should be decoyed from their stronghold</seg> and <seg type="Massacre" subtype="Casualties">all exterminated so that no one would be left to tell the tale</seg> and <seg type="Blame" subtype="IndiansIndependently">then the authorities could say it was done by the Indians</seg>.”</seg></seg></p>
+
+<p>You see this order did not come from <persName key="Young, Brigham">Brigham Young</persName>. If it was given at all it come from <persName key="Haight, Isaac C.">Haight</persName>. We will now turn to page 245 of the same work:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“<seg type="Massacre" subtype="Aftermath">After the dead were searched</seg> the brethren were called up and <persName key="Higbee, John M.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName>, as well as myself made speeches, and <seg type="Reaction" subtype="Silence"><hi rend="italic">ordered</hi> the people to keep the matter a secret from the entire world. Not to tell their wives, or their most intimate friends, and we pledged ourselves to keep everything relating to the affair a secret through life. We also took the most binding oaths to stand by each other, and <seg type="Blame" subtype="IndiansIndependently">to always insist that the massacre was committed by Indians alone</seg>.</seg></seg> * * *</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">“Knowing that <persName key="Dame, William H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName> had quarreled at <persName key="Hamblin, Jacob">Hamblin</persName>’s that morning, I wanted to know how they would act in sight of the dead, who lay there as the result of their orders. I was greatly interested to know what <persName key="Dame, William H.">Dame</persName> had to say, so I kept close to them, without appearing to be watching them. Col. <persName key="Dame, William H.">Dame</persName> was silent for some time. He looked all over the field and was quite pale and looking uneasy and frightened. I thought then that he was just finding out the difference between giving and executing orders for wholesale killing. He spoke to <persName key="Haight, Isaac C.">Haight</persName> and said:</seg></seg></p>
+
+<pb n="40" xml:id="mmm.lds.penrose.1884.040"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">“‘I must report this matter to the authorities.’</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“‘How will you report it?’ said <persName key="Haight, Isaac C.">Haight</persName>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“<persName key="Dame, William H.">Dame</persName> said ‘I will report it just as it is.’</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“‘Yes, I suppose so, and implicate yourself with the rest,’ said <persName key="Haight, Isaac C.">Haight</persName>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“‘No,’ said <persName key="Dame, William H.">Dame</persName>, ‘I will not implicate myself, for I had nothing to do with it.</seg>’</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“<persName key="Haight, Isaac C.">Haight</persName> then said, ‘That will not do, for you know a d&#8212;d sight better. You ordered it done.’</seg></p>
+
+<milestone unit="section" rend="stars"/>
+
+<p>“Col. <persName key="Dame, William H.">Dame</persName> was much excited. He choked up and would have gone away, but he knew <persName key="Haight, Isaac C.">Haight</persName> was a man of determination and would not stand any foolishness."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">You see that there was a quarrel, according to <persName key="Lee, John D.">John D. Lee</persName>, between <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Dame, William H.">Dame</persName> in regard to this matter <seg type="Massacre" subtype="Aftermath">right on the field near where the dead were lying</seg>. <persName key="Dame, William H.">Dame</persName> disclaimed having anything whatever to do with the crime; but <persName key="Haight, Isaac C.">Haight</persName>, as I have read to you, tried to place the responsibility upon him. <persName key="Dame, William H.">Dame</persName> declared he had had nothing to do with it, that he had given no orders concerning it, and threatened to report the details to the authorities of the Church. <persName key="Haight, Isaac C.">Haight</persName> immediately was afraid, and asked him what he was going to report. Now, then, if <persName key="Young, Brigham">Brigham Young</persName> had given orders to have the emigrants massacred, why should <persName key="Haight, Isaac C.">Haight</persName> be in such a state of alarm at the declaration of <persName key="Dame, William H.">Dame</persName> that he was going to report the matter to President <persName key="Young, Brigham">Young</persName>? We are asked to believe that President <persName key="Young, Brigham">Young</persName> ordered that massacre. Yet here we learn by the confession of <persName key="Lee, John D.">John D. Lee</persName>, who states that he heard this
+
+<pb n="41" xml:id="mmm.lds.penrose.1884.041"/>
+
+quarrel between <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Dame, William H.">Dame</persName>, that
+<persName key="Haight, Isaac C.">Haight</persName>, who had given the order, wanted to lay the blame upon <persName key="Dame, William H.">Dame</persName>, and that <persName key="Haight, Isaac C.">Haight</persName> was afraid to have
+the massacre reported to the authorities of the Church. Here is an account of some speeches made just after this (page 347):</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The speeches were first&#8212;thanks to God for delivering our enemies into our hands; next, thanking the brethren for their zeal in God’s cause; and then <seg type="Blame" subtype="IndiansIndependently">the necessity of always saying the Indians did it alone, and that the Mormons had nothing to do with it.</seg> <seg type="Reaction" subtype="Silence">The speeches, however, were in the shape of exhortation and commands to keep the whole matter secret from everyone but <persName key="Young, Brigham">Brigham Young</persName>. It was voted unanimously that any man who should divulge the secret, or tell who was present, or do anything that would lead to a discovery of the truth, should suffer death.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">“The brethren then all took a most solemn oath binding themselves under the most dreadful and awful penalties, to keep the whole matter secret from every human being, as long as they should live. No man was to know the facts. The brethren were sworn not to talk of it among themselves, and each one swore to help kill all who proved to be traitors to the Church or people in this matter.</seg></seg></p>
+
+<p>“It was then agreed that <persName key="Young, Brigham">Brigham Young</persName> should be informed of the whole matter, by some one to be selected by the Church council, after the brethren had returned home.”</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now, you see, there was an agreement that this matter should be reported to President <persName key="Young, Brigham">Young</persName>, and yet we are asked to believe that President <persName key="Young, Brigham">Young</persName> had ordered  it. <persName key="Dame, William H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName> quarreled over it. <persName key="Haight, Isaac C.">Haight</persName> feared that it would be reported just as
+
+<pb n="42" xml:id="mmm.lds.penrose.1884.042"/>
+
+it was, and <seg type="Reaction" subtype="Silence">the whole body of men were sworn to keep it entirely secret</seg>. <persName key="Lee, John D.">John D. Lee</persName> was selected to go to President <persName key="Young, Brigham">Young</persName> and make a report. We will find out presently what kind of a report <persName key="Lee, John D.">Lee</persName> made. <persName key="Lee, John D.">John D. Lee</persName> says, Page 250:</seg></p>
+
+<p>“The first time I heard that a messenger had been sent to <persName key="Young, Brigham">Brigham Young</persName> for instructions as to what should be done with the emigrants, was three or four days after I had returned home from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>. Then I heard of it from <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, when he came to my house and had a talk with me. He said:</p>
+
+<p>“‘We are in a muddle. <persName key="Haslam, James Holt">Haslam </persName>has returned from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, with orders from <persName key="Young, Brigham">Brigham Young</persName> to let the emigrants pass in safety.”</p>
+
+<p>“In this conversation <persName key="Haight, Isaac C.">Haight</persName> also said:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“‘I sent an order to <persName key="Higbee, John M.">Higbee</persName> to save the emigrants, after I had sent the orders for killing them all, but for some reason the message did not reach him. I understand that the messengers did not go to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg> at all.’</seg></p>
+
+<p>“I at once saw that we were in a bad fix, and I asked <persName key="Haight, Isaac C.">Haight</persName> what was to be done. We talked the matter over again.</p>
+
+<p>“<persName key="Haight, Isaac C.">Haight</persName> then told me that it was the orders of the council that I should go to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and lay the whole matter before <persName key="Young, Brigham">Brigham Young</persName>. I asked him if he was not going to write a report of it to the governor, as he was the right man to do it, for he was in command of the militia in that section of the country, and next to <persName key="Dame, William H.">Dame</persName> in command of the whole district. I told him that it was a matter which really belonged to the military department, and should be so reported.</p>
+
+<p>“He refused to write a report, saying:</p>
+
+<p>“‘You can report it better than I could write it.
+
+<pb n="43" xml:id="mmm.lds.penrose.1884.043"/>
+
+You are like a member of <persName key="Young, Brigham">Brigham</persName>’s family, and can talk to him privately and confidentially. I want you to take all of it on yourself that you can, and not expose any more of the brethren than you find absolutely necessary.”</p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution">Now, here are the instructions of <persName key="Haight, Isaac C.">Haight</persName> to <persName key="Lee, John D.">John D. Lee</persName>. Here is <persName key="Haight, Isaac C.">Haight</persName> trying to cover up from President <persName key="Young, Brigham">Young</persName> the crime which we are asked to believe President <persName key="Young, Brigham">Young</persName> had ordered. The message had come saying that the emigrants were to be allowed to pass. But <persName key="Haight, Isaac C.">Haight</persName> wanted <persName key="Lee, John D.">John D. Lee</persName> to go to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and fix it up; make a report to the President so as to allay his feelings. <persName key="Lee, John D.">John D. Lee</persName> subsequently agreed to do this.</seg></p>
+
+<p>Now I will cite to you the testimony of <persName key="Morrill, Laban">Laban Morrill</persName> in regard to the dispatch from President <persName key="Young, Brigham">Young</persName> to <persName key="Haight, Isaac C.">Haight</persName>. I will refer again to <persName key="Bishop, William W.">Bishop</persName>’s book, page 320. An objection was made on the part of the defense at the second <persName key="Lee, John D.">Lee</persName> trial to the introduction of this testimony, but the objection was overruled:</p>
+
+<p>“As I said, there appeared to be some confusion in that council. I inquired in a friendly way, what was up. I was told that there was an emigrant train that <seg type="Emigrants" subtype="Route">passed along down to near <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, and that <seg type="Blame" subtype="EmigrantBehavior">they had made threats in regard to us as a people&#8212;said they would destroy every d&#8212;d Mormon.</seg> <seg type="Context" subtype="UtahWar">There was an army coming on the north and south, and it created some little excitement.</seg> I made two or three replies in a kind of debate of measures that were taken into consideration, discussing the object, what method
+
+<pb n="44" xml:id="mmm.lds.penrose.1884.044"/>
+
+we thought best to take in regard to protecting the lives of the citizens.</p>
+
+<p>“My objections were not coincided with. At last we touched upon the topic like this: We should still keep quiet, and a dispatch should be sent to Governor <persName key="Young, Brigham">Young</persName> to know what would be the best course. The vote was unanimous. I considered it so. It seemed to be the understanding that on the coming morning or next day there should be a messenger dispatched. I took some pains to inquire and know if it would be sent in the morning. The papers were said to be made out, and Governor <persName key="Young, Brigham">Young</persName> should be informed, and no hostile course pursued till his return. I returned back to Fort Johnson, feeling that all was well. About eight and forty hours before the messenger returned, business called me to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and I learned that the <hi rend="italic">job had been done</hi>, that is <seg type="Massacre" subtype="Battle">the destruction of the emigrants had taken place</seg>. I can’t give any further evidence on the subject at present.</p>
+
+<p>“What was the name of the messenger sent to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>?”</p>
+
+<p>“<persName key="Haslam, James Holt">James Haslam</persName>.”</p>
+
+<p>I will now read to you the testimony of <persName key="Haslam, James Holt">James Haslam</persName>:</p>
+
+<p>“<persName key="Haslam, James Holt">James Haslam</persName>, of <placeName type="settlement" key="Wellsville, UT">Wellsville</placeName>, Cache Valley, was sworn. He lived in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> in 1857; was ordered by <persName key="Haight, Isaac C.">Haight</persName> to take a message to President <persName key="Young, Brigham">Young</persName> with all speed; knew the contents of the message; left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> on Monday, September 7, 1857, between 5 and 6 p. m., and arrived at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> on Thursday at 11 a.m.; started back at 3 p. m., and reached <placeName type="settlement" key="Cedar City, UT">Cedar</placeName> about 11 a. m. Sunday morning, September 13th; delivered the answer from President <persName key="Young, Brigham">Young</persName> to <persName key="Haight, Isaac C.">Haight</persName>, who said it was too late. Witness testified that when <choice><orig>leav-
+
+<pb n="45" xml:id="mmm.lds.penrose.1884.045"/>
+
+ing</orig><reg>leaving</reg></choice> <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> to return, President <persName key="Young, Brigham">Young</persName> said to him: ‘Go with all speed, spare no horseflesh. The emigrants must not be meddled with, if it takes all <placeName type="county" key="Iron County, UT">Iron County</placeName> to prevent it. They must go free and umnolested. Witness knew the contents of the answer. He got back with the message the Sunday after the massacre and reported to <persName key="Haight, Isaac C.">Haight</persName>, who said, ‘It is too late.’”</p>
+
+<p>That is the testimony of <persName key="Haslam, James Holt">James Haslam</persName> at the second <persName key="Lee, John D.">Lee</persName> trial. <seg type="Blame" subtype="LDS_LDS">According to what I have shown you President <persName key="Young, Brigham">Young</persName> could not have been an accessory before the fact. He knew nothing about this matter until the dispatch came from <persName key="Haight, Isaac C.">Haight</persName>. As soon as he received that dispatch he send back word&#8212;and told the messenger to spare no horseflesh in returning&#8212;that the emigrants must not be meddled with, and that if it took all <placeName type="county" key="Iron County, UT">Iron County</placeName> to prevent them being interrupted by the Indians, it must be used for their protection.</seg> That is the testimony of <persName key="Haslam, James Holt">James Haslam</persName>.</p>
+
+<p>We have been tantalized a great deal in regard to the dispatch or letter sent by President <persName key="Young, Brigham">Young</persName> by this messenger <persName key="Haslam, James Holt">Haslam</persName>. As I had never seen it published I supposed that it could not be found. I had learned from President <persName key="Young, Brigham">Young</persName>’s testimony that the letter sent to him from <persName key="Haight, Isaac C.">Haight</persName> by <persName key="Haslam, James Holt">Haslam</persName> was lost. But the evidence is clear that he sent a dispatch in reply to <persName key="Haight, Isaac C.">Haight</persName> at that time, and since President <persName key="Young, Brigham">Young</persName> usually kept a copy of his correspondence, I supposed that this dispatch or a copy of it was in existence. The <hi rend="italic">Tribune</hi> of this city, over and over again, has challenged the “Mormons” to produce a copy of the dispatch or letter 
+
+<pb n="46" xml:id="mmm.lds.penrose.1884.046"/>
+
+that <persName key="Young, Brigham">Brigham Young</persName> sent by <persName key="Haslam, James Holt">James Haslam</persName>. <persName key="Haslam, James Holt">James Haslam</persName> testified that he delivered the dispatch to <persName key="Haight, Isaac C.">Haight</persName>, but <persName key="Haight, Isaac C.">Haight</persName> said it was too late. But it is objected, “Why don’t you produce the dispatch?" Now, I have taken pains to hunt this matter up, and succeeded in getting the letter-book in which the correspondence of President <persName key="Haslam, James Holt">James Haslam</persName> at that period was copied, and found this identical dispatch in its order of date, and I am going to read it to you tonight. I read the letter myself in the copying-book, from Aug. 20, 1856, to Jan. 6, 1858, filed away in the President’s office; I have obtained a certified copy of it and I know that it is correct:</p>
+
+<p>PRESIDENT'S OFFICE.</p>
+
+<p><placeName type="settlement" key="Salt Lake City, UT">GREAT SALT LAKE CITY</placeName>, Sept. 10, 1857.</p>
+
+<p><hi rend="italic">Elder <persName key="Haight, Isaac C.">Isaac C. Haight</persName></hi>:</p>
+
+<p><seg type="Context" subtype="UtahWar">DEAR BROTHER:&#8212;Your note of the 7th inst. is to hand. Capt. <persName key="Van Vliet, Stewart">Van Vliet</persName>, Acting Commissary, is here, having come in advance of the army to procure necessaries for them. We do not expect that any part of the army will be able to reach here this fall. There is only about 850 men coming. They are now at or near Laramie. A few of their freight trains are this side of that place, the advance of which are now on Green River. They will not be able to come much if any further on account of their poor stock. They cannot get here this season without we help them. So you see that the Lord has answered our prayers, and again averted the blow designed for our heads. In regard to the emigration trains passing through our settlements, we must not interfere with them until they are first notified to keep away. You must not meddle with them. The Indians we expect will do as they please, but you should try and preserve good feelings with them. There are no other trains [text added to 1906 edition: going south] that I know of. If those who are there will leave, let them go in
+
+<pb n="47" xml:id="mmm.lds.penrose.1884.047"/>
+
+peace. While we should be on the alert, on hand, and always ready, we should also possess ourselves in patience, preserving
+ourselves and property, ever remembering that God rules. He has overruled for our deliverance thus once again, and He will always do so if we live our religion and be united in our faith and good works.</seg></p>
+
+<p>All is well with us. May the Lord bless you and all the Saints forever.</p>
+
+<p>Your brother in the gospel of Christ.</p>
+
+<p><persName key="Young, Brigham">BRIGHAM YOUNG</persName>.</p>
+
+<p><placeName type="state" key="Utah Territory">TERRIRTORY OF UTAH</placeName>, } ss.</p>
+
+<p><placeName type="county" key="Salt Lake County, UT">County of Salt Lake</placeName></p>
+
+<p>I, <persName key="Clayton, Nephi W.">Nephi W. Clayton</persName>, a notary public, within and for <placeName type="county" key="Salt Lake County, UT">the County of Salt Lake</placeName>, <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, hereby certify that the foregoing is a full, true and correct copy of an impression of the foregoing letter; as witness my hand and official seal, at my office in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, this 18th day of October, A. D. 1884.</p>
+
+<p><persName key="Clayton, Nephi W.">NEPHI W. CLAYTON</persName>,</p>
+
+<p>Notary Public, <placeName type="county" key="Salt Lake County, UT">Salt Lake County</placeName>, <placeName type="state" key="Utah Territory">U. T.</placeName></p>
+
+<p>That is a full and verbatim copy of the letter sent by President <persName key="Young, Brigham">Young</persName> in the hands of <persName key="Haslam, James Holt">James Haslam</persName> to <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, which arrived, as has been testified, forty-eight hours after the massacre. He reached <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> on Sunday, the 13th. <seg type="Massacre" subtype="Dates">The massacre then took place on September 11th, the day after this letter was written.</seg> <persName key="Haight, Isaac C.">Isaac C. Haight</persName> said, “It is too late.” He had sent for "instructions, according to the agreement in council, but had been prevailed upon by <persName key="Lee, John D.">John D. Lee</persName> to hurry the thing up and not wait for a reply. <persName key="Lee, John D.">John D. Lee</persName> said he never heard of this letter until after he returned from <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg>. But it is clear that a 
+
+<pb n="48" xml:id="mmm.lds.penrose.1884.048"/>
+
+letter was sent. <seg type="Context" subtype="UtahWar">It is evident that <persName key="Haight, Isaac C.">Haight</persName> had written to President <persName key="Young, Brigham">Young</persName> to find out how near the army was, and what prospects there were of its coming here. He had undoubtedly referred to this emigrant train, and he informed the President of <seg type="Blame" subtype="IndiansIndependently">the antagonism that prevailed against the emigrants on the part of the Indians</seg>, and, in the answer, President <persName key="Young, Brigham">Young</persName> emphatically declared that the emigrants must not be meddled with. This is strictly in accordance with the instructions that I have shown you this evening were given by President <persName key="Young, Brigham">Young</persName> during the whole of this period, that exciting time when the army was coming, namely, to “shed no blood.” That was the counsel of the President, and that is corroborated by this dispatch.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I do not think I need to spend any more time in proving that President <persName key="Young, Brigham">Young</persName> was not an accessory before the fact. I believe it will be conceded by everybody that understands these facts, that <persName key="Young, Brigham">Brigham Young</persName> did not order the massacre; that he was not implicated in it at all; that he did all in his power to have these emigrants go through free and in peace. I think this evidence is complete. It is to me; and I have looked into this matter very closely for my own information, and that I might lay it before my friends.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now, as to President <persName key="Young, Brigham">Young</persName> being an accessory after the fact. It is claimed that <persName key="Lee, John D.">Lee</persName> came to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, as directed by <persName key="Haight, Isaac C.">Haight</persName>, about the latter part of September, to make a full and complete report of the massacre to President <persName key="Young, Brigham">Young</persName>;
+
+<pb n="49" xml:id="mmm.lds.penrose.1884.049"/>
+
+to tell who was there; and to give the names of the white men who were engaged in the tragedy. The question arises, is that true? Is it a fact that President <persName key="Young, Brigham">Young</persName> was informed that <persName key="Lee, John D.">John D. Lee</persName> and other white men were engaged in that awful massacre? I hope you will be patient while I go into that part of the subject and make this thing complete; for it is an important matter, we ought to understand it, and the name of President <persName key="Young, Brigham">Young</persName> ought to be cleared from this stigma, if the story is untrue. If it is true the responsibility should be placed uopn him, it doesn’t belong to the “Mormon” Church. If <persName key="Young, Brigham">Brigham Young</persName> was guilty of any complicity in this crime we want to know it, and I do not shrink the investigation of anything. If there is anything about this Church that cannot be investigated I want to know it. But everything I know about “Mormonism” will bear the light of day. Everything I know of “Mormonism” will bear investigation in the light of eternal truth, and so with its relation to the subject before us tonight. I know it, for I have looked at it in its bearings, in all its details, and I am not afraid to investigate anything pertaining to it. If there is anything that will not stand investigation it is not worthy of credence, not lit to be a part of our faith and practice. Then let us examine this matter and see if President <persName key="Young, Brigham">Young</persName> was an accessory after the fact. I will read from <persName key="Bishop, William H.">Bishop</persName>’s book, page 252. Here is <persName key="Lee, John D.">John D. Lee</persName>’s statement:</seg></p>
+
+<p>“According to the orders of <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, I started to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to report the whole facts connected with the massacre to <persName key="Young, Brigham">Brigham Young</persName>. I started about a week or ten days after the massacre, and I was on the way about ten days.”</p>
+
+<p><seg type="Massacre" subtype="Dates">Now remember the massacre took place, according to the testimony, on the 11th day of September, 1857, for this reason: <persName key="Haslma, James Holt">Haslam</persName> reached <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> on the Sunday, forty-eight hours after the massacre. Everyone who has testified about it agrees that it took place on a Friday. The Friday before the 13th was the 11th. <persName key="Lee, John D.">John D. Lee</persName> started for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> about a week or ten days after the massacre and was about ten days on the road. That would bring him here about the end of September.</seg> I will read Lee’s statement again:</p>
+
+<p>“According to the orders of <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, I started for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> to report the whole facts 
+
+<pb n="50" xml:id="mmm.lds.penrose.1884.050"/>
+
+connected with the massacre to <persName key="Young, Brigham">Brigham Young</persName>. I started about a week or ten days after the massacre, and I was on the way about ten days when I arrived in the city I went to the President’s house and gave to <persName key="Young, Brigham">Brigham Young</persName> a full, detailed statement of the whole affair, from first to last&#8212;only I took rather more on myself than I had done.</p>
+
+<p>“He asked me if I had brought a letter from <persName key="Haight, Isaac C.">Haight</persName>, with his report of the affair. I said:</p>
+
+<p>“‘No; <persName key="Haight, Isaac C.">Haight</persName> wished me to make a verbal report of it, as I was an eye-witness to much of it.’</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“I then went over the whole affair and gave him as full a statement as it was possible for me to give. I described everything about it. I told him of the orders <persName key="Haight, Isaac C.">Haight</persName> first gave me. I told him everything.”</seg></p>
+
+<p>That is the statement of <persName key="Lee, John D.">John D. Lee</persName> published after his death. Whether he said that or not I 
+
+<pb n="51" xml:id="mmm.lds.penrose.1884.051"/>
+
+am not prepared to state; but it is published here, and we have to take it for what it is worth. We have seen a good many conflicting “confessions of <persName key="Lee, John D.">John D. Lee</persName>,” and that is one of them. Suppose it is true&#8212;although there is a doubt in my mind&#8212;that he claimed to have told President <persName key="Young, Brigham">Young</persName> everything. <seg type="Blame" subtype="LDS_LDS">This is the testimony of a being who <seg type="Massacre" subtype="Casualties">is said to have brained a woman, who, it is proved cut a man’s throat, shot wounded emigrants</seg>, <seg type="Massacre" subtype="Surrender">whom he had decoyed out of their camp with a flag of truce</seg>.</seg> That is his testimony. Now, let us take the testimony of a man whose evidence is worthy of credence. I have two or three documents here. I will read you a statement made to me by President <persName key="Woodruff, Wilford">Wilford Woodruff</persName>, to which I got him to certify. Brother <persName key="Woodruff, Wilford">Woodruff</persName> is an honest, upright, truthful man, whose word can be relied upon implicitly. Is he not? I am sure everybody who knows him will answer “Yes." Here is his statement:</p>
+
+<p><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, } SS.</p>
+<p><placeName type="county" key="Salt Lake County, UT">County of Salt Lake</placeName>. </p>
+
+<p>Personally appeared before me the undersigned, a notary public in and for said county, <persName key="Woodruff, Wilford">Wilford Woodruff</persName>, who, being duly sworn, on his oath deposes and says: I am a citizen of the United States and a resident of <placeName type="state" key="Utah Territory">Utah Territory</placeName>, over the age of twenty-one years. In the fall of 1857 I was in the office of Governor <persName key="Young, Brigham">Brigham Young</persName>, in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, when <persName key="Lee, John D.">John D.
+Lee</persName>, who had just arrived from the south, and was dusty and tired, came to the front office and asked for a private interview with Governor <persName key="Young, Brigham">Young</persName>. He was invited by the 
+
+<pb n="52" xml:id="mmm.lds.penrose.1884.052"/>
+
+Governor to the back office, I was requested to accompany him. We all went into the back office. There <persName key="Lee, John D.">John D. Lee</persName> made a statement concerning the <seg type="Massacre" subtype="Casualties">massacre of emigrants</seg> that had then <seg type="Massacre" subtype="Dates">recently taken place</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. <seg type="Blame" subtype="IndiansIndependently"><seg type="Encounter" subtype="Poison"><seg type="Blame" subtype="EmigrantBehavior">He stated that the emigrants had aroused the hostility of the Indians by poisoning several springs from which the Indians obtained water for drinking purposes; that they had poisoned cattle which had died, by putting poison into the carcasses, and that some of the Indians, who had eaten of the meat, died from its effects; that in consequence of this and their vile acts, the ire of the Indians was aroused, that he could not restrain them.</seg></seg> He held them back as long as he could, until the emigrants arrived <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, when he could hold them back no longer, and they attacked <seg type="Massacre" subtype="Casualties">these emigrants and killed them all</seg> <seg type="Massacre" subtype="Survivors">except some small children</seg>. Governor <persName key="Young, Brigham">Young</persName> was profoundly affected. He shed tears and said that he was sorry that innocent blood had been shed within the limits of <placeName type="state" key="Utah Territory">this Territory</placeName>. <seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName> remarked, “There was not a drop of innocent blood in the camp.” Governor <persName key="Young, Brigham">Young</persName>' asked indignantly, “What do you call the blood of <seg type="Massacre" subtype="Casualties">women and children</seg>?” <persName key="Lee, John D.">Lee</persName> was silent. <seg type="Blame" subtype="IndiansIndependently"><persName key="Lee, John D.">Lee</persName> did not intimate by a single word that any white man had anything whatever to do with the massacre. He laid the whole thing to the Indians, and claimed that he had done his best to prevent the occurrence.</seg></seg> In the fall of 1870 I was with President <persName key="Young, Brigham">Brigham Young</persName> on a tour of the southern settlements. <persName key="Snow, Erastus">Erastus Snow</persName> who was then in charge of those settlements, informed President <persName key="Young, Brigham">Young</persName>, as I then learned, that there were evidences of a strong character showing that <persName key="Lee, John D.">John D. Lee</persName> was personally implicated in the Mountain Meadows massacre. President <persName key="Young, Brigham">Young</persName> was very much surprised, and declared that if it was true,
+
+<pb n="53" xml:id="mmm.lds.penrose.1884.053"/>
+
+<persName key="Lee, John D.">John D. Lee</persName> had lied to him. When the President and company returned to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, he called a council of the President and the Twelve Apostles, when the matter was investigated, Elder <persName key="Snow, Erastus">Erastus Snow</persName> assisting in presenting the evidence; and the council unanimously voted to excommunicate <persName key="Lee, John D.">John D. Lee</persName> for assisting in the murders at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, and <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, who was then President of the Stake in which <persName key="Lee, John D.">Lee</persName> resided, for not restraining and preventing his participation in the crime. It was not until this occurrence last related, that President <persName key="Young, Brigham">Young</persName> and his immediate associates fully realized the facts of <persName key="Lee, John D.">Lee</persName>’s guilt. Some had heard rumors of this, but the facts had not been brought to the President.</seg></p>
+
+<p><hi rend="right"><persName key="Woodruff, Wilford">WILFORD WOODRUFF</persName>.</hi></p>
+
+<p>Subscribed and sworn to before me by the above named affiant, this 24th day of October, A. D. 1884.</p>
+
+<p>[SEAL.] <persName key="Clayton, Nephi">NEPHI W. CLAYTON</persName>,</p>
+
+<p>Notary Public.</p>
+
+<p>After getting this aflidavit from Brother <persName key="Woodruff, Wilford">Woodruff</persName> I said to him: “Brother <persName key="Woodruff, Wilford">Woodruff</persName>, you are credited with keeping a regular journal of all improtant events in your history.”</p>
+
+<p>“Yes,” said he, “I have got a large trunk full of books comprising my journal.”</p>
+
+<p>“Well,” said I, “you must have some record of this occurrence that you have related to me.”</p>
+
+<p>He said he thought it quite likely. He looked among his books and succeeded in finding the journal of that period and brought it to me. It is an old book a little over an inch thick, and the writing in his own peculiar hand. I extracted 
+
+<pb n="54" xml:id="mmm.lds.penrose.1884.054"/>
+
+from it (under date of September 29, 1857,) all I could find in relation to this matter, and I will give you my affidavit:</p>
+
+<p><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, }SS.</p>
+
+<p><placeName type="county" key="Salt Lake County, UT">County of Salt Lake</placeName>.</p>
+
+<p>Personally appeared before me the undersigned, a notary public in and for said county, <persName key="Penrose, Charles W.">Charles W. Penrose</persName>, who on his oath deposes and says: I am a citizen of the United States over the age of twenty-one years, and a resident of <placeName type="county" key="Salt Lake County, UT">Salt Lake County</placeName>. I have obtained from <persName key="Woodruff, Wilford">Wilford Woodruff</persName> of this city, a volume containing his journal from January 1, 1854, to December, 1859, in his own handwriting, with which I am acquainted. Under date of September 29, 1857, I find the following:</p>
+
+<p>“<seg type="Context" subtype="UtahWar">We have another express in this morning, saying that the army are rapidly marching toward us, will soon be at Bridger, and wish men immediately sent out.</seg> <persName key="Lee, John D.">John D. Lee</persName> also arrived from <placeName type="settlement" key="Harmony, UT">Harmony</placeName> with an express and an awful tale of blood. <seg type="Emigrants" subtype="WagonTrain">A company of <seg type="Emigrants" subtype="Route"><placeName type="state" key="California">California</placeName></seg> emigrants, of <seg type="Massacre" subtype="Casualties">about 150 men, women and children</seg>. <seg type="Context" subtype="LDSPersecution">Many of them belonged to the mobbers of <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Illinois">Illinois</placeName>.</seg> <seg type="Massacre" subtype="Spoils">They had many cattle and horses with them</seg>, and <seg type="Emigrants" subtype="Route">they traveled along south. <seg type="Context" subtype="LDSPersecution">They went damning <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Kimball, Heber C.">Heber C. Kimball</persName> and the heads of the Church; saying that <persName key="Smith, Joseph">Joseph Smith</persName> ought to have been shot a long time before he was.</seg></seg></seg> <seg type="Encounter" subtype="Poison">They wanted to do all the evil they could, so they poisoned beef and gave it to the Indians, and some of them died; they poisoned the springs of water, and several of the Saints died.</seg><seg type="Massacre" subtype="Battle"> <seg type="Blame" subtype="IndiansIndependently">The Indians became enraged at their conduct and they surrounded them on the prairie, and the emigrants formed a bulwark of their wagons, and dug an entrenchment up to the hubs of their wagons, but
+
+<pb n="55" xml:id="mmm.lds.penrose.1884.055"/>
+
+the Indians fought them five days until <seg type="Massacre" subtype="Casualties">they had killed all the men, about sixty in number</seg>. They then rushed into the corral and <seg type="Massacre" subtype="Casualties">cut the throats of the women and children</seg>, <seg type="Massacre" subtype="Survivors">except some eight or ten children which they brought and sold to the whites</seg></seg>.</seg> <seg type="Massacre" subtype="Aftermath">They stripped the men and women naked and left them stinking in the sun. When Brother <persName key="Lee, John D.">Lee</persName> found it out he took some men and went and buried their bodies. It was a horrid, awful job. The whole air was filled with an awful stench.</seg> <seg type="Massacre" subtype="Spoils">The Indians obtained all the cattle and horses and property, guns, etc.</seg> There was another large company of emigrants who had 1,000 head of cattle, who was also damning both the Indians and the ‘Mormons.’ They were afraid of sharing the same fate. Brother <persName key="Lee, John D.">Lee</persName> had to send interpreters with them to the Indians to help save their lives, while at the same time they were trying to kill us. I spent most of the day in trying to get the brethren ready to go to the mountains. Brother <persName key="Young, Brigham">Brigham</persName>, while <persName key="Lee, John D.">Lee</persName> was speaking of the cutting of the throats of <seg type="Massacre" subtype="Casualties">women and children</seg> <seg type="Blame" subtype="IndiansIndependently">by the Indians</seg> down south, said it was heart-rending; that emigration must stop, as he had said before. Brother <persName key="Lee, John D.">Lee</persName> said he did not think there was a drop of innocent blood in the camp, for <seg type="Massacre" subtype="Survivors">he had two of the children in his house, and he could not get but one to kneel down in prayer-time, and the other would laugh at her for doing it, and they would swear like pirates.</seg>”</p>
+
+<p>The foregoing extract is copied verbatim by me from the joumal of said <persName key="Woodruff, Wilford">Wilford Woodruff</persName>.</p>
+
+<p><hi rend="right"><persName key="Penrose, Charles W.">CHARLES W. PENROSE</persName>.</hi></p>
+
+<p>Subscribed and sworn to before me by the above-named affiant, this 25th day of October, A. D. 1884.</p>
+
+<p>[SEAL.] <persName key="Clayton, Nephi">NEPHI W. CLAYTON</persName>,</p>
+
+<p>Notary Public.</p>
+
+<pb n="56" xml:id="mmm.lds.penrose.1884.056"/>
+
+<p>I have read that extract from Brother <persName key="Woodruff, Wilford">Woodruff</persName>’s journal because it completely corroborates what he so clearly gave me from memory. I will now read you the affidavit of Brother <persName key="Young, John W.">John W. Young</persName>:</p>
+
+<p><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, } SS:</p>
+
+<p><placeName type="county" key="Salt Lake County, UT">County of Salt Lake</placeName>.</p>
+
+<p>Personally appeared before me, the undersigned, a notary public, in and for said county, <persName key="Young, John W.">John W. Young</persName>, who, on his oath, deposes and says: I am a citizen of the United States, over the age of twenty-one years. In the fall of the year 1857, I being then 13 years of age, was engaged at the office of my father, Governor <persName key="Young, Brigham">Brigham Young</persName>, as messenger. I distinctly remember one day in the latter part of September, 1857, being at my father’s office when <persName key="Lee, John D.">John D. Lee</persName>, travel-worn, as if he had come in haste from a long journey, entered the office and asked for a private interview with Gov. <persName key="Young, Brigham">Young</persName>. He was shown into the back office, Elder <persName key="Woodruff, Wilford">Wilford Woodruff</persName> going in with him. I followed them and heard the conversation. It was customary for me to be present during those exciting times when messengers arrived, so as to be ready to carry any message that might have to be sent. I do not remember that anyone else was present.</p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">It is distinctly impressed on my mind beyond the power of time to efface, how <persName key="Lee, John D.">Lee</persName> described the deed which he said was committed by the Indians <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. <seg type="Encounter" subtype="Poison"><seg type="Blame" subtype="EmigrantBehavior">He told of the depredations committted by the company of emigrants destroyed; how they poisoned meat and gave it to the Indians, and also poisoned springs in their way, by which several persons were killed.</seg></seg> Declared that he tried to pacify the Indians, but they
+
+<pb n="57" xml:id="mmm.lds.penrose.1884.057"/>
+
+were so enraged against the emigrants that it was impossible to prevent their attack. <seg type="Massacre" subtype="Casualties">He related how the Indians killed the men and then butchered the women, none being saved</seg> <seg type="Massacre" subtype="Survivors">except a number of little children, which he, <persName key="Lee, John D.">Lee</persName>, was instrumental in rescuing.</seg></seg><seg type="Massacre" subtype="Aftermath"> Also that he took men to help to bury the dead.</seg> Gov. <persName key="Young, Brigham">Young</persName> was greatly moved. I saw him wipe away the tears as he listened to the recital. He expressed his horror at the deed, and the shedding of innocent blood in <placeName type="state" key="Utah Territory">this Territory</placeName>. <persName key="Lee, John D.">Lee</persName> declared that no innocent blood was shed, for the emigrants were a corrupt and murderous set. Gov. <persName key="Young, Brigham">Young</persName> referred to <seg type="Massacre" subtype="Casualties">the women and children who were slain</seg>, and declared that it was an awful crime. I was present during the whole interview, and know that <persName key="Lee, John D.">Lee</persName> laid the matter entirely to the Indians, claiming that they alone killed <seg type="Massacre" subtype="Casualties">the emigrants</seg>, against his earnest efforts to prevent it; that he was on the spot only to restrain the Indians and save life, and <seg type="Massacre" subtype="Aftermath">afterwards to bury the dead</seg>. <seg type="Blame" subtype="LDS_LDS">He did not utter a syllable or convey any idea that either he or any other white person had any hand in the deed. The interview on that September morning impressed my boyish mind very strongly. <persName key="Lee, John D.">Lee</persName>’s recital was so forcible regarding the crime being committed by the Indians, and his sorrow and tears at the occurrence, appeared so sincere, that, years after, when it was rumored that white men were engaged in the massacre, I could not, and did not, believe it. It was only when proofs were brought which led to <persName key="Lee, John D.">John D. Lee</persName>’s excommunication from the Church, that I believed in his guilt.</seg> <seg type="Context" subtype="UtahWar">I was present on several occasions at the office of Gov. <persName key="Young, Brigham">Young</persName> during the time of the approach of the army and heard Gov. <persName key="Young, Brigham">Young</persName> warn those who had anything to do with the troops sent to intercept the army, to be careful not to shed blood. This was many
+
+<pb n="58" xml:id="mmm.lds.penrose.1884.058"/>
+
+times repeated. I have been present when Indian chiefs came to Governor <persName key="Young, Brigham">Young</persName> and asked to go out against the army. Gov. <persName key="Young, Brigham">Young</persName> would not consent to the shedding of one drop of blood. I also distinctly remember a meeting after the coming in of the army, and after the return from the move south, at which Gov. <persName key="Cumming, Alfred">Cumming</persName> and one or two of the United States judges appointed with him were present, when the report that white men had been engaged in the massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> was referred to, and <seg type="Reaction" subtype="FederalInvestigation">President <persName key="Young, Brigham">Young</persName> offered to go with the governor and one of the judges&#8212;<persName key="Cradlebaugh, John">Cradlebaugh</persName>, I believe, and help to fully investigate the matter, and also to remain as a hostage in the hands of the federal authorities, if necessary, until the investigation was made complete, so strong was his confidence in the statement that none but Indians were engaged in the massacre.</seg></seg></p>
+
+<p><persName key="Young, John W.">JOHN W. YOUNG.</persName></p>
+
+<p>Subscribed and sworn to before me by the above-named afliant this 25th day of October, A. D. 1884.</p>
+
+<p>[SEAL] <persName key="Clayton, Nephi W.">NEPHI W. CLAYTON</persName>,</p>
+
+<p>Notary Public.</p>
+
+<p>I have yet another affidavit I want to present. Some years ago in <placeName type="settlement" key="Ogden, UT">Ogden</placeName> I had a conversation with <persName key="Farr, Aaron">Aaron Farr</persName>, who used to reside in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, but for many years has resided in <placeName type="settlement" key="Ogden, UT">Ogden</placeName>&#8212;a man of veracity, who was probate judge of <placeName type="county" key="Weber County, UT">Weber County</placeName> for many years. I was talking with him about this deplorable affair and he told me that after <persName key="Lee, John D.">John D. Lee</persName> had made his report to <persName key="Young, Brigham">Brigham Young</persName> he (<persName key="Lee, John D.">Lee</persName>), with whom he was well acquainted, called at his house and saw him and gave him an account of the massacre. I sent 
+
+<pb n="59" xml:id="mmm.lds.penrose.1884.059"/>
+
+word a few days ago to Judge <persName key="Farr, Aaron">Farr</persName> that I would like his statement in writing, and here it is:</p>
+
+<p>“I was personally acquainted with <persName key="Lee, John D.">John D. Lee</persName>, having known him when a boy in <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>. <seg type="Massacre" subtype="Dates">In the Fall of 1857</seg>, he came to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> from his home in <placeName type="county" key="Iron County, UT">Iron County</placeName>, shortly after the massacre, to report to <persName key="Young, Brigham">Brigham Young</persName> how it occurred. On the same day that he reported to President <persName key="Young, Brigham">Young</persName> in the morning, he came to my residence on West Temple Street, opposite Bishop <persName key="Hunter, ">Hunter</persName>’s place, in the afternoon, and in a conversation with me, lasting about an hour and a half, detailed every particular of the horrible occurrence. <seg type="Blame" subtype="IndiansIndependently">He placed the whole blame of the massacre on the Indians. He stated that he and his associates had done all in their power to protect the emigrants, but were totally helpless in their object.</seg> He seemed very earnest while he was telling me this story, and at intervals wept bitterly. I asked him if he had informed President <persName key="Young, Brigham">Young</persName> of these particulars, and he answered me that he had seen President <persName key="Young, Brigham">Young</persName> that same morning and had related to him the circumstances as he had told them to me.”</p>
+
+<p><hi rend="right"><persName key="Farr, Aaron">AARON F. FARR</persName>, SEN.</hi></p>
+
+<p>UNITED STATES OF AMERICA,</p>
+
+<p><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, } SS:</p>
+
+<p><placeName type="county" key="Weber County, UT">County of Weber</placeName>.</p>
+
+<p>On this 23rd day of October, in the year of our Lord one thousand eight hundred and eighty-four, before me, <persName key="Anderson, Edward H.">Edward H. Anderson</persName>, a notary public, within and for <placeName type="county" key="Weber County, UT">Weber County</placeName>, in <placeName type="state" key="Utah Territory">the Territory of Utah</placeName>, duly commissioned and qualified, personally appeared <persName key="Farr, Aaron">Aaron F. Farr</persName>, Sen., who acknowledged that the above statement to which his name is subscribed is true.</p>
+
+<pb n="60" xml:id="mmm.lds.penrose.1884.060"/>
+
+<p>In witness whereof I have hereunto set my seal in <placeName type="settlement" key="Ogden, UT">Ogden City</placeName>, this the 23rd day of October, 1884.</p>
+
+<p><persName key="Anderson, E. H.">E. H. ANDERSON</persName>,</p>
+
+<p>Notary Public, <placeName type="county" key="Weber County, UT">Weber County</placeName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It appears to me that is pretty straight testimony. Place these three pieces of reliable evidence against the statement of <persName key="Lee, John D.">John D. Lee</persName>, the assassin, the butcher of <seg type="Massacre" subtype="Casualties">women and children</seg>. Whose testimony would you receive if you were sitting on a jury? Would you believe the testimony of these three men of undoubted veracity, or the testimony of this cut-throat? I think you would prefere the testimony I have just read to you, at least I know I would, and I judge you by myself.</seg></p>
+
+<p>We are apt to measure other people’s cloth by our yard-stick.</p>
+
+<p>I will now read to you a very small portion of a letter to Secretary <persName key="Belknap, William W.">Belknap</persName> from President <persName key="Young, Brigham">Young</persName>. The letter of President <persName key="Young, Brigham">Young</persName> is under date of May 21, 1872. It is on file in the department at <placeName type="settlement" key="Washington, DC">Washington</placeName>:</p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">“In 1858, when <persName key="Cumming, Alfred">Alfred Cumming</persName> was Governor of <placeName type="state" key="Utah Territory">Utah Territory</placeName>, I pledged myself to lend him and the court every assistance in my power, in men and means, to thoroughly investigate the Mountain Meadows massacre and bring if possible the guilty parties to justice. <hi rend="italic">That offer I have made again and again</hi>, and although it has not yet been accepted, I have neither doubt nor fear that the perpetrators of that tragedy will meet their just reward. But sending an armed force is not the means of furthering the ends of justice, although it may serve an excellent purpose in exciting <choice><orig>pop-
+
+<pb n="61" xml:id="mmm.lds.penrose.1884.061"/>
+
+ular</orig><reg>popular</reg></choice> clamor against the ‘Mormons.’ <seg type="Reaction" subtype="MilitaryRetaliation">In 1859, Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> employed a military force to attempt the arrest of those alleged criminals. He engaged in all about four hundred men, some of whom were civilians, reputed gamblers, thieves, and other camp followers, who were doubtless intended for jurors (as his associate, Judge <persName key="Eccles, Delana R.">Eccles</persName>, had just done in another district); but these accomplished absolutely nothing further than plundering hen-roosts and rendering themselves obnoxious to the citizens on their line of march. Had judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> instead of peremptorily dismissing his grand jury and calling for that military posse allowed the investigation into the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> massacre to proceed, <hi rend="italic">I have the authority</hi> of Mr. <persName key="Wilson, Alexander">Wilson</persName>, U. S. prosecuting attorney, for saying the investigation was proceeding satisfactorily, and I firmly believe, if the county sheriffs, whose legal duty it was to make arrests, had been lawfully directed to serve the processes, that they would have performed their duty and the accused would have been brought to trial. Instead of honoring the law Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> took a course to screen offenders, who could easily hide from such a posse under the justification of avoiding a trial by court martial.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“It is now fourteen years since the tragedy was enacted and the courts have never tried to prosecute the accused; although some of the judges, like Judge <persName key="Hawley, John">Hawley</persName>, have <seg type="Context" subtype="LDSPersecution">used every opportunity to charge the crime upon prominent men in <placeName type="state" key="Utah Territory">Utah</placeName>, and influence public opinion against our community.</seg></seg>”</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="FederalInvestigation"><seg type="Reaction" subtype="StateInvestigation">Here is President <persName key="Young, Brigham">Young</persName>’s statement to the Secretary of War at <placeName type="settlement" key="Washington, DC">Washington</placeName>, that he had offered personally to Governor <persName key="Cumming, Alfred">Cumming</persName> and Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> to do all in his power to trace up the
+
+<pb n="62" xml:id="mmm.lds.penrose.1884.062"/>
+
+massacre to its proper source. <seg type="Blame" subtype="IndiansIndependently">At that time Prest. <persName key="Young, Brigham">Young</persName> was firmly of the conviction that no white man had been engaged in the massacre.</seg> <seg type="Reaction" subtype="Silence">The perpetrators of the massacre were sworn to secrecy, as I have read to you. They were bound together not to tell. If anybody did tell he was to be killed. The mouths of those who knew were closed.</seg> President <persName key="Young, Brigham">Young</persName>, therefore, had no idea that any white man was engaged in the deed; and when the rumor came that white men had been engaged in it he would not believe a word of it. And here we see that he offered to investigate the matter. <persName key="Cradlebaugh, John">Cradlebaugh</persName>
+came here at the time Governor <persName key="Cumming, Alfred">Cumming</persName> came. He and Judge <persName key="Eccles, Delana R.">Eccles</persName> and Judge <persName key="Sinclair, Charles">Sinclair</persName> were the three associate justices of <placeName type="state" key="Utah Territory">Utah</placeName> then appointed. <persName key="Cradlebaugh, John">Cradlebaugh</persName> was appointed to the southern district. <seg type="Reaction" subtype="MilitaryRetaliation">He held his court at <placeName type="settlement" key="Provo, UT">Provo</placeName>, and he sent to Camp Floyd for the assistance of the military to help serve the processes of his court; but on an appeal being made to Governor <persName key="Cumming, Alfred">Cumming</persName> to prevent the military from acting in this capacity, he issued his proclamation against this usurpation of the military, and because of this, the governor being sustained by the war department, and <persName key="Cradlebaugh, John">Cradlebaugh</persName> failing in his ulterior desins, no further effort was made to ferret out the criminals who were engaged in the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> massacre.</seg> The object of judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> was to criminate President <persName key="Young, Brigham">Young</persName>; he did not care about anybody else, as I will prove to you from his own statement. I want you to pay particular attention to Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>’s remarks:</seg></seg></seg></p>
+
+<pb n="63" xml:id="mmm.lds.penrose.1884.063"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">“If it is expected that this court is to be used by this community as a means of protecting it against the peccadilloes of Gentiles and Indians, unless this community will punish its own murderers, such expectations will not be realized. It will be used for no such purpose. When this people shall come to their reason, and manifest a disposition to punish their own high offenders, it will then be time to enforce the law also for their protection. If this court cannot bring you to a proper sense of your duty, it can, at least, turn the savages held in custody loose upon you.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="MilitaryRetaliation">This he proceeded to do, tuming loose both Indians and white savages who had come into <placeName type="state" key="Utah Territory">the Territory</placeName>. His object was to try and implicate President <persName key="Young, Brigham">Young</persName>, and have him arrested by this military posse, and brought before his court. Judge <persName key="Sinclair, Charles">Sinclair</persName> tried the same thing here in this city, but did not succeed. Orders came from <placeName type="settlement" key="Washington, DC">Washington</placeName> that the military could not be used in executing the processes of civil courts, whereupon Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, finding he could not implicate the authorities of the Church, nor force them before his court, got mad and turned loose all the criminals in custody in his district, as he describes them, “savages and others.”</seg></seg></p>
+
+<p>I will read to you now just a little extract from <persName key="Stenhouse, T. B. H.">Stenhouse</persName>’s book, page 401:</p>
+
+<p>“The machinery of the courts was soon set in motion. The chief justice preferred the military camp for his residence. Associate Justice <persName key="Sinclair, Charles">Sinclair </persName>was assigned to the district embracing <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>; and Associate Justice <persName key="Cradlebaugh, John">Cradlebaugh</persName> had within his district all the southern country.</p>
+
+<pb n="64" xml:id="mmm.lds.penrose.1884.064"/>
+
+<p><seg type="Context" subtype="TerritorialAdministration">“Up to this time the governor of <placeName type="state" key="Utah Territory">the Territory</placeName> had
+also been Superintendent of Indian affairs, but on the appointment of Governor <persName key="Cumming, Alfred">Cumming</persName>, the office of Superintendent was conferred upon <persName key="Forney, Jacob">Jacob Forney</persName>, of <placeName type="state" key="Pennsylvania">Pennsylvania</placeName>. <persName key="Wilson, Alexander">Alexander Wilson</persName>, of <placeName type="state" key="Iowa">Iowa</placeName>, was appointed district attorney of <placeName type="state" key="Utah Territory">the Territory</placeName>, and thus was completed the full list of federal officials.”</seg></p>
+
+<p>You will see that the office of governor went out of the hands of President <persName key="Young, Brigham">Young</persName> about that time. When the army came in <persName key="Cumming, Alfred">Cumming</persName> superseded him as governor, and <persName key="Forney, Jacob">Jacob Forney</persName> as agent of Indian affairs.
+<seg type="Reaction" subtype="Silence">But it is claimed that President <persName key="Young, Brigham">Young</persName> was agent of Indian affairs at the time of the massacre, and ought to have reported this massacre to the authorities at <placeName type="settlement" key="Washington, DC">Washington</placeName>. Well, before he went out of office he did make a report.</seg> Let us see what it is like. It is published in <persName key="Bishop, William W.">Bishop</persName>’s book:</p>
+
+<p><hi rend="right">OFFICE OF SUPT. OF INDIAN AFFAIRS,</hi></p>
+
+<p><hi rend="right"><placeName type="settlement" key="Salt Lake City, UT">G. S. L. CITY</placeName>, Jan. 6th, 1858.</hi></p>
+
+<p><hi rend="italic">Hon. <persName key="Denver, James W.">James W. Denver</persName>, Commissioner of Indian Affairs, <placeName type="settlement" key="Washington, DC">Washington City, D. C.</placeName>:</hi></p>
+
+<p>SIR:&#8212;<seg type="Blame" subtype="EmigrantBehavior"><seg type="Massacre" subtype="Dates">On or about the middle of last September</seg>, <seg type="Massacre" subtype="Casualties">a company of emigrants</seg> <seg type="Emigrants" subtype="Route">traveling the southern route to <placeName type="state" key="California">California</placeName></seg>, <seg type="Encounter" subtype="Poison">poisoned the meat of an ox that died and gave it to the Indians to eat, causing the immediate death of four of their tribe, and poisoning several others. This company also poisoned the water where they were encamped. This occurred at Corn Creek, fifteen miles south of <placeName type="settlement" key="Fillmore, UT">Fillmore City</placeName>. <seg type="Blame" subtype="IndiansIndependently">This conduct so enraged the Indians that they immediately took measures for revenge.</seg></seg></seg> I quote from a letter written to me by <persName key="Lee, John D.">John D. Lee</persName>, farmer to the Indians in <placeName type="county" key="Iron County, UT">Iron</placeName> and <placeName type="county" key="Washington County, UT">Washington
+
+<pb n="65" xml:id="mmm.lds.penrose.1884.065"/>
+
+Counties</placeName>: <seg type="Blame" subtype="IndiansIndependently">“<seg type="Massacre" subtype="Dates">About the 22nd of September</seg> <seg type="Massacre" subtype="Casualties">Captain <persName key="Fancher, Alexander">Fancher</persName> &amp; Co. fell victims</seg> to the Indians’ wrath <seg type="Massacre" subtype="Location">near <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. <seg type="Massacre" subtype="Spoils">Their cattle and horses were shot down in every direction; their wagons and property mostly committed to the flames.</seg>” <seg type="Blame" subtype="EmigrantBehavior">Lamentable as this case truly is, it is only the natural consequence of that fatal policy which treated the Indians like wolves, or other ferocious beasts. I have vainly remonstrated for years with travelers against pursuing so suicidal a policy, and repeatedly advised the government of its fatal tendency. It is not always upon the heads of the individuals who commit such crimes that such condign punishment is visited, but more frequently the next company that follows in their fatal path become the unsuspecting' victims, though, peradventure, perfectly innocent.</seg></seg></p>
+
+<p>On page 310 of the same book is the text of a letter to the same department, dated September 12, 1857, in which President <persName key="Young, Brigham">Young</persName> advises some measures to be adopted, either to prevent the emigrants coming or to provide measures for their preservation.</p>
+
+<p>Now, you see, Governor <persName key="Young, Brigham">Young</persName> did report this as he was in duty bound to, and after making this report he was superseded, as I have told you, by <persName key="Forney, Jacob">Jacob Forney</persName>, as Indian agent.</p>
+
+<p>I want to read to you now a word or two as to what <persName key="Forney, Jacob">Jacob Forney</persName> had to say on the subject. It appears on page 40 of <persName key="Cradlebaugh, John">Cradlebaugh</persName>’s speech in Congress, and is a report to the department at <placeName type="settlement" key="Washington, DC">Washington</placeName>:</p>
+
+<p>“<placeName type="settlement" key="Salt Lake City, UT">GREAT SALT LAKE CITY</placeName>, Sept. 22, 1859.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“I gave, several months ago, to the attorney general and several of the United States judges, the
+
+<pb n="66" xml:id="mmm.lds.penrose.1884.066"/>
+
+names of those who I believe were not only implicated, but the hell-deserving scoundrels who concocted a part to the successful termination of the whole affair.”</seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">Thus <persName key="Forney, Jacob">Jacob Forney</persName> made a report to the authorities at <placeName type="settlement" key="Washington, DC">Washington</placeName>, but no steps were taken to investigate the matter.</seg></p>
+
+<p><seg type="Reaction" subtype="StateInvestigation">President <persName key="Young, Brigham">Young</persName> then had gone out of office, both as governor and as superintendent of Indian affairs, and he was not responsible for any investigation in the matter in an official capacity. As you will perceive, there were some attempts made by the diiterent governors and judges who rapidly succeeded each other, to show some interest in this affair. Their feeble efforts, however, were directed towards implicating President <persName key="Young, Brigham">Young</persName>, and there was no real endeavor to convict the actual criminals ever made until <persName key="Howard, Sumner">Summer Howard</persName>, U. S. district attorney for <placeName type="state" key="Utah Territory">this Territory</placeName>, prosecuted <persName key="Lee, John D.">John D. Lee</persName> on his second trial. Previous to that all pretended efforts were directed towards criminating <persName key="Young, Brigham">Brigham Young</persName> and the “Mormon” Church; no sincere movements were made to ferret out the persons who perpetrated this deed. President <persName key="Young, Brigham">Young</persName>, not being acquainted with the facts in the matter, took no steps to punish <persName key="Lee, John D.">Lee</persName>. <seg type="Blame" subtype="IndiansIndependently">He was profoundly impressed with the idea that the deed had been perpetrated by the Indians. This explains the reason why President <persName key="Young, Brigham">Young</persName>, not now Governor <persName key="Young, Brigham">Young</persName>, did not exercise ecclesiastical authority in reference to the assassin.</seg></seg> I will here read to you the affidavit 
+
+<pb n="67" xml:id="mmm.lds.penrose.1884.067"/>
+
+of Hon. <persName key="Snow, Erastus">Erastus Snow</persName>, whose word no one who knows him will dispute for a moment:</p>
+
+<p><placeName type="state" key="Utah Territory">TERRITORY OF UTAH</placeName>, } SS:</p>
+
+<p><placeName type="county" key="Salt Lake County, UT">County of Salt Lake</placeName>.</p>
+
+<p>Personally appeared before me, the undersigned, a notary public in and for said county, <persName key="Snow, Erastus">Erastus Snow</persName>, who, being first duly sworn, on his oath says: I am a citizen of the United States, and resident of <placeName type="state" key="Utah Territory">the Territory of Utah</placeName>, over the age of 21 years. <seg type="Blame" subtype="LDS_LDS">That inasmuch as President <persName key="Young, Brigham">B. Young</persName> has been reproached for not expelling from the Church of Jesus Christ of Latter day Saints <persName key="Lee, John D.">John D. Lee</persName>, immediately after the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> massacre instead of waiting until October 8th, 1870; <seg type="Blame" subtype="IndiansIndependently">the reason was that President <persName key="Young, Brigham">Young</persName> and other authorities of said Church in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> were in ignorance of the full facts relating to <persName key="Lee, John D.">John D. Lee</persName>’s connection therewith; by the false representations made by said <persName key="Lee, John D.">Lee</persName>, as Indian farmer, to Governor <persName key="Young, Brigham">Brigham Young</persName>, to the effect that the Indians were alone responsible for that slaughter, and that <persName key="Lee, John D.">Lee</persName> and others visited the scene in the interests of peace, but were unable to restrain them.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">After colonies of our people began to locate in <placeName type="county" key="Washington County, UT">Washington County</placeName>, in the years 1861, 1862 and 1863, and I was sent there to preside over them, I began to learn from various persons, little by little, the facts in the case, which satisfied me that the said <persName key="Lee, John D.">Lee</persName> had taken a direct hand with the Indians in that affair; and I felt it my duty to acquaint the Presidency Of the Church with the facts so far as I had been able to gather them.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Bishop <persName key="Roundy, L. W.">L. W. Roundy</persName>, of <placeName type="settlement" key="Kannarra, UT">Kannarra</placeName>, some ten miles from <persName key="Lee, John D.">Lee</persName>’s ranch, was also engaged as well as myself, in ferreting out the facts in relation thereto. President <persName key="Young, Brigham">Young</persName> made a visiting tour through the southern part Of <placeName type="state" key="Utah Territory">the Territory</placeName> in the
+
+<pb n="68" xml:id="mmm.lds.penrose.1884.068"/>
+
+Fall of the year 1870. I met him at <placeName type="settlement" key="Kannarra, UT">Kannarra</placeName>, On his downward trip, and took him and Bishop <persName key="Roundy, L. W.">L. W. Roundy</persName> by themselves; <persName key="Roundy, L. W.">Roundy</persName> is now dead; and communicated to President <persName key="Young, Brigham">Young</persName> the facts as we had learned them, and the sources of our information. It made a profound impression on President <persName key="Young, Brigham">Young</persName>; he expressed great astonishment, and said if such were the facts, <persName key="Lee, John D.">Lee</persName> had added to his crime lying and deceit to him, and wondered how and why those facts had been so long
+concealed from him. On his return to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>
+President <persName key="Young, Brigham">Young</persName> called a council Of the Twelve Apostles Of the Church, and laid the facts before them, and President <persName key="Young, Brigham">Young</persName> himself proposed, and all present
+unanimously voted to expel <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, who was his superior Officer in the Church, for failing to restrain him, and to take prompt action
+against him, and President <persName key="Young, Brigham">Young</persName> gave instructions at that time that <persName key="Lee, John D.">John D. Lee</persName> should, under no circumstances, ever be again admitted as a member of the
+Church.</seg></p>
+
+<p>During the following Winter, while Presidents <persName key="Young, Brigham">Brigham Young</persName> and <persName key="Smith, George A.">George A. Smith</persName> were at my home in <placeName type="settlement" key="St. George, UT">St. George</placeName>, <persName key="Lee, John D.">Lee</persName> made application to me to intercede for him to obtain an interview with them; but when I spoke to them about it they both positively declined to see him or receive any communication from him. <persName key="Snow, Erastus">ERASTUS SNOW</persName>.</p>
+
+<p>Subscribed and sworn to before me, this 21st day of</p>
+
+<p>February, A. D. 1882.</p>
+
+<p>[SEAL] <persName key="Jack, James">James JACK</persName>, Notary Public.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now, you will see how the facts first came to the cognizance of President <persName key="Young, Brigham">Young</persName>. Brother <persName key="Snow, Erastus">Erastus Snow</persName> was sent down to take charge of the southern country. There certain hints were given and things began to come out; he commenced to trace
+
+<pb n="69" xml:id="mmm.lds.penrose.1884.069"/>
+
+them up, and when he had gathered certain facts he laid them before President <persName key="Young, Brigham">Young</persName>. It was found that <persName key="Lee, John D.">Lee</persName> had added lying and deceit to his deeper crimes, and was cut off the Church and denied re-admission.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Now, suppose that <persName key="Lee, John D.">Lee</persName> was an accomplice of <persName key="Young, Brigham">Brigham Young</persName>, that <persName key="Young, Brigham">Brigham Young</persName> was an accessory either before or after the fact, would he have dared to take these steps against <persName key="Lee, John D.">Lee</persName> or <persName key="Haight, Isaac C.">Haight</persName>? No. If <persName key="Lee, John D.">Lee</persName> and <persName key="Haight, Isaac C.">Haight</persName> had received instructions from President <persName key="Young, Brigham">Young</persName>, or the latter had palliated or condoned the crime, would Prest. <persName key="Young, Brigham">Young</persName> have cut them OE the Church of Jesus Christ of Latter-day Saints, and that without a remedy?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">At <persName key="Lee, John D.">Lee</persName>’s first trial he was not convicted. The jury was composed partly of “Mormons” and partly of non-Mormons; but the jury disagreed. And if you had read the testimony as I have done, you would see that in refusing to bring in a verdict of “guilty,” they who did so were justified, because the crime was not then clearly traced to <persName key="Lee, John D.">Lee</persName>. One of the main objects of the prosecution then was to implicate the higher ecclesiastical authorities of the “Momion” Church. But, of course, they were not on trial. Mr. <persName key="Baskin, R. N.">Baskin</persName> for the prosecution said:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The country does not want to see that old man hanged; it only wants to see the fair fame of the country vindicated.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">And he went on to arraign the “Mormon” Church and <persName key="Young, Brigham">Brigham Young</persName> as “commanding men to <choice><orig>mur-
+
+<pb n="70" xml:id="mmm.lds.penrose.1884.070"/>
+
+der</orig><reg>murder</reg></choice> and spoliate.” And it is admitted in the <hi rend="italic">Tribune</hi> report of that trial, page 6, that</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“The prosecuting officers, in dealing with this great crime, were less desirous to convict and punish the prisoner than to get at the long-concealed facts of that case. The impression that there was ‘some person (or persons), high in the estimation of the people,’ at the bottom of the affair, had grown to be a settled conviction; and as <persName key="Lee, John D.">Lee</persName> had been a subordinate actor in the massacre it was thought that the ends of justice would be attained by releasing this man if he was honest in his avowed resolution to tell it all.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">At the second trial the evidence was plain and direct as to <persName key="Lee, John D.">Lee</persName>’s complicity in the massacre; he was convicted by “Mormon” testimony, and a verdict of “guilty” was brought in against him by a “Mormon” jury&#8212;I have a list of their names,<ref target="n02">*</ref> all members of the “Mormon” Church. Strange thing, was it not, to have a “Mormon” jury? It would be singular in these times. But <persName key="Lee, John D.">John D. Lee</persName> was convicted by a “Mormon” jury, a thing said by some of the newspapers, extracts from which I have read to you, to be “impossible.”</seg></p>
+
+<p><seg type="Blame" subtype="Lee">All this goes to show to this audience and to the world that the charge of this massacre cannot be laid to the “Mormon Church,” to <persName key="Smith, George A.">George A. Smith</persName>, to <persName key="Young, Brigham">Brigham Young</persName> or to the Twelve Apostles; it can only be laid to <persName key="Lee, John D.">John D. Lee</persName> and such white men who were present on that occasion and who</seg> 
+
+<note xml:id="n02">*&#8212;<persName key="Greenwood, William">Wm. Greenwood</persName>, <persName key="Page, John E.">John E. Page</persName>, <persName key="Farnsworth, A. M.">A. M. Farnsworth</persName>, <persName key="Barton, Stephen S.">Stephen S. Barton</persName>. <persName key="Caron, Valentine">Valentine Carson</persName>, <persName key="Randall, Alfred I.">Alfred I. Randall</persName>, <persName key="Montague, James S.">James S. Montague</persName>, <persName key="Goodwin, A. S.">A. S. Goodwin</persName>, <persName key="Elmer, Ira B.">Ira B. Elmer</persName>, <persName key="Correy, Andrew A.">Andrew A. Correy</persName>, <persName key="Adams, Charles">Charles Adams</persName> and <persName key="Granger, Walter">Walter Granger</persName>.</note>
+
+<pb n="71" xml:id="mmm.lds.penrose.1884.071"/>
+
+<seg type="Blame" subtype="Lee">participated in the massacre. But it is very evident from the testimony, both on the first and on the second <persName key="Lee, John D.">Lee</persName> trial, that but few white men fired a gun. <seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="IndiansLDSInfluence">Most of the massacre was done by the Indians, who were armed, some of them with guns and some with bows and arrows.</seg></seg> I could bring you a mass of testimonies given at the two trials to show how these white men came to go to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg>; that they were “lured” by <persName key="Haight, Isaac C.">Haight</persName>, and <persName key="Lee, John D.">Lee</persName>, and <persName key="Klingensmith, Philip">Klingensmith</persName>. They were told to go there with guns and spades; that <seg type="Blame" subtype="IndiansIndependently">the Indians had attacked the emigrants</seg>, and that they were wanted to help bury the dead, and protect the emigrants. They were not told to go there and kill the emirants, and it is very clear that very few of them took any active part in the massacre. <seg type="Reaction" subtype="Silence">After the terrible deed was done, however, they were all sworn to secrecy, and kept their oaths for awhile. But the thing began to leak out. It was too horrible, too wicked, too much against their religion to keep.</seg> Every person who belongs to the Church of Jesus Christ of Latter-day Saints, and understands the doctrines of the Church, and has a particle of the spirit of this gospel, knows that it is not the spirit of its members to shed blood, knows that the doctrines of the Church teach to the contrary, and that it is looked upon as the very worst of crimes for a man to kill his fellow-man. As I showed you two weeks ago in a discourse on “blood atonement,” there were certain capital sins that could not be atoned for except by the shedding of the person’s own blood, and that after a person has received certain 
+
+<pb n="72" xml:id="mmm.lds.penrose.1884.072"/>
+
+ordinances and made certain covenants, and then commits murder he cannot be forgiven in this world or in the world to come. That is the doctrine of this Church.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">How, then, can this people be accused of complicity in a crime which is right against their feelings, contrary to their faith, prohibited by the revelations, which they believe to be the revelations of God, opposed to the public teachings and the private instructions of the leaders of the Church right in the face of the positive injunctions of those leaders not to shed blood under any circumstances except in self-defense.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I think I have made out a case that <persName key="Young, Brigham">Brigham Young</persName> was not an accessory after the fact. I will have to pass over some items I would like to have brought before the congregation, all in this same line of argument; but I will skip them owing to the lateness of the hour. <seg type="Massacre" subtype="Spoils">It was said that some property was brought into <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> from <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, and that <persName key="Young, Brigham">Brigham Young</persName> got possession of it, while Captain <persName key="Hooper, William H.">Hooper</persName> bought the stock.</seg> Allow me to read a little more from <persName key="Bishop, William W.">Bishop</persName>, page 268. Here is what <persName key="Lee, John D.">John D. Lee</persName> said after he was condemned to death:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“But is there no help for the widow’s son? I can no longer expect help from the Church or those of the Mormon faith. If I <hi rend="italic">escape execution</hi> it will be through the clemency of the nation, many of whose noble sons will dislike to see me sacrificed in this way. I acknowledge that I have been slow to listen to the advice of friends, who have warned me of the danger and treachery that awaited me,
+
+<pb n="73" xml:id="mmm.lds.penrose.1884.073"/>
+
+yet I ask pardon for all the ingratitude with which I received their advice. When the people consider that I was ever taught to look upon treachery with horror, and that I have never permitted one nerve or fibre of this old frame to weaken or give way notwithstanding I have been cut loose, and cast off and sacrificed by those who from their own standpoint, and according to their own theory, should have stood by me to the last, they may have some compassion for me. Perhaps all is for the best.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">You see there is an intimation in that, that he thought he might perhaps escape punishment. There was considerable reason perhaps for that. It is stated that there was an agreement made between <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Howard, Sumner">Sumner Howard</persName>, the prosecuting attorney, and Mr. <persName key="Nelson, William">Nelson</persName> who was then U. S. Marshal, and is now one of the editors of the <hi rend="italic">Salt Lake Tribune</hi>, that <persName key="Lee, John D.">John D. Lee</persName> should make out these documents that they might publish them to the world and make money out of it; but I will not enter into the evidences of that tonight. But <persName key="Lee, John D.">John D. Lee</persName> had an idea that perhaps there was a loop-hole through which he might escape. His first confession did not suit. He made up a “confession” at the first trial for Messrs. <persName key="Carey, William">Carey</persName> and <persName key="Baskin, R. N.">Baskin</persName> who were the prosecuting attorneys on that occasion, and it was supposed that that confession would save a great deal of trouble at that trial. The substance of that confession is published in this <hi rend="italic">Tribune</hi> pamphlet. After giving an account of the massacre the report says:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“But the statement goes no further in its implication than the local leaders who directed the butchery, and totally fails to throw light upon the
+
+<pb n="74" xml:id="mmm.lds.penrose.1884.074"/>
+
+complicity of the higher ecclesiasts from whom the order emanated.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It was for that reason it did not suit, for, as I have already shown you, the real object at that trial was if possible to criminate <persName key="Young, Brigham">Brigham Young</persName>. Now I want to read to you a short paragraph from Mr. <persName key="Howard, Sumner">Howard</persName>’s statement at the next trial, when <persName key="Lee, John D.">John D. Lee</persName> was convicted:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“District Attorney <persName key="Howard, Sumner">Howard</persName> opened the case to the jury for the prosecution. He reviewed the history of the case, and announced that he came there to try <persName key="Lee, John D.">John D. Lee</persName>, and not <persName key="Young, Brigham">Brigham Young</persName>, and the Mormon Church, who were not indicted. He intended to try <persName key="Lee, John D.">John D. Lee</persName> for acts committed by <persName key="Lee, John D.">Lee</persName> personally. He recited to the jury the facts which he proposed to prove by competent testimony as to <persName key="Lee, John D.">John D. Lee</persName>’s guilt in the case.”</seg></p>
+
+<p>After he had made his opening speech, Mr. <persName key="Bishop, William W.">W. W. Bishop</persName>, the publisher of this book, said:</p>
+
+<p>“He was glad to hear that <persName key="Young, Brigham">Brigham Young</persName> and the Mormon Church were not on trial in this case. It was the first time in <placeName type="state" key="Utah Territory">Utah</placeName> that he had the pleasure of trying the case on its own merits.”</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Mr. <persName key="Bishop, William W.">Bishop</persName> here acknowledges that the attempt before was merely to implicate <persName key="Young, Brigham">Brigham Young</persName> and the “Mormon” Church; but now <persName key="Lee, John D.">John D. Lee</persName> was on his trial on his own merits. The “Mormon” Church and <persName key="Young, Brigham">Brigham Young</persName> were not then on trial.</seg></p>
+
+<p>At the close of the second trial U. S. District Attorney <persName key="Howard, Sumner">Sumner Howard</persName>,</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“In his opening address, repeated again that he had come for the purpose of trying <persName key="Lee, John D.">John D. Lee</persName>, because the evidence led and pointed to him as the main instigator and leader, and he had given the jury unanswerable documentary evidence,
+
+<pb n="75" xml:id="mmm.lds.penrose.1884.075"/>
+
+proving that the authorities of the Mormon Church knew nothing of the butchery until after it was committed, and that <persName key="Lee, John D.">Lee</persName>, in his letter to President <persName key="Young, Brigham">Young</persName> a few weeks later, had knowingly misrepresented the actual facts relative to the massacre, seeking to keep him still in the dark and in ignorance.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">“He had received all the assistance any United States official could ask on earth in any case. Nothing had been kept back, and he was determined to clear the calendar of every indictment against any and every actual guilty participator in the massacre, but he did not intend to prosecute any one that had been lured to <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the meadows</geogName></seg> at that time, many of whom were only young boys and knew nothing of the vile plan which <persName key="Lee, John D.">Lee</persName> originated and carried out for the destruction of <seg type="Massacre" subtype="Casualties">the emigrants</seg>.”</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Now, in regard to what became of the property said to have been taken from <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, I will refer to <persName key="Lee, John D.">John D. Lee</persName>’s statement, page 245:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils"><seg type="Massacre" subtype="Aftermath">“The bodies were all searched by <persName key="Higbee, John M.">Higbee</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName> and <persName key="Stewart, William C.">Wm. C. Stewart</persName>. I did hold the hat awhile, but I soon got so sick that I had to give it to some other person, as I was unable to stand for a few minutes. The search resulted in getting a little money and a few watches, but there was not much money.</seg> <persName key="Higbee, John M.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName> kept the property, I suppose, for I never knew what became of it, unless they did keep it. I think they kept it all.”</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">It was currently reported that <persName key="Young, Brigham">Brigham Young</persName> gobbled it all. In regard to the cattle that Capt. <persName key="Hooper, William H.">Hooper</persName> was supposed to have obtained. It was stated in Congress that <persName key="Hooper, William H.">Hooper</persName> had the cattle that came from <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. I will read from page 292:</seg></p>
+
+<pb n="76" xml:id="mmm.lds.penrose.1884.076"/>
+
+<p><seg type="Massacre" subtype="Spoils">“My worthy attorney, <persName key="Bishop, William W.">W. W. Bishop</persName>, will please insert it in my record or history, should I not be able to write up my history to the proper place, to speak of my worthy friend, <persName key="Hooper, William H.">Wm. H. Hooper</persName>. Please exonerate him from all blame or censure of buying the stock of <seg type="Massacre" subtype="Casualties">that unfortunate company</seg>, as there is no truth in the accusation whatever.”</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">On page 250, <persName key="Lee, John D.">Lee</persName> declares <persName key="Klingensmith, Philip">Klingensmith</persName> sold these cattle; that he and <persName key="Haight, Isaac C.">Haight</persName> kept all the proceeds and started a mercantile business with it in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. I give that for what it may be worth, but it goes to disprove that <persName key="Young, Brigham">Brigham Young</persName> obtained any of the ill-gotten property.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName> was taken to the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> and there shot for the crime committed, on the 23rd of March, 1877. This was done for dramatic effect. It is between 80 and go miles from <placeName type="settlement" key="Beaver, UT">Beaver</placeName>, where he was convicted. I do not think that such a thing as moving a criminal for execution to the spot where his crime was committed was ever done before within the limits of the United States. If it has been I am not aware of it. But the object of it was to make the book sell a little better. The book is a dramatic one, and the crime to which it related was made to have a dramatic termination.</seg></p>
+
+<p>I will now read to you a few words taken down from the lips of President <persName key="Taylor, John">John Taylor</persName> in regard to this matter. I want you to understand his sentiments in regard to this affair. It was written in the winter of 1882:</p>
+
+<p>“I now come to the investigation of a subject that has been harped upon for the last seventeen years, namely the Mountain Meadows massacre. 
+
+<pb n="77" xml:id="mmm.lds.penrose.1884.077"/>
+
+That bloody tragedy has been the chief stock-in-trade for penny-a-liners, and press and pulpit, who have gloated in turns by chorus over the sickening details. ‘Do you deny it?’ No. ‘Do you excuse it ?’ No. There is no excuse for such a relentless, diabolical, sanguinary deed. That outrageous infamy is looked upon with as much abhorrence by our people as by any other parties in this nation or in the world, and at its first announcement its loathing recital chilled the marrow and sent a thrill of horror through the breasts of the listeners. It was most certainly a horrible deed, and like many other defenseless tragedies it is one of those things that cannot be undone. The world is full of deeds of crime and darkness, and the question often arises, Who is responsible therefor? It is usual to blame the perpetrators. It does not seem fair to accuse nations, states and communities for deeds perpetrated by some of their citizens, unless they uphold it.”</p>
+
+<p>I have read this that you may know the sentiments of the present President of the Church in regard to this crime, and I think his sentiments will be endorsed by every Latter-day Saint.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I have read to you tonight a number of the stories circulated in regard to this matter, laying this massacre to the body of the “Mormon” Church. In the beginning of my remarks I read copiously from papers published in different parts of the world, showing that the crime was broadly charged to the Latter-day Saints. I might also read to you from the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> <hi rend="italic">Tribune</hi>, but I will not detain you. That paper has over and over again laid this crime at the door of the “Mormon” Church. These bugaboo stories put me in mind a great deal of the boy’s essay on pins. After several amusing
+
+<pb n="78" xml:id="mmm.lds.penrose.1884.078"/>
+
+remarks about those useful articles, he said they had been “the means of saving thousands of human lives, by reason of their not swallowing of them.” Whenever these stories <hi rend="italic">are</hi> swallowed they produce poisonous effects. They are injurious to the vision. And that is the object for which they are used, that the eyes of the people may be blinded, so that when the Elders go forth with the gospel of Christ, people, being blinded through prejudice, will not be willing to receive it. The clergy have helped to spread abroad these infamous stories. I think I have proved tonight that the “Mormon” people are not guilty of this massacre in any way; that the “Mormon” Church, as an organization, is not responsible for it; that <seg type="Encounter" subtype="TradeLDS"><persName key="Smith, George A.">George A. Smith</persName> merely went south, as some did to the north, to warn the people in regard to the waste of grain and flour, and other provisions; that he did not speak against <seg type="Massacre" subtype="Casualties">this company of emigrants</seg> at all, for he did not know of their existence until he was on his way back.</seg> I think I have proved to you that <persName key="Young, Brigham">Brigham Young</persName> was not an accessory before the fact, nor an accessory after the fact; that when the facts came to the knowledge of President <persName key="Young, Brigham">Young</persName> he then and there excommunicated <persName key="Lee, John D.">John D. Lee</persName> and <persName key="Haight, Isaac C.">Isaac C. Haight</persName> from the Church and would not allow them to enter again; that <persName key="Young, Brigham">Brigham Young</persName>’s name stands today clear from they guilt which malignant people have tried to fasten upon it. <persName key="Young, Brigham">Brigham Young</persName> was not a man of blood, nor even a warrior, but a philanthropist and a statesman&#8212; a statesman of a very high order. His soul did not delight in physical conflict, nor in the shedding of blood. I could 
+
+<pb n="79" xml:id="mmm.lds.penrose.1884.079"/>
+
+produce to you tonight sermon upon sermon from the <hi rend="bold">Journal of Discourses</hi> in which he deprecates the shedding of blood. I could produce to you tonight, as I did two weeks ago, his teachings concerning the awful penalties attached to the shedding of the blood of a human being; and I think all this mass of testimony produced to-night goes to prove that neither <persName key="Young, Brigham">Brigham Young</persName> nor the Church either authorized, or countenanced, or palliated, or excused in the least degree the horrible massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>.</seg></p>
+
+<p>And now I will bring to a close my remarks. Let us investigate. Let us be a thinking people, a reading people, a people that think for ourselves, a people that will not be led away by any story that may be spread abroad in the world. And let us help to send forth the truth. I think we have been a little to blame in this matter. We have been continually assailed. Our enemies have told some of the most monstrous stories that it is capable for the mind of man to invent, his tongue to repeat or devils inspire him to pen. I think we should take a stand to expose these falsehoods, to defeat this influence, to place ourselves on record against them. I think the people called Latter-day Saints should use the pen and the press to scatter truth broadcast in the world. We do not expect to meet all the lies they tell of us. A man can ask questions and bring forth by implication as much in an hour as would take ten years to refute. If we cannot reply to all the lies that are told about us, we can, at least, endeavor to do our best in refuting some of the worst. It is our duty 
+
+<pb n="80" xml:id="mmm.lds.penrose.1884.080"/>
+
+to do so. We have been warned; now let us warn our neighbors. We have got the truth; let us spread it abroad. By the help of God we will labor to this end. I devoted myself to the work of spreading the truth in my boyhood. I feel just the same today; and I know I have been blessed of God in this labor. I know the Spirit and power of God are in this Church. I know this is the work of God. I know God has established it, and I know He will bring it to a glorious consummation. I know that all the lies the engines of destruction and all the influences, physical, or moral, or intellectual, that may be brought against this Church will ultimately fail. “Truth is mighty and will prevail.” And while I live, by the help of God, I shall endeavor to do my part, both by tongue and pen, in defending my brethren and sisters andthe servants of God in this Church from the malicious attacks and calumnies of their opponents, and in preaching the gospel of peace to the ends of the earth. To this I have consecrated my life, and doing this I have done but the same as many others. I know my words find an echo in your hearts. You know as well as I do that this is the spirit of this Church, that the spirit of our leaders, the First Presidency, the Apostles and our leading men is peace. Our motto is “Peace on earth, good-will to all men.” Our mission is salvation, not destruction. We come to save men’s lives, not to destroy them.</p>
+
+<p>May God help us to labor in this spirit and give us strength and faith that we may accomplish the work unto which we are called, for Christ’s sake. Amen.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.duke.1910">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Celebrated Criminal Cases of America</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>Thomas</forename> <forename type="middle">S.</forename> <surname>Duke</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.duke.1910</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Celebrated Criminal Cases of America</title>
+                    <author><forename>Thomas</forename> <forename type="middle">S.</forename> <surname>Duke</surname></author>
+                    <publisher>The James H. Barry Company</publisher>
+                    <pubPlace>San Francisco, CA</pubPlace>
+                    <extent>319-326</extent>
+                    <date when="1910">1910</date>
+		    <note type="source">Thomas S. Duke. <hi rend="italic">Celebrated Criminal Cases of America</hi>. San Francisco, CA: The James H. Barry Company, 1910.  319-26.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-16"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name>Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+<div1 type="section">
+
+<pb n="319" xml:id="mmm.wa.duke.1910.319"/>
+
+<head>THE REMARKABLE LIFE OF JOE SMITH, FOUNDER OF THE MORMON CHURCH, AND HIS DEATH AT THE HANDS OF A MOB. THE MASSACRE OF 150 EMIGRANTS BY THE MORMON BISHOP JOHN D. LEE AND PARTY AND THE CONVICTION AND EXECUTION OF LEE TWENTY YEARS LATER.</head>
+
+<p><hi rend="center">(From Beaddle's "History of Mormonism" and Rankin's "History of the Mountain Meadow Massacre.")</hi></p>
+
+<p><persName key="Smith, Joseph">Joseph Smith</persName>, founder of Mormonism, was born on December 23, 1805, at <placeName type="settlement" key="Sharon, VT">Sharon</placeName>, <placeName type="state" key="Vermont">Vermont</placeName>, but he subsequently moved to <placeName type="settlement" key="Manchester, NY">Manchester</placeName>, <placeName type="state" key="New York, NY">N. Y.</placeName></p>
+
+<p>As a youth <persName key="Smith, Joseph">Joseph</persName> was wild and intemperate, but he claimed that the Lord sent heavenly messengers to tell him that his sins were forgiven.</p>
+
+<p>According to <persName key="Smith, Joseph">Smith</persName>'s claim, angels notified him to go to Cumorah Hill, near <placeName type="settlement" key="Manchester, NY">Manchester</placeName>, on September 22, 1826, and when he arrived there an angel descended from heaven and delivered to him a Golden Bible. On the leaves, which consisted of thin plates of gold, were hieroglyphics, which <persName key="Smith, Joseph">Smith</persName> claimed he translated "by the gift and power of God." From this translation the Book of Mormon was published, and on April 6, 1830, the Mormon Church was organized near <placeName type="settlement" key="Manchester, NY">Manchester</placeName>.</p>
+
+<p>Three men named <persName key="Cowdery, Oliver">Cowdery</persName>, <persName key="Whitmer, David">Whitmer</persName> and <persName key="Harris, Martin">Harris</persName> made affidavits that they were witnesses to the deliverance of the Golden Bible which, according to <persName key="Smith, Joseph">Smith</persName>'s claim, the angels took back to heaven when the translation was completed. In February, 1833, <persName key="Smith, Joseph">Smith</persName> and two others were elected presidents of the church and were at once favored with "visions of the Savior and concourse of Angels."</p>
+
+<p>A few months later the Mormons established their church near <placeName type="settlement" key="Independence, MO">Independence</placeName>, <placeName type="state" key="Missouri">Missouri</placeName>, where the following, consisting of 1500 members, met with strong opposition from the old residents, who on November 4, 1833, destroyed the Mormons'
+
+<pb n="320" xml:id="mmm.wa.duke.1910.320"/>
+
+property by fire and drove them across the river into <placeName type="county" key="Clay County, MO">Clay County</placeName>.</p>
+
+<p>In 1837, the church had 12,000 members. While a large percentage of the Mormons were quiet and unoffending, others were constantly defying the government and openly declared their independence of all earthly rulers and magistrates.</p>
+
+<p>In May, 1839, they burned and plundered the town of <placeName type="settlement" key="Gallatin, MO">Gallatin</placeName>, <placeName type="state" key="Missouri">Mo.</placeName>, and as a result Governor <persName key="Boggs, Lilburn">Boggs</persName> called out the militia. Prophet <persName key="Smith, Joseph">Joe Smith</persName> and many others were arrested, but after being imprisoned a short while they were permitted to go free, provided they would leave <placeName type="state" key="Missouri">Missouri</placeName>.</p>
+
+<p>They proceeded direct to <placeName type="county" key="Hancock County, IL">Hancock County</placeName>, <placeName type="state" key="Illinois">ILL.</placeName>, where they built a town, which they named <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>.</p>
+
+<p>In April, 1840, <persName key="Young, Brigham">Brigham Young</persName>, President of the Twelve Apostles, went to Europe for a year, where he established missions. In 1841, Prophet <persName key="Smith, Joseph">Joe Smith</persName> drew up a charter for the town of <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, which was adopted by the legislature. Under this charter the mayor was an absolute czar of the town, and <persName key="Smith, Joseph">Smith</persName> was elected to the office.</p>
+
+<p>He claimed that on July 12, 1843, God expressly commanded him to inform the Mormons that it was desirable that each man have more than one wife, so that the earth may be multiplied and replenished.</p>
+
+<p>On June 24, 1844, Governor <persName key="Ford, Thomas">Ford</persName> ordered the "Prophet," Mayor <persName key="Smith, Joseph">Smith</persName>, and his brother <persName key="Smith, Hyrum">Hyrum</persName> to consider themselves under arrest on a charge of treason, for declaring martial law in <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> in open resistance to legal process.<persName key="Smith, Joseph"> Smith</persName> and <persName key="Smith, Hyrum">his brother</persName> surrendered and were placed in jail at <placeName type="settlement" key="Carthage, IL">Carthage</placeName>.</p>
+
+<p>As there were many rumors that the indignant citizens intended to lynch <persName key="Smith, Joseph">Smith</persName>, a company of militia, in command of Captain <persName key="Smith, R. F.">R. F. Smith</persName>, was detailed to guard the jail.</p>
+
+<p>At 6 p. m. on June 27, 1844, a great mob, armed with weapons, rushed upon and overpowered the guard. They then broke into the jail and shot and instantly killed <persName key="Smith, Hyrum">Hyrum Smith</persName> in his cell.   The "Prophet" jumped out of a second-story <choice><orig>win-
+
+<pb n="321" xml:id="mmm.wa.duke.1910.321"/>
+
+dow</orig><reg>window</reg></choice>, and as he struck the ground his body was completely riddled with bullets.</p>
+
+<p>During the next year, the College of Twelve Apostles, of which <persName key="Young, Brigham">Brigham Young</persName> was president, ruled the church.</p>
+
+<p>In 1845, the legislature revoked the charter prepared by <persName key="Smith, Joseph">Smith</persName>.</p>
+
+<p>Thefts were constantly being committed, and the Mormons were nearly always blamed for them, whether there was evidence to justify the accusation or not.</p>
+
+<p>In May, 1846, a mob of Anti-Mormons ordered about 150 Mormon families residing near <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> away from their homes. They refused to go, whereupon their houses were burned to the ground.</p>
+
+<p>At this time public prejudice against the Mormons, especially the polygamists, was rapidly increasing and the leaders realized that they could not remain in this community.</p>
+
+<p>In June, 1846, the majority of them moved and the main body concentrated near <placeName type="settlement" key="Omaha, NE">Omaha</placeName>. A few months later those who remained behind were driven out.</p>
+
+<p>On July 24, 1847, Young and the first party of Mormons entered <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, where <persName key="Young, Brigham">Brigham Young</persName> was given all the power formerly held by <persName key="Smith, Joseph">Smith</persName>.</p>
+
+<p>On September 9, 1850, Congress passed an act to organize the <placeName type="state" key="Utah Territory">territory of Utah</placeName>, and President <persName key="Fillmore, Millard">Fillmore</persName> appointed <persName key="Young, Brigham">Brigham Young</persName> governor.</p>
+
+<p>In 1852, Lieutenant <persName key="Gunnison, John Williams">Gunnison</persName> and a party of eight United States topographical engineers were massacred. It was reported that the outrages were committed by Indians, but apostates who subsequently escaped claimed that the deeds were done by painted Mormons.</p>
+
+<p><seg type="Massacre" subtype="Dates">In the early part of September, 1857</seg>, a company of <seg type="Emigrants" subtype="StateAffiliationArkansas">emigrants from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, <placeName type="state" key="Missouri"><seg type="Emigrants" subtype="StateAffiliationMissouri">Missouri</seg></placeName> and <seg type="Emigrants" subtype="StateAffiliationIllinois"><placeName type="state" key="Illinois">Illinois</placeName></seg>, which was led by Captain <persName key="Fancher, Alexander">William Fancher</persName>, <seg type="Emigrants" subtype="Route">entered <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, en route to <placeName type="state" key="California">California</placeName></seg>. <seg type="Emigrants" subtype="WagonTrain">This train consisted of <seg type="Massacre" subtype="Casualties">166 people, including men, women and children</seg>, <seg type="Massacre" subtype="Spoils">who were well supplied with money, horses and cattle and everything necessary to make the trip as comfortable as possible</seg>.</seg></p>
+
+<pb n="322" xml:id="mmm.wa.duke.1910.322"/>
+
+<p>Dr. <persName key="Brewer, Charles">Brewer</persName>, of the United States Army, said that it was "probably the finest train that ever started across the plains."</p>
+
+<p><seg type="Encounter" subtype="Slander"><seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="EmigrantBehavior">The Mormons claimed that while in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> some of the members of this party were very indiscreet in expressing their opinion of the Mormon religion, and it was also alleged that one of this party boasted that he participated in the killing of the founder of the church.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="Poison">It was furthermore claimed that these emigrants killed an ox by means of poison and fed the meat to the Indians, killing four, but <seg type="Context" subtype="Polygamy"><persName key="Hamblin, Jacob">Jacob Hamblin</persName>, a Mormon employed as an Indian interpreter, and several other reputable people, who had an opportunity to observe the actions of the emigrants, stated that outside of denouncing polygamy they did nothing to offend the Mormons.</seg></seg></seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">When these emigrants had been at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> but a few days they were astounded to find that under no circumstances could they purchase food or anything else from the Mormons, and shortly afterward they were ordered from the city.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS"><seg type="Source" subtype="Attributed_Klingensmith">According to testimony afterward given by Bishop <persName key="Klingensmith, Philip">Klingensmith</persName>, President <persName key="Haight, Isaac">Isaac Haight</persName>, his superior in the church, preceded the emigrant train on their journey west and warned his followers not to supply them with provisions.</seg></seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">Among the emigrants was a young man named <persName key="Aden, Williiam A.">William A. Aden</persName>, who recognized <persName key="Laney, William">William Laney</persName>, a Mormon residing at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>, as the person whose life he had saved from an anti-Mormon mob in <placeName type="state" key="Tennessee">Tennessee</placeName> some years previously. The grateful <persName key="Laney, William">Laney</persName> also recognized his benefactor and after embracing <persName key="Aden, William A.">Aden</persName>, took him to his home and supplied him with potatoes and onions.</seg></p>
+
+<p>According to a confession subsequently made by <persName key="John D. Lee">John D. Lee</persName>, whom <persName key="Young, Brigham">Brigham Young</persName> appointed Bishop of <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, <placeName type="county" key="Washington County, UT">Washington County</placeName>, and also "Farmer to the Pahute Indians," the Aden-Laney incident was reported to Bishop <persName key="Dame, William H.">Dame</persName> a few hours after its occurrence and the latter raised his hand and crooked his little finger, whereupon his (<persName key="Dame, William H.">Dame</persName>'s) brother-in-law, <persName key="Carter, Barney">Barney Carter</persName>, went to <persName key="Laney, William">Laney</persName> and struck him over the
+
+<pb n="323" xml:id="mmm.wa.duke.1910.323"/>
+
+head with a picket from a fence, fracturing his skull. Although the man recovered his mind became deranged.</p>
+
+<p>On their way west, Captain <persName key="Fancher, Alexander">Fancher</persName>'s company of emigrants came upon <seg type="Massacre" subtype="Location">a beautiful and fertile spot, known as <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. As this spot, which was about 200 miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, was an ideal pasture land, it was decided to stop there and recruit their stock preparatory to entering the parched desert.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">At daybreak on Monday, September 7, 1857</seg>, <seg type="Blame" subtype="IndiansIndependently">the emigrants, several of whom were still asleep, were attacked, apparently by Indians</seg>, and at the first volley <seg type="Massacre" subtype="Casualties">seven were killed</seg> and fifteen wounded.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">With great rapidity and rare presence of mind the emigrants divided into two parties; one being assigned to give battle to the "Indians" while the remainder wheeled their vehicles around as a protection for the women and children. They then banked dirt up against the wheels and within a few moments were far better fortified than the attacking party, who were forced to remain at a distance. The emigrants held this fort for four days, but <seg type="Massacre" subtype="Casualties">the "Indians" killed their stock and members of the party at every opportunity</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">As water became scarce, two little girls dressed in white were sent to a near-by spring with a bucket, but as they went forth hand in hand they were riddled with bullets.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Massacre" subtype="Dates">On September 11</seg> it was decided to decoy the emigrants from their stronghold.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">A flag of truce was then displayed by the attacking "Indians," and in response the emigrants waved a white garment. To their surprise, a white man, who proved to be <persName key="John D. Lee">John D. Lee</persName>, marched up with another man and met an envoy from the beleaguered camp. With a great display of indignation <persName key="Lee, John D.">Lee</persName> denounced the "Indians" for murdering innocent and unoffending emigrants. He explained his position in the Mormon Church and government and told the envoy that if the emigrants would lay down their arms and march out peacefully, his party would protect them from the "Indians."</seg></p>
+
+<p>As their supply of food was gone and they could not obtain water, the emigrants gladly accepted this offer. Under
+
+<pb n="324" xml:id="mmm.wa.duke.1910.324"/>
+
+the direction of <persName key="Lee, John D.">Lee</persName> their arms were loaded in a wagon into which were also placed <seg type="Massacre" subtype="Survivors">all babies who were presumed to be too young to talk</seg>.</p>
+
+<p><seg type="Massacre" subtype="Surrender">The emigrants were then instructed to form in single file and <persName key="Lee, John D.">Lee</persName>, who remained with the wagon containing the <seg type="Massacre" subtype="Survivors">seventeen babies</seg> and numerous weapons, led them along a road, one side of which was lined with brush.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">Suddenly he turned around and shot and killed the nearest person to him, a woman. It was subsequently learned that this shot was the prearranged signal for action all along the line. The instant it was fired "Indians" rushed out from behind the brush and opened fire on the emigrants, every one in the party <seg type="Massacre" subtype="Survivors">except the seventeen babies</seg> being killed.</seg> <seg type="Massacre" subtype="Survivors">These babies were subsequently delivered to <persName key="Forney, Jacob">J. Forney</persName>, Superintendent of Indian Affairs.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="SexualViolence">Some of the young women were frightfully abused, even as they were dying from their wounds.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">All jewelry, money, stock and desirable clothing was then seized and <seg type="Massacre" subtype="Aftermath">the bodies left where they fell</seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Eight days later, Interpreter <persName key="Hamblin, Jacob">Jacob Hamblin</persName> visited the scene of the butchery and found that wolves and ravens had torn the bodies to pieces, but he buried what remained of <seg type="Massacre" subtype="Casualties">120 bodies</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><seg type="Encounter" subtype="Poison">On November 20,1857, <persName key="Lee, John D.">Lee</persName> made a report of the massacre to <persName key="Young, Brigham">Brigham Young</persName>, in which he claimed that the Pahute Indians were responsible for the slaughter and he also charged that the outrage was committed because the emigrants fed the Indians poisoned cattle.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">On January 6, 1858, Governor <persName key="Young, Brigham">Brigham Young</persName> made a report to <persName key="Denver, Jason W.">Jas. W. Denver</persName>, Commissioner of Indian Affairs, at <placeName type="state" key="Washington, D. C.">Washington, D. C.</placeName>, in which he quoted parts of <persName key="Lee, John D.">Lee</persName>'s report, and <seg type="Blame" subtype="EmigrantBehavior">condemned the emigrants for treating the Indians like ferocious beasts</seg>.</seg> <seg type="Context" subtype="GunnisonMurder">He also claimed that the massacre of Lieutenant Gunnison and party was due to inhuman treatment of the Indians by a party which preceded Gunnison.</seg> The years rolled by and the story invented by <persName key="Lee, John D.">Lee</persName> was accepted as true in the absence of proof to the contrary.</p>
+
+<p><seg type="Massacre" subtype="Survivors">But "murder will out," and two of the little children, who
+
+<pb n="325" xml:id="mmm.wa.duke.1910.325"/>
+
+were presumed to be too young to remember, subsequently told what they knew, and it finally reached the ears of the federal authorities, who gradually learned more and more of the details of the massacre.</seg></p>
+
+<p>In the summer of 1874, the grand jury of the second Judicial District Court found an indictment against <persName key="Lee, John D.">Lee</persName>.</p>
+
+<p>In June, 1875, he was tried before a jury composed of two Gentiles, nine regular Saints of the Mormon Church and one renegade Mormon. The jury disagreed and the second trial began in September, 1876. This time the jury was composed entirely of Mormons.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="EmigrantBehavior"><seg type="Massacre" subtype="Planning"><persName key="Morrill, Labin">Labin Morrill</persName>, a Mormon, testified that there was great excitement over the alleged statement of some of the emigrants that they had participated in the killing of <persName key="Smith, Joseph">Joseph Smith</persName>, and as a consequence a council was held at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, at which Bishop <persName key="Klingensmith, Philip">Klingensmith</persName> and President <persName key="Haight, Isaac C.">Haight</persName> decreed that the emigrants must die.</seg></seg></seg><ref target="n01">*</ref></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="Knight, Samuel">Samuel Knight</persName>, another Mormon, swore that <persName key="Lee, John D.">Lee</persName> accompanied the flag of truce to the emigrants' camp and superintended the forming of the line of emigrants. <persName key="Knight, Samuel">Knight</persName> also swore that <seg type="Massacre" subtype="Casualties">he saw <persName key="Lee, John D.">Lee</persName> kill the first woman in the line</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="McCurdy, Samuel">Samuel McCurdy</persName> swore that one <persName key="Bateman, William L.">Bateman</persName> carried the flag of truce and that <persName key="Lee, John D.">Lee</persName> accompanied him. <seg type="Massacre" subtype="Casualties">He also testified that he saw <persName key="Lee, John D.">Lee</persName> kill the woman, which was the prearranged signal for the general slaughter.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Johnson, Nephi">Jephi Johnson</persName> corroborated the other witnesses and also testified that <seg type="Massacre" subtype="Spoils">he subsequently saw some of the emigrants' stock at <persName key="Lee, John D.">Lee</persName>'s home.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Hamblin, Jacob">Jacob Hamblin</persName> testified to burying <seg type="Massacre" subtype="Casualties">120 bodies</seg>, and <seg type="Massacre" subtype="Casualties">he furthermore swore that <persName key="Lee, John D.">Lee</persName> admitted to him that he cut the throat of a seventeen-year-old girl named <persName key="Dunlap">Dunlap</persName> during the massacre</seg></seg>.
+
+<note xml:id="n01"><p>* According to <persName key="Linn, William Alexander">Linn</persName>'s history, there was another motive for this outrage.</p>
+
+<p><seg type="Context" subtype="PrattMurder">A fanatical defender of polygamy named <persName key="Pratt, Parley P.">Parley Pratt</persName>, while in <placeName type="settlement" key="San Francisco, CA">San Francisco</placeName> in June, 1855, induced the wife of <persName key="McLean, Hector">Hector McLean</persName>, a custom house official, to accept the Mormon faith and elope with him to <placeName type="settlement" key="Utah Territory">Utah</placeName> as his ninth wife. <persName key="McLean, Hector">McLean</persName> traced them to Fort Gibson, <placeName type="state" key="Arkansas">Arkansas</placeName>, where he killed <persName key="Pratt, Parley P.">Pratt</persName>, but as he was exonerated, it was decided to hold all Arkansans accountable for <persName key="Pratt, Parley P.">Pratt</persName>'s death.</seg></p></note>
+
+<pb n="326" xml:id="mmm.wa.duke.1910.326"/>
+
+<persName key="Hamblin, Jacob">Hamblin</persName> also swore that he informed <persName key="Young, Brigham">Brigham Young</persName> of what had transpired and that the latter replied:</p>
+
+<p>"As soon as we can get a court of justice we will ferret this thing out; but until then don't say anything about it."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Klingensmith, Philip">Klingensmith</persName>, a former Mormon Bishop, turned State's evidence. He not only corroborated the testimony of <persName key="Morrill, Labin">Morrill</persName>, <persName key="Johnson, Nephi">Johnson</persName> and <persName key="Knight, Samuel">Knight</persName>, but testified that <seg type="Blame" subtype="IndiansLDSInfluence">the massacre was committed by Indians and Mormons painted as Indians.</seg> <seg type="Massacre" subtype="Spoils">He also swore that <persName key="Lee, John D.">Lee</persName> sold much of the emigrants' property at public auction.</seg></seg><ref target="n02">*</ref></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">Lee</persName> took the witness stand and admitted his guilt but swore that President <persName key="Haight, Isaac C.">Haight</persName> of the Church promised him a "celestial reward" for his services.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The defendant was found guilty and on April 23, 1877, twenty years after the massacre, United States Marshal Nelson and posse took him to the scene of the crime to be shot to death.</seg></p>
+
+<p>The condemned man sat on the edge of his coffin and his only request was that the five soldiers move closer to him before they fired. The request was complied with and <persName key="Lee, John D.">Lee</persName> then raised his arms over his head and when the command "Fire" was given the rifle balls pierced his heart.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Shortly after the massacre was committed it was generally suspected among the better class of Mormons that <persName key="Lee, John D.">Lee</persName> was the instigator of the foul plot and he was ostracized and abhorred for years before his indictment. Towards the last the abject wretch had an unceasing dread of vengeance; he seldom left his home and it is said that he would undoubtedly have gone insane if the merciful bullets had not put an end to his miserable existence.</seg></p>
+
+<note xml:id="n02"><p>* <seg type="Blame" subtype="LDS_LDS"><persName key="Klingensmith, Philip">Klingensmith</persName> made his first confession some time previous to the trial, and when <persName key="Young, Brigham">Brigham Young</persName> obtained positive proof of <persName key="Lee, John D.">Lee</persName>'s guilt the latter was excommunicated from the Church, and <persName key="Young, Brigham">Young</persName> subsequently rendered every assistance to the prosecution.</seg></p></note>
+
+</div1>
+</body>
+</text>
+</TEI>

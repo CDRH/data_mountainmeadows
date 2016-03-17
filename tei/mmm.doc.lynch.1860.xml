@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.lynch.1860">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">James Lynch Affidavit</title>
+	 	<title level="m" type="sub"></title>
+		<author><forename>James</forename> <surname>Lynch</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	    	<idno>mmm.doc.lynch.1860</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+	        <title level="a">James Lynch Affidavit, Utah Territory, Cedar County</title>
+	        <author><forename>James</forename> <surname>Lynch</surname></author>
+	        <title level="m">Message of the President of the United States, communicating, in compliance with a resolution of the Senate, information in relation to the massacre at Mountain Meadows, and other massacres in Utah Territory</title>
+	        <title level="s">US Senate. 36th Congress, 1 Sess., Senate Executive Document 42, Serial 1033</title>
+        	<publisher>Government Printing Office</publisher>
+        	<pubPlace>Washington, D.C.</pubPlace>
+        	<date when="1860">1860</date>
+        	<extent>81-85</extent>
+	        <note type="source">James Lynch. "James Lynch Affidavit, Utah Territory, Cedar County," in James Buchanan. <hi rend="italic">Message of the President of the United States, communicating, in compliance with a resolution of the Senate, information in relation to the massacre at Mountain Meadows, and other massacres in Utah Territory</hi>. US Senate. 36th Cong, 1st sess. Washington, DC: GPO, 1860. Senate Exec. Doc. 42, Serial 1033. 81–85.</note>
+	    </bibl>
+	</sourceDesc>
+
+     </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	    <keywords scheme="original" n="category">
+	        <term>government_document</term>
+	     </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term> </term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	     </textClass>
+	</profileDesc>
+
+     <revisionDesc>
+	<change when="2011-08-18"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+    	<change when="2011-05-31"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+    	<change when="2010-01-08"><name>Laura Weakly</name> Validation</change>
+    	<change when="2009-11-03"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="doc">
+    
+    <pb n="81" xml:id="mmm.doc.lynch.1860.081"/>     
+    
+    <head>James Lynch Affidavit</head>
+    
+    <opener>
+        <dateline>Utah Territory, Cedar <hi rend="italic">County, ss</hi>:</dateline></opener>
+    
+<p><persName key="Lynch, James">James Lynch</persName>, of lawful age, being first duly sworn, states on oath, that he was one the party who accompanied Dr. <persName key="Forney, Jacob">Jacob Forney</persName>, superintendent of Indian affairs, in an expedition to <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName></seg>, &amp;c., in the months of March and April last, when <seg type="Massacre" subtype="Survivors">we received sixteen children, sole survivors of the wholesale massacre perpetrated at the former place <seg type="Massacre" subtype="Dates">in the month of September 1857</seg>. The children when we first saw them were in a most wretched and deplorable condition; <hi rend="italic">with little or no clothing, covered with filth and dirt</hi>, they presented a sight heart-rending and miserable in the extreme.</seg> <seg type="Massacre" subtype="Aftermath">The scene of the fearful murder still bears evidence of the atrocious crime</seg>, <seg type="Blame" subtype="LDS_LDS">charged by the Mormons and their friends to have been perpetrated by Indians, but really by Mormons disguised as Indians, who, in their headlong zeal, bigotry, and fanaticism, deemed this a favorable opportunity of at once wreaking their vengeance on the hated people of <placeName type="state" key="Arkansas">Arkansas</placeName>, and of making another of those iniquitous <q>“blood offerings”</q> to God, so often recommended by <persName key="Young, Brigham">Brigham Young</persName> and their other leaders.</seg> <seg type="Massacre" subtype="Aftermath">For more than two square miles the ground is strewn with the skull bones and other remains of the victims. In places the water has washed many of these remains together, forming little mounds, raising monuments as it were to the cruelty of man to his fellow man. Here and there may be found the remains of an innocent infant beside those of some fond, devoted mother, ruthlessly slain by men worse than demons; their bones lie bleaching in the noon-day sun, a mute but an eloquent appeal to a just but offended God for vengeance. I have witnessed many harrowing sights on the fields of battle, but never did my heart thrill with such horrible emotions, as when standing on that silent plain contemplating the remains of the innocent victims of Mormon avarice, fanaticism, and cruelty.</seg></p>
+
+    <p><seg type="Massacre" subtype="Aftermath">Many of these remains are now in possession of a Mr. <persName key="Rodgers, William H.">[William H.] Rodgers</persName>, a gentleman who accompanied us upon the expedition. Why were not these remains interred, if not in a Christian-like and proper manner, at least covered from the sight? But no, the hatred of their murderers extended to them after their death. There they lay; a prey to the famished wolves that run howling over the desolate plains to the unlooked-for feast, feed for the croaking raven that through the tainted air with swift wing wended their way to revel in their banquet of [death?].</seg></p>
+    
+    <pb n="82" xml:id="mmm.doc.lynch.1860.082"/>  
+
+    <p><seg type="Massacre" subtype="Aftermath">I inquired of <persName key="Hamblin, Jacob">Jacob Hamlin</persName>, who is a high church dignitary, why these remains were not buried at some time subsequent to the murder. He said the bodies were so much decomposed that it was impossible to inter them.</seg> No longer let us boast of our citizenship, freedom, or civilization. Here was <seg type="Massacre" subtype="Casualties">one hundred and forty poor harmless emigrants</seg> <seg type="Emigrants" subtype="Route">to <placeName type="state" key="California">California</placeName></seg> <seg type="Blame" subtype="LDS_LDS">butchered in cold blood, by white men, too, with attending circumstances far exceeding anything in cruelty that we have ever heard of or read of being perpetrated, even by savages.</seg> It is now high time that the actors and instigators of this dreadful crime should be brought to condign punishment. For years these Mormons have possessed an immunity from punishment, or a sort of privilege for committing crimes of this nature, but seen, it is to be hoped, a new state of things must dawn&#8212;retribution must come&#8212;vengeance must be had, civilization, humanity, and Christianity call for it, and the American people must have it. <seg type="Reaction" subtype="Extra-legalViolence">Blood may be shed, difficulties may be encountered, but just as sure as there is a sun at noon-day, retribution will yet overtake the guilty wretches, their aiders, abetters, whether open or <hi rend="italic">hidden under disguise of government employment.</hi></seg></p>
+
+    <p><seg type="Massacre" subtype="Spoils"><persName key="Lee, John D.">John D. Lee</persName>, a Mormon president, has knowledge of the whereabouts of much of the property taken from these ill-fated. emigrants, and, if I am not misinformed, [is] in possession of a large quantity of it. Why not make him disgorge this ill-gotten plunder, and disclose the amount escheated to and sold out by the Mormon Church as its share of the blood of helpless victims?</seg> When he enters into a league with hell and a covenant with death, he should not be allowed to make feasts and entertain government officials at his table as he did Dr.<persName key="Forney, Jacob"> Jacob Forney</persName>, superintendent of Indian affairs, while the rest of his party refused, in his hearing and that of <persName key="Lee, John D.">Lee</persName>, to share the hospitality of this notorious murderer&#8212;THIS SCOURGE OF THE DESERT. This man <persName key="Lee, John D.">Lee</persName> does not deny, but admits that he was present at the massacre, but pretends that he was there to prevent bloodshed; but positive evidence implicates him as the leader of the murderers too deeply for denial. <seg type="Massacre" subtype="Survivors">The children point him out as one of them that did the bloody work. He and other white men had these children, and they never were in the hands of the Indians, but in those who murdered them, and <persName key="Hamblin, Jacob">Jacob Hamlin</persName> and <persName key="Forney, Jacob">Jacob Forney</persName> know it. <seg type="Massacre" subtype="Spoils">The children pointed out to us the dresses and jewelry of their mothers and sisters that now grace the <hi rend="italic">angelic </hi>forms of these murderers’ women and children.</seg> Verily it would seem that men and women alike combined in this wholesale slaughter.</seg></p>
+
+    <p><seg type="Massacre" subtype="Spoils">This ill-fated train consisted of eighteen wagons, eight hundred and twenty head of cattle, household goods to a large amount, besides money, estimated at eighty or ninety thousand dollars, the greater part of which, it is believed, now makes rich the harem of this <persName key="Lee, John D.">John D. Lee</persName>.</seg> <seg type="Massacre" subtype="RescueAttempt">Of this train a man, whose name is unknown, fortunately escaped at the time of the massacre to <placeName type="settlement" key="Las Vegas, NV">Vegas</placeName>, one hundred miles distant from the scene of blood, on the California road. He was followed by five Mormons who, through promises of safety, &amp;c., prevailed upon him to begin his return to <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, and, contrary to their promises and his just expectation, they inhuman[e]ly butchered him, laughing at and disregarding his loud and repeated cries for
+        
+        <pb n="83" xml:id="mmm.doc.lynch.1860.083"/>  
+
+mercy; as witnessed and told by <persName key="Hatch, Ira">Ira Hatch</persName>, one of the five. The object in killing this man was to leave no witness competent to give testimony in a court of justice but God, whose ways are inscrutable, has thought proper, through the instrumentality of the <q>“babes and sucklings”</q> recovered by us, to bring to light this most horrible tragedy and make known its barbarous and inhuman perpetrators.</seg></p>
+
+    <p>Already a step has been taken by Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> in the right direction, of which we see the evidence in the flight of presidents, bishops, and elders to the mountains, to escape the just penalty of the law for their crimes. If the vengeance of the Lord is slow, it is equally sure. <seg type="Blame" subtype="IndiansIndependently">The Mormons, who know better, have reported that the principals and, in fact, all the actors in this fearful massacre were Indian savages</seg>; <seg type="Blame" subtype="LDS_LDS">but subsequent events have thrown sufficient light upon this mystery to fix the foul blot indelibly upon the Mormon escutcheon. Many of the leaders are well known. <persName key="Lee, John D.">John D. Lee</persName> was the commander-in-chief. President <persName key="Haight, Isaac C.">Haight</persName> and Bishop <persName key="Klingensmith, Philip">Smith</persName>, of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and, besides these, one hundred actors and accomplices, are known to Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> and Dr. <persName key="Forney, Jacob">Forney</persName>.</seg> Some of those implicated are and have been in the confidence and under employment of the superintendent of Indian affairs. Bishop <persName key="Hamblin, Jacob">Hamlin</persName>, for instance, who is employed by Dr. <persName key="Forney, Jacob">Forney</persName> among the Indians down south, who knows all the facts, but refuses to disclose them, who falsely reported to Dr. <persName key="Forney, Jacob">Forney</persName> that <seg type="Massacre" subtype="Survivors">the children we brought away were recovered by him from persons who had bought them from Indians, and who knew that what he reported was false, and was so done to cheat the government out of money [and] to again reward the guilty wretches for their inhuman butcheries.</seg> It is pretended that this man is friendly towards the United States government; yet it is a well-known fact that he screened some of these murderers about his house from justice, among whom are <seg type="Blame" subtype="IndiansLDSInfluence">an Indian named <persName key="George">George</persName>, and a white man by the name of <persName key="Tillis">Tillis</persName>, recognized by <seg type="Massacre" subtype="Survivors">one of these children&#8212;a little girl eight years old, who has been sent off to the States by Dr. <persName key="Forney, Jacob">Forney</persName></seg>&#8212;as the man who killed her mother.</seg></p>
+    
+    <p>Hamlin cannot be a Mormon bishop and a friend of the United States, at least, where Mormons or Mormonism is concerned. His creed and oaths forbid it, and he could not, if he would, with safety to himself, do it. Then, why not out with him? Dr. <persName key="Forney, Jacob">Forney</persName> can find another and more trustworthy agent than he. Why, then, keep and patronize the abettor of crime?</p>
+
+    <p>Before I close, my duty to my country calls upon me to state to the public the course of Dr. <persName key="Forney, Jacob">Forney</persName> to engender in the minds of the Mormons feelings of antipathy and opposition to the judiciary, and the many obligations which he violated and promises which he disregarded during this trip.</p>
+
+    <p>I left <orgName type="military" key="Camp Floyd">Camp Floyd</orgName> in March last, in charge of thirty-nine men, emigrating to <placeName type="state" key="Arizona">Arizona</placeName>. About the 27th of that month we came up with Dr. <persName key="Forney, Jacob">Forney</persName>, at <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, who there informed me that he was en route to <seg type="Massacre" subtype="Location">the scene of the Mountain Meadow massacre</seg> and <placeName type="settlement" key="Santa Clara, UT">Santa Clara</placeName>, to procure evidence in relation thereto, and <seg type="Massacre" subtype="Survivors">to secure the surviving children.</seg> He informed me that all his men had left him, being Mormons, and who before leaving had informed him (<persName key="Forney, Jacob">Forney</persName>) that 
+
+        <pb n="84" xml:id="mmm.doc.lynch.1860.084"/>  
+
+if he went down south the people down there would make an eunuch of him, and asked us for aid and assistance. I cheerfully placed the whole party at his command, telling him that he had started upon an errand of mercy, and it was strange that he should have employed Mormons, the very confederates of these monsters, who had so wantonly murdered unoffending emigrants, to ferret out the guilty parties. He was left without a man, and we found him guarding his mules and wagons. He requested two of the men of my party (<persName key="Dunn, Thomas">Thomas Dunn</persName> and <persName key="Lofink, John">John Lofink</persName>) to return to <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake City</placeName> with him, promising to give them employment during the following summer and the winter. They consented to abandon their trip to <placeName type="state" key="Arizona">Arizona</placeName> upon these terms, and returned with the Doctor; and, I am sorry to say, that he violated his plighted faith and his solemn contract, on reaching the city, by immediately discharging them, without cause, and hiring Mormons to take their place, as, I am informed, has been his custom since he came into the valley.</p>
+
+    <p>I was with Dr. <persName key="Forney, Jacob">Forney</persName> from the time I joined him until he returned to the city of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, having voluntarily abandoned my expedition to Arizona to aid in his humane enterprise, and during the trip I repeatedly heard him tell the Mormons <q>“that they need not fear Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>,”</q> (whose disclosures and energy had created some alarm;) <q>“that he (<persName key="Forney, Jacob">Forney</persName>) would have him removed from office; <seg type="Blame" subtype="LDS_LDS">that the Mormons (murderers and all) were all included in the President’s proclamation and pardon, and would not be tried or punished for any offense whatever committed prior to the issuing of the pardon</seg>; that Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> was not a fit man for office.”</q> In fact, abusing and slandering the judge in unmeasured terms, no language being too low or filthy to apply to him. I could arrive at no other conclusion, from his conduct, than that the Doctor desired to influence the mind of the Mormons against the judiciary, and that he cared more to create a prejudice against Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>’s course in attempting to bring these murders to light, than he did to elicit the truth relative to the murders, and that he was only following out his instructions from the general government <seg type="Massacre" subtype="Survivors">in going after the children</seg>, while he was availing himself of the journey to make a pilgrimage to the south settlements to abuse and traduce Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, and arouse a feeling of resistance to his authority among the guilty murderers.</p>
+
+    <p>It is to be regretted that the Doctor has manifested so hostile a feeling to his associate federal officers, and that the course of the judges, and especially that of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, has to be criticised by such a man as <persName key="Forney, Jacob">Jacob Forney</persName>, a more veritable old granny than whom, in my opinion, never held official position in this country; and in this opinion I am borne out by the concurrent opinions of nearly all the Gentile population in <placeName type="state" key="Utah Territory">Utah</placeName>, who know him, as well as by many of the Mormon people. I now reside in <placeName type="county" key="Cedar County, UT">Cedar county</placeName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>.</p>
+
+<closer>
+    <signed><hi rend="right">JAMES LYNCH.</hi></signed>
+</closer>
+</div1>
+    
+ <div1>
+
+    <p><seg type="Source" subtype="Attributed_Lynch"><persName key="Lynch, James">James Lynch</persName>, being duly sworn, states on oath that all the material facts stated by him in the foregoing affidavit, so far as he states the
+        
+        <pb n="85" xml:id="mmm.doc.lynch.1860.085"/>  
+
+same as of his own knowledge, are true, and so far as he states the same as from information derived from others, as also the conclusions drawn from the same, he believes to be true, and further saith not.</seg></p>
+
+     <closer><signed><hi rend="right"><persName key="Lynch, James">JAMES LYNCH</persName>.</hi></signed></closer>
+        </div1>
+
+<div1>
+
+     <p> Sworn to and subscribed July 27, 1859.</p>
+    <closer><signed><hi rend="right"><persName key="Eckels, Delana R.">D. R. ECKELS</persName>,<lb/>
+        <hi rend="italic">Chief Justice of Supreme Court.</hi></hi>
+    </signed></closer>
+
+</div1>
+    <div1>
+<milestone unit="section" rend="horbar"/>
+
+     <p>The undersigned state on oath, that the foregoing affidavit has been carefully read to them; that they are the identical persons named in it as having been employed by Dr. <persName key="Forney, Jacob">Jacob Forney</persName> to return with him to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>; that they went from Beaver City with said Forney south, and back again, and that we folly concur in the statements made by <persName key="Lynch, James">James Lynch</persName>, Esq., in the foregoing affidavit, as to what we saw and heard on the trip, and the conduct of Dr. <persName key="Forney, Jacob">Forney</persName>, superintendent of Indian affairs, and further say not.</p>
+        <closer><signed><hi rend="right"><persName key="Dunn, Thomas">THOMAS DUNN</persName>.</hi></signed><lb/>
+            <signed><hi rend="right"><persName key="Lofink, John">JOHN LOFINK</persName>.</hi></signed>
+</closer>
+</div1>
+<div1>
+
+    <p> Subscribed and sworn to before me July 27, 1859.</p>
+    <closer><signed><hi rend="right"><persName key="Eckels, Delana R.">D. R. ECKELS</persName>,</hi><lb/>
+        <hi rend="italic"><hi rend="right">Chief Justice of Supreme Court.</hi></hi></signed>
+</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

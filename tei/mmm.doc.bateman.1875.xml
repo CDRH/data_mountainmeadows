@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.bateman.1875">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Annual Report of the Commissioner of Indian Affairs to the Secretary of the Interior for the year 1875: Pyramid Lake Reserve</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>Calvin</forename> <forename type="middle">A.</forename> <surname>Bateman</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.bateman.1875</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+	        <title level="a">Pyramid Lake Reserve, September 10, 1875</title>
+	        <title level="m" type="main">Annual Report of the Commissioner of Indian Affairs to the Secretary of the Interior for the year 1875</title>
+	        <title level="s"></title>
+	        <author><forename>Calvin</forename> <forename type="middle">A.</forename> <surname>Bateman</surname></author>
+		    <publisher>Government Printing Office</publisher>
+		    <pubPlace>Washington, DC</pubPlace>
+	        <extent>840-844</extent>
+		    <date when="1875">September 10, 1875</date>
+	        <note type="source">Calvin A. Bateman. "Pyramid Lake Reserve, September 10, 1875," in <hi rend="italic">Annual Report of the Commissioner of Indian Affairs to the Secretary of the Interior for the year 1875</hi>. US Department of Indian Affairs. Washington, DC: GPO, 1875. 840-844.</note>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>government_document</term> 
+                </keywords>
+                <keywords scheme="original" n="culpability">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="action">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <revisionDesc>
+	<change when="2011-08-18"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-06-15"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+	<change when="2010-05-14"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="doc">
+    
+<pb n="840" xml:id="mmm.doc.bateman.1875.840" />
+
+<head>OFFICE <placeName type="state" key="Nevada">NEVADA</placeName> INDIAN AGENCY,</head>
+ 
+<dateline>Pyramid Lake Reserve, September 10, 1875.</dateline>
+
+<p>SIR: In compliance with instructions received from the Office of Indian Affairs, <placeName type="state" key="Washington, D. C.">Washington, D. C.</placeName>, July 9, 1875, I have the honor to submit the following as my fifth annual report relative to the affairs of this agency, arid the Indians under my charge.</p>
+
+<milestone unit="stars"/>
+
+<p>Cursory retrospect of the year that has passed marks no very important changes upon the two reservations originally subject to the management of this agency. Everything has moved on smoothly and as encouragingly as could be reasonably expected. Improvements and disbursements have been made corresponding with the means appropriated for this department of the service.</p>
+
+<p>It will be remembered that, owing to the fact that not one dollar was furnished me by the Department at <placeName type="state" key="Washington, D. C.">Washington</placeName> for the second quarter of that year, there remained at the close of the fiscal year ending June 30, 1874, a deficit of $3,987.03 This fact I lamented very much; but I could see no other way to pursue during said quarter but to provide for the
+ 
+<pb n="841" xml:id="mmm.doc.bateman.1875.841" />
+ 
+absolute wants by asking credit. To have done otherwise would have been a complete sus-pension of all work, the discharge of every employe, and the absolute abandonment of the Indians during the most important quarter of the year, the season of planting.</p>
+
+<p>I regret to say that the deficit above mentioned still remains unpaid for want of appropriation by Congress last winter to cancel the same, and has thereby worked a hardship upon us during the whole time that has intervened, as it has had the tendency to depreciate the credit of the service, as men hesitate to advance their means or give their time and energies to a work of indefinite return. Both contractors and employes have materially suffered from want occasioned by this delay. I sincerely trust that with the assembling of the next Congress the matter will meet with due consideration, and an appropriation sufficient to cancel the same will be made</p>
+
+<p>The financial record of the fiscal year ending June 30, 1875, presents the following: There was granted to me for the use and benefit of the Walker River and Pyramid Lake reservations, all told, incidental expenses Indian service, the sum of $10,454.39, currency, and for a new work among the western band of Shoshone Indians, near <placeName type="settlement" key="Carlin, NV">Carlin</placeName>, in <placeName type="state" key="Nevada">this State</placeName>, $2,100, currency. With this meager amount I was expected to provide clothing, blankets, supplies, subsistence, medicines, teams, farming utensils, seeds, &amp;c., and pay all salaries of the employes, traveling expenses of the agent, and for blacksmithing and repairs; in a word, all contingencies pertaining to the service. This, all will agree, was a pitiful sum to be appropriated for an agency embracing three separate and distinct enter-prises, widely separated from each other, and in a country where coin prevails and currency will only be received at the lowest quotation.</p>
+ 
+<p>By the strictest economy in every department, aiming always to make every dollar expended repeat itself in some important work, much has been done and satisfactory results have been realized, while no additional deficit has been created. Here let me make a statement which I consider pertinent to the occasion, (and if the rule had been carried out in the past, I, for one, should have avoided the embarrassment occasioned by the deficit of 1874, mentioned above,) which is this: when appropriations are made for any given service, the agent in charge of said service, should, in my opinion, be apprised of the amount upon which he could rely, and thus he could be enabled to make his calculations accordingly, and thereby, not as in the past with myself, be entirely in ignorance and at the mercy of an uncertainty. It certainly can do no harm to afford the agents this desirable information; for they do not have in their power to recklessly draw upon the funds appropriated, while with a knowledge of the above facts they may apportion to each quarter as circumstances demand, and thus accomplish a greater amount of good, and at the same time avoid indebtedness.</p>
+ 
+<div2>
+<head type="sub">ISSUE OF RATIONS</head>
+
+<p>has been conducted on the same plan as from the first by me, only to Indians performing a work corresponding with the value of the issue, and to the sick, infirm, and aged. This plan, now being well understood by the Indians, occasions no evidences of dissatisfaction by the indolent, and is really the only true method to observe in civilizing the Indians or protecting the Government funds.</p>
+</div2>
+
+<div2>
+ 
+<head type="sub">ENROLLING OF THE INDIANS</head>
+
+<p>has been observed so far as the beneficiaries are concerned, and though by reason of the small appropriations made for the Nevada service a large portion of the Indians of the State are not personal recipients of food and clothing from our hands, yet the larger portion of this class are fully able to provide for themselves by their work, which is demanded in all the departments of labor throughout the State, and which, if denied, would occasion hardship to many citizens in certain localities, as without Indian help laborers would be scarce.</p>
+
+</div2>
+<div2>
+ 
+<head type="sub">THE SANITARY CONDITION.</head>
+ 
+<p>of the Indians has been generally good, though a number of cases of sickness have occurred on the Pyramid Lake and Walker River reservations, in a few instances resulting fatally. Among the Shoshones, near <placeName type="settlement" key="Carlin, NV">Carlin</placeName>, considerable sickness prevailed during the summer, increased somewhat by the want of suitable medicines, which were asked for in proper time, but for reasons unknown to myself were long in reaching us. We ought to have a physician for this service, but have little hope that an appointment would be made, from the fact that the appropriations are meager, and though I have really three interests to care for, no allowance is made for the fact, because all are under one management, and therefore subject to the limit prescribed by law for an agency.</p>
+</div2>
+  
+<div2>
+
+<head type="sub">THE SELF-SUPPORTING INDIANS</head>
+  
+<p>have not decreased in number since my last report, and though entirely shut out from receipts of supplies, have manifested an ambition worthy of the labor and means bestowed upon them in the past. I have endeavored to keep them well supplied with farming utensils, though their requests have been few. I should be pleased to have the enemies of the <q>"policy"</q> look at some of the farms made in the three or four years past, and now providing employment and support to the Indian residents. I think their opposition would be removed, and they would decide that it is really worth while to make an effort for their civilization.</p>
+
+</div2>
+ 
+<div2>
+ 
+<pb n="842" xml:id="mmm.doc.bateman.1875.842" />
+ 
+<head type="sub">THE TROUT-FISHERIES</head>
+ 
+<p>have afforded their full share of employment and profit to the Indians during the past year, and through the traffic carried on by them in this department, another good besides the money-consideration has been the result.</p>
+ 
+<p>The Indians are being educated in business transactions, and now, with scarcely and exception, those upon the reservations can readily give correct weights and aggregate the coin-value of their sales. This fact holds good in regard to the disposition by the Indians of their hay and grain. Weights, prices, and aggregate returns are now, with the larger number, so thoroughly familiar, that they are independent of assistance to the protection against frauds ; and right here let me repeat what I said in my last annual report, but may not be universally understood, that all hay cut and secured by the Indians, together with all grain raised and fish caught, is wholly controlled by the Indians doing the work, and they receive all money paid from the sales thereof ; the Government agent and employes not with-holding one dollar or pound for any purpose whatever.</p>
+ 
+</div2>
+
+<div2>
+  
+<head type="sub">THE BUILDING OF HOUSES</head>
+ 
+<p>has gained interest among quite a number the past year ; and it is apparent that there is a growing desire to abandon the campoodies for the permanent abodes of their white neighbors. True, some of their attempts are rude in appearance, but bespeak an ambition for something better yet in the future.</p>
+ 
+<p>Large reservations are not, in my opinion, conducive to the civilization of Indians. If they are to be brought under military rule, it no doubt is desirable to have the largest possible number together, as they will thereby be the more easily guarded; but to civilize with the greatest rapidity and surest success, the same can be accomplished by having not to exceed a few hundred in any location, and upon a territory which can be brought under cultivation and made available to the support of those that cultivate the soil-said territory so divided into small farms that each Indian family can bestow their personal labor, and realize that every improvement they make will contribute to their permanent and individual good. One thousand acres of this kind is infinitely more valuable for Indian purposes than ten times the amount embracing worthless area, as the former may be continually under the watch and care of the superintendent, while in the latter case it is quite impossible to protect and guard from encroachment and do justice to the laborers by daily presence and instruction. Again and again I have recommended the reduction of the territory embraced in the Pyramid Lake and Walker River reservations, and every year I remain in this service the benefit that would arise from said reduction becomes more apparent, for the following as well as many other reasons that time and space will not allow me to give in this report:</p>
+ 
+<p>First. The large area embraced in these reservations misrepresents us abroad, there being in the original survey 640,000 acres, while not to exceed 10,000 acres, all told, is of any value whatever for Indian purposes. If all of the territory north of the island, embraced in the area belonging to the Pyramid Lake reservation, and all of the territory south of ten miles from the agency-house on the Walker River reserve was cut off, it would be infinitely better for the service, and said reductions would not diminish the tillable land one acre. In fact hundreds o acres that would still remain would he entirely worthless, embracing area of deserts, mountains, and lakes. I deem it important to embrace much that is comparatively worthless in order to monopolize the fisheries and prevent encroachments.</p>
+ 
+<p>Second. I would urge for the reduction of reservation territory to what is of practicable want, from the fact that by reason of the late decision <q>" that Indians have no fee to the lands,"</q> they cannot be benefited by a larger area of territory than personal farming, herd-lug, and fishing interests include.</p>
+ 
+<p>Third. While so large and unnecessary territories are reserved there will ever be, no doubt, legislation in the States and Territories where said reserves are made for their abandonment, on the plea that too much territory is diverted from its proper line, to the injury of local interests, such as mining, herding, and other departments which promote immigration.</p>
+ 
+<p>This was the case last winter in the <placeName type="state" key="Nevada">Nevada</placeName> legislature, when a concurrent resolution and memorial was presented to Congress in reference to the immense tract in the southeastern part of this State selected by Mr. <persName key="Ingalls, George W.">Ingalls</persName>; a tract in itself larger than some whole States of the Union; twenty times larger than needful for all the Indians in that portion of the country. Happy was it for the succeeding agent when Congress ignored the original and directed the location of one containing 1,000 acres only.</p>
+ 
+<p>The question of military government for the Indians is the much-mooted theme of the day, and the authorities at <placeName type="state" key="Washington, D. C.">Washington</placeName> are urged to surrender the <q>"peace policy"</q> and refer the whole care of the nation's wards to the War Department, as a measure eminently adapted to the well-being of that class and a sure preventive against frauds, while at the same time it will result in a final settlement of this very vexed question. * * * I have to say that I have no controversy to wage with the military, and, so far as I am aware, I have always enjoyed their confidence, and since entering upon the duties of my office in <placeName type="state" key="Nevada">Nevada</placeName> have had frequent occasions to confer with the military commander of the Department of the Pacific and the members of his staff, and nothing but the most pleasant relations have existed. At any and all times when it seemed necessary to refer to the military for aid in preventing what seemed to be ominous of future trouble, there has been no hesitancy on the part of the commanding general to respond to such notification; for all of which I am very grateful. I
+ 
+<pb n="843" xml:id="mmm.doc.bateman.1875.843" />
+
+have never had but two cases come to my notice during my administration in <placeName type="state" key="Nevada">Nevada</placeName> where the military were deemed absolutely needful in regulating the conduct of the Indians, and both of these cases were by Indians off the reservations, and discarding any connection with or claims upon the Government patronage.</p>
+ 
+<p>The first, which occurred in 1872, at <placeName type="settlement" key="Stillwater, NV">Stillwater</placeName>, which brought a detachment under command of Maj <persName key="Tidball, John Caldwell">J. C. Tidball</persName>, might have been avoided if the citizens had been a little more deliberate iii their investigations and less extravagant in their reports.</p>
+ 
+<p>The second case was in 1874, when the citizens of <placeName type="settlement" key="Wadsworth, NV">Wadsworth</placeName> were aroused against a troublesome Indian, and the military arrested and confined him for a short time, then paroled him on promise of good behavior; which arrest proved a lasting blessing to the community and sufficient warning to the Indians, and established the fact that the strong arm of the military is sometimes absolutely needful in preventing trouble where, as a general thing, no military is needed.</p>
+ 
+<p>Again, there may be times when the military will be in demand to prevent encroachments upon the reservations, for scarcely an Indian agency can be found that is not subject to annoyances from a class of trespassers who ignore the fact that Indians have rights which should be respected ; and outside of the military I for one -recognize the truth that in a large measure the agents are powerless to restrain the class above mentioned.</p>
+ 
+<p>It has been suggested that an armed police-force from among the Indians themselves would be an efficient aid to the agent in cases like the above mentioned ; also in sustaining order and discipline among the Indians ; but to my mind such a measure would be wholly impracticable in the <placeName type="state" key="Nevada">Nevada</placeName> Indian service, and could only result in jealousy and opposition. It is true that friendly Indians have in some cases supplemented the efforts of the military to entire satisfaction ; but, if my advisers are correct, in every case where Indians have been thus employed they have been under the direction of efficient military leaders.</p>
+ 
+<p>With these facts presented, showing the necessity at times for military intervention,. I do most conscientiously enter my protest against referring the management and care of the semi-civilized tithes to the military department, (there should always be a just discrimination made between those at war and the peaceable Indians ; for instance, the government of the warlike Sioux should be different to that of the docile Pah-Utes, or that for the savage Comanche to the educated and Christian Indians of the consolidated nations in the Cherokee country,) from the fact that the military do not want such care, if I am rightly informed. Besides, it is not the province of that department to perform the work demanded and the work absolutely needful, if we do justly toward the remnants of those whom we have despoiled of their country. In my humble opinion, to place the tractable and peaceable Indians under military rule, and let them feel that upon the slightest provocation the sword will be drawn against them, will only have a tendency to blunt their sensibility to right, and discourage endeavors to progress. Declare martial law in any part of the country, and for the time-being progress is at an end, unrest predominates, and long after the cause is removed the prejudicial effects remain.</p>
+ 
+<p>Again, how much is expected in the line of education of Indians from the military? How many Indians were educated to read, to plow, or build permanent abodes when the military had control? To me it seems but folly to talk of the education of Indians or any one else in the arts of civilization by a department that was created for war. Every soldier knows that when the word <q>" Fall in ! "</q> is given it does not mean to read or plow, or teach some one else to read and plow, but to drill, to march, to fortify, to fight; and only when extermination of the Indians is the watchword of the nation will it be, in my humble opinion, the legitimate business of the War Department to wholly control the Indian service.</p>
+ 
+<p>Then, I submit, there would be nothing gained in an economical point by the transfer. At present the Army is reduced to the lowest minimum, and at the best the necessary demands for improvements upon fortifications, bespeaking the security of the nation, is laborious. What must be the additional care and responsibility if the work of another department is thrust upon them ? Surely a demand for men would be the inevitable result ; and is it just or fair to discuss whether more honest recruits would be found than those selected with care from the different religious denominations of the country, who are, in a large measure, responsible for the conduct of the nominees ? It is urged that frauds are the order of the day in the Indian service, and needful reform is the question of paramount importance. Well, frauds may be perpetrated in some instances by certain parties. I know that it is not universal, and it is unjust in the highest sense to charge guilt upon the whole body because there may be individual exceptions of unprincipled and dishonest men under appointment.</p>
+ 
+<p>Without arrogating to myself superior wisdom in the matter, I have in mind a plan which, if carried out, would unquestionably meet the exigency, and preclude the opportunity arising to misapply the funds designated for the Indian service, even if there was a disposition to do so. The proposition is made upon the presumption that the public verdict is correct; that the military is immaculate, and thus incapable of dishonesty in any degree, a decision that I shall not attempt to question. The plan is to let the present humane policy be continued, and the many favorable results gained through the administration of said policy be an incentive to persistent efforts in the future; and in place of having a separate contract-system for the Indian Department, let the superintendents and agents make requisitions for supplies, subsistence, and medicines directly upon the Army quartermasters, commissaries, and purveyors. This course pursued, all opportunity for charging fraud upon the officers of
+ 
+<pb n="844" xml:id="mmm.doc.bateman.1875.844" />
+ 
+the Indian service would he removed, as their disbursements, outside of the above named, would be trifling. To those who are conscientiously laboring for the good of the Indians, the above plan would be no hardship, but a welcome relief, as it would dissipate suspicion against them.</p>
+
+</div2> 
+
+<div2>
+ 
+<milestone unit="section" rend="horbar"/>
+
+<head type="sub">THE STATE AUTHORITIES.</head>
+ 
+<p>It affords me gratification to record the kindness of his excellency Governor <persName key="Bradley, Lewis R.">Bradley</persName>, as well as other officers of the <placeName type="state" key="Nevada">Nevada</placeName> State government, during the past year. Their co-operation is invaluable to a superintendent or agent, not only in suppressing unjust and harmful legislation, but in sustaining and vitalizing the efforts for the civilization of the Indians ; and while the General Government is responsible for their care, I think it would in many cases be advisable to concur with the State authorities in general plans of management of the Indians within their individual jurisdictions, as they are unquestionably more familiar with the customs and necessities of the local tribes than are officers more remote.</p>
+ 
+<p>Then, as the question of civilizing is not, nor should it be, in any sense a political question, it is just that all parties should unite with all Christian denominations throughout the country in hastening the day when the name savage should not apply to any class upon American territory.</p>
+ 
+</div2>
+
+<div2>
+
+<head type="sub">SPECIAL WORK.</head>
+  
+<p><seg type="Context" subtype="IndianRelationsUS">During the autumn of 1874, I was visited occasionally by Indians from the western band of Shoshones in the northeastern part of the State. As their visits became more frequent, it was apparent that there was a growing desire on their part to duplicate the system inaugurated by us among the Pah-Utes, for they began to ask that I should locate them a reservation on lands upon which they could make permanent homes; then they asked for seeds, and finally for farming-utensils and other supplies. I finally referred the matter to the Department and intimated a willingness to do what I could on my part for that tribe of Indians. The result was that the Department placed to my credit a small amount of money to be used for the de-sired end among the Indians above mentioned. I appointed a farmer, who assisted in the selection of a piece of unoccupied territory in a small fertile valley, easily irrigated, some twenty-six miles north of the town of <placeName type="settlement" key="Carlin, NV">Carlin</placeName>, in <placeName type="state" key="Nevada">this State</placeName>; and, though late in beginning, no other work in the State has been more fruitful in its returns; no finer fields of wheat and potatoes are to be found in the country than I was permitted a few days ago to look upon along Coyote Creek, the result of the first season's effort in farming</seg>.</p>
+ 
+<p><seg type="Context" subtype="IndianRelationsLDS">Some annoyance, however, has occurred during the summer by runners from <placeName type="state" key="Utah Territory">Utah</placeName> inviting the Indians to come to that Territory and be washed, as they expressed it. Many were the promises made to them if they would go, while our Indians testify that the invitations were general thoughout the State, and some developments prove conclusively that there were among the Mormon leaders other motives than simply religious. The late indications near <placeName type="settlement" key="Corinne, UT">Corinne</placeName>, and those still later in Eastern <placeName type="state" key="Nevada">Nevada</placeName>, which are not entirely settled yet, may, upon investigation, show corruption akin to the spirit, actuating the famed Mountain Meadow massacre.</seg></p>
+ 
+<p>Mr. Palmer, the farmer, has been indefatigable in his efforts to make the first year a success, and has succeeded. A man of less firmness and decision might have failed in retaining the Indians when such glowing promises were made if they would come over to <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+</div2>
+
+<div2>
+
+<head type="sub">DETACHED SERVICE.</head>
+ 
+<p>During the month of April last I received a communication from United States Indian Inspector <persName key="Vandever, William">Vandever</persName> directing me to accompany United States Indian Agent <persName key="Barnes, A. J.">Barnes</persName> to the southeastern part of the State to assist in the selection and location of 1,000 acres for a reservation for the Indians in that section. * * * * * Without unnecessary delay, I proceeded to make a selection of land for the new reservation, according to letter of instructions and act of Congress, resulting in the location of the same in a valley near the head of the <geogName type="waterway" key="Mopa River">Moapa River</geogName>, a place most admirably adapted to the wants of Indians, being extremely fertile, easily irrigated, and well protected from probable encroachments.</p>
+ 
+<p>The additional labor and traveling consequent upon accomplishing the above work at a time when in that southern country the heat was intense, was not inconsiderable, but I do not regret it. Having presented the name of my worthy colleague for appointment to that agency in <placeName type="state" key="Nevada">Nevada</placeName>, I was more than willing to aid him in his inauguration in the Indian service, or by any means contribute, to his encouragement, assured that in the man the Indians would find a true friend, the Department a faithful agent, the citizens a worthy associate, and myself a harmonious co-worker.</p>
+ 
+<p>In conclusion I have to say that in the foregoing report I have endeavored to canvass matters of chief importance to the service.</p>
+ 
+<p>Trusting that the future government of the Indians will be as in the past and much more efficient,</p>
+ 
+<closer><salute>I am, very respectfully, your obedient servant,</salute>
+<signed><persName key="Bateman, Calvin A.">C. A. BATEMAN</persName>,<lb/>
+United States Indian Agent, <placeName type="state" key="Nevada">Nevada</placeName>. </signed>
+
+<signed>Hon. <persName key="Smith, Edward Parmelee">E. P. SMITH</persName>,<lb/>
+Commissioner of Indian Affairs.</signed>
+</closer>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

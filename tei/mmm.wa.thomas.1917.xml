@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.thomas.1917">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Wild Life in the Rocky Mountains</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>D.</forename> <forename type="middle">K.</forename> <surname>Thomas</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.thomas.1917</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>            
+            <notesStmt>
+                <note type="project">This record contains Chapter 16 pgs 118-128. </note>
+            </notesStmt>            
+            <sourceDesc>                
+                <bibl>
+                    <title level="m" type="main">Wild Life in the Rocky Mountains: Or The Lost Million Dollar Gold Mine</title>
+                    <author><forename>D.</forename> <forename type="middle">K.</forename> <surname>Thomas</surname></author>
+                    <publisher>C.E. Thomas Pub. Co.</publisher>
+                    <pubPlace>N. p.</pubPlace>
+                    <extent>118-128</extent>
+                    <date when="1917">1917</date>
+		    <note type="source">D. K. Thomas. <hi rend="italic">Wild Life in the Rocky Mountains, or, The Lost Million Dollar Gold Mine</hi>. N. p.: C. E. Thomas Pub. Co., 1917. 118-28.</note>
+                </bibl>
+            </sourceDesc>            
+        </fileDesc>        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>        
+        <revisionDesc>
+            <change when="2011-02-16"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-07-15"><name>Stephen Pipkin</name> Initial Encoding
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div1 type="chapter">
+
+<pb n="118" xml:id="mmm.wa.thomas.1917.123"/> 
+  
+<head>CHAPTER XVI
+<hi rend="smallcaps">THE MOUNTAIN MEADOW MASSACRE &#8212; AN ENTIRE
+WAGON TRAIN WIPED OUT</hi></head>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> seemed to lose his power and
+influence in the Church after the Mountain Meadows
+massacre. This happened previously to the disruption
+in the Church and was, indeed, one of the main
+causes of the trouble. <seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Young, Brigham">Brigham Young</persName> was supposed
+to be one of the main instigators of that awful crime.</seg>
+The following is the report of the massacre taken from
+the <placeName type="state" key="Utah Territory">Utah</placeName> Magazine:</p>
+
+<!-- The Text in this quotation is also in Clampitt - Echos from the Rocky Mountains Chapter XXV --> 
+ 
+<q><p>"<seg type="Massacre" subtype="Dates">In the summer of 1857</seg> a train of emigrants <seg type="Emigrants" subtype="StateAffiliationArkansas">from
+<placeName type="state" key="Arkansas">Arkansas</placeName></seg>, <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName>, entered <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName></seg>. <seg type="Massacre" subtype="Spoils">It was perhaps the wealthiest and most
+populous train that ever entered the valley, bound
+for <placeName type="state" key="California">California</placeName>. It numbered nearly one hundred
+fifty persons, men, women and children; four hundred
+head of cattle and seventy&#8212;five horses. It was a rich
+train and carried money, jewelry, household goods,
+pianos, books, and fireside penates, with which to add
+comfort and beauty to their new homes on the Pacific.</seg></p>
+
+<p>"<seg type="Emigrants" subtype="Route">They were told that snows on the Sierras would
+prevent their passage by the northern route. They,
+therefore, resolved to pass down through the southern
+settlements of <placeName type="state" key="Utah Territory">Utah</placeName>, and enter <placeName type="state" key="California">California</placeName> by the
+southern route.</seg> It was not only a wealthy train but   
+
+<pb n="119" xml:id="mmm.wa.thomas.1917.124"/>
+	
+a highly respectable, peaceable, and Christian people,
+who frequently held religious services.</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">"Hitherto, <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName> had been the great
+recruiting station on the barren road to <placeName type="state" key="California">California</placeName>. 
+Jaded and weary trains of men and animals found
+rest and recuperation in this oasis of the desert high
+way. To their great surprise, <seg type="Emigrants" subtype="StateAffiliationArkansas">this <placeName type="state" key="Arkansas">Arkansas</placeName> train</seg>
+found, on reaching <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName>, that nothing could
+be procured from the Mormons for love nor money.
+Their gold and silver, their cattle, nor aught that they
+possessed, could purchase sufficient food to keep them
+from starvation. Not only were they denied food but
+rest. They were peremptorily ordered to break camp
+on the Jordan and depart from <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName>. Wearily they passed down through the villages that
+blossomed at the foot of the Wasatch, each proving as
+inhospitable as the other.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">"The corn had ripened, the grain had all been
+harvested, every granary was filled to repletion, for
+the year had been exceptionally proline; yet money
+had lost its purchasing power, for everywhere food
+was denied. At <placeName type="settlement" key="American Fork, UT">American Fork</placeName>, <placeName type="settlement" key="Battle Creek, UT">Battle Creek</placeName>, <placeName type="settlement" key="Provo, UT">Provo</placeName>,
+<placeName type="settlement" key="Springville, UT">Springville</placeName>, <placeName type="settlement" key="Spanish Fork, UT">Spanish Fork</placeName>, <placeName type="settlement" key="Payson, UT">Payson</placeName>, <placeName type="settlement" key="Nephi, UT">Nephi</placeName>, and <placeName type="settlement" key="Fillmore, UT">Fillmore City</placeName> they received the same harsh treatment.
+And, not until their arrival in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> in a famished condition were they able to obtain a pound of
+grain for man or beast. The command of authority
+had preceded them. The second in command of the
+church, <persName key="Smith, George A.">George A. Smith</persName>, the Prophet’s first counselor,
+had preached to the Mormons in every settlement,
+
+<pb n="120" xml:id="mmm.wa.thomas.1917.125"/>
+
+and, under pain of excommunication, had
+forbidden them to sell food or grain to the starving
+emigrants. At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, however, they managed
+to obtain sixty bushels of corn, which they had
+ground into meal at the mill. They then pushed on
+to <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> to recruit their stock before crossing the desert.</seg></p>
+
+<p>"<seg type="Massacre" subtype="Location"><seg type="Massacre" subtype="Battle">While encamped upon the grassy knolls at Cane
+Springs</seg>, <seg type="Blame" subtype="IndiansIndependently">they were suddenly attacked by what they
+presumed to be a large body of Indians</seg>, who <seg type="Massacre" subtype="Casualties">killed
+ten of their number</seg> and <seg type="Massacre" subtype="Spoils">ran off their grazing stock</seg>.
+But, forming a cordon of their wagons, behind which
+they fought desperately, each emigrant being well
+armed, they kept the enemy at bay for five days.
+<seg type="Massacre" subtype="Casualties">Every attempt to obtain water was met by slaughter.
+Two little girls, dressed in pure white, were sent
+down to the spring. Hand in hand they proceeded on
+their way, the way of death, for their tender innocence 
+did not protect them; their little bodies were
+riddled with bullets. A woman that attempted to
+milk a cow that had approached their inclosure was
+instantly shot to death.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS">"Unable to succeed by assault, these pseudo Indians
+now determined upon wicked strategy. <seg type="Massacre" subtype="Planning">The affidavit
+of the apostate Mormon Bishop, <persName key="Klingensmith, Philip">Philip Klingen
+Smith</persName>, relates that a regular military council was
+held in the town of Parowan, at which were present
+President <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, Colonel <persName key="Dame, William H.">Dame</persName>, commanding
+the Mormon Military Regiment, which had been
+called out to do the bloody work; Bishop <persName key="Lee, John D.">John D.</persName>
+  
+<pb n="121" xml:id="mmm.wa.thomas.1917.126"/>
+
+<persName key="Lee, John D.">Lee</persName>, its Major; Bishop <persName key="Higbee, John M.">Rigbee</persName> and <persName key="Smith, George A.">George A. Smith</persName>.
+<persName key="Lee, John D.">John D. Lee</persName> was also Indian agent for southern <placeName type="settlement" key="Utah Territory">Utah</placeName>
+and <seg type="Blame" subtype="IndiansLDSInfluence">he invited bands of Pahutes and Pahvents to
+accompany him in the cruel butchery to take place.</seg> 
+<seg type="Massacre" subtype="Surrender">It was planned that a flag of truce should be borne
+by white men, to offer to negotiate terms with the
+Indians and thus gain the confidence of the besieged.</seg></seg>
+<seg type="Massacre" subtype="Surrender">Accordingly a wagon containing white men with a
+white flag made its appearance before the lines of the
+besieged, who, beholding the faces of white men,
+hailed it with joy. This wagon contained <persName key="Haight, Isaac C.">J. B.
+Haight</persName>, <persName key="Lee, John D.">John D. Lee</persName>, Bishop <persName key="Higbee, Isaac M.">Rigbee</persName> and other
+Mormon dignitaries. They stated that they had come
+to offer aid to the emigrants and intercede in their
+behalf with the Indians, if they so desired. This offer
+was gladly accepted and the Mormons departed.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Spoils">"They returned soon after with the ultimatum of
+the Indians, that the emigrants should surrender all
+of their arms and property and return to the settlements 
+the way they came</seg>. In case they accepted
+these hard conditions the Mormons promised to conduct
+them safely to the settlements. <seg type="Context" subtype="IndianRelationsLDS">Placing implicit
+reliance in the good will and intentions of the Mormons,
+who were known to be at peace with the Indian
+tribes, cruel as were the terms</seg>, they were accepted
+by the famished emigrants; and, surrendering their
+arms and other property, they started on their march
+to the grave!</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"The arms, the wounded, and the children were
+placed in two wagons driven by Mormons. Behind
+
+<pb n="122" xml:id="mmm.wa.thomas.1917.127"/>
+
+them came the women marching in single file; a little
+back of them, the starved and worn out men; and,
+immediately in their rear, a guard of sixty Mormon
+militia. A mile from the Spring the road ran through
+a thicket of scrub oak and many rocks intercepted
+their way. <seg type="Blame" subtype="IndiansLDSInfluence">Here, by previous agreement, lay a band
+of Indians in ambush.</seg> <seg type="Massacre" subtype="Casualties">At this moment, <persName key="Lee, John D.">Lee</persName>, who
+marched between the wagons, discharged his gun,
+killing, it is said, a woman.</seg> It was the signal for the
+massacre. <seg type="Blame" subtype="IndiansLDSInfluence">The Indians sprang suddenly from behind
+the rocks and bushes, and, together with the Mormon
+guard, began the work of horrible massacre.</seg> <seg type="Massacre" subtype="Casualties">Old
+men and young, pitiable women with babes in their
+arms, youths and maidens, all were alike butchered
+by the remorseless <seg type="Blame" subtype="IndiansLDSInfluence">red and white demons</seg>. Hell hath
+no record upon its avenging pages that can compare
+with this unpitying crime. The prayers of men, the
+tears and wails of women fell upon unheeding ears.
+Sick mothers, too ill to leave the wagons, were
+dragged therefrom and their throats cut from ear to
+ear. Little girls were slaughtered like sheep in the
+shambles, and venerable gray&#8212;haired clergymen while,
+kneeling in prayer. The fury of perdition seemed to
+seize upon the slayers. One young man, <persName key="Pierce, James">James Pierce</persName>,
+was shot by his own father for protecting a young,
+beseeching girl who lay crouched at his feet. A
+beautiful young girl threw herself into the arms of
+the son of <persName key="Lee, John D.">John D. Lee</persName>, who attempted to shield
+her with his own body. His inhuman father bent his
+head aside and plunged his dripping dagger into her
+young heart. All of the little children were killed
+
+<pb n="123" xml:id="mmm.wa.thomas.1917.128"/>
+
+save <seg type="Massacre" subtype="Survivors">those too young to remember</seg>.</seg> Such was the
+order. <seg type="Massacre" subtype="Survivors">Fifteen alone survived, the eldest but two
+and a half years old.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"In an incredibly short space of time <seg type="Massacre" subtype="Casualties">one hundred
+twenty&#8212;eight men, women and children, unarmed
+and defenseless, weak, weary, worn and famished,
+were butchered</seg> by those inhuman monsters who,
+<seg type="Massacre" subtype="Surrender">under the guise of friendship and human sympathy,
+had decoyed them into this terrible slaughter pen.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">"Eight days after the massacre people who visited
+the field of death saw the bodies of the slain strewn
+upon the ground and heaped in piles. Some were
+stabbed, many shot, while others, principally women,
+had their throats cut. The wolves and ravens had
+lacerated the bodies of all save one, that of a beautiful, 
+well&#8212;formed woman with long flowing locks of
+hair. For some unexplained reason her body had
+escaped the print of wolves’ teeth. A single bullet
+had pierced her side. There was no clothing left on
+any of the bodies, save one torn stocking which clung
+to the ankle of one of the men; <seg type="Massacre" subtype="Spoils">their bloody clothing
+having been torn from their mutilated bodies and
+sold at auction <seg type="Blame" subtype="LDS_LDS">by the order of the church authorities
+at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName>.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">"Most of the bodies had been thrown into three
+piles, distant two and a half rods from each other.
+The most signiicant fact connected with the dead
+was that not a scalp was taken. Those acquainted
+with Indian character know full well their savage
+instincts. After <seg type="Massacre" subtype="Battle">a continuous battle of five days</seg>,
+resulting finally in the capture and slaughter of their
+
+<pb n="124" xml:id="mmm.wa.thomas.1917.129"/>
+
+foe, does it hold to reason that not a scalp should be
+taken! The inference follows swift and sure. Had
+revenge been their object, scalps would have been
+taken. As it was, not a trace of the scalping knife
+could be discovered."</seg></seg></seg></p></q>
+
+<p><seg type="Blame" subtype="LDS_LDS">For the whole year following, this revolting crime
+was kept secret, locked up within the mountain walls
+of <placeName type="state" key="Utah Territory">the Territory</placeName>. When finally their bodies were
+discovered and the ghastly deed made known, it
+sent a thrill of horror throughout the world. <seg type="Blame" subtype="IndiansIndependently">When
+secrecy was no longer available the Mormons 
+declared it to be the work of savages. <persName key="Young, Brigham">Brigham Young</persName>,
+as superintendent of Indian affairs in the Territory,
+sent a report to the Department at <placeName type="settlement" key="Washington, DC">Washington</placeName>
+alleging it to be the work of hostile Indians.</seg>
+<seg type="Context" subtype="PrattMurder"><seg type="Blame" subtype="LDS_LDSRetribution">It was declared to be the organized work of 
+Mormon authorities, who sought to revenge themselves
+upon the people of <placeName type="state" key="Arkansas">Arkansas</placeName> for the killing of <persName key="Pratt, Parley P.">Parley
+B. Pratt</persName> by <persName key="McLean, Hector">McLean</persName>, whose wife <persName key="Pratt, Parley P.">Pratt</persName> had succeeded
+in proselyting and who afterwards became one of
+his wives at <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName>.</seg> Pining for her children,
+she induced <persName key="Pratt, Parley P.">Pratt</persName> to accompany her back to
+<placeName type="state" key="Arkansas">Arkansas</placeName> in the hope of obtaining them from her 
+husband; but who, incensed at the robbery of his
+wife and the attempted abduction of his children, fell
+upon <persName key="Pratt, Parley P.">Pratt</persName> and killed him while he was trying to
+escape.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">The little children whose lives had been spared
+were, two years after, by the order of the United
+States authorities, gathered from the Mormon families
+in which they had been placed and sent to their
+
+<pb n="125" xml:id="mmm.wa.thomas.1917.130"/> 
+
+friends at home.</seg> Two years after the Mountain
+Meadow massacre the United States goverment
+established a military camp north of the city on a
+high bench overlooking the city, which was named
+Camp Douglass, at which camp a regiment of soldiers
+was stationed under the command of General <persName key="Connor, Patrick">Connors</persName>.
+<seg type="Blame" subtype="LDS_LDS">After this fewer murders were committed in
+<placeName type="state" key="Utah Territory">the Territory</placeName>. <seg type="Blame" subtype="IndiansIndependently">Seldom, if ever, was an emigrant
+train attacked and robbed, which the Mormons had
+always claimed was done by the Indians.</seg> <persName key="Young, Brigham">Brigham
+Young</persName>’s <q>"Destroying Angels"</q> seemed to go out
+of business.</seg></p>
+
+<p>The Mormon General Conference, which convenes
+twice a year, was in session the week that <persName key="Thomas, D. K.">Thomas</persName> and
+party were in <placeName type="settlement" key="Salt Lake City, UT">Salt
+Lake City</placeName>. Large numbers of
+Mormons were in attendance from all parts of <placeName type="state" key="Utah Territory">the
+Territory</placeName>. Much information was, therefore, gained
+by them in regard to Mormonism and of <persName key="Young, Brigham">Brigham
+Young</persName> and his numerous wives.</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName>, the Prophet and President of the
+Mormon Church, also the Governor of <placeName type="state" key="Utah Territory">the Territory
+of Utah</placeName>, was a large, broad-shouldered man five feet
+eight or ten inches in height. He had a large head
+and wore a full beard. He looked to be a man of
+strong will, not easily excited or discouraged. When
+seen on the street he looked different from most of
+the Mormon officials, especially in his dress. He wore
+a tall silk hat and black cloth clothes. He wore a
+gold watch and chain, and walked with a large 
+
+<pb n="126" xml:id="mmm.wa.thomas.1917.131"/>
+
+gold-headed cane. When he stopped to talk with anyone
+on the street he seemed to rest on his cane.</p>
+
+<p><seg type="Context" subtype="Polygamy">It was reported that he had over thirty wives;
+eighteen of them were his lawful and wedded wives.
+They were young women in years, ranging from sixteen
+to thirty. The rest of his wives were older
+women, who were sealed to him. Most of them were
+widows of Mormon officials. He was said to have a
+wife in nearly every town in <placeName type="state" key="Utah Territory">the Territory</placeName>. While
+traveling and attending to church and official duties,
+therefore, he could be at home with one of his wives
+every night. It was said that he had over one hundred
+children in his different homes.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">In traveling through the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, we
+found that there were not as many polygamous 
+marriages as had been reported. The number that were
+reported were among the wealthy class and the high
+officials of the church. They were required to pay a
+certain amount of tithing each year. Those who were
+not able to pay that amount were not considered able
+to support more than one family. There seemed to be
+much dissatisfaction and jealousy in most polygamous
+families. The first wife seemed to have control of 
+everything belonging to the family. The other wives
+could not buy or sell without her consent.</seg></p>
+
+<p><persName key="Thomas, D. K.">Thomas</persName> and <persName key="Woodbury">Woodbury</persName> attended the Mormon Conference and <persName key="Young, Brigham">Brigham Young</persName>’s Theatre. The
+Tabernacle being too small to hold the large number
+of saints who attended the meetings, a place was
+prepared for out&#8212;of&#8212;door meetings along and east of
+
+<pb n="127" xml:id="mmm.wa.thomas.1917.132"/>
+
+the Tabernacle. Seats for several thousand people
+were prepared. A covering for shade was constructed
+out of forks, poles and pine branches. At the north
+end of the ground, a stand was erected large enough
+to seat all of the officials and the twelve apostles of
+the church.</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> being indisposed, <persName key="Kimble, Heber C.">Heber C. Kimble</persName>,
+the vice&#8212;president, presided and made the first talk.
+He did not announce any text, and his talk was
+mainly abusing the Gentiles and lauding the saints.
+It was more like a political meeting than a religious
+gathering. When he became tired of abusing the 
+Gentiles and commenced praising the saints, his talk was
+frequently interrupted by <q>"amens"</q> from the entire
+congregation. One old lady, apparently about four
+score and ten years of age, in order to make it more
+emphatic, arose to her feet to say <q>"amen,"</q> which she
+repeated several times.</p>
+
+<p>All of those who do not belong to the Mormon
+Church are Gentiles. All of the speakers who 
+followed <persName key="Kimble, Heber C.">Kimble</persName> spoke along the same lines. The
+speakers frequently asked those present to sanction
+what they said by saying <q>"amen,"</q> which they
+heartily did.</p>
+
+<p>The people at the Theatre were much more quiet
+during the play and the order much better than at
+the Conference, owing, perhaps, to the strict rules
+posted on the outside as well as on the inside of the
+building. Police, moreover, were stationed in all
+parts of the building. Tickets for seats in all parts
+
+<pb n="128" xml:id="mmm.wa.thomas.1917.133"/>
+
+of the building were sold at the uniform price of one
+dollar. The play, given by a <placeName type="state" key="New York, NY">New York</placeName> company, was
+considered a good one.</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> occupied his box on the right side
+of the stage, and was accompanied by eight or ten
+young women, who were supposed to be some of his
+wives. <persName key="Kimble, Heber C.">Heber C. Kimble</persName>, the vice president, occupied
+a box on the left side of the stage, with a number of
+young women.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

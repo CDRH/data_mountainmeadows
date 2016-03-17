@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18660628">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Mistakes and Corrections</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.dn.18660628.xml</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Deseret News</title>
+		<title level="a" type="main">Mistakes and Corrections</title>
+		<title level="a" type="sub"></title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1866-06-28">June 28, 1866</date>
+	    </bibl>
+	</sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+		<textClass>
+		    <keywords scheme="original" n="category">
+		        <term>newspaper</term>
+		        </keywords>
+		    <keywords scheme="original" n="culpability">
+			<term>culpability</term>
+		    </keywords>
+		    <keywords scheme="original" n="sympathy">
+			<term>%sympathy</term>
+		    </keywords>
+		</textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enrichment</change>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+	<change when="2010-03-28"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.dn.18660628.001"/>
+
+<head>MISTAKES AND CORRECTIONS.</head>
+
+<p><seg type="Context" subtype="LDSPersecution">It has become very common to misrepresent the <q>"Mormons."</q> Some do it
+through malevolence and from malignant motives; many do it because misinformed or uninformed concerning them, and they are consequently very liable to make mistakes when treating on the subject of <q>"Mormonism."</q> Much,
+very much that is reported concerning us, comes from bitter, unscrupulous and
+avowed enemies. Those who are disposed to calumniate the Latter-day
+Saints, give publicity to all manner of slanderous tales concerning them. This
+is very true, and we cannot help it; still we are desirous that truth should be
+known and fairly stated; and for this purpose occasional notice is taken of articles
+which represent unfairly, that the public Mind may be disabused.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">Recently the <hi rend="italic">Mining Register</hi>, of <placeName type="settlement" key="Central City, CO">Central City</placeName>, <placeName type="state" key="Colorado">Colorado</placeName>, published a couple of articles concerning the <q>"Mormons,"</q> the first of which iterates certain slanderous statements, which have had publicity given them in the outset by individuals who 
+have been unscrupulous enough to say anything, no matter how untrue, that they imagined would operate
+against us. We give the editor credit for being misinformed for two reasons;&#8212;firstly, because he
+has evidently been misinformed with regard to certain historical items alluded to in the article;
+and, as a natural inference, may be supposed to be on the statements which
+are there made; and secondly, because the other article does us the justice of
+quoting from a leader in the NEWS and from a sermon published in its columns,
+<seg type="Context" subtype="Polygamy">both the extracts expressing our own views on the question of plurality of wives.</seg></seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">We will simply say, by way of information, that the <q>"Mormons"</q> settled in <placeName type="settlement" key="Kirtland, OH">Kirtland</placeName>, <placeName type="state" key="Ohio">Ohio</placeName>, moved from thence to Missouri, and afterwards settled and
+built up the <placeName type="settlement" key="Nauvoo, IL">city of Nauvoo</placeName> in <placeName type="state" key="Illinois">Illinois</placeName>; and that they were driven from those
+places by mob violence, urged on by men calling themselves ministers of the
+gospel and by political intrigue. The priests who urged on the mob hated a
+religion which called upon men to preach the gospel <q>"without purse or
+scrip;"</q> and aspiring political demagogues when they could not secure the
+<q>"Mormon"</q> vote, thought they would prevent their political opponents from
+receiving it by stirring up the mob to drive them away.</seg></p>
+
+<p>We have never been <q>"robbers and horse thieves."</q> There are, most likely,
+evil disposed persons and individuals who are not honest in this as in every
+other community; but they are hot held in fellowship by the Latter-day Saints.
+Our religion teaches men to be honest, honorable, upright and God-fearing,
+and does not countenance evil of any kind. When we came and located in
+Utah there was no <q>"overland travel"</q> to <q>"prey upon,"</q> and if there had been, it
+is notorious that the <q>"Mormons"</q> are industrious beyond a parallel and live
+by their industry, not by preying upon any community, nor upon travel or
+travelers of any kind. <seg type="Context" subtype="WesternViolence">So far from there being any overland travel to prey upon
+when this Territory was settled by the Latter-day Saints, the country was a
+<cb n="2" />
+wild and unbroken one, where it was deemed impossible for white men to
+locate in any number, it being believed by those who were thought best able to
+know that the country where we now reside could not produce crops sufficient
+to sustain even the most limited population.</seg> There were no settlements in
+California at that time, and none further west than those which our people
+had made near the Missouri river. The gold discoveries of a little later were
+then undreamed of, and there was nothing to show that in the short space of
+nineteen years such an immense traffic would cross the plains as now yearly
+passes over them; nor that States and Territories would spring up so rapidly
+on the Pacific slope. We have dealt kindly, hospitably and fairly with the
+emigrant and the traveler, and too often have our kindness and hospitality been
+abused. But we did it and we continue to do it, for it is a part of our religion to
+deal justly by all men.</p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation"><seg type="Reaction" subtype="StateInvestigation">With regard to the Mountain Meadow massacre, to which allusion is made,
+we will simply say, that the <q>"Mormons"</q> have been ever anxious to have
+that matter thoroughly and honestly investigated; but those whose duty it
+was to do so, have, for reasons best known to themselves, declined to proceed in 
+the matter. <seg type="Blame" subtype="LDS_LDS">We think that they prefer allowing it to remain uninvestigated because
+it is the basis of an allegation against the <q>"Mormons,"</q> unproved, it is true;</seg> 
+and strict inquiry would remove the odium from the shoulders where it is now sought to be
+fastened. They may deem it better policy, on their part, to give the countenance of
+official sanction to that of which they are ignorant, than to inquire, and be compelled
+to deny a false allegation against innocent men.</seg></seg></p>
+
+<p>Our moral and social status, notwithstanding all that is said about us, is at
+last as high, and many who are even prejudiced against us admit it is much
+higher, than that of the other States and Territories in the Union. And we can
+tell all who are interested in the Latter-day-Saints, that to-day, with all the efforts of
+<q>"regenerators"</q> to introduce the corruptions and evils of so-called civilization in 
+our midst, there is less drunkeness, less brawling, less corruption, and
+less of those festering evils which sit like an incubus on the shoulders of the
+social body, to be found in this city and Territory, than are to be met with in
+any city of similar size on the continent, or among any similar number of its population.</p>
+
+<p>Our objects are, to live to do good, and to do good to live; and this we intend
+continuing to do, with the aid of the Almighty, no matter what may be said
+or done by those who are our enemies.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

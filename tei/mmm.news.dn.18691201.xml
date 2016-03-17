@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18691201">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Mountain Meadow Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.dn.18691201</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="a">MOUNTAIN MEADOW MASSACRE</title>
+		<title level="j">Deseret News</title>
+		<author>Editors</author>
+		<publisher>Deseret News</publisher>
+		<pubPlace>Salt Lake City, UT</pubPlace>
+		<date when="1869-12-01">1869-12-01</date>
+	    </bibl>
+	</sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="sympathy">
+		    <term>LDS</term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-08"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2007-04-30"><name>Douglas Seefeldt</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body><div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dn.18691201.001"/>
+
+<head>"MOUNTAIN MEADOW MASSACRE."</head>
+
+<opener>
+<dateline>Deseret News, <date when="1869-12-01">1 December 1869</date></dateline></opener>
+
+<p>In the delivery of the lecture "Six Months in Utah," by <persName key="St. Clair">Mrs. St. Clair</persName> on <date when="1869-11-23">Tuesday last</date> at the Theatre, there was an allusion made by the lecturess to what is knows as the "Mountain Meadow Massacre." There was nothing in her treatment of this point in her lecture that was offensive to her audience; but she evidently was unfamiliar with the facts, and as a general misapprehension exists abroad in relation to them, simple justice demands that they be correctly stated. <seg type="Coverage" subtype="LDS">Our silence upon this subject</seg> is frequently construed as an evidence of the inability of the people of <placeName type="state" key="Utah Territory">this Territory</placeName> to defend themselves against the cruel charges which have been made against them in connection with that tragedy.</p>
+
+<p>It is almost a pity to break this silence now, for there is a class of anti "Mormon" writers whose entire stock of trade consists of the "Mountain Meadow Massacre," and a few other acts of violence which have occurred in <placeName type="state" key="Utah Territory">this Territory</placeName>, and <seg type="Reaction" subtype="Anti-MormonAction">upon which they ring constant changes, holding the "massacre" over our heads somewhat as an old schoolmistress could a rod over a <choice><sic>naught </sic></choice> child</seg>. We scarcely know how these threats and menaces sound to people who live outside <placeName type="state" key="Utah Territory">this Territory</placeName>; but they only excite either amusement or contempt here where the facts are understood.</p>
+
+    <p>After <persName key="Cumming, Alfred">Governor Alfred Cumming</persName> had reached <placeName type="settlement" key="Salt Lake City, UT">this city</placeName> and was fairly installed in office&#8212;considerable having been said about the massacre of a company of emigrants at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> the previous Fall&#8212;<persName key="Young, Brigham">ex-Governor Young</persName> urged upon <persName key="Cumming, Alfred">the Governor</persName> and <persName key="Wilson, Alexander">U.S. District Attorney Wilson</persName> the propriety of taking steps to investigate this occurrence. In the wish for a thorough examination he was seconded by the entire community, for all felt that most cruel and unjust aspirations had been cast upon them. To render what aid he could <persName key="Young, Brigham">President Young</persName> proffered to go with the Federal officers to the vicinity of the outrage, and use every effort in his power to aid the matter to the uttermost, and discover the guilty ones. But this was no part of the policy of the Judges who were then here nor the attaches of the camp. Such a course would settle the question; but they were interested in keeping it open.</p>
+
+<p>At <placeName type="settlement" key="Provo, UT">Provo</placeName>, in the Spring of 1859, a Grand Jury on U S  business undertook the investigation of the "Mountain Meadow Massacre." They requested the <persName key="Wilson, Alexander">U S District Attorney, Mr. Wilson, a citizen of Pennsylvania</persName>, to be present with them and examine the witnesses. Two Indians, <persName key="Mose">Mose </persName>and <persName key="Looking-glass">Looking-glass</persName>, had been committed for the crime of rape perpetrated upon a white woman and her daughter, a girl of ten years. In the midst of the investigation of the Mountain Meadow case, <persName key="Cradlebaugh, John">the Judge, John Cradlebaugh</persName>, called the Grand Jury into the court room and administered to the members an abusive lecture, and summarily discharged them! At the same time, he turned the savages, <persName key="Mose">Mose </persName>and <persName key="Looking-glass">Looking-glass</persName>, loose upon the community. The Grand Jury protested, but in vain, against this unwarranted proceeding by the Court. <persName key="Wilson, Alexander">District Attorney Wilson</persName>, also reported that he was present at the deliberations of the Grand Jury, and, at the request of its members, had examined the witnesses and that the Jury were proceeding in the matter efficiently. Thus ended the attempt to have the transaction investigated judicially.</p>
+
+<p><seg type="Context" subtype="IndianRelationsUS">From the earliest years that white men traveled through the country now incorporated in the southern portion of this Territory and the northern part of Arizona, outrages upon the Indians were frequent</seg>. <seg type="Context" subtype="IndianRelationsUS">When <persName key="Frémont, John C.">Colonel Fremont</persName> passed through the southern desert in 1842, his party killed, without any provocation, several <orgName type="native" key="Paiute">Pah-Ute Indians</orgName> near the <geogName type="waterway" key="Virgin River">Rio Virgen</geogName></seg>. When <placeName type="state" key="New Mexico">New Mexico</placeName> was organized, <persName key="Calhoun, James S.">Governor Calhoun, Superintendent of Indian Affairs</persName>, recommended, to the Department at Washington, the extermination of the <orgName type="native" key="Southern Paiutes">Pah-Utes</orgName>. Emigrants passing through by <placeName type="trail" key="Southern Emigrant Trail">the southern route to California</placeName> had also frequently shot them whenever they came in sight. <seg type="Context" subtype="IndianRelationsLDS">To such an extent had this custom prevailed that when <persName key="Smith, George Albert">President Geo. A. Smith</persName> and party made the settlement at <placeName type="settlement" key="Parowan, UT">Parowan, Iron Country</placeName>, in January, 1851, then 200 miles from settlements on the North and upwards of 500 on the South, a delegation of <orgName type="native" key="Southern Paiutes">Pah-Utes</orgName> from <placeName type="state" key="New Mexico">New Mexico</placeName>, now <placeName type="state" key="Arizona">Arizona</placeName>, visited him and besought that the indiscriminate shooting of Indians by emigrants should cease, as they were disposed to be friendly and wished to trade with them</seg>. <persName key="Smith, George Albert">President Smith</persName>, of course, could only speak for his own people.</p>
+
+    <p><seg type="Blame" subtype="EmigrantBehavior">From all that is known respecting <seg type="Emigrants" subtype="WagonTrain">the company of <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName> emigrants</seg>, who were killed at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, <seg type="Encounter" subtype="TradeIndian">they conducted themselves in a hostile manner towards the Indians wherever they saw them</seg></seg>. At <placeName type="settlement" key="Corn Creek">Corn Creek, Millard Co.</placeName>, <persName key="Smith, George Albert">President George A. Smith</persName>, who was coming for a visit to the southern settlements in company with several friends, found <seg type="Emigrants" subtype="WagonTrain">a company of emigrants camped; they had about thirty wagons and a considerable herd of stock</seg>. He and his party crossed the creek and camped about forty yards from them. Three of the company visited his camp, and one was introduced as the Captain of the company. After inquiring where <persName key="Smith, George Albert">President Smith</persName> and party were from, he asked if there was any danger to be feared from the Indians who were camped near by. He was told that if his company had committed no outrage upon the Indians, there was no danger. <seg type="Encounter" subtype="Poison">Next morning early, while <persName key="Smith, George Albert">President S.</persName> and party were hitching up, the Captain of the emigrant company again joined them. He pointed to an ox which had died during the night, and wished to know if the Indians would eat the animal. He was told they would; that they were in the habit of eating cattle that died, and that if he would give it to them, they would be thankful. As President S. was starting, one of his party asked him what the Captain was doing over at the dead ox with a bottle in his hand. He replied that he was probably taking a drink</seg>.</p>
+
+    <p><seg type="Encounter" subtype="Poison">The Indians ate the ox and ten of their number died. It had, without doubt, been poisoned</seg>. A portion of these Indians were <orgName type="native" key="Pahvants">Pahvantes </orgName>and other were <orgName type="native" key="Southern Paiutes">Pah-Utes</orgName>, who lived in the vicinity of the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, and were on a visit to the <orgName type="native" key="Pahvants">Pahvantes</orgName>. <seg type="Encounter" subtype="Poison">There is reason to believe that this company poisoned the spring also, for thirty head of cattle which drank of its waters died with every symptom of poisoning. The <orgName type="native" key="Southern Paiutes">Pah-Ute Indians</orgName> who survived, returned home with the news of the death of their companions. But the company that had occasioned their death was not lost sight of</seg>. <seg type="Context" subtype="IndianRelationsUS">Another outrage had been added to the long list which had been accumulated from the days when Fremont had passed through their country</seg>, and <seg type="Massacre" subtype="Planning">they were resolved to wreak a terrible revenge. They rallied all the neighboring Indians</seg>, and <seg type="Massacre" subtype="Battle">when the emigrants reached "<geogName type="waterway" key="Cane Spring">Cane Spring</geogName>" in the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, they attacked them</seg>.</p>
+
+<p>After the attack was made <seg type="Coverage" subtype="Utah">the first intimation of it received at <placeName type="settlement" key="Parowan, UT">Parowan </placeName>was by Indian runners to <persName key="Oawanup">Oawanup, a chief</persName> of the <orgName type="native" key="Southern Paiutes">Pi-edes</orgName>, in that vicinity, who was summoned to assist them</seg>. From the <orgName type="native" key="Southern Paiutes">Pi-edes</orgName>, the citizens learned something about a difficulty between the Indians and a company of emigrants and succeeded in keeping them from joining the <orgName type="native" key="Southern Paiutes">Pah-Utes</orgName>. <seg type="Source" subtype="WordofMouth"><seg type="Massacre" subtype="RescueAttempt">Rumors still arriving that a battle was going on, a party of citizens from <placeName type="settlement" key="Cedar City, UT">Cedar </placeName>started for the <choice><sic>purposed</sic></choice> of relieving the travelers; but arrived too late</seg>. <seg type="Massacre" subtype="Survivors">They succeeded, however, in rescuing a few children, who had been preserved by the Indians, agreeably to their custom, when victorious, of keeping children to trade</seg></seg>.</p>
+
+<p>Another company, which was following the Arkansas company, fired upon <orgName type="native" key="Indians">some Indians near Beaver</orgName> and wounded one of them. The Indians appeared determined to destroy them, and they probably would have done so, had not <persName key="Dame, William">Col. Dame</persName>, of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, sent <orgName type="military" key="LDS Militia">a detachment of militia</orgName>, who pacified the <orgName type="native" key="Indians">Indians </orgName>to some extent, and guarded the company on their road some three hundred miles.</p>
+
+<p>The above is a brief outline of the circumstances connected with this massacre. <seg type="Reaction" subtype="FederalInvestigation"><choice><sic>the </sic></choice>determined policy of the enemies of the people of this Territory has been to not investigate this transaction. <seg type="Context" subtype="UtahWar">During the years 1858-9 an army of several thousand men were stationed in the Territory without any employment. The Federal Judges who were here at that time were the open and avowed enemies of the people, and is it probable that, with such a force to back them, if there had been the least probability of incriminating the "Mormons," they would have suffered so good an opportunity to pass? The fact is, the newspaper rumors concerning this affair answered a better purpose than investigation, in affording an excuse for keeping up the expense of sustaining troops where they were not needed.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="StateInvestigation">There has never been a time when <persName key="Young, Brigham">President Young</persName> and the people have not been ready to give every aid in their power to have this occurrence rigidly examined</seg>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.wilson.1903">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Lions of the Lord: A Tale of the Old West</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Harry</forename> <forename type="middle">Leon</forename> <surname>Wilson</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.wilson.1903</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Lions of the Lord: A Tale of the Old West</title>
+                    <author><forename>Harry</forename> <forename type="middle">Leon</forename> <surname>Wilson</surname></author>
+                    <publisher>Lothrop, Lee &amp; Shepard Co.</publisher>
+                    <pubPlace>Boston, MA</pubPlace>
+                    <extent>191-230; 242-248; 477-509</extent>
+                    <date when="1903">1903</date>
+                    <note type="source">Harry Leon Wilson. <hi rend="italic">The Lions of the Lord: A Tale of the Old West</hi>. Boston, MA: Lothrop, Lee &amp; Shepard Co., 1903. 191-230; 242-248; 477-509.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2012-02-28"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting
+            </change>
+            <change when="2010-12-06"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+
+<div1 type="chapter">
+
+<pb n="191" xml:id="mmm.fiction.wilson.1903.204"/>
+
+<head>CHAPTER XV.</head>
+
+<head><hi rend="italic">How the Souls of Apostates Were Saved</hi></head>
+
+<p>THE Wild Ram of the Mountains had spoken truly; there was work at hand for the Sons of Dan. When his Witness at last came to Joel Rae, he tried vainly to recall the working of his mind at this time; to remember where he had made the great turn&#8212;where he had faced about. For, once, he knew, he had been headed the way he wished to go, a long, plain road, reaching straight toward the point whither all the aspirations of his soul urged him.</p>
+
+<p>And then, all in a day or in a night, though he had seen never a turn in the road, though he had gone a true and straight course, suddenly he had looked up to find he was headed the opposite way. After facing his goal so long, he was now going from it&#8212;and never a turn! It was the wretched paradox of a dream.</p>
+
+<p>The day after <persName key="Young, Brigham">Brigham</persName>'s sermon on blood-atonement, there had been a meeting in the Historian's
+office, presided over by <persName key="Young, Brigham">Brigham</persName>. And here for the first time Joel Rae found he was no longer
+
+<pb n="192" xml:id="mmm.fiction.wilson.1903.205"/>
+
+looked upon as one too radical. Somewhat dazedly, too, he realised at this close range the severely practical aspects of much that he had taught in theory. It was strange, almost unnerving, to behold his own teachings naked of their pulpit rhetoric; to find his long-cherished ideals materialised by literal-minded, practical men.</p>
+
+<p>He heard again the oath he had sworn, back on the river-flat: <hi rend="italic">"I will assist in executing all the decrees of the First President, Patriarch, or President of the Twelve, and I will cause all who speak evil of the Presidency or Heads af the Church to die the death of dirsenters or apostates&#8212;"</hi> And then he had heard the business of the meeting discussed. Decisions were reached swiftly, and orders given in words that were few and plain. Even had these orders been repugnant to him, they were not to be questioned; they came from an infallible priesthood, obedience to which was the first essential to his soul's salvation; and they came again from the head of an organisation to which he was bound by every oath he had been taught to hold sacred. But, while they left him dazed, disconcerted, and puzzled, he was by no means certain that they were &#8212; repugnant. They were but the legitimate extension of his teachings since childhood, and of his own preaching.</p>
+
+<p>In custody at <placeName type="settlement" key="Kayesville, UT">Kayesville</placeName>, twenty-live miles north of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, were six men who had been arrested by church authority while on their way east from <placeName type="state" key="California">California</placeName>. They were suspected of being
+
+<pb n="193" xml:id="mmm.fiction.wilson.1903.206"/>
+
+Federal spies. The night following the meeting which Joel Rae had attended, these prisoners were attacked while they slept. Two were killed at once; two more after a brief struggle; and the remaining two the following day, after they had been pursued through the night. The capable Bishop Wright declared in confidence to Joel Rae that it reminded him of old days at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>.</p>
+
+<p>The same week was saved Rosmas Anderson, who had incurred rejection from Israel and eternal wrath by his misbehaviour. Becoming submissive to the decree of the Church, when it was made known to him by certain men who came in the night, it was believed that his atonement would suffice to place him once more in the household of faith. He had asked but half a day to prepare for the solemn ceremony. His wife, regretful but firm in the faith, had provided clean garments for her sinful husband, and the appointed executioners dug his grave. They went for him at midnight. By the side of the grave they had let him kneel and pray. His throat had then been cut by a deft hand, and he was held so that his blood ran into the grave, thus consummating the sacrifice to the God of Israel. The widow, obeying priestly instructions, announced that her husband had gone to <placeName type="state" key="California">California</placeName>.</p>
+
+<p><seg type="Context" subtype="ParrishMurder">Then the soul of <persName key="Parrish, William Rice">William Parrish</persName> at <placeName type="settlement" key="Springville, UT">Springville</placeName> was saved to eternal glory; also the soul of his son, <persName key="Parrish, William Beason">Buson</persName>. For both of these sinful ones were on the verge of apostasy; had plotted, indeed, and made secret preparations to leave the valley, all of
+
+<pb n="194" xml:id="mmm.fiction.wilson.1903.207"/>
+
+which were discovered by church emissaries, fortunately for the eternal welfare of the two most concerned. Yet a few years later, when the hated Gentiles had gained some shadow of authority in the new Zion, their minions were especially bitter as to this feat of mercy, seeking, indeed, to indict the performers of it.</seg></p>
+
+<p><seg type="Context" subtype="LDSApostates">As to various persons who met death while leaving the valley, opinion was divided on the question of their ultimate salvation. For it was announced concerning these, as their bodies were discovered from time to time, that the Indians had killed them. This being true, they had died in apostasy, and their rejection from the Kingdom was assured. Yet after awhile the Saints at large took hope touching the souls of these; for Bishop Wright, the excellent and able Wild Ram of the Mountains, took occasion to remark one Sabbath in the course of an address delivered in the tabernacle: "And it amazes me, brethren, to note how the spirit has been poured out on the Lamanites. It really does seem as if an Injun jest naturally hates an apostate, and it beats me how they can tell 'em the minute they try to sneak out of this valley of the Lord. They must lie out in them hills jest a-waiting for apostates; and they won't have anything else; they never touch the faithful. You wouldn't think they had so much fine feeling to look at 'em. You wouldn't suspect they was so sensitive, and almost bigoted, you might say. But there it is&#8212;and I
+
+<pb n="195" xml:id="mmm.fiction.wilson.1903.208"/>
+
+don't believe the critters will let many of these vile apostates get beyond the rocky walls of Zion." Those who could listen between the words began to suspect that the souls of such apostates had been duly saved.</seg></p>
+
+<p><seg type="Context" subtype="LDSApostates">Yet one apostate the very next day was rash enough to controvert the Bishop's views. To a group of men in the public street at high noon and in a loud voice he declared his intention of leaving for <placeName type="state" key="California">California</placeName>, and he spoke evil of the Church.</seg></p>
+
+<p>"I tell you," he said, in tones of some excitement, "men are murdered here. Their murder is
+planned by Bishops, Priests, Elders, and Apostles, by the President and his Counsellors, and then it is done by men they send to do it. Their laying it on to the Indians don't fool me a minute. That's the kind of a church this is, and you don't ketch me staying in it any longer!"</p>
+
+<p>Trees had been early planted in the new settlement, and owing to the care bestowed upon them
+by the thrifty colonists, many were now matured. From a stout limb of one of these the speaker was found hanging the following moming. A coroner's jury hastily summoned from among the Saints found that he had committed suicide.</p>
+
+<p>Another whose soul was irrevocably lost was Frederick Loba, who had refused to take more than one wife in spite of the most explicit advice from his superiors that he could attain to but little glory either in this world or that to come with less than
+
+<pb n="196" xml:id="mmm.fiction.wilson.1903.209"/>
+
+three. He crowned his offense by speaking disrespectfully of <persName key="Young, Brigham">Brigham Young</persName>. Orders were issued to save his soul; but before his tabernacle could be seized by those who would have saved him, the wretched man had taken his one wife and fled to the mountains. There they wandered many days in the most inclement weather, lost, famished, and several times but narrowly escaping the little band that had been sent in pursuit of them; whose members would, had they been permitted, not only have terminated their bodily suffering, but saved their souls to a worthy place in the life to come. As it was, they wandered a distance of three hundred miles, and three days after their last food was eaten, the man carrying the woman in his arms the last six miles, they reached a camp of the Snake Indians. These, not sharing with their <placeName type="state" key="Utah Territory">Utah</placeName> brethren the prejudice against apostates, gave them a friendly welcome, and guided them to Fort Laramie, thereby destroying for the unhappy man and his wife their last chance of coming forth in the final resurrection. But few at this time were so unlucky as this pair; for judgment had begun at the house of the Lord, and Israel was attentively at work.</p>
+
+<p>It was now that Joel Rae became conscious that he was facing directly away from the glory he had so long sought and suffered for. Though as yet no blood for Israel had been shed in his actual presence, he had attended the meetings of the Sons of Dan, and was kept aware of their operations.
+
+<pb n="x" xml:id="mmm.fiction.wilson.1903.210"/>
+
+It seemed to him in after years that his faculties had at this time been in a trance.</p>
+
+<p>He was seized at length with an impulse to be away from it all. As the days went by with their tragedies, he became half wild with restlessness and a strange fear of himself. In spite of his lifelong training, he knew there was wrong in the air. He could not question the decrees of the priesthood, but this much became clear to him, &#8212;that only one thing could carry with it more possibilities of evil than this course of the Church toward dissenters &#8212;and that was to doubt that <persName key="Young, Brigham">Brigham Young</persName>'s voice was as the voice of God. Not yet could he bring himself to this. But the unreasoning desire to be away became so strong that he knew he must yield to it.</p>
+
+<p>Turning this in his mind one day he met a brother Elder, a man full of zeal who had lately returned from a mission abroad. There had been, he said, a great outpouring of the spirit in Wales.</p>
+
+<p>"And what a glorious day has dawned here," he continued. "Thank God, there is a way to save the souls of the blind! That reminds me&#8212;have you heard of the saving work Brother Pixley was obliged to do?"</p>
+
+<p>"Brother Pixley?&#8212;no." He heard his own voice tremble, in spite of his effort at self-control. The other became more confidential, stepping closer and speaking low.</p>
+
+<p>"Of course, it ain't to be talked of freely, but you have a right to know, for was it not your own
+
+<pb n="198" xml:id="mmm.fiction.wilson.1903.211"/>
+
+preaching that led to this glorious reformation? You see, Brother Pixley came back with me, after doing great works abroad. Naturally, he came full of love for his wives. But he had been here only a few days when he became convinced that one of them had forgotten him; something in her manner made him suspect it, for she was a woman of singularly open, almost recklessly open, nature. Then a good neighbour came and told him that one night, while on his way for the doctor, he had seen this woman take leave of her lover &#8212; had seen the man, whom he could not recognise, embrace her at parting. He taxed her with this, and she at once confessed, though protesting that she had not sinned, save in spirit. You can imagine his grief, Brother Rae, for he had loved the woman. Well, after taking counsel from <persName key="Young, Brigham">Brigham</persName>, he talked the matter over with her very calmly, telling her that unless her blood smoked upon the ground, she would be cast aside in eternity. She really had spiritual aspirations, it seems, for she consented to meet the ordeal. Then, of course, it was necessary to learn from her the name of the man &#8212; and when all was ready for the sacrifice, Brother Pixley commanded her to make it known."</p>
+
+<p>"Tell me which of Brother Pixley's wives it was." He could feel the little cool beads of sweat upon his forehead.</p>
+
+<p>"The fifth, did I not say? But to his amazement and chagrin, she refused to give him the name of the man, and he had no way of learning it <choice><orig>other-
+
+<pb n="199" xml:id="mmm.fiction.wilson.1903.212"/>
+
+wise</orig><reg>otherwise</reg></choice>, since there was no one he could suspect. He pointed out to her that not even her blood could save her should she die shielding him. But she declared that he was a good man, and that rather than bring disgrace upon him she would die&#8212;would even lose her soul; that in truth she did not care to live, since she loved him so that living away from him was worse than death. I have said she was a woman of a large nature, somewhat reckless and generous, and her mistaken notion of loyalty led her to persist in spite of all the threats and entreaties of her distressed husband. She even smiled when she told him that she would rather die than live away from this unknown man, smiled in a way that must have enraged him&#8212;since he had never won that kind of love from her for himself&#8212;for then he let her meet the sacrifice without further talk. He drew her on to his knee, kissed her for the last time, then held her head back&#8212;and the thing was done. How sad it is that she did not make a full confession. Then, by her willing sacrifice, she would have gone direct to the circle of the Gods and Goddesses; but now, dying as she did, her soul must be lost &#8212;"</p>
+
+<p>"Which wife did you say &#8212;"</p>
+
+<p>"The fifth&#8212;she that was Mara Cavan&#8212;but, dear me, Brother Rae! you should not be out so soon! Why, man, you're weak as a cat! Come, I'll walk with you as far as your house, and youmust lie abed again until you are stronger. I can understand how you wished to be up as soon as
+
+<pb n="200" xml:id="mmm.fiction.wilson.1903.213"/>
+
+possible; how proud you must feel that your preaching has led to this glorious awakening and made it
+possible to save the souls of many sinful ones&#8212;but you must be careful not to overlmc yourself."</p>
+
+<p>Four days later, a white-faced young Elder applied to <persName key="Young, Brigham">Brigham</persName> for permission to go to the settlements on the south. He professed to be sick, to have suffered a relapse owing to incautious exposure so soon after his long illness. He seemed, indeed, not only to be weak, but to be much distressed and torn in his mind.</p>
+
+<p><persName key="Young, Brigham">Brigham</persName> was gracious enough to accord the desired permission, adding that the young Elder could preach the revived gospel and rebaptise on his way south, thus combining work with recreation. He was also good enough to volunteer some advice.</p>
+
+<p><seg type="Context" subtype="Polygamy">"What ails you mostly, Brother Joel, is your single state. What you need is wives. You've been here ten years now, and it's high time. You're given to brooding over things that are other people's to brood on, and then, you're naturally soul-proud. Now, a few wives will humble you and make you more reasonable, like the rest of us. I don't want to be too downright with you, like I am with some of the others, because I've always had a special kind of feeling for you, and so I've let you go on. But you think it over, and talk to me about it when you come back. It's high time you was building up your thrones and dominions in the Kingdom."</seg></p>
+
+<p>He started south the next day, riding down between the two mountain ranges that bordered the
+
+<pb n="201" xml:id="mmm.fiction.wilson.1903.214"/>
+
+valley, stopping at each settlement, breathing more freely, resting more easily, as each day took him farther away. Yet, when he closed his eyes, there, like an echo, was the vision of a woman's face with shining eyes and lips, &#8212;a vision that after a few seconds was washed away by a great wave of blood.</p>
+
+<p>But after a few days, certain bits of news caught up with him that happily drove this thing from his sight for a time by stirring within him all his old dread of Gentile persecution. </p>
+
+<p><seg type="Context" subtype="PrattMurder">First he heard that <persName key="Pratt, Parley P.">Parley Pratt</persName>, the Archer of Paradise and one of the Twelve Apostles, had been foully murdered back in <placeName type="state" key="Arkansas">Arkansas</placeName> while seeking to carry to their mother the children of his ninth wife. The father of these children, so his informant reported, had waylaid and shot him.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Emigrants" subtype="Route">Then came rumours of a large wagon-train going south through <placeName type="state" key="Utah Territory">Utah</placeName> on its way to <placeName type="state" key="California">California</placeName>.</seg> <seg type="Context" subtype="LDSPersecution"><seg type="Emigrants" subtype="StateAffiliationMissouri">Reports said it was composed chiefly of Missourians</seg>, some of whom were said to be boasting that they had helped to expel the Saints from <placeName type="county" key="Jackson County, UT">Jackson County</placeName> in that State.</seg> <seg type="Context" subtype="PrattMurder"><seg type="Emigrants" subtype="StateAffiliationArkansas">Also in this train were reported to be several men from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> who had been implicated in the assassination of Apostle <persName key="Pratt, Parley P.">Pratt</persName>.</seg></seg></p>
+
+<p>But news of the crowning infamy reached him the following day, &#8212;news that had put out all thought of his great sin and his bloody secret, news of a thing so monstrous that he was unable to give it credence until it had been confirmed by other comers from the north. <seg type="Context" subtype="UtahWar">President <persName key="Buchanan, James">Buchanan</persName>, <seg type="Context" subtype="LDSReformation">inspired by tales that had reached him of various
+
+<pb n="202" xml:id="mmm.fiction.wilson.1903.215"/>
+
+deeds growing out of the reformation</seg>, and by the treatment which various Federal officers were said to have received, had decided that rebellion existed in the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>. <seg type="Context" subtype="TerritorialAdministration">He had appointed a successor to <persName key="Young, Brigham">Brigham Young</persName> as governor, so the report ran, and ordered an army to march to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> for the alleged purpose of installing the new executive.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Three days later all doubt of the truth of this story was banished. Word then came that <persName key="Young, Brigham">Brigham</persName> was about to declare martial law, and that he had promised that <persName key="Buchana, James">Buchanan</persName>'s army should never enter the valley.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Now his heart beat high again, with something of the old swift fervour. The Gentile yoke was at last to be thrown off. War would come, and the Lord would surely hold them safe while they melted away the Gentile hosts.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="LDSPersecution">He reached the settlement of <placeName type="settlement" key="Parowan, UT">Parowan</placeName> that night, and when they told him there that the wagon-train <seg type="Emigrants" subtype="Route">coming south</seg>&#8212;their ancient enemies who had plundered and butchered them in <placeName type="county" key="Jackson County, UT">Jackson County</placeName> &#8212;&#8212; was to be cut off before it left the basin, it seemed but right to him, the just vengeance of Heaven upon their one&#8212;time despoilers, and a fitting first act in the war&#8212;drama that was now to be played.</seg></seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">Once more the mob was marching upon them to despoil and murder and put them into the wilderness. But now God had nerved and strengthened them to defend the walls of Zion, even against a mighty nation. And as a token of His favour and His
+
+<pb n="203" xml:id="mmm.fiction.wilson.1903.216"/>
+
+wish, here was <seg type="Massacre" subtype="Survivors">a company of their bitterest foes delivered into their hands</seg>. Beside the picture was another; he saw his sister, the slight, fair girl, in the grasp of the fiends at Haun's Mill; the face of his father tossing on the muddy current and sucked under to the river-bottom; and the rough bark cylinder, festooned with black cloth, holding the worn form of the mother whose breast had nursed him.</seg></p>
+
+<p>When he started he had felt that he could never again preach while that secret lay upon him, &#8212; that he could no longer rebuke sinners honestly, &#8212;<seg type="Context" subtype="UtahWar">but this matter of war was different</seg>.</p>
+
+<p>He preached a moving sermon that day from a text of Samuel: "As thy sword hath made women childless, so shall thy mother be childless among women." And when he was done the congregation had made the little dimly lighted meeting-house at <placeName type="settlement" key="Parowan, UT">Parowan</placeName> ring with a favourite hymn: &#8212;</p>
+
+<lg type="poem">
+<l>"Up, awake, ye defenders of Zion!</l>
+<l>The foe's at the door of your homes;</l>
+<l>Let each heart be the heart of a lion,</l>
+<l>Unyielding and proud as he roams.</l>
+<l>Remember the wrongs of <placeName type="state" key="Missouri">Missouri</placeName>,</l>
+<l>Remember the fate of <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>!</l>
+<l>When the God-hating foe is before ye,</l>
+<l>Stand tall and be faithful and true."</l>
+</lg>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="204" xml:id="mmm.fiction.wilson.1903.217"/>
+
+<head>CHAPTER XVI.</head>
+
+<head><hi rend="italic">The Order from Headquarters</hi></head>
+
+<p>HE left <placeName type="settlement" key="Parowan, UT">Parowan</placeName> the next morning to preach at one of the little settlements to the east. He was gone three days. <seg type="Emigrants" subtype="Route">When he came back they told him that the train of Missourians had passed through <placeName type="settlement" key="Parowan, UT">Parowan</placeName> and on to the south.</seg> He attended a military council held that evening in the meeting-house. <seg type="Context" subtype="LDSPersecution">Three days of reflection, while it had not cooled the anger he felt toward these members of the mob that had so brutally wronged his people, had slightly cooled his ardour for aggressive warfare.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">It was rather a relief to know that he was not in a position of military authority; to feel that this matter of cutting off <seg type="Massacre" subtype="Casualties">a wagon-train</seg> was in the hands of men who could do no wrong. The men who composed the council he knew to be under the immediate guidance of the Lord. Their names and offices made this certain. There was <persName key="Smith, George A.">George A. Smith</persName>, First Counsellor to <persName key="Young, Brigham">Brigham</persName>, representing as such the second person of the Trinity, and also one of the Twelve Apostles. There was <persName key="Haight, Isaac C.">Isaac
+
+<pb n="205" xml:id="mmm.fiction.wilson.1903.218"/>
+
+Haight</persName>, President of the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> Stake of Zion and High Priest of Southern <placeName type="state" key="Utah Territory">Utah</placeName>; there were Colonel <persName key="Dame, Wiliam H.">Dame</persName>, President of the <placeName type="settlement" key="Parowan, UT">Parowan</placeName> Stake of Zion, <persName key="Klingensmith, Philip">Philip Klingensmith</persName>, Bishop from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and <persName key="Lee, John D.">John Doyle Lee</persName>, <persName key="Young, Brigham">Brigham</persName>'s most trusted lieutenant in the south, a major of militia, probate judge, member of the Legislature, President of Civil Affairs at <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and farmer to the Indians under <persName key="Young, Brigham">Brigham</persName>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">When a call to arms came as a result of this council, and an official decree was made known that <seg type="Massacre" subtype="Casualties">the obnoxious emigrant train</seg> was to be cut off, he could not but feel that the deed had heavenly sanction. As to worldly regularity, the proceeding seemed to be equally faultless. The call was a regular military call by the superior officers to the subordinate officers and privates of the regiment, commanding them to muster, armed and equipped as directed by law, and prepared for field operations. Back of the local militia officers was his Excellency, <persName key="Young, Brigham">Brigham Young</persName>, not only the vicar of God on earth but governor of <placeName type="state" key="Utah Territory">Utah</placeName> and commander-in-chief of the militia. It seemed, indeed, a foretaste of those glorious campaigns long promised them, when they should go through the land of the Gentiles "like a lion among the flocks of sheep, cutting down, breaking in pieces, with none to deliver, leaving the land desolate."</seg></seg></p>
+
+<p>The following Tuesday he continued south to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, the most populous of the southern settlements. Here he learned of the campaign's progress.
+
+<pb n="206" xml:id="mmm.fiction.wilson.1903.219"/>
+
+<seg type="Encounter" subtype="TradeLDS"><persName key="Young, Brigham">Brigham</persName>'s courier had preceded the train on its way south, bearing written orders to the faithful to hold no dealings with its people; to sell them neither forage for <seg type="Massacre" subtype="Spoils">their stock</seg> nor food for themselves. They had, it was reported, been much distressed as a result of this order, and <seg type="Massacre" subtype="Spoils">their stock was greatly weakened</seg>. At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, it being feared that they might for want of supplies be forced to halt permanently so near the settlement that it would be inconvenient to destroy them, they were permitted to buy fifty bushels of wheat and to have it and some corn the Indians had sold them ground at the mill of Major <persName key="Lee, John D.">Lee</persName>.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">As Joel's informant, the fiery Bishop <persName key="Klingensmith, Philip">Klingensmith</persName>, remarked, this was not so generous as it seemed, since, while it would serve to decoy them on their way toward <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, they would never get out of the valley with it. The train had started on, but the animals were so weak that three days had been required to reach <placeName type="settlement" key="Iron Creek, UT">Iron Creek</placeName>, twenty miles beyond, and two more days to reach <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, fifteen miles further south.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">Here at daybreak the morning before, <persName key="Klingensmith, Philip">Klingensmith</persName> told him, a band of Piede Indians, under <persName key="Lee, John D.">Lee</persName>'s direction, had attacked the train, killing and wounding a number of the men. It had been hoped, explained <persName key="Klingensmith, Philip">Klingensmith</persName>, that the train would be destroyed at once by the Indians, thus avoiding any call upon the militia; but the emigrants had behaved with such effectiveness that the Indians were unable to complete the task. They had corralled
+
+<pb n="207" xml:id="mmm.fiction.wilson.1903.220"/>
+
+their wagons, dug a rifle-pit in the center, and returned the fire, <seg type="Massacre" subtype="Casualties">killing one Indian and wounding two of the chiefs</seg>. The siege was being continued.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">The misgiving that this tale caused Joel Rae he put down to unmanly weakness&#8212;and to an unfamiliarity with military affairs. A sight of the order in <persName key="Young, Brigham">Brigham</persName>'s writing for the train's extermination would have set his mind wholly at rest; but though he had not been granted this, he was assured that such an order existed, and with this he was obliged to be content. He knew, indeed, that an order from <persName key="Young, Brigham">Brigham</persName>, either oral or written, must have come; otherwise the local authorities would never have dared to proceed. They were not the men to act without orders in a matter so grave after the years in which <persName key="Young, Brigham">Brigham</persName> had preached his right to dictate, direct, and control the affairs of his people from the building of the temple "down to the ribbons a woman should wear, or the setting up of a stocking."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">Late on the following day, Wednesday</seg>, while they were anxiously waiting for news, a messenger from <persName key="Lee, John D.">Lee</persName> came with a call for reinforcements. <seg type="Blame" subtype="IndiansLDSInfluence">The Indians, although there were three hundred of them, had been unable to prevail over the little entrenched band of Gentiles.</seg> Ten minutes after the messenger's arrival, the militia, which had been waiting under arms, set out for the scene in wagons. From <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> went every able-bodied man but two.</seg></seg></p>
+
+<p>Joel Rae was with them, wondering why he went. He wanted not to go. He preferred that news of
+
+<pb n="208" xml:id="mmm.fiction.wilson.1903.221"/>
+
+the approaching victory should be brought to him; yet invisible hands had forced him, even while it seemed that frenzied voices&#8212;voices without sound &#8212;warned him back.</p>
+
+<p>The ride was long, but not long enough for his mind to clear. It was still clouded with doubts and questionings and fears when <seg type="Massacre" subtype="Battle">they at last saw the flaring of many fires with figures loitering or moving busily about them</seg>. As they came nearer, a strange, rhythmic throbbing crept to his ears; nearer still, he resolved it into the slow, regular beatings of a flat-toned drum. The measure, deliberate, incessant, changeless, &#8212; the same tones, the same intervals, &#8212; worked upon his strained nerves, at first soothingly and then as a pleasant stimulant.</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">The wagons now pulled up near the largest camp fire, and the arrivals were greeted by a dozen or so of the Saints, who, with Major <persName key="Lee, John D.">Lee</persName>, had been directing and helping the Indians in their assaults upon the enemy. Several of these had disguised themselves as Indians for the better deception of the besieged.</seg></seg></p>
+
+<p>At the right of their camp went the long line of the Indians' fires. From far down this line came a low ringing chant and the strangely insistent drum-beats.</p>
+
+<p>"They're mourning old Chief Moqueetus," explained <persName key="Lee, John D.">Lee</persName>. He fell asleep before the fire just about dark, while his corn and potatoes were cooking, and he had a bad nightmare. The old fellow woke up screaming that he had his double-hands
+
+<pb n="209" xml:id="mmm.fiction.wilson.1903.222"/>
+
+full of blood and he grabbed his gun and was up on top of the hill firing down before he was really
+awake, I guess. Anyway, one of the cusses got him &#8212; like as not the same one that did this to-day while I was peeking at them and he showed them a bullet-hole in his hat.</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Spoils">At fires near by the Indians were broiling beef cut from animals they had slaughtered belonging to the wagon-train. Still others were cutting the hides into strips to be made into lariats.</seg> As far down as the line could be seen, there were dusky figures darting in and out of the firelight.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">A council was at once called of the Presidents, Bishops, Elders, High Priests, and the officers of the militia who were present. Bishop <persName key="Klingensmith, Philip">Klingensmith</persName> bared his massive head in the firelight and opened the council with prayer, invoking the aid of God to guide them aright. Then Major <persName key="Higbee, John M.">Higbee</persName>, presiding as chairman, announced the orders under which they were assembled and under which the train had been attacked.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">"It is ordered from headquarters that <seg type="Massacre" subtype="Casualties">this party must be used up</seg>, <seg type="Massacre" subtype="Survivors">except such as are too young to tell tales</seg>. We got to do it. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Encounter" subtype="TradeLDS">They been acting terrible mean ever since we wouldn't sell them anything.</seg> <seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="UtahWar">If we let them go on now, they been making their brag that they'll raise a force in <placeName type="state" key="California">California</placeName> and come back and wipe us out &#8212;and <persName key="Johnston, Albert Sidney">Johnston</persName>'s army already marching on us from the east.</seg> Are we going to submit again to what we got in <placeName type="state" key="Missouri">Missouri</placeName> and in <placeName type="state" key="Illinois">Illinois</placeName>? No! Everybody is agreed about that.</seg></seg>
+
+<pb n="210" xml:id="mmm.fiction.wilson.1903.223"/>
+
+<seg type="Blame" subtype="IndiansLDSInfluence">Now the Indians have failed to do it like we thought they would</seg>, so we got to finish it up, that's all."</seg></seg></p>
+
+<p>Joel Rae spoke for the first time.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">"You say except such as are too young to tell tales, Brother <persName key="Higbee, John M.">Higbee</persName>; what does that mean?"</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">"Why, all but the very smallest children, of course."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">"Are there children here?"</seg></seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">Lee</persName> answered:</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">"Oh, a fair sprinkling&#8212;about what you'd look for in a train of a hundred and thirty people. The boys got two of the kids yesterday; the fools had dressed than up in white dresses and sent than out with a bucket for water. You can see their bodies lying over there this side of the spring."</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"And there are women?" he asked, feeling a great sickness come upon him.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"Plenty of them," answered <persName key="Klingensmith, Philip">Klingensmith</persName>, "some mighty fine women, too; I could see one yesterday, a monstrous fine figure and hair shiny like a crow's wing, and a little one, powerful pretty, and one kind of between the two&#8212;it's a shame we can't keep some of than, but orders is orders!"</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"These women must be killed, too?"</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"That's the orders from headquarters, Brother Rae."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"From the military headquarters at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, or from the spiritual headquarters at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Better not inquire how far back that order started, Brother Rae&#8212;not of me, anyway."</seg></p> 
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"But women and children&#8212;"</seg></seg></p>
+
+<pb n="211" xml:id="mmm.fiction.wilson.1903.224"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">"The great Elohim has spoken from the heavens, Brother Rae&#8212;that's enough for me. I can't put my human standards against the revealed will of God.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"But women and children &#8212;" He repeated the words as if he sought to comprehend them. He seemed like a man with defective sight who has come suddenly against a wall that he had thought far off. <persName key="Higbee, John M.">Higbee</persName> now addressed him.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Brother Rae, in religion you have to eat the bran along with the flour. Did you suppose we were going to milk the Gentiles and not ever shed any blood?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"But innocent blood&#8212;"</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<seg type="Blame" subtype="EmigrantBehavior">There ain't a drop of innocent blood in the whole damned train.</seg> And what are you, to be questioning this way about orders from on high? I've heard you preach many a time about the sin of such doings as that. You preach in the pulpit about stubborn clay in the hands of the potter having to be put through the mill again, and now that you're out here in the field, seems to me you get limber like a tallowed rag when an order comes along."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<seg type="Massacre" subtype="Casualties">Defenseless women and little children</seg>&#8212;" He was still trying to regain his lost equilibrium. <persName key="Lee, John D.">Lee</persName> now interposed.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">"Yes, Brother Rae, <seg type="Context" subtype="LDSPersecution">as defenseless as that pretty sister of yours was in the woods there, that afternoon at Haun's Mill.</seg>" The reminder silenced him for the moment. When he could listen again, he heard them canvassing a
+
+<pb n="212" xml:id="mmm.fiction.wilson.1903.225"/>
+
+plan of attack that should succeed without endangering any of their own numbers. He walked away
+from the group to see if alone, out of the tumult and torrent of lies and half-truths, he could not
+fetch some one great unmistakable truth which he felt instinctively was there.</seg></seg></p>
+
+<p>And then his ears responded again to the slow chant and the constant measured beat of the flat-toned, vibrant drum. Something in its rhythm searched and penetrated and swayed and seemed to overwhelm him. It came as the measured, insistent beat of fate itself, relentless, inexorable; and all the time it was stirring in him vague, latent instincts of savagery. He wished it would stop, so that he might reason, yet dreaded that it might stop at any moment. Fascinated by the weird rhythm and the hollow beat, he could not summon the will to go beyond its sway.</p>
+
+<p>He walked about the fires or lingered by the groups in consultation until the first signs of dawn. Then he climbed the low, rocky hill to the east and peered over the top, the drum-beats still pulsing through him, still coercing him. As the light grew, he could make out the details of the scene below. He was looking down into a narrow valley running north and south, formed by two ranges of rugged, rocky hills five hundred yards or so apart. To the north this valley widened; to the south it narrowed until it became a mere gap leading out into the desert.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle">Directly below him, half-way between the ranges
+
+<pb n="213" xml:id="mmm.fiction.wilson.1903.226"/>
+
+of hills, was a circle of covered wagons wheel to wheel. In the center of this a pit had been dug, and here the besieged were finding such protection as they could from the rifle-fire that came down from the hills on either side. Even now he could see Indians lying in watch for any who might attempt to escape. <seg type="Massacre" subtype="Dates">The camp had been attacked on Monday morning</seg> after the wagons had moved a hundred yards away from the spring. <seg type="Massacre" subtype="Dates">It was now Friday</seg>. For four days, therefore, with only what water they could bring by dashes to the spring under fire, they had held their own in the pit.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">When it grew still lighter he descried, out on his left near the spring, two spots of white close together, and remembered <persName key="Lee, John D.">Lee</persName>'s tale the night before of the two little girls sent for water.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">At that instant, the chanting and the beat of the drum stopped, and in the silence a flood of light seemed to shine in upon his mind, showing him in something of its true aspect the thing they were about to do. Not clearly did he see it, for he was still torn and dazed&#8212;and not in its real proportions, moreover; <seg type="Context" subtype="LDSPersecution">for he saw it against the background of his teaching from the cradle; the murder of their Prophet, the persecution of the Saints, the outrages put upon his own family, the fate of his sister, the murder of his father, and the death of his mother; <seg type="Context" subtype="UtahWar">the coming of an army upon them now to repeat these persecutions</seg>; <seg type="Blame" subtype="EmigrantBehavior">the reported offenses of this particular lot of Gentiles</seg>.</seg> And then, too, he saw it against his own flawless faith in the authority
+
+<pb n="214" xml:id="mmm.fiction.wilson.1903.227"/>
+
+of the priesthood, his implicit belief that whatsoever they ordered was to be obeyed as the literal command of God, his unshaken conviction that to disobey the priesthood was to commit the unforgivable sin of blasphemy against the Holy Ghost. "If you trifle with the commands of any of the priesthood," he himself had preached but a few days before, "you are trifling with <persName key="Young, Brigham">Brigham</persName>; if you trifle with <persName key="Young, Brigham">Brigham</persName>, you are triiling with God; and if you do that, you will trifle yourselves down to hell."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Yet as he looked upon <seg type="Massacre" subtype="Casualties">the doomed camp</seg>, lying still and quiet in the gray light, &#8212; in spite of breeding, training, habit of thought, and passionate belief, he felt the horror of it, and a hope came to him out of that horror. <seg type="Blame" subtype="IndiansLDSInfluence">He hurried down the hill and searched among the groups of Indians until he found <persName key="Lee, John D.">Lee</persName>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Major, isn't there a chance that Brother <persName key="Young, Brigham">Brigham</persName> didn't order this?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Brother Rae, no one has said he did &#8212; it wouldn't be just wise."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"But <hi rend="italic">did</hi> he &#8212; has any one seen the written order or heard who brought the oral order?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">"Brother Rae, look here, now &#8212;you know Brother <persName key="Young, Brigham">Brigham</persName>. You know his authority, and you know <persName key="Dame, Wiliam H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName>. You know they wouldn't either of them dare do as much as take another wife without asking <persName key="Young, Brigham">Brigham</persName> first. Well, then, do you reckon they'd dare order this militia around in this reckless way to cut off <seg type="Massacre" subtype="Casualties">a hundred and</seg>
+
+<pb n="215" xml:id="mmm.fiction.wilson.1903.228"/>
+
+<seg type="Massacre" subtype="Casualties">thirty people</seg> unless they had mighty good reason to know he wanted it?"</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">He stood before <persName key="Lee, John D.">Lee</persName> with bent head; the hope had died. <persName key="Lee, John D.">Lee</persName> went on:</seg></p>
+
+<p>"And look here, Elder, just as a friendly hint, I wouldn't do any more of this sentimental talk. Why, in the last six months I've known men to get blood-atoned for less than you've said."</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">He saw they were holding another council. Bishop <persName key="Klingensmith, Philip">Klingensmith</persName> again led in prayer. He prayed for revelation, for the gifts of the spirit for each of them, and for every order of the priesthood; <seg type="Context" subtype="UtahWar">that they might prevail over the army marching against them</seg>; that Israel might grow and multiply and cover the earth with cities and become a people so great that no man could number them; and that the especial favour of Heaven might attend them on their righteous smiting of the Gentile host now delivered over to them by an all-wise Jehovah.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">The plan of assault was now again rehearsed, and its details communicated to their Indian allies. By ten o'clock all was ready.</seg></seg></seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="216" xml:id="mmm.fiction.wilson.1903.229"/>
+
+<head>CHAPTER XVII.</head>
+
+<head><hi rend="italic">The Meadow Shambles</hi></head>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning"><seg type="Massacre" subtype="Surrender">THEY chose <persName key="Bateman, William L.">William Bateman</persName> to go forward with a flag of truce. He was short and plump, with a full, round, ingenuous face. He was chosen, so said <persName key="Klingensmith, Philip">Klingensmith</persName>, for his plausible ways. He could look right at you when he said anything; and the moment needed a man of this talent. He was to enter the camp and say to the people that the Mormons had come to save them; that on giving up their arms they would be safely conducted to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, there to await a proper time for continuing their journey.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">From the hill to the west of the besieged camp they watched the plausible <persName key="Bateman, William L.">Bateman</persName> with his flag of truce meet one of the emigrants who came out, also with a white flag, and saw them stand talking a little time. <persName key="Bateman, William L.">Bateman</persName> then came back around the end of the hill that separated the two camps. His proposal had been gratefully accepted. The besieged emigrants were in desperate straits; <seg type="Massacre" subtype="Casualties">their dead were unburied in the narrow enclosure</seg>, and they were suffering greatly for want of water.</seg></seg></p>
+
+<pb n="217" xml:id="mmm.fiction.wilson.1903.230"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Major <persName key="Higbee, John M.">Higbee</persName>, in command of the militia, now directed <persName key="Lee, John D.">Lee</persName> to enter the camp and see that the plan was carried out. With him went two men with wagons. <persName key="Lee, John D.">Lee</persName> was to have them load their weapons into one wagon, to separate the adults from the children and wounded, who were to be put into the other, and then march the party out.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">As <persName key="Lee, John D.">Lee</persName> approached the corral its occupants swarmed out to meet him, &#8212;gaunt men, unkempt women and children, with the look of hunted animals in their eyes. Some of the men cheered feebly; some were silent and plainly distrustful. But the women laughed and wept for joy as they crowded about their deliverer; and wide-eyed children stared at him in a friendly way, understanding but little of it all except that the newcomer was a desirable person.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">It took <persName key="Lee, John D.">Lee</persName> but a little time to overcome the hesitation of the few suspicious ones. The plan he proposed was too plainly their only way of escape from a terrible death. <seg type="Massacre" subtype="Spoils">Their animals had been shot down or run off so that they could neither advance nor retreat.</seg> Their ammunition was almost gone, so that they could not give battle. And, lastly, their provisions were low, with no chance to replenish them; for on the south was the most to be dreaded of all American deserts, while <seg type="Encounter" subtype="TradeLDS">on the north they had for some reason unknown to themselves been unable to buy of the abundance through which they passed</seg>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">Arrangements for the departure were quickly
+
+<pb n="218" xml:id="mmm.fiction.wilson.1903.231"/>
+
+completed under <persName key="Lee, John D.">Lee</persName>'s supervision. In one wagon were piled the guns and pistols of the emigrants, <seg type="Massacre" subtype="Casualties">together with half a dozen men who had been wounded in the four days' lighting. In the other wagon a score of the smaller children were placed, some with tear-stained faces, some crying, and some gravely apprehensive. At <persName key="Lee, John D.">Lee</persName>'s command the two wagons moved forward. After these the women followed, marching singly or in pairs; <seg type="Massacre" subtype="Spoils">some with little bundles of their most precious belongings</seg>; some carrying babes too young to be sent ahead in the wagon. A few had kept even their older children to walk beside them, fearing some evil&#8212;they knew not what.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Surrender">One such, a young woman near the last of the line, was leading by the hand a little girl of three or four, while on her left there marched a sturdy, pink-faced boy of seven or eight, whose almost white hair and eyebrows gave him a look of fright which his demeanour belied. The woman, looking anxiously back over her shoulder to the line of men, spoke warningly to the boy as the line moved slowly forward.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Casualties">"Take her other hand, and stay close. I'm afraid something will happen &#8212; that man who came is not an honest man. I tried to tell them, but they wouldn't believe me. Keep her hand in yours, and if anything does happen, run right back there and try to find her father. Remember now, just as if she were your own little sister."</seg></seg></seg></p>
+
+<pb n="219" xml:id="mmm.fiction.wilson.1903.232"/>
+
+<p><seg type="Massacre" subtype="Surrender">The boy answered stoutly, with shrewd glances about for possible danger.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">"Of course I'll stay by her. I wouldn't run away. If I'd only had a gun," he continued, in tones of regretful enthusiasm, "I know I could have shot some of those Indians&#8212;but these, what do you call them?&#8212;Mormons&#8212;they'll keep the Indians away now."</seg></seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Surrender">"But remember&#8212; don't leave my child, for I'm afraid &#8212;something warns me."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Farther back the others had now fallen in, so that the whole company was in motion. The two wagons were in the lead; then came the women; and some distance back of these trailed the line of men.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">When the latter reached the place where the column of militia stood drawn up in line by the roadside, they swung their hats and cheered their deliverers; again and again the cheers rang in tones that were full of gratitude. <seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="IndiansIndependently">As they passed on, an armed Mormon stepped to the side of each man and walked with him, thus convincing the last doubter of their sincerity in wishing to guard them from any unexpected attack by the Indians.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">In such fashion marched the long, loosely extended line until the rear had gone some two hundred yards away from the circle of wagons. At the had, the two wagons containing the children and wounded had now fallen out of sight over a gentle rise to the north. The women also were well ahead, passing at that moment through a lane of low cedars that grew close to the road on either side.
+
+<pb n="220" xml:id="mmm.fiction.wilson.1903.233"/>
+
+The men were now stepping briskly, sure at last of the honesty of their rescuers.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Massacre" subtype="Surrender">Then, while all promised fair, a call came from the head of the line of men, &#8212;a clear, high call of command that rang to the very rear of the column:</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><hi rend="italic">"Israel, do your duty!"</hi></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">Before the faces of the marching men had even shown surprise or questioning, each Mormon had turned and shot the man who walked beside him. The same instant brought piercing screams from the column of women ahead; for the signal had been given while they were in the lane of cedars where the Indian allies of the Saints had been ambushed. Shots and screams echoed and re&#235;choed across the narrow valley, and clouds of smoke, pearl gray in the morning sun, floated near the ground.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS">The plan of attack had been well laid for quick success. Most of the men had fallen at the first volley, either killed or wounded. Here and there along the all but prostrate line would be seen a struggling pair, or one of the emigrants running toward cover under a fire that always brought him low before he reached it.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">On the women, too, the quick attack had been almost instantly successful. The first great volume of mad shrieks had quickly died low as if the victims were being smothered; and now could be heard only the single scream of some woman caught in flight, &#8212; short, despairing screams, and others that seemed to be cut short&#8212;strangled at their height.</seg></seg></p>
+
+<p>Joel Rae found himself on the line after the first
+
+<pb n="221" xml:id="mmm.fiction.wilson.1903.234"/>
+
+volley, drawn by some dread power he could not resist. Yet one look had been enough. He shut his eyes to the writhing forms, the jets of flame spitting through the fog of smoke, and turned to flee.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">Then in an instant&#8212;how it had come about he never knew&#8212;he was struggling with a man who shouted his name and cursed him,&#8212;a dark man with blood streaming from a wound in his throat. He defended himself easily, feeling his assailant's strength already waning. Time after time the man called him by name and cursed him, now in low tones, as they swayed. Then the Saint whose allotted victim this man had been, having reloaded his pistol, ran up, held it close to his head, fired, and ran back to the line.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">He felt the man's grasp of his shoulders relax, and his body grow suddenly limp, as if boneless. He let it down to the ground, looking at last full upon the face. At first glance it told him nothing. Then a faint sense of its familiarity pushed up "through many old memories. Sometime, somewhere, he had known the face.</seg></seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">The dying man opened his eyes wide, not seeing, but convulsively, and then he felt himself enlightened by something in their dark colour, &#8212;something in the line of the brow under the black hair; &#8212;a face was brought back to him, the handsome face of the jaunty militia captain at <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, the man who had helped expel his people, who had
+
+<pb n="222" xml:id="mmm.fiction.wilson.1903.235"/>
+
+patronised them with his airs of protector,&#8212;the man who had &#8212;</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">It did not come to him until that instant&#8212;this man was Girnway. In the flash of awful comprehension he dropped, a sickened and nerveless heap, beside the dead man, turning his head on the ground, and feeling for any sign of life at his heart.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">Forward there, where the yells of the Indians had all but replaced the screams of frantic women&#8212; butchered already perhaps, subjected to he knew not what infamy at the hands of savage or Saint &#8212;was the yellow-haired, pink-faced girl he had loved and kept so long imaged in his heart; yet she might have escaped, she might still live &#8212;&#8212; she might even not have been in the party.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">He sprang up and found himself facing a white-haired boy, who held a little crying girl by a tight grasp of her arm, and who eyed him aggressively.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">"What did you hurt Prudence's father for? He was a good man. Did you shoot him?"</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">He seized the boy roughly by the shoulder.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Prudence &#8212; Prudence &#8212; where is she?"</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Here."</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">He looked down at the little girl, who still cried. Even in that glance he saw her mother's prettiness, her pink and white daintiness, and the yellow shine of her hair.</seg></p>
+
+<p>"Her mother, then, &#8212; quick!"</p>
+
+<p><seg type="Massacre" subtype="Survivors">The boy pointed ahead.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">"Up there&#8212;she told me to take care of Prudence, and when the Indians came out she made me
+
+<pb n="223" xml:id="mmm.fiction.wilson.1903.236"/>
+
+run back here to look for him." He pointed to the still figure on the ground before them. And then,
+making a brave effort to keep back the tears:</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">"If I had a gun I'd shoot some Indians;&#8212;I'd shoot <hi rend="italic">you</hi>, too&#8212;you killed him. When I grow up to be a man, I'll have a gun and come here&#8212;" He had the child in his arms, and called to the boy:</seg></seg></seg></seg></p>
+
+<p>"Come, fast now! Go as near as you can to where you left her."</p>
+
+<p><seg type="Massacre" subtype="Casualties">They ran forward through the gray smoke, stepping over and around bodies as they went. When they reached the first of the women he would have stopped to search, but the boy led him on, pointing. And then, half-way up the line, a little to the right of the road, at the edge of the cedars, his eye caught the glimpse of a great mass of yellow hair on the ground. She seemed to have been only wounded, for, as he looked, she was up on her knees striving to stand.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">He ran faster, leaving the boy behind now, but while he was still far off, he saw an Indian, knife in hand, run to her and strike her down. Then before he had divined the intent, the savage had gathered the long hair into his left hand, made a swift circling of the knife with his right, &#8212; and the thing was done before his eyes. He screamed in terror as he ran, and now he was near enough to be heard. The Indian at his cry arose and for one long second shook, almost in his face as he came running up, the long, shining, yellow hair with the
+
+<pb n="224" xml:id="mmm.fiction.wilson.1903.237"/>
+
+gory patch at the end. Before his staring eyes, the hair was twisting, writhing, and imdulating, like a golden flame licking the bronzed arm that held it. And then, as he reached the spot, the Indian, with a long yell of delight and a final flourish of his trophy, ran off to other prizes.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">He stood a moment, breathless and faint, looking with fearful eyes down at the little, limp, still figure at his feet. One slender, bare arm was flung out as if she had grasped at the whole big earth in her last agony.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">The spell of fear was broken by the boy, who came trotting up. He had given way to his tears now, and was crying loudly from fright. Joel made him take the little girl and sit under a cedar out of sight of the spot.</seg></seg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="225" xml:id="mmm.fiction.wilson.1903.238"/>
+
+<head>CHAPTER XVIII.</head>
+
+<head><hi rend="italic">In the Dark of the Aftermath</hi></head>
+
+<p><seg type="Massacre" subtype="Aftermath">HE was never able to recall the events of that day, or of the months following, in anything like their proper sequence. The effort to do so brought a pain shooting through his head. Up to the moment when the yellow hair had waved in his face, everything had kept a ghastly distinctness. He remembered each instant and each emotion. After that all was dark confusion, with only here and there a detached, inconsequent memory of appalling vividness.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">He could remember that he had buried her on the other side of the hill where a gnarled cedar grew at the foot of a ledge of sandstone, using a spade that an Indian had brought him from the daerted camp. <seg type="Massacre" subtype="Spoils">By her side he had found the scattered contents, of the little bundle she had carried, &#8212; a small Bible a locket, a worn gold bracelet, and a picture of herself as he had known her, a half-faded daguerreotype set in a gilt oval, in a square rubber case that shut with a snap. The little limp-backed Bible had lain flung open on the ground in the midst of
+
+<pb n="226" xml:id="mmm.fiction.wilson.1903.239"/>
+
+the other trinkets. He remembered picking these things up and retying them in the blue silk handkerchief</seg>, and then he had twice driven away an Indian who, finding no other life, came up to kill the two children huddled at the foot of the cedar.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Massacre" subtype="Casualties">He recalled that he had at some time passed the two wagons; one of them was full of children, some crying, some strangely quiet and observant. The other contained the wounded men whom <persName key="Lee, John D.">Lee</persName> and the two drivers had dispatched where they lay.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Casualties">He remembered the scene close about him where many of the women and older children had fallen under knife and tomahawk. At intervals had come a long&#8212;drawn scream, terrifying in its shrillness, from some woman struggling with Saint or savage.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils"><seg type="Massacre" subtype="Casualties">Later he remembered becoming aware that the bodies were being stripped and plundered; of seeing <persName key="Lee, John D.">Lee</persName> holding his big white hat for valuables, while half a dozen men searched pockets and stripped off clothing. The picture of the naked bodies of a dozen well-grown children tangled in one heap stayed with him.</seg></seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Spoils">Still later, when the last body had been stripped and the smaller treasures collected, he had known that these and the stock and wagons were being divided between the Mormons and the Indians; a conflict with these allies being barely averted, the Indians accusing the Saints of withholding more than their share of the plunder.</seg></seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Silence">After the division was made he knew that the Saints had all been called together to take an oath
+
+<pb n="227" xml:id="mmm.fiction.wilson.1903.240"/>
+
+that the thing should be kept secret.</seg> He knew, too, that he had gone over the spot that night, the moon lighting the naked forms strewn about. Many of them lay in attitudes strangely lifelike, &#8212;here one resting its head upon its arm, there a white face falling easily back as if it looked up at the stars. He could not recall why he had gone back, unless to be sure that he had made the grave under the cedar secure from the wolves.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">Some of the men had camped on the spot.</seg> <seg type="Massacre" subtype="Survivors">Others had gone to <persName key="Hamblin, Jacob">Hamblin</persName>'s ranch, near <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, where the children were taken. He had sent the boy there with them, and he could recall distinctly the struggle he had with the little fellow; for the boy had wished not to be taken from the girl, and had fought valiantly with fists and feet and his sharp little teeth. The little girl with her mother's bundle he had taken to another ranch farther south in the Pine Mountains. He told the woman the child was his own, and that she was to be kept until he came again.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Where he slept that night, or whether he slept at all, he never knew. But he had been back on the ground in the morning with the others who came to bury the naked bodies. He had seen heaps of them piled in little depressions and the dirt thrown loosely over them, and he remembered that the wolves were at them all a day later.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">Then <persName key="Dame, William H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName> and others of high standing in the Church had come to look over the spot and there another oath of secrecy was taken.
+
+<pb n="228" xml:id="mmm.fiction.wilson.1903.241"/>
+
+Any informer was to be "sent over the rim of the basin"</seg>&#8212;except that one of their number was to make a full report to the President at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. <persName key="Klingensmith, Philip">Klingensmith</persName> was then chosen by vote to take charge of the goods for the benefit of the Church. <seg type="Massacre" subtype="Spoils"><persName key="Klingensmith, Philip">Klingensmith</persName>, <persName key="Haight, Isaac C.">Haight</persName>, and <persName key="Higbee, John M.">Higbee</persName>, he recalled, had later driven two hundred head of the cattle to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and sold them. <persName key="Klingensmith, Philip">Klingensmith</persName>, too, had put the clothing taken from the bodies, blood-stained, shredded by bullets and knives, into the cellar of the tithing office at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. Here there had been, a few weeks later, a public auction of the property taken, the Bishop, who presided as auctioneer, facetiously styling it "plunder taken at the siege of Sebastopol." The clothing, however, with the telltale marks upon it, was reserved from the auction and sold privately from the tithing office. Many stout wagons and valuable pieces of equipment had thus been cheaply secured by the Saints round about <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">He knew that the surviving children, seventeen in number, had been "sold out" to Saints in and about <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and <placeName type="settlement" key="Painter's Creek, UT">Painter's Creek</placeName>, who would later present bills for their keep.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">He knew that <persName key="Lee, John D.">Lee</persName>, whom the Bishops had promised a crown of glory for his work that day, had gone to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and made a confidential report to <persName key="Young, Brigham">Brigham</persName>; that <persName key="Young, Brigham">Brigham</persName> had at first professed to regard the occurrence as unfortunate for the Church, though admitting that no innocent blood had been shed; that <seg type="Reaction" subtype="Silence">he had sworn <persName key="Lee, John D.">Lee</persName> never to tell
+
+<pb n="229" xml:id="mmm.fiction.wilson.1903.242"/>
+
+the story again to any person</seg>, <seg type="Blame" subtype="IndiansIndependently">instructing him to make a written report of the affair to himself, as Indian agent, charging me deed to the Indians. He was said to have added on this point, after a period of reflection, "Only Indians, <persName key="Lee, John D.">John</persName>, don't save even the <hi rend="italic">little</hi> children."</seg> He was reported to have told <persName key="Lee, John D.">Lee</persName> further, on the following day, that he had asked God to take the vision from his sight if the killing had been a righteous thing, and that God had done so, thus <seg type="Blame" subtype="LDS_LDSRetribution"><seg type="Context" subtype="LDSPersecution">proving the deed in the sight of heaven to have been a just vengeance upon those who had once made war upon the Saints in <placeName type="state" key="Missouri">Missouri</placeName></seg></seg>.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS">With these and with many another disjointed memory of the day Joel Rae was cursed; of <seg type="Reaction" subtype="Commemoration">how <persName key="Hamblin, Jacob">Hamblin</persName> the following spring had gathered <seg type="Massacre" subtype="Casualties">a hundred and twenty skulls</seg> on the ground where the wolves had left them, and buried them again; of how an officer from Camp Floyd had built a cairn on the spot and erected a huge cross to the memory of the slain</seg>; of how the thing became so dire in the minds of those who had done it, that more than one man lost his reason, and two were known to have killed themselves to be rid of <seg type="Massacre" subtype="Casualties">the death-cries of women</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence">But the clearest of all among the memories of the day itself was the prayer offered up as they stood amid the heaps of fresh earth, after they had sworn the oath of secrecy; how God had been thanked for delivering the enemy into their hands, and how
+
+<pb n="230" xml:id="mmm.fiction.wilson.1903.243"/>
+
+new faith and better works were promised to Him for this proof of His favour.</seg></seg></p>
+
+<p>The memory of this prayer stayed with him many years: "Bless Brother <persName key="Young, Brigham">Brigham</persName>&#8212;bless him; may the heavens be opened unto him, and angels visit and instruct him. Clothe him with power to defend Thy people and to overthrow all who may rise against us. Bless him in his basket and in his store; multiply and increase him in wives, children, flocks and herds, houses and lands. Make him very great to be a lawgiver and God to Thy people, and to command them in all things whatsoever in the future as in the past."</p>
+
+<p>Nor did he forget that, soon after he had listened to this prayer, and the forces had dispersed, he had made two discoveries; &#8212;first, that his hair was whitening; second, that he could not be alone at night and keep his reason.</p>
+
+</div1>
+
+<div1 type="chapter">
+
+<pb n="242" xml:id="mmm.fiction.wilson.1903.255"/>
+
+<head>CHAPTER XX.</head>
+
+<head><hi rend="italic">How the Lion of the Lord Roared Soft</hi></head>
+
+<p><seg type="Context" subtype="UtahWar">BUT with the coming of spring some fever that had burned in the blood of the Saints from high to low was felt to be losing its heat. They had held the Gentile army at bay during the winter&#8212;with the winter’s help. But spring was now melting the snows. Reports from <placeName type="settlement" key="Washington, DC">Washington</placeName>, moreover, indicated that a perverse generation in the States had declined to accept the decrees of Israel’s God without further proofs of their authenticity.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">With a view to determining this issue, Congress
+had voted more money for troops. Three thousand men were to march to the reinforcement of the army of <persName key="Johnston, Albert Sidney">Johnston</persName> on Black’s Fork; forty-five hundred wagons were to transport their supplies; and fifty thousand oxen and four thousand mules were to pull these wagons. War, in short, was to be waged upon this Israel hidden in the chamber of the mountains. To Major Rae, watching on the outposts of Zion from behind the icy ramparts of Echo Ca&#241;on, the news was welcome, even <choice><orig>enliven-
+
+<pb n="243" xml:id="mmm.fiction.wilson.1903.256"/>
+
+ing.</orig><reg>enlivening</reg></choice>. The more glory there would be in that ultimate triumph which the Lord was about to secure for them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="UtahWar">In <persName key="Young, Brigham">Brigham</persName> and the other leaders, however, this report induced deep thought. And finally, on a day, they let it be known that there could no longer be any thought of actual war with the armies of the Gentile. Joel Rae in Echo Ca&#241;on was incredulous. There must be battle given. The Lord would make them prevail; the living God of Abraham, of Isaac, and of Jacob, would hold them up. And battle must be given for another reason, though he hardly dared let that reason be plain to himself. For only by continuing the war, only by giving actual battle to armed soldiers, by fighting to the end if need be&#8212;only so could <seg type="Massacre" subtype="Dates">that day</seg> <seg type="Massacre" subtype="Location">in <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> be made to appear as anything but&#8212;he shuddered and could not name it. Even if actual war were to be fought on and on for years, he believed that day could hardly be justified; but at least it could be made in years of lighting to stand less horribly high and solitary. They must light, he thought, even if it were to lose all. But the Lord would stay them. How much more wicked and perverse, then, to reject the privilege!</seg></seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="UtahWar">When he heard that the new governor, who had been in the snow with <persName key="Johnston, Albert Sidney">Johnston</persName>’s army all winter, was to enter <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and take his office&#8212;a Gentile officer to sit on the throne of <persName key="Young, Brigham">Brigham</persName>&#8212;he felt that the Ark of the Covenant had been
+thrown down. "Let us not," he implored <persName key="Young, Brigham">Brigham</persName>
+
+<pb n="244" xml:id="mmm.fiction.wilson.1903.257"/>
+
+in a letter sent him from Echo Ca&#241;on, "be again dragooned into servile obedience to any one less than the Christ of God!"</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">But <persName key="Young, Brigham">Brigham</persName>’s reply was an order to pass the new governor through Echo Ca&#241;on. According to the terms of this order he was escorted through at night, in a manner to convince him that he was passing between the lines of a mighty and far-flung host. Fires were kindled along the heights and the small force attending him was cunningly distributed and duplicated, a few of its numbers going ahead from time to time, halting the rest of the party and demanding the countersign.</seg></p>
+
+<p>Joel Rae found himself believing that he could now have been a fiercer Lion of the Lord than <persName key="Young, Brigham">Brigham</persName> was; for he would have fought, while <persName key="Young, Brigham">Brigham</persName> was stooping to petty strategies&#8212;as if God were needing to rely upon deceits.</p>
+
+<p><seg type="Context" subtype="UtahWar">He was only a little appeased when, on going to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, he learned <persName key="Young, Brigham">Brigham</persName>’s intentions more fully. The new governor had been installed;
+but the army of <persName key="Johnston, Albert Sidney">Johnston</persName> was to turn back. This was <persName key="Young, Brigham">Brigham</persName>’s first promise. Soon, however, this was modified. The government, it appeared, was bent upon quartering its troops in the valley; and Zion, therefore, would be again led into the wilderness. The earlier promise was repeated&#8212;and the earlier threat&#8212;to the pace commissioners
+now sent on from <placeName type="settlement" key="Washington, DC">Washington</placeName>.</seg></p>
+
+<p>"<seg type="Context" subtype="UtahWar">We are willing those troops should come into our country, but not stay in our city. They may
+
+<pb n="245" xml:id="mmm.fiction.wilson.1903.258"/>
+
+pass through if need be, but must not be quartered within forty miles of us. And if they come here to disturb this people, before they reach here this city will be in ashes; every house and tree and shrub and blade of grass will be destroyed. Here are twenty years’ gathering, but it will all burn. You will have won back the wilderness, barren again as on the day we entered it, but you will not have conquered the people. Our wives and children will go to the ca&#241;ons and take shelter in the mountains, while their husbands and sons will fight you. You will be without fuel, without subsistence for yourselves or forage for your animals. You will be in a strange land, while we know every foot of it. We will haunt and harass you and pick you off by day and by night, and, as God lives, we will waste your army away."</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="UtahWar">This was hopeful. Here at last was another chance to suffer persecution, and thus, in a measure, atone for any monstrous wrong they might have done. He hoped the soldiers would come despoiling, plundering, thus compelling them to use the torch and to flee. Another forced exodus would help to drive certain memories from his mind and silence the cries that were now beginning to ring in his ears.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Obedient to priestly counsel, the Saints declined, in the language of <persName key="Young, Brigham">Brigham</persName>, "to trust again in Punic faith." In April they began to move south, starting from the settlements on the north. During that and the two succeeding months thirty thousand of them
+
+<pb n="246" xml:id="mmm.fiction.wilson.1903.259"/>
+
+left their homes. They took only their wagons, bedding, and provisions, leaving their other possessions to the mercy of the expected despoiler. Before locking the doors of their houses for the last time, they strewed shavings, straw, and other combustibles
+through the rooms so that the work of firing the city could be done quickly. A soore of men were left behind to apply the torch the moment it became necessary,&#8212;should a gate be swung open or a latch lifted by hostile hands. Their homes and fields and
+orchards might be given back to the desert from which they had been won; but never to the Gentile invaders.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">To the south the wagons crept, day after day, to some other unknown desert which their prophet should choose, and where, if the Lord willed, they would again charm orchards and gardens and green fields from the gray, parched barrens.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Late in June the army of <persName key="Johnston, Albert Sidney">Johnston</persName> descended Emigration Ca&#241;on, passed through the echoing streets of the all but deserted city and camped on the River Jordan. But, to the deep despair of one observer,
+these invaders committed no depredation or overt act. After resting inoffensively two days on the Jordan, they marched forty miles south to Cedar Valley, where Camp Floyd was established.</seg></p>
+
+<p><seg type="Context" subtype="TerritorialAdministration"><seg type="Context" subtype="UtahWar">Thus, no one fully comprehending how it had come about, peace was seen suddenly to have been restored. The people, from <persName key="Young, Brigham">Brigham</persName> down, had been offered a free pardon for all past treasons and seditions if they would return to their allegiance to
+
+<pb n="247" xml:id="mmm.fiction.wilson.1903.260"/>
+
+the Federal government; the new officers of <placeName type="state" key="Utah Territory">the Territory</placeName> were installed, sons of perdition in the seats of the Lord’s mighty; and sermons of wrath against Uncle Sam ceased for the moment to resound in the tabernacle. Early in July, <persName key="Young, Brigham">Brigham</persName> ordered the people to return to their homes. They had offered these as a sacrifice, even as Abraham had offered Isaac, and the Lord had caught them a timely ram in the thicket.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">In the midst of the general rejoicing, Joel Rae was overwhelmed with humiliation and despair. He was ashamed for having once wished to be another Lion of the Lord. It was a poor way to find favour with God, he thought,&#8212;this refusing battle when it had been all but forced upon them. It was plain, however, that the Lord meant to try them further, &#8212;plain, too, that in His inscrutable wisdom He had postponed the destruction of the wicked nation to the east of them.</seg></p>
+
+<p>He longed again to rise before the people and call them to repentance and to action. Once he would have done so, but now an evil shadow lay upon him. Intuitively he knew that his words would no longer come with power. Some virtue had gone out of him. And with this loss of confidence in himself came again a desire to be away from the crowded center.</p>
+
+<p>Off to the south was the desert. There he could be alone; there face God and his own conscience and have his inmost soul declare the truth about himself. In his sadness he would have liked to lead the people with him, lead them away from some evil, some
+
+<pb n="248" xml:id="mmm.fiction.wilson.1903.261"/>
+
+falsity that had crept in about them; he knew not what it was nor how it had come, but Zion had been defiled. Something was gone from the Church, something from <persName key="Young, Brigham">Brigham</persName> something from himself, &#8212;something, it almost seemed, even from the God of Israel. When the summer waned, his plan was formed to go to one of the southern settlements to live. <persName key="Young, Brigham">Brigham</persName> had approved. The Church needed new blood there.</p>
+
+<p>He rode out of the city one early morning in September, facing to the south over the rolling valley that lay between the hills now flaunting their first autumn colours. He was in haste to go, yet fearful of what he should meet there.</p>
+
+<p>A little out of the city he passed a man from the south, huddled high on the seat under the bow of his wagon-cover, who sang as he went one of the songs that had been so popular the winter before:&#8212;</p>
+
+<lg type="poem">
+<l>"Old squaw-killer Harney is on the way</l>
+<l>The Mormon people for to slay.</l>
+<l>Now if he comes, the truth I’ll tell,</l>
+<l>Our boys will drive him down to hell&#8212;</l>
+<l>Du dah, dudah, day!"</l>
+</lg>
+
+<p>He smiled grimly as the belated echo of war came
+back to him.</p>
+
+</div1>
+
+<div1 type="chapter">
+
+<pb n="477" xml:id="mmm.fiction.wilson.1903.496"/>
+
+<head>CHAPTER XLI.</head>
+
+<head><hi rend="italic">The Rise and Fall of a Bent Little Prophet</hi></head>
+
+<p>DOWN in the village the various dinners of ceremony to the visiting officials were over. An hour had followed of decent rest and informal chat between the visitors and their hosts, touching impartially on matters of general interest; on irrigation, the gift of tongues, the season's crop of peaches, the pouring out of the Spirit abroad, the best mixture of sheep-dip; on many matters not unpleasing to the practical-minded Deity reigning over them.</p>
+
+<p>Then the entire populace of Amalon, in its Sunday best of "valley tan" or store-goods, docked to the little square and sat expectantly on the benches under the green roof of the bowery, ready to absorb the droppings of the sanctuary.</p>
+
+<p>In due time came <persName key="Young, Brigham">Brigham</persName>, strolling between Elder Wardle and Bishop Wright, bland, affable, and benignant. On the platform about him sat his Counsellors, the more distinguished of his suite, and the local dignitaries of the Church. Among these came the little bent man with an
+
+<pb n="478" xml:id="mmm.fiction.wilson.1903.497"/>
+
+unwonted colour in his face, coming in absorbed in thought, shaking hands even with <persName key="Young, Brigham">Brigham</persName> with something of abstraction in his manner. Prudence and Follett came late, finding seats at the back next to a generous row of the Mrs. Seth Wright.</p>
+
+<p>The hymn to <persName key="Smith, Joseph">Joseph Smith</persName> was given out, and the congregation rose to sing:&#8212;</p>
+
+<lg type="hymn">
+
+<l>"Unchanged in death, with a Saviour's love,</l>
+<l>He pleads their cause in the courts above.</l>
+<lb/>
+<l>"His home's in the sky, he dwells with the gods,</l>
+<l>Far from the rage of furious mobs.</l>
+<lb/>
+<l>"He died, he died, for those he loved,</l>
+<l>He reigns, he reigns, in the realms above.</l>
+<lb/>
+<l>"Shout, shout, ye Saints! This boon is given,&#8212;</l>
+<l>We'll meet our martyred seer in heaven."</l></lg>
+
+<p>When they had settled into their seats, the Wild Ram of the Mountains arose and invoked a blessing on those present and upon those who had gone behind the veil; adding a petition that <persName key="Young, Brigham">Brigham</persName> be increased in his basket and in his store; in wives, docks, and herds, and in the gifts of the Holy Spirit.</p>
+
+<p>They sang another hymn, and when that was done, the little bent man arose and came hesitatingly forward to the baize-covered table that served as a pulpit. As President of the Stake it was his office to welcome the visitors, and this he did.</p>
+
+<p>There were whisperings in the audience when his appearance was noted. It was the first time he had
+
+<pb n="479" xml:id="mmm.fiction.wilson.1903.498"/>
+
+been seen by many of them in weeks. They whispered that he was failing.</p>
+
+<p>"He ought to be home this minute," was the first Mrs. Ward1e's diagnosis to the fifth Mrs. Wardle, behind her hymn-book, "with his feet in a mustard bath and a dose of gamboge and a big brewing of catnip tea. I can tell a fever as far as I can see it."</p>
+
+<p>The words of official welcome spoken, he began his discourse; but in a timid, shuffling manner so unlike his old self that still others whispered of his evident illness. Inside he burned with his purpose, but, with all his resolves, the presence of <persName key="Young, Brigham">Brigham</persName> left him unnerved. He began by referring to their many adversities since the day when they had first knelt to entreat the mercy of God upon the land. Then he spoke of revelations.</p>
+
+<p>"You must all have had revelations, because they have come even to me. Perhaps you were deaf to the voice, as I have been. Perhaps you have trusted too readily in some revelation that came years ago, supposedly from God&#8212;in truth, from the Devil. Perhaps you have been deaf to later revelations meant to warn you of the other's falseness."</p>
+
+<p>He was still uneasy, hesitating, fearful; but he saw interest here and there in the faces before him. Even <persName key="Young, Brigham">Brigham</persName>, though unseen by the speaker, was looking mildly curious.</p>
+
+<p>"You remember the revelation that came to <persName key="Smith, Joseph">Joseph</persName> in an early day when there was trouble in raising money to print the Book of Mormon,&#8212;
+
+<pb n="480" xml:id="mmm.fiction.wilson.1903.499"/>
+
+'Some revelations are from God, some from man, and some from the Devil.' Recalling the many chastenings God has put upon us, may we not have failed to test all our other revelations by this one?"</p>
+
+<p>Deep within he was angry at himself, for he was not speaking with words of fire as he had meant to; he was feeling a shameful cowardice in the presence of the Prophet. He had seen himself once more the Lute of the Holy Ghost, strong and moving; but now he was a poor, low-spoken, hesitating rambler. Nervously he went on, skirting about the edge of his truth as long as he dared, but feeling at last that he must plunge into its icy depths.</p>
+
+<p><seg type="Context" subtype="Polygamy">"In short, brethren, the Book of Mormon denounces and forbids our plural marriages."</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">Even this astounding declaration he made without warmth, in tones so low that many did not hear him. Those on the platform heard, however, and I now began to view his obvious physical weakness in a new light. Yet he continued, gaining a little in force.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">"The declarations on the subject in the Book of Mormon are so worded that we cannot fail to read them as denouncing and forbidding the practise of the Old Testament patriarchs in this matter of the family life."</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">In rapid succession he cited the passages to which he referred, those concerning David and Solomon and Noah and Ripkalish, who "did not do that
+
+<pb n="481" xml:id="mmm.fiction.wilson.1903.500"/>
+
+which was right in the sight of the Lord, for he did have many wives."</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">There were murmurings and rustlings among the people now, and on his right he heard <persName key="Young, Brigham">Brigham</persName> stirring ominously in his chair; but he nerved himself to keep on his feet, feeling he had that to say which should make them hail him as a new prophet when they understood.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">"But besides these warnings against the sin there are many early revelations to <persName key="Smith, Joseph">Joseph</persName> himself condemning it."</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">He cited several of these, feeling the amazement and the alarm grow about him.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">"And now against these plain words, given at many times in many places, written on the golden plates in letters that cannot lie, or brought to <persName key="Smith, Joseph">Joseph</persName> by the angel of the Lord, we have only the one revelation on celestial marriage. Read it now in the light of these other revelations and see if it does not too plainly convict itself of having been oounterfeited to <persName key="Smith, Joseph">Joseph</persName> by an evil spirit. Such, brethren, has been the revelation that the Lord has given to me again and again until it burns within me, and I must cry it out to you. Try to receive it from me."</seg></p>
+
+<p>There was commotion among the people in front, chairs were moved at his side, and a low voice called to him to sit down. He heard this voice through the ringing that had been in his ears for many days, like the beating of a sea against him, and he felt the strength go suddenly from his knees.</p>
+
+<pb n="482" xml:id="mmm.fiction.wilson.1903.501"/>
+
+<p>He stumbled weakly back to his chair and sank into it with head bowed, feeling, rather than seeing, the figure of <persName key="Young, Brigham">Brigham</persName> rise from its seat and step forward with deliberate, unrudled majesty.</p>
+
+<p>As the Prophet faced his people they became quite silent, so that the robins could be heard in the Pettigrew peach-trees across the street. He poured a glass of water from the pitcher on the table, and drank of it slowly. Then, leaning a little forward, resting both his big cushiony hands on the green of the table, the Lion of the Lord began to roar&#8212; very softly at first. Slowly the words came, in tones scarce audible, marked indeed almost by the hesitation of the first speaker. But then a difference showed; gradually the tone increased in volume, the words came faster, fluency succeeding hesitation, and now his voice was high and searching, while his easy, masterful gestures laid their old spell upon the people.</p>
+
+<p>"It does not occupy my feelings to curse any individual," he had begun, awkwardly; "in fact, I feel to render all thanks and praise for the discourse to which we have just listened, but I couldn't help saying to myself, 'Oh, dear, Granny! what a long tail our puss has got!'"</p>
+
+<p>An uneasy titter came from the packed square of faces in front of him. He went on with rising power:</p>
+
+<p>"But it is foretold in the Book of Mormon that the Lord will remove the bitter branches, and it's a good thing to find out where the bitter branches
+
+<pb n="483" xml:id="mmm.fiction.wilson.1903.502"/>
+
+are. We can remove them ourselves. We can't expect the Lord to do <hi rend="italic">all</hi> our dirty work. Now hear it once more, you that need to hear it&#8212;and damn all such poor pussyism as sniffles and whines and rejects it! We don't want that scrubby breed here!&#8212;Listen, I say. <seg type="Context" subtype="Polygamy">The celestial order of marriage is necessary for our exaltation to the fulness of the Lord's glory in the world eternal. Where much is given much is required. Understand me, &#8212;those that reject polygamy will be damned. Hear it now once for all. I will give you to know that God, our Father, has many wives, and so has Jesus Christ, our Elder Brother. Our God and Father in heaven is a being of tabernacle, or, in other words, He has a body of parts the same as you and I have. And that God and Father of ours was Adam."</seg></p>
+
+<p>Again there was a stirring below as if a wind swept the people, and the little man in his chair cowered for shame of himself. He had meant to do a great thing; he had thrilled so strongly with it; it had promised to master others as it had mastered him; and now he was shamed by the one true Lion of the Lord.</p>
+
+<p>"Hear it now," continued <persName key="Young, Brigham">Brigham</persName>. "When God, our Father Adam, came into the garden of Eden, he came into it with a celestial body, and brought one of his wives with him,&#8212;Eve. He made and organised this world. He is Michael, the Archangel, the Ancient of Days, about whom holy men have written and spoken. He is our Father and our God, and the only God with whom
+
+<pb n="484" xml:id="mmm.fiction.wilson.1903.503"/>
+
+we have to do. I could tell you much more about this; but were I to tell you the whole truth, blasphemy would be nothing to it, in the estimation of the superstitious and over-righteous of mankind. But I will tell you this, that Jesus, our Elder Brother, was begotten in the flesh by the same character that was in the garden of Eden, and who is our Father in Heaven."</p>
+
+<p>A chorus of Amens from the platform greeted this. It was led by the Wild Ram of the Mountains. In his chair the little bent man now cowered lower and lower, one moment praying for strength, the next for death; feeling the blood surge through him like storm waves that would beat him down. If only Heaven would send him one last moment of power to word this truth so that it might prevail. But <persName key="Young, Brigham">Brigham</persName> was continuing.</p>
+
+<p>"And what of this Elder Brother, Jesus? Did he reject the patriarchal order&#8212;like some poor pusillanimous cry&#8212;babies among us? No, I say! It will be borne in mind that once on a time there was a marriage in Cana of Galilee; and on a careful reading of that transaction it will be discovered that no less a person than Jesus Christ was married on that occasion. If he was never married his intimacy with Mary and Martha, and the other Mary also, whom Jesus loved, must have been highly unbecoming and improper, to say the best of it. I will venture to say that, if Jesus Christ was now to pass through the most pious countries in Christandom, with a train of women such as used to follow
+
+<pb n="485" xml:id="mmm.fiction.wilson.1903.504"/>
+
+Him, fondling about Him, combing His hair, anointing Him with precious ointments, washing His feet with tears, and wiping them with the hair of their heads,&#8212;that, unmarried or even married, He would be mobbed, tarred and feathered, and ridden, not on an ass, but on a rail. Now did He multiply, and did He see His seed? Others may do as they like, but I will not charge our Saviour with neglect or transgression in this or any other duty."</p>
+
+<p>He turned and went to his seat with a last threatening gesture, amid many little sounds of people relaxing from strained positions.</p>
+
+<p>But then, before another could arise, a wonder came upon them. The little man stood up and came quickly forward, a strange new life in his step, a new confidence in his bearing, a curious glow of new strength in his face. Even his stoop had straightened for the moment. For, as he had listened to <persName key="Young, Brigham">Brigham</persName>'s last words, the picture of his vision in the desert had come back,&#8212;the cross in the sky, the crucified Saviour upon it, the head in death-agony fallen over upon the shoulder. And then before his eyes had come page after page of that New Testament with a wash of blood across two of them. He felt the new life he had prayed for pouring into his veins, and with it a fierce anger. The one on the cross who had been more than man, who had shirked no sacrifice and loved infinitely, was not thus to be assailed. A panorama of wrong&#8212;wrong thinking and wrong doing&#8212;<choice><orig>ex-
+
+<pb n="486" xml:id="mmm.fiction.wilson.1903.505"/>
+
+tended</orig><reg>extended</reg></choice> before his clearing gaze. For once he seemed to see truth in a vision and to feel the power to utter it.</p>
+
+<p>There was silence again as he stood in front of the little table, the faces before him frozen into wonder that he should have either the power or the temerity to answer <persName key="Young, Brigham">Brigham</persName>. He spoke, and his voice was again rough with force, and high and fearless, a voice many of them recalled from the days when he had not been weak.</p>
+
+<p>"Now I see what we have done. Listen, brethren, for God has not before so plainly said it to any man, and I know my time is short among you. We have gone back to the ages of Hebrew barbarism for our God&#8212;to the God of Battles worshipped by a heathen people&#8212;a God who loved the reek of blood and the smell of burning flesh. But you shall not&#8212;</p>
+
+<p>He turned squarely and fiercely to the face of <persName key="Young, Brigham">Brigham</persName>.</p>
+
+<p>"&#8212;you shall not confuse that bloody God of Battles with the true Christ, nor yet with the true God of Love that this Christ came to tell us of. <seg type="Context" subtype="LDSPersecution">Once I believed in Him. I was taught to by your priests. War seemed a righteous thing, for we had been grievously put upon, and I believed the God of Israel should avenge our wrongs as He had avenged those of His older Zion.</seg> And hear me now&#8212;so long as I believed this, I was no coward; while you, sir&#8212;"</p>
+
+<pb n="487" xml:id="mmm.fiction.wilson.1903.506"/>
+
+<p>A long forefinger was pointed straight at the amazed <persName key="Young, Brigham">Brigham</persName>.</p>
+
+<p>"&#8212;while you, sir, were a craven, contemptible in your cowardice. I would have fought in Echo Ca&#241;on to the end, because I believed. But you did not believe, and so you were afraid to fight. And for your cowardice and your wretched lusts your name among all but your ignorant dupes shall become a hissing and a scorn. For mark it well, unless you forsake that heathen God of Battles and preach the divine Christ of the New Testament, you shall come to hold only the ignorant, and them only by keeping them ignorant."</p>
+
+<p>The commotion among the people in front was now all but a panic. On the platform the sires of Israel whispered one to another, while <persName key="Young, Brigham">Brigham</persName> gazed as if fascinated, driven to admiration for the speaker's power and audacity. For the feverish, fleeting moment, Joel Rae was that veritable Lion of the Lord he had prayed to be, putting upon the people his spell of the old days. Heads were again strained up and forward, and amazed horror was on most of the faces. Far back, Prudence trembled, feeling that she must be away at once, until she felt the firm grasp of Follett's hand. The speaker went on, having turned again to the front.</p>
+
+<p>"Instead of a church you shall become justly hated and despised as a people who foul their homes and dishonour beyond forgiveness the names of wife and mother. Then your punishment shall come upon you as it has already come for this and for
+
+<pb n="488" xml:id="mmm.fiction.wilson.1903.507"/>
+
+other sins. Even now the Gentile is upon us; and mark this truth that God has but now given me to know: <seg type="Context" subtype="LDSPersecution">we have never been persecuted as a church, &#8212;but always as a political body hostile to the government of this nation</seg>. Even so, you had no faith. Believing as I believed, I would have fought that nation and died a thousand bloody deaths rather than submit. But you had no faith, and you were so low that you let yourselves be ruled by a coward &#8212;and I tell you God <hi rend="italic">hates</hi> a coward."</p>
+
+<p>Now the old pleading music came into his voice, &#8212;the music that had made him the Lute of the Holy Ghost in the Poet's roster of titles.</p>
+
+<p>"O brethren, let me beg you to be good&#8212;simply good. Nothing can prevail against you if you are. If you are not, nothing shall avail you, &#8212;the power of no priesthood, no signs, ordinances, or rituals. Believe me, I know. Not even the forgiveness of the Father. For I tell you there is a divinity within each of you that you may some day unwittingly affront; and then you shall lie always in hell, for if you cannot forgive yourself, the forgiveness of God will not free you even if it come seventy times seven. I <hi rend="italic">know</hi>. <seg type="Blame" subtype="LDS_LDS">For fifteen years I have lain in hell for the work this Church did <seg type="Massacre" subtype="Location">at <geogName type="valley" key="">Mountain Meadows</geogName></seg>. <seg type="Reaction" subtype="Commemoration">A cross was put there to the memory of those we slew.</seg> Not a day has passed but that cross has been burned and cut into my living heart with a blade of white heat. Now I am going to hell; but I am tired and ready to go. Nor do I go as a coward, as <hi rend="italic">you</hi> will go&#8212;"</seg></p>
+
+<pb n="489" xml:id="mmm.fiction.wilson.1903.508"/>
+
+<p>Again the long foreiinger was flung out to point at <persName key="Young, Brigham">Brigham</persName>.</p>
+
+<p>"&#8212;but I shall go as a fighter to the end. I have not worshipped Mammon, and I have conquered my flesh&#8212;conquered it after it had once all but conquered me, so that I had to fight the harder&#8212;"</p>
+
+<p>He stopped, waiting as if he were not done, but the spell was broken. The life, indeed, had in the later moments been slowly dying from his words; and, as they lost their fire, scattered voices of protest had been heard; then voices in warning from behind him, and the sound of two or three rising and pushing back their chairs.</p>
+
+<p>Now that he no longer heard his own voice he stood quivering and panic-stricken, the fire out and the pained little smile coming to make his face gentle again. He turned weakly toward <persName key="Young, Brigham">Brigham</persName>, but the Prophet had risen from his seat and his broad back was rounded toward the speaker. He appeared to be consulting a group of those who stood on the platform, and they who were not of this group had also turned away.</p>
+
+<p>The little bent man tried again to smile, hoping for a friendly glance, perhaps a hand-clasp without words from some one of them. Seeing that he was shunned, he stepped down off the platform at the side, twisting his hat in his long, thin hands in embarrassment. A moment he stood so, turning to look back at the group of priests and Elders around the Prophet, seeking for any sign, even for a glance that should be not unkind. The little pained smile
+
+<pb n="490" xml:id="mmm.fiction.wilson.1903.509"/>
+
+still lighted his face, but no friendly look came from the others. Seeing only the backs turned toward him, he at length straightened out his crumpled hat, still smiling, and slowly put it on his head; as he turned away he pulled the hat farther over his eyes, and then he was off along the dusty street, looking to neither side, still with the little smile that made his face gentle.</p>
+
+<p>But when he had come to the end of the street and was on the road up the hill, the smile died. He seemed all at once to shrink and stoop and fade, &#8212;>no longer a Lion of the Lord, but a poor, white-faced, horrified little man who had meant in his heart to give a great revelation, and who had succeeded only in uttering blasphemy to the very face of God's prophet.</p>
+
+<p>From below, the little groups of excited people along the street looked up and saw his thin, bent figure alone in the fading sunlight, toiling resolutely upward.</p>
+
+<p>Other groups back in the square talked among themselves, not a few in whispers. A listener among them might have heard such expressions as, "He'll be blood-atoned sure!"&#8212;"They'll make a breach upon him!"&#8212;"They'll accomplish his decease!" &#8212;" He'll be sent over the rim of the basin right quick!" One indignant Saint, with a talent for euphemism, was heard to say, "<persName key="Young, Brigham">Brigham</persName> will have his spirit disembodied!"</p>
+
+<p>To the priests and Elders on the platform Elder Wardle was saying, "The trouble with him was he
+
+<pb n="491" xml:id="mmm.fiction.wilson.1903.510"/>
+
+was crazy with fever. Why, I'll bet my best set of harness his pulse ain't less than a hundred and twenty this minute."</p>
+
+<p>The others looked at <persName key="Young, Brigham">Brigham</persName>.</p>
+
+<p>"He's a crazy man, sure enough," assented the Prophet, "but my opinion is he'll stay crazy, and it wouldn't be just the right thing by Israel to let him go on talking before strangers. You see, it <hi rend="italic">sounds</hi> so almighty sane!"</p>
+
+<p>Back in the crowd Prudence and Follett had lingered a little at the latter's suggestion, for he had caught the drift of the talk. When he had comprehended its meaning they set off up the hill, full of alarm.</p>
+
+<p>At the door Christina met them. They saw she had been crying.</p>
+
+<p>"Where is father, Christina?"</p>
+
+<p>"Himself saddle his horse, and say, 'I go to toe some of those marks.' He say, 'I see you plenty not no more, so good-bye!' He kissed me," she added.</p>
+    
+<p>"Which way did he go?"</p>
+
+<p>"So!" She pointed toward the road that led out of the valley to the north.</p>
+
+<p>"I'll go after him," said Follett.</p>
+
+<p>"I'll go with you. Saddle Dandy and Kit&#8212;and Christina will have something for you to eat; you've had nothing since morning."</p>
+
+<p>"I reckon I know where we'll have to go," said Follett, as he went for the saddles.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="492" xml:id="mmm.fiction.wilson.1903.511"/>
+
+<head>CHAPTER XLII.</head>
+
+<head><hi rend="italic">The Little Bent Man at the Foot of the Cross</hi></head>
+
+<p>It was dusk when they rode down the hill together. They followed the ca&#241;on road to its meeting with the main highway at the northern edge of Amalon. Where the roads joined they passed Bishop Wright, who, with his hat off, turned to stare at them, and to pull at his fringe of whisker in seeming perplexity.</p>
+
+<p>"He must have been on his way to our house," Prudence called.</p>
+
+<p>"With that hair and whiskers," answered Follett, with some irrelevance, "he looks like an old buffalo-bull just before shedding-time."</p>
+
+<p>They rode fast until the night fell, scanning the road ahead for a figure on horseback. When it was quite dark they halted.</p>
+
+<p>"We might pass him," suggested Follett. "He was fairly tuckered out, and he might fall off any minute."</p>
+
+<p>"Shall we go on slowly?" she asked.</p>
+
+<p>"We might miss him in the dark. But the moon
+
+<pb n="493" xml:id="mmm.fiction.wilson.1903.512"/>
+
+will be up in an hour, and then we can go at full speed. We better wait."</p>
+
+<p>"Poor little sorry father! I wish we had gone home sooner."</p>
+
+<p>"He certainly's got more spunk in him than I gave him credit for! He had old <persName key="Young, Brigham">Brigham</persName> and the rest of them plumb buffaloed for a minute. Oh, he did crack the old bull-whip over them good!"</p>
+
+<p>"Poor little father! Where could he have gone at this hour?"</p>
+
+<p><seg type="Reaction" subtype="Commemoration">"I've got an idea he's set out for that cross he's talked so much about&#8212;that one up here in <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"I've seen it,&#8212;where <seg type="Blame" subtype="IndiansIndependently">the Indians</seg> killed <seg type="Massacre" subtype="Casualties">those poor people</seg> <seg type="Massacre" subtype="Dates">years ago</seg>. But what did he mean by the crime of his Church there?"</seg></p>
+
+<p>"We'll ask him when we find him. And I reckon we'll find him right there if he holds out to ride that far."</p>
+
+<p>He tied her pony to an oak-bush a little off the road, threw Dandy's bridle-rein to the ground to make him stand, and on a shelving rock near by he found her a seat.</p>
+
+<p>"It won't be long, and the horses need a chance to breathe. We've come along at a right smart clip, and Dandy's been getting a regular grass stomach on him back there."</p>
+
+<p>Side by side they sat, and in the dark and stillness their own great happiness came back to them.</p>
+
+<p>"The first time I liked you very much," she said,
+
+<pb n="494" xml:id="mmm.fiction.wilson.1903.513"/>
+
+after he had kissed her, "was when I saw you were so kind to your horse."</p>
+
+<p>"That's the only way to treat stock. I can gentle any horse I ever saw. Are you sure you care enough for me?"</p>
+
+<p>"Oh, yes, yes, <hi rend="italic">yes!</hi> It must be enough. It's so much I'm frightened now."</p>
+
+<p>"Will you go away with me?"</p>
+
+<p>"Yes, I want to go away with you."</p>
+
+<p>"Well, you just come out with me,&#8212;out of this hole. There's a fine big country out there you don't know anything about. Our home will reach from <placeName type="settlement" key="Corpus Christi, TX">Corpus Christi</placeName> to <placeName type="settlement" key="Deadwood, SD">Deadwood</placeName>, and from the Missouri clear over to Mister Pacific Ocean. We'll have the prairies for our garden, and the high plains will be our front yard, with the buffalo-grass thicker than hair on a dog's back. And, say, I don't know about it, but I believe they have a bigger God out there than you've got in this Salt Lake Basin. Anyway, He acts more like you'd think God ought to act. He isn't so particular about your knowing a lot of signs and grips and passwords and winks. Going to your heaven must be like going into one of those Free Mason lodges,&#8212;a little peek-hole in the door, and God shoving the cover back to see if you know the signs. I guess God isn't so trifling as all that,&#8212;having, you know, a lot of signs and getting ducked under water three times and all that business. I don't exactly know what His way is, but I'll bet it isn't any way that you'd have to laugh at if you saw it&#8212;like as if, now, you saw old
+
+<pb n="495" xml:id="mmm.fiction.wilson.1903.514"/>
+
+man Wright and God making signs to each other through the door, and Wright saying:&#8212;
+
+<quote><lg type="poem">
+<l>"'Eeny meeny miny mo!</l>
+<l>Cracky feeny finy fo!"</l></lg></quote>
+
+and God looking in a little book to see if he got all the words right."</p>
+
+<p>"Anyway, I'm glad you weren't baptised, after what Father said to-day."</p>
+
+<p>"You'll be gladder still when you get out there where they got a full-grown man's God."</p>
+
+<p>They talked on of many things, chiefly of the wonder of their love&#8212;that each should actually be each and the two have come together&#8212;until a full yellow moon came up, seemingly from the farther side of the hill in front of them. When at last its light flooded the road so that it lay off to the north like a broad, gray ribbon flung over the black land, they set out again, galloping side by side mile after mile, scanning sharply the road ahead and its near sides.</p>
+
+<p>Down out of Pine Valley they went, and over more miles of gray alkali desert toward a line of hills low and black in the north.</p>
+
+<p>They came to these, followed the road out of the desert through a narrow gap, and passed into <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, reining in their horses as they did so.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">Before them <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> stretched between two ranges of low, rocky hills, narrow at first but <choice><orig>widen-
+
+<pb n="496" xml:id="mmm.fiction.wilson.1903.515"/>
+
+ing</orig><reg>widening</reg></choice> gradually from the gap through which they had come. But the ground where the long, rich grass had once grown was now barren, gray and ugly in the moonlight, cut into deep gullies and naked of all but a scant growth of sage-brush which the moon was silvering, and a few clumps of shadowy scrub-oak along the base of the hills on either side.</seg></p>
+
+<p>Instinctively they stopped, speaking in low tones. And then there came to them out of the night's silence a strange, weird beating; hollow, muffled, slow, and rhythmic, but penetrating and curiously exciting, like another pulse cunningly playing upon their own to make them beat more rapidly. The girl pulled her horse close in by his, but he reassured her.</p>
+
+<p>"It's Indians&#8212;they must be holding the funeral of some chief. But no matter&#8212;these Indians aren't any more account than prairie-dogs."</p>
+
+<p>They rode on slowly, the funeral-drum sounding nearer as they went.</p>
+
+<p><seg type="Reaction" subtype="Commemoration">Then far up <geogName type="valley" key="Mountain Meadows">the meadow</geogName> by the roadside they could see the hard, square lines of the cross in the moonlight.</seg> Slower still they went, while the drum-beats became louder, until they seemed to fall upon their own ear-drums.</p>
+
+<p>"Could he have come to this dreadful place?" she asked, almost in a whisper.</p>
+
+<p>"We haven't passed him, that's sure; and I've got a notion he did. I've heard him talk about <seg type="Reaction" subtype="Commemoration">this cross</seg> off and on&#8212;it's been a good deal in his
+
+<pb n="497" xml:id="mmm.fiction.wilson.1903.516"/>
+
+mind&#8212;and maybe he was a little out of his head. But we'll soon see."</p>
+
+<p><seg type="Reaction" subtype="Commemoration">They walked their horses up a little ascent, and the cross stood out more clearly against the sky. They approached it slowly, leaning forward to peer all about it; but the shadows lay heavy at its base, and from a little distance they could distinguish no outline.</seg></p>
+
+<p>But at last they were close by and could pierce the gloom, and there <seg type="Reaction" subtype="Commemoration">at the foot of the cross, beside the caim of stones that helped to support i</seg>t, was a little huddled bit of blackness. It moved as they looked, and they knew the voice that came from it.</p>
+
+<p>"O God, I am tired and ready! Take me and burn me!"</p>
+
+<p>She was off her horse and quickly at his side. Follett, to let them be alone, <seg type="Massacre" subtype="Aftermath">led the horses to the spring below. It was almost gone now, only the feeblest trickle of a rivulet remaining. The once green meadows had behaved, indeed, as if a curse were put upon them. Hardly had grass grown or water run through it since the day that Israel wrought there.</seg> When he had tied the horses he heard Prudence calling him.</p>
+
+<p>"I'm afraid he's delirous," she said, when he reached her side. "<seg type="Massacre" subtype="Battle">He keeps hearing cries and shots, and <seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">sees a woman's hair waving before him</seg></seg>, and he's afraid of something back of him.</seg> What can we do?"</p>
+
+<pb n="498" xml:id="mmm.fiction.wilson.1903.517"/>
+
+<p><seg type="Reaction" subtype="Commemoration">At the foot of the cross the little man was again sounding his endless prayer.</seg></p>
+
+<p>"Bow me, bend me, break me, for I have been soul-proud. Burn me out&#8212;"</p>
+
+<p>She knelt by his side, trying to soothe him.</p>
+
+<p>"Father&#8212;it's all right&#8212;it's Prudence&#8212;"</p>
+
+<p>But at her name he uttered a cry with such terror in it that she shuddered and was still. Then he began to mutter incoherently, and she heard her own name repeated many times.</p>
+
+<p>"If that awful beating would only stop," she said to Follett, who had now brought water in the curled brim of his hat. She tried to have the little man drink. He swallowed some of the water from the hat-brim, shivering as he did so.</p>
+
+<p>"We ought to have a fire," she said. Follett began to gather twigs and sage-brush, and presently had a blaze in front of them.</p>
+
+<p>In the light of the fire the little man could see their faces, and he became suddenly coherent, smiling at them in the old way.</p>
+
+<p>"Why have you come so far in the night?" he asked Prudence, taking one of her cool hands between his own that burned.</p>
+
+<p>"But, you poor little father! why have <hi rend="italic">you</hi> come, when you should be home in bed? You are burning with fever."</p> 
+
+<p>"Yes, yes, dear, but it's over now. This is the end. I came here&#8212;to be here&#8212;I came to say my last prayer in the body. And they will come to find me here. You must go before they come."</p>
+
+<pb n="499" xml:id="mmm.fiction.wilson.1903.518"/>
+
+<p>"Who will find you?"</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"They from the Church. I didn't mean to do it, but when I was on my feet something forced it out of me. I knew what they would do, but I was ready to die, and I hoped I could awaken some of them."</seg></p>
+
+<p>"But no one shall hurt you."</p>
+
+<p>"Don't tempt me to stay any longer, dear, even if they would let me. <seg type="Blame" subtype="LDS_LDS">Oh, you don't know, you don't know&#8212;and that Devil's drumming over there to madden me as on <seg type="Massacre" subtype="Dates">that other night</seg>.</seg> But it's just &#8212;my God, how just!"</p>
+
+<p>"Come away, then. Ruel will find your horse, and we'll ride home."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"It's too late&#8212;don't ask me to leave my hell now. It would only follow me. It was this way that night&#8212;the night before&#8212;the beating got into my blood and hammered on my brain till I didn't know. Prudence, I must tell you&#8212;everything&#8212;"</seg></p>
+
+<p>He glanced at Follett appealingly, as he had looked at the others when he left the platform that day, beseeching some expression of friendliness.</p>
+
+<p>"Yes, I must tell you&#8212;everything." But his face lighted as Follett interrupted him.</p>
+
+<p><seg type="Massacre" subtype="Survivors">"You tell her," said Follett, doggedly, "how you saved her that day and kept her like your own and brought her up to be a good woman&#8212;<hi rend="italic">that's</hi> what you tell her." The gratitude in the little man's eyes had grown with each word.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"Yes, yes, dear, I have loved you like my own
+
+<pb n="500" xml:id="mmm.fiction.wilson.1903.519"/>
+    
+little child, but <seg type="Massacre" subtype="Casualties">your father and mother</seg> were killed here <seg type="Massacre" subtype="Dates">that day</seg>&#8212;and I found you and loved you &#8212;such a dear, forlorn little girl&#8212;will you hate me now? "he broke off anxiously. She had both his hands in her own.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"But why, how <hi rend="italic">could</hi> I hate you? You are my dear little sorry father&#8212;&#8212;all I've known. I shall always love you."</seg></p>
+
+<p>"That will be good to take with me," he said, smiling again. "It's all I've got to take&#8212;it's all I've had since the day I found you. You are good," he said, tuming to Follett.</p>
+
+<p>"Oh, shucks!" answered Follett.</p>
+
+<p>A smile of rare contentment played over the little man's face.</p>
+
+<p>In the silence that followed, the funeral-drum came booming in upon them over the ridge, and once they saw an Indian from the encampment standing on top of the hill to look down at their fire. Then the little man spoke again.</p>
+
+<p>"You will go with him," he said to Prudunce.</p>
+
+<p>"He will take you out of here and back to your mother's people."</p>
+
+<p>"She's going to marry me," said Follett. The little man smiled at this.</p>
+
+<p>"It is right&#8212; the Gentile has come to take you away. The Lord is cunning in His vengeance. I felt it must be so when I saw you together."</p>
+
+<p>After this he was so quiet for a time that they thought he was sleeping. But presently he grew restless again, and said to Follett:&#8212;</p>
+
+<pb n="501" xml:id="mmm.fiction.wilson.1903.520"/>
+
+<p><seg type="Reaction" subtype="Commemoration"><seg type="Massacre" subtype="Aftermath">"I want you to have me buried here. Up there to the north, three hundred yards from here on the right, is a dwarf cedar standing alone. Straight over the ridge from that and half-way down the other side is another cedar growing at the foot of a ledge. Below that ledge is a grave. There are stones piled flat, and a cross cut in the one toward the cedar. Make a grave beside that one, and put me in it&#8212;just as I am. Remember that&#8212;<hi rend="italic">uncoffined</hi>. It must be that way, remember. There's a little book here in this pocket. Let it stay with me&#8212;but surely uncoffined, remember, as &#8212;as the rest of them were."</seg></seg></p>
+
+<p>"But, father, why talk so? You are going home with us."</p>
+
+<p>"There, dear, it's all right, and you'll feel kind about me always when you remember me?"</p>
+
+<p>"<hi rend="italic">Don't</hi>, &#8212; don't talk so."</p>
+
+<p>"If that beating would only stay out of my brain &#8212;the thing is crawling behind me again! Oh, no, not yet&#8212;not yet! Say this with me, dear:&#8212;</p>
+
+<p><hi rend="italic">"'The Lord it my Shepherd; I shall not want.</hi></p>
+
+<p><hi rend="italic">"'He maketh me to he down in green pastures: he leadeth me beside the still waters.'"</hi></p>
+
+<p>She said the psalm with him, and he grew quiet again.</p>
+
+<p>"You will go away with your husband, and go at once&#8212;" He sat up suddenly from where he had been lying, the light of a new design in his eyes.</p>
+
+<p>"Come,&#8212; you will need protection now&#8212;I must
+
+<pb n="502" xml:id="mmm.fiction.wilson.1903.521"/>
+
+marry you at once. Surely that will be an office acceptable in the sight of God. And you will remember me better for it &#8212;&#8212;and kinder. Come, Prudence; come, Ruel!"</p>
+
+<p>"But, father, you are sick, and so weak&#8212;let us wait."</p>
+
+<p>"It will give me such joy to do it&#8212;and this is the last."</p>
+
+<p>She looked at Follett questioningly but gave him her hand silently when he arose from the ground where he had been sitting.</p>
+
+<p>"He'd like it, and it's what we want, &#8212;all simple," he said.</p>
+
+<p>In the light of the fire they stood with hands joined, and the little man, too, got to his feet, helping himself up by <seg type="Reaction" subtype="Commemoration">the cairn</seg> against which he had been leaning.</p>
+
+<p>Then, with the unceasing beats of the funeral-drum in their ears, he made them man and wife.</p>
+
+<p>"Do you, Ruel, take Prudence by the right hand to receive her unto yourself to be your lawful and wedded wife, and you to be her lawful and wedded husband for time and eternity&#8212;"</p>
+
+<p>Thus far he had followed the formula of his Church, but now he departed from it with some thing like defiance coming up in his voice.</p>
+
+<p><seg type="Context" subtype="Polygamy">"&#8212;with a covenant and promise on your part that you will cleave to her and to none other, so help you God, taking never another wife in spite of promise or threat of any priesthood whatsoever,
+
+<pb n="503" xml:id="mmm.fiction.wilson.1903.522"/>
+
+cleaving unto her and her alone with singleness of heart?"</seg></p>
+
+<p>When they had made their responses, and while the drum was beating upon his heart, he pronounced them man and wife, sealing upon them "the blessings of the holy resurrection, with power to come forth in the morning clothed with glory and immortality."</p>
+
+<p>When he had spoken the final words of the ceremony, he seemed to lose himself from weakness, reaching out his hands for support. They helped him down on to the saddle-blanket that Follett had brought, and the latter now went for more wood.</p>
+
+<p>When he came back they were again reciting the psalm that had seemed to quiet the sufferer.</p>
+
+<p><hi rend="italic">"'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.'"</hi></p>
+
+<p>Follett spread the other saddle-blanket over him. He lay on his side, his face to the fire, one moment saying over the words of the psalm, but the next listening in abject terror to something the others could not hear.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">"I wonder you don't hear their screams," he said, in one of these moments; "but their blood is not upon you."</seg> Then, after a little:&#8212;</p>
+
+<p>" See, it is growing light over there. Now they will soon be here. They will know where I had to come, and they will have a spade." He seemed to be fainting in his last weakness.</p>
+
+<p>Another hour they sat silently beside him. Slowly
+
+<pb n="504" xml:id="mmm.fiction.wilson.1903.523"/>
+
+the dark over the eastern hill lightened to a gray. Then the gray paled until a flush of pink was there, and they could see about them in the chill of the morning.</p>
+
+<p>Then came a silence that startled them all. The drum had stopped, and the night-long vibrations ceased from their ears.</p>
+
+<p>They looked toward the little man with relief, for the drumming had tortured him. But his breathing was shallow and irregular now, and from time to time they could hear a rattle in his throat. His eyes, when he opened them, were looking far off. He was turning restlessly and muttering again. She took his hands and found them cold and moist.</p>
+
+<p>"His fever must have broken," she said, hopefully. The little man opened his eyes to look up at her, and spoke, though absently, and not as if he saw her.</p>
+
+<p>"They will have a spade with them when they come, never fear. And the spot must not be forgotten&#8212;three hundred yards north to the dwarf cedar, then straight over the ridge and half-way down, to the other cedar below the sandstone&#8212; and uncoffined, with the book here in this pocket where I have it. 'Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord forever.'"</p>
+
+<p>He started up in terror of something that seemed
+
+<pb n="505" xml:id="mmm.fiction.wilson.1903.524"/>
+
+to be behind him, but fell back, and a moment later was rambling off through some sermon of the bygone year.</p>
+
+<p>"Sometimes, brethren, it has seemed to my inner soul that Christ came not alone to reveal God to man, but to reveal man to God; taking on that human form to reconcile the Father to our sins. Sometimes I have thought He might so well have done this that God would view our sins as we view the faults of our well-loved little children&#8212;loving us through all&#8212;perhaps touched&#8212;even more amused than offended, at our childish stumbling: in these blind, twisted paths of right and wrong; knowing at the last He should save the least of us who have been most awkward. But, oh, brethren! beware of the sin for which you cannot win forgiveness from that other God, that spirit of the true Father, fixed forever in the breast of each of you."</p>
+
+<p>The light was coming swiftly. Already their fire had paled, and the embers, but a little before glowing red, seemed now to be only white ashes.</p>
+
+<p>From over the ridge back of them, whence had come the notes of the funeral-drum, an Indian now slouched toward them, drawn by curiosity; stopping to look, then advancing, to stop again.</p>
+
+<p>At length he stood close by them, silent, gazing. Then, as if understanding, he spoke to Follett.</p>
+
+<p>"Big sick&#8212;go get big medicine! Then you give chitcup!"</p>
+
+<p>He ran swiftly back, disappearing over the ridge.</p>
+
+<p>The sick man was now delirious again, muttering
+
+<pb n="506" xml:id="mmm.fiction.wilson.1903.525"/>
+
+disjointed texts and bits of old sermons with which the Lute of the Holy Ghost, young and ardent, had once thrilled the Saints.</p>
+
+<p>"'For without shedding of blood there shall be no remission'&#8212;'but where are now your prophets which prophesied unto you, saying the King of Babylon shall not come against you nor against this land'&#8212;'but I say unto you which hear, Love your enemies, do good to them which hate you, bless them that curse you, and pray for them which despitefully use you.' That is where the stain was, &#8212;the bloody stain that held the leaves together&#8212;but I tore them apart and read,&#8212;"</p>
+
+<p>The Indian who had come to them first now appeared again over the ridge, and with him another. The second was accoutered lavishly with a girdle of brilliant feathers, anklets of shell, and bracelets of silver, his face barred by alternating streaks of vermilion and yellow, a lank braid of his black hair hanging either side of his face, and on his head the horns and painted skull of a buffalo. In one hand was a wand of red-dyed wood with a beaded and quilled amulet at the end. The other down by his side held something they did not at first notice.</p>
+
+<p>The little man was growing weaker each moment, but still muttered as he turned restlessly on the blanket.</p>
+
+<p>"'And as ye would that men should do to you, do ye also to them likewise.'" His quick ear <choice><orig>detect-
+
+<pb n="507" xml:id="mmm.fiction.wilson.1903.526"/>
+
+ing</orig><reg>detecting</reg></choice> the light step of the approaching Indians, he sat up and grasped Follett's arm.</p>
+
+<p>"What do they want? Let no one come now. Death is here and I am going out to meet it&#8212;I am glad to go&#8212;so tired!"</p>
+
+<p>Follett, looking up at the two Indians now standing awkwardly by them, said, in a low tone, with I a wave of his free arm:</p>
+
+<p><hi rend="italic">"Vamose!"</hi></p>
+
+<p>"Big medicine!" grunted the Indian who had first come to them, pointing to his companion. In an instant this other was before the sick man, chanting and making passes with his wand.</p>
+
+<p>Then, before Follett could rise, the Indian's other hand came up, and they saw, slowly waved before the staring eyes of the little man, a long mass of yellow hair that writhed and ran in little gleaming waves as if it lived. It was tied about the wrist of the Indian with strips of scarlet flannel &#8212; tied below a broad silver bracelet that glittered from the bronzed arm.</p>
+
+<p>The face of the sick man had a moment before been tranquil, almost smiling; but now his eyes followed the hair with something of fascination in them. Then a shade of terror darkened the peaceful look, like the shadow of a cloud hurried by the wind over a fair green garden.</p>
+
+<p>But with its passing there came again into his eyes the light of sanity. He gazed at the hair, breathless, still in wonder; and then very slowly there grew over his face the look of an unearthly 
+
+<pb n="508" xml:id="mmm.fiction.wilson.1903.527"/>
+
+peace, so that they who were by him deferred the putting aside of the Indian. With eyes wide open, full of a calm they could not understand, he looked and smiled, his wan face flushing again in that last time. Then, reaching suddenly out, his long white fingers tangled themselves feebly in the golden skein, and with a little loving uplift of the eyes he drew it to his breast. A few seconds he held it so, with an eagerness that told of some sweet and mighty relief come to his soul, &#8212; some illumination of grace that had seemed to be struck by the first sunrays from that hair into his wondering eyes.</p>
+
+<p>Slowly, then, the little smile faded,&#8212;the wistful light of it dying for the last time. The tired head fell suddenly back and the wan lids closed over lifeless eyes.</p>
+
+<p>Still the hand clutched the hair to the quiet heart, the yellow strands curling peacefully through the dead fingers as if in forgiveness. From the look of rest on the still face it was as if, in his years of service and sacrifice, the little man had learned how to forgive his own sin in the flash of those last heart-beats when his soul had rushed out to welcome Death.</p>
+
+<p>Prudence had arisen before the end came and was standing in front of the Indian to motion him away. Follett was glad she did not see the eyes glaze nor the head drop. He leaned forward and gently loosed the limp fingers from the yellow tangle. Than he sprang quickly up and put his arm about <choice><orig>Pru-
+
+<pb n="509" xml:id="mmm.fiction.wilson.1903.528"/>
+
+dence</orig><reg>Prudence</reg></choice>. The two Indians backed off in some dismay. The one who had first come to them spoke again.</p>
+
+<p>"Big medicine! You give some chitcup?"</p>
+
+<p>"No&#8212;no! Got no chitcup! <hi rend="italic">Vamose!</hi>"</p>
+
+<p>They turned silently and trotted back over the ridge.</p>
+
+<p>"Come, sit here close by the fire, dear&#8212;no, around this side. It's all over now."</p>
+
+<p>"Oh! Oh! My poor, sorry little father&#8212;he was so good to me!" She threw herself on the ground, sobbing.</p>
+
+<p>Follett spread a saddle-blanket over the huddled figure at the foot of <seg type="Reaction" subtype="Commemoration">the cross</seg>. Then he went back to take her in his arms and give her such comfort as he could.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

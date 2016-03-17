@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571107.3">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">More Outrages</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571107.3</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Los Angeles Star</title>
+		    <title level="a" type="main">MORE OUTRAGES.</title>
+		    <publisher></publisher>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <date when="1857-11-07">November 7, 1857</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+   <revisionDesc>
+	<change when="2011-08-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2011-04-27"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-02-18"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+    
+    <div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.las.18571107.3.001"/>
+
+<head type="main">MORE OUTRAGES.</head><p>&#8212;<seg type="Context" subtype="WesternViolence"><seg type="Source" subtype="Reprinted"><seg type="Source" subtype="Attributed_Abbott">From the <orgName type="newspaper" key="San Andrews Independent">San Andres <hi rend="italic">Independent</hi></orgName>, we take the following extract</seg>, from the statement of Mr. <persName key="Abbott, Richeson">Richeson Abbott</persName>, who took the northern route through <placeName type="state" key="Utah Territory">Utah</placeName>, and came into <placeName type="state" key="California">California</placeName> by the <q>“Big Trees”</q> road. It will be seen that the Indians are committing frightful excesses on that road also:</seg></seg></p>
+
+<p><seg type="Context" subtype="WesternViolence"><seg type="Source" subtype="Reprinted"><seg type="Blame" subtype="IndiansLDSInfluence">“This portion of the road most dangerous from attacks of Indians, was from the City Rocks to Gravelly Ford, on the <geogName type="waterway" key="Humboldt River">Humboldt</geogName>, and about eight miles above the Sink&#8212;being a distance of near three hundred miles through which the immigrants had to run the gauntlet of Indian attacks and Mormon treachery. On this part of the route, over five hundred persons are known to have been killed by the Indians, and it is also known by the immigrants that the depredators were generally led by white men. In fact, during these attacks, the English language was freely spoken by the assailants, with horrible oaths to give it a stronger effect.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="WesternViolence"><seg type="Source" subtype="Reprinted"><seg type="Blame" subtype="IndiansLDSInfluence">Hundreds of emigrants have been killed and robbed of everything, so that there remains could not be identified; in many instance, six or seven had piled together in one hole, without ceremony or identification. It is an undoubted fact that the Mormons were at the head of most of these outrages, and instigated the Indians to commit all the murders</seg>.</seg></seg></p> 
+
+</div1>
+</body>
+</text>
+</TEI>

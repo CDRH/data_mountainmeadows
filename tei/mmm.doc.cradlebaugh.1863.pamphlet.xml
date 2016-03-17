@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.doc.cradlebaugh.1863.pamphlet">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Utah and the Mormons: Speech of Hon. J. Cradlebaugh (Pamphlet)</title>
+		<title level="m" type="sub"></title>
+	        <author><forename>John</forename> <surname>Cradlebaugh</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.doc.cradlebaugh.pamphlet.1863</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	   <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		    <title level="m">Utah and the Mormons: Speech of Hon. John Cradlebaugh, of Nevada, on the Admission of Utah as a State. Delivered in the House of Representatives, February 7, 1863</title>
+	        <author><forename>John</forename> <surname>Cradlebaugh</surname></author>
+	        <publisher>Privately printed, L Towers &amp; Co., Printers</publisher>
+		    <pubPlace>Washington, DC</pubPlace>
+	        <extent></extent>
+		    <date when="1863">February 7, 1863</date>
+	        <note type="source">John Cradlebaugh. <hi rend="italic">Utah and the Mormons: Speech of Hon. John Cradlebaugh, of Nevada, on the Admission of Utah as a State. Delivered in the House of Representatives, February 7, 1863</hi>. Privately printed, Washington, DC: L Towers &amp; Co., Printers, 1863. </note>
+	    </bibl>
+	</sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	     <term>government_document</term> 
+	     </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+     </profileDesc>
+
+     <revisionDesc>
+	<change when="2011-06-15"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-01-05"><name>Laura Weakly</name> Validation</change>
+	<change when="2009-10-29"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+      </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1>
+
+<pb n="1" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.001"/>
+
+<head type="main">UTAH AND THE MORMONS.</head>
+<head type="sub">SPEECH OF HON. JOHN CRADLEBAUGH,<lb/>
+OF NEVADA,<lb/>
+ON THE<lb/> 
+ADMISSION OF UTAH AS A STATE.<lb/>
+DELIVERED IN THE HOUSE OF REPRESENTATIVES, <hi rend="italic">February</hi> 7, 1863.</head>
+
+<p><seg type="Context" subtype="LDSPersecution">Mr. CHAIRMAN: Having resided for some time among the Mormons, become acquainted with their <choice><sic>eclesiastical</sic><corr>ecclesiastical</corr></choice> polity, their habits and their crimes, I feel that I would not be discharging my duty, if I failed to impart such information as I have acquired, in regard to this people in our midst who are building up, consolidating and daringly carrying out a system, subversive of the Constitution and laws, and fatal to morals and true religion.</seg></p> 
+
+<p><seg type="Context" subtype="LDSPersecution">The remoteness of <placeName type="state" key="Utah Territory">Utah</placeName> from the settled regions of our country, and the absence of any general intercourse between the Mormons and the masses of our people have served to keep the latter in almost complete ignorance of the character and designs of the former. That ignorance, pardonable at first, becomes criminal when the avenues to a full knowledge are open to us.</seg></p>
+ 
+<p>Mormonism is one of the monstrosities of the age in which we live. It seems to have been left, for the model republic of the world, for the nineteenth century, when the light of knowledge is more generally diffused than ever before, when in art, science and philosophy, we have surpassed all that ages of the past can show, to produce an idle, worthless vagabond of an impostor, who heralds forth a creed repulsive to every refined mind, opposed to every generous impulse of the human heart, and a faith which commands a violation of the rights of hospitality; sanctifies falsehood; <seg type="Context" subtype="Polygamy">enforces the systematic degradation of woman; not only permits, but orders, the commission of the vilest lusts, in the name of the Almighty God himself</seg>; and teaches that it is a sacred duty to commit the crimes of theft and murder. It is surprising that such faith taught, too, in the coarsest and most vulgar way, should meet with any success. Yet, in less than a third of a century, it girdles the globe. Its Missionaries are planted in every place. You find them all over Europe, thick through England and Wales, traversing 
+
+<pb n="2" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.002"/>
+
+Asia and Africa, and braving the billows of the southern oceans to seek proselytes. And, as if to crown its achievements, it establishes itself in the heart of one of the greatest and most powerful governments of the world; establishes therein a theocratic government overriding all other government; putting the laws at defiance, and now seeks to consummate and perpetuate itself by acquiring a state sovereignty and by being placed on an equality with the other States of the Union.</p>
+ 
+<p>Mormonism is in part a conglomeration of illy cemented creeds from other religions and in part founded upon the excentric production of one, <persName key="Spaling, Solomon">Spaulding</persName>, who, having failed as a preacher and shopkeeper, undertook to write a historical novel. He had a smattering of Biblical knowledge, and chose, for his subject, "the history of the lost tribes of Israel." The whole was supposed to be communicated by the Indians, and the last of the series was named, Mormon, representing that he had buried the book. It was a dull, tedious, interminable volume, marked by ignorance and folly. The work was so flat, stupid and insipid that no publisher could be induced to bring it before the world. Poor <persName key="Spaling, Solomon">Spaulding</persName> at length went to his grave, and the manuscript remained a neglected roll in the possession of his widow.</p>
+ 
+<p>Then arose <persName key="Smith, Joseph">Joe Smith</persName>, more ready to live by his wits than the labor of his hands. <persName key="Smith, Joseph">Smith</persName> had, early in life, manifested a turn for pious frauds. He had figured in several wrestling matches with the devil, and had been conspicuous in giving <choice><sic>in</sic></choice> eventful experiences in religion at certain revivals. He announced that he had dug up the book of Mormon which taught the true religion; this was none other than poor <persName key="Spaling, Solomon">Spaulding</persName>'s manuscript which he had purloined from the widow. In his hands, the manuscript become the basis of Mormonism. <persName key="Smith, Joseph">Joe</persName> became a prophet; the founder of a religious sect; the president of a swindling bank; the builder of the city of <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>; Mayor of the city; General of the armies of Israel; candidate for President of the United States, and, finally, <seg type="Context" subtype="LDSPersecution">a Martyr, as the saints choose to call him. But the truth is that his villainies, together with the villainies of his followers, brought down upon him the just vengeance of the people of <placeName type="state" key="Illinois">Illinois</placeName> and <placeName type="state" key="Missouri">Missouri</placeName>, and his career was brought to an end by his being shot while confined in jail, in <placeName type="settlment" key="Carthage, MO">Carthage</placeName>. It was unfortunate that such was his end, for his followers raised the old cry of Martyrdom and persecution, and, as has always proved, <q>"the blood of the martyr was the seed of the church."</q></seg></p>
+ 
+<p>Mormonism repudiates the celibacy imposed by the Catholic religion upon its priesthood, and takes in its stead the voluptuous impositions of the Mahomedan church. <seg type="Context" subtype="Polygamy">It preached openly that the more wives and children its men have in this world, the purer, more influential, and conspicuous will they be in the next; that wives, children,
+
+<pb n="3" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.003"/>
+
+and property will not only be restored, but doubled in the resurrection.</seg> It adopts the use of prayers for the dead and baptism as a part of its creed. Mormons claim to be favored with marvelous gifts&#8212;the power of speaking in tongues, of casting out devils, of curing the sick, and of healing the lame and the halt. They claim that they have a living prophet, seer, and revelator who holds the keys of the kingdom of Heaven, and through whose intercession alone access can be had. They <choice><sic>recognise</sic><corr>recognize</corr></choice> the Bible, but they interpret it for themselves, and hold that it is subject to be changed by new revelation, which, they say, supersedes old revelation. One of their doctrines is that of continued progression to ultimate perfection. They say God was but a man, who went on developing and increasing until he reached his present high capacity; and they teach that Mormons will be equal to him&#8212;in a word, that good Mormons will become Gods. <seg type="Context" subtype="LDSApostates">They teach the shedding of blood for the remission of sins, or, in other words, that if a Mormon apostatizes, his throat shall be cut, and his blood poured out upon the ground for the remission of his sin.</seg> They also practice other revolting doctrines, such as are only carried out in polygamous countries, which is evidenced by a number of mutilated persons in their midst. They hold that the prophet's revelations are binding upon their consciences, and that they are bound to obey him in all things. They say that the earth and the fullness thereof is the Lord's; that they are God's chosen people on earth; that their mission on earth is to take charge of God's property, and, as faithful stewards, that it is their duty to obtain it, and are taught that, in obtaining it, they must not get in debt to the Lord's enemies for it; in other words, they teach that it is a duty to rob and steal from Gentiles. They have christened themselves "The Church of Jesus Christ of Latter Day Saints." They claim that Mormonism is to go on spreading until it overthrows all the nations of the earth, and, if necessary for its accomplishment, its success shall be consummated by the sword; that <placeName type="county" key="Jackson County, MO">Jackson county</placeName>, <placeName type="state" key="Missouri">Missouri</placeName>, is to be the seat of empire of the Mormon Church; that hence the Mormons are to be finally gathered, and that from that Zion shall proceed a power that will dethrone kings, subvert dynasties, and subjugate all the nations of the earth.</p>
+ 
+<p><seg type="Context" subtype="Polygamy">I have said that their doctrines were repulsive to every refined mind. Every other false faith which has reigned its evil time upon this goodly world of ours has had some kindly and redeeming features. Even the semi-theocracy of the Aztecs, as <persName key="Prescott, W. H.">Prescott</persName> tells you, disfigured as it was by horrid and bloody rites, was not without them. Buddhism and Brahmanism, with all their misshapen fable, still inculcated, in no small degree, a pure code of morals. Nor is the like assertion untrue of Mahomedanism. It was reserved for Mormonism, far off in 
+
+<pb n="4" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.004"/>
+
+the bosom of our beloved land, to rear its head, naked in all its hideous deformity, and unblushingly, yes, defiantly, proclaim a creed without the least redeeming feature, and of such character that the Thugism of India cannot match it.</seg></p>
+ 
+<p><seg type="Context" subtype="Polygamy">So at variance is the practice of Polygamy with all the instincts of humanity, that it has to be pressed upon the people with the greatest assiduity as a part of their religions duty. It is astonishing with what pertinacity through all their "<hi rend="italic">sermons and discourses</hi>" it is justified and insisted on. Threats, entreaties, persuasions, and commands, are continually brought in play to enforce its cheerful observance. So revolting is it to the women, that to aid in its enforcement they are brutalized, their modesty destroyed by coarse, low, vile, vulgar expressions such as I could not repeat, and would not ask the clerk to read in your hearing. If, however, my conjugal friend, the delegate from Utah will undertake such <choice> <sic></sic><corr>a</corr></choice> task, I will most cheerfully furnish them for him; certainly he ought not to hesitate. If they are proper to be repeated before large congregations of women and children in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>, the representative of the church ought not to be abashed at reading them to this house. Will the delegate from <placeName type="state" key="Utah Territory">Utah</placeName> read them?</seg></p>
+</div1>
+
+<div1>
+<head type="sub">CONDITION OF THE WOMEN.</head>
+
+<p><seg type="Context" subtype="Polygamy">But their teachings, officially reported by themselves, give you a better idea of their estimation</seg>
+
+<seg type="Context" subtype="Polygamy">of woman than anything I could say. I shall read to you from a few of their sermons on this subject, only observing that you may pick other passages inculcating similar doctrines, containing like threats, rebukes and complaints, in nearly every sermon published in the church organ.</seg></p>
+ 
+<p>President <persName key="Grant, J. M.">J. M. GRANT</persName>, in a sermon delivered Sept. 21st, 1856, reported in the <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, vol. 6, page 235, said:</p>
+ 
+<floatingText type="quote">
+<body>
+<p><q><seg type="Context" subtype="Polygamy">"And we have women here who like anything but the celestial law of God; and if they could, would break asunder the cable of the Church of Christ; there is scarcely a Mother in Israel but would do it this day. And they talk it to their husbands, to their daughters, and to their neighbors, and say that they have not seen a week's happiness since they became acquainted with that law, or since their husband took a second wife. They want to break up the Church of God, and to break it from their husbands, and from their family connections."</seg></q></p>
+</body>
+</floatingText>
+
+<p>President <persName key="Young, Brigham">BRIGHAM YOUNG</persName>, in a sermon delivered the same day, reported in the same paper, said:</p>
+
+<floatingText type="quote">
+<body>
+ 
+<p><seg type="Context" subtype="Polygamy"><q>"Now for my proposition; it is more particularly for my sisters, as it is frequently happening that women say that they are unhappy. Men will say, 'My wife, though a most excellent woman, has not seen a happy day since I took my second wife;' 'No not a happy day for a year,' says one; and another 
+
+<pb n="5" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.005"/>
+
+has not seen a happy day for five years. It is said that women are tied down and abused; that they are misused and have not the liberty they ought to have; that many of them are wading through a perfect flood of tears, because of the conduct of some men, together with their own folly.</q></seg></p>
+ 
+<p><seg type="Context" subtype="Polygamy"><q>"I wish my women to understand that what I am going to say is for them, as well as all others, and I want those who are here to tell their sisters, yes, all the women of this community, and then write it back to the States, and do as you please with it. I am going to give you from this time until the 5th day of October next for reflection, that you may determine whether you wish to stay with your husbands or not, and then I am going to set every woman at liberty and say to them: Now go your way, my women with the rest, go your way. And my wives have got to do one of two things; either round up their shoulders to endure the afflictions of this world and live their religion, or they may leave, for I will not have them about me. I will go into heaven alone, rather than have scratching and fighting around me. I will set all at liberty. 'What, first wife too?' Yes, I will liberate you all.</q></seg></p>
+ 
+<p><seg type="Context" subtype="Polygamy"><q>"I know what my women will say; they will say, 'You can have as many women as you please, <persName key="Young, Brigham">Brigham</persName>.' But I want to go somewhere and do some thing to get rid of the whiners; I do not want them to receive a part of the truth and spurn the rest out of doors."</q></seg></p>
+ 
+<milestone unit="section" rend="horbar"/>
+ 
+<p><q><seg type="Context" subtype="Polygamy">"Let every man thus treat his wives, keeping raiment enough to clothe his body; and say to your wives, 'take all that I have and be set at liberty; but if you stay with me you shall comply with the law of God, and that too with out any murmuring and whining. You must fulfill the law of God, in every respect and round up your shoulders to walk up to the mark without any grunting.'</seg></q></p>
+ 
+<p><q><seg type="Context" subtype="Polygamy">"Now recollect, that two weeks from to-morrow I am going to set you all at liberty. But the first wife will say, 'It is hard, for I have lived with my husband twenty years or thirty, and have raised a family of children for him, and it is a great trial to me for him to have more women; then I say it is time that you gave him up to other women who will bear children. If my wife had borne me all the children that she ever would bear, the celestial law would teach me to take young women that would have children."</seg></q></p>
+ 
+<milestone unit="section" rend="stars"/>
+
+<p><q><seg type="Context" subtype="Polygamy">"Sisters, I am not joking; I do not throw out my proposition to banter your feelings, to see whether you will leave your husbands, all or any of you. But I do know that there is no cessation to the everlasting whinings of many of the women in <placeName type="state" key="Utah Territory">this territory</placeName>. And if the women will turn from the commandments of God and continue to despise the order of heaven, I will pray that the curse of the Almighty may be close to their heels, and that it may be following them all the day long. And those that enter into it and are faithful, I will promise them that they shalt be queens in heaven, and rulers to all eternity."</seg></q></p>
+
+</body>
+</floatingText>
+ 
+<p>President <persName key="Kimball, Heber C.">HEBER C. KIMBALL</persName>, in a discourse delivered in the Tabernacle, Nov. 9th, 1856. Deseret News, vol. 6, page 291, said:</p>
+
+<floatingText type="quote">
+<body>
+ 
+<p><q>"I have no wife or child that has any right to rebel against me. If they violate my laws and rebel against me, they will get into trouble just as quickly as though they transgressed the counsels and teachings of Brother <persName key="Young, Brigham">Brigham</persName>. Does it give a woman a right to sin against me because she is my wife? No, 
+
+<pb n="6" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.006"/>
+
+but it is her duty to do my will as I do the will of my Father and my God. It is the duty of woman to be obedient to her husband, and unless she is, I would not give a damn for all her queenly right and authority, nor for her either if she will quarrel, and lie about the work of God and the principle of plurality.</q></p>
+ 
+<p><q>"A disregard of plain and correct teachings is the reason why so many are dead and damned, and twice plucked up by the roots, and I would as soon baptize the devil as some of you."</q></p> 
+
+</body>
+</floatingText>
+
+<p>Oct. 6th, 1855, vol. 5, page 274, <persName key="Kimball, Heber C.">Kimball</persName> said:</p>
+
+<floatingText type="quote">
+<body>
+
+<p><q>"If you oppose any of the works of God you will cultivate a spirit of <choice><sic>apostacy</sic><corr>apostasy</corr></choice>. If you oppose what is called the spiritual wife doctrines the patriarchal order, which is of God, that course will corrode you with <choice><sic>apostacy</sic><corr>apostasy</corr></choice>, and you will go overboard: still a great many do so, and strive to justify themselves in it; but they are not justified of God."</q></p>
+ 
+<milestone unit="section" rend="stars"/>
+ 
+<p><q><seg type="Context" subtype="Polygamy">"The principle of plurality of wives never will be done away, although some sisters have had revelations that when this time passes away, and they go through the veil, every woman will have a husband to herself. I wish more of our young men would take to themselves wives of the daughters of Zion, and not wait for us old men to take them all. Go ahead upon the right principle, young gentlemen, and God bless you forever and ever, and make you fruitful, that we may fill the mountains, and then the earth, with righteous inhabitants."</seg></q></p>
+
+</body>
+</floatingText>
+ 
+<p>April 2, 1854, President <persName key="Kimball, Heber C.">HEBER C KIMBALL</persName> said in the Tabernacle&#8212;See Deseret News, vol. 4, No. 20:</p>
+
+<floatingText type="quote">
+<body>
+ 
+<p><q>"There are some of the ladies who are not happy in their present situation but that woman who cannot be happy with one man cannot be happy with two. You know all women are good, or ought to be. They are made for angelic beings, and I would like to see them act more angelic in their behavior. You were made more angelic and a little weaker than man. Man is made of rougher material&#8212;to open the way, cut down bushes, and kill the snakes&#8212;that women may walk along through life, and not soil and tear their skirts. When you see a woman with ragged skirts you may know she wears the unmentionables, for she is doing the man's business, and has not time to cut off the rags that are hanging around her. From this time henceforth you may know what woman wears her husband's pants. May the Lord bless you. Amen."</q></p>
+
+</body>
+</floatingText>
+ 
+<p>President <persName key="Kimball, Heber C.">HEBER C. KIMBALL</persName>, in a lengthened discourse, delivered in the Tabernacle, on the 6th day of April, 1857, took occasion to say:</p>
+
+<floatingText type="quote">
+<body>
+
+<p><seg type="Context" subtype="Polygamy"><q>"I would not be afraid to promise a man who is sixty years of age, <hi rend="italic">if he will take the counsel of Brother <persName key="Young, Brigham">Brigham</persName>, and his brethren, he will renew his age</hi>. I have noticed that a man who has but one wife, and <hi rend="italic">is inclined to that doctrine, soon begins to wither and dry up</hi>, while a man who <hi rend="italic">goes into plurality looks fresh, young and sprightly.</hi> Why is this? Because God loves that man, and because he honors his work and word. Some of you may not believe
+
+<pb n="7" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.007"/>
+
+this; but I not only believe it, but I also know it. <hi rend="italic">For a man of God to be confined to one woman is small business,</hi> for it is as much as we can do now to keep up under the burdens we have to carry, and I do not know what we, should do if we had only one woman apiece."</q></seg></p>
+
+</body>
+</floatingText>
+ 
+<p>President <persName key="Kimball, Heber">HEBER C. KIMBALL</persName> used the following language in a discourse instructing a band of Missionaries, about to start on their Missions:</p>
+
+<floatingText type="quote">
+<body>
+ 
+<p><q>"I say to those who are elected to go on Missions, go, if you never return, and commit what you have into the hands of God&#8212;your wives, your children[,] your brethren, and your property. Let truth and righteousness be your motto and don't go into the world for anything else but to preach the Gospel, build up the Kingdom of God, and gather his sheep into the fold. You are sent out as shepherds to gather the sheep together, and remember they are not your sheep; they belong to him that sends you; then don't make a choice of any of those sheep, <hi rend="italic">don't make selections before they are brought home and put into the fold;</hi> YOU UNDERSTAND THAT. Amen."</q></p>
+
+</body>
+</floatingText>
+ 
+<p><seg type="Context" subtype="Polygamy">Such, then, is Mormonism in regard to all that beautifies life in the conjugal relation&#8212;such are their sentiments and commands pronounced under the assumed authority of God upon the female sex. When President <persName key="Kimball, Heber C.">Kimball</persName> calls his numerous wives his <q>"cows"</q> he but reflects the Mormon idea of women in the social scale.</seg></p> 
+
+<p><seg type="Context" subtype="Polygamy">The view is sickening. I turn with loathing and disgust from their legalized status of systematic debauchery and lust. Before it the entire nature recoils. No wonder that it requires the whole enginery of the Mormon church, threats, and intimidations to compel the women to submit to it. I pity that man or woman who can for one moment look upon this organized, systematic, enforced degradation and prostitution with any other feeling than that of abhorrence and disgust. In matters of affection woman is a monopolist&#8212;she wants the whole heart or she wants none. But in <placeName type="state" key="Utah Territory">Utah</placeName> she is compelled to take the part only of the smallest of hearts&#8212;<hi rend="italic">a Mormon's heart</hi>&#8212;little attention and no devotion.</seg></p>
+
+</div1>
+
+<div1>
+
+<head type="sub">THEFT AND ROBBERY.</head>
+
+<p>I have said that robbery, as well as lust, was sanctified by the Mormon creed. One from many evidences of such teachings will suffice. In a sermon delivered by <persName key="Kimball, Heber C.">HEBER C. KIMBALL</persName>, Sept. 15, 1857, after proclaiming the coming overthrow of their enemies, and their subjection, he continues:</p>
+  
+<p><q>"'Now,' says the Lord, '<hi rend="italic">take that spoil, I consecrate it unto my people.'</hi> The Lord will provide for the Saints when necessary, and <hi rend="italic">in his own way</hi>."</q></p>
+  
+<p>In the same sermon he quoted from the "Book of Doctrines and Covenants," on the same subject, as follows:</p>
+
+<pb n="8" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.008"/>
+  
+<p><q>"Behold, it is said in my laws, or forbidden to get in debt to thine enemies; but behold it is not said at any time that the Lord should not take when He pleases, and pay as seemeth him good. Wherefore, as ye are agents, and on the Lord's errands, and whatever ye do according to the will of the Lord is the Lord's business, and He hath sent you to provide for the Saints in these last days, that they may obtain an inheritance in the land of Zion. And, behold, I, the Lord, declare it unto you, and my words are sure and shall not fail. But all things must come to pass in their time; wherefore, be not weary in well doing, for ye are laying the foundation of a great work, and out of small things proceedeth that which is great."</q></p>
+  
+<p>The code of the Spartans allowed theft as a sort of discipline for their youth, who were to be thus fitted for the strategy of war, so necessary among a primitive and martial people; but in no country or age before has robbery been taught as a divine ordinance, the observance of which was binding as conducing to the aggrandizement of His people. Yet, here at last, in the <q>"ferment of an uneasy civilization,"</q> it stands forth in the boldest relief that language dare give. <q>"The trumpet"</q> here <q>"gives no uncertain sound."</q></p>
+
+</div1>
+ 
+<div1>
+
+<head>SHEDDING BLOOD FOR THE REMISSION OF SINS.</head>
+
+<p>But the picture, true to life as it is, has yet darker shades. Murder is openly commanded, and incessant appeals from the self-constituted Apostles of Almighty God prove beyond all doubt, that its execution is considered and urged as one of the fundamental doctrine to be enforced, and acted on by the faithful of the Latter Day Saints. The doctrines, which, from their own books I have just read, may perhaps merely disgust, but the doctrine of which I have now from the same source to adduce proofs, will horrify. In the few extracts I have to give you, (to which, if time allowed, I might add a thousand more,) the right and duty of the Church to <q>"spill blood"</q> is asserted in the plainest and coarsest words that our Anglo-Saxon language affords. Theft, loot, and murder are canonized in the Mormon creed.</p>
+
+<q>
+ <lg>
+  <l>"It is as if the fiends prevailed</l>
+  <l>Against the seraphs they assailed,</l>
+  <l>And throned on heavenly seats should dwell</l>
+  <l>The freed inheritors of Hell!"</l>
+ </lg></q>
+  
+<p>I read to you from a <q>"Discourse"</q> of President <persName key="Young, Brigham">Brigham Young</persName>, delivered Sept. 21, 1856:</p>
+
+<floatingText type="quote">
+<body>
+  
+<p><q>"There are sins that men commit for which they cannot receive forgiveness in this world, or in that which is to come. and if they had their eyes open to their true condition, they would be perfectly willing to have their blood spilt upon the ground, that the smoke thereof might ascend to heaven as an offering for their sins, and the smoking incense would atone for their sins; whereas, 
+
+<pb n="9" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.009"/>
+
+if such is not the case, they will stick to them and remain upon them in the spirit world.</q></p>
+  
+<p><q>"I know, when you hear my brethren telling about cutting people off from the earth that you consider it is strong doctrine; but it is to save them, not to destroy them."</q></p>
+
+<milestone unit="section" rend="stars"/>
+
+<p><q>"It is true the blood of the son of God was shed for sins through the fall and those committed by men, yet men can commit sins which it can never remit As it was in ancient days so it is in our day; and though the principles are taught publicly from this stand, still the people do not understand them; yet the law is precisely the same. There are sins that can be atoned for by an offering upon an altar as in ancient days; and there are sins that the blood of a lamb, of a calf or of turtle doves cannot remit, but they must be atoned for by the blood of the man. That is the reason why men talk to you as they do from this stand; they understand the doctrine, and throw out a few words about it. You have been taught that doctrine, but you do not understand it."</q></p>
+  
+</body>
+</floatingText>
+
+<p><seg type="Context" subtype="LDSApostates">Of entirely a similar nature is a <q>"discourse"</q> of President <persName key="Grant, Jedediah M.">Jedediah M. Grant</persName>, delivered March 12, 1854; He is speaking of what he calls <q>"covenant breakers"</q>&#8212;those who leave the Mormon Church, and he says:</seg></p>
+
+<floatingText type="quote">
+<body>
+  
+<p><q><seg type="Context" subtype="LDSApostates">"Then what ought this meek people who keep the commandments of God do unto them? 'Why,' says one, 'they ought to <hi rend="italic">pray to the Lord to kill them.</hi>' I want to know if you would wish the Lord <hi rend="italic">to come down and do all your dirty work?</hi> Many of the Latter Day Saints will pray, and petition, and supplicate the Lord to do a thousand things they themselves would be ashamed to do."</seg></q></p>
+
+<milestone unit="section" rend="stars"/>
+
+<p><q><seg type="Context" subtype="LDSApostates">"<hi rend="italic">When a man prays for a thing, he ought to be willing to perform it himself.</hi> But if the Latter Day Saints should put to death the covenant-breakers, it would try the faith of the 'very meek, just, and pious' ones among them, and <hi rend="italic">it would cause a great deal of whining in Israel.</hi></seg></q></p>
+  
+<p><q><seg type="Context" subtype="LDSApostates">"Then there was another odd commandment. The Lord God commanded them <hi rend="italic">not to pity the person whom they killed</hi>, but to execute the law of God upon persons worthy of death. <hi rend="italic">This should be done by the entire congregation</hi>, <hi rend="smallcaps">SHOWING NO PITY</hi>. I have thought there would have to be quite a revolution among the Mormons, before such a commandment could be obeyed completely by them. The Mormons have a great deal of sympathy. For instance, if they can get a man before the tribunal administering the law of the land, and succeed in getting a rope around his neck, and having him hung up like a dead dog, it is all right. <hi rend="italic">But if the Church and Kingdom of God should step forth and execute the law of God</hi>, O, what a burst of Mormon sympathy it would cause! <hi rend="italic">I wish we were in a situation favorable to our doing that which is justifiable before God, without any contaminating influence of Gentile amalgamation, laws, and traditions, that the People of God might lay the axe to the root of the tree, and every tree that bringeth not forth good fruit might be hewn down.</hi></seg></q></p>
+  
+<p><q><seg type="Context" subtype="LDSApostates">"What! do you believe that people would do right and keep the law of God by <hi rend="italic">actually putting to death the 
+
+<pb n="10" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.010"/>
+
+transgressors?</hi> Putting to death the transgressors <hi rend="italic">would exhibit the law of God, no matter <hi rend="smallcaps">BY WHOM</hi> it was done.</hi> That is my opinion.</seg></q></p>
+
+<p><q><seg type="Context" subtype="LDSApostates">"You talk of the doings of different Governments&#8212;the United States, if you please. What do they do with traitors? What mode do they adopt to punish traitors? Do traitors to that Government forfeit their lives? Examine, also, the doings of other earthly governments on this point, and you find the same practices universal. I am not aware that there are any exceptions. But people will look into books of theology, and argue that the people of God have a right to try people for fellowship, but they have no right to try them on property or life. <hi rend="italic">That makes the Devil laugh</hi>, saying: I have got them on a hook now; they can cut them off, and I will put eight or ten spirits worse than they are into their tabernacles, and send them back to mob them."</seg></q></p>
+
+</body>
+</floatingText>
+
+<p>President <persName key="Young, Brigham">Brigham Young</persName> (February 8, 1857) said, in a discourse in the Tabernacle. (See <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, vol. 6, page 397:)</p>
+
+<floatingText type="quote">
+<body>
+
+<p><q>"But now I say, in the name of the Lord, that if this people will sin no more, but faithfully live their religion, their sins will be forgiven them without taking life. You are aware that when Brother Cummings came to the point of loving our neighbors, he could say yes or no, as the case might be; that is true. But I want to connect it with the doctrine you read in the Bible. When will we love our neighbor as ourselves? In the first place, Jesus said that no man hateth his own flesh. It is admitted by all that every person loves himself. Now, if we do rightly love ourselves, we want to be saved and continue to exist. We want to go into the kingdom where we can enjoy eternity, and see no more sorrow nor death. This is the desire of every person who believes in God. Now, take a person in this congregation who has knowledge with being saved in the kingdom of our God and our Father, and being exalted an exalted one&#8212;who knows and understands the principles of eternal life, and sees the beauty and excellency of the eternities before him compared with the vain and foolish things of the world; and suppose he is overtaken in a gross fault&#8212;that he has committed a sin which he knows will deprive him of that exaltation which he desires, and that he cannot attain to it without the shedding of his blood; and also knows that by having his blood shed, he will atone for that sin and be saved, and exalted with the Gods; is there a man or woman in this house but what would say: `Shed my blood, that I may be saved and exalted with the Gods?'</q></p>
+  
+<p><q>"All mankind love themselves; and let these principles be known by an individual, and he would be glad to have his blood shed. That would be loving themselves even unto an eternal exaltation. Will you love your brothers or sisters likewise, when they have committed a sin that cannot be atoned for without the shedding of their blood. Will you love that man or woman well enough to shed their blood. That is what Jesus Christ meant. He never told a man or woman to love their enemies in their wickedness. He never intended any such thing.</q></p>
+  
+<milestone unit="section" rend="stars"/>
+
+<p><q>"I could refer you to plenty of instances where men have been righteously slain in order to atone for their sins. I have seen scores and hundreds of people for whom there would have been a chance in the last resurrection if their 
+
+<pb n="11" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.011"/>
+
+lives had been taken and their blood spilled upon the ground as a smoking incense to the Almighty, but who are now angels to the devil, until our elder brother, Jesus Christ raises them up, conquers death, hell, and the grave. I have known a great many men who have left this church, for whom there is no chance whatever for exaltation; but if their blood had been spilled, it would have been better for them. The wickedness and ignorance of the nations forbid this principle being in full force, but the time will come when the law of God will be in full force.</q></p>
+
+<p><q>"This is loving our neighbor as ourselves; if he needs help, help him; and if he wants salvation, and it is necessary to spill his blood upon the ground in order that be may be saved, spill it. Any of you who understand the principles of eternity, if you have sinned a sin requiring the shedding of blood, except the sin unto death, would not be satisfied nor rest until your blood should be spilled, that you might gain that salvation you desire. That is the way to love mankind."</q></p>
+
+</body>
+</floatingText>
+
+<p>President <persName key="Grant, J. M.">J. M. GRANT</persName> said, September 21, 1856, <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, vol. 6, page 235:</p>
+
+<p><q>"I say there are men and women here that I would advise to go to the President immediately, and ask him to appoint a committee to attend to their case; and then let a plans be selected, and let that committee shed their blood."</q></p>
+
+</div1>
+ 
+<div1>
+<head type="sub">"MEAN DEVILS" GOOD MORMON PREACHERS.</head>
+
+<p>In a reported sermon, delivered by <persName key="Young, Brigham">Brigham Young</persName>, Nov. 9, 1856, <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, vol. 6, p. 291. After speaking of not embracing men in his religion, he said:</p> 
+
+<p><q>"Some of the elders seemed to be tripped up in a moment if the wicked can find any fault with the members of this church; but, bless your souls, I would not yet have this people faultless, for the day of separation has not yet arrived. I have many a time in this stand, dared the world to produce <hi rend="italic">as mean devils</hi> as we can&#8212;we can beat them at anything. We have the greatest and smoothest liars in the world, the cunningest and most adroit thieves, and any other shade of character that you can mention.</q></p> 
+
+<p><q>"We can pick out elders in Israel right here who can beat the world at gambling; who can handle the cards; can cut and shuffle them with the smartest rogue on the face of God's footstool. I can produce elders here who can shave their smartest shavers, and take their money from them. We can beat the world at any game."</q></p>
+  
+<p><q>"We can beat them because we have men <hi rend="italic">here that live in the light of the Lord</hi>; that have the holy priesthood, and hold the keys of the kingdom of God. But you may go through all the sectarian world and you cannot find a mancapable of opening the door of the kingdom of God to admit others in. We can do that. We can pray the best, preach the best, and sing the best. We are the best looking and finest set of people on the face of the earth; and they may begin any game they please, and we are on hand, and can beat them at anything they have a mind to begin. They may make sharp their two-edged swords, and I will turn out the elders of Israel with greased feathers, and whip them to death. We are not to be beat. We expect to be a stumbling block to the whole world, and a rock of <choice><sic>offence</sic><corr>offense</corr></choice> to them.</q></p>
+
+<pb n="12" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.012"/>
+  
+<p>Such a <q>"sermon"</q> needs no comment. It will be seen that the scheme of these religionists is quite broad enough to <seg type="Context" subtype="Polygamy">embrace polygamy</seg>, adultery, incest, perjury, blasphemy, robbery, and murder, as a part of its devilish plan.</p>
+
+</div1>
+ 
+<div1>
+<head type="sub">MORMON INDEPENDENCE THREATENED</head>
+
+ <p><persName key="Young, Brigham">Brigham Young</persName>, in a discourse in the Tabernacle, Aug. 31, 1856, <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, vol. 6, p. 219, said:</p>
+
+<p><q>"Mormonism is true, and all Hell cannot overthrow it. All the devil's servants on the earth may do all they can, and, as Brother <persName key="Clinton, ">Clinton</persName> has just said, after twenty-six years' faithful operation and exertion by our enemies what have they accomplished? They have succeeded in making us an organized Territory, and they are determined to make us an independent State or Government as the Lord lives. (The congregation shouted Amen!)</q></p>
+ 
+<p><q>"I say, as the Lord lives, we are bound to become a Sovereign State in the Union, or an independent nation by ourselves."</q></p>
+
+<milestone unit="section" rend="stars"/>
+
+<p><q>"I have frequently told you, and I tell you again, that the very report of the church and kingdom of God.</q></p>
+
+<p><q>"The sound of Mormonism is a terror to towns, countries, States, the pretended republican governments, and to all the world.</q></p>
+ 
+<p><q>"Why, because as the Lord Almighty lives, and the prophets have ever. This work is destined to revolutionize the world, and bring all under subjection to the law of God."</q></p>
+ 
+<p>The Church government established by the Mormons to carry into operation the teachings from which I have so copiously extracted, is one of the most complete despotisms on the face of the earth. The mind of one man permeates through the whole mass of the people, and subjects to its unrelenting tyranny the souls and bodies of all. It reigns Supreme in church and state, in morals, and even in the minutest domestic and social arrangements. <persName key="Young, Brigham">Brigham</persName>'s house is at once tabernacle, capitol, and harem; and <persName key="Young, Brigham">Brigham</persName> himself is king, priest, lawgiver, <seg type="Context" subtype="Polygamy">and chief polygamist</seg>. Is treason hatched in <placeName type="state" key="Utah Territory">Utah</placeName>&#8212;<persName key="Young, Brigham">Brigham</persName> is the head traitor. Are rebel troops mustered against the United States&#8212;<persName key="Young, Brigham">Brigham</persName> is their commander-in-chief. Is a law to be enacted&#8212;<persName key="Young, Brigham">Brigham</persName>'s advice determines it. Is an offending "Gentile" or <seg type="Context" subtype="LDSApostates">an apostate Mormon to be assassinated&#8212;the order emanates from <persName key="Young, Brigham">Brigham</persName></seg>. In addition to all this, he heals the afflicted by the laying on of hands, and comforts the widow by becoming her husband. It may he asked, does he do this without compensation? No, his pay is both high and certain. He taxes his deluded followers to the extent of all surplus property upon their arrival in <placeName type="state" key="Utah Territory">the Territory</placeName>. He subsequently taxes them to the extent of one-tenth of their annual productions and labor, and if reluctant to pay, he mercilessly snatches all 
+
+<pb n="13" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.013"/>
+
+that they have. He has through the legislature unrestricted license to tax merchants. By legislation, all estrays in <placeName type="state" key="Utah Territory">the Territory</placeName> are impounded and sold, and the proceeds paid over to him. By like authority he seizes upon the great highway between our Atlantic and Pacific possessions, grants exclusive rights to erect bridges and ferries across all the streams in <placeName type="state" key="Utah Territory">the Territory</placeName>&#8212;fixes the toll at enormous rates, ranging from five to ten dollars for a team&#8212;expressly providing in the law that a portion of his receipts shall be paid over to himself, by which means, whether willing or unwilling, the emigrant to the Pacific coast is forced to build up the Church, and furnish money to emigrate pious sisters to Zion to replenish the harems of the hoary headed leaders of the Church; and as if to consummate the matter of pay, all escheats in <placeName type="state" key="Utah Territory">the Territory</placeName> are to him; the property of the emigrant, and even the habiliments of the deceased may be sold, and the proceeds paid over to him.</p>
+
+<p>He selects for himself the choicest spots of land in <placeName type="state" key="Utah Territory">the Territory</placeName>, and they yield him their productions, none daring to interfere. The timber in the mountains for a great distance from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> belongs to him, and it is only by delivering each third load, as he shall order, that the gates are open and the citizen allowed to pass up City creek canon to obtain it.  Having appropriated all that he desires for his own use, he has quite extensive tracts of country furnished him by the Federal government, as capital, for his Church. He sends his agents, denominating them missionaries, to Europe, who represent <placeName type="state" key="Utah">Utah Territory</placeName> as a paradise, and go into the market offering each proselyte who will come to Zion a homestead of a quarter section of land&#8212;being in return compensated by the addition of females to fill the bosoms, and the tithing which will in the future accrue to him.</p>
+
+<p>The cattle on a thousand hills exhibit his brand. He fixes his pay,&#8212;he pays himself. His pampered but <choice><sic>plebian</sic><corr>plebeian</corr></choice> body reposes in a palace, and <seg type="Context" subtype="Polygamy">scores of bright-eyed women call him husband</seg>. His deluded followers yield him implicit obedience, and a church organization known as <q>"Danites"</q> or <q>"destroying angels,"</q> stand ready to protect his person, to avenge his wrongs, and to execute his pleasure.</p>
+
+<p><persName key="Young, Brigham">Brigham</persName> is both Church and State. True, the atrocities committed in <placeName type="state" key="Utah Territory">Utah</placeName> are not committed by him with his own hands, but they are committed by his underlings, and at his bidding. He claims that he is not a criminal, because his hand is not seen in the perpetuation of crime. He pleads an <q>"alibi,"</q> when he is known to be everywhere present in <placeName type="state" key="Utah Territory">the Territory</placeName>. He seeks to avert censure by feigning ignorance of the atrocities of his underlings. Such ignorance can only be supposable on the hypothesis that Mormonism is not a system, 
+
+<pb n="14" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.014"/>
+
+and <persName key="Young, Brigham">Brigham</persName> is not its head. That he is a despot with not power, or a prophet without the ability to foresee.</p>
+
+<p>Now, <persName key="Young, Brigham">Brigham</persName> is either complete ruler in <placeName type="state" key="Utah Territory">Utah</placeName>, or he is nothing. The complicity of the church dignitaries, Mayors of cities, and other territorial officials, in the crimes that have been committed, demonstrate that those crimes were church crimes, and <persName key="Young, Brigham">Brigham</persName> is the head of the church.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The Legislators of <placeName type="state" key="Utah Territory">the Territory</placeName> are Mormons. The endowment oaths bind them to yield an implicit obedience to <persName key="Young, Brigham">Brigham</persName>, as the head of the church, and political head of <placeName type="state" key="Utah Territory">the Territory</placeName>. His mandates are superior to all law. The Mormons are fanatics; they will keep their oath to obey him. Did not their religion induce, their fears would compel obedience, for the vengeance of <persName key="Young, Brigham">Brigham</persName>, though silent, is swift, and fearful as the horrors of death can make it. <seg type="Context" subtype="LDSApostates">Mormon punishment for Mormon <choice><sic>apostacy</sic><corr>apostasy</corr></choice> is like the old curse of former Popes; it extends from the soles of the feet to the hairs of the head. It separates husband and wife; it reaches from the confiscation of property to the severance of the windpipe.</seg> Armed with such power over the hearts and lives of the people, <persName key="Young, Brigham">Brigham</persName> defiantly drives the barbaric chariot of Mormon robbery, murder, <choice><sic>poligamy</sic><corr>polygamy</corr></choice> and incest over all law, in defiance of all federal officials in <placeName type="state" key="Utah Territory">the Territory</placeName>. <persName key="Young, Brigham">Brigham</persName> not only controls the legislation, but he controls the courts. He uses the one to aid him in accomplishing the other. On the 14th day of January, 1854, he caused to be passed the following law which is still in force. See revised laws <placeName type="state" key="Utah Territory">Utah</placeName>, page 260.</seg></p>
+ 
+<p><q><seg type="Context" subtype="TerritorialAdministration">"That all questions of law, the meaning of writing other than laws, and the admissibility of testimony shall be decided by the court; and no laws, nor parts of laws, shall be read, argued, cited or adopted in any court during any trial except those enacted by the governor and Legislative Assembly of this Territory, and those passed by the Congress of the United States when applicable; and no report, decision or doings of any court shall be read, argued, cited or adopted as precedent in any other trial."</seg></q></p>
+ 
+<p>The common law, the wisdom of ages, which has come down to us as the handmaid of our civil and religious liberty, most be done away with, that the Mormon church regulations may supply their place in <placeName type="state" key="Utah Territory">Utah</placeName>. But, then, how convenient it is to provide that the decisions made in a <placeName type="state" key="Utah Territory">Utah</placeName> court, under those church regulations, upon one day, should not be a precedent for another day. It leaves the court wholly untrammelled, and authorizes the judges or jury to make such laws as they choose in every case. It leaves the courts open to receive any new divine law which <persName key="Young, Brigham">Brigham</persName> may see fit to give them. He consequently feels it to be a duty to address the judges and jurors in <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+
+<pb n="15" xml:id="mmm.doc.dradlebaugh.1863.pamphlet.015"/>
+ 
+<p>You will find a specimen discourse of his in the <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, vol 5, page 412, in which instance he sent quite a number of the jurors on missions, for violating his instructions to them as jurors.</p>
+
+<p>On the 2d of March, 1856, President <persName key="Grant, Heber J.">Grant</persName> said, in a sermon <choice><sic>delived</sic><corr>delivered</corr></choice> in the Tabernacle:</p>
+
+<p><q>"Last Sunday the President chastised some of the Apostles and Bishops, who were on the grand jury. Did he fully succeed in clearing away the fog which surrounded them, and in removing blindness from their eyes? No, for they could go to their room and again disagree, though, to their credit, it must be admitted that a brief explanation made them unanimous in their action.</q></p>
+ 
+<p><q>"Not long ago, I heard that in a certain case the traverse jury were eleven against one, and what is most singular the one alone was right in his views of the case.</q></p>
+ 
+<p><q>"Several had got into the fog to suck and eat the filth of a gentile law court, ostensibly a court of <placeName type="state" key="Utah Territory">Utah</placeName> though I call it a gentile court. Why? Because it does not magnify the laws of <placeName type="state" key="Utah Territory">Utah</placeName>, as provided for in the 'organic act,' by which 'act' and laws it alone exists as a court.</q></p>
+ 
+<p><q>"A brief examination will soon convince a person, of any ordinary observation, that the laws of <placeName type="state" key="Utah Territory">Utah</placeName> are not administered in our courts, and that the judges must know that fact and that they have been seeking, from the first, with but one exception, to overrule them.</q></p>
+ 
+<p><q>"Our laws have been set at naught and walked under foot, and in lieu thereof a constant effort has been made to rule in common law, English law, and law after law totally inapplicable."</q></p>
+ 
+<p><seg type="Context" subtype="TerritorialAdministration">This attempt of the Mormons to interfere with the administration of the law, and control the courts, has been one of the chief causes of difficulty between the judges, sent by the Federal Government to <placeName type="state" key="Utah Territory">Utah</placeName>, and the Mormon people. From almost twenty judges sent to <placeName type="state" key="Utah Territory">the Territory</placeName>, with the exception of two&#8212;Judge <persName key="Snow, Zerubbabel">Zerubbabel Snow</persName>, a Mormon, and <persName key="Kinney, J. F.">J. F. Kinney</persName>, the present Chief Justice, the only territorial judge who has not been removed by the present administration, and who bears the unenviable reputation of being the "creature and tool of <persName key="Young, Brigham">Brigham Young</persName>"&#8212;the testimony has been uniformly to the effect that the laws could not be enforced. Not one of these judges, with the exception of the two named above, have been enabled to serve out the short term of four years. Some have left in disgust, while others were driven away by force.</seg></p>
+ 
+<p><seg type="Context" subtype="TerritorialAdministration">As one of the Associate Justices of the <placeName type="state" key="Utah Territory"><placeName type="state" key="Utah Territory">Territory of Utah</placeName></placeName> in the month of April, 1859, I commenced and held a Term of the District Court for the Second Judicial District in the city of <placeName type="settlement" key="Provo, UT">Provo</placeName>, about sixty miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Upon my requisition General <persName key="Johnston, Albert Sidney">A. S. Johns[t]on</persName>, in command of the military department, furnished a small military force for the purpose of protecting the court. A grand jury was empannelled, and their attention was pointedly and specifically called to a great number of crimes that had been committed in the 
+
+<pb n="16" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.016"/>
+
+immediate vicinity, cases of public notoriety both as to the offense and the persons who had perpetrated the same; (for none of these things had <q>"been done in a corner."</q>) Their perpetrators had scorned alike concealment or apology, before the arrival of the American forces. The jury thus instructed, though kept in session two weeks, utterly refused to do anything, and were finally discharged as an evidently useless appendage of a court of justice. But the court was determined to try a last resource to bring to light and to punishment those guilty of the atrocious crimes which confessedly had been committed in <placeName type="state" key="Utah Territory">the Territory</placeName>, and the session continued. Bench warrants, based upon sworn information, were issued against the alleged criminals, and United States Marshall <persName key="Dotson, Peter K.">Dotson</persName>, a most excellent and reliable officer, aided by a <hi rend="smallcaps">MILITARY POSSE</hi>, procured on his own request, had succeeded in making a few arrests. A general stampede immediately took place among the Mormons, and what I wish to call your attention to as particularly noticeable, is the fact that this <hi rend="smallcaps">OCCURRED MORE ESPECIALLY AMONG THE CHURCH OFFICIALS AND CIVIL OFFICERS</hi>. Why were these classes so peculiarly urgent and hasty in flight? The law of evidence, based on the experience of ages, has but one answer. It was the consciousness of guilt which drove them to seek a refuge from the avenging arm of the law, armed at last, as they supposed, with power to vindicate its injured majesty. It is a well-known fact that many of the Bishops and Presidents of "Stakes" remained secreted in the mountains until the news was confirmed beyond doubt which announced the retrograde course of the Administration at <placeName type="settlement" key="Washington, DC">Washington</placeName>. You can easily conceive the rejoicing of those who had fled, their rapturous change from the extreme of trepidation to that of joy, when at last Gov. <persName key="Cumming, Alfred">Cumming</persName> could officially announce to his Mormon friends that the zealous efforts of the united Judiciary of <placeName type="state" key="Utah Territory">Utah</placeName>, to expose and punish crime and administer the law, were condemned by the National Administration. And this, too, in the face of that Administration's boast, that rebellion <q>"had been crushed out"</q> in <placeName type="state" key="Utah Territory">Utah</placeName>.</seg></p>
+
+<p>Let me say here, though it may seem rather a digression, that while it is true that the military were appealed to for aid in the administration and enforcement of the laws, and in the protection of officers and witnesses, it is as equally and undeniably true that the legal and social rights of no citizen, whoever he may have been, were for one instant infringed upon, or even endangered by such a course.</p>
+
+<p>Sitting, as a committing magistrate, complaint after complaint was made before me, of murders and robberies: among these I may mention as peculiarly and shockingly prominent, the murder of <persName key="Forbes, Henry">Forbes</persName>, <seg type="Context" subtype="ParrishMurder">the assassination of <persName key="Parrish, William Rice"><persName key="Parrish, William 'Beason'">the Parishes</persName></persName> and <persName key="Potter, Gardner 'Duff'">Potter</persName></seg>, of <persName key="Jones, Henry">Jones</persName> and his mother, 
+
+<pb n="17" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.017"/>
+
+of the Aiken party, of which there were six in all; and worst, and darkest in this <choice><sic>appaling</sic><corr>appalling</corr></choice> catalogue of blood, the cowardly, cold-blooded butchery and robbery at <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. <seg type="Massacre" subtype="Aftermath">At that time there still lay all ghastly under the sun of <placeName type="state" key="Utah Territory">Utah</placeName> the unburied skeletons of <seg type="Massacre" subtype="Casualties">one hundred and nineteen men, women, and children</seg>, the hapless, hopeless <seg type="Blame" subtype="LDS_LDS">victims of the Mormon creed.</seg></seg></p>
+
+<!-- LAURA*
+*THIS SECTION WAS NOT IN ORIGINAL TEXT?* -->
+
+<p><seg type="Blame" subtype="LDS_LDS">Time will not allow that I should read the affidavits taken. I shall publish a portion as an appendix to these remarks that you may see that I am justified in charging that the Mormons are guilty, aye, that the <hi rend="italic">Mormon church is guilty, of the crime of murder and robbery as taught in their books of faith</hi>.</seg></p>
+
+<!--END OF ADDED SECTION-->
+
+<p><seg type="Massacre" subtype="Location">The scene of this horrible massacre at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName> is situate[d] about three hundred and twenty miles west of south from <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>, on the road leading to <placeName type="settlement" key="Los Angelos, CA">Los Angelos</placeName>, in <placeName type="state" key="California">California</placeName>.</seg> I was the first Federal judge in that part of <placeName type="state" key="Utah Territory">the Territory</placeName> after the occurrence. My district extending from a short distance below <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName> to the south end of <placeName type="state" key="Utah Territory">the Territory</placeName>, I determined to visit that part of my district, and, if possible, expose the persons engaged in the massacre, which I did in the early part of the year 1859. <seg type="Reaction" subtype="MilitaryRetaliation">I accordingly embraced an opportunity of accompanying a small detachment of soldiers who were being sent to that section by General <persName key="Johnston, Albert Sidney">Johns[t]on</persName>,&#8212;having requested the marshal of <placeName type="state" key="Utah Territory">the Territory</placeName> to accompany, or to send a deputy. He accordingly sent Deputy <persName key="Rodgers, William H.">Wm. H. Rodgers</persName>, who went with me.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The command went as far south as the <placeName type="settlement" key="Santa Clara, UT">St. Clara</placeName>, twenty miles beyond <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, where we camped and remained about a week. <seg type="Source" subtype="Indians">During our stay there I was visited by the Indian chiefs of that section, who gave me their version of the massacre. <seg type="Blame" subtype="IndiansLDSInfluence">They admitted that a portion of their men were engaged in the massacre, but were not there when the attack commenced. One of them told me, in the presence of the others, that after the attack had been made, a white man came to their camp with a piece of paper, which, he said, <hi rend="italic"><persName key="Young, Brigham">Brigham Young</persName> had sent</hi>, that directed them to go and help to whip the emigrants.</seg> <seg type="Massacre" subtype="Battle">A portion of the band went, but did not assist in the fight. He gave as a reason that the emigrants had long guns, and were good shots. <seg type="Massacre" subtype="Casualties">He said that his brother (this chief's name was <persName key="Jackson">Jackson</persName>) was shot while running across <geogName type="valley" key="Mountain Meadows">the Meadow</geogName> at a distance of two hundred yards from the corral where the emigrants were.</seg></seg> He said the Mormons were all painted. <seg type="Massacre" subtype="Spoils">He said the Indians got a part of the clothing</seg>; and gave the names of <persName key="Lee, John D.">John D. Lee</persName>, President <persName key="Haight, Isaac C.">Haight</persName>, and Bishop <persName key="Higbee, John M.">Higbee</persName> as the big captains.</seg> It might be proper here to remark that the Indians in the southern part of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> are not numerous, and are a very low, cowardly, beastly set, very few
+
+<pb n="18" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.018"/>
+
+of them being armed with guns. They were not formidable. I believe all in the southern part of <placeName type="state" key="Utah Territory">the Territory</placeName> would, under no circumstances, carry on a fight against ten white men.</seg></p>
+
+<p><seg type="Massacre" subtype="Location"><seg type="Massacre" subtype="Aftermath">From our camp on the St. Clara we again went back to <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, camping near where the massacre had occurred. <geogName type="valley" key="Mountain Meadows">The Meadow</geogName> is about five miles in length and one in width, running to quite a narrow point at the southwest end, being higher at the middle than either end. It is the divide between the waters that flow into the Great Basin and those emptying into the Colorado river. A very large spring rises in the south end of the narrow part. It was on the north side of this spring the emigrants were camped. The bank rises from the spring eight or ten feet, then extends off to the north about two hundred yards on a level. A range of hills is there reached, rising perhaps fifty or sixty feet. Back of this range is quite a valley, which extends down until it has an outlet, three or four hundred yards below [above?] the spring, into <geogName type="valley" key="Mountain Meadows">the main Meadow</geogName>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">The first attack was made by going down this ravine, then following up the bed of the spring to near it, then <seg type="Massacre" subtype="Dates">at daylight</seg> firing upon the men who were about the camp-fires; in which attack <seg type="Massacre" subtype="Casualties">ten or twelve of the emigrants were killed or wounded</seg>, <seg type="Massacre" subtype="Spoils">the stock of the emigrants having been previously driven behind the hill and up the ravine.</seg> The emigrants soon got in condition to repel the attack, shoved their wagons together, sank the wheels in the earth, and threw up quite an entrenchment. The fighting after [this] continued as a siege, the assailants occupying the hill, and firing at any of the emigrants that exposed themselves, having a barricade of stones along the crest of the hill as a protection. The siege was continued for five days, the besiegers appearing in the garb of Indians. The Mormons seeing that they could not capture the train without making some sacrifice of life on their part, and getting weary of the fight, resolved to accomplish by strategy what they were not able to do by force. The fight had been going on for five days, and no aid is received from any quarter, although the family of <persName key="Hamblin, Jacob">Jacob Ham[b]lin</persName>, the Indian agent, were living in the upper end of <geogName type="valley" key="Mountain Meadows">the Meadow</geogName>, and within hearing of the reports of the guns.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Who can imagine the feelings of <seg type="Massacre" subtype="Casualties">these men, women, and children</seg>, surrounded, as they supposed themselves to be, by savages. Fathers and mothers only can judge what they must have been. Far off in the Rocky mountains, without transportation&#8212;for <seg type="Massacre" subtype="Spoils">their cattle, horses, and mules had been run off</seg>&#8212;not knowing what their fate was to be, we can but poorly realize the gloom that pervaded the camp.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">A wagon is descried far up <geogName type="valley" key="Mountain Meadows">the meadows</geogName>. Upon its nearer approach it is observed to contain armed men. See! now they raise a 
+
+<pb n="19" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.019"/>
+
+white flag. All is joy in the corral. A general shout is raised, and in an instant a little girl dressed in white is placed at an opening between two of the wagons as a response to the signal. The wagon approaches&#8212;the occupants are welcomed into the corral. The emigrants little suspecting that they were entertaining the fiends that had been besieging them.</seg></seg></p>
+ 
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">This wagon contained President <persName key="Haight, Issac C.">Haight</persName>, and Bishop <persName key="Lee, John D.">John D. Lee</persName>, among others of the Mormon church. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">They professed to be on good terms with the Indians, and represented the Indians as being very mad. They also proposed to intercede and settle the matter with the Indians. After several hours of parley, they having apparently visited the Indians, gave the ultimatum of the Indians, which was that the emigrants should march out of their camp, leaving everything behind them, even their guns. It was promised by the Mormon bishops that they would bring a force and guard the emigrants back to the settlements.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The terms were agreed to; the emigrants being desirous of saving the lives of their families. The Mormons retired and subsequently appeared at the corral with thirty or forty armed men. The emigrants were marched out, the women and children in front and the men behind, the Mormon guard being in the rear. When they had marched in this way about a mile, at a given signal the slaughter commenced. <seg type="Massacre" subtype="Casualties">The men were most all shot down at the first fire from the guard. <seg type="Massacre" subtype="RescueAttempt">Two only escaped, who fled to the desert, and were followed 150 miles before they were overtaken and slaughtered.</seg></seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">The women and children ran on two or three hundred yards further, when they were overtaken, and <seg type="Blame" subtype="IndiansLDSInfluence">with the aid of the Indians they were slaughtered.</seg></seg> <seg type="Massacre" subtype="Survivors">Seventeen only of the small children were saved, the eldest being about seven years.</seg> Thus, <seg type="Massacre" subtype="Dates">on the 10th day of September, 1857</seg>, was consummated one of the most cruel, cowardly and bloody murders known in our history. <seg type="Blame" subtype="LDS_LDS">Upon the way from <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the meadows</geogName></seg>, a young Indian pointed out to me the place where the Mormons painted and disguised themselves.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I went from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> to <placeName type="settlement" key="Cedar City, UT">Cedar city</placeName>; the distance is thirty-five or forty miles. I contemplated holding an examining court there, should General <persName key="Johnston, Albert Sidney">Johns[t]on</persName> furnish me protection, and also protect witnesses and furnish the marshal a posse to aid in making arrests. While there I issued warrants on affidavits filed before me for the arrest of the following named persons: <persName key="Haight, Issac C.">Jacob [Isaac] Haight</persName>, President of the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> stake, Bishop <persName key="Higbee, John H.">John M. Higbee</persName>, and Bishop <persName key="Lee, John D.">John D. Lee</persName>, <persName key="Freeman, Columbus">Columbus Freemen</persName>, <persName key="Slade, William">William Slade</persName>, <persName key="Willis, John">John Willis</persName>, <persName key="Riggs, William">William Riggs</persName>, <persName key="Ingram, &#8121;">&#8212;Ingram</persName>, <persName key="McFarlan, Daniel">Daniel McFarlan</persName>, <persName key="Stewart, William">William Stewart</persName>, <persName key="Allen, Ira">Ira Allen</persName> and son, <persName key="Cartwright, Thomas">Thomas Cartwright</persName>, <persName key="Welean, E.">E. Welean</persName>, <persName key="Halley, William">William
+
+<pb n="20" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.020"/>
+
+Halley</persName>, <persName key="Nomlen, Jabes">Jabes Nomlen</persName>, <persName key="Mangum, John">John Mangum</persName>, <persName key="Price, James">James Price</persName>, <persName key="Adair, John W.">John W. Adair</persName>, <persName key="Tyler, &#8212;">&#8212;Tyler</persName>, <persName key="Smith, Joseph">Joseph Smith</persName>, <persName key="Pollock, Samuel">Samuel Pollock</persName>, <persName key="McFarlan, John">John McFarlan</persName>, <persName key="Johnson, Nephi">Nephi Johnson</persName>, <persName key="Thornton, &#8212;">&#8212;Thornton</persName>, <persName key="White, Joel">Joel White</persName>, <persName key="Harrison, &#8212;">&#8212;Harrison</persName>, <persName key="Hopkins, Charles">Chas. Hopkins</persName>, <persName key="Elang, Joseph">Joseph Elang</persName>, <persName key="Lewise, Samuel">Samuel Lewis</persName>, <persName key="Matheny, Sims">Sims Matheny</persName>, <persName key="Mangum, James">James Mangum</persName>, <persName key="Pierce, Harrison">Harrison Pierce</persName>, <persName key="Adair, Samuel">Samuel Adair</persName>, <persName key="McDulange, F. C.">F. C. McDulange</persName>, <persName key="Bateman, William">Wm. Bateman</persName>, <persName key="Curtis, Ezra">Ezra Curtis</persName>, and <persName key="Loveridge, Alexander">Alexander Loveridge</persName>." [38 men?]</seg></p>
+ 
+<p><seg type="Reaction" subtype="MilitaryRetaliation">In a few days after arriving at <placeName type="settlement" key="Cedar Citiy, UT">Cedar City</placeName>, Capt. <persName key="Campbell, Reuben P.">Campbell</persName> arrived with his command from <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>; on its return he advised me that he had received orders for his command entire to return to <orgName type="military" key="Camp Floyd">Camp Floyd</orgName>. The General having received orders from <placeName type="settlement" key="Washington, DC">Washington</placeName> that the military should not be used in protecting the Courts, or in acting as a posse to aid the Marshal in making arrests.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="LDSApostates">While at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> I was visited by a number of apostate Mormons who gave me every assurance that they would furnish an abundance of evidence in regard to the matter, <seg type="Reaction" subtype="MilitaryRetaliation">so soon as they were assured of military protection. In fact, some of the persons engaged in the act came to see me in the night, and gave a full account of the matter, intending, when protection was at hand, to become witnesses.</seg> They claimed that they had been forced into the matter by the Bishops. Their statements confirmed what the Indians had previously said to me. <seg type="Massacre" subtype="Survivors">Mr. <persName key="Rodgers, William H.">Rodgers</persName>, the Deputy Marshal, was also engaged in hunting up the children, survivors of the massacre. They were all found in the custody of the Mormons. <hi rend="italic">Three or four of the eldest recollect and relate all the incidents of the massacre, corroborating the statement of the Indians, and the statements made by the citizens of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to me.</hi></seg></seg></seg></p>
+
+<p><seg type="Context" subtype="LDSApostates"><seg type="Massacre" subtype="Survivors">These children are now in the <seg type="Emigrants" subtype="StateAffiliationMissouri">south part of <placeName type="state" key="Missouri">Missouri</placeName></seg>, or <seg type="Emigrants" subtype="StateAffiliationArkansas">north part of <placeName type="state" key="Arkansas">Arkansas</placeName></seg>; their testimony could soon be taken if desired. No one can depict the glee of these infants when they realized that they were in the custody of what they called "the Americans," for such is the designation of those not Mormons. <seg type="Blame" subtype="LDS_LDS">They say they never were in the custody of the Indians. I recollect of one of them, "<persName key="Sorrow, John Calvin">John Calvin Sorrow</persName>," after he found he was safe, and before he was brought away from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, although not yet nine years of age; sitting in a contemplative mood, no doubt thinking of the extermination of his family, say, "Oh, I wish I was a man, I know what I would do; I would shoot <persName key="Lee, John D.">John D. Lee</persName>; I saw him shoot my mother." I shall never forget how he looked.</seg></seg></seg></p>
+
+<!-- *NOT IN ORIGINAL TEXT*-->
+
+<p>Time will not permit me to elaborate this matter. I shall barely sum up and refer every member of this house who may have the least doubt about the guilt of the Mormons in this massacre, and the other crimes to which I have alluded, to the evidence published in the appendix hereto.</p>
+
+<!--END OF ADDED SECTION-->
+
+<pb n="21" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.021"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors"><seg type="Blame" subtype="IndiansIndependently">The Indians would not have saved the infant children from the slaughter.</seg> <seg type="Massacre" subtype="Surrender">Neither could they have induced the "emigrants" to have left their protected position.</seg></seg> It should also be borne in mind that <persName key="Young, Brigham">Brigham Young</persName> at the time claimed to be, and was acting as <choice><sic>Superintendant</sic><corr>Superintendent</corr></choice> of Indian affairs in <placeName type="state" key="Utah Territory">the Territory</placeName>. <seg type="Massacre" subtype="Spoils">There is now pending in this house a claim for thirty or forty thousand dollars, <seg type="Blame" subtype="IndiansLDSInfluence">which includes about four thousand dollars for goods distributed by <persName key="Lee, John D.">John D. Lee</persName> to the Indians about the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, within twenty days after the massacre</seg>; and also includes pay to <persName key="Lee, John D.">Lee</persName> while he was engaged in the commission of the massacre. Whether <persName key="Young, Brigham">Brigham</persName> will get it or not, I do not know.</seg> This, however, I do know, that some two years ago Congress passed an act to pay to the <placeName type="state" key="Utah Territory">Territory of Utah</placeName> some fifty-two thousand dollars, for [the] amount paid by <placeName type="state" key="Utah Territory">the Territory</placeName> in suppressing Indian hostilities in <placeName type="state" key="Utah Territory">the Territory</placeName> in the years 1852 and 1853. I have before me every law passed in <placeName type="state" key="Utah Territory">the Territory</placeName>, every appropriation made by the legislature, and the statement of the Territorial Auditor of Accounts. I defy the delegate from <placeName type="state" key="Utah Territory">Utah</placeName> to show that there was ever appropriated or paid from the Treasury of <placeName type="state" key="Utah Territory">the Territory</placeName> an amount to exceed three thousand four hundred dollars. It never was done. But you know <persName key="Young, Brigham">Brigham</persName> says <hi rend="italic">"that he has the most adroit scoundrels in the world in Zion, and that he can beat their sharpest shavers."</hi> <seg type="Context" subtype="IndianRelationsLDS">So there is no telling but in his persevering he may succeed in procuring his demands for murdering, and expenses of endeavoring to purchase the Indians to aid him in his rebellion.</seg> <seg type="Context" subtype="UtahWar">The present claim was all made while <placeName type="state" key="Utah Territory">Utah</placeName> was in rebellion.</seg></seg></p>
+
+<p><seg type="Reaction" subtype="Silence"><seg type="Blame" subtype="LDS_LDSLeadership">Why was it that <persName key="Young, Brigham">Brigham</persName> did not report this massacre <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>? <seg type="Massacre" subtype="Spoils">Why, if he was acting as <choice><sic>Superintendant</sic><corr>Superintendent</corr></choice> of Indian Affairs did he not make report of the property taken at the massacre.</seg> And let me ask (my conjugal friend,) the delegate from <placeName type="state" key="Utah Territory">Utah</placeName>, why it was that the <orgName type="newspaper" key="Deseret News">Deseret News</orgName>, the Church organ and only paper published in <placeName type="state" key="Utah Territory">the Territory</placeName>, for months after failed to notice the massacre, even after it was well known in the States, and when it did so, only did it to say, the Mormons were not engaged in it. Will the delegate please answer me this questions?</seg></seg></p>
+
+<p><seg type="Context" subtype="PrattMurder"><seg type="Blame" subtype="LDS_LDSRetribution">The motives which the Mormons had in the massacre was revenge for the killing of <persName key="Pratt, Parley P.">Parley Pratt</persName>, a leading Mormon, who, while in the act of running another man's wife and children through <placeName type="state" key="Arkansas">Arkansas</placeName> to <placeName type="state" key="Utah Territory">Utah</placeName>, was overtaken by the outraged husband, and slain&#8212;the <placeName type="state" key="Arkansas">Arkansas</placeName> courts refusing to punish the perpetrator.</seg></seg> <seg type="Massacre" subtype="Spoils"><seg type="Blame" subtype="LDS_LDSGreed">They, in addition, no doubt, were also actuated by a desire to possess themselves of the great amount of stock and property of the emigrants, supposed to be worth sixty or seventy thousand dollars.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">This was emphatically "getting the Lord's property," as <persName key="Kimball, Heber C.">HEBER
+
+<pb n="22" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.022"/>
+
+KIMBALL</persName> expresses it, "without getting in debt to the Lord's enemies for it."</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><seg type="Massacre" subtype="Survivors">The surviving children</seg>, after they were recovered and on the way back, frequently pointed out carriages and stock that belonged to the train, stating to whom it belonged.</seg></p>
+ 
+<p><seg type="Massacre" subtype="Spoils">A great portion of the property was taken to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, deposited in the tithing office, and then sold out; the bed clothes upon which the wounded had been laying, and those taken from the dead, were piled in the back room of the tithing office and allowed to remain for so great a length of time that when I was there, eighteen months after, the room was still offensive.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Spoils">What a commentary upon the condition of affairs in our country! Mormonism <choice><sic>revelling</sic><corr>reveling</corr></choice> upon the spoils obtained by murder</seg>, <seg type="Massacre" subtype="Survivors">while seventeen orphan children are turned penniless upon the world</seg>. Yet that world has "no ear to hear, no eye to see, no heart to feel, no arm to bring deliverance." That we should allow such a condition of affairs to exist is shameful, disgraceful to us all. The disgrace does not alone attach to the weak, imbecile administration of <persName key="Buchanan, James">James Buchanan</persName> and his legal adviser, who lent himself to prevent the judiciary of <placeName type="state" key="Utah Territory">Utah</placeName> from investigating the horrible crimes that had been committed in <placeName type="state" key="Utah Territory">that Territory</placeName>, and aided in shielding the criminals, but we are all guilty, and <seg type="Reaction" subtype="Extra-legalViolence">should be so held until we, by force, if necessary</seg>, <seg type="Massacre" subtype="Survivors">compel restitution to the fatherless children, so far as it can be made</seg>.</seg></p>
+
+<!-- *NOT IN ORIGINAL TEXT* -->
+
+<p>That you may not conclude that I do the Mormons injustice in charging upon them this horrible massacre, I shall publish in the Appendix to my remarks reports of different Government officials who have visited that section of our country.</p> 
+
+<!-- END OF ADDED SECTION -->
+
+<p><seg type="Massacre" subtype="Aftermath">Major, now General, <persName key="Carleton, James Henry"><choice><sic>Carlton</sic><corr>Carleton</corr></choice></persName>, visited that region&#8212;he also corroborates all that is contained in the abstracts I make from official reports. <seg type="Reaction" subtype="Commemoration">At the time he was there, he erected a monument to the memory of the dead. It was constructed by raising a large pile of rock, in the centre of which was erected a beam some twelve of fifteen feet in height. Upon one of the stones he caused to be engraved "Here lie the bones of <seg type="Massacre" subtype="Casualties">120 men, women, and children</seg>, <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, murdered <seg type="Massacre" subtype="Dates">on the 10th day of September, 1857</seg>." Upon a cross-tree on the beam he caused to be painted&#8212;<q>"Vengeance is mine, saith the Lord, and I will repay it."</q> This monument is said to have been destroyed the first time <persName key="Young, Brigham">Brigham</persName> visited that part of <placeName type="state" key="Utah Territory">the Territory</placeName>.</seg></seg></p> 
+
+<p><seg type="Context" subtype="TerritorialAdministration">It has been said that we have courts in <placeName type="state" key="Utah Territory">Utah</placeName>, and the question is frequently asked, why do not the courts act? The uniform testimony of the judges is to the effect that the courts are powerless. More than fifteen Federal judges, who have gone to <placeName type="state" key="Utah Territory">the Territory</placeName>, have so stated. They have again and again told you that the entire legislation of <placeName type="state" key="Utah Territory">the
+
+<pb n="23" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.023"/>
+
+Territory</placeName> is to prevent the administration of the laws; that the church authorities are determined that the laws shall not be enforced in the Federal courts; that the grand and trial jurors are Mormons, who are taught that the Mormon Church laws are the higher laws, and should prevail, and who refuse, therefore, to discharge their sworn duties, and have invariably refused to punish any Mormon for an <choice><sic>offence</sic><corr>offense</corr></choice> committed against an anti-Mormon. To such an extent has this been carried, that <seg type="Context" subtype="WesternViolence">although the valleys of Salt Lake have been replete with robberies and murders</seg>, yet the records of the courts do not show a single instance of the punishment of a Mormon for an <choice><sic>offence</sic><corr>offense</corr></choice> committed against a "Gentile." This is painfully manifest in the history which I now give of a term of the court held by my colleague, Hon. <persName key="Sinclair, Charles E.">CHAS. E. SINCLAIR</persName>, who convened his court in <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName> on the 8th day of July, 1859:</seg></p>
+
+<floatingText>
+
+<body>
+
+<p>The Mormon grand jury, ever ready to use the laws for their protection, but never willing to prosecute a Mormon for his crimes, promptly found a bill of indictment against one <persName key="Pike, Ralph">Ralph Pike</persName>, a sergeant in Co. I, of the 10th infantry, United States army, for an assault with intent to kill, committed upon one <persName key="Spencer, Howard">Howard Spencer</persName>, the son of a Mormon bishop, at the military reserve in Rush valley. A company of soldiers were stationed on the reserve to guard the hay of the Government stacked there. <persName key="Spencer, Howard">Spencer</persName> had been in the habit, at every opportunity, of driving his cattle to these hay stacks. Sergeant <persName key="Pike, Ralph">Pike</persName> was ordered to take a file of men, and drive off <persName key="Spencer, Howard">Spencer</persName> and his cattle. When Sergeant <persName key="Pike, Ralph">Pike</persName> approached <persName key="Spencer, Howard">Spencer</persName>, the latter refused to go, seized a pitch-fork lying by, and attempted to stab the sergeant with it. <persName key="Pike, Ralph">Pike</persName> clubbed his musket, struck <persName key="Spencer, Howard">Spencer</persName> on the head, slightly fracturing his skull. Upon capias issued, <persName key="Pike, Ralph">Pike</persName> was arrested and brought to <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>. The day following, (Aug. 11th,) about 12 o'clock m. [sic], as <persName key="Pike, Ralph">Pike</persName> was entering the Salt Lake House, on Main street, to get his dinner, <persName key="Spencer, Howard">Spencer</persName> stepped up to him from behind, saying: "Are you the man that struck me in Rush valley?" at the same time drawing his pistol, shot him through the side, inflicting a mortal wound. <persName key="Spencer, Howard">Spencer</persName> ran across the street, mounted his horse, and rode off, accompanied by several noted "Danites." The guard, who attempted to fire at <persName key="Spencer, Howard">Spencer</persName>, were prevented by the police. <persName key="Pike, Ralph">Pike</persName> lingered in dreadful agony two days before he died. He was highly esteemed in the army as an amiable, manly, and gentlemanly soldier. The "Deseret News," (the church organ,) at its next issue, lauded young <persName key="Spencer, Howard">Spencer</persName> for his courage and bravery.</p>
+
+<p>In the winter of 1857–'58, one <persName key="McNeil, Franklin">Franklin McNeil</persName> was incarcerated in prison, being put in irons during the 'Mormons war,' for no other crime than being an American citizen. <persName key="McNeil, Franklin">Frank</persName> sued <persName key="Young, Brigham">Brigham Young</persName> for false imprisonment on the 2nd day of August. The day preceding the appointed time for trial, <persName key="McNeil, Franklin">Frank</persName> was called to the door of his boarding-house, just after dark, by some unknown person, and shot down. He died from his wound next morning. and thus the suit was abated. The murderer was never discovered.</p>
+
+<p>A man by the name of <persName key="Drown, Charles">Drown</persName> brought suit, upon a promissory note for $480, against the Danite captain, <persName key="Hickman, Bill">Bill Hickman</persName>. The case being submitted to the court, Brown obtained a judgment. A few days after, <persName key="Drown, Charles">Drown</persName>, and a <choice><orig>com-
+
+<pb n="24" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.024"/>
+
+panion</orig><reg>companion</reg></choice> named <persName key="Arnold, Josiah">Arnold</persName> were stopping at the house of a friend, in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>, where <persName key="Hickman, Bill">Hickman</persName>, with some seven or eight of his band, rode up to his house, and called for <persName key="Drown, Charles">Drown</persName> to come out. <persName key="Drown, Charles">Drown</persName>, suspecting foul play, refused to do so, and locked the doors. The 'Danites' thereupon dismounted from their horses, broke down the doors, and shot down both <persName key="Drown, Charles">Drown</persName> and <persName key="Arnold, Josiah">Arnold</persName>. <persName key="Drown, Charles">Drown</persName> died of the wounds next morning, and <persName key="Arnold, Josiah">Arnold</persName> a few days later. <persName key="Hickman, Bill">Hickman</persName> and his band rode off unmolested.</p>
+
+<p>Thus, during the short term of Judge <persName key="Sinclair, Charles">SINCLAIR</persName>'S court, the earnest labors of its officers accomplished no good. On the contrary, as it appears the majesty and power of the court was used to tie the hands of an innocent man, and lead him as a helpless victim to be ruthlessly shot down without the power of <choice><sic>self-defence</sic><corr>self-defense</corr></choice>, whilst at the same time it protected his murderer by holding the strong arm of the law in terror over these who would dare to take justice in their own hands and punish the assassin of their friend. Thus, during a single term of the court, held in a Mormon community, the warm life-blood of four human victims is shed upon the very threshold of the court, and although the grand jury is in session, no prosecution is attempted, and not one of the offenders will ever be punished.</p>
+
+</body>
+
+</floatingText>
+
+<p>This man <persName key="Spencer, Howard">Howard Spencer</persName> is now in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and has been ever since. This the learned delegate from <placeName type="state" key="Utah Territory">the Territory</placeName> will not deny.</p>
+
+<p>With the history of one more case, I will conclude. In the summer of 1858, <persName key="McKenzie, David">David McKenzie</persName> was arrested, charged with engraving plates for counterfeiting Government drafts on the <choice><orig>Treasury</orig><reg>Treasury</reg></choice> at <placeName type="settlement" key="St. Louis, MO">St. Louis</placeName>. The evidence showed that the engraving had been done in the upper part of the Deseret Store in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. This store is within the enclosure of <persName key="Young, Brigham"><choice><sic>Brigham's</sic><corr>Brigham</corr></choice> Young</persName>'s premises, the same being walled in with a stone wall some 12 or 14 feet in height. Judge <persName key="Eckels, Delana R.">Eckels</persName>, who issued the warrant, directed the Marshal, <persName key="Dotson, Peter K.">Peter K. Dotson</persName>, to seize the plates, and any other matter that might be found in the room where the engraving had been done, which would establish the offense. The Marshal accordingly went to the room and seized the plate. He also found another plate there, belonging, as it since appears, to <persName key="Young, Brigham">Brigham Young</persName>, and used for striking off the Deseret currency; and, observing that the copper-plate upon which the counterfeit engraving had been made had been cut off one side of <persName key="Young, Brigham">Brigham</persName>'s Deseret currency plate he brought away with him the currency plate. After the trial <persName key="Young, Brigham">Brigham</persName> refused to take them back, but brought his action against the Marshal, <persName key="Dotson, P. K.">P. K. Dotson</persName>, in the Probate Court. Probate courts throughout <placeName type="state" key="Utah Territory">the Territory</placeName> held in violation of the organic act are dignified into courts of co-equal jurisdiction with the Federal courts. It is one of <persName key="Young, Brigham">Brigham</persName>'s methods of destroying and nullifying the Federal courts. He installs into these Probate Courts his most devoted creatures. An appeal can be made from these courts to the District Court, but the <hi rend="italic">appeal is almost always refused. I defy the delegate 
+
+<pb n="25" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.025"/>
+
+to show that <persName key="Young, Brigham">Brigham</persName> ever brought an action in one of these creature courts of his in which he did not succeed.</hi> Of course he obtained judgment against Marshal <persName key="Dotson, P. K.">Dotson</persName> for some twenty-six hundred dollars. It would have been as much more if he had only said the word. An appeal is refused; execution is issued; <persName key="Dotson, P. K.">Dotson</persName>'s property is sold and he is turned out of his house&#8212;a property that would rent for five hundred dollars per annum&#8212;<persName key="Young, Brigham">Brigham</persName>'s agent having bought it in. Thus a good, efficient officer is ruined in <placeName type="state" key="Utah Territory">Utah</placeName> for having faithfully endeavored to prevent fraud upon the Government Treasury.</p>
+ 
+<p>I have the plates here, (exhibiting them.) I have shown them to engravers in the city, and they tell me the original cost of making them could not be more than five or six hundred dollars, and say that they can be put in as good order as ever they were for twenty-five dollars. No stronger evidence could be adduced showing the absolute control of <persName key="Young, Brigham">Brigham Young</persName> over the courts of <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+ 
+<p>The Federal courts are powerless to do good, and are used only when they can subserve the purposes of the Mormons.</p>
+ 
+<p>The weak, timid, temporizing, cowardly policy which has ever been pursued towards <placeName type="state" key="Utah Territory">Utah</placeName> by the Federal Government has only led to disorganization and anarchy and to the open violation of the most sacred rights, and has exhibited <placeName type="state" key="Utah Territory">Utah</placeName> before the world as the gloomy theatre where murder and robbery alternately shift the scene.</p>
+ 
+<p>The Courts being deprived of aid and protection in the administration of the law, no arrests can be made, and no criminals brought to punishment. </p>
+ 
+<p><seg type="Context" subtype="TerritorialAdministration">Marshal <persName key="Dotson, P. K.">Dotson</persName>, holding warrants for the arrest of almost a hundred murderers, including the participators in the horrible butcheries <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, is compelled to return those warrants unexecuted for the reason, as he solemnly states, that he has not the ability to serve them. In utter disgust he resigns his office; and in this connection his letter of resignation, addressed to the President, is worthy of perusal:</seg></p>
+
+<floatingText>
+ <body>
+ <opener><address><addrLine>GREAT SALT LAKE CITY, U. T.,</addrLine></address>
+<dateline><hi rend="italic">August</hi> 1, 1859.</dateline>
+
+<!-- Not in Original Text  -->
+
+<salute>"To his Excellency <persName key="Buchanan, James">James Buchanan</persName>
+ "<hi rend="italic">President of the United States</hi>:</salute>
+ </opener>
+
+<!-- End of section not in Orignal Text -->
+
+<p>"<hi rend="smallcaps">SIR</hi>: I hereby tender to your Excellency my resignation as United States Marshal of the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, to take effect from the 20th inst.</p>
+
+<p>"In tendering this, my resignation, I deem it to be my duty to warn you that the policy of your Administration has been fatal to Federal supremacy in <placeName type="state" key="Utah Territory">Utah</placeName>, and can only tend to build up, consolidate, and perpetuate the political and ecclesiastical power of <persName key="Young, Brigham">Brigham Young</persName> and his successors.</p>
+
+<p>"The unasked, and to this day derided pardon extended to treason, has only tended to encourage traitors, and the presence of Federal troops crippled and 
+
+<pb n="26" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.026"/>
+
+humiliated by the instructions and restrictions imposed on them, serves only the purpose of enriching the coffers of the Mormon church and of subserving the ends of Mormon polity.</p>
+
+<p>"The courts of the United States in <placeName type="state" key="Utah Territory">the Territory</placeName>, powerless to do good in dreadful mockery of justice, are compelled to lend the power and majesty of the law to subserve the evil designs of the very criminals they seek to punish. Impotent to protect innocence, they encourage crime.</p>
+
+<p>"The Federal officers of <placeName type="state" key="Utah Territory">the Territory</placeName>, opposed and annoyed continually by those whose cordial support and cooperation could alone enable them effectually to sustain the dignity of the positions which they occupy, are as forms without substance, 'shadows' without reality.</p>
+
+<p>"Though willing to serve the administration from which I receive my appointment, I cannot remain an officer of this Government without the power to maintain it dignity.</p>
+
+<milestone unit="section" rend="stars"/>
+
+<closer>"I am, sir, very respectfully,your obedient servant,
+ <signed>"<persName key="Dotson, P. K.">P. K. DOTSON</persName>,
+  <hi rend="right"><hi rend="italic">"United States Marshal for <placeName type="state" key="Utah Territory">Utah Territory</placeName></hi>."</hi></signed></closer>
+ </body>
+</floatingText>
+ 
+<p>I have endeavored to set before you a fair and impartial abstract of Mormonism and its results as practically exhibited, I am aware that compelled by lack of time, the review has necessarily been meagre. I have, however, endeavored to bring out the salient points, and if I know myself, have nothing extenuated nor set down aught in malice. I have given to you nothing but what the truth of history will prove. </p>
+
+<p><seg type="Context" subtype="Polygamy">I take it for granted that what I have shown clearly establishes that the system of <choice><sic>poligamy</sic><corr>polygamy</corr></choice> in <placeName type="state" key="Utah Territory">Utah</placeName> is distasteful to the female portion of the community, and that the manner in which it is enforced is but a system of enslaving the women, and of enforcing their subjection to the lustful desires of the hoary leaders of the church.</seg></p>
+
+<p>I have also shown that they teach and practice the crime of robbery under the assumed garb of religion, and that they also practice the doctrine of the shedding of bloods for the remission of sins, I have given to you instance after instance wherein they have committed their robberies and murders. I might continue the catalogue if it was necessary.</p>
+
+<p>The question now presented is, shall this system be permanently fastened upon our body politic. It may be said that under the Constitution of the United States, every man is guaranteed the freedom to worship according to the dictates of his own conscience, and that the Government has no rights to interfere with this people in the practice of their religious faith. I deny that the Constitution contemplates the protection of every class of persons who may assume to themselves a religious faith at war with the most cherished sentiments of virtue and morality throughout the Christian and civilized 
+
+<pb n="27" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.027"/>
+
+world. I contend that we owe it as a duty to manifest our disapprobation of practices and doctrines so odious, and that it is our duty to retain this Mormon people under the general jurisdiction of the Government, so that their institutions may be reached by Federal legislation if necessary, and thus show in a most indubitable manner that we are unwilling that the stain and disgrace shall be fastened upon us. It is a duty enjoined upon us, by the common obligations of justice and humanity.</p>
+
+<p>There can be no doubt that the mass of the Mormon community are misled in their errors by a set of heartless fanatical leaders. Their success may be much attributed to their isolation. That isolation, the fast filling up of the great basin, because of its vast mineral deposits, will soon do away with. <placeName type="state" key="Nevada">Nevada</placeName> now has a population equal to <placeName type="state" key="Utah Territory">Utah</placeName>. Thriving towns and cities are springing up on the Humboldt river, and in near proximity to the Mormons. <persName key="Young, Brigham">Brigham</persName> sees this, and he knows and feels that he must place himself in a position to prevent the consequences to his system which will grow out of this contiguity of settlement. He feels that he cannot keep his women where they have a chance to get away, unless he can protect himself by legislation, further than be is able to do while his community remains under the general jurisdiction of our Government. It is on that account that he manifests so great a desire to become an independent State. I say he desires to become a State, for under his tyrannical away, and with the system that is now prevalent, <persName key="Young, Brigham">Brigham</persName> would be the State, and the State would be <persName key="Young, Brigham">Brigham</persName>.</p>
+
+<p>I say, again, there does exist, on the part of this Government, an obligation to withhold from the Mormon people, as far as lies in the power of the Government, the means of fostering and perpetuating this system. It is involved in the general duty of preserving untarnished the fair name of our country; it is enjoined by self-respect and the promptings of an enlightened humanity. The civilized world would view with reprobation and disgust, and the American heart would shrink with shame at the admission of <placeName type="state" key="Utah Territory">Utah</placeName> in the family of States upon an equality with other States of the Union.</p>
+ 
+<p>The people of <placeName type="state" key="Utah Territory">Utah</placeName> have nothing but ill will towards our Government. The great masses know nothing of our institutions&#8212;they come to Zion, not to America. They are hurried through the settled portions of our country without being allowed to become acquainted with our people or institutions. Upon arriving in <placeName type="state" key="Utah Territory">Utah</placeName> they hear nothing but abuse of our people&#8212;the whole fountain of patriotism is polluted, and they are taught that they owe neither allegiance or love to our Government. Treason and insubordination are openly taught. God forbid that this people should be admitted into the Union as an 
+
+<pb n="28" xml:id="mmm.doc.cradlebaugh.1863.pamphlet.028"/>
+
+independent State. I protest against it in the name of humanity, which would be violated by the admission! I protest against it on behalf of my constituents, who have a deep interest in the institutions that are to prevail in the great American basin! I protest against it in the name and on behalf of the murdered victims of the cruel Mormon faith, whose <choice><sic>mouldering</sic><corr>moldering</corr></choice> bones are bleaching in almost every valley in <placeName type="state" key="Utah Territory">the Territory</placeName>! <seg type="Context" subtype="Polygamy">I protest against it on behalf of the downtrodden and undone women of <placeName type="state" key="Utah Territory">Utah</placeName>, who, with their female posterity, in all time to come, will bless these that would not aid in keeping them in their bondage!</seg></p>
+ 
+</div1>
+</body>
+</text>
+</TEI>

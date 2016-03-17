@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.boyd.1891">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Recent Indian Wars</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>James</forename> <forename type="middle">P.</forename> <surname>Boyd</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.boyd.1891</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Recent Indian Wars, Under the Lead of Sitting Bull, and Other Chiefs; with a Full Account of The Messiah Craze, and Ghost Dances.</title>
+                    <author><forename>James</forename> <forename type="middle">P.</forename> <surname>Boyd</surname></author>
+                    <publisher>Publishers Union</publisher>
+                    <pubPlace>Philadelphia, PA</pubPlace>
+                    <extent></extent>
+                    <date when="1891">1891</date>
+		    <note type="source">James P. Boyd. <hi rend="italic">Recent Indian Wars, Under the Lead of Sitting Bull, and Other Chiefs; with a Full Account of The Messiah Craze, and Ghost Dances.</hi>. Philadelphia, PA: Publishers Union, 1891.  73-78.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2011-09-06"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+            <change when="2010-08-02"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+
+<text>
+<body>
+
+<div1 type="chapter">
+
+<pb n="73" xml:id="mmm.wa.boyd.1891.089"/>
+
+<head>CHAPTER VIII.</head>  
+
+<head>THE AFFAIR OF MOUNTAIN MEADOW.</head>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">T<hi rend="smallcaps">HE</hi> Indians who lived in the great Utah
+Basin or who used it as part of their 
+tramping grounds, were of the Shoshone stock,
+and embraced the Snake, Bannock and Ute
+families. These families were again sub-divided
+into tribes with various names, more or less 
+fanciful. As a rule, they were not unfriendly to the
+whites, though not disinclined to war under the
+provocations which frequently arose. The 
+Mormons had no trouble with them, because they
+approached them as equals and without a desire
+to force their civilization upon them. <seg type="Context" subtype="IndianRelationsUS">They had
+great power over them, for the reason that they
+stood up for them, when the United States
+attempted to execute its authority among them.
+It may be said that the Mormon influence over
+them was bad, in so far as it represented 
+antagonism to the Government.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">It is not our purpose to narrate how bitter
+Mormon antagonism became in 1856, nor to 
+discuss the wisdom of that costly and useless <choice><orig>inva-
+
+<pb n="74" xml:id="mmm.wa.boyd.1891.090"/>
+
+sion</orig><reg>invasion</reg></choice>
+of their country by the Army of the United States, but this invasion produced the greatest excitement in all Mormondom. It fanned the flames of religious and political passion till they
+broke out in various forms.</seg> In that year there
+passed through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> <seg type="Massacre" subtype="Casualties">a large emigrant train</seg>,
+<seg type="Emigrants" subtype="StateAffiliationArkansas">composed mostly of Arkansas families</seg>, <seg type="Emigrants" subtype="Route">on their
+way to Southern <placeName type="state" key="California">California</placeName></seg>. These emigrants
+encamped for several days at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> where their numbers were largely increased by Gentile
+accessions, and by some Mormons who had become
+dissatisfied with their religion.</p>
+
+<p><seg type="Encounter" subtype="TradeLDS">When the emigrant train started on, it was
+denied supplies in the Mormon settlements</seg>, was
+treated as an intrusive and dangerous mass, and
+was denounced as the vanguard of such an 
+eastern mob as might soon be expected to come for
+the purpose of sacking the Mormon Zion. The
+train moved rapidly, amid contumely and scant
+food supply, but without thought of direct attack
+on their lives. After crossing the Great Basin,
+they stopped for rest <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, in
+Southwestern <placeName type="state" key="Utah">Utah</placeName></seg>. While enjoying their rest
+here, <seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">their camp was suddenly attacked by
+Indians, who fired upon the emigrants as they
+were seated around their fires cooking breakfast.
+<seg type="Massacre" subtype="Casualties">Seven of their number fell in death at the first
+volley</seg>, and sixteen were wounded. The rest
+
+<pb n="75" xml:id="mmm.wa.boyd.1891.091"/>
+
+were thrown into confusion, but quickly rallied,
+and having placed their women and children
+under shelter of the wagons, they were soon
+returning the fire with deadly effect. The Indians
+recoiled, and were held to their bloody work with
+difficulty by their leaders, several of whom were
+recognized as whites in disguise. They shot
+down the cattle of the emigrants, and maintained
+a desultory fire throughout the day and night.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">On the next day the Indians were reinforced,
+and by whites in <choice><sic>diguise</sic><corr>disguise</corr></choice>, supposably Mormon
+allies.</seg> The emigrants, meanwhile, were making
+their position strong by chaining their wagons
+together and banking earth against them. <seg type="Massacre" subtype="RescueAttempt">Two
+of their number stole out of the valley and started
+to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for aid. They met three citizens
+of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> on their way, and were attacked
+by them. One of them was instantly killed and
+the other wounded. The wounded man made his
+way back to the emigrant camp, and his story
+revealed the awful fact that whites as well as 
+Indians were their antagonists.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">In this they were
+confirmed by witnessing a manoeuvering party
+on the divide of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, composed of fully 250 men, one third of whom were whites. This
+party decided that the position of the emigrants
+was impregnable.</seg></seg></p>
+
+<pb n="76" xml:id="mmm.wa.boyd.1891.092"/>
+
+<p>But, surrounded as they were, escape was out 
+of the question. <seg type="Massacre" subtype="Surrender">Surrender must be a matter of
+only a few days.  <seg type="Massacre" subtype="Planning">A council of Mormons had
+been held and it was agreed that the emigrants
+should be decoyed from their stronghold and 
+exterminated.</seg> <persName key="Lee, John D.">Lee</persName> and <persName key="Bateman, William Lehi">Bateman</persName>, two Mormon
+leaders, approached the camp with a flag of truce.
+<persName key="Lee, John D.">Lee</persName> represented to the emigrants that the Indians
+were very excited and bent on massacre, but that
+he had gotten them to promise they would injure
+no one who surrendered to the Mormons. 
+Believing that the Mormons would protect them, the
+surrender was made. The men were to march
+out unarmed, each one with a Mormon by his
+side, to make the Indians believe he was a captive.
+The wagons, loaded with food, sick and wounded
+were to go ahead. The women and children were
+to follow. The procession passed over the divide
+in <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> and down the slope beyond. A
+Mormon leader, <persName key="Higbee, John M.">Higbee</persName>, is there with a company
+of militia. His appearance is assuring, for his
+company may prove a source of protection in case 
+the Indians renew hostilities.  But in a 
+twinkling his company wheels, and each member aims
+for the emigrant nearest him. <seg type="Massacre" subtype="Casualties">Flash go their
+rifles in concert and down drop the victims of
+their bullets. The Indians rush from their 
+ambush and dash with yells upon the women.</seg> The
+
+<pb n="77" xml:id="mmm.wa.boyd.1891.093"/>
+
+horrid work goes on upon the right and left, <persName key="Lee, John D.">Lee</persName>
+being present everywhere to see that the 
+extermination is made complete. The rifle, the 
+tomahawk, the bowie-knife, all do their devilish 
+bidding, till there is no one left to tell the tale of a
+massacre whose fiendishness is without parallel.
+<seg type="Blame" subtype="LDS_LDS">If it be said it was not inspired by white men,
+and not participated in by them, the answer is, no 
+Indian could be so hellishly malignant, however 
+much he might be a tool and dupe.</seg> <seg type="Massacre" subtype="Casualties">The men all
+fell at the first fire. The wounded and the 
+women were brained with tomahawks.</seg> <seg type="Massacre" subtype="Survivors">Some 18
+children, too young to babble as witnesses, were
+taken and distributed among the Mormon 
+families.</seg></seg> <seg type="Massacre" subtype="Spoils">The property of the emigrants was divided,
+one part went to the Indians, the other was sold
+for the benefit of the Mormon Church.</seg> <seg type="Massacre" subtype="Dates">The date
+of the massacre was Sept. 11, 1857.</seg></p>
+
+<p>For months and years this massacre gave 
+occasion for discussion and investigation. <seg type="Blame" subtype="IndiansIndependently">The
+Mormon leaders charged it to the Indians, who had
+been excited by the hostility of the whites.</seg> <seg type="Blame" subtype="LDS_LDS">Even
+admitting that whites had participated in it
+they too had been wronged. The Church, as a 
+Church, had nothing to do with it. On the other
+hand, it was contended that the whole thing was
+actuated by the Church, and bore evidence of its
+action. The facts never could be conclusively
+
+<pb n="78" xml:id="mmm.wa.boyd.1891.094"/>
+
+reached, for the Mormons had hushed the lips of
+those who might have convicted them, with their
+bullets.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">In 1859 Captain <persName key="Campbell, Reuben P.">Campbell</persName> passed through <geogName type="valley" key="Mountain Meadows">the
+Meadows</geogName> and buried <seg type="Massacre" subtype="Casualties">the remains of 120 men,
+women and children</seg>.</seg> The Mormons showered
+honors upon <persName key="Lee, John D.">Lee</persName> and the other leaders in this
+dastardly affair. Years afterwards they were
+brought to trial. The first trial was a farce. The
+second one was even a worse farce, in the respect
+that the shrewder Mormons felt that <persName key="Lee, John D.">Lee</persName> must be
+sacrificed in order to save themselves. He was
+found guilty of murder, and was shot to death on 
+the scene of the massacre, where <seg type="Massacre" subtype="Casualties">he confessed to
+having killed five of the emigrants with his own
+hands</seg>. He died cursing the leaders who had 
+deserted him, but professing faith in his religion.
+He was not a victim to justice, but was as much
+murdered by his accomplices as if they had fired
+the last fatal volley.</p>
+</div1>
+</body>
+</text>
+</TEI>

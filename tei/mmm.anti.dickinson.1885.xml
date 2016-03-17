@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.dickinson.1885">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">New Light on Mormonism</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Ellen</forename> <forename type="middle">E.</forename> <surname>Dickinson</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.dickinson.1885</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">New Light on Mormonism</title>
+                    <author><forename>Ellen</forename> <forename type="middle">E.</forename> <surname>Dickinson</surname></author>
+                    <publisher>Funk &amp; Wagnalls</publisher>
+                    <pubPlace>New York, NY</pubPlace>
+                    <extent>122-139</extent>
+                    <date when="1885">1885</date>
+                    <note type="source">Ellen E. Dickinson.  <hi rend="italic">New Light on Mormonism.</hi> New York, NY: Funk &amp; Wagnalls, 1885. 122-139.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2010-10-27"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+    
+<div1 type="chapter">
+
+<pb n="122" xml:id="mmm.anti.dickinson.1885.125"/>
+
+<head>CHAPTER X.<ref target="n01">*</ref></head>
+
+<p><hi rend="center">The journey through the wilderness&#8212;The arrival of the Saints in Utah&#8212;The early political situation of the Mormons in "the Land of the Honey Bee"&#8212;The Mountain Meadow butchery&#8212;The influence of the Mormons over the Indians.</hi></p>
+
+<p><seg type="Context" subtype="LDSPersecution"><hi rend="smallcaps">WE</hi> have seen how <persName key="Young, Brigham">Brigham Young</persName> hastened from <placeName type="settlement" key="Boston, MA">Boston</placeName> to <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, "convinced of his right to lead the people," and that the Mormons willingly yielded to his conviction, and obeyed him implicitly. He was at this time under forty years of age. He is said to have had a most prepossessing countenance, a very frank and pleasing address, and to have had the art of inspiring enthusiasm without allowing it to influence his own motives or actions.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">We have also seen that, owing to his persuasive eloquence, <persName key="Rigdon, Sidney">Rigdon</persName> had been sent adrift, and that he had commanded that the temple should be completed, as he said, to fulfil <persName key="Smith, Joseph">Joseph Smith</persName>'s "revelation" to that effect, but probably to make plans for the future welfare of the Saints. Seeing that their position was fraught with dangers of both a seen and unseen character, he determined that it must be changed&#8212;in short, that his followers must seek "pastures new," find fresh surroundings and possibilities somewhere. Meanwhile he announced to his people that they must be ready to</seg>
+
+<note xml:id="n01">* <seg type="Context" subtype="LDSPersecution">In continuation of the history of the wanderings of the Saints from <placeName type="settlement" key="Kirtland, OH">Kirtland</placeName> to Deseret, and the events following in their career up to the present time, the most reliable authorities upon this subject have been carefully consulted.</seg></note>
+
+<pb n="123" xml:id="mmm.anti.dickinson.1885.126"/>
+
+<seg type="Context" subtype="LDSPersecution">sacrifice their all whenever he called upon them to do so. They wept and hesitated; but his authority prevented further expressions of regret, as they were bound to him by oaths which they shuddered to remember, and which yet made them love him all the more as their president, brother, and spiritual adviser. Agents were sent by him to explore the Western Territories. Their glowing accounts of <placeName type="state" key="Utah Territory">Utah</placeName>, both for its great natural resources and beauty, induced him to select that locality as the future residence of the Mormons. Besides, <placeName type="state" key="Utah Territory">Utah</placeName> at the time belonged to Mexico; it was beyond the control of the detested Stars and Stripes and the uncomfortable people who had thrice expelled "the chosen ones" from their resting-places. He made his purpose known to those nearest to him in office, but the common herd were merely informed that their destination was to be somewhere in the Rocky Mountains, and that they were to move on in that direction as far as <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName> that season. This new exodus began in February, 1846, the bleakest and coldest month of the year in that section of the country. Here <persName key="Young, Brigham">Brigham Young</persName> proved himself a general, as well as commander. He directed everything, and as the long trains of wagons, filled with the Saints and such of their household effects as they could carry, passed by him and crossed the "Father of Waters," he comforted and inspired and counselled the weeping emigrants. Certain men were left behind at his desire to sell the property of the church, and then shake off the very dust of that unfortunate locality.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">This journey proved to be one of intense suffering. Many of the wretched wanderers fell ill and perished by the way, and the survivors gladly received the command to make <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName> a temporary abode for rest and recuperation. The church was reorganized on the arrival
+
+<pb n="124" xml:id="mmm.anti.dickinson.1885.127"/>
+
+of the advanced company of the Saints, as they had moved in sections and not in one solid body, probably so as not to disturb the inhabitants of the sparsely populated country with their numbers. Some of the historians of Mormonism have asserted that when the Mormons left <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> they intended to go no farther than <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName>; but there is very strong evidence that <persName key="Young, Brigham">Brigham Young</persName> had fully laid his plans to make <placeName type="state" key="Utah Territory">Utah</placeName> his future scene of action and rule before he crossed the Mississippi. So far on the route, he must make plans for the completion of the journey. The obstacles in the way of this intention would have intimidated a less courageous man. There was still over one thousand miles to traverse through an almost unknown country. If it was difficult to transport armed troops through the wilderness, what skill and energy must it not have required to send a nearly unprovided-for, feeble, and impoverished company of men, women, and little children such a distance! But his wisdom and forethought controlled the whole matter.</seg></p>
+
+<p>An event in our national history, the war between the United States and Mexico, was imminent. He had had inklings of it; he hoped for it, and was prepared to take advantage of it. His followers could wait a little longer before making, as he believed, their last "hegira" to a land flowing with milk and honey. The government had offered large bounty money to all who would enlist in the army.</p>
+
+<p>The Mormons took advantage of this offer, and, concealing their real design under a sham patriotism, sent an agent to <placeName type="settlement" key="Washington, DC">Washington</placeName> asking that they should be permitted to form an organization to fight the common enemy. The government approved, or, at all events, allowed this scheme to be carried out, and in this way
+
+<pb n="125" xml:id="mmm.anti.dickinson.1885.128"/>
+
+money was furnished which assisted the emigrants to cross the plains toward <placeName type="state" key="Utah Territory">Utah</placeName>. July 24th, 1847, one hundred and forty-three men, pioneers, entered Salt Lake Valley accompanied by <persName key="Young, Brigham">Brigham Young</persName>. Five days later a portion of the "Mormon Battalion" enlisted under the call for troops for Mexico&#8212;about one hundred and fifty men&#8212;under Captain <persName key="Brown, James">Brown</persName>, who had arrived escorting a company of emigrants, gathered from various quarters in the East and the Old World. The men belonging to these two companies, at <persName key="Young, Brigham">Young</persName>'s command, had left their families at <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName>.</p>
+
+<p>From <persName key="Fremont, John C.">Fremont</persName>'s reports of <placeName type="state" key="Utah Territory">Utah</placeName>, we learn that <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> was at this time already laid out. The men, under Captain <persName key="Brown, James">Brown</persName>'s command, were sent on to join General <persName key="Scott, Winfield">Scott</persName>'s army, while the others commenced improvements for domestic comfort, farming operations in the vicinity, etc., and preparing for the residence of the Saints, who were still at <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName> in sickness, poverty, and discontent. Getting matters into material shape, <persName key="Young, Brigham">Brigham</persName> returned to <placeName type="state" key="Iowa">Iowa</placeName>, where his presence seemed to inspire the waiting Mormons.</p>
+
+<p>In the spring of 1848 the Mormons, a company of nineteen hundred men, women, and children, started from <placeName type="settlement" key="Council Bluffs, IA">Council Bluffs</placeName> for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>. Colonel <persName key="Kane, Thomas L.">Kane</persName>'s description of this journey has all the interest of a romance. The distance was enormous, the perils of the way great, and the zeal of the travellers and their courage under difficulties, sufficient to try the stoutest hearts, were only equalled by their faith. "It was a pilgrimage which has not been paralleled in the history of mankind since Moses led the Israelites from Egypt," wrote the enthusiastic <persName key="Kane, Thomas L.">Kane</persName>. They had sickness, weariness, skirmishes with the Indians, and they also had their pleasures and rewards in this extraordinary journey of several
+
+<pb n="126" xml:id="mmm.anti.dickinson.1885.129"/>
+
+months. They were surprised by beautiful scenery, and they languished over dreary wastes. <persName key="Young, Brigham">Brigham</persName> told them stories, encouraged dancing to make them merry, and had theatrical performances to distract their attention. It was their custom, whenever the camp rested for a few days together, to make great arbors, or "bowries," as they were called, for meetings of devotion, conference, and when the ground was trodden firm as places for conviviality. Colonel <persName key="Kane, Thomas L.">Kane</persName>'s account of a Mormon ball in the wilderness is graphic. "If anything told the Mormons had been bred to other lives, it was the appearance of the women as they assembled here," he wrote. Before their flight they had sold their trinkets to raise ready money. The men wore waistcoats with useless watch-pockets, and the ears of the women bore the loop-marks of rejected pendants. Otherwise they lacked nothing becoming decorous maidens and matrons. The gravest and most trouble-worn of the company seemed the most anxious to throw off the burden of heavy thoughts. To the combination of violins, sleigh-bells, horns, and tambourines did they trip "the light fantastic toe." French fours, Copenhagen jigs, Virginia reels, and other figures were executed with the spirit of people too happy to be slow, or bashful, or constrained, from an early hour until the sun had gone down behind the sharp sky line of the mountains. Children were born, and numbers died and were buried on the route, but they pressed on, under their leader's direction, for the new home beyond the States and their enemies, arriving at Deseret, "<hi rend="italic">the Land of the Honey-Bee</hi>," in the autumn of 1848. And now lands were surveyed and placed under careful cultivation, and <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> was made habitable; and then followed an era of enterprise and success that was as wonderful as it was unprecedented and <choice><orig>con-
+
+<pb n="127" xml:id="mmm.anti.dickinson.1885.130"/>
+
+tradictory</orig><reg>contradictory</reg></choice>. Settlements were established in every direction, the soil was subdued and irrigated for cultivation, and the people built the city and the temple, and established mills, and workshops, and numerous industries, under the personal directions of the ever-watchful bishops. Missionary corps were newly organized for foreign lands, and an Immigration Fund established, which soon resulted in a swarming influx to <placeName type="state" key="Utah Territory">Utah</placeName> from all parts of Europe.</p>
+
+<p>This "Immigration Fund" supplied the new converts&#8212;mainly from the working classes&#8212;from the time they left their homes until they reached some little farm in <placeName type="state" key="Utah Territory">Utah</placeName>, to which each person or family was assigned, and was under a regularly-organized police government, by which the percentage of casualties and cost of transportation were greatly lessened. <hi rend="italic">The same system of bringing Mormon emigrants to <placeName type="state" key="Utah Territory">Utah</placeName> is in use at the present time</hi>.</p>
+
+<p>As early as March, 1849, a convention, or "conference," was held at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> for the organization of a State, which was accomplished under the name of "<hi rend="italic">Deseret</hi>."</p>
+
+<p>Congress refused to accept the constitution which was adopted, but elected the country into a Territory in the following September, and President <persName key="Fillmore, Millard">Fillmore</persName> appointed <persName key="Young, Brigham">Brigham Young</persName> its governor.</p>
+
+<p>But troubles still followed the career of the Mormons. The judges appointed by the President for the new territory were driven out of Deseret by the "Prophet" governor. Colonel <persName key="Steptoe, Edward">Steptoe</persName>, of the United States Army, was sent by the President to occupy <persName key="Young, Brigham">Brigham</persName>'s place. He arrived in <placeName type="state" key="Utah Territory">Utah</placeName> with his command in August, 1854, but he found the Mormons so numerous and so belligerent, and his military escort was so small, that he deemed
+
+<pb n="128" xml:id="mmm.anti.dickinson.1885.131"/>
+
+it prudent not to assume the functions of his office; and after wintering there went to <placeName type="state" key="California">California</placeName> with his troops.</p>
+
+<p>The effect of this retirement of the troops was most unfortunate. From that day the Mormon "Prophet" successfully defied the government and outwitted the Federal authorities.</p>
+
+<p>After Colonel <persName key="Steptoe, Edward">Steptoe</persName>'s departure, <persName key="Young, Brigham">Brigham</persName> said, in a sermon to his people: "<hi rend="italic">I am and will be governor, and no power can hinder it until the Lord Almighty says: '<persName key="Young, Brigham">Brigham</persName>, you need not he governor any longer</hi>.'" Everything from that time seemed to consolidate his power.</p>
+
+<p>In February, 1856, Judge <persName key="Drummond, William W.">Drummond</persName>, of the United States District Court, was driven from his bench by an armed Mormon mob, and he was forced to adjourn his court, and all the United States Army officers, except the Indian agents, were obliged, by the terrible condition of affairs, to leave the country.</p>
+
+<p><seg type="Context" subtype="UtahWar">The Mormons endeavored to justify their treatment of the Federal officers by alleging that many of them were disreputable and profligate&#8212;statements that have a foundation in truth; In 1857 <persName key="Cumming, Alfred">Alfred Cumming</persName>, of <placeName type="state" key="Missouri">Missouri</placeName>, was appointed Governor of <placeName type="state" key="Utah Territory">Utah</placeName> by President <persName key="Buchanan, James">Buchanan</persName>. At the same time Judge <persName key="Eckels, Delana R.">Eckels</persName>, of <placeName type="state" key="Indiana">Indiana</placeName>, was made Chief-Justice of the territory. <persName key="Johnston, Albert Sidney">Colonel S. A. Johnson</persName>, with a body of twenty-five hundred United States troops, was sent to protect them and enforce the laws. The Mormons were greatly excited over the approach of the troops, and <persName key="Young, Brigham">Brigham Young</persName>, in his capacity as governor, issued a proclamation denouncing the army as a mob, forbidding it to enter <placeName type="state" key="Utah Territory">the territory</placeName>, and called upon the people of <placeName type="state" key="Utah Territory">Utah</placeName> to arms to repel its advance. It was September when the army reached the confines of <placeName type="state" key="Utah Territory">Utah</placeName>, and, owing to delays, was overtaken by
+
+<pb n="129" xml:id="mmm.anti.dickinson.1885.132"/>
+
+the snows of winter. A party of mounted Mormons, on October 5th, destroyed several supply trains, captured eight hundred oxen, and drove them into <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. The army went into winter quarters at Fort Bridger, where it suffered greatly. Their expedition had been fitted out with great care, and cost our government $14,000,000. October 27th Governor <persName key="Cumming, Alfred">Cumming</persName> issued his war proclamation, declaring <placeName type="state" key="Utah Territory">the Territory</placeName> to be in a state of rebellion. Colonel <persName key="Kane, Thomas L.">Kane</persName>, who had been with the Mormons during their last exodus, and seems to have been at this time very much their friend and confidant (if not convert), arrived at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> in 1858 with letters from President <persName key="Buchanan, James">Buchanan</persName>, and succeeded in bringing the hostile "Saints" and the governor sent to subdue them into relations of harmony.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">He was quickly followed by two peace commissioners "offering pardon to all Mormons who would submit to Federal authority." This "offer of pardon" was carried by Governor <persName key="Powell, Lazarus W.">Powell</persName>, of <placeName type="state" key="Kentucky">Kentucky</placeName>, and Major <persName key="McCullough, Benjamin">McCullough</persName>, of <placeName type="state" key="Texas">Texas</placeName>. The conditions were accepted by the heads of the church. With a becoming consideration for this subdued people, the army was stationed forty miles from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, where it remained until the spring of 1860, and was then withdrawn.</seg></p>
+
+<p>The Mormons were now exultant and hopeful. They trusted in their prophet, and echoed his boastful assertions that "nothing could harm them." He had exhibited a rare union of reckless daring with the subtlest prudence, recognizing a point beyond which he could not go, which <persName key="Smith, Joseph">Joseph</persName> always failed to do; and though lacking the lion-like personal courage of the first Prophet, he was more than his equal in moral heroism, and the mysterious control he exercised over his people.</p>
+
+<p>During the war for the suppression of the great <choice><orig>rebel-
+
+<pb n="130" xml:id="mmm.anti.dickinson.1885.133"/>
+
+lion</orig><reg>rebellion</reg></choice> the Mormons were in a measure forgotten and overlooked; but since that time public attention, through the facilities of travel, has been continuously turned in that direction. The Pacific Railway has brought <placeName type="state" key="Utah Territory">Utah</placeName> in close relations with the Eastern States. The isolation of the "Saints" is again disturbed by tourists, many of them distinguished travellers, who have investigated the exceptional social system of this people through the forbearance of their leaders.</p>
+
+<p><seg type="Context" subtype="Polygamy">On the 5th of October, 1869, Vice-President <persName key="Colfax, Schuyler">Colfax</persName>, at the time a visitor at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, was invited to make a speech from the portico of the Townsend House. He embraced the opportunity to tell the Mormons his opinion of polygamy in a bold and fearless way.</seg> "It seemed to break the spell of the Prophet's authority," and the wildest excitement ensued among his people. The Schismatics, under the leadership of one <persName key="Harrison, Thomas">Harrison</persName>, established a paper called the <hi rend="italic">Mormon Tribune</hi>, and organized a liberal movement. They and all the disaffected were cut off from the church.</p>
+
+<p>On the other hand, <persName key="Young, Brigham">Brigham</persName> and the leading magnates stood their ground firmly. <persName key="Taylor, John">John Taylor </persName>(the present high priest, ruler, and president of the Mormons), the leading mind and the best writer among them, answered Mr. <persName key="Colfax, Schuyler">Colfax</persName> by a letter in the <placeName type="settlement" key="New York, NY">New York</placeName> <hi rend="italic">Tribune</hi> of November 19th, 1869, in which he very cleverly disputed all his arguments and most of the assertions he had made at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</p>
+
+<p>The <hi rend="italic">Tribune</hi> of the Schismatics was hopefully received by certain people in <placeName type="state" key="Utah Territory">Utah</placeName>, as it professed to aim to break down bigotry and fanaticism, to foster ideas in harmony with the age, and <seg type="Context" subtype="Polygamy">to be in direct opposition to polygamy</seg>; but the attempt to bring Mormonism into agreement and adjustment with the accepted standards of the <choice><orig>civ-
+
+<pb n="131" xml:id="mmm.anti.dickinson.1885.134"/>
+
+ilized</orig><reg>civilized</reg></choice> world as to right and wrong soon grew to be an absurdity.</p>
+
+<p>New "revelations" were announced by these opposers of <persName key="Young, Brigham">the Prophet</persName>, but their publication made no difference in the general estimate of the situation of affairs. In 1870 Miss <persName key="Dickinson, Anna">Anna Dickinson</persName> made the following statements concerning <persName key="Young, Brigham">Brigham Young</persName>, in her popular lecture entitled "Whited Sepulchres:"</p>
+
+<quote><p>All this vast machinery is controlled by a single mind; he is the fourth largest depositor in the Bank of England; he controls the largest emigration fund in the world, whose emissaries appeal to the poor, and homeless, and destitute, and ignorant, and misguided of all lands, with the offer of a home, and a free passage to it, etc. <seg type="Blame" subtype="LDS_LDS">Yet he it was who, through his trained assassins disguised as Indians, committed the Mountain Meadow massacre</seg>, and by whose order <persName key="Hickman, Bill">William Hickman</persName> committed over four hundred murders in <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> was treated with the oonsideration of a "political offender," and while the people of the United States organized powerful agencies for the conversion of the heathen abroad, it is justly said we neglect to interpose an enlightened Christianity in behalf of the victims of Mormonism.</p></quote>
+
+<p>Of the many items of interest concerning the second "Prophet," the following is given by an English writer on Mormonism:</p>
+
+<quote><persName key="Young, Brigham">Brigham Young</persName> was sent with others to England to preach the Gospel. They landed at Liverpool, April 6th, 1840, partook of the sacrament, and commenced preaching. They were penniless, and dependent on their enemies for support&#8212;which at first was small&#8212;and <persName key="Young, Brigham">Brigham</persName> suffered much and often. He superintended affairs, issued an edition of the 'Book of Mormon,' inaugurated the publication of the 'Millennial Star,' and on April 30th, 1841, shipped seven hundred and sixty-nine converts to <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName>, sailing himself with them, and leaving many Mormon organizations and churches well established behind him.</quote>
+
+<p>This was but one of his many "missions," all of which seem to have been successful.</p>
+
+<pb n="132" xml:id="mmm.anti.dickinson.1885.135"/>
+
+<p>The anniversary of the day on which <persName key="Young, Brigham">Brigham Young</persName> (with the heads of the church) arrived at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> is still observed and celebrated; hence the 24th of July is the great national day with the Mormons, instead of the 4th of July.</p>
+
+<p>The second Prophet inaugurated a military corps known as "Minute Men," which was quite distinct from the "Danites." It was a well-drilled company of armed men, taking the character of a militia held in reserve for general defence. The Danites were also well organized, in a military point of view, with habits of undying watchfulness and hardy enterprise, acquired by a long experience of continued conflict with the Gentiles. Ever on their guard, skilled in all the arts of wood-craft, able to read as on a printed page upon the desert&#8212;by which many of their homes were surrounded&#8212;those signs which to inexperienced eyes would pass unnoticed, familiar with the laws of life and climate which characterize their country, and thus enabled to turn all to their own advantage as against strangers, and, more than all, familiar with the wild passes and deep mountain gorges through which all approach at that time could be made, they seem to have been in possession of many elements of strength to use for their own ends and in self-defence. Some of the most horrible deeds of violence against the enemies of Mormonism in <placeName type="state" key="Illinois">Illinois</placeName>, <placeName type="state" key="Missouri">Missouri</placeName>, and <placeName type="state" key="Utah Territory">Utah</placeName> have been committed by this "band." It is denied by the Saints at the present time that such an organization now exists, if it ever existed; but the truth in this matter is too fully established to admit of a doubt as to the past, and there is every reason to believe that any unusual hostility shown to the Mormons by individuals or the Government would prove that the "Danites" are not all dead.</p>
+
+<pb n="133" xml:id="mmm.anti.dickinson.1885.136"/>
+
+<p>Mormonism in <placeName type="state" key="Utah Territory">Utah</placeName> has always been associated with the <hi rend="italic">Mountain, Meadow Massacre</hi>, the most shocking event in its history. The following brief account of this horror has been taken from the most reliable sources extant.</p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Massacre" subtype="Dates">In the year 1857</seg> there were two trains of emigrants <seg type="Emigrants" subtype="Route">crossing the plains, with the intention of going to Southern <placeName type="state" key="California">California</placeName></seg>&#8212;<seg type="Emigrants" subtype="StateAffiliationMissouri">one from <placeName type="state" key="Missouri">Missouri</placeName></seg> and <seg type="Emigrants" subtype="StateAffiliationArkansas">one from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>. The former was made up of men who called themselves "Missouri Wild Cats;" the other a company of highly respectable persons, who had many indications of wealth and ease, that were seeking a new home. They travelled leisurely through the week and rested on Sundays. <seg type="Massacre" subtype="Casualties">There were men, women, and children of every age among them, and many families related to each other by the ties of consanguinity and marriage.</seg> They were generally Methodists, and had morning and evening prayers</seg>.</p>
+
+<p>The "Wild Cats" contracted a high respect for them, and came as near them in travelling as the methods of the camp at night would allow. Like all other pilgrims of the time toward "the golden Pacific coast," the emigrants counted upon recruiting at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, while camping by the side of the river Jordan. Ordinarily the Mormons were glad to see the arrival of Gentile emigrants en route for the far West, as it gave occasion for trade and barter; but certain events had changed the spirit of the people. <seg type="Context" subtype="UtahWar">Federal troops were then advancing toward Zion, and the Saints were preparing for a defence of their homes. <seg type="Context" subtype="LDSPersecution"><seg type="Emigrants" subtype="StateAffiliationMissouri">The <placeName type="state" key="Missouri">Missouri</placeName> company</seg>, it has been asserted, boasted on the way that they had helped to drive the Mormons from their State, and that they intended to further assist the approaching United States troops to "wipe out the Mormons."</seg></seg></p>
+
+<pb n="134" xml:id="mmm.anti.dickinson.1885.137"/>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="PrattMurder">The alleged animus against the other company was that <persName key="Pratt, Parley P.">Orley P. Pratt</persName>, the Mormon apostle, missionary, etc., had been recently shot in <placeName type="state" key="Arkansas">Arkansas</placeName> by <persName key="McLean, Hector">Hector McLean</persName> for an attempt to steal his children and send them to their mother in <placeName type="state" key="Utah Territory">Utah</placeName>, who years before had been converted to the Mormon faith in <placeName type="state" key="California">California</placeName>, and had subsequently become one of the wives of <persName key="Pratt, Parley P.">Pratt</persName>. <persName key="McLean, Hector">McLean</persName> was not arrested for this act, as Mormonism and the apostles were unpopular.</seg> <persName key="Young, Brigham">Brigham Young</persName>, as Governor of <placeName type="state" key="Utah Territory">Utah</placeName> and a sworn officer of the United States, was in honor bound to protect these two companies of emigrants that were resting by the Jordan. <seg type="Emigrants" subtype="StateAffiliationArkansas">Those from <placeName type="state" key="Arkansas">Arkansas</placeName></seg> were told to move on, and <seg type="Emigrants" subtype="Route">they took up their line of travel for <placeName type="settlement" key="Los Angeles">Los Angeles</placeName></seg>. <seg type="Encounter" subtype="TradeLDS">From this time they were made to suffer discomforts of many kinds by the way; the Mormons denied them provisions of every kind and food for their cattle.</seg> <seg type="Encounter" subtype="TradeIndian">The Indians were their only friends, and sold them all the corn they had to spare.</seg> They halted at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> one day, and then started on that fatal trip which soon came to a conclusion that has shocked the whole civilized world. <seg type="Massacre" subtype="Dates">The fourth day after the emigrants left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName></seg>, a regiment of Mormon militia, under the command of Major <persName key="Lee, John D.">John D. Lee</persName>, left that place in pursuit of them. This militia had the "make up" of a military force in the field, with the exception of artillery. <seg type="Blame" subtype="IndiansLDSInfluence"><persName key="Lee, John D.">Lee</persName> invited the Piede Indians to accompany him, and with these auxiliaries he had a force that could not be resisted by the poor hungry emigrants.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Location">At <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> the victims were overtaken. They had "rolled out" from camp ignorant of the danger which awaited them; and >when fairly <hi rend="italic">en route</hi> <seg type="Blame" subtype="IndiansLDSInfluence">the Indians commenced firing upon them</seg>. The emigrants were taken completely by surprise. They had no
+
+<pb n="135" xml:id="mmm.anti.dickinson.1885.138"/>
+
+idea that the military expedition had been sent against them until they saw and felt it. They were not confused, however, but immediately corralled their wagons and prepared for defence, but were, alas I too far from water. For four days they fought the soldiers <seg type="Blame" subtype="IndiansLDSInfluence">and Indians</seg> heroically. At the end of the second day Major <persName key="Lee, John D.">Lee</persName> sent for reinforcements, which arrived on the morning of the fourth day's fight. During the third day's battle it became a necessity with the emigrants to get water. It was in plain sight, but covered with the rifles of the troops. Hoping that the Mormons might have some pity on them, they dressed <seg type="Massacre" subtype="Casualties">two little girls in white</seg> and sent them with a bucket in the direction of the spring. The soldiers shot them down! The morning of the fourth day <persName key="Lee, John D.">Lee</persName> told the men under his command that his orders from headquarters were "<hi rend="italic">to kill <seg type="Massacre" subtype="Casualties">the entire company</seg> <seg type="Massacre" subtype="Survivors">except the children</seg></hi>." <seg type="Massacre" subtype="Surrender">He sent a flag of truce to them, offering to them, if they would lay down their arms, to protect them. What could the men do but believe in this promise? They marched out of their little fort, laid down their arms, and marched up to the spring where <persName key="Lee, John D.">Lee</persName> stood, and placed themselves under his protection. The line of march was then taken up, and after the distance of half a mile had been traversed <persName key="Lee, John D.">Lee</persName> gave the command to halt; then immediately the command to shoot them down. A long wail of agony from the surviving women and little ones who had followed their fathers, husbands, and brothers is beyond time powers of description.</seg> <seg type="Massacre" subtype="Casualties">All the men had been slain.</seg> Another scene followed too revolting to be told, wherein these Mormon demons were allowed to commit the last outrage on <seg type="Massacre" subtype="Casualties">these poor women. They were then killed</seg>, and <seg type="Massacre" subtype="Aftermath">the whole company stripped of their clothing and
+
+<pb n="136" xml:id="mmm.anti.dickinson.1885.139"/>
+
+left without burial</seg>. <seg type="Massacre" subtype="Survivors">Seventeen children were saved, and afterward distributed in Mormon families.</seg></seg></seg>*</p>
+
+<p><seg type="Reaction" subtype="Commemoration">In 1859 General <persName key="Carleton, James Henry">Carlton</persName> raised a cairn of stones over the bleached skeletons of the emigrants. On one of the stones he caused to be written: "<hi rend="italic">Here lie the bones of</hi></seg>
+
+<note type="footnote"><p>* An Englishman, who, while still very young, married a Mormon woman, but was not himself a convert to the faith, has related to his son the incidents of a journey he made from <placeName type="state" key="Utah Territory">Utah</placeName> to <placeName type="state" key="California">California</placeName> the year after the horrible butchery of the emigrants <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName></seg>. <seg type="Massacre" subtype="Aftermath">He saw the skeletons of some of the victims, and a fine gold watch which had been found close to this locality, and from certain marks was known to have belonged to some one of them.</seg> <seg type="Massacre" subtype="Survivors">Farther on in this journey he visited a village where some children of the emigrants were housed by different Mormon families. Only one of them was old enough to remember and tell of the story of the massacre. The fate of that child is uncertain, but the others were sent to their relatives in the East for adoption.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">One of that fated band who were <hi rend="italic">en route</hi> for <placeName type="state" key="California">California</placeName> escaped, and, as Mr. &#8212;&#8212; relates, reached a settlement beyond <placeName type="state" key="Utah Territory">Utah</placeName>, where he believed he was in safety; but the Indian savages employed by the Mormons in the fiendish work hunted him down, caught him unaware, and actually filled his body with arrows.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">An English lady who has visited <placeName type="state" key="Utah Territory">Utah</placeName> during her travels in America is responsible for the following story. She says it was related to her by a missionary teacher to whom the experience occurred, in <placeName type="state" key="Utah Territory">Utah</placeName>. The lady teacher asked a neighbor, a carpenter, to make some repairs to the schoolhouse. The work was accomplished at noon-time, while the children were away, and the man said one day: "I believe you are a Christian, and I want to ask if you think I can be forgiven for helping in the Mountain Meadow Massacre? I want to tell you; it is on my mind all the time; but if you betray me my life will be of no account." The teacher said she would not betray his confidence, and she believed, whatever his sins might be, they would be forgiven if he repented of them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The carpenter then told her how <seg type="Massacre" subtype="Casualties">a lovely, golden-haired little girl</seg> was sent to a spring for water that dreadful day, and that he was one of those commanded to shoot her down. That her look of entreaty was forever before his eyes&#8212;and then the strong man wept at the remembrance, while making this confession, of a barbarity that he dared not refuse to accomplish.</seg></p></note>
+
+<pb n="137" xml:id="mmm.anti.dickinson.1885.140"/>
+
+<seg type="Reaction" subtype="Commemoration"><hi rend="italic"><seg type="Massacre" subtype="Casualties">one hundred and twenty men, women, and children</seg> <seg type="Emigrants" subtype="StateAffiliationArkansas">from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, murdered <seg type="Massacre" subtype="Dates">on the 10th day of September</seg></hi><seg type="Massacre" subtype="Dates">, 1857</seg>." Upon a cross-beam he caused to be painted: "<hi rend="italic">Vengeance is mine, saith, the Lord, and I will repay it</hi>."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Young, Brigham">Brigham Young</persName> ordered this monument to be destroyed, and said the inscription should have read: "Vengeance is mine, saith the Lord, <hi rend="italic">and I have repaid it</hi>." <persName key="Lee, John D.">John D. Lee</persName> was tried and executed by our Government for his part in the Mountain Meadow butchery. He was but the instrument of <persName key="Young, Brigham">Brigham Young</persName>'s hatred to <persName key="McLean, Hector">McLean</persName> and the Gentiles generally, and was bound to carry out the malignant wishes of his leader, however willing or unwilling he may have been to do so. To Mormons freedom of thought is as impossible, it is said, as to idiots and to slaves. <seg type="Reaction" subtype="Silence">Elder <persName key="Penrose, Charles W.">W. C. Penrose</persName>, a church magnate, and editor, at the present time, of the Deseret <hi rend="italic">News</hi>, the official church paper, has recently been giving, on successive Sunday evenings in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, some carefully-prepared lectures on "Blood Atonement" and "Mountain Meadow Massacre"&#8212;themes upon which hitherto a discreet silence has been kept, or, if alluded to, have been called "absurd Gentile lies" and "mere bugaboos."</seg> "His line of defence (writes a correspondent of a <placeName type="settlement" key="Boston, MA">Boston</placeName> paper) concerning the ruthless slaughter of <seg type="Massacre" subtype="Casualties">the emigrants</seg>, is that <seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="EmigrantBehavior">they did evil things against the Indians of Southern <placeName type="state" key="Utah Territory">Utah</placeName></seg>, and that three or four wicked bishops in those parts concluded not to let them escape from <placeName type="state" key="Utah Territory">the Territory</placeName> alive, but wrote to <persName key="Young, Brigham">Brigham Young</persName> for advice, and then helped the redskins to cut their throats before the messenger returned. The Mormon monarch knew nothing of the shocking performance until some weeks later, and for thirteen years was duped into the belief that only Indians were concerned in it.</seg></seg>
+
+<pb n="138" xml:id="mmm.anti.dickinson.1885.141"/>
+
+<seg type="Blame" subtype="LDS_LDS">Alas for <persName key="Penrose, Charles W.">Penrose</persName> the facts are against his theory. <seg type="Reaction" subtype="Silence">There is not a shadow of doubt that <persName key="Young, Brigham">Brigham</persName> knew the whole story, and that for nineteen years he did his best to conceal the facts and shield the criminals from justice."</seg> <seg type="Context" subtype="Polygamy">It is said that he gave <persName key="Lee, John D.">Lee</persName> several new wives as a reward for conducting the massacre.</seg> <seg type="Context" subtype="IndianRelationsLDS">The policy of the Mormons in regard to the Indians, whom they call "Lamenites," from the first has been to conciliate them in every way; that every tribe should be visited by their missionaries, to instruct them in their faith, and by intermarriage and every other means to bring them under Mormon control.<seg type="Context" subtype="IndianRelationsUS"> This influence has been used to prejudice the red men against the United States Government and to stir up the tribes to open hostilities toward unprotected settlements; and in cases of collision between the Mormons and United States troops to assist their professed friends, the Saints.</seg> The Danites and the Indians have been allies in ambush fights and murders of travellers through the Territories; and in many horrible deeds of violence, where innocent men, women, and children on the frontiers have been slain by the red men, the incentive for vengeance has been given by Mormon agents.</seg> Men wise in the affairs of our nation and in the policy of the Mormon Church have predicted that <seg type="Context" subtype="Polygamy">if Uncle Sam ever rigidly attempts to abolish polygamy and to force the Saints into an outward show of morality, there will be serious trouble</seg>; <seg type="Context" subtype="IndianRelationsLDS">that a civil war will eventuate, in which the "Lamenites" and the Mormons will act as a unit against the Gentiles. The Indians are commonly called "the Battle-axes of the Lord" throughout <placeName type="state" key="Utah Territory">the Territory</placeName>. They are a most degraded people, the Mormon missionaries having done little or nothing toward their civilization. Some of the terrible deeds attributed to the Lamenites have been committed
+
+<pb n="139" xml:id="mmm.anti.dickinson.1885.142"/>
+
+by Mormons painted and dressed as Indians, as the following extract will prove:</seg></seg></p>
+
+    <quote>"I am in possession of the evidence that bands of these <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> Mormons, armed, dressed, and painted&#8212;having the appearance of Indians&#8212;are stationed on the way to <placeName type="state" key="California">California</placeName> and <placeName type="state" key="Oregon">Oregon</placeName>, for the purpose of robbing the emigrants. Many murders and robberies have already been committed by these demons in human shape, which have been published to the world and attributed to the Indians. &#8230;* <hi rend="right"><hi rend="smallcaps"><persName key="Smith, William">WILLIAM SMITH</persName></hi></hi>."</quote>
+
+<p><persName key="Smith, WIlliam">William</persName> was the Prophet's brother, and wrote the above nearly eight years before the "Mountain Meadow Massacre."</p>
+
+<note type="footnote">* "Melchizedek and Aaronic Herald." By <persName key="Sheen, Isaac">Isaac Sheen</persName>. Vol. I., No. 8. <placeName type="settlement" key="Covington, KY">Covington</placeName>, <placeName type="state" key="Kentucky">Ky.</placeName>, February, 1849.</note>
+
+</div1>
+</body>
+</text>
+</TEI>

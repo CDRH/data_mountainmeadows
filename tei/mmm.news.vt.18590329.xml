@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.vt.18590329">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	<title level="m" type="main">Untitled [The <hi rend="italic">Church Organ</hi>&#8230;]</title>
+	<title level="m" type="sub"></title>
+	<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.vt.18590329</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+    <sourceDesc>
+	<bibl>
+	    <title level="j">Valley Tan</title>
+	    <title level="a" type="main">Untitled [The <hi rend="italic">Church Organ</hi>&#8230;]</title>
+	    <publisher></publisher>
+	    <pubPlace>Salt Lake City, UT</pubPlace>
+	    <date when="1859-03-29">March 29, 1859</date>
+	</bibl>
+    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	    <term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+   <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-25"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-29"><name>Laura Weakly</name> Validation</change>
+	<change when="2008-09-05"><name>Katie M. Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2008-09-05"><name>Katie Heupel</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.vt.18590329.001"/>
+
+<p>The <hi rend="italic">Church Organ</hi> is very much exercised at the things in <placeName type="settlement" key="Provo, UT">Provo</placeName>, and particularly, at the bold and manly stand, taken by Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>. His remarks discharging the Grand Jury from farther service, and his answer to the Mayor of <placeName type="settlement" key="Provo, UT">Provo</placeName>, in relation to the presence of the troops, is pronounced to be <q>"unprecedented,"</q> and this was deemed of such importance, as for them to get up an extra, but it did not show itself upon the streets for some reason or other.</p>
+
+<p>The two articles above referred to we extract and give in another column. Several copies we understand were sent to the States, by Saturday's Mail, doubtless with a view of forestalling public opinion; they are welcome to all the capital they can make out of it.</p>
+
+<p>Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> in his remarks releasing, the Grand Jury, told some wholesome truths; he approached his subject too with no velvet tongue, but with all the force and power of good old fashioned Saxon.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">We re-iterate what we have before asserted, and the proceedings at Provo confirms it, that the Federal Courts in this Territory are powerless.</seg> <seg type="Reaction" subtype="StateInvestigation"><seg type="Reaction" subtype="FederalInvestigation">let this go to the States, aye to the authorities at Washington, for it is true to the very letter, and it can be shewn, not only by the declarations of all the civil officers of the Government, but by testimony of hundreds beside; we will abide the issue in this attempt of "this people," to bring the Federal Courts, not only into contempt here, but in the States</seg></seg>, if a bold. and fearless discharge of a sworn duty, is to be the subject of complaint, let them make it, we know one thing, that whenever either Judges <persName key="Cradlebaugh, John">Cradlebaugh</persName> and <persName key="Sinclair, Charles">Sinclair</persName> go under, that moment a nail is put into the Coffin of the Administration, public sentiment will not tolerate it, but we apprehend no such result. Both the judges are prepared to take the responsibility, and if it should be deemed necessary vindicate their official action before the authorities at <placeName type="state" key="Washington, D. C.">Washington</placeName>, and the public at large.</p>
+
+<p>We make these remarks because it is no-torious that there was a time here, when federal Judges were almost dragged from
+their seats and. threatened with violence; things are changed now, and we ask why? it is the presence of those very troops, about whom they prate so loudly, that keeps them in restraint, otherwise, there would be no telling that would be the fate of Judges <persName key="Cradlebaugh, John">Cradlebaugh</persName> and <persName key="Sinclair, Charles">Sinclair</persName>, although a shrewd guess could be made.</p>
+
+<p>We put the question in all candor, throwing all prejudices aside, if this people are loyal as they profess to be and have accepted the President's pardon, as they profess to have done, then why throw obstructions in the way of a faithful execution of the laws? Why not unite in an honest endeavor to bring to justice the numerous crimes that have been perpetrated in <placeName type="state" key="Utah">this Territory</placeName>. Some of which are of the most revoking nature, as good citizens who desire the protection of life and property, and the punishmeut of offenders should do?</p>
+
+<p>What is the secret? Is there a fear of the veil being lifted, and thus present to view a record that would startle the sensibilities of the whole Union? as Mark Anthony said, over the butchered remains of a dead C&#230;sar, whose <q>"gaping wounds,"</q> like <q>"mouths,"</q> aroused the indignation of a Roman populace: <q>"We pause for a reply,"</q>&#8212;and we might add, we may pause in vain. The mystery is socked up, and the keys are held by a power, that defies the searching scrutiny of the Federal authorities. Every day's experience convinces us of the fact, that the Theocracy that controls <placeName type="state" key="Utah">this Territory</placeName>, and consequently the people, is as distinct and in feeling as far separated from the Union, as the province of Canada, their official declarations to the contrary notwithstanding.</p>
+
+<milestone unit="horbar" />
+
+<p>A memorial, claiming to be from American citizens in <placeName type="state" key="Utah Territory">Utah Territory</placeName>, has been presented to the <persName key="Cumming, Alfred">Governor</persName>, praying for the withdrawal of the troops now stationed at <placeName type="settlement" key="Provo, UT">Provo</placeName>, and requesting him to lay the subject before the proper departments at <placeName type="state" key="Washington, D. C.">Washington</placeName>. We do not undertake to answer for his Excellency, but we think that he is as much convinced as we are, that the civil and ministerial officers attendant upon the Federal Courts are as powerless as the courts themselves. What is the army here for but to Aid the civil authorities in the execution of their delicate and, so far, frutless labors? What has created the stampede in the neighborhood of <placeName type="settlement" key="Provo, UT">Provo</placeName> and some other parts? It is not the appearance of the troops we undertake to say, but there was a more potent <cb n="2" />reason than this; they saw in the person of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> and his energetic movements a determination to rip open hidden crimes that have slumbered for years? Why so anxious to get away, and so repugnant to testify, when <seg type="Massacre" subtype="Aftermath">the bones of murdered men worsen and children <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> bleach the Valley, and their flesh fat tend the wolves?</seg> <seg type="Blame" subtype="IndiansIndependently">Of it was the Indians, as has been confidently asserted</seg>, or any body else, <seg type="Blame" subtype="LDS_LDS">Mormon</seg>, Jew, or <seg type="Blame" subtype="Gentiles">Gentile</seg>, humanity and justice demands the utmost rigors of the law that justice can administer. <seg type="Reaction" subtype="Extra-legalViolence">These are our sentiments; and all good citizens, no matter of what creed, or persuasion, will join with us in the opinion that it is correct.</seg></p>
+
+<milestone unit="horbar" />
+
+<p>In the memorial sent to. Gov. <persName key="Cumming, Alfred">Cumming</persName>, professing to be signed by many <q>"American citizens,"</q> for the removal of the troops, we are informed that the name of every woman and little child is attached, even the names of babies are put down, and there is no telling how many fictitious ones. As to American citizens, they have been naturalizing very fast, more than two hundred having taken out their papers, or declared their intentions. We are by no means a Know Nothing; but this prattle about <q>"American citizens"</q> is all fudge. No man who has been in <placeName type="state" key="Utah">this Territory</placeName> six months but knows that there is not one in ten but are foreigners, and have never taken the initiatory steps to become citizens. The authorities of the church and others exercising civil power, are composed of native born citizens, and this is a compliment to American energy and prowess; but out upon their almost universal and ostensible display of citizenship, it is all&#8212; gammon.</p>
+
+<milestone unit="horbar" />
+
+<p>We have received a letter from <placeName type="settlement" key="Provo, UT">Provo</placeName>, from which we extract the following:</p>
+
+<q><p>"The Grand Jury were two weeks in session, and refused to present any bills.</p>
+
+<p>The question came up before the Judge, as to the naturalization of <hi rend="italic">foreigners</hi> who had borne arms against the Government in the late rebellion, upon which the Judge put in proof the fact of their bearing arms, and showed his determination to reject all applications of foreigners, for naturalization, who had borne arms against the Government, within the last three years; upon the point, that they had not shown themselves of good moral character, welh disposed to he Government, and attached to the principles of the Constitution.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">Several high officials have been charged with crimes, warrants issued; and they have fled to the mountains; among them the Bishop of <placeName type="settlement" key="Springville, UT">Springville</placeName>, and the President of the Stake in this Region.</seg></p></q>
+
+<milestone unit="horbar" />
+
+<p>The <placeName type="state" key="California">California</placeName> Mail came in a long ways inside of time. We have bad but one Eastern Mail for four weeks. The storms we are informed continue to rage in the Mountains.</p>
+
+<p>Since writing the above, two Eastern Mails arrived here on Sunday afternoon. They have been detained for more than nine days at the <geogName type="waterway" key="South Platte">South Platte</geogName>, which is breaking up and flooding out, also several days at Rocky Ridge and the South Pass, by snow storms. As we are going to Press in advance, we have not had time to examine our numerous exchanges.</p>
+
+<milestone unit="horbar" />
+
+<p>The weather is the greatest flirt in <placeName type="state" key="Utah">this Territory</placeName>, we ever came in contact with, not excepting our friends of the feminine gender. Saturday, after a long winter, was a balmy spring day, but the same night it snowed incessantly, and most of the day Sunday, with a his prospect for another one.</p>
+
+<milestone unit="horbar" />
+
+<p>We devote a large space to <placeName type="settlement" key="Provo, UT">Provo</placeName> matters, especially as our <hi rend="italic">Courteous</hi> Cotemporary goes in very extensively, and evinces ,a desire to <q>"go in,"</q> and is exceedingly sensitive. <q>"Let the galled jades wince our withers are unstrung."</q></p>
+
+<milestone unit="horbar" />
+
+<p>PERSONAL.&#8212;Dr. <persName key="Chorpenning">Chorpenning</persName>, of the <placeName type="state" key="California">California</placeName> Overland Mail line, has been paying our city a brief visit. The Doctor was welcomed by many old friends, and u-bet he was put through. He leaves tomorrow for <placeName type="state" key="California">California</placeName> again, bearing with him the best wishes of all who made his acquaintance in Zion.</p>
+
+<milestone unit="horbar" />
+
+<p>After <persName key="McDonald">McDonald</persName>, <persName key="Kearns">Kearns</persName> and <persName key="Bullock, B. E.">Bullock</persName> were arrested and placed in custody of the military, the Sheriff of Utah county, <persName key="Wall, William M.">Wm. M. Wall</persName>, Esq., as we are informed, told Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> that be could take charge of all prisoners accused of offences against the laws of <placeName type="state" key="Utah">this Territory</placeName>. The Judge asked him if he had a sufficient jail. The Sheriff replied that he had, and that if his bonds were not sufficient, he could increase them to any amount that might be required, Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> replied that he would consult Judge <persName key="Sinclair, Charles">Sinclair</persName> on that subject.</p>
+
+<p>The prisoners being continued in the cus<cb n="3" />tody of the soldiery and not comfortably provided for requests were made to the court and to the U. S. marshal by their attorneys and others, that they might be taken to some place where they would be more comfortable, and the answer received was that <q>"they could not be kept in any place excepting in camp."</q> Some blankets and food were asked for, as the prisoners were in want of both. The <persName key="Dotson, Peter K.">U.S. marshal (Dotson)</persName> replied that they could have neither, <q>"unless they furnished themselves."</q></p>
+
+<p>If the circumstances above occurred as related, as there is little room for doubt, they certainly place the court and its officers in no enviable position.</p>
+
+<p>The above extract appeared in the last <q>"extra."</q> We are authorized to say that it is untrue; the prisoners have been as well, and much better taken care of in the military power, than they could have been probably in this city, much less the splendid accommodations at <placeName type="settlement" key="Provo, UT">Provo</placeName>.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">The Territorial Legislature have noglected to build jails, or even pay their own officers, doubtless considering the former an obsolete institution and crime a privileged matter, and the objection now comes with a bad race. We are assured that the prisoners have been well provided for, and the above allegation is but another phase of the deception that has been practised so long in <placeName type="state" key="Utah">this Territory</placeName>, but it will not win.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

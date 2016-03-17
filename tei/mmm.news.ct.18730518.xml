@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.ct.18730518">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Mountain-Life</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+	        <idno>mmm.news.ct.18730518</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Chicago Tribune</title>
+		    <title level="a" type="main">Mountain-Life</title>
+	            <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Chicago, IL</pubPlace>
+		    <date when="1873-05-18">May 18, 1873</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-07-28"><name>Jaclyn Cruikshank Vogt</name>Encoding Enhancement and Concept Highlighting</change>
+	<change when="2010-04-27"><name>Kelsey F. Harris</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+
+    <pb n="unknown" xml:id="mmm.news.ct.18730518.001"/>
+
+<head>MOUNTAIN-LIFE.</head>
+
+<head type="sub">Mirage&#8212;Luggernal Alley&#8212;Brown's Hole&#8212;Material Prosperity.<lb/>
+
+<milestone unit="section" rend="horbar"/>
+
+Trout-Fishing&#8212;Indian Fight at Pierre's Hole&#8212;And Indian Fort.<lb/>
+
+<milestone unit="section" rend="horbar"/>
+
+Uncle Jack Robinson&#8212;Col. O'Hara&#8212;Young Indian Braves and Squaws.<lb/>
+
+<milestone unit="section" rend="horbar"/>
+
+Utes Informed of Modoc Battles by Mormons&#8212;New Breed of Coach-Dogs.</head>
+
+<head>From our Correspondent.</head>
+
+<dateline>SMITH'S FORK, Wyo. Tex., May 13, 1873.</dateline>
+
+<p>While out on the plateau to-day, I could not
+help being stuck with the appearance of</p>
+</div1>
+<div1>
+  <head type="sub">THE MIRAGE</head>
+
+<p>which spread over the whole plain near the base
+of the hills.  It was as if an immense lake
+stretched out between the point where I was
+and the black hills beyond, showing the shadows
+below of rock and ravine; and, had I not
+known the whole to be a desert-waste, with no
+water near, I could have almost sworn that I was
+near the sea-shore.  Even the sails of vessels
+appeared at different points, and an immense
+stone bridge seemed to span one of the narrowest 
+places.  What a wonderful illusion this is,
+and how many men have been led on by
+it to certain destruction!  When weary,
+thirsty, and worn out, a beautiful lake
+has appeared in the distance, and the
+coveted water could be seen sparkling in the 
+sun's rays.  It seemed to the famishing traveler
+to be near at hand, and a few minutes' brisk
+traveling would bring him to it.  But, as he approached,
+the seeming water receded, and always 
+kept way off beyond his reach.  Instead of 
+getting nearer the precious fluid, he was going 
+father and farther out on the burning plains,
+until at last, utterly worn out, he has laid himself
+down and died from thirst, which is said to
+be the most terrible of all deaths.  The mirage is
+caused by heated air which lies near the surface
+of the ground, and which seems to have the
+power of reflecting the ray of the sun.  Some of 
+these illusions are wonderfully beautiful, and
+render the sterile plains as gorgeous in appearance
+as the most splendid dreams of enchantment.</p>
+
+  <p>Some time ago, while traveling, I met a lady
+who inquired of me if I had ever been in.</p>
+
+</div1>
+  <div1>
+  <head type="sub">LUGGERNAL ALLEY.</head>
+
+<p>which is described in Theodore Winthrop's book
+called <q>"John Brent,"</q> and which is supposed to 
+be somewhere in the <geogName type="mountain" key="Rocky Mountains">Rocky Mountains</geogName>.  From
+the description, I imagine Winthrop wished to
+locate it in the <geogName type="mountain" key="Uinta Mountains">Uintah Range</geogName>,&#8212;for, being, as he
+supposes himself, at <orgName type="military" key="Fort Bridger">Fort Bridger</orgName>, he says:</p>
+
+  <q><p>"How far is Luggernal Alley from Fort
+Bridger?"</p></q>
+
+  <p><q>"Fifty miles or so to the south and east.  I
+almost fancy I recognize it in the slight notch in
+the line of the blue sierra on the horizon."</q></p>
+
+  <p>This would carry it directly into the range of
+Uintahs.  But what Winthrop was trying to
+describe was undoubtedly </p>
+
+</div1>
+<div1>     
+<head type="sub">BROWN'S HOLE,</head>
+
+<p>which is 100 miles south of cast from <orgName type="military" key="Fort Bridger">Fort
+Bridger</orgName>, and is indeed a remarkable place.  Wonderful
+stories are told of the strange things to
+be seen in this locality, and it is a favorite 
+wintering-place for men who own herds of horses 
+and cattle; <geogName type="waterway" key="Green River">Green River</geogName> running through its
+whole extent, and it being shut in by high,
+rocky walls, which shield it from the winter
+storms and keep off the cold.  Here is what
+Winthrop says of it: <q>“A pavement of slippery,
+sheeny rock; great beds of loose 
+stones; barricades of mighty boulders,
+where a cliff had fallen an <unclear></unclear>
+ago, before the days of the road-maker race;
+crevices where an unwary foot might catch;
+wide rifts where a shaky horse might fall, or a
+timid horseman drag him down.  The blue sky
+was overhead, the red sun upon the castellated 
+walls a thousand feet above us, the purpling 
+<unclear> </unclear>opened before.  An arroyo, the channel 
+of a dry torrent, followed the pass.  It has
+made its way as water does, not straightway,
+but by that potent feminine method of passing
+under the frowning front of an obstacle, and
+leaving the dull rock staring there, while the 
+wild creature it would have held is gliding away
+down the valley."</q></p>
+
+<p>I imagine Brown's Hole would be somewhat at
+a loss to discover its own identity were this description 
+read to it; but novel-writers must be 
+allowed some latitude, and plenty has been taken
+in this instance.  However, this hole is a mighty 
+gorge, and the dividing land between two 
+streams in it, though but a few feet wide, rises
+steep and abrupt for nearly a thousand feet.</p>
+
+<p>All through the mountain-region there seems
+to be a steady advancement in the way of material
+prosperity, and the</p>
+
+</div1>
+<div1>
+<head type="sub">WAVE OF IMMIGRANTS</head>
+
+<p>is gradually reaching out toward the high
+grounds.  Ten years ago, no one dreamed of the
+number of people who now occupy the new
+Territories, and then years hence this number
+may be more than doubled.  Great herds of 
+cattle and sheep occupy the ground which was
+once used by the buffalo and sheep, and every
+twelvemonth their number is very considerably
+increased.  There is one fact connected with</p>
+</div1>
+<div1>
+<head type="sub">THE MOUTAIN-GRASSES</head>
+
+<p>which I never knew until a few days ago.  It is
+this: The grasses do not die down, as they do
+in the Eastern States; but the sap runs down in 
+autumn, as it does in a tree and leaves the stalk 
+dry and sere.  This is excellent grazing during 
+the winter-months, and, as spring approaches,
+the sap runs up; and the grass again becomes 
+green and handsome.</p>
+
+<p>It is now the season for</p>
+</div1>
+<div1>
+<head type="sub">TROUT-FISHING</head>
+
+<p>and for a lazy man, or more property a man who
+is fond of his ease, I know of nothing more
+pleasant than his spot.  The smell of the willows
+and sage-brush, the faint odor of the smoke 
+from the Indian cannies, or wigwams, near the
+stream, lull senses, and everything appears 
+peaceful.  The read-throated robins, the yellow-
+breasted meadow-larks, the flat-headed ducks,
+and the reddish-brown-plumaged falcon-hawks
+are enjoying themselves in bush and tree, and
+all seem gladdened by the merry rippling of the
+bright stream, as it dances along over the pebbles
+by the velvet greensward.  Stretched at full
+length of the grass, with the fly from one's fishing-
+line daintily moving down the wrinkled 
+waters, with here and there the black back of a 
+trout visible way down in the dark depths&#8212;
+can anything be more charming than this?  I 
+fancy not; and all the wines of France or dugs
+of India never threw so fairly a mantle over the
+soil.  Wild rose-bushes rise on every hand, fresh
+from their winter’s sleep, and almost ready to
+adorn themselves with all their matchless loveliness.
+Earth has no pleasure equal to trout-fishing
+in the atmosphere which is perfumed
+with rose-leaves!  Ha! here comes Oliver, and
+I&#8212;land a two-pound trout neatly on the green!</p>
+
+<p>After accomplishing this feat, I stroll off, and 
+soon come to the lodge of an old trapper, and
+he tells me about the</p>
+
+    </div1>
+    <div1>
+<head type="sub">BATTLE OF PIERRE'S HOLE.</head>
+
+<p>which was fought on Pierre's Creek, a branch of
+Snake River, on the 17th of July, 1882.  In its
+details it is not unlike the fights which have 
+lately taken place against the Modocs.  It appears
+that a party belonging to the Rocky Mountain
+Fur Company was quietly wending its way
+through the valley which is known as Pierre's
+Hole, when they suddenly discovered a party of
+Indians coming down the mountain-side, who
+proved to be Blackfeet.  A parley ensued, when a
+half-breed, belonging to the Fur Company, shot
+a Blackfoot warrior dead in his tracks, or, rather,
+and Indian did so at his bidding.  The Blackfeet
+immediately retreated to a swamp, where, near
+a beaver dam, they constructed a rude fortress.
+The white men, sent to their friends, who were
+in the lower part of the valley, and soon a considerable 
+force of trappers, hunters, and friendly
+Indians was gathered under the leadership of
+Capt. William Sublette, Robert Campbell, and
+Mr. Sinclair.  They advanced toward the position
+of the Indians, which was in
+a dense thicket of cottonwood trees and bushes.
+In crawling in on their hands and knees, Capt.
+Sublette was in the shoulder, and Mr. Sinclair 
+was shot through the body.  The trappers,
+however, closed in promptly, and soon the
+Blackfoot fort was completely surrounded.  The
+fighting continued all day, and at might the Indians
+retreated, leaving their dead behind them,
+and a large amount of peltries, blankets, and<cb n="2" />
+savage finery, which was of great value to the
+captors.  Ten Blackfeet were found dead in the
+fort, and the survivors afterwards admitted
+that they had lost twenty-six warriors
+in the battle.  Five white men, seven friendly
+Indians, and one half-breed were killed, and
+about twenty wounded.  The Indians who assisted
+the whites on this occasion were the <unclear></unclear>
+Perces, who have always been friendly, and a
+small party of Flatheads.</p>
+
+<p>This was the great battle of the mountain-
+region, and it became famous.  For years afterward, 
+men recounted their prowess on this occasion
+with the greatest zest, and all who participated
+were looked upon as heroes.  It was indeed
+almost creditable affair to the whites, and had a 
+salutary effect upon the red-skins.  The Blackfeet
+became more better than ever in their
+hatred toward the whites, which bitterness they
+retain, it would seem, in all its intensity to the
+present day.  The man who gave me these facts
+participated in the battle, and his name is</p>
+    </div1>
+  <div1>
+
+<head type="sub">JOHN ROBERTSON.&#8212;</head>
+
+<p>familiarly known as Uncle Jack Robertson,&#8212;one
+of the oldest mountaineers now living, and esteemed
+far and wide as an honorable and kind-
+hearted man.  Jack has <q>"had a heap of rough
+times,"</q> and, according to Walpolistia, it may be
+said of him <q>"that he has as many lives as a
+cat,&#8212;nay, even as many as one Plutarch is said 
+to have had."</q></p>
+
+<p>Jack owns a herd of cattle, and his lodge is
+always open to the people of the frontier, who
+avail themselves of his hospitality, and eat up
+what he has.  Still, this does not interfere with 
+his equanimity, and he enjoys himself as well as
+if he were the verlest nabob in the land.  So
+far as I know, he is the only one
+living who belonged to Gen. Ashley's
+party of trappers, who came to this region over
+forty years ago.  Many anecdotes are told of
+him, and he enters into the spirit of all games
+and parties with as much zest as he did forty
+years ago.  Last winter he attended the balls
+given by the mountaineers, and danced as merrily
+as the best of them.  The old man is a great 
+favorite wherever he goes, as he is ever ready
+to do a kindness for any one; and the aid he
+rendered the California immigrants, years ago,
+will always reflect credit upon his name.  When 
+their teams were broken down, he supplied
+animals of his own, and helped them along for
+days and days, and would not receive any pay 
+for his services.</p>
+
+<p>Lately I came across some lines written by
+my old friend.</p>
+</div1>
+    <div1>
+<head type="sub">THEODORE O'HARA.</head>
+
+<p>upon the occasion of the removal of the remains 
+of the Kentucky volunteers who fell at Buena
+Vista, from the soil of Mexico to the cemetery 
+at Frankfort, where, on a high bluff overlooking 
+the Kentucky River, their ashes are enshrined 
+beneath marble monuments shaped like tents. 
+This poem is unquestionably one of the finest 
+ever written in the English language.  It commences 
+with these lines:</p>
+
+<lg type="poem">
+
+   <l>The muffled drum's sad roll has best</l>
+    <l>The soldier's last tattoo;</l>
+   <l>No more of Life's parade shall meet</l>
+    <l>The brave and fallen few.</l>
+   <l>On Fame's eternal camping-ground</l>
+    <l>Their silent tents are spread,</l>
+   <l>And Glory guards, with solemn round,</l>
+    <l>The bivouac of the dead.</l></lg>
+
+<p>Col. O'Hara belonged first to the Kentucky
+volunteers; was afterwards an Assistant-Quartermaster,
+with the rank of captain; and was
+made a brevet Major for gallant and meritorious
+conduct in the battles of Contreras and Churubusco,
+in Mexico.  He served until the close of
+the war, when he returned to civil life, and afterwards
+took part in the invasion of Cuba by Opez,
+and was severely wounded at Cardenas, in 1851.
+In March, 1855, he became a Captain in the 
+Second Regiment of United States Cavalry,
+and served as such until Dec. 1, 1856,
+when resigned, being at that time in
+Texas, doing duty on the frontier.  Subsequently 
+he edited the Mobile register, and when
+the Rebellion broke out, joined the Confederate 
+cause, where he gained the rank of Colonel.
+The last time I was near him was at the siege of 
+Atlanta, GA., while he was serving under the
+Confederate flag, and I following the glorious
+old stars and stripes.  Col. O'Hara died in Barbour
+County, Ala, on the 7th of June, 1867.  He
+was a man of ardent temperament, true and
+kind to his friends, and possessed of decided 
+talents.  He was wayward, and could not brook
+the control so necessary in military discipline; 
+but, with all this, was a gallant gentleman
+and a brave soldier.  At evening, after a long
+day's march, no man could be more companionable
+and pleasant than he, as he had a fund of
+anecdote at his command, which was always
+ready to be drawn upon for the benefit of his
+friends.  It is not too much to say that he was
+one of the finest writers the South has produced.</p>
+
+<p>The weather in the mountains does not appear 
+to get settled; as it is in the East, so it is
+here,&#8212;threatening all the time, with occasional 
+gusts of wind and flurries of snow.</p>
+</div1>
+      <div1>
+<head type="sub">THE INDIANS</head>
+
+<p>are appearing in the forests some distance from
+their reservations, but peacefully inclined, as
+far as known, though all of them seem well informed 
+in regard to the sad tragedies which have
+been enacted in the California Lava-Beds.  The 
+young men would like to go to war, in order to
+show their prowess;&#8212;for, like all young men,
+they think a great deal of themselves,
+and are anxious to bring home something
+which will make them look like heroes
+in the eyes of the young squaws.  
+The young Indian women say to their sweethearts, 
+<q>"How can I know anything about your
+bravery, and skill in a hunter?  You have 
+brought in no scalps of horses, and the number
+of elk and deer killed by you amounts to
+nothing.  In case I marry you, how are you to
+support me? I am willing to do my share; but
+I wish to wed a warrior who has made a name
+for himself, and one who occupies an honorable
+place among the great men of the nation."</q></p>
+
+<p>Here then is the</p>
+
+        </div1>
+        <div1>
+<head type="sub">REASON FOR MANY A RAID</head>
+
+<p>against the whites, or the red neighbors of the
+Indians:  It is, that the young men may occupy
+an honorable place in the councils of the nation,
+and prove to the female portion of the community
+that they, too, have scalped a foeman.
+It matters very little to whom the scalp belonged,
+whether to an old or young man or woman,
+or to a helpless infant, for every scalp 
+counts.  No Indian can be considered a warrior
+until he can show a scalp taken by himself.</p>
+
+<p>I learn from the Agent of the Uintah Utes
+that</p>
+</div1>
+          <div1>
+<head type="sub">THE MORMONS WERE DETERMINED</head>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">these Indians should not remain in ignorance of
+what was going on in the <placeName type="county" key="Modoc County, California">Modoc country</placeName>, and
+one of the Mormon Bishops wrote a letter to one
+of the Indian Chiefs, giving an account of what
+had occurred in the Lava-Beds.  This is a strange
+proceeding, and it is difficult to account 
+for it.  Did this white man intend
+to make the <orgName type="tribe" key="Ute">Utes</orgName> dissatisfied, or
+was it merely the work of an idle
+brain?  It would hardly be fair to suppose this
+Mormon Bishop wishes to incite the Utes to
+massacre the people of the settlements along
+the line of the <orgName type="railroad" key="Pacific Railroad">Pacific Railroad</orgName>; but what was 
+his object, if this was not it?  <seg type="Blame" subtype="LDS_LDS">We know the
+Mormons were guilty of the Mountain Meadow
+massacre</seg>,&#8212;one of the most cold-blooded that
+ever occurred in our country; and, if they could
+do this, are they any too good to endeavor to kill
+off the inhabitants of our infant settlements?</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The disguise of white men as Indians</seg> reminds 
+me of a story told of a livery-stable-keeper in
+<placeName type="settlement" key="Omaha, NE">Omaha</placeName> who owned a fine lot of</p>
+
+</div1>
+<div1>
+
+<head type="sub">COACH-DOGS</head>
+
+<p>These dogs are white with black spots all over
+them, and are noted for their docile, not to say
+cowardly, dispositions.  The dogs belonging to 
+the livery-stable-keeper were beset on all occasions
+by the other dogs in the streets, and, as
+they were meek in spirit, were as
+easily overcome as a lot of sheep.
+The livery-stable-man stood this as long as he
+could, when, one day, he found a large white
+bull-dog, and it immediately occurred to him
+what to do.  He brought that dog, took him to 
+his stable, and there kept him until he got
+thoroughly acquainted with the coach-dogs.
+The bull-dog was then sent to the barber's shop,
+and black spots were neatly printed or dyed
+all over him, so that he looked like a 
+veritable coach-dog, with a somewhat
+short nose and elongated lower jaw.  The next
+time the carriage was sent out, this model coach-dog
+went along, and the street dogs "went for
+him," thinking they would have their usual sport
+and victory; but in this they were mistaken;
+the bull-dog waded in, and the way the hair,
+guitar-strings, and sausage-meat flew was a caution. 
+Since that time, the coach-dogs have 
+been let alone.</p><closer><signed>ALGEBRA.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

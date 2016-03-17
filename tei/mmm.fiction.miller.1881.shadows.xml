@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.miller.1881.shadows">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Shadows of Shasta</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Joaquin</forename> <surname>Miller</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.miller.1881.shadows</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Shadows of Shasta</title>
+                    <author><forename>Joaquin</forename> <surname>Miller</surname></author>
+                    <publisher>Jansen, McClurg &amp; Company</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>25-27</extent>
+                    <date when="1881">1881</date>
+                    <note type="source">Joaquin Miller. <hi rend="italic">Shadows of Shasta.</hi> Chicago, IL: Jansen, McClurg &amp; Company, 1881. 25-27. 
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2011-03-18"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+<body>
+
+<pb n="25" xml:id="mmm.fiction.miller.1881.shadows.026"/>
+
+<p>Who was his father? The Camp had asked this a thousand times. The boy himself had looked into the deep, pathetic eyes of his mother, and asked the question in his heart for many and many a year; but he never opened his lips to ask her. It was too sad, too sacred a subject, and he would not ask of her what she would not freely give. And now she lay dying there alone on the porch, as her boy stopped to talk with the two children, "the babes in the wood," and her secret hidden in her own heart.</p>
+
+<p>And who were the "babes in the wood?" Little waifs, fugitives, hiding from the man-hunters. As a rule in early days, when the
+
+<pb n="26" xml:id="mmm.fiction.miller.1881.shadows.027"/>
+
+settlers killed off the adult Indians in their forays, they took the children and brought them up in slavery. But the girl&#8212;the eldest, stronger and lither of these two dark little creatures&#8212;darting, hiding, stealing about this ruined old camp, was so wild and spirited, even from the first, that no one wanted her. And then she was dangerously bright, and above all, she did not quite look the Indian; men doubted if she really were an Indian or no, sometimes. But I remember hearing old Leather-Nose, as he sat on a barrel one night in the grocery, and squirted amber at the back-log, say: "I guess, by gol, she's Injun: She's devilish enough. She don't look the Injun, I know; but its the cussedness that makes me know she's Injun."</p>
+
+<p>"And when did she come to the camp?" asked a respectable stranger.</p>
+
+<p>"Don't know. That's it. Nobody don't know, and nobody don't care, I guess."</p>
+
+<p>"Well, don't you know where she camo from? Children don't come down, you know, like rain or snow. <seg type="Massacre" subtype="Survivors">There were about fifty little children left in the Mountain-meadow massacre. They are somewhere. These may
+
+<pb n="27" xml:id="mmm.fiction.miller.1881.shadows.028"/>
+
+be some of them.</seg> Don't you know who brought them here, or how they came?" asked the honest stranger, leaning forward and looking into the faces of the wrinkled and hairy old miners.</p>
+
+</body>
+</text>
+</TEI>

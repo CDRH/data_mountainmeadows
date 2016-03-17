@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sv.18580529">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Federal Government and Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sv.18580529</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Southern Vineyard</title>
+		<title level="a" type="main">The Federal Government and Utah</title>
+		<publisher></publisher>
+		<pubPlace>Los Angeles, CA</pubPlace>
+		<date when="1858-05-29">May 29, 1858</date>
+	    </bibl>
+	</sourceDesc>
+
+   </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	   </keywords>
+        </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enchancement</change>
+	<change when="2011-05-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2008-08-11"><name>Katie Heupel</name> Original transcription</change>
+	<change when="2008-08-11"><name>Katie Heupel</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="2" xml:id="mmm.news.sv.18580529.001"/>
+    
+<head>The Federal Government and Utah</head>
+ 
+<p>As a citizen and member of the Democratic party of the United States, the nomination and election of the present chief magistrate met with our hearty approval and co-operation. Since we assumed the management of the editorial department of this paper, we have expressed our satisfaction with the policy pursued by the Executive, and have had neither the occasion nor the disposition to find fault.</p>
+
+<p>Fully sensible that the <placeName type="state" key="Utah Territory">Utah</placeName> questions is one which presents difficulties of no ordinary kind, we are not disposed to hastily arrive at a conclusion of what is the wisest policy to be pursued by the government, in the prosecution to a settlement of this disagreeable subject.</p>
+
+<p>The news from the East by the fast mail shows that the War Department is taking energetic and efficient measures to solve at an early day this difficulty.</p>
+
+<p>On the other hand there are rumors and reports recently received here from <placeName type="state" key="Utah Territory">Utah</placeName>, which perhaps are entitled to some consideration, that a misunderstanding has occurred between Gov. <persName key="Cumming, Alfred"><choice><sic>Cummings</sic><corr>Cumming</corr></choice></persName> and Col. <persName key="Johnston, Albert Sidney"><choice><sic>Johnson</sic><corr>Johnston</corr></choice></persName>, and that the troops are not to advance, but that they will soon return East.</p>
+
+<p>Unable to perceive why any difficulty should have taken place between the civil and military authorities sent to govern and preserve order in <placeName type="state" key="Utah Territory">that Territory</placeName>, we are not disposed to give credit to the report, much less to infer that the President is pursuing a wavering and vacilating course. It is not presumable, that while the President is occupied in providing for the forwarding of men and supply trains from the East, that he is countenancing a movement which must again leave the government of <placeName type="state" key="Utah Territory">Utah</placeName> at the mercy of those same persons whose acts have compelled the Federal Government to send an army into the field, and whose obstinacy has obliged that army to suffer the inclemency of a winter in the summits of the Rocky mountains, and who destroyed the few buildings that might have served as a partial shelter to that army from the storms of winter. <seg type="Reaction" subtype="FederalInvestigation">The people of the United States will demand even if the present congress does not, a rigid investigation into certain transactions that have occurred in <placeName type="state" key="Utah Territory">Utah</placeName>, and which have been thus far permitted to sleep in almost forgetfulness.</seg></p>
+
+<p><seg type="Context" subtype="WesternViolence">The massacre of Capt. <persName key="Gunnison, John Williams">Gunnison</persName>'s party has been laid at the door of the <placeName type="state" key="Utah Territory">Utah</placeName> Mormons, and justice requires an investigation that shall either relieve them of the charge, or stamp the cursed deed upon the foreheads of the guilty in letters of blood.</seg></p>
+
+<p>The massacre of the <seg type="Massacre" subtype="Casualties">party of emigrants</seg> <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg> <seg type="Massacre" subtype="Dates">in the past year</seg> must be enquired into. <seg type="Blame" subtype="LDS_LDS">No sane man, acquainted with the character of Indians, with the testimony at present before the world, will believe that that act, of more than savage barbarity, was perpetrated by Indians. It is beyond the power of credulity to believe that Indians could, or would have done and acted as was reported, by the Mormons, to have been done by the incarnate devils who destroyed that party. <seg type="Massacre" subtype="Casualties">The extermination of so large a number of men, without the escape of a solitary individual</seg>, is unheard of in Indian warfare. <seg type="Massacre" subtype="Survivors">The preservation of the children is unprecedented in the barbarous acts of Indians.</seg> The return of those Indians along the highway that they knew was thronged with emigrants; and their undisguised entrance into a populous settlement, <seg type="Massacre" subtype="Survivors">with the orphan children as trophies of their bloody deed</seg>, is beyond the limits of credence. If it were allowable to admit an impossible case, for argument, we would assume that the plan was concocted and the act performed by the Indians without the aid or knowledge of the Mormons.&#8212;In which case the whole body of <placeName type="state" key="Utah Territory">Utah</placeName> officers, from the Revelator himself, down to the constable of the town most remote from the scene, are guilty of murder in its most revolting form. Not only the officers, but the inhabitants throughout the length and breath of <placeName type="state" key="Utah Territory">that Territory</placeName>, are a thousand time more guilty that the Indians who imbued their hands with the blood of our country-men, their wives and their daughters. Months multiplied by months have passed on, and, until the present day no effort has been made by these saints to pursue after, and bring to justice those savages that had so cruelly murdered scores of their fellow citizens, and <seg type="Massacre" subtype="Aftermath">left the mutilated bodies of women to fester in the mid-day sun</seg>. The inhabitants of <placeName type="state" key="Utah Territory">Utah</placeName> cannot plead in excuse that the Indians were unknown, or that they were too numerous or powerful to be brought to justice, because they were known, and there are no mighty bands of Indians in <placeName type="state" key="Utah Territory">that Territory</placeName>, while there are resident Mormons in almost every Indian village in <placeName type="state" key="Utah Territory">Utah</placeName>. Neither was it because the Mormons felt themselves too weak to make the attempt; for almost immediately after that event they openly challenged and defied the combined civil and military powers of the United States.&#8212;Instead then of exerting themselves to avenge the horrid deed, they held up their hands before High Heaven, and shouted Hallelujah, rejoicing over the diabolical act.</seg></p>
+
+<p>The only conclusion at which any mind controlled by sound reason, can arrive, under the circumstances and the testimony thus far divulged, is that this unparalleled crime of fratricide was committed by the Mormons. And, we ask, shall this stigma be permitted to settle down and rest upon the people of America? Will the Government and the people of the United States follow the example of <persName key="Young, Brigham">Brigham Young</persName> and the people of <placeName type="state" key="Utah Territory">Utah</placeName>; and suffer a crime of such enormity to attach itself to the skirts of our fellow-citizens, without an effort to clear up this charge.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">It was charged at the time of the massacre, that it was the work of Mormons. The Mormons themselves knew that the circumstances were such as would cause the crime to be imputed to them by the unprejudiced and impartial (?) of their fellow citizens of the United States.</seg></p>
+
+<p><seg type="Massacre" subtype="Dates">This party of emigrants were murdered between the 12th and 15th of September last</seg>, and <seg type="Source" subtype="Attributed_Christian">Mormon, <persName key="Christian, J. Ward">J. Ward Christian</persName>, then a resident of <placeName type="settlement" key="San Bernardino, CA">San <cb n="2" />Bernardino</placeName>, in communicating the circumstances, to the <hi rend="italic">Los Angeles Star</hi>, writes as follows:</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian">"It is absolutely one of the most horrible massacres that I have ever had the painful necessity of relating.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian">"<seg type="Emigrants" subtype="WagonTrain">The company consisted of 130 or 135 men, women and children and including some forty or forty-five capable of bearing arms. <seg type="Massacre" subtype="Spoils">They were in possession of quite an amount of stock consisting of horses, mules and oxen.</seg></seg> <seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Casualties">It appears that the majority of them were slain at the first onset made by the Indians</seg>. The remaining forces formed themselves into the best position their circumstances would allow; but before they could make the necessary arrangement for protecting themselves from the arrows, there were but few left who were able to bear arms. After having corralled their wagons, and dug a ditch for their protection, they continued to fire upon the Indians for one or two days, but the Indians had so secreted themselves that, according to their own statement, there was not one of them killed and but few wounded. <seg type="Massacre" subtype="Surrender">The emigrants then sent out a flag of truce, borne by a little girl, and gave themselves up to the mercy of the savages who immediately rushed in and slaughtered all of them</seg>, <seg type="Massacre" subtype="Survivors">with the exception of fifteen infant children, that have since been purchased with much difficulty by the Mormon interpreters.</seg></seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian"><seg type="Blame" subtype="LDS_LDS">"I presume it would be unnecessary, for all practical purposes, to relate the causes which give rise to the above described catastrophe, from the fact that it will be attributed to the Mormon people let the circumstances of the case be what the may."</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian">From the foregoing extracts, although written by a Mormon, and for the purpose of publication, we affirm that there is sufficient proof to satisfy every unprejudiced mind conversant with Indian character, that the deed was never performed by Indians. Further, we state with full confidence, that the emigrants knew at the time, that the attacking force was Mormon. <seg type="Massacre" subtype="Surrender">No body of Americans, surrounded and reduced to such extremities, by enraged and savage Indians, would ever have thought of sending a little girl with a flag of truce, and more especially when <seg type="Emigrants" subtype="StateAffiliationArkansas">these men were from <placeName type="state" key="Arkansas">Arkansas</placeName></seg>, where every inhabitant is familiar with the character of the Indian.</seg> But knowing them to be Mormons, and partly American, and not believing that they had lost all feelings of humanity, the would, in a case of extremity, make use of such a messenger as would be most likely to awaken their sympathy.</seg></p>
+
+<p><seg type="Source" subtype="Attributed_Christian"><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">If the murderers had been Indians, they never would have killed, on the field, all <choice><sic>tha</sic><corr>the</corr></choice> females.&#8212;<seg type="Emigrants" subtype="WagonTrain">This party consisted almost entirely of families, and there must have been as many or more young women as there were infants.</seg> Indians would not have killed these; but would have carried them off as captives. Neither would they have preserved the infant children. The American his [?] is full of instances where the brains of the infant have been dashed out in the presence of the parent, while the mother has been led into captivity. On the contrary, if they were Mormons, there were strong reasons that would urge them to adopt the course pursued by those murderers. The children would soon be of service to them. They would in a few years be men and women, and Mormons; while they could not spare the life of a grown person or youth,&#8212;no, not even the young and lovely females, because the risk of subsequent exposure and detection of participation in the harrowing deed, was too imminent.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Source" subtype="Attributed_Warn">This article has already exceeded our usual limits, or we would transcribe from the Star the statement made by Messrs. <persName key="Powers, James Wilson">Powers</persName> and <persName key="Warn, P. M.">Warn</persName>, published in that paper in October last. These men were the first, except Mormons, that passed along the road after the massacre, and relate many circumstances that fix, in the most positive manner, the complicity of the Mormons in that tragedy.</seg></seg></p>
+
+<p><seg type="Source" subtype="Attributed_Powers"><seg type="Source" subtype="Attributed_Warn">We saw and conversed with Mr. <persName key="Powers, James WIlson">Powers</persName> and Mr. <persName key="Warn, P. M.">Warn</persName>, of their arrival in this city, and it was at that time our deliberate opinion&#8212;derived not from prejudice, but from the testimony&#8212;that <seg type="Blame" subtype="LDS_LDS">there were no Indians engaged in the affair, but that those Indians seen on the road by the men named above, were Mormons in disguise.</seg></seg></seg></p>
+
+<p>Both the editorials and the statements made in the <hi rend="italic">Star</hi> at the time, imputed the act to the direct agency of the Mormons. A public meeting was held in this place, at which resolutions were passed declaring the conviction that the "<choice><sic>attrocious</sic><corr>atrocious</corr></choice> act was perpetrated by the Mormons and their allies," and this belief was published to the world.</p>
+
+<p>The representatives of the people of the entire Union, as well as those of the inhabitants of <placeName type="state" key="California">California</placeName>, saw and read the history of this astounding crime, and what have they done or proposed [?] in the premises? We have not seen that the subject has been urged upon, or has been brought up in Congress, save and except by Mr. Gwin. And the matter was not such as that, in his unaided hands, Congress could be induced to take any effective action.</p>
+
+<p>That there has been a positive coldness, excited only to a slight lukewarmness, manifested in Congress by the <placeName type="state" key="California">California</placeName> delegation, we think cannot be denied.</p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation"><seg type="Massacre" subtype="Casualties">That hundreds of our fellow-citizens</seg>, while journeying over the domain of the people, should be so wantonly murdered, <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="IndiansLDSInfluence">whether by Indians or Mormons</seg></seg></seg>, <seg type="Massacre" subtype="Dates">more than eight months since</seg>, and no steps taken either by the authorities of <placeName type="state" key="Utah Territory">the Territory</placeName> where it was committed, or by the Federal Government to investigate the occurrence, is an outrage upon humanity, and a scandal to ourselves and the Government.</seg></p>
+
+<p><seg type="Reaction" subtype="Extra-legalViolence">Had this outrage been committed by the Chinese, or the cannibals of the Southern ocean, the halls of Congress would have echoed back in indignation of the representative of an incensed people, and our own <placeName type="state" key="California">California</placeName> delegation would have cried for vengeance, and not have ceased until the manes of their fellow-countrymen had been appeased by an offering of blood, which should have satiated the god of justice.</seg></p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">There is no conceivable method by which these subjects can be investigated in <placeName type="state" key="Utah Territory">Utah</placeName>, but by the presence of an army which shall over awe the guilty, and protect those who would aid and assist in discovering the perpetrators.</seg> <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">If they were Indians, <choice><sic>thre</sic><corr>there</corr></choice> is greater reason for bringing home the act to them, as, until this is done, the onus must rest on the Mormons.</seg></seg></seg> <seg type="Reaction" subtype="Extra-legalViolence">Justice, as well as our own good name, requires that they should not rest under so foul an imputation. But if they are guilty, the blood of our unburied sister, has ascended up to Heaven, and is demanding retribution.</seg></p>	
+
+<p><seg type="Reaction" subtype="Extra-legalViolence"><seg type="Blame" subtype="LDS_LDS">If the performers in this outrageous tragedy were whites who masked themselves as Indians, that their darkened countenances might approximate the blackness of the crime which they committed, let them be pursued by long-suffering justice, until the vital air we breathe shall not [3] circulate through the nostrils of one of the wretches; let them be forever hung upon the highest peaks of the overhanging mountains; let their bodies ever remain suspended in the frigid atmosphere of the mountain tops, as an example from ocean to ocean of retributive justice, and a warning to future and unborn generations.</seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

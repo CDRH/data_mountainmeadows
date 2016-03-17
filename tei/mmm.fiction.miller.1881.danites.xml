@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.miller.1881.danites">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Danites in the Sierras</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Joaquin</forename> <surname>Miller</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.miller.1881.danites</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">The Danites in the Sierras</title>
+                    <author><forename>Joaquin</forename> <surname>Miller</surname></author>
+                    <publisher>Jansen, McClurg &amp; Company</publisher>
+                    <pubPlace>Chicago, IL</pubPlace>
+                    <extent>62-38</extent>
+                    <date when="1881">1881</date>
+                    <note type="source">Joaquin Miller. <hi rend="italic">The Danites in the Sierras.</hi> Chicago, IL: Jansen, McClurg &amp; Company, 1881. 62-68.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+	    <change when="2012-02-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+            <change when="2011-03-18"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+    
+<div1 type="chapter">
+
+<pb n="62" xml:id="mmm.fiction.miller.1881.danites.067"/>
+    
+<head>CHAPTER VI.</head>
+
+<head>SOME UNWRITTEN HISTORY.</head>
+
+<p><seg type="Context" subtype="LDSPersecution">THE murder of <persName key="Smith, Joseph">Joseph Smith</persName>, the so-called prophet, meant more than any other similar event in history. This man, as well as his brother, <persName key="Smith, Hyram">Hiram</persName>, was not only an honest, brave gentleman, but also a man of culture and refinement. The latter, it may not be generally known, was a candidate for Congress, when that place was counted the post of honor.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">Nothing in the New World ever so intensified the minds of men as the life and death of this singular man, <persName key="Smith, Joseph">Joseph Smith</persName>. On the one hand he was hated to death, on the other hand he was adored while living, worshiped when dead. Men for his memory's sake burned their bridges behind them, as it were, and fled destitute to the wilderness.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">With no capital but a hoe and a wheelbarrow, they built up, in a quarter of a century, in the middle of a desert, the most remote and the most remarkable commonwealth that the world
+
+<pb n="63" xml:id="mmm.fiction.miller.1881.danites.068"/>
+
+has ever seen. <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> was the one pier upon which was laid the long and unbroken iron chain of the Pacific Railroad.</seg></p>
+    
+<p><seg type="Context" subtype="LDSPersecution">On what singular foundations lie the corner stones of some of the greatest achievements! I think you can safely say that had there been no <persName key="Smith, Joseph">Joseph Smith</persName> there had been, up to this date at least, no Pacific Railroad.</seg></p>
+    
+<p><seg type="Context" subtype="LDSPersecution">This tragedy meant everything to those who took part in it, no matter on which side they fought or followed.</seg></p>
+    
+<p><seg type="Context" subtype="LDSPersecution">No one saw beyond the circle of houses in which they then lived and moved. As a rule those who followed the prophet, as well as those who murdered him, were wild, ignorant men, from the mountains of <placeName type="state" key="Tennessee">Tennessee</placeName>, the wilds of <placeName type="state" key="Virginia">Virginia</placeName> and their own <placeName type="state" key="Missouri">Missouri</placeName>.</seg></p>
+    
+<p><seg type="Context" subtype="LDSPersecution">To these men, as I have said, this tragedy meant all the world. <placeName type="settlement" key="Carthage, IL">Carthage</placeName> to them meant all that Carthage ever meant to Rome.</seg></p>
+    
+<p><seg type="Context" subtype="LDSPersecution">Nearly a hundred men, heavily masked, moving down upon a prison, with its half dozen inmates. A little tussle; one struggle at the door. Then a few shots. Then a few men lying in their blood on the prison floor. Then a leap from a window, a fall; a man lying dead in the jail yard. Some masked men pick up the body. They sit it up against a pump in the yard; and then they, as if to be doubly
+
+<pb n="64" xml:id="mmm.fiction.miller.1881.danites.069"/>
+    
+certain, fire at the dead body of the prophet as they file out of the jail yard and disappear.</seg></p>
+    
+<p><seg type="Context" subtype="LDSPersecution">All is consternation, terror now, flight! It seems there will not be one human being, save the dead and dying, left in the town. One family alone dares to remain to care for the murdered.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">The work was well done. If such a deed can be done well, this certainly was. The secret was kept as never had secret been kept before. Life was depending. Not only the life of the man who had taken part, but the lives of his children, his wife, all his house. Who says the West is not the world of Romance and Tragedy?</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">A pendulum must swing about as far one way as it does the other. Blood meant blood. From the stains on that prison floor sprang the Draggon's teeth. Out of that awful day came forth a singular conception: the Danites&#8212;Destroying Angels.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">The prophet of God, as these men professed, had been slain. Unlike the Christians, they proposed to slay in revenge.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="LDS_LDSRetribution">I fancy you might trace this on till you came to the awful tragedy of <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Moutain Meadows</geogName></seg>. Putting the two tragedies together, side by side, and passing them on to the impartial judgement of some pagan, I am not certain
+
+<pb n="65" xml:id="mmm.fiction.miller.1881.danites.070"/>
+
+that he would not pronounce in favor of the Mormon.</seg></seg></p>
+        
+<p>History trenches closely upon romance, and here we must leave the very uncertain and crudely traced outline of the former and follow on in the latter, as we began.</p>
+    
+<p><seg type="Context" subtype="LDSPersecution">The story runs that the Danites found trace of one man who had taken an active part in the death of their prophet. His name was Williams, and was a man of a large and refined family.</seg></p>
+    
+<p>Williams in the course of a year was found dead&#8212;drowned! Drowned he certainly was, but whether by accident or the design of enemies (for suicide does not sever the life of the borderer) was not known. Then his eldest son was found dead in the woods. His empty rifle was in his hand. He too might have perished either by accident or design. The mother was the next victim. There was consternation in the family; in all the settlement.</p>
+    
+<p>Another victim! Then another! Now it was certain that some awful agency was at work, and that the family was doomed. The only hope of safety lay in flight. One night the four surviving children, three grown sons and a daughter, set out to cross the plains. They had a team of strong horses, and pushed on in the hope of falling in with some train of emigrants, joining them, and thus blending in with and
+    
+<pb n="66" xml:id="mmm.fiction.miller.1881.danites.071"/>
+    
+mixing with their members, throw the enemy from off the track.</p>
+    
+<p>They found their train, joined it, crossed the Missouri River, and moving on, began to deem themselves secure.</p>
+    
+<p>Soon it came the turn for one of the brothers to stand guard. He kissed his pale, sad sister, as he shouldered his gun and went on duty. And it was well that he said good-bye, for he was never heard of afterwards.</p>
+    
+<p>As they neared the Rocky Mountains, a party of half a dozen rode out from the train to take buffalo. One of the two remaining brothers was of this party. He never returned.</p>
+    
+<p>Now only two remained. The brother and sister often sat silent and bowed by the camp-fire, and looked sadly into each others' faces. What could they be thinking of? What was the one question in their minds? The man could only have been saying to himself, "Sister, whose turn next? is it you or I?" His brow darkened as he thought how terrible it would be to leave his sister all alone. And there was an old Roman nobility in the wish that she might die before him.</p>
+    
+<p>The question was not long unsettled. As they neared the Sierras, a stray shot from the willows that grow on the banks of the Humboldt, laid the brother dead at his sister's feet.</p>
+    
+<pb n="67" xml:id="mmm.fiction.miller.1881.danites.072"/>
+    
+<p>Nancy Williams was now left alone. One day, as they ascended the Sierras, she too was missed. Little was said. People feared to speak. There was something terrible in this persecution to the death in the dark. Who were these men, and where? Did they sit at your very elbow in camp, and dip from the same dish? They too could keep secrets as well as the assassins of their so-called prophet.</p>
+    
+<p>What had become of Nancy Williams? Had she too really been murdered? or had she in terror stolen away in disguise, and made her way into the mines alone? No one knew. People soon became too much concerned with their own affairs, as they neared the gold-fields, and men only now and then thought of the name of Nancy Williams.</p>
+    
+<p>One day two strange men entered the Howling Wilderness saloon, and spoke in signs and monosyllables to the cinnamon-haired bar-keeper, and pointed up toward the cabin of the "Widow." Sandy entered as these two men went out.</p>
+    
+<p>The bar-keeper looked at Sandy a long time, as if some great question was battling in his mind. At last, in a husky and hurried voice, he said, as he looked out through the door, and over his shoulder, as if he feared the very logs of the house might betray him:</p>
+        
+<pb n="68" xml:id="mmm.fiction.miller.1881.danites.073"/>
+    
+<p>"Them's Danites."</p>
+    
+<p>"What in hell do they want at the Forks?" The sledge-hammer fist fell on the counter like a thunder-bolt.</p>
+    
+<p>"Shoo!" The red, bristled head of the bar-keeper reached over toward Sandy. The bar-keeper's hand reached out and took Sandy by the loose blue-shirt bosom, and drew him close up to the red head. Then again looking toward the door, and then back over his shoulder, as if he suspected that his own bottles might hear him, he said, in a sharp hissing whisper, "Shoo! They want Nancy Williams!"</p>
+    
+<p>Sandy's mind at once turned to the Widow. He dared not trust the bar-keeper. In truth, no man dared trust his best friend where this most terrible and secret order was concerned. He did not answer this man, but silently, and as unconcerned as possible, turned away and went back to his cabin.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

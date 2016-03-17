@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18661224">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Local and Miscellaneous</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18661224</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+    <sourceDesc>
+	<bibl>
+	   <title level="j">Union Vedette</title>
+	   <title level="a" type="main">Local and Miscellaneous</title>
+	   <publisher></publisher>
+	   <pubPlace>Camp Douglas, UT</pubPlace>
+ 	   <date when="1866-12-24">December 24, 1866</date>
+	</bibl>
+    </sourceDesc>
+
+	</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+	        <keywords scheme="original" n="category">
+	            <term>newspaper</term>
+	        </keywords>
+		<keywords scheme="original"  n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+	<revisionDesc>
+	    <change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	    <change when="2011-04-18"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	    <change when="2010-03-29"><name>Laura Weakly</name> Validation</change>
+	    <change when="2010-03-04"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	    <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    	</revisionDesc>
+
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18661224.001"/>
+
+<head>Local and Miscellaneous.</head>
+
+<p>TO ADVERTISERS&#8212;The <orgName type="newspaper" key="Union Vedette">VEDETTE</orgName> is the pioneer daily newspaper of <placeName type="state" key="Utah Territory">Utah</placeName>.  Its extensive circulation in every mining camp and city of <placeName type="state" key="Montana">Montana</placeName> and <placeName type="state" key="Idaho">Idaho</placeName>, to which it gives the telegraphic dispatches a whole week ahead of the Pacific papers,) makes it the most <unclear /> medium for advertising in these four <unclear /> Territories.</p>
+
+<milestone unit="horbar" />
+
+<p>THE TABERNACLE.&#8212;WE attended the Tabernacle yesterday and listened to a lengthy address from <persName key="Young, Brigham">Brigham Young</persName>, in which he urged unity of action on the part of the Saints, and vindicated the position he assumed in his reply to the card recently published by the merchants of this city.  He stated that he had invited the strictest scrutiny, and had advised vigilance to be used in the discovery of the perpetrators of the murder of Dr. <persName key="Robinson, J. King">Robinson</persName>. He excused himself for not having adverted to the subject before. <seg type="Blame" subtype="IndiansIndependently">He alluded to the Mountain Meadow massacre, denouncing it in unmeasured terms, saying he did not believe there was a being in human shape, except savages, who could have committed so base a crime.</seg>  <seg type="Blame" subtype="Gentiles">He alluded extensively to the subject of the patronage of Gentile merchants by Mormons, and counselled them to pass by the stores of those who, he said, were here for no other purpose but to destroy the Saints.</seg> He argued that there was in this community a class of men who were striving to deprive the Mormons of their houses, lands and money, and that all who patronized that class would be cut off from the Church.  He launched forth many an invective against a certain sheet (which we forbear to publish), said sheet not being named but left to the conjecture of his audience.  He frequently alluded to the subject of his published <q>"Reply."</q> and reiterated over and over again his determination to adhere to the policy expressed in his <q>"Reply,"</q> and avowed his intention to carry it out to the very last day of his existence.  <seg type="Context" subtype="LDSPersecution">He argued that the Mormons were doing no more than had been done by the professors of other religious denominations, in with holding aid and support from their enemies.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

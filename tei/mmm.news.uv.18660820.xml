@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18660820">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Crime in Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18660820</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Union Vedette</title>
+		<title level="a" type="main">Crime In Utah</title>
+		<publisher></publisher>
+		<pubPlace>Camp Douglas, UT</pubPlace>
+		<date when="1866-08-20">August 20, 1866</date>
+	    </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	   <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-10"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-04-18"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-29"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-25"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18660820.001"/>
+
+<head>CRIME IN UTAH.</head>
+
+<p><seg type="Context" subtype="LDSPersecution">The extremely <unclear /> and sycophantic editor of the <orgName type="newspaper" key="Telegraph"><hi rend="italic">Telegraph</hi></orgName> has been very much occupied of late in whining about the comparative purity of Utahdom contrasted with what he considers the excesses of crime in other places, and has given the most unmistakable evidence of his character by his continually wallowing in the mire of moral pollution.&#8212;The ostensible advocate and champion of Mormon ecclesiasticism, why is it he confines himself less to the rational elucidation of the tenets of his own barbaric faith than to apparently pleasurable glutting over the moral deformities of his less pretentious neighbors, as though imperfections in them would justify enormities in him and his but little
+more scrupulous coadjutors!</seg></p>
+
+<p><seg type="Context" subtype="WesternViolence">Crime may be rampant in <placeName type="settlement" key="New York, NY">New York</placeName> and other large cities, and a greater amount of it be ferreted out and brought before the proper tribunals in proportion to the number of inhabitants than in <placeName type="settlement" key="Salt Lake City, UT">G. S. L. City</placeName>; but it is no proof it does not exist here as proportionately extensively as there.  Even in those cities, money and influence free many a guilty wretch, while the poor culprit without money and friends is forced to succumb, and have his name bandied about by more guilty but unexposed villains, and an ignorant and excited populace, to his life long shame and detriment. And is it not equally or more so here. Let the records of the past answer.</seg></p>
+
+<p><seg type="Blame" subtype="Gentiles">It is also charged by that delectable sheet that all or nearly all of the crime committed in <placeName type="state" key="Utah Territory">Utah</placeName> is committed by Gentiles or <q>"regenerators."</q> (A name applied in ridicule to Gentile delinquents here, and sometimes used indiscriminately, but really applicable to the honorable class who are the true and only friends of Utahians in <placeName type="state" key="Utah Territory">Utah</placeName>.)</seg></p>
+
+<p><seg type="Context" subtype="WesternViolence">It requires no great effort of memory to remind us of the Mountain Meadow Massacre&#8212;of the murder of a certain Mexican shortly after the settlement of <placeName type="state" key="Utah Territory">Utah</placeName> in the southern part of the Territory &#8212;of the murder of a certain old man west here, of known Union proclivities, when the Mormon militia went out to stop (!) <persName key="Johnston, Albert Sidney">Johnson</persName>'s army&#8212;of the murder of Sergt. <persName key="Pike, Ralph">Pike</persName>&#8212;of the murder of a certain merchant named Bowman&#8212;of <seg type="Context" subtype="ParrishMurder">the murder of the Parishes</seg>&#8212;of the murder of Forbes&#8212;of the murder of <persName key="Jones, Henry">Jones</persName> and his poor old mother&#8212;of the murder of a certain wealthy emigrant at <placeName type="settlement" key="Ogden, UT">Ogden</placeName> some seven or eight years since, and the accidental (!) drowning of another pushed into the <geogName type="waterway" key="Ogden River">Ogden River</geogName> some three years since&#8212;of the murder of <persName key="Morris, Joseph">Joseph Morris</persName> and <persName key="Banks, John">John Banks</persName> and two women in 1862&#8212;of the murder of a soldier in <placeName type="settlement" key="Salt Lake City, UT">S. L. City</placeName> in 1864&#8212;of the attempted murder of <persName key="Brassfield, S. Newton">Brassfield</persName> in 1866&#8212;<seg type="Context" subtype="LDSReformation">of the floating bodies in the <geogName type="waterway" key="Jordan River">Jordan</geogName> and dead bodies in the streets during the demoniacal <q>"reformation"</q> (!) of 1856-8</seg>&#8212;<hi rend="italic"><seg type="Blame" subtype="Gentiles">none if which are even charged upon Gentiles</seg></hi>; but <seg type="Blame" subtype="LDS_LDS">were wholly the fiendish work of the faithful of this <q>"most peaceable and law-abiding of all communities"</q> during the reign of <placeName type="state" key="Utah Territory">Utah</placeName> Mormondom, and where the records are searched almost in vain for any criminal  cause.</seg></seg></p>
+
+<p><placeName type="settlement" key="New York, NY">New York</placeName>, <placeName type="settlement" key="Cincinnati, OH">Cincinnati</placeName>, <placeName type="settlement" key="Chicago, IL">Chicago</placeName> and other places at which the <hi rend="italic">Telegraph</hi> fires its paper shots, make no pretensions to apostolic purity; <placeName type="state" key="Utah Territory">Utah</placeName> does.  She boasts an almost exclusively religious population. But even in those cities the press condemns the high-handed outrages perpetrated, while in <placeName type="state" key="Utah Territory">Utah</placeName>, excepting only by the <orgName type="newspaper" key="Union Vedette">VEDETTE</orgName>, they are either unnoticed by the press or glossed over as virtuous and approved.</p>
+
+<p>There is, however, one species of bipeds in <placeName type="state" key="Utah Territory">Utah</placeName>, whose very frailty is published by the <placeName type="state" key="Utah Territory">Utah</placeName>&#8212;Mormon press&#8212;the Gentiles.  It feel to our lot some few days since to see an inebriated soldier arrested on his way to camp.  He had got more than two blocks towards where his crime would have been properly punished, when two policemen, either sent after him, or casually seeing him reading, <unclear /> him in a brutal manner, and forced him back to the lower regions of the City Hall.  When on the North-west corner of the third block, he refused to go any further, the two ruffians kicked him and split open his ear.  The poor fellow literally roared with pain, and finding resistance useless suffered himself to be taken back, incarcerated and fined.  We saw another case: <seg type="Context" subtype="LDSPersecution">A Mormon was drunk, so drunk that he could not even sit up without propping, laying less than fifty yards from City Hall.  He had attracted quite a crowd around him, when two men, one of them a city official, came up, compassionated him, told him they were his friends, and added if he would go with them, no harm should befall him.  He resisted; but he was neither struck or kicked.  They raised him by main force and conducted him to a private place in the City Hall, where he was kept till sober enough to go to his home.  The abused soldier was honored with his name being entered on the criminal docket&#8212;the Mormon delinquent was forgotten(!).</seg></p>
+
+<p> With such a policy, till exposed, it is not a difficult matter to make comparatively innocent to appear horribly guilty, and the guilty almost impeccable.<cb n="2" /> Our recently arrived Gentile friends and transient residents will please note these facts in forming their estimate of the two classes composing the population of <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18670614">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Libels on Mormonism</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18670614</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	<notesStmt>
+	    <note type="summary"></note>
+	</notesStmt>
+
+	<sourceDesc>
+	    <bibl>
+		<title level="j">Union Vedette</title>
+		<title level="a" type="main">Libels On Mormonism</title>
+		<author></author>
+		<publisher></publisher>
+		<pubPlace>Camp Douglas, UT</pubPlace>
+		<date when="1867-06-14">June 14, 1867</date>
+	   </bibl>
+	</sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+     	    <textClass>
+     	        <keywords scheme="original" n="category">
+     	            <term>newspaper</term>
+     	        </keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+  	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+  	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+  	<change when="2010-04-06"><name>Kelsey F. Harris</name> Initial Encoding</change>
+  	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18670614.001"/>
+
+<head>Libels on Mormonism.</head>
+
+<p>Our neighbor of the <hi rend="italic">Telegraph</hi> is a very happy man&#8212;happy don't hardly express it. 
+He has examined Owen's Directory of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and the same don't suit him, one bit, and he says so. However, his displeasure at the book could not be exhibited on its
+merits, without a fling at Friar Tuck. The contemptuous reference of that paper to the
+Rev. <persName key="McLeod, Norman">Norman McLeod</persName> only provokes a smile of pity for the writer of such trash, and raises a question as to his breeding. We have not seen Owen's Directory; but if the author of it
+has violated decorum or the amenities of life in its compilation, or borne false witness 
+against the people of <placeName type="state" key="Utah Territory">Utah</placeName>, or any other people, we will uphold the Telegraph in its efforts to show wherein such things have been done. We also can look approvingly 
+while that journal administers to the compiler of that Directory a severe letting alone. 
+If Owens is to receive castigations over the backs of men thousands of miles away, we
+cannot lend our approval to the method, or the mind that suggests it.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">There is also embraced in the remarkable notice, an unexpected, fierce, backhanded
+blow at everybody in general, and some person or persons in particular, whom the editor 
+had in his minds eye at the time he penned it.  He might as well keep his shirt on about
+<q>"the distorted libels upon <placeName type="state" key="Utah Territory">Utah</placeName>, from the Mountain Meadow massacre down to the Brassfield case."</q>  He makes a very poor fist of it, in clearing up and explaining away <q>"distorted
+libels,"</q> and ought to be a little more cautious how he handles such ugly unwieldy
+things.  He made a horrible defence last winter in relation to that order of Ferguson's for 
+the massacre of the teamsters in the spring of '58, and when he found out that the original
+order could be seen in this city at any time, he closed down on the subject like a clam, and
+hasn't opened his mouth since about it.  We advise our cotemporary to say nothing about
+the Mountain Meadow massacre or the murder of <persName key="Brassfield, S. Newton">Brassfield</persName>, that is not fully based on facts; as there are those this side of the Atlantic cable who could be provoked into going to their
+portfolios and getting out very startling proofs in the way of documentary evidence, as to 
+who were the participants in both atrocities, and by whose order the one, and permission
+the other of the acts were perpetrated.  Let the <q>"distorted libels"</q> rest, unless you are
+ready to establish that no massacre occurred <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadow">Mountain Meadow</geogName></seg> <seg type="Massacre" subtype="Dates">in 1857</seg>, and that <persName key="Brassfield, S. Newton">Brassfield</persName> still lives.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI> 

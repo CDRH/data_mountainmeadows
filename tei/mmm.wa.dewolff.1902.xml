@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.dewolff.1902">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Pawnee Bill (Major Gordon W. Lillie), His Experience and Adventures on the Western Plains</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>J.</forename> <forename type="middle">H.</forename> <surname>DeWolff</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.dewolff.1902</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Pawnee Bill (Major Gordon W. Lillie), His Experience and Adventures on the Western Plains; or, From the Saddle of a "Cowboy and a Ranger" to the Chair of a "Bank President".</title>
+                    <author><forename>J.</forename> <forename type="middle">H.</forename> <surname>DeWolff</surname></author>
+                    <publisher>Pawnee Bill's Historic Wild West Company</publisher>
+                    <pubPlace>N. p.</pubPlace>
+                    <extent>76-81</extent>
+                    <date when="1902">1902</date>
+		    <note type="source">J. H. DeWolff. <hi rend="italic">Pawnee Bill (Major Gordon W. Lillie), His Experience and Adventures on the Western Plains; or, From the Saddle of a "Cowboy and a Ranger" to the Chair of a "Bank President".</hi> [N. p.]: Pawnee Bill's Historic Wild West Company, 1902. 76-81.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-04-18"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name>Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1 type="chapter">
+
+<pb n="76" xml:id="mmm.wa.dewolff.1902.076"/>
+
+<head>MOUNTAIN MEADOW MASSACRE.</head> 
+
+<p><hi rend="smallcaps">PERFECT</hi> civilization, even in the West, brought about by the intersection and settlement of the continent by that great benefactor and leveller, the railway train, makes stories like that of the atrocious massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadow</geogName></seg> seem like the legends of the Rhine and episodes of the epochs rendered terrible by the cruelties and ravages, of the Goths, Huns, Vandals and later of the Mohammedans.</p>
+
+<p>Yet the Mountain Meadow massacre, which is a crimson blot upon the bright pages of American history happened <seg type="Massacre" subtype="Dates">only forty-five years ago</seg>&#8212;within the memory and ken of the present generation of progress, invention, good morals, and merciful science. Nothing in the pages of war surpass it in savagery, cruelty, and sanguinary character. <seg type="Blame" subtype="LDS_LDS">There was no real motive for it, outside of ruthless bigotry; no benefit to be derived from it other than that which accrues to him who murders his friend or innocent neighbor through jealousy.</seg> </p>
+
+<p><seg type="Massacre" subtype="Dates">It was in 1857</seg>, when people were crazed with the <placeName type="state" key="California">California</placeName> gold fever&#8212;or, more properly speaking, filled with the belief in the facility with which tedium were made in the great Pacific State&#8212;that a colony of emigrants <seg type="Emigrants" subtype="Route">started to cross the Plains, with <seg type="Massacre" subtype="Spoils">all their earthly belongings</seg>, for that Eldorado beyond the setting sun.</seg> They were of every nationality and creed, yet an homogeneous crowd of hopeful, happy wayfarers. Day after day they journeyed onward, and day by day they drew nearer to the goal of their desires. They knew that soon they would reach their Coanaan.</p>
+
+<p>And so, you see, these honest persons, <seg type="Emigrants" subtype="Route">travelling westward in quest of homes and fortunes in the far distant gold fields of <placeName type="state" key="California">California</placeName></seg>, were happy in the hope of an early termination to
+
+<pb n="77" xml:id="mmm.wa.dewolff.1902.077"/>
+
+<figure xml:id="mmm.wa.dewolff.1902.077.figure">
+<p>MOUNTAIN MEADOW MASSACRE.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="79" xml:id="mmm.wa.dewolff.1902.079"/>
+
+their long and weary journey. They were <seg type="Massacre" subtype="Location">only a short distance from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName></seg>, <placeName type="state" key="Utah Territory">Utah</placeName>, then in the hands of the Mormon colony, who, being Caucasians like the members of the wagon-train, and presumably a God-fearing because religions people, were not suspected or dreaded as marauders or assassins.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">But, unhappily for those who ordinarily might have sought succor from the Mormons in just such a strait as that which overtook the <hi rend="italic">voyageurs</hi>, them Latter-Day Saints" were worse than mountain tigers and more bloodthirsty than the hideous redskins on the warpath.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">It was not at an hour when even the emigrants felt fitted to cope with hostiles, and equal to an assault from predatory Indians who, they supposed, had been prowling around for some hours watching an opportunity to pounce down upon the helpless women and children when the men were most defenseless.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">To say that the harmless wayfarers were taken by surprise would scarcely be correct, for their scouts, guides, and videttes saw the approaching destroyers and gave alarm sufficiently opportune to permit the main body to prepare for action. Without a moment's delay the wagons were arranged so as to form a circular barricade around the helpless and and non-combatants, all of whom were "corralled," as they term it, and screened by the vehicles. These formed a miniature fortalice which could be defended against a large body of assailants armed as they ware in those days. The pioneers were stout-hearted people&#8212;men and women of hardy promises and sterling fortitude, ready for any emergency&#8212;and determined to sell their lives dearly to beast of prey and robber of the plains or sierras. The women and maidens were not of the fainting kind, and many of them were just as brave as the Maid of Saragossa or Joan of Arc, famous in European history, and handled pistol and rifle with as unerring an aim as the men of the outfit.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Exultant were the doughty emigrants when they saw that their position was almost impregnable, and that the band of
+
+<pb n="80" xml:id="mmm.wa.dewolff.1902.080"/>
+
+hostile Indians, painted and feathered, could not make any impression on it without fearful loss of life to itself. At first the noble little band of wanderers rejoiced at what they deemed the careful discretion of the besiegors. Smiles of triumphant resolution lit up the visages of the beleaguered, and congratulations flitted from lip to lip at the victory which they believed was merely a question of time.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The first day and night passed by with the Indians still at bay, and hope, silvery-tongued, whispered of the safety which must follow when the foe withdrew, embarrassed and foiled, after sunrise the next day. The sun did rise, climb to the meridian, and sink down again behind the golden cloud-banks in the west, and the solemn shadows of the night deepened and overspread the "corral," and hid from its devoted occupants and defenders in the folds of the earth, black mantle the sanguinary scoundrels who were waiting to slay them.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">With this second night came a new and equally relentless foe&#8212;thirst; yes thirst implacable; unallayable thirst. There was not a drop of water to be had. Women and children had nothing to drink, and investigation showed that in the haste of building and arranging their defences the men had so located the corral that the Indians could and did cut off their watersupply. This accounts for their quietude, which became a hundred times more terrible because it told that they were simply waiting for thirst to do its work and place the brave little band, weak and helpless, in their power.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">For four days, with heroism unrivalled even by the Spartans at Thermopyl&#230;, the emigrants sternly stood their ground and prayed silently and fervently to heaven for mercy. </seg><seg type="Massacre" subtype="Surrender">At last the assailants, craftily comprehending the situation, sent in a flag of truce to the temporary stockade, and a parley with the men therein washed in the acceptance of the proposal made by the envoys, who <seg type="Blame" subtype="LDS_LDS">proved to be Mormons. Thus amused and <choice><sic>dumfounded</sic><corr>dumbfounded</corr></choice>, the emigrants felt that there was no hope for them, since white men could resort to such measures to obtain converts. They acquiesced, and agreed to join the Mormon
+
+<pb n="81" xml:id="mmm.wa.dewolff.1902.081"/>
+
+colony</seg> and to abandon design to go to the gold fields of <placeName type="state" key="California">California</placeName>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">John D. Lee</persName>, Mormon elder and commander of the besieging party, who were disguised as Indians, appeared to be satisfied, but <seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Survivors">ordered the men&#8212;husbands, fathers, brethren of the women and children&#8212;to arrange themselves upon one side and lay down their arms. The women and children were placed on the opposite side. The men's weapons being secured, <persName key="Lee, John D.">Lee</persName> gave the order to fire on the men, who were literally butchered before the very eyes of their wives, daughters, sisters, and little ones</seg></seg> by these dreadful monsters in human form, who styled themselves Danites&#8212;that is, Destroying Angels. <seg type="Massacre" subtype="Survivors"><persName key="Lee, John D.">Lee</persName> only wanted for recruits the women and the young children, whose plastic minds could be moulded to Mormonism.</seg></seg>  <seg type="Massacre" subtype="Aftermath"><persName key="Lee, John D.">Lee</persName> captured and hanged for this wholesale murder, and two years later General <persName key="Carleton, James H.">Carlton</persName> buried the bones of <seg type="Massacre" subtype="Casualties">one hundred and twenty</seg>, of the miscreants' victims. <seg type="Reaction" subtype="Commemoration">A monument was raised above that to mark their martyrdom.</seg></seg></p>
+</div1>
+</body>
+</text>
+</TEI>

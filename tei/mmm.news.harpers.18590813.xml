@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.harpers.18590813">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Massacre at Mountain Meadows, Utah Territory</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.harpers.18590813</idno><authority>"Horrible Massacre of Emigrants!!:" The Mountain Meadows Massacre in Public Discourse</authority>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">A Harper's correspondent offers a vivid, if imagined, description of the massacre.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">The Massacre at Mountain Meadows, Utah Territory</title>
+  		    <title level="j">Harper's Weekly</title>
+		    <author>Correspondent, Harper's Weekly</author>
+		    <publisher>Harper's Weekly</publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1859-08-08">1859-08-13</date>
+		</bibl>
+	    </sourceDesc>
+
+	</fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+	<change when="2008-03-17"><name>Leslie C. Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head></head>
+<div1 type="newspaper">
+    
+    <pb n="513" xml:id="mmm.news.harpers.18590813.513"/>
+
+<head type="main">THE MASSACRE AT MOUNTAIN MEADOWS, UTAH TERRITORY.</head>
+
+<head type="sub">[From a Correspondent.]</head>
+
+<p>The story of so horrible a human butchery as that which occurred at the <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName></seg>, in the <seg type="Massacre" subtype="Dates">autumn of 1857</seg>, has by this
+time, no doubt, reached the States; but as no account which I have yet seen can in the slightest
+degree approximate to a description of the hideous truth, being myself now on the ground, and having an opportunity of communicating with some who were no doubt present on the occasion, I deem it proper to send you a plain and unvarnished statement of the affair as it actually occurred.</p>
+    
+<figure xml:id="mmm.images.harpers.18590813.jpg">
+<figDesc>THE SCENE OF THE MOUNTAIN MEADOWS MASSACRE, UTAH TERRITORY. &#8212; [From a recent Sketch.]</figDesc>
+</figure>
+
+<p><seg type="Emigrants" subtype="WagonTrain">A train of <seg type="Emigrants" subtype="StateAffiliationArkansas">Arkansas emigrants</seg>, with some few <seg type="Emigrants" subtype="StateAffiliationMissouri">Missourians</seg>, said to number forty men, with their families</seg>, <seg type="Emigrants" subtype="Route">were on their way to <placeName type="state" key="California">California</placeName>, through the <placeName type="state" key="Utah Territory">Territory of Utah</placeName>, and had reached a series of grassy valleys</seg>, by the Mormons called the <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, where they remained several days recruiting their animals. On the night of <seg type="Massacre" subtype="Dates">September 9</seg>, not suspecting any danger, as usual they quietly retired to rest, little dreaming of the dreadful fate awaiting and soon to overtake them. <seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Dates">On the morning of the 10th</seg>, as, with their wives and families, they stood around their camp-fires passing the congratulations of the morning, they were
+suddenly fired upon from an ambush, and <seg type="Massacre" subtype="Casualties">at the first discharge fifteen of the best men are said to have fallen dead or mortally wounded</seg>. To seek the shelter of their corral was but the work of a
+moment, but there they found but limited protection.</seg></p>
+
+<p>To enable you to appreciate fully the danger of their position I must give a brief description of the
+ground. <seg type="Massacre" subtype="Aftermath">The encampment, which consisted of a
+number of tents and a corral of forty wagons and ambulances, lay on the west bank of, and eight or
+ten yards distant from, a large spring in a deep ravine running southward; another ravine, also,
+branching from this, and facing the camp on the southwest; overlooking them on the northwest,
+and within rifle-shot, rises a large mound commanding the corral, upon which parapets of stone,
+with loopholes, have been built. Yet another ravine, larger and deeper, faces them on the east,
+which could be entered without exposure from the south and far end. Having crept into these shelters during the darkness of the night, the cowardly assailants fired upon their unsuspecting victims, thus making a beginning to the most brutal butchery ever perpetrated on this continent.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Surrounded by superior numbers, and by an unseen foe, we are told the little party stood a siege within the corral of five or seven days, sinking their wagon-wheels in the ground, and during the darkness of night digging trenches, within which to shelter their wives and children. A large spring of cool water bubbled up from the sand a few yards from them, but deep down in the ravine, and so well protected that certain death marked the trail
+of all who had dared approach it. The wounded were dying of thirst; the burning brow and parched lip marked the delirium of fever; they tossed from side to side with anguish; the sweet sound of the water, as it murmured along its pebbly bed,
+served but to heighten their keenest suffering. <seg type="Massacre" subtype="Survivors">But what all this to the pang of leaving to a cruel fate their helpless children? <seg type="Source" subtype="Children">Some of the little
+ones, who though too young to remember in after years, tell us that they stood by their parents, and
+pulled the arrows from their bleeding wounds.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Long had the brave band held together; but the cries of the wounded sufferers must prevail. <seg type="Massacre" subtype="Surrender">For the first time, they are (by four Mormons) offered their lives if they will lay down their arms, and gladly they avail themselves of the proffered mercy. Within a few hundred yards of the corral
+faith is broken. Disarmed and helpless, they are fallen upon and massacred in cold blood.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">The savages, who had been driven to the hills, are again called down to what was denominated the "job," which more than savage brutality had begun.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="SexualViolence">Women and children are now all that remain. Upon these, some of whom had been violated by the Mormon leaders</seg>, <seg type="Blame" subtype="IndiansLDSInfluence">the savage expends his hoarded vengeance. <seg type="Source" subtype="Attributed_Klingensmith">By a Mormon who has now escaped the threats of the Church we are told that
+the helpless children clung around the knees of the savages, offering themselves as slaves; but with
+fiendish laughter at their cruel tortures, knives were thrust into their bodies, the scalp torn from
+their heads, and their throats cut from ear to ear.</seg></seg></seg></p>
+
+<p>I am writing no tale of fiction; I wish not to gratify the fancy, but to tell a tale of truth to the
+reason and to the heart. I speak truths which hereafter legal evidence will fully corroborate.
+<seg type="Emigrants" subtype="WagonTrain">I met this train <seg type="Emigrants" subtype="Route">on the <geogName type="waterway" key="Platte River">Platte River</geogName></seg> on my way to <placeName type="military_post" key="Fort Laramie">Fort Laramie</placeName> in the spring of 1857, the best and richest one I had ever seen upon the plains. Fortune then beamed upon them with her sweetest smile. With a fine outfit and every comfort around them, they spoke to me exultingly of their prospects in the land of their golden dreams.</seg> <seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath">To-day, as then, I ride by them, but no word of friendly greeting falls upon my ear, no face meets me with
+a smile of recognition; the empty sockets from their ghastly skulls tell me a tale of horror and of blood. On every side around me for the space of a mile lie the remains of carcasses dismembered by wild beasts; bones, left for nearly two years
+unburied, bleached in the elements of the mountain wilds, gnawed by the hungry wolf, broken and hardly to be recognized. Garments of babes and little ones, faded and torn, fluttering from each ragged bush, from which the warble of the
+songster of the desert sounds as mockery. Human hair, once falling in glossy ringlets around childhood's brow or virtue's form, now strewing the plain in masses, matted, and mingling with the musty mould. To-day, in one grave, I have
+buried the bones and skulls of twelve women and children, pierced with the fatal ball or shattered with the axe. In another the shattered relics of eighteen men, and yet many more await their gloomy resting-place.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Afar from the homes of their childhood, buried in the heart of almost trackless deserts, shut up within never-ending mountain barriers, cut off from all communication with their fellow-men, surrounded by overpowering numbers, harmless citizens of our land of justice and freedom, with their wives and families, as dear to them as our own to us, were <seg type="Blame" subtype="LDS">coolly, deliberately, and designedly butchered by those professing to be their own countrymen.</seg></seg></p>
+
+<p>I pause to ask one calm, quiet question. Are these facts known in the land where I was born and bred?</p>
+
+<p><seg type="Source" subtype="Indians"><seg type="Blame" subtype="IndiansLDSInfluence">I have conversed with the Indians engaged in this massacre. They say that they but obeyed the command of <persName key="Young, Brigham">Brigham Young</persName>, sent by letter, as soldiers obey the command of their chief; that the <seg type="Blame" subtype="LDS">Mormons were not only the instigators but the most active participants in the crime; that Mormons led the attack, <seg type="Massacre" subtype="Spoils">took possession of the spoil; that much of that spoil still remains with them;
+
+<pb n="514" xml:id="mmm.news.harpers.18590813.514"/>
+
+and still more, was sold at the tithing office of the Church.</seg></seg></seg></seg></p>
+
+<p>Such facts can and will be proved by legal testimony. <seg type="Massacre" subtype="Survivors">Sixteen children, varying from two to nine years of age, have been recovered from the Mormons.</seg> These could not be induced to utter a
+word until assured that they were out of the hands of the Mormons and safe in the hands of the Americans. Then their tale is so consonant with itself that it can not be doubted. <seg type="Reaction" subtype="FederalInvestigation">Innocence has in
+truth spoken. Guilt has fled to the mountains. The time fast approaches when "justice shall be
+laid to the line, and righteousness to the plummet."</seg></p>
+    
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.uv.18650207">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Reasons why Utah Should not be Admitted into the Family of States</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.uv.18650207</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Union Vedette</title>
+		    <title level="a" type="main">Reasons why Utah Should not be Admitted into the Family of States.</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Camp Douglas, UT</pubPlace>
+		    <date when="1865-02-07">February 7, 1865</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	   </keywords>
+	</textClass>
+     </profileDesc>
+
+<revisionDesc>
+    <change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+    <change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name> Validation</change>
+    <change when="2010-04-01"><name>Kelsey F. Harris</name> Initial Encoding</change>
+    <change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.uv.18650207.001"/>
+
+
+<head>Reasons why Utah Should not be Admitted into the Family of States.</head>
+
+<p>The Government of the people is a Theocracy.</p>
+  
+<p>Church law is regarded as superior to any civil law, and is so taught to the people by the leaders.</p>
+  
+<p><seg type="Context" subtype="Polygamy">Polygamy is practiced daily, in defiance of the law of Congress against it.</seg></p>
+  
+<p>No attention is given to the law of Congress forbidding any church organization in any Territory, to hold more than fifty thousand dollars worth of real estate.</p>
+  
+<p>The Organic Act of the Territory is violated by the Legislature whenever it suits that body.</p>
+  
+<p><persName key="Young, Brigham">Brigham Young</persName> has declared that he can buy any Jury in <placeName type="state" key="Utah Territory">Utah</placeName> with a sixpence.</p>
+  
+<p>The right to shed human blood for the remission of sin, is claimed by the leaders.</p>
+  
+<p><seg type="Blame" subtype="LDS_LDS">The perpetrators of the Mountain Meadows Massacre of <seg type="Massacre" subtype="Dates">1857</seg> have not yet been brought to justice&#8212;neither will church leaders take any steps to do so, nor aid the United States Court to do so, although there is every reason to believe that the leading men in that massacre are known.</seg></p>
+  
+<p>The Nation currency is derisively termed by the leaders&#8212;<q>"Lincoln skins."</q></p>
+  
+<p>The church leaders say that this nation is bound to fall and that it ought to be destroyed.</p>
+  
+<p><persName key="Young, Brigham">Brigham Young</persName> has said that he did not want to live with a people who have  brought ruin upon themselves&#8212;that he would have a government of his own.</p>
+  
+<p>The Statutes of <placeName type="state" key="Utah Territory">Utah</placeName> are filled with unjust, wicked, and outrageous laws, oppressive to every man who does not bow down and worship the one man power of <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+  
+<p>The civil law of <placeName type="state" key="Utah Territory">Utah</placeName> is mainly intended to shield, protect and legalize the practices of the Mormon Church.</p>
+  
+<p>The Legislature refuses to pass laws calculated to develop the great mineral wealth of <placeName type="state" key="Utah Territory">the Territory</placeName>.</p>
+  
+<p>The delegate now in Congress from <placeName type="state" key="Utah Territory">Utah</placeName>, has said, in a public speech in <placeName type="state" key="Utah Territory">this Territory</placeName>, that this nation will be, and ought to be, destroyed.</p>
+  
+<p>No word of genuine loyalty has passed the lips of any leading churchman in <placeName type="state" key="Utah Territory">Utah</placeName> since this war commenced.</p>
+  
+<p>The war for the Union is termed a <q>"Kilkenny cat affair,"</q> in which Mormons have no interest and that they do not care which side whips.</p>
+  
+ <p>Every man and woman in <placeName type="state" key="Utah Territory">the Territory</placeName> who do not belong to the church are proscribed.</p>
+  
+<p>The leaders are opposed to secular and religious freedom.</p>
+  
+<p>The leaders make a mockery of Law and deride Justice whenever either interfere with their schemes.</p>
+  
+<p><seg type="Context" subtype="ParrishMurder">The <persName key="Parrish, 'Beason'"><persName key="Parrish, William">Parish</persName></persName>, <persName key="Potter, 'Duff'">Potter</persName>, <persName key="Forbes, Henry">Forbes</persName> and other murders committed by Church counsel have never been punished, although it is quite certain who committed them.</seg></p>
+  
+<p>It is asserted by leaders <q>"that man is not capable of self government."</q></p>
+  
+<p>Treason is taught to the people from every Tabernacle stand in <placeName type="state" key="Utah Territory">the Territory</placeName> at every opportunity.</p>
+  
+<p>The leaders gloat over the reverses that befall our armies.</p>
+  
+<p><placeName type="state" key="Utah Territory">Utah</placeName>, as now controlled by the church leaders, is a disgrace to the Nation and to Christianity.</p>
+  
+<p>The leaders only crave for a State government so as to enable them to carry on more securely their evil designs.</p>
+  
+<p>THERE is iron enough in the blood of a man to make a ring large enough to wear on his finger.&#8212;Ex.</p>
+  
+<p>And enough of another metal in a great many persons compositions sufficient to make a brass instrument, which may account for some men <q>"looting their own horns."</q></p>
+
+</div1>
+</body>
+</text>
+</TEI>

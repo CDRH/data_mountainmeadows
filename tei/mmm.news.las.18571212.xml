@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.las.18571212">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Public Meeting</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.las.18571212</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Angelenos meet to request that local merchants no longer supply guns or ammunition to Mormons. A petition to General Clark, Commanding General of the Pacific Department requests that the Army ready defenses against a possible Mormon invasion.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">PUBLIC MEETING</title>
+		    <title level="j">Los Angeles Star</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>Los Angeles, CA</pubPlace>
+		    <date when="1857-12-12">1857-12-12</date>
+		</bibl>
+	    </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+	   	<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+    	<change when="2007-04-23"><name>Working, Leslie</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.las.18571212.001"/>
+
+<head>PUBLIC MEETING.</head>
+
+<p>A large number of citizens assembled at the Montgomery House, on Monday last pursuant to the following call:&#8212;</p>
+
+<p>Public Meeting.<lb/>
+To prevent the sale of arms and ammunition to Mormons!</p>
+
+<p><seg type="Coverage" subtype="California"><seg type="Context" subtype="UtahWar">The undersigned request that the citizens of Los Angeles county, will meet, this day, at 12 o'clock, noon, at the Montgomery House, in the city of <placeName type="settlement" key="Los Angeles, CA">Los Angeles</placeName>, to take into consideration the necessary measures to be taken, to prevent the sale, by merchants and others, of this county, of arms and munitions of war to persons preparing for resistance to the Federal Government.</seg></seg></p>
+
+<p>A general attendance is requested.</p>
+
+<p><persName key="Drown, Ezra">E. Drown</persName>, <persName key="Jenkins, W. W.">W. W. Jenkins</persName>, <persName key="Winston, J. B.">J. B. Winston</persName>, <persName key="Newmark, M. J.">M. J. Newmark</persName>, <persName key="Mott, Thomas D.">Thos. D. Mott</persName>, <persName key="Allen, Gabriel">Gabriel Allen</persName>, <persName key="Lander, James H.">James H. Lander</persName>, <persName key="Thompson, James P.">James P. Thompson</persName>, <persName key="Stearnes, Abel">Abel Stearns</persName>, <persName key="Sackett, R.">R. Sackett</persName>, <persName key="Norton, Myron">Myron Norton</persName>, <persName key="Scott, J. R.">J. R. Scott</persName>, <persName key="Griffin, John S.">John S. Griffin</persName>, <persName key="Welch,  J. C.">J. C. Welch</persName>, <persName key="McPherson, William">Wm. McPherson</persName>, <persName key="Hancock, Henry">Henry Hancock</persName>, <persName key="Flashner, M.">M. Flashner</persName>.</p>
+
+<p>Los Angeles, December 7th, 1857.</p>
+
+<p>The meeting was called to order by <persName key="Scott, J. R.">J. R. Scott</persName>, Esq.</p>
+
+<p>Upon motion, Hon. <persName key="Norton, Myron">Myron Norton</persName> was elected chairman, and <persName key="Newmark, M. J.">M. J. Newmark</persName>, secretary.</p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="TerritorialAdministration">The proclamation of <persName key="Young, Brigham">Brigham Young</persName>, declaring Utah Territory under martial law</seg>, was then read by the chair, who interspersed the same with several remarks.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">The meeting was then addressed by <persName key="Scott, J. R.">J. R. Scott</persName>, Esq., who stated among other remarks, that there had been, and is, large quantities of arms and ammunition being constantly disposed of to Mormons, by merchants of this city, and that there was considerable received on the steamer yesterday, for immediate transportation to <placeName type="state" key="Utah">Utah</placeName>, by Mormon wagons, now waiting for the same.</seg></p>
+
+<p>On the motion, Messrs <persName key="Thompson, James P.">James P. Thompson</persName>, <persName key="Twist, W. W.">W. W. Twist</persName>, <persName key="Marchessault, D.">D. Marchessault</persName>, Dr. <persName key="Winston,  J. B.">J. B. Winston</persName>, and Dr. <persName key="Downey,  J. G.">J. G. Downey</persName>, were appointed by the chair, a committee to investigate the above matter.</p>
+
+<p>After some remarks by Mr. <persName key="Whitman, George N.">G. N. Whitman</persName>, and on motion of <persName key="Scott, J. R.">J. R. Scott</persName>, Esq., Messrs <persName key="Brent,  J. L.">J. L. Brent</persName>, <persName key="Nichols,  J. G.">J. G. Nichols</persName>, Dr. <persName key="Carter, M.">M. Carter</persName>, <persName key="Keller, Matthew">Matthew Keller</persName>, and <persName key="Sims, O.">O. Sims</persName>, were appointed by the chair, a committee to communicate with the Executive of the State, <persName key="Clark, General N. S.">Gen. N. S. Clark</persName>, commanding officer of Pacific Department, and with the officials of the counties of <placeName type="county" key="San Diego County">San Diego</placeName> and <placeName type="county" key="Santa Barbara County">Santa Barbara</placeName>, representing the condition of affairs in this valley, and requesting such assistance as may be deemed necessary the present emergency.</p>
+
+<p>The following petition was then presented by Mr. <persName key="Keller, M.">M. Keller</persName>, and, upon motion, was accepted and requested to be signed by the officers of this meeting, and the officials of the county, and transmitted by the earliest opportunity to <persName key="Clark, General N. S.">Gen. N. S. Clark</persName>.</p>
+<p>PETITION<lb/>
+Los Angeles, Dec. 1857</p>
+
+<p><persName key="Clark, General N. S.">Gen. N. S. Clark</persName>, Commanding General of <orgName type="military" key="Pacific Department">Pacific Department</orgName>.</p>
+
+<p>Sir&#8212;Recent and reliable information seems to establish if not the certainty, at least a reasonable probability, that <seg type="Context" subtype="UtahWar">it is the intention of the Mormons to oppose the United States by force of arms. As prudent men act not only upon certainties, but also upon reasonable probabilities, so we would respectfully invite your attention to the situation in which this section of the State will find itself in the event of hostilities between the Federal Government and the Mormons.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Our valley is within thirty days march of the <placeName type="settlement" key="Salt Lake City, UT">Salt Lake city</placeName>; and a body of fifteen hundred men could easily reach us in three weeks after leaving their settlements, to the westward of their principal city, and no snows ever block up this road. If the Mormon authorities have resolved upon resisting the General Government, we all know that <persName key="Johnston, Colonel Albert Sidney">Col. <choice><corr>Johnston's</corr><sic>Johnson's</sic></choice></persName> command will if not cut to pieces be forced to fall back, wait for reinforcements, and delay their march until the snows are melted, until next spring.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Thence, at this time, and during the winter, the Mormons would be absolutely protected from any attack upon them, from the eastward. Now, having committed themselves to the conflict, the Mormons will endeavor to provide themselves with all the necessaries needed to sustain the terrible contest, upon which they have just entered.</seg></p>
+
+<p>They need horses, cattle, provisions and clothing, of various kinds, all of which they see in our possession, and within a thirty days march, for cavalry, from the <placeName type="settlement" key="Salt Lake City, UT">Great Salt Lake city</placeName>.</p>
+
+<p><seg type="Context" subtype="UtahWar">If they were determined upon making the foray, they could pour fifteen hundred of their men, <seg type="Context" subtype="IndianRelationsLDS">assisted by a large number of Indians</seg>, through the <geogName type="valley" key="Cajon Pass">Cajon Pass</geogName>, into our unprotected valley and the first news we would receive of them would be their presence.</seg></p>
+
+<p>We are in a great measure without arms, and we could not concentrate for resistance, four hundred Americans, in the four Southern counties.</p>
+
+<p><seg type="Context" subtype="WesternViolence">Before assistance could be obtained from the North, every hoof in our valley could be carried off, and be far beyond the reach of pursuit and acts of violence might be offered in our cities.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="UtahWar">In the above supposition, we have stated the case of fifteen hundred men making the descent, but we believe that three hundred well appointed men, marching through friendly Indian tribes, could make a successful and sudden foray into this valley, sparsely settled and exposed as it is, and completely strip it. We have, heretofore, believed that we had in the fact of the existence of the Mormon settlement at <placeName type="settlement" key="San Bernardino, CA">San Bernardino</placeName>, a guarantee and pledge against any such attack, but in the last two weeks, that settlement has commenced breaking up and pouring its inhabitants back into the <placeName type="state" key="Utah">Salt Lake valley</placeName>, and in less than a month we anticipate that it will be completely abandoned by the Mormons.</seg></seg></p>
+
+<p><seg type="Context" subtype="UtahWar">We therefore invite your attention to these facts, and earnestly request you to take such steps as may be proper.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">If we should be attacked in the manner suggested, and the attack be successful, it would be a disgrace to the American name.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">We would suggest that at least five hundred troops, should be stationed so as to defend the <geogName type="valley" key="Cajon Pass">Cajon Pass</geogName>.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">You are the highest military authority on this coast, and with you rests the responsibility of protecting us, and the reputation of our flag; and after this statement, we leave the matter in your hands, where the Government already has placed it.</seg></p>
+
+<closer><salute>Yours respectfully.</salute><lb/>
+<signed>On motion of Mr. <persName key="Lander,  J. H.">J. H. Lander</persName>, the meeting adjourned till 10 o'clock next morning.<lb/>
+<persName key="Norton, Myron">MYRON NORTON</persName>, Chairman.<lb/>
+<persName key="Newmark, M. J.">M. J. NEWMARK</persName>, Secretary.<lb/></signed>
+</closer>
+
+</div1>
+</body>
+</text>
+</TEI>

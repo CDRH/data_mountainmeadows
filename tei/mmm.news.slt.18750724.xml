@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.slt.18750724">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">The Lee Trial</title>
+		<title level="m" type="sub">Klingensmith Takes the Witness Stand and Tells It All.</title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+		</titleStmt>
+		<editionStmt>
+		    <edition>
+			<date>2012</date>
+		    </edition>
+		</editionStmt>
+		<publicationStmt>
+			<idno>mmm.news.slt.18750724</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Salt Lake Tribune</title>
+   		    <title level="a" type="main">The Lee Trial</title>
+		    <title level="a" type="sub">Klingensmith Takes the Witness Stand and Tells It All.</title>
+		    <publisher></publisher>
+		    <pubPlace>Salt Lake City, UT</pubPlace>
+		    <date when="1875-07-24">July 24, 1875</date>
+	 	</bibl>
+	    </sourceDesc>
+	    
+    </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-08"><name>Jaclyn Cruikshank Vogt</name> Encoding Enhancement</change>
+	<change when="2011-03-10"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2009-10-13"><name>Laura Weakly</name> Validation</change>
+	<change when="2009-10-06"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.slt.18750724.001"/>
+
+<head type="main">THE LEE TRIAL.</head>
+<milestone unit="horbar" />
+<head type="sub">Klingensmith takes the Witness Stand and Tells It All.</head>
+<milestone unit="horbar" />
+<head type="sub">THE TERRIBLE STORY OF BLOOD AND PLUNDER AT MOUNTAIN MEADOWS.</head>
+<milestone unit="horbar" />
+<head type="sub">INTERCEPTION OF THE ARKANSAS AND MISSOURI EMIGRANTS AND THEIR HORRIBLE MASSACRE!</head>
+<milestone unit="horbar" />
+<head type="sub">Disarmed Under a Flag of Truce and then Shot Down Like Dogs.</head>
+<milestone unit="horbar" />
+<head type="sub">Lee, Higbee and Dame in Command of the Nauvoo Legion, Which Did the Work!</head>
+<milestone unit="horbar" />
+<head type="sub">A Division of Plunder!</head>
+<milestone unit="horbar" />
+<head type="sub">The Mormon Church Brand Placed Up on the Cattle!</head>
+<milestone unit="horbar" />
+<head type="sub">Captain Hooper Trades Off Boots and Shoes for Stock!</head>
+<milestone unit="horbar" />
+<head type="sub">Report of the Massacre to Brigham Young, who Tells Them to Keep Mum!</head>
+<milestone unit="horbar" />
+<head type="sub">Implication of Brigham Young!</head>
+<milestone unit="horbar" />
+<head type="sub">FEARFUL SCENES ON THE BATTLE GROUND AFTER THE BUTCHERY.</head>
+<milestone unit="horbar" />
+
+<div2>
+<dateline>Special to the TRIBUNE 1</dateline>
+
+<p>Beaver, July 23.&#8212; At the opening of the court this morning, District Attorney, <persName key="Carey, William">Carey</persName> made a powerful opening address. <seg type="Emigrants" subtype="Route">He traced the progress of the emigrant party from their homes in <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName></seg>, and <seg type="Emigrants" subtype="StateAffiliationMissouri"><placeName type="state" key="Missouri">Missouri</placeName></seg> to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, where <seg type="Encounter" subtype="TradeLDS">they in camped on the banks of the <geogName type="waterway" key="Jordan River">Jordan river</geogName> to refresh their animals and purchase supplies. They were ordered away and supplies refused them. They again started westward through <placeName type="state" key="Utah Territory">the Territory</placeName>, but no order had preceded them to all the settlements they passed through to</seg></seg></p>
+
+</div2>
+
+<div2>
+
+<head type="sub"><seg type="Encounter" subtype="TradeLDS">SELL THEM NOTHING,</seg></head>
+
+<p><seg type="Encounter" subtype="TradeLDS">This was obeyed. Some settlers stole into their camp by night to give them little comforts, and one man was cut off from the church for so doing.</seg> While the story was being told with entire accuracy, it was listened to breathlessly. He then detailed what he would show by witnesses. </p>
+
+<p><seg type="Massacre" subtype="Aftermath">The witnesses were then examined. <persName key="Keyes, H. H.">H.H. Keyes</persName>, who passed over the spot two weeks after the massacre, gave a vivid description of the pools of blood and <choice><sic>aol</sic></choice> bodies stripped naked, composed of <seg type="Massacre" subtype="Casualties">women and children. There were about fifty bodies in this pile</seg>. The wolves and crows had mutilated the remains.</seg></p>	
+
+<p><seg type="Massacre" subtype="Aftermath"><persName key="Bennett">Bennett</persName>, the second witness, rode over the ground two months after the massacre, and also described the appearance. The bones were stripped of the flesh and had been dragged out of the hole where they had been hastily buried.</seg></p>
+
+</div2>
+<div2>
+
+<head type="sub">Evidence of Philip Klingensmith.</head>	
+
+<p><seg type="Source" subtype="Attributed_Klingensmith"><persName key="Klingensmith, Philip">Philip Klingensmith</persName>, on the stand to-day, deposed in substance as follows: Lived at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> in 1857; had lived there since 1852; knew the prisoner in 1857, and was <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> at the time of the massacre; <seg type="Emigrants" subtype="Route">heard the company of emigrants was coming south</seg>, and <seg type="Encounter" subtype="TradeLDS">the people were forbidden to trade with them</seg>. The company came to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; <seg type="Massacre" subtype="Dates">this might be on Friday; company went on from there on Sunday</seg>. <seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">There was a meeting of Bishop’s Counselors and High counselors; witness was a bishop, but held no military office.</seg> This meeting was to talk over the emigrant party, and the</seg></seg></p>
+
+</div2>
+<div2>
+
+<head type="sub">QUESTION OF THEIR DESTRUCTION.</head>
+
+<p>The council was composed of <persName key="Haight, Isaac C.">Haight</persName>, <persName key="Higbee, John H.">Higbee</persName>, witness, <persName key="Allen, Ira">Allen</persName> and others. Opposition was made to it; witness was opposed; some favored it. The meeting broke up in confusion and went out of doors. On Monday the subject was again discussed and witness was again opposed to it. <persName key="Haight, Isaac C.">Haight</persName> sent witness and <persName key="White, Sam">Sam White</persName> to <placeName type="settlement" key="Pinto Creek, UT">Pinto Creek</placeName> to tell the people to let the emigrants pass; started in the afternoon, and saw <persName key="Lee, John D.">Lee</persName> in a field. He asked where we were going; witness told him; <persName key="Lee, John D.">Lee</persName> said I have something to say to that. The last witness saw of the train was at <placeName type="settlement" key="Iron Spring, UT">Iron Springs</placeName>, in the morning, as they were drawing out as we passed back. <seg type="Emigrants" subtype="WagonTrain">There were between twenty-five to thirty wagons, and 100 or more people.</seg> <seg type="Massacre" subtype="Planning">Coming home the day following, I met <persName key="Allen, Ira">Ira Allen</persName>, who said the</seg></p>
+
+</div2>
+<div2>
+
+<head type="sub"><seg type="Massacre" subtype="Planning">DOOM OF THE EMIGRANTS IS SEALED.</seg></head>
+
+<p><persName key="Lee, John D.">John D. Lee</persName> had orders from headquarters at <placeName type="settlement" key="Parowan, UT">Parowan</placeName> to take men and go south. <persName key="Willett, Joe">Joe Willett</persName> had orders to go to <placeName type="settlement" key="Pinto Creek, UT">Pinto creek</placeName> and revoke the orders to let the emigrants pass. Three days afterwards, <persName key="Haight, Isaac C.">Haight</persName> came to MacFarlands and said word had come in from camp last night; they had not got along as anticipated and wanted reinforcements. <persName key="Haight, Isaac C.">Haight</persName> went to <placeName type="settlement" key="Parowan, UT">Parowan</placeName> to get instructions and there he received orders from <persName key="William H. Dame">Col. Dame</persName> to</p>
+
+</div2>
+<div2>
+
+<head type="sub">DECOY THE EMIGRANTS OUT</head>
+
+<p><seg type="Massacre" subtype="Survivors">And spare nothing but the small children who could not tell tales</seg>. <persName key="Higbee, John H.">Higbee</persName> said to the witness, you are ordered out, armed and equipped as the law directs. I went and got my horse and arms and started out with <persName key="Hopkins, Charley">Charley Hopkins</persName>, <persName key="Higbee, John H.">Higbee</persName>, <persName key="Willis">Willis</persName> and <persName key="Wagon">Wagon</persName>. <persName key="Murdy, Sam">Sam Murdy</persName> and <persName key="Wagon">Wagon</persName> and others, reached <persName key="Hamblin, Jacob">Hamblin</persName>’s ranch at night; found <persName key="Lee, John D.">Lee</persName> and others, and found how matters stood at camp. <persName key="Lee, John D.">Lee</persName> called witness on one side and told him the emigrants were strongly fortified and there was no way to get them out. <seg type="Massacre" subtype="Surrender"><persName key="Higbee, John H.">Higbee</persName> said he had orders to decoy them out disarmed. This was agreed upon and the execution of the plot intrusted to <persName key="Lee, John D.">Lee</persName>.</seg> The order was then given to march to the spring where the Indians and Southern soldiers were encamped; and when the company from <placeName type="county" key="Washington County, UT">Washington county</placeName> arrived there, <persName key="Lee, John D.">Lee</persName> formed them into a battalion square and instructed the troops how to act; about fifty men were in line&#8212;not an Indian amongst them, witness and the old man were outside the line talking the matter over. It struck both as horrible and both opposed it; witness said what can we do? How can we help ourselves? <persName key="Slade">Slade</persName> said we can’t resist; we were ordered to march down about one and one-half miles; Higbee and his officers took command; the organization was called</p>
+
+</div2>
+<div2>	
+
+<head type="sub">THE NAUVOO LEGION</head>	
+
+<p>We were halted a quarter of a mile from the emigrants and in full sight. <seg type="Massacre" subtype="Surrender">A man went on with a flag of truce; a person came out from the emigrant camp and <persName key="Lee, John D.">Lee</persName> went down and he and the emigrant negotiated. They sat down and had a long talk. <persName key="Lee, JOhn D.">Lee</persName> then went inside the camp and the soldiers stood in line three or four hours, <persName key="Lee, John D.">Lee</persName> was inside the entrenchment the most of the time, and finally the emigrants came out.</seg></p>
+
+</div2>
+<div2>
+
+<head type="sub">THE SURRENDER</head>	
+
+<p><seg type="Massacre" subtype="Surrender"><persName key="Higbee, John H.">Higbee</persName> ordered the proceedings. <persName key="Lee, John D.">Lee</persName> went ahead with the wagons containing the men wounded in the attack made by the Indians. The arms of the party and the young, children and women were marched behind; the men came out next in double rank. The soldiers marched by their side with their pieces across their arms. We were protecting the emigrants; some expressed their thankfulness at being delivered from the Indians. We marched from a quarter to half a mile, and command was given to halt. The soldiers had been instructed when they halted,</seg></p>
+
+</div2>
+<div2>
+
+<head type="sub"><seg type="Massacre" subtype="Surrender">TO FIRE ON THE EMIGRANTS;</seg></head>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Casualties">Might have been shifted to single rank; which they were. <persName key="Higbee, John H.">Higbee</persName> gave the orders to fire; suppose there were fifty men killed, might have been more.</seg></seg></p> 
+
+</div2>
+<div2>
+
+<head type="sub">NONE ESCAPED.</head>
+
+<p>Saw some attempt; there were mounted men to dispatch the fugitives <persName key="Stewart, Bill">Bill Stewart</persName> chased one fleeing man; think I saw him fall; he did not go far. <persName key="Allen, Ira">Ira Allen</persName> was mounted and placed on the left wing. Witness was with the men in the ranks and fired one time.</p> 
+
+</div2>
+<div2>
+
+<head type="sub">JNO. M. HIGBEE CUT ONE MAN’S THROAT.</head>
+
+<p><seg type="Massacre" subtype="Casualties">One large woman came running from the wagons calling for her husband. A man standing near to me shot her in the back and she fell dead.</seg> <seg type="Massacre" subtype="Survivors">Being ordered to gather up the children, I went a quarter of a mile to the wagons; <seg type="Massacre" subtype="Casualties">the wounded men had been killed before we got there</seg>; did not see <persName key="Lee, John D.">Lee</persName> put the children in the wagon; went to <persName key="Hamblin, Jacob">Hamblin</persName>’s House. The soldiers then dispersed. The company from <placeName type="county" key="Washington County, UT">Washington county</placeName> went south; company from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> went to <persName key="Hamblin, Jacob">Hamblin</persName>’s. <seg type="Massacre" subtype="Casualties">I had my hands full with the children; seventeen of them, from two to seven or eight years of age; two were wounded and one died on the way</seg>.</seg></p>
+
+</div2>
+<div2>
+
+<head type="sub">DIVIDING THE SPOILS.</head>
+
+<p><seg type="Massacre" subtype="Spoils">The witness, then details the gathering and distribution of the property; the drought animals, wagons and clothing were taken to <placeName type="settlement" key="Cedar City">Cedar City</placeName>; fifty head of the emigrants stock were branded with the Church brand (a cross). He also describes the meeting of <persName key="Lee, John D.">Lee</persName> in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, where he had been sent to report the massacre to <persName key="Young, Brigham">Brigham Young</persName>. Witness and <persName key="Hopkins, Charley">Charley Hopkins</persName> called upon <persName key="Young, Brigham">Brigham</persName>; He directed witness to turn over the property to <persName key="Lee, John D.">Lee</persName>; <persName key="Young, Brigham">Brigham</persName> turned to witness and said; What do you know about this affair? Keep it secret and don’t talk about it among yourselves; <persName key="Lee, John D.">Lee</persName> was present at this interview. Fifty head of cattle were driven to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, and</seg></p>
+
+</div2>
+<div2>
+
+<head type="sub"><seg type="Massacre" subtype="Spoils">SOLD TO HOOKER,</seg></head>
+
+<p><seg type="Massacre" subtype="Spoils">Formerly delegate to congress, for boots and shoes. Witness then tells how he was sent to the old lead mines at <placeName type="settlement" key="Las Vegas, AZ">Vegas, Arizona</placeName> with two others, in three teams, to get lead, and when he returned, the property in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> had been auctioned off.</seg></p> 
+
+<p>This witness’ testimony was listened to with intense interest by the crowded court room. Much other important testimony was elicited which confirms the popular statement of the massacre.</p>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

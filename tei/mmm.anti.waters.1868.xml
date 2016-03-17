@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.anti.waters.1868">
+     <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Life Among the Mormons, and a March to Their Zion</title>
+                <title level="m" type="sub"></title>
+                <author><forename>William</forename> <forename type="middle">Elkanah</forename> <surname>Waters</surname> [supposed]. </author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.anti.waters.1868</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Life Among the Mormons, and a March to Their Zion</title>
+		            <title level="m" type="sub">To Which is Added a Chapter on the Indians of the Plains and Mountains of the West.</title>
+                    <author><forename>William</forename> <forename type="middle">Elkanah</forename> <surname>Waters</surname> [supposed]. </author>
+                    <publisher>Moorhead, Simpson &amp; Bond</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <extent>187-203</extent>
+                    <date when="1868">1868</date>
+                    <note type="source">William Elkanah Waters [supposed]. <hi rend="italic">Life Among the Mormons, and a March to Their Zion.</hi>
+                        New York, NY: Moorhead, Simpson &amp; Bond, 1868. 187-203.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>anti-mormon_publication</term>
+                </keywords>               
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+ 	        <change when="2010-11-09"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-08-04"><name>Rosie Hanneke</name> Initial Encoding</change>
+
+        </revisionDesc>
+        
+    </teiHeader>
+
+        <text>
+   <body>
+
+<div1 type="chapter">
+
+<pb n="187" xml:id="mmm.anti.waters.1868.216"/>
+
+<head>CHAPTER XX.</head>
+<head type="sub"><hi rend="smallcaps">Crimes of the Mormons and How Mormonism may be Eradicated.</hi></head>
+
+<p>The leaders of the Mormon Church claim to be tolerant; but they are so only so far as their tolerance may conduce to their interests. That they have been guilty of rigid persecution of those whose acts seemed to endanger the success of their corrupt sect, and that they have been prompted by malice and desire for revenge in perpetrating the grossest crimes, are indisputable facts.</p>
+
+<pb n="188" xml:id="mmm.anti.waters.1868.217"/>
+
+<p>One of the most cowardly and bloody massacres that I have seen recorded took place<seg type="Massacre" subtype="Dates"> on the tenth of September, 1857</seg>, <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountian Meadows">Mountain Meadows</geogName>, a valley in a sparsely settled country, about three hundred miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg> The history of this horrible tragedy is briefly as follows:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Emigrants" subtype="Route">In the summer of 1857, <seg type="Emigrants" subtype="WagonTrain">a large train, with emigrants for <placeName type="state" key="California">California</placeName>, consisting of <seg type="Massacre" subtype="Casualties">men, women and children to the number of about one hundred and forty persons</seg></seg>, passed through <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and proceeded southward on the usual route to <placeName type="settlement" key="Los Angelos, CA">Los Angelos</placeName>.</seg> <seg type="Massacre" subtype="Spoils">When they reached the locality where the bloody tragedy I am about relating was enacted, their stock was first run off by what appeared to be <hi rend="italic">Indians</hi>, but really <hi rend="italic">Mormons</hi> disguised as such.</seg> <seg type="Massacre" subtype="Battle">Their enemies making hostile demonstrations, the emigrants got together their wagons, and throwing up earth about them made a work of defence. Their assailants occupied the hills around, and fought them for several days without gaining any advantage. Finding it impossible to capture them without serious loss, they resorted to strategy and deception.</seg> <seg type="Massacre" subtype="Surrender">Several prominent Mormons took a wagon and went around so as to approach the emigrants from the head of the meadows, and as they did so exhibited a white flag. The emigrants recognizing white men in the wagon allowed them to approach, and held up a little girl dressed in white to answer the signal. The Mormons entered the fort. They represented that they had talked with the "Indians," and found them very furious&#8212;determined to capture the party at all hazards; but that they (the Mormons) would negotiate with the "Indians" for terms of surrender if it was desired. The were requested to do so, and after a short absence returned with the "Indians'" alternative&#8212; the surrender of <hi rend="italic">everything</hi>, and their lives would be spared. In addition to the purported agreement on the part of the assailants, as their part of the treaty, not to injure the emigrants personally, the Mormon negotiators proposed to furnish an escort of forty armed men to conduct them back to the settlements. Harsh as were the terms, they were accepted; the presence of helpless women and children
+
+<pb n="189" xml:id="mmm.anti.waters.1868.218"/>
+
+doubtless influencing the emigrants in their decision. The escort arrived, and the unsuspecting emigrants abandoned everything, and marched out of their fort. The women and children were in front, the men behind them, and the guard in the rear of all.</seg> <seg type="Massacre" subtype="Casualties">In this order they marched a short distance, when at a given signal the "Indians" rushed upon the party, shooting dead by the first volley, the men and afterward the women and children</seg>, <seg type="Massacre" subtype="Survivors">except seventeen of the latter who were supposed to be too young to tell the tale of this horrid butchery.</seg> No injury was sustained by the escort.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> very graphically describes this massacre in a speech he delivered in the House of Representatives, when a delegate from <placeName type="state" key="Nevada">Nevada Territory</placeName>. The Judge appends to the speech the affidavits of a number of individuals, that convict, beyond all question, the Mormons as the perpetrators of this crime. The evidence of their guilt may be summed up as follows: <seg type="Source" subtype="Indians">First, the statements of friendly Indians, giving the particulars so minutely, and so in accordance with known facts, as to be of themselves very strong evidence. They explained how the Mormons disguised themselves, and pointed out the place where they assumed the disguise.</seg> <seg type="Context" subtype="LDSApostates">Second, the testimony of apostate Mormons, who resided in the locality, and knew of the plans of the murderers, and how they were executed.</seg> Third, the testimony of some who actually participated in the crime, and afterward went to Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> at night, being afraid to do so by daylight, and gave a full account of the horrible affair. These parties offered to go before a court of justice, and testify to the facts if they could be guaranteed protection in their lives after doing so. The statements of these parties corroborated the statements of the Indians. <seg type="Massacre" subtype="Survivors"><seg type="Source" subtype="Children">Fourth, the statement of the children who escaped, who were old enough to observe and remember. In speaking of these children the Judge remarked: "I recollect one of them, <persName key="Sorrow, John Calvin">John Calvin Sorrow</persName>, after he found he was safe, and before he was brought away from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, although not then nine years of age, sitting in a <choice><orig>contempla-
+
+<pb n="190" xml:id="mmm.anti.waters.1868.219"/>
+
+tive</orig><reg>contemplative</reg></choice> mood, no doubt thinking of the extermination of his family, saying, "Oh, I wish I was a man! I know what I would do. I would shoot <persName key="Lee, John D.">John D. Lee</persName>; I saw him shoot <seg type="Massacre" subtype="Casualties">my mother</seg>, and I shall never forget how he looked."</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">In addition to what has been stated already Major (afterward Major-General) <persName key="Porter, Fitz John">Fitz-John Porter</persName>, Assistant Adjutant-General of Gen. <persName key="Johnston, Albert Sidney">A Sidney Johnston</persName>, in his official report, directly charges this crime upon the Mormons; and Mr. <persName key="Forney, Jacob">A. Forney</persName>, Superintendent of Indian Affairs, after a most minute and careful investigation, arrived at the conclusion that the concoctors and principal perpetrators of the massacre were Mormons, the Indians acting only a secondary part.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Reaction" subtype="Silence"><persName key="Young, Brigham">Brigham Young</persName>, who was at the time Superintendent of Indian Affairs in <placeName type="state" key="Utah Territory">the territory</placeName>, Mr. <persName key="Forney, Jacob">Forney</persName> not succeeding him until 1859, made no allusion to the massacre which was so manifestly his duty to have done, if the Indians participated at all, in his annual report. Nor did he for a long time refer to it in the pulpit, and when he did so, of course it was to deny the guilt of the Mormons.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Any amount of presumptive evidence might be cited that points to the guilt of the Mormons; but their complicity as well as their responsibility for the Mountain Meadow massacre, is a fact too well substantiated to admit of a doubt by an impartial mind, and will ever live in history a foul stigma upon the characters of the Mormon leaders.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">Some years after the horrible murder, General <persName key="Carleton, James Henry">Carlton</persName> marched a column of troops by the locality, when he found the bones of the slain still bleaching upon <geogName type="valley" key="Mountain Meadow">the meadow</geogName>. Here and there lay a skull, with the long hair attached, indicating the sex of the murdered, and interspersed with the others were the small bones of the children. Even then, an officer declares the sight to have been horrible and sickening. <seg type="Reaction" subtype="Commemoration"><persName key="Carleton, James Henry">The General</persName> had these bones collected and buried, and over the spot he made a mound from which was raised a wooden cross, and on it he placed the inscription: "Vengeance is mine, and I will repay, saith the Lord."</seg> <seg type="Blame" subtype="LDS_LDS">Not long afterward <persName key="Young, Brigham">Brigham Young</persName> visited the locality, and about the same time the rude monument was demolished.</seg></seg></p>
+
+<pb n="191" xml:id="mmm.anti.waters.1868.220"/>
+
+<p>As to the perpetration of other crimes in the same locality, by the same parties, I will refer again to the speech of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>. On this subject he remarks:</p>
+
+<p>"Sitting as committing magistrate, complaint after complaint was made before me of murders, and robberies. Among these I may mention as particularly and shockingly prominent the murder of <persName key="Forbes, Henry">Forbes</persName>, <seg type="Context" subtype="ParrishMurder">the assassination of the <persName key="Parrish, William">Parishes</persName> and <persName key="Potter, Duff">Potter</persName>,</seg> of <persName key="Jones, Henry">Jones</persName> and his mother, of the <persName key="Aiken, William">Aiken</persName> party, of which there were six in all, and worst and darkest in the appalling catalogue of blood, was the cowardly and cold-blooded butchery and robbery <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountian Meadows">Mountain Meadows</geogName></seg>."</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">That these crimes might be brought before the law, and the perpetrators punished, the Judge established a court in the vicinity, with military protection, and impannelled a grand jury of Mormons, of course, as there were no other residents to compose it, and their attention was called to the cases before alluded to; but "the jury thus instructed, though kept in session two weeks, utterly refused to do anything, and were finally discharged as an evidently useless appendage of a court of justice." This jury furnishes an example of the fact, to which I have elsewhere referred, that a Mormon jury would not convict a Mormon prisoner.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">But Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> was determined to leave nothing undone that was in his power to do, to bring the criminals to punishment; and as the grand jury would not find a "bill," <seg type="Reaction" subtype="MilitaryRetaliation">he decided to issue bench-warrants, which were placed in the hands of the marshal, aided by a military <hi rend="italic">posse</hi>, when a general stampede took place among the Mormons</seg>; and, says the Judge, "what I want most particularly to call your attention to as a particularly noticeable fact, that this occurred more among the church officials and civil officers."</seg></p>
+
+<p>Another act of barbarity occurred in 1862. A band of disaffected Mormons (disaffected so far as the rule of <persName key="Young, Brigham">Brigham</persName> was concerned) separated from the church under the leadership of one <persName key="Morris, Josephn">Morris</persName>, and were known as the Morrisites. He established a settlement on the Weber River. A dispute 
+
+<pb n="192" xml:id="mmm.anti.waters.1868.221"/>
+
+arose between the Morrisites and Brighamites, as to the authority of the latter to impose fines, and levy taxes upon a people who claimed the same right to exercise an independent government as had those who oppressed them. For some offence, the Morrisites resisted a civil officer of <persName key="Young, Brigham">Brigham</persName>'s government, when the official obtained a large armed posse, and again visited the settlement to serve the writs. Foolishly the Morrisites still resisted, and retaining the fanaticism they had acquired under <persName key="Young, Brigham">Brigham</persName>, they were presumptuous enough to accept battle. Being very much in the minority, they were compelled to surrender, and did so, giving up their arms. The Mormon sheriff then rode into their fort, inquired for Morris, when a poor old helpless fanatic was pointed out to him, and drawing his pistol shot him dead in cold blood. Two or three of the party were murdered in the same way.</p>
+
+<p>As late as last November, a most cowardly and dastardly murder was committed in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, under circumstances which would seem to implicate the church authorities. The murdered man was a Dr. <persName key="Robinson, J. King">Robinson</persName>, a Gentile, who had lived in the city for several years, and practiced his profession as a physician; and the circumstances were these: One evening, after the doctor had retired, two individuals called at his house, and requested his professional services, representing that a friend had a fractured thigh. The doctor immediately dressed, and started on what he supposed a mission of mercy, and after proceeding a few squares was shot through the head, and died shortly afterward, remaining unconscious from the time he received the wound. Mrs. Robinson knew of the two men calling, but did not know who they were. Notwithstanding the most searching investigation on the part of the Chief Justice and the Governor, no clue whatever could be had to the murderers.</p>
+
+<p>The suspicious circumstances connected with Dr. <persName key="Robinson, J. King">Robinson</persName>'s murder are these: He had been for some time conducting a suit against the Mormon authorities for the possession of the land upon which the Warm Springs are <choice><orig>lo-
+
+<pb n="193" xml:id="mmm.anti.waters.1868.222"/>
+
+cated.</orig><reg>located</reg></choice>. He claimed a pre&#235;mption right to the property, which the Mormons refused to recognize, and the church, or the city, or <persName key="Young, Brigham">Brigham Young</persName>, or all combined, also claimed the ownership, and held possession of the property. Taking into consideration these facts, together with that of his being a Gentile, and a kind, gentle and popular man, without personal enemies to the knowledge of any of his friends, is well calculated to cast suspicion upon the Mormon authorities. The Gentiles who have lived longest in the city, and ought to understand the people best, are strongly of the opinion that there was complicity on the part of some of those who every Sabbath occupy seats in the pulpit at the Bowery.</p>
+
+<p>On the other hand the Mormon press most violently denounce the murder, and <persName key="Young, Brigham">Brigham Young</persName>, and the principal of their merchants, have become subscribers for a reward for the arrest of the murderers. This the anti-Mormons pronounce to be in keeping with the acts of saints generally, under such circumstances, and done to divert suspicion.</p>
+
+<p>About the time of the <persName key="Robinson, J. King">Robinson</persName> murder, several other citizens of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> narrowly escaped the severe vengeance of the Mormons, for an offence which is the only one Dr. <persName key="Robinson, J. King">Robinson</persName> is known to have committed against them&#8212;that of claiming public lands in the vicinity of Zion. These lands have not been surveyed, nor brought into market, and the parties that settled upon them considered that they were subject to the same laws that govern other unsurveyed  public land. Several small tracts of these were pre&#235;mpted and occupied. Among other settlers was Dr. <persName key="Williamson, William">Williamson</persName>, who had erected a temporary building on a quarter section near the Jordan. A raid was made on all such about the same time, and their buildings destroyed. Some of the parties came near being roughly handled, and among them the doctor, who was caught, tied, and wrapped in an old tent, preparatory to making a literal Jordan his entrance way into eternity; but he was not the least disconcerted by their conduct, and very coolly informed the mob that he would prefer that they should "shoot him as they would a dog, rather than drown
+
+<pb n="194" xml:id="mmm.anti.waters.1868.223"/>
+
+him as they would a cat." Whether they admired his coolness, so as to induce them to desist, or the whole was intended as a scare, I am unable to say. The doctor being unable to take possession of lands in Zion took one of her fair daughters. I afterward saw him married to Miss <persName key="Carmichael, ">Carmichael</persName>, <seg type="Context" subtype="LDSApostates">the apostate poetess</seg>, to whom I have before alluded, and shaking off the dust of the wicked city from their feet, the bride and groom proceeded eastward to the States.</p>
+
+<p>While the pre&#235;mption excitement was rife, it was frequently the theme of pulpit discourses, and one Sabbath afternoon, when a large congregation had assembled in the Bowery, <persName key="Young, Brigham">Brigham</persName> alluded to this subject, and commenting upon the acts of the Gentile settlers, remarked that if one of them should go on <hi rend="italic">his land</hi> (referring to land unlawfully granted to him by the territorial legislature) he would "Give him a pre&#235;mption to a small tract that would last him to the day of judgment"&#8212;meaning that he should have a grave. This remark, considered in connection with the assassination of Dr. <persName key="Robinson, J. King">Robinson</persName>, for an offence which the President declares would justify murder, leads some the more strongly to suspect that the doctor's murder was by authority.</p>
+
+<p>The Mormons are an enigma to the Christian world, and the question "What holds together this strange people?" has been asked me more than once, and the same question, I have no doubt, has arisen in the minds of some who have read these chapters.</p>
+
+<p>It might be answered almost as briefly as propounded, "Their own infatuation, and the ability of <persName key="Young, Brigham">Brigham Young</persName>, as their leader."</p>
+
+<p>With a view to enlighten the public who may feel any interest in the matter, I have referred to the different features of their history as a sect, and to their character as individuals&#8212;to their virtues, as well as to their vices&#8212;and my motives have been as little influenced by prejudice in one instance as in the other. I have received no favors to prompt words of praise; nor have I been injured to incite words of condemnation. The conclusions which I may submit, are drawn from a careful study of the people, and I would fain
+
+<pb n="195" xml:id="mmm.anti.waters.1868.224"/>
+
+hope that something contained in these chapters may tend to promote the accomplishment of two great ends&#8212;the removal of a disgrace from the nation, and the enlightenment of an ignorant, deluded people.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I will endeavor to explain why I have answered the interrogatory about the unity of the Mormons as I have. Several times already I have alluded to the masses&#8212;to their deplorable ignorance, and religious enthusiasm. As a whole, a more honest and conscientious people are not to be found, nor a people so completely controlled by the will of one man. <persName key="Young, Brigham">Brigham Young</persName> is worshipped as a god, and considered as incapable of error. He tells them they are the chosen people of the Almighty, and that the Mormon Church is ultimately to cover the face of the whole world. Not only earthly possessions, but celestial glory, await the faithful, and more particularly those who endure the afflictions of the church, in this her hour of trial. They are taught that the Government is the enemy of the church, as are all individuals not within her pale. The people believe it all, and nothing that the Prophet requires is considered too great a sacrifice; and nothing that the instincts of their nature, and the education of their whole lives teach them to be a crime, is regarded as other than a virtue if enjoined by him. They consider that they are doing God service in murdering <seg type="Massacre" subtype="Casualties">helpless immigrant women and children</seg>, or becoming the assassin, in the dark hour of night, when their victim is on a mission of mercy.</seg></p>
+
+<p>That they so understand their duty is evidenced in a conversation between Mr. <persName key="Colfax, Schuyler">Colfax</persName> and his companions, and <persName key="Young, Brigham">Brigham Young</persName> and his associates, on an occasion to which I have once before alluded. <seg type="Context" subtype="Polygamy">The subject of polygamy was being discussed and their usual arguments in its defence&#8212;the practice of the ancient church, and God's revelation to <persName key="Smith, Joseph">Joseph Smith</persName>&#8212;were advanced.> In explanation, one of the saints contended that their understanding of God's will was above all human law, and they understood it to be His will that they should multiply wives. A hypothetical case was then submitted, and the brother
+
+<pb n="196" xml:id="mmm.anti.waters.1868.225"/>
+
+asked if he should be taught that it was God's will for him to kill his son, or his enemy, would he do so. The reply was prompt in the affirmative. Then how is God's will communicated? They believe, most implicitly, through their Revelator, their President. His commands, to the Mormon, are the commands of Heaven. If <persName key="Young, Brigham">Brigham Young</persName> tells a saint to murder his son, or his enemy, as a sacrifice, that saint tells us he would do so. Where is greater infatuation than this? or where more dangerous power in the hands of one man?</seg></p>
+
+<p>I can more easily understand the people than I can understand their leader, and have been in doubt whether to regard him as an impostor, or class him in the same category as his followers. The man viewed from one stand-point would appear as honest in the discharge of a stern, religious duty, and when viewed from another he would appear as an impostor. There is but little doubt of his honesty when he embraced Mormonism; and his devotion to the sect, when there was no prospect of personal benefit in life following, even in her darkest hours, when everything seemed to foreshadow its destruction, cannot be accounted for on selfish motives.</p>
+
+<p>But without discussing this question further I will admit the <hi rend="italic">possibility</hi> of his being sincere; but at the same time I must believe him to be unscrupulous as to the means he uses to accomplish his plans. His acts must be upon that corrupt principle, that the end justifies the means, and he does what he <hi rend="italic">knows</hi> to be evil with the hope that good may result. If he is honest in his present conceptions of right and truth, such honesty must be the result of gradual education of his conscience. While I can conceive of the possibility of this, I cannot conceive of the possibility of a man of <persName key="Young, Brigham">Brigham Young</persName>'s opportunities being always so morally blinded. I think that, now, he may do much for expediency, that would have been very repugnant to his ideas of propriety twenty years ago.</p>
+
+<p>An impostor is dangerous only so far as he may be able to carry his deception. In his practices he is controlled somewhat by reason, as to his surroundings; and is mindful of the consequences of over—reaching probabilities, as 
+
+<pb n="197" xml:id="mmm.anti.waters.1868.226"/>
+
+determined by the judgments of the class upon whom he desires to operate. He sees the prospect of failure, if he neglects to do so, and is controlled by a regard for law, which will punish him, if violated. He avoids bringing his system into collision with a stronger one, and will not defy a stronger power.</p>
+
+<p>But with the fanatic it is different. His reason is impaired. He sees things from a different stand-point, and fails to realize what is extravagant in his pretensions, and his extravagancies are often the cause of his success with the weak and visionary. They see the unsoundness of his reasoning, but are captivated by his enthusiasm, and apparent honesty of purpose. He establishes a standard of his own, and is uninfluenced by the opinions of others. A fanatic on a scientific theory may become ridiculous; while a fanatic on religion may be dangerous as well as ridiculous. His honest convictions of duty may lead him to commit acts that are discountenanced by society, and punishable by law; but he is governed by his ideas of accountability to a higher law. He defies punishment, believing that any he may receive will redound to his ultimate benefit. A religious fanatic, then, is more dangerous than an impostor, and the extent to which he is dangerous is determined by his power and influence. <persName key="Young, Brigham">Brigham Young</persName> I consider a more dangerous man, if honest, than he would be if an impostor, <persName key="Smith, Joseph">Joseph Smith</persName>, I think it has been clearly proven, was an impostor. His success was not attributable to the plausibility of his dogmas, so much as to his enthusiasm, and more than that, to the enthusiasm of the <hi rend="italic">honest</hi> followers of a <hi rend="italic">dishonest</hi> leader. United with their fanaticism was the cunning of Smith, which gave Mormonism its start; and then following the martyrdom of their Prophet, as they regarded him, the zeal of this credulous people increased ten-fold. The unfortunate murder of this Smith, has entailed Mormonism on the country to the present day. Had he lived ten years longer, in my opinion, the sect which he founded would be only a chapter in the history of the past.</p>
+
+<p><persName key="Young, Brigham">Brigham Young</persName> is unquestionably a far abler leader than
+
+<pb n="198" xml:id="mmm.anti.waters.1868.227"/>
+
+was <persName key="Smith, Joseph">Joseph Smith</persName>. He has proven himself a most extraordinary man. He has overcome obstacles that would have disheartened the most sanguine. He removed his people far away into a comparatively unknown country, and settled on a barren waste, which was transformed into the most fertile and productive valley in the West. He shared in their toils and privations when necessary, and afterward enriched himself on their labor when opportunity offered. He has been the greatest despot in the world, and at the same time made his subjects believe him to be their greatest benefactor!</p>
+
+<p>I have spoken of the honesty and infatuation of the people, and the influence of their leader over them. Another cause operating to bind them together is their isolation, and the ignorance in which they are kept alike of the teachings of Christianity and civilization. Is it strange, therefore,that the Mormons have existed for so many years as they have?</p>
+
+<p>The existence of the sect I think will terminate with the life of their able leader. This is the opinion of all observing people who have familiarized themselves with the history of the Mormons.</p>
+
+<p>But it is the duty of the Government, as well as the Christian Church, to relieve the country of a sect sanctioning immorality and violating law. While the military power might be used in punishing the guilty, and compelling a greater regard for the letter of the law, it can do nothing in removing the delusions of the people; and the introduction of punishment would be immediately followed by increased fanaticism. To eradicate the evil the influences of Christianity are also required. While the Government needs the co&#246;peration of the Church, the Church equally needs the support of the strong arm of the Government. Let the Mormons be enlightened, their judgments convinced of their error, and then protect them in their individual rights, as citizens of the United States, so as to allow them to renounce their allegiance to Mormonism and live independently of a sect that has controlled their consciences, as well as their lives, and the most favorable 
+
+<pb n="199" xml:id="mmm.anti.waters.1868.228"/>
+
+results will follow. An example of the practicability of such measures, may be seen in the results of the labors of an army chaplain at Camp Douglas, who exerted some influence for good among the Mormons of Salt Lake, and then they went to that post for protection. Give them protection in their own homes, and ten times the amount of good would follow the same labor.</p>
+
+<p>Their infatuation is to a great extent attributable to their ignorance, and their belief in Mormonism is not oftener shaken because no access can be had to them. That conviction of their error is not impossible, is further proved by the dissensions that have occurred, notwithstanding the persecutions these incurred.</p>
+
+<p>The first of these took place in 1852, through the influence of one Bishop <persName key="Bishop, Francis Gladden">Gladden</persName>, who became the leader of dissenters who were known as the Gladdenites. As soon as the existence of the party was known, the apostates, as they were called, were most bitterly denounced, the people instructed to discountenance them, and the Bishops ordered to prevent them from preaching or holding meetings in their wards. Taking it at its incipiency, by vigorous measures <persName key="Young, Brigham">Brigham</persName> succeeded in crushing out the organization.</p>
+
+<p>Next was a party of seceders headed by <persName key="Morris, John">John Morris</persName>, in 1860-61. The Morrisites became more numerous than the Gladdenites, and some of them still exist, though they, too, were pretty well crushed out at the time of the fight to which I before alluded when speaking of the murder of their leader.</p>
+
+<p><seg type="Context" subtype="Polygamy">In 1863 the most threatening movement in opposition to the <persName key="Young, Brigham">Brigham</persName> dynasty took place. It was the preaching of anti-polygamous Mormonism by the disciples of <persName key="Smith, Joseph">Joseph Smith</persName>, son of the first Prophet. <persName key="Smith, Joseph">Joseph</persName> claims to be the head of the Mormon Church, and his followers known as the Josephites, and to these I have before alluded, also.</seg></p>
+
+<p>In 1863 <persName key="Smith, Joseph">Smith</persName> sent two missionaries from <placeName type="settlement" key="Nauvoo, IL">Nauvoo</placeName> to Zion; and notwithstanding the opposition of <persName key="Young, Brigham">Brigham Young</persName>, they went about preaching from house to house, and in one winter obtained several hundred converts to
+
+<pb n="200" xml:id="mmm.anti.waters.1868.229"/>
+
+their branch of Mormonism, the majority of whom went back to the States with the missionaries the following summer. <persName key="Smith, Joseph">Smith</persName> is preparing for a more extensive missionary work in <placeName type="state" key="Utah Territory">Utah</placeName> next summer.</p>
+
+<p>The slightest movement that threatens a loss of faith in <persName key="Young, Brigham">Brigham</persName> is denounced and discouraged in every possible way. The Josephites are now his particular hatred, and he declares such apostates to be "worse than those who damn the Mormons and all Mormonism."</p>
+
+<p>What I have already submitted is evidence that the people may be convinced of their error, and the difficulty all lies in reaching them with the truths of Christianity. To elevate and save the immoral and degraded is a duty of the Christian Church! To prevent and punish crime is a duty of the Government! <persName key="Young, Brigham">Brigham Young</persName> will interpose every obstacle he may be capable of bringing in the way, to thwart both in the discharge of these duties, but they may all be overcome by a judicious and systematic course. If churches are built for public worship, <persName key="Young, Brigham">Brigham</persName> will not allow his saints to attend them. If the missionary visits the people from house to house, those who entertain him will be marked, and perhaps punished. The people will be publicly and privately cautioned to hold no fellowship with missionaries, and Sabbath-schools will be discountenanced. These are some of the influences that will operate against the success of a missionary enterprise; but where is there a mission in this or foreign land that has not encountered similar difficulties?</p>
+
+<p>There are several encouraging features that will be connected with an attempt to enlighten the Mormons. Not least among them is the influx of a Gentile population into <placeName type="state" key="Utah Territory">the territory</placeName>, and in this there is a very decided advantage gained. The mere contact of the two classes will have a wonderful effect in showing the moral, religious and physical advantages of a different life. <seg type="Context" subtype="Polygamy">Then another feature is that the Government is committed to put down polygamy, and in doing so the Church will obtain the important ally which I have said was so necessary to secure tolerance.</seg> A 
+
+<pb n="201" xml:id="mmm.anti.waters.1868.230"/>
+
+regard for the rights of individuals, rigidly required by United States civil officers, with a military force to compel respect, would secure this. <persName key="Young, Brigham">Brigham Young</persName> may be defiant now, but when he finds his people emerging from their present moral and political darkness, and contending only for such rights and privileges as conform to the genius of our institutions, and he sees the Government determined to protect them in these rights, his influence will have waned. He then cannot cry "persecution and intolerance," as he has so often done, for it will be manifest to the people that the Government is protecting them from the persecution and intolerance of a most intolerant leader.</p>
+
+<p>The time for the Church <choice><sic>so</sic><corr>to</corr></choice> take her stand and make use of these aids, is now fast approaching. The completion of the Pacific Railroad will usher in the fullness of that time. If she fails to improve it, the responsibility for a continuance of the present state of society in <placeName type="state" key="Utah Territory">Utah</placeName>, and perhaps of strife and bloodshed that may follow, will to some extent at least rest upon her. Such opportunities as the present are not often presented. I believe that nowhere will more willing converts to true Christianity be found than among the more sincere of the Mormons; and their enlightenment is more especially desirable because of their aggressive work in error. They are in this respect different from any other people among whom missionaries are sent to labor. Their errors are not only inculcated upon their children, and the sect increased by the multiplication of the people among themselves by natural laws, but hundreds and thousands are being led into error and added to their number every year, and <seg type="Context" subtype="Polygamy">numbers of women hopelessly degraded by their practice of polygamy</seg>.</p>
+
+<p>A minister in a prominent church in <placeName type="settlement" key="Washington, DC">Washington</placeName> once remarked in a missionary sermon to his congregation that the missionaries of "our rougher brethren," the Methodists, are as the frontiersmen who cut down the forests, while they followed on to grub out the stumps and cultivate the fields; and again, he compared the former to the reapers in the field, while the more refined followed on, and gathered
+
+<pb n="202" xml:id="mmm.anti.waters.1868.231"/>
+
+the scattering grain that the reapers had not bound in their sheaves. If this minister's ideas of the labors that pertained to certain branches of the Church are correct, then it is to "our rougher brethren," particularly, that these remarks should be addressed. Let their frontiersmen or their reapers go forth into <placeName type="state" key="Utah Territory">Utah</placeName>, and I would accept the latter simile is the most applicable in this case, for instead of a forest primeval to be levelled, are fields of error fertilized and cultivated, now all white unto harvest, awaiting the scythe of the reaper. There is work for both reaper and gleaner. But the first great work should not be confined to a denomination of Christians, but on it all the Churches should unite their influences. That work is to secure the co&#246;peration of the Government with the Church.</p>
+
+<p>The Rev. Mr. <persName key="McLeod, Norman">McLeod</persName>, of the Congregational Church, to whom I have before referred as the chaplain at Camp Douglas, who has done good in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, is now absent in the States, lecturing against Mormonism, and collecting funds for building a church. Something more than the enterprise of one minister is required, and unsupported he can do but little&#8212;less than when he held a commission as chaplain. Moreover, though Mr. <persName key="McLeod, Norman">McLeod</persName> may be admirably suited for the work in other respects, his expositions and denunciations of Mormonism have made him so obnoxious to the people as, in my opinion, to interfere with the usefulness which otherwise his talents and energy would insure.</p>
+
+<p><seg type="Context" subtype="Polygamy">Before concluding this already too long chapter on such a subject by such a writer, I must add a few words on the abolition of polygamy. Referring to the writer, it is but justice to such officers to say that he is not a chaplain. That may have been patent to most of the readers, but not to all.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">The provision to be made for surplus wives is a subject that requires thoughtful attention, in connection with the abolition of polygamy. If the present law could be so construed as to be prospective in its requirements, and forbid the future marrying of more than one wife, and not apply to those who had a plurality of wives before its passage to
+
+<pb n="203" xml:id="mmm.anti.waters.1868.232"/>
+
+put away all but their lawful wife, I think the evil could be as effectually remedied in a few years. This would also increase the opportunities of the Church in elevating the standard of morality, at the same time that it labored to satisfy the people that their church taught not only a political evil, but a social, moral and natural one.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">Polygamy has already degraded the woman, and for her to continue as a duplicate wife until circumstances provided a way for her to change her relation, I consider by far preferable to compelling the man to put her away to become the subject of a public or a private charity.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

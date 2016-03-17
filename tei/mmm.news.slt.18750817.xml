@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.slt.18750817">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Blood Atonement</title>
+		<title level="m" type="sub">The Press Still Indignant at the Church of Brigham Young of Latter-day Thugs.</title>
+		<author></author>
+		<principal>Douglas Seefeldt</principal>
+		</titleStmt>
+		<editionStmt>
+		    <edition>
+			<date>2012</date>
+		    </edition>
+		</editionStmt>
+		<publicationStmt>
+		<idno>mmm.news.slt.18750817</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">Salt Lake Tribune</title>
+		    <title level="a" type="main">Blood Atonement</title>
+		    <title level="a" type="sub">The Press Still Indignant at the Church of Brigham Young of Latter-day Thugs.</title>
+		    <publisher></publisher>
+		    <pubPlace>Salt Lake City, UT</pubPlace>
+		    <date when="1875-08-17">August 17, 1875</date>
+		</bibl>
+	   </sourceDesc>
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	 	<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-04-22"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2009-10-13"><name>Laura Weakly</name> Validated</change>
+	<change when="2009-10-08"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.slt.18750817.001"/>
+
+<head>BLOOD ATONEMENT.</head>
+<milestone unit="horbar" />
+<head type="sub">The Press Still Indignant at the Church of Brigham Young of Latter-day Thugs.</head>
+<milestone unit="horbar" />
+
+<div2>
+<head type="sub">The Lee Trail.</head>
+
+<p><seg type="Source" subtype="Reprinted"><seg type="Blame" subtype="LDS_LDSLeadership">As we predicted, the trial of <persName key="Lee, John D.">John D. Lee</persName>, of Mountain Meadows infamy, has proved a farce, and the infamous assassin gets another lease. As was stated a few days ago, it would be unreasonable to expect a jury of highwaymen to convict a stage robber, as it would be to get Mormons to find one of their own peculiar faith guilty of a crime. <seg type="Source" subtype="PublicMind">The influences which surrounded the jurors during the trial were such as to create a demoralized public sentiment, censing even the Gentile element of the jury to become weak-kneed.</seg> The result demonstrates the impossibility of obtaining the proper measure of justice for such hardened criminals as <persName key="Lee, John D.">Lee</persName> and his associates, anywhere in Mormondom, until that country is renovated and purged of this <unclear>nefarius</unclear> curse.</seg> &#8211; <hi rend="italic">Owyhee Aualanche</hi></seg>.</p> 
+</div2>
+
+<milestone unit="horbar" />
+
+<div2>
+<p><seg type="Source" subtype="Reprinted"><seg type="Blame" subtype="LDS_LDSLeadership">The Trial of <persName key="Lee, John D.">John D. Lee</persName>, at <placeName type="settlement" key="Beaver, UT">Beaver, Utah</placeName> for participation in the Mountain Meadows Massacre, terminated, Saturday, by a disagreement of the jury, which consisted of eight Mormons and four gentiles. Lee’s conviction could hardly have been hoped for at the hands of a Mormon jury, but facts enough have been brought to light during the trial to morally prove his guilt, and also that of <persName key="Young, Brigham">Brigham Young</persName>, who was certainly <unclear>cortaiant</unclear> of the massacre after its commission and counseled a policy of silence in regard to it. <seg type="Massacre" subtype="Planning">The massacre was planned and executed by Mormons and for Mormon interests.</seg> <seg type="Blame" subtype="LDS_LDSZealots">That much, at any rate, has been shown by Lee’s trail, and the guilt and <unclear>barbanty</unclear> of <seg type="Massacre" subtype="Casualties">mercilessly sacrificing unarmed men, women and children</seg> to religious fanaticism are justly chargeable against the Mormon church.</seg> It now remains to be seen whether American justice will much longer allow the existence of such a blood-thirsty and barbarous organization in this country. The good repute of our institutions is at stake in permitting Mormonism a place in the land.</seg> &#8212; <hi rend="italic"><orgName type="newspaper" key="Hartford Times">Hartford (Conn,) Times</orgName></hi></seg></p>
+</div2>
+
+<milestone unit="horbar" />
+
+<div2>
+<head type="sub">The Mountain Meadows Massacre.</head>
+
+<p><seg type="Source" subtype="Reprinted"><seg type="Source" subtype="PublicMind">The trial of the Mormon Bishop, <persName key="Lee, John D.">Lee</persName> accused of being one of the chief instigators of the act of wholesale assassination known as the Mountain Meadows Massacre, has attracted the attention of the whole country.</seg> All the circumstances of the trial have been strange. The jury was composed largely of Mormons, and contained &#8212;so the telegraph reported&#8212; several who were relatives of the accused. <seg type="Blame" subtype="IndiansIndependently">The defendant, endeavored to throw the blame of the murder upon the Indians</seg>; <seg type="Blame" subtype="IndiansLDSInfluence">but a chief asserts that <persName key="Lee, John D.">Lee</persName> bribed the Indians to help in the killing, by the promise of clothing, guns and horses, and that the Indians had no personal hostility against the emigrants.</seg> Some of the Mormon witnesses swore that they had lived near the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName> a great many years and had never heard about the massacre. <seg type="Blame" subtype="LDS_LDSLeadership">An effort was made to show that <persName key="Young, Brigham">Brigham Young</persName> was not connected with the atrocity, but it is not known here whether he has been able to clear his <unclear>sklris</unclear> entirely.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">Of the atrocity of the massacre there is no doubt. Many of its details have been known for years, nor has it ever been attempted to charge it upon the Indians, uninitiated by white men.</seg> <seg type="Blame" subtype="LDS_LDSLeadership">How far this trail and others which may follow it may fix the guilt upon the Mormon leaders at <placeName type="settlement" key="Salt Lake City, UT
+">Salt Lake</placeName>, remains to be seen. The disagreement of the jury in the Lee case was expected, and entails nothing, except that it will be difficult to get justice done upon the actual murders</seg>&#8212; <hi rend="italic"><orgName type="newspaper" key="New York Herald">N.Y. Herald</orgName></hi></seg></p>
+</div2>
+
+<milestone unit="horbar" />
+
+<div2>
+<head type="sub">The Mormon Trial</head>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">Though the jury in the case of <persName key="Lee, John D.">the Mormon Lee</persName> failed to agree, as was expected&#8212; it being comprised of nine Mormons and three Gentiles&#8212;it does not alter the facts that the massacre <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg> has been traced to the guilty parties, and that before the world the Mormon Church, as represented by <persName key="Young, Brigham">Brigham Young</persName>, stands convicted of one of the most horrible crimes in history. The ex-Bishop of the church who testified, told his story clearly, and this story was not disproved. Before any other jury than one pledged to acquit, the evidence alone would have been sufficient to convict. <seg type="Massacre" subtype="Planning">He was with the Mormons when they consulted about the massacre. He saw the preparations, and warned them against such inhuman butchery.</seg> <seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Spoils">He was the net of treachery by which the emigrants were lured from their stockade and murdered</seg>, and saw the spoils, the blood-money, distributed among the Mormon families.</seg> He heard the comments of <persName key="Young, Brigham">Brigham Young</persName>, and was himself warned by the latter to lisp no word of the awful deed. As we said, this testimony stands <unclear>unrefoled</unclear>. It is indeed, confirmed by various other witnesses until the truth of the guilt of these so-called saints is no longer to be double. Yet a Mormon jury acquit them.</seg> We suppose there is no way under the law to exclude men who swear to their qualifications as disinterested jurors, but could anything be more <unclear>tarcical</unclear> than an attempt to convict one Mormon before others of his faith? Why <unclear>trile</unclear> with justice in this manner? It is to hoped that the time will <unclear>epsedly</unclear> come when all such <unclear>ahems</unclear> maybe done away with. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="WesternViolence">The investigation, however, has resulted in using an indelible stain upon the Mormon Church, and settling the responsibility for an act of barbarism which was even regarded as a reproach by the lawless savage of the West who are supposed to know no shame nor pity, but who protected against the Infamy of such a deed.</seg></seg>&#8212;<hi rend="italic"><orgName type="newspaper" key="Chicago Inter-Ocean">Chicago Inter-Ocean</orgName></hi>.</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

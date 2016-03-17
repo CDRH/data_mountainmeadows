@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfh.18571021">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Perils of the Plains: The Mormons and the Late Massacre</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfh.18571021</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary">Reports from arriving emigrants of threats along the trails in Utah.</note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">Perils of the Plains: The Mormons and the Late Massacre.</title>
+		    <title level="j">San Francisco Herald</title>
+		    <author>Editor, San	Francisco Herald</author>
+		    <publisher>San Francisco Herald</publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1857-10-21">1857-10-21</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+    	<change when="2011-06-21"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting Enhancement</change>
+    	<change when="2007-05-31"><name>Leslie Working</name> Initial Encoding</change>
+    	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.sfh.18571021.001"/>
+
+    <head>Perils of the Plains: The Mormons and the Late Massacre.</head>
+
+<p>Three emigrant families arrived, yesterday, in Sacramento, by the <placeName type="route" key="Carson Valley route">Carson Valley route</placeName>. They report, says the <orgName type="newspaper" key="Union">Union</orgName>, many sad evidences of outrage and murder?.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Reports brought in by these families tend strongly to corroborate the suspicion already existing against the Mormons as the instigators, if not the perpetrators, of the <seg type="Massacre" subtype="Battle">recent wholesale massacre of immigrants at <seg type="Massacre" subtype="Location">Santa Clara canon?.</seg></seg> Before [Mr. Pierce's] family left <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>, vague declarations of a threatening character were made, to the effect that, next year "the overland emigrants must look out;" and it was intimated that the last trains this year might be destroyed. From the Mormon train which recently left the <geogName type="valley" key="Carson Valley">Carson Valley</geogName>, and which these families met on the way, similar statements were vaguely communicated, one Mormon woman even going so far as to congratulate an old lady in one of these families on her safe arrival so near her destination, and assuring her that "the last trains of this year would not get through, for they were to be cut off." We give these statements as we received them from members of these families, and, admitting their correctness, which we have no reason to doubt, they certainly go far to confirm a terrible suspicion.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

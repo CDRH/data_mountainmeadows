@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.ah.rea.1955">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Boone County and its People. </title>
+                <title level="m" type="sub">Arkansas Historical Series, v. 4</title>
+                <author><forename>Ralph</forename> <forename type="middle">R.</forename> <surname>Rea</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.ah.rea.1955</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2009</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Boone County and its People</title>
+                    <title level="m" type="sub">Arkansas Historical Series, v. 4</title>
+                    <author><forename>Ralph</forename> <forename type="middle">R.</forename> <surname>Rea</surname></author>
+                    <publisher>Press-Argus</publisher>
+                    <pubPlace>Van Buren, AR</pubPlace>
+                    <extent>39-52</extent>
+                    <date when="1955">1955</date>
+                    <note type="source">Ralph R. Rea.<hi rend="italic">Boone County and its People.</hi> Arkansas Historical Series, v. 4. Van Buren, AR: Press-Argus, 1955. 39-52.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+		<keywords scheme="original" n="category">
+		    <term>arkansas_history</term>
+		</keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-04-22"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+
+<div1 type="chapter">
+
+<pb n="37" xml:id="mmm.ah.rea.1955.037"/>
+
+<head>CHAPTER IV</head>
+
+<head>CARROLLTON, CROOKED CREEK AND DEATH ON THE MEADOWS</head>
+
+<p>The 1840's saw many changes in <placeName type="county" key="Carroll County, AR">Carroll County</placeName>. It grew from a total population of 2,844 in 1840 to 4,614 in 1850. However the growth in the hill section of <placeName type="state" key="Arkansas">Arkansas</placeName> was not keeping pace with the rest of the state, for during the same period the population increased in the whole state from 97,574 to 209,897. Much of the hill land that was settled was in the hands of squatters or preemptors. Though the government sold land for $1.25 Per acre, many preferred to squat on a desirable tract with the idea of buying a land warrant from a veteran of the War of 1812 or the Mexican War and claiming the land under it. By this method much of the land in this area was obtained. The United States had given all its veterans a bonus in the form of a Land Warrant, with which they could purchase government lands. These warrants were transferable, and many were bartered by veterans in need of cash. In some cases they sold for so little that desirable tracts of land were obtained for twenty-five cents or less per acre.</p>
+
+<p>In this period <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName> itself had begun to grow up. During the '40s a second court house was built. Goodspeed tells us that this building was thirty feet by forty feet in dimensions and was two stories high. This time brick construction replaced the old log building, and since this was expected to be the permanent structure, it was built in the center of the square. In this new building the lower floor was used as a court room. The upper floor was reached by an interior stairway; it was partitioned into three rooms, one of which was used
+
+<pb n="38" xml:id="mmm.ah.rea.1955.038"/>
+
+as a clerk's office and the two others as jury rooms. This building was burned in 1860, and before it could be rebuilt the Civil War intervened so that the county was without a court house for more than five years. In addition to the court house the town had four stores, two hotels, a school and lodge hall, a blacksmith shop and some twenty-five residences.</p>
+
+<p>During the years from 1840 to 1860 the men who had come first to the <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName>-<geogName type="waterway" key="Crooked Creek">Crooked Creek</geogName> area of <placeName type="county" key="Carroll County, AR">Carroll County</placeName> figured prominently in its political history. <persName key="Sneed, Charles">Charles Sneed</persName> served as sheriff from 1836 to 1842. <persName key="Beller, William">William Beller</persName> was county treasurer from 1838 to 1842, and during this same period of time <persName key="Beller, William">Beller</persName> was also serving as postmaster of <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName>. <persName key="Mitchell, William">William Mitchell</persName> was state senator for fourteen years (1840-54). During this period he served as postmaster at <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName> for two months. Two years after Mitchell's tenure as senator, <persName key="Watkins, William W.">William W. Watkins</persName> was elected to this office and served for six years. <persName key="Watkins, William W.">Watkins</persName> was the most outstanding political figure in this vicinity in the years immediately preceeding and following the Civil War. After the war he served two more terms in the state senate. Before the war he was a delegate to the Secession Convention, and after secession he was one of <placeName type="state" key="Arkansas">Arkansas</placeName>' representatives to the Congress of the Confederacy.</p>
+
+<p>Some <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName> and <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName> men who served in the office of state representative during this period were <persName key="Gaither, Beal">Beal Gaither</persName>, 1840-42; <persName key="Baines, G. W.">G. W. Baines</persName> and <persName key="Fancer, James">James Fancher</persName>, 1842-44; <persName key="Bernie, G. E.">G. E. Bernie</persName>, 1844-46; <persName key="Denton, Tilford">Tilford Denton</persName>, 1850-52.</p>
+
+<p>In 1846 our state took a rather active part in the war with Mexico. In response to a request from President <persName key="Ppolk, James K.">Polk</persName> for a regiment of mounted troops, Governor <persName key="Drews, Thomas S.">Thomas S. Drew</persName> issued a call for ten companies. Notice was sent to <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName> and the other county seats. <placeName type="county" key="Carroll County, AR">Carroll
+
+   
+<pb n="39" xml:id="mmm.ah.rea.1955.039"/>
+  
+County</placeName> promptly raised a company and dispatched a man by the name of <persName key="Gregory">Gregory</persName> to <placeName type="settlement" key="Little Rock, AR">Little Rock</placeName> with the muster-roll, so the company might secure a place in the regiment. When the messenger arrived the regiment was full so the <placeName type="county" key="Carroll County, AR">Carroll County</placeName> boys failed to get into this fracas.</p>
+
+<p>During all these years new families were arriving in <placeName type="county" key="Carroll County, AR">Carroll County</placeName>. From <placeName type="state" key="Tennessee">Tennessee</placeName>, <placeName type="state" key="Kentucky">Kentucky</placeName> and <placeName type="state" key="Missouri">Missouri</placeName> they came, and those who came from <placeName type="state" key="Missouri">Missouri</placeName> were in the main Tennesseans and Kentuckians who had temporarily sojourned with our neighbor to the north. In 1860 the white population of the county had increased to 9,053 and the colored population was 330. These figures graphically show that slavery was not profitable in the hill country, and that time would have completely eliminated it as an issue with the mountaineers. There was at this time no crystalized sentiment on the issues of slavery or secession in the Ozarks.</p>
+
+<p>It was in these years just prior to 1860 that the writer's ancestors, both paternal and maternal came to <placeName type="state" key="Arkansas">Arkansas</placeName>. The paternal side from <placeName type="state" key="Kentucky">Kentucky</placeName> in 1858, to settle near <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName>; the maternal line from <placeName type="state" key="Tennessee">Tennessee</placeName> via <placeName type="state" key="Missouri">Missouri</placeName> in 1857, to settle six miles north of <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName>, where the present Harrison Country Club is now located. Neither side owned slaves, but the Kentuckians had come from slave-owning families, and in the war that followed they fought with the Confederacy. The Tennesseans remained loyal to the Union.</p>
+    
+<p>Even as these families poured into the <placeName type="state" key="Arkansas">Arkansas</placeName> hills from the east, hundreds of those already here were moving west across the desert to a new frontier. The discovery of gold in <placeName type="state" key="California">California</placeName> had set caravan after caravan rolling out of the <placeName type="state" key="Arkansas">Arkansas</placeName> hills toward the western deserts. For twelve years, until the war halted their Westward trek, family after family left their rocky Ozark
+
+<pb n="40" xml:id="mmm.ah.rea.1955.040"/>
+
+homes for the promise of a more bountiful life than they had ever dreamed was possible. Many an Ozarkian made his fortune and remained on the west coast; some came home broke; <seg type="Blame" subtype="IndiansIndependently">a few met death on the desert at the hands of Indians and thieves. The most terrible example of the latter was <seg type="Emigrants" subtype="WagonTrain">the Fancher Caravan</seg> that was destroyed <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <placeName type="state" key="Utah">Utah</placeName></seg> <seg type="Massacre" subtype="Dates">in September, 1857</seg>.</seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain"><seg type="Emigrants" subtype="StateAffiliationArkansas">In the last week of April or the first week in May, 1857 this ill-fated emigrant train was formed at the Beller Stand. For a week some of the families had camped by the big spring near <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName>, while they waited for others from <placeName type="county" key="Marion County, AR">Marion</placeName>, <placeName type="county" key="Crawford County, AR">Crawford</placeName> and <placeName type="county" key="Johnson County, AR">Johnson</placeName> Counties to join them. Captain <persName key="Fancer, Alexander">Alexander Fancher</persName> of the Osage community in <placeName type="county" key="Carroll County, AR">Carroll County</placeName> was the leader of the party. Captain <persName key="Fancher, Alexander">Fancher</persName> had made two overland journeys to <placeName type="state" key="California">California</placeName> prior to this 1857 trek.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">On file in the National Archives in <placeName type="settlement" key="Washington, DC">Washington, D. C.</placeName> is a list submitted by <persName key="Mitchell, William">William Mitchell</persName> to the Office of Indian Affairs, <placeName type="state" key="Utah Territory">Utah</placeName> Superintendency, dated April 27, 1860 at <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>. <persName key="Mitchell, William">Mitchell</persName>'s list contains the names of most of those who started with the caravan from Beller's Stand in the spring of 1857 and who were massacred. Three of his sons were among those killed. His list together with some additions and corrections based upon family records and the Federal Census of 1850 gives us the following information:</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">From <placeName type="county" key="Carroll County, AR">Carroll County</placeName> there were <persName key="Fancher, Alexander">Alexander Fancher</persName>, his wife and seven children; Captain <persName key="Baker, John T.">John T. Baker</persName>, fifty-two years of age, and his son, <persName key="Baker, George W.">George W. Baker</persName>, twenty-seven years of age, and George's wife, <persName key="Baker, Manerva">Manerva</persName> and daughter, <persName key="Baker, Vinia">Vinia</persName>; <persName key="Baker, Abel">Abel Baker</persName>, nineteen years old, son of <persName key="Baker, John T.">John T. Baker</persName>; <persName key="Fancerh, James Matthew">James Matthew Fancher</persName> and <persName key="Fancher, Robert">Robert Fancher</persName>, nineteen and twenty-five years old respectively, both being the sons of <persName key="Fancher, Jane">Jane Fancher</persName>.</seg></p>
+
+<p>Others from <placeName type="county" key="Carroll County, AR">Carroll County</placeName> were <persName key="Beller, David">David Beller</persName> and
+
+<pb n="41" xml:id="mmm.ah.rea.1955.041"/>
+
+<seg type="Massacre" subtype="Casualties"><persName key="Beller, Melissa Ann">Melissa Ann Beller</persName>, the twelve year old son and the fourteen year old daughter of <persName key="Beller, William C.">William C. Beller</persName>; <persName key="Rush, Milum">Milum Rush</persName>; <persName key="Deshazo, Allen">Allen Deshazo</persName>; the Mitchell brothers, <persName key="Mitchell, Charles R.">Charles R.</persName>, twenty-five years of age, together with his wife and one child, and <persName key="Mtichell, Joel D.">Joel D. Mitchell</persName>, twenty-four years of age, and the younger brother, <persName key="Mitchell, Lawson">Lawson</persName>; <persName key="Prewett, William">William</persName> and <persName key="Prewett, John">John Prewett</persName>, two brothers; <persName key="Dunlap, Jesse">Jesse Dunlap</persName>, wife, <persName key="Dunlap, Sarah">Sarah</persName> and children, <persName key="Dunlap, Jesse M.">Jesse M.</persName>, <persName key="Dunlap, Ibba A.">Ibba A.</persName>, <persName key="Dunlap, Elijah M.">Elijah M.</persName>, <persName key="Dunlap, Susan A.">Susan A.</persName>, <persName key="Dunlap, Catherine">Catherine</persName> and <persName key="Dunlap, Beda M.">Beda M.</persName>; <persName key="Camron, William">William Camron</persName>, his wife, <persName key="Camron, Martha">Martha</persName> and three children, <persName key="Camron, James">James</persName>, <persName key="Camron, Martha">Martha</persName> and <persName key="Camron, Larkin">Larkin</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">From <placeName type="county" key="Marion County, AR">Marion County</placeName> there were <persName key="Dunlap, L. D.">L. D. Dunlap</persName> and five children; <persName key="Wood, William">William Wood</persName>; <persName key="Wood, Solomon">Solomon Wood</persName>; <persName key="Wilson, Richard">Richard Wilson</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">Those listed from <placeName type="county" key="Johnson County, AR">Johnson County</placeName> were <persName key="Jones, J. Milam">J. Milam Jones</persName>, wife and one child; <persName key="Tacket, Pleasant">Pleasant Tacket</persName>, wife and two children; <persName key="Tacket, Cintha">Cintha Tacket</persName> and three children; <persName key="Huff, Peter">Peter Huff</persName>, Wife and three children; <persName key="Miller, Josiah">Josiah Miller</persName>, wife and three children.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">In addition to the ones who were killed there were seventeen children who were spared. Goodspeed names the surviving children as follows:</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Dunlap, Rebecca">Rebecca</persName>, <persName key="Dunlap, Louisa">Louisa</persName> and <persName key="Dunlap, Sarah">Sarah Dunlap</persName>, daughters of <persName key="Dunlap, Jesse">Jesse Dunlap</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Dunlap, Prudence Angeline">Prudence Angeline</persName> and <persName key="Dunlap, georgiana">Georgiana Dunlap</persName>, daughters of <persName key="Dunlap, L. D.">L. D. Dunlap</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Baker, Elizabeth">Elizabeth</persName>, <persName key="Dunlap, Sarah R.">Sarah R.</persName> and <persName key="Baker, William T.">William T. Baker</persName>, children of <persName key="Baker, George W.">George W. Baker</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Fancher, Kit Carson">K. C.</persName> and <persName key="Fancer, Tryphena D.">Tryphena Fancher</persName>, children of <persName key="Fancer, Alexander">Alexander Fancher</persName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Miller, John C.">John C.</persName>, <persName key="Miller, Mary">Mary</persName> and <persName key="Miller, Joseph">Joseph Miller</persName>, children of <persName key="Miller, Joseph M.">Joseph M. Miller</persName> (probably the same as <persName key="Miller, Josiah">Josiah Miller</persName>).</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><persName key="Tacket, Ambrose Mirem">M.</persName> and <persName key="Tacket, William Henry">William Tacket</persName>, children of <persName key="Tacket, Pleasant">Pleasant Tacket</persName>. <persName key="Jones, F. M.">F. M.</persName> and <persName key="Jones, Sophronia">Sophronia Jones</persName>, children of <persName key="Jones, J. M.">J. M. Jones</persName> (called <persName key="Jones, Milam">Milam Jones</persName> or <persName key="Jones, J. Milam">J. Milam Jones</persName> on some lists).</seg></p>
+
+<p>These surviving children together with those listed
+
+<pb n="42" xml:id="mmm.ah.rea.1955.042"/>
+
+above as having been killed makes <seg type="Emigrants" subtype="WagonTrain">a total of some eighty persons. The accounts written at the time generally agree that there were one hundred and thirty-seven or one hundred thirty-eight people in the party at the time they were attacked</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>. Just who all the other members were will probably never be known; however, from fragmentary information obtained from different sources it is possible to determine pretty definitely who some of them were.</p>
+
+<p><seg type="Source" subtype="Children"><seg type="Emigrants" subtype="StateAffiliationMissouri"><seg type="Emigrants" subtype="WagonTrain">We know that there were some Missourians in the party</seg>, for <seg type="Massacre" subtype="Survivors"><persName key="Terry, Elizabeth Baker">Elizabeth Baker Terry</persName>, who as a seven year old child survived the massacre</seg>, speaks of a party from <placeName type="state" key="Missouri">Missouri</placeName> traveling with them part of the way. Most of these, together with a few from <placeName type="state" key="Arkansas">Arkansas</placeName>, separated from the main body of the caravan and took the southern route. One of the families from <placeName type="state" key="Arkansas">Arkansas</placeName> that took this route was Mrs. <persName key="Cecil, Sally">Sally Cecil</persName>, widow of <persName key="Cecil, Riley">Riley Cecil</persName>, and her five sons and four daughters.</seg></seg></p>
+
+<p><seg type="Emigrants" subtype="WagonTrain">Also there was a <persName key="King, Frank E.">Frank E. King</persName>, who traveled from <placeName type="settlement" key="Pacific Springs, WY">Pacific Springs</placeName>, <placeName type="state" key="Wyoming">Wyoming</placeName> to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, <placeName type="state" key="Utah">Utah</placeName> with the Fancher party. There he was forced to stop because of the illness of his wife. Years later he recalled the names of several families in the party. Among those remembered by him and not mentioned in the prior lists were <persName key="Morton">Morton</persName>, <persName key="Haydon">Haydon</persName>, <persName key="Hudson">Hudson</persName>, <persName key="Aden">Aden</persName>, <persName key="Stevenson">Stevenson</persName>, <persName key="Hamilton">Hamilton</persName> and <persName key="Smith">Smith</persName>. <persName key="King">King</persName> thought that there were about sixty men, forty women and fifty children in the caravan at the time he was forced to leave it at <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg></p>
+
+<p>There was a man named <persName key="Eaton, William">William Eaton</persName> from <placeName type="state" key="Illinois">Illinois</placeName>, who had recently come there from his native state of <placeName type="state" key="Indiana">Indiana</placeName>. He joined the party somewhere in <placeName type="state" key="Arkansas">Arkansas</placeName> or <placeName type="state" key="Missouri">Missouri</placeName>.</p>
+
+<p>At <placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName> a young artist named <persName key="Aden, Allen">Allen Aden</persName> fell in with the party and went on to <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>.
+
+<pb n="45" xml:id="mmm.ah.rea.1955.043"/>
+
+<persName key="Aden, Allen">Aden</persName> was from an old family living at <placeName type="settlement" key="Paris, TN">Paris</placeName>, <placeName type="county" key="Henry County, TN">Henry County</placeName>, <placeName type="state" key="Tennessee">Tennessee</placeName>. He had been painting and sketching on the <placeName type="state" key="Utah Territory">Utah</placeName> deserts for several months when the caravan came by and he decided to join it on the journey to <placeName type="state" key="California">California</placeName>.</p>
+
+<p><seg type="Emigrants" subtype="Route">But the first chapter of this tragic story began early en a Spring morning when the caravan pulled out from their camp at Beller Stand and moved westward on the military road toward <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName>. Almost immediately they passed the home of Joseph Baines, where the <placeName type="settlement" key="Crooked Creek, AR">Crooked Creek</placeName> Post Office was then located. Several miles beyond they came to the point where the road forked, and there they turned to the right toward <placeName type="state" key="Missouri">Missouri</placeName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">Goodspeed says that the train consisted of about forty wagons, several carriages in which the ladies rode, nearly a thousand head of cattle, several hundred horses, including a stallion valued at $2,000. All in all the wealth of the caravan was estimated at $70,000.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">The party proceeded to <placeName type="settlement" key="St. Joseph, MO">St. Joseph</placeName> where it turned west through <placeName type="state" key="Kansas">Kansas</placeName> and on into <placeName type="state" key="Colorado">Colorado</placeName> by the accustomed route. They reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> in August. Other parties had joined them from time to time along the way, but before they reached the Mormon country most of these others had veered off on the southern route. The last party to join them was from <placeName type="state" key="Missouri">Missouri</placeName>, but they likewise took the southern course before they reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Source" subtype="Children">For an account of the last days of the Fancher party's journey let us take the words of <persName key="Terry, Elizabeth Baker">Elizabeth Baker Terry</persName>,
+who was an eyewitness:</seg></seg></p>
+
+<p><seg type="Source" subtype="Children">"Six months had passed when we at last camped on the <geogName type="waterway" key="Jordan River">Jordan River</geogName> in <placeName type="state" key="Utah Territory">Utah</placeName>.</seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Encounter" subtype="TradeLDS"><seg type="Encounter" subtype="TradeLDS">"Our provisions were running low. The cattle were weary and footsore, but we were jubilant. In those days</seg></seg></seg>
+
+<pb n="44" xml:id="mmm.ah.rea.1955.044"/>
+
+<seg type="Encounter" subtype="TradeLDS"><seg type="Source" subtype="Children">pioneers looked upon <placeName type="state" key="Utah Territory">Utah</placeName> as a supply station for the final drive to <placeName type="state" key="California">California</placeName>. At <placeName type="settlement" key="American Forks, UT">American Forks</placeName>, a small settlement, attempts were made to re-provision. The Mormons met our offers with sullen shakes of their heads.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children">"We went through <placeName type="settlement" key="Battle Creek, UT">Battle Creek</placeName>, <placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="settlement" key="Springwell, UT">Springwell</placeName>, <placeName type="settlement" key="Spanish Fork, UT">Spanish Fork</placeName>, <placeName type="settlement" key="Salt Creek, UT">Salt Creek</placeName> and <placeName type="settlement" key="Fillimore, UT"><choice><sic>Fillimore</sic><corr>Fillmore</corr></choice></placeName>, then <seg type="Massacre" subtype="Location">we reached <geogName type="valley" key="Mountian Meadows">Mountain Meadows</geogName>. Ever since emigrants began plying their way across the continent, <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> had been a resting place for travelers. This five mile long valley, filled with luxuriant grass, was a mile wide and bordered by low-flung mountains.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children">"Near the lower end the valley tapered to a mere three or four hundred yards, as the gap led out to the scorched sands of the desert beyond. A spring made this section of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> a natural camping ground. Here we halted to rest.</seg></p>
+
+<p><seg type="Source" subtype="Children">"The day before we were to start was spent in a final check. Every family was on rations. Most of us sought our blankets not long after sundown.</seg></p>
+
+<p><seg type="Source" subtype="Children">"I awoke early. A coffee aroma permeated the wagons, which had been drawn up in helter-skelter fashion.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"Suddenly there was a rattle of fire from the hillside nearest our camp.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently"><seg type="Source" subtype="Children">"Whooping savages tumbled down the slope and sliced off our milling stock.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"The men worked frantically, shoving the heavy schooners and carriages into the form of a huge corral. A few, armed with long rifles, stood on guard. The last wagon was in line when<seg type="Blame" subtype="IndiansIndependently"> the main band of savages</seg> charged down the mountain side, yelling and shooting. Rifles began to bark along the train. The attackers hesitated before the viciousness of the fire and fell back. The respite gave us time to dig in. Under Captain </seg></seg><choice><orig>Fan-
+
+<pb n="45" xml:id="mmm.ah.rea.1955.045"/>
+
+cher's</orig><reg>Fancher's</reg></choice><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Battle"> direction the wheels of the wagon corral were locked together by means of chains. Others hurried out with picks and shovels and dug feverishly to throw up a breastwork. Even the women helped.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently"><seg type="Source" subtype="Children">"We were on a traveled route and it appeared that all we had to do was to stand the Indians off until help arrived</seg>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"The sun tortured us with intense heat. By midday it was almost unbearable, and we were almost out of water. Later in the day the last of the brackish water was consumed.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently"><seg type="Source" subtype="Children">"On the evening of the third day the Indians made their most determined attack.</seg> Crouched low, they circled about the train, shooting inaccurately. <geogName type="valley" key="Mountian Meadows">The Meadows</geogName> afforded little cover and our assailants felt the lash of the corral sharpshooters. Back they went to the hillsides, carrying their wounded with them. The seige was on again.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"The fourth day was the worst of all. The wounded were actually dying of thirst. The entire caravan was weak from lack of water.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"The morning of the fifth day dawned. Our resistance was crumbling rapidly. Our ammunition was nearly gone. The stench of our unburied dead was in our nostrils. And always with us was the agony of thirst.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Source" subtype="Children">"The cry of a sentry shook us from our stupor. Two men, mounted on horses and bearing a white flag, were advancing toward us.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children">"In a twinkling, hope transformed our ranks. We cheered weakly. The horsemen came on at a walk, so slowly I thought they would never reach the corral. A square-made man with an air of authority dismounted, smiling at our greetings. He left his companion with the horses, Captain <persName key="Fancher, Alexander">Fancher</persName> stepped forward. The stranger</seg>
+
+<pb n="46" xml:id="mmm.ah.rea.1955.046"/>
+
+<seg type="Source" subtype="Children">took<persName key="Fancher, Alexander"> Fancher</persName>'s hand. '<persName key="Lee, John D.">John D. Lee</persName>,' he said, 'Indian Commissioner for this district.'</seg></p>
+
+<p><seg type="Source" subtype="Children">"Eagerly we crowded about him. He explained gravely that the Piaute Indians were rebellious and difficult to handle, but he believed he could persuade them to parley. In a lengthy conference between <persName key="Lee, John D.">Lee</persName> and the men of our band, he gained our complete confidence."</seg></p>
+
+<p>Here we will leave <persName key="Terry, Elizabeth Baker">Mrs. Terry</persName>'s narrative briefly, and in order to better understand <persName key="Lee, John D.">Lee</persName>'s visit, let us turn to the events that had transpired in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> in the days preceeding the attack.</p>
+
+<p>When the covered wagon and carriages passed through that city they were closely watched by three Mormon Saints. These men were <persName key="Haight, Issac C.">Isaac Haight</persName>, <persName key="Klingensmith, Philip">Philip Klingensmith</persName> and <persName key="Higbee, John H.">John Higbee</persName>.</p>
+
+<p><persName key="Haight, Isaac C.">Haight</persName> was president of the Parowan Stake, and a lieutenant colonel in the Mormon Militia.</p>
+
+<p><persName key="Klingensmith, Philip">Klingensmith</persName> was bishop of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</p>
+
+<p><persName key="Higbee, John H.">Higbee</persName> was a major in the county militia.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSZealots"><seg type="Context" subtype="LDSPersecution">The fanaticism of these three, coupled with their memory of the martyred <persName key="Smith, Joseph">Joseph Smith</persName>, and their possession of information that part of the travelers were from <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Illinois">Illinois</placeName> (these were the scenes of persecution against the Mormons) had <seg type="Massacre" subtype="Planning">helped move them into an unholy plot.</seg></seg></seg></p>
+
+<p><seg type="Context" subtype="PrattMurder">There was another incident too, that contributed to the bitter feelings toward this particular caravan. Just three years before this time Elder <persName key="Pratt, Parley P.">Parley P. Pratt</persName>, one of the devout saints, had come to <placeName type="state" key="Louisiana">Louisiana</placeName> and <placeName type="state" key="Arkansas">Arkansas</placeName> as the first missionary to represent his sect in these states. Among his converts was a Mrs. <persName key="McLean">McLean</persName> of <placeName type="state" key="Louisiana">Louisiana</placeName>, who allegedly deserted her husband to become a polygamous wife of Saint <persName key="Pratt, Parley P.">Pratt</persName>. <persName key="McLean, James B.">McLean</persName>, himself, was away from home at the time, when he returned he opposed</seg>
+
+<pb n="47" xml:id="mmm.ah.rea.1955.047"/>
+
+<seg type="Context" subtype="PrattMurder">the changed status. <persName key="Pratt, Parley P.">Pratt</persName> had already started westward, but <persName key="McLean, James B.">McLean</persName> pursued him and had him arrested. <persName key="Pratt, Parley P.">Pratt</persName> was freed on arraignment, and again started his westward journey. <persName key="McLean, James B.">McLean</persName> was not satisfied with the outcome of the court hearing, so he again followed <persName key="Pratt, Parley P.">Pratt</persName>. This time he overtook <persName key="Pratt, Parley P.">Pratt</persName> near the present town of <placeName type="settlement" key="Alma, AR">Alma</placeName>. There <persName key="McLean, James B.">McLean</persName> attacked <persName key="Pratt, Parley P.">Pratt</persName> with a bowie knife and stabbed him to death. The word of <persName key="Pratt, Parley P.">Pratt</persName>'s death soon Made its way to the Mormon country. The Mormons felt that <persName key="Pratt, Parley P.">Pratt</persName>'s death should be avenged.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSBloodAtonement">All of these wrongs had burned deep into the hearts of the Mormon people, so that it was easy for <persName key="Haight, Isaac C.">Haight</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName> and <persName key="Higbee, John H.">Higbee</persName> to whip them up into a religious frenzy. Records of the <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> Council meeting indicate that the council developed a messianic complex, in that they felt that God had actually sent the caravan to them so that a blood atonement could be made for the great wrongs that had been done against the Mormons in <placeName type="state" key="Missouri">Missouri</placeName>, <placeName type="state" key="Illinois">Illinois</placeName> and <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansLDSInfluence"><persName key="Haight, Isaac C.">Haight</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName> and <persName key="Higbee, John H.">Higbee</persName> were too cowardly they too hypocritical to attack the train themselves, so they decided they would bribe the Piautes to do the job. This is where <persName key="Lee, John D.">John D. Lee</persName> came into the picture, for as Indian agent he was on friendly terms with the various tribes in the Mormon country.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">The following night was spent in consultation with <persName key="Lee, John D.">Lee</persName>. <seg type="Blame" subtype="EmigrantBehavior">The three convinced <persName key="Lee, John D.">Lee</persName> that the Gentiles had stolen cattle, <seg type="Encounter" subtype="Slander">insulted Mormon women, threatened to burn every Mormon town in <placeName type="State" key="Utah Territory">Utah</placeName></seg>, and that they even had with them the gun with which one of their number had assassinated <persName key="Smith, Joseph">Joseph Smith</persName>. With their anger fanned to a white heat the four then pledged themselves to wipe out together the hated Gentiles.</seg> After their pledge they remained together until dawn, praying fervently. But the next day someone among the four conspirators talked to other</seg></seg>
+
+<pb n="48" xml:id="mmm.ah.rea.1955.048"/>
+
+<seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">Mormons, and <seg type="Massacre" subtype="RescueAttempt">the more sober heads in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> made plans to head off the vicious plot. There was no one to whom they could appeal locally, so they decided to go to the highest recognized authority. They dispatched a messenger to<persName key="Young, Brigham"> Brigham Young</persName> to ask his decision. The messenger reached President <persName key="Young, Brigham">Young</persName> on September 10, 1857. It is pretty conclusively established that <persName key="Young, Brigham">Young</persName> sent the messenger back immediately with the command to give the emigrants safe passage through the Mormon country. The messenger did not arrive until after the seige had begun, and as a matter of fact, it had almost failed because the Indians had met such stubborn resistance that they were ready to call the whole thing off.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Haight, Isaac C.">Haight</persName> received Brigham <persName key="Young, Brigham">Young</persName>'s message, but the beseiged caravan already knew too much, so there could be no backing up. He deliberately lied to <persName key="Higbee, John H.">Higbee</persName>, who in turn passed the erroneous order to <persName key="Lee, John D.">Lee</persName>. The order <persName key="Lee, John D.">Lee</persName> received read: "Kill everyone old enough to talk."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Several of the Indians had already gone back to their homes, so <persName key="Lee, John D.">Lee</persName> and <persName key="Higbee, Isaac C.">Higbee</persName> recruited some forty fanatical Saints to help them write the last chapter to this sordid tale.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">This brings us up to date with the Mormon phase of our story, for it was at this point that <persName key="Lee, John D.">John D. Lee</persName> rode up under a flag of truce, dismounted from his horse and taking <persName key="Fancer, Alexander">Alexander Fancher</persName> by the hand, offered his services to help the caravan in their hour of dire need.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children">Let us now turn back to Mrs. <persName key="Terry, Elizabeth Baker">Terry</persName>'s account of the last gruesome details of this dark picture.</seg></p>
+
+<p><seg type="Source" subtype="Children">"When <persName key="Lee, John D.">the Indian Commissioner</persName> rode off our hopes and prayers went with him. He was gone two hours.</seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Surrender">"He came back at a gallop, a wagon following his dust. He said, 'They've agreed to let you go if you surrender your arms.'</seg></seg></p>
+
+<pb n="49" xml:id="mmm.ah.rea.1955.049"/>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Source" subtype="Children">"At first the men objected, then finally agreed to the terms.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Source" subtype="Children">"Slowly they filed to the wagon <persName key="Lee, John D.">Lee</persName> had brought with him. Rifles clattered in the bed.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS">"<persName key="Lee, John D.">John D. Lee</persName> smiled grimly and nodded to the driver. The wagon rumbled off over the low rise. Mounting his horse, <persName key="Lee, John D.">Lee</persName> spurred a short distance from the corral. He rose in his stirrups and shouted, 'Do your duty!'</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Battle">"Bewildered we stood there. <seg type="Blame" subtype="IndiansLDSInfluence">The Indians, shrieking, shooting, yelling, tumbled down the slope triumphantly.</seg> For a moment the entire wagon train was frozen into immobility.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Battle">"I started to follow my mother and stumbled. The last I saw of her, she was running toward our carriage with little <persName key="Baker, Williami">Billy</persName> in her arms. <seg type="Blame" subtype="IndiansLDSInfluence">And the Indians were upon us.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS"><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"Now I could see they weren't all Indians. Whites had painted themselves to resemble their savage companions. With bloodcurdling yells they leaped on the defenseless pioneers. I sought shelter under a wagon and peered out between the spokes.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Battle"><seg type="Source" subtype="Children">"I saw my father fall to the ground.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle">"The Indians and their white companions killed and killed. The sight of blood sent them into a fanatical frenzy. One huge white kept shouting, 'For Jehovah!'</seg></seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">"The fiends slackened their butchering only when there were no more victims. Dripping paint and blood, they stood panting, searching for any signs of life among the hacked and clubbed bodies.</seg></seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Survivors">"A white man took me by the hand and led me to a wagon where several other children had been placed.</seg></seg></p>
+
+<p><seg type="Source" subtype="Children"><seg type="Massacre" subtype="Survivors">"I found my sister, <persName key="Baker, Sarah Frances">Sarah Frances</persName>, there.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Source" subtype="Children">"As we left, the Indians and whites were completing their looting. Some of the disguised Mormons were washing their paint at the spring.</seg></seg></seg></p>
+
+<pb n="50" xml:id="mmm.ah.rea.1955.050"/>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Source" subtype="Children">"Our wagon creaked to the <persName key="Hamblin, Jacob">Hamblin</persName> ranch a mile away, where it discharged its sobbing cargo.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Source" subtype="Children">"We were held at the ranch for several days while the Mormons debated on how to dispose of us.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Source" subtype="Children">"No effort was made to give the bodies a decent preparation for burial. <seg type="Reaction" subtype="Commemoration">Not until 1859 did a passing detachment of U. S. Cavalry stop to gather the bones into one grave. A rock cairn was erected. On one stone was carved the words: 'Here lie the bones of one hundred and twenty men, women and children, from Arkansas, murdered on the 10th day of September, 1857.'</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Reaction" subtype="Commemoration"><seg type="Source" subtype="Children">"An officer painted on a cross-like beam above the cairn:</seg></seg></seg></p>
+
+<p><seg type="Reaction" subtype="Commemoration"><seg type="Massacre" subtype="Aftermath"><seg type="Source" subtype="Children">'Vengeance is mine saith the Lord. I will repay'."</seg></seg></seg></p>
+
+<p>The first news that leaked out of <placeName type="state" key="Utah Territory">Utah</placeName> told of a terrible massacre <seg type="Blame" subtype="IndiansIndependently">by the Indians</seg>, and <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">it was not until months later that the true facts were suspected.</seg></seg> <seg type="Blame" subtype="LDS_LDS">Here we must place much of the blame on <persName key="Young, Brigham">Brigham Young</persName>, for though the best evidence seems to indicate he did not sanction the act, he did become an accessory after the fact in that he helped conceal the crime.</seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">When the story came to light, <persName key="Watkins, William">William W. Watkins</persName>, who was then state senator, was sent to <placeName type="settlement" key="Washington, DC">Washington</placeName> to press for an investigation into the massacre. He secured an audience with the president, and thereby started the wheels in motion for government intervention.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">In 1859 <persName key="Lynch, James">James Lynch</persName> of the U. S. Army took possession of the seventeen surviving children and returned them to <orgName type="military" key="Fort Leavenworth">Ft. Leavenworth</orgName> where <persName key="Mitchell, William">William Mitchell</persName>, who had lost three sons in the massacre, met them and transported the children to <placeName type="settlement" key="Carrollton, AR">Carrollton</placeName>, <placeName type="state" key="Arkansas">Arkansas</placeName>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">The main credit for solving this terrible crime goes to Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>, who was federal judge for <placeName type="state" key="Utah Territory">Utah Territory</placeName>. When Justice <persName key="Cradlebaugh, John">Cradlebaugh</persName>'s investigation brought all the facts to light, <persName key="Young, Brigham">Brigham Young</persName></seg> <choice><orig>excom-
+
+<pb n="51" xml:id="mmm.ah.rea.1955.051"/>
+
+municated</orig><reg>excommunicated</reg></choice>
+ <seg type="Blame" subtype="LDS_LDS"><persName key="Haight, Isaac C.">Haight</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName>, <persName key="John H. Higbee">Higbee</persName> and <persName key="Lee, John D.">Lee</persName>. <persName key="Klingensmith, Philip">Klingensmith</persName> turned against the others and made an affidavit placing the blame on the other three. <persName key="Haight, Isaac C.">Haight</persName> and <persName key="Higbee, John H.">Higbee</persName> managed to avoid arrest and <persName key="Lee, John D.">Lee</persName> alone was captured and tried.</seg></p>
+
+<p>United States Marshal <persName key="Stokes, William">William Stokes</persName> arrested <persName key="Lee, John D.">Lee</persName> in 1874, seventeen years after the massacre.</p>
+
+<p><persName key="Lee, John D.">Lee</persName> was tried twice. The first hearing was declared a mistrial, but on the second trial <persName key="Lee, John D.">Lee</persName> was deserted by the church and left to face his crime alone. Old and broken, <persName key="Lee, John D.">Lee</persName> then wrote a full confession, but in his confession he contended that he had only done his sacred duty. He stated he had obeyed orders given him by <persName key="Haight, Isaac C.">Haight</persName> and  <persName key="Klingensmith, Philip">Klingensmith</persName>, and that their orders came from God.</p>
+
+<p>He was sentenced to die and he chose the firing squad as the method of his execution. On March 23, 1877 the government had him transported <seg type="Massacre" subtype="Surrender">to the exact spot on which the emigrants stood when <persName key="Lee, John D.">Lee</persName> came to them with a white flag and guaranteed their safety.</seg> Lee sat on his coffin and refused the marshal's offer of a bandage for his eyes. The rifles roared and the twisted, fanatical life of <persName key="Lee, John D.">John Doyle Lee</persName> was snuffed out.</p>
+
+<p>This officially closed the Mountain Meadows case.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="52" xml:id="mmm.ah.rea.1955.052"/>
+
+<head>CHAPTER V</head>
+
+<head>THE MOUNTAINEERS OPPOSE SECESSION</head>
+
+<p>As 1860 drew near most of the nation seemed conscious of an impending conflict, but the people of <placeName type="county" key="Carroll County, AR">Carroll County</placeName> were not nearly so deeply moved by the threats of secession and war as they were by the bloody Utah massacre that was still fresh in their memories. Mountain Meadows had become a symbol of treachery, and the names "Mormon," "<persName key="Lee, John D.">John D. Lee</persName>" and "<persName key="Young, Brigham">Brigham Young</persName> were words spoken only with bitterness and hatred. The Ozark mountaineer had no strong feeling on the issue of slavery and secession, but he was now so violently anti-Mormon that for many years to come the Mormon Church was destined to see failure in all its efforts at missionary work in the <placeName type="state" key="Arkansas">Arkansas</placeName> hills.</p>
+    
+<gap reason="irrelevant" />
+
+<!-- Remainder of chapter not relevant
+
+<p>By now the average mountaineer had several acres cleared. He had built a simple log house and he could see the home of his dreams slowly taking form on the land he had cleared from the wilderness. His only aspirations were to be left alone to clear and farm his land. He did not own slaves and he knew that he probably never would; but due to his southern background he was not generally opposed to slavery. He did not view it as being altogether good, nor did he consider it to be wholly bad; and, above all, it was nothing demanding such drastic action as secession or war. His views Were important to the future of the state, for the Ozark mountaineers were in a slight numerical majority over the delta settlers. These hill people were in no mood to leave the Union no matter how violently the southern radicals beat the drums of secession, but all the cards were stacked against them. The wealth of the state was opposed to their stand, and the State Democratic <choice><orig>ma
+
+<pb n="53" xml:id="mmm.ah.rea.1955.053"/>
+
+chine</orig><reg>machine</reg></choice>
+ was controlled by the secessionists; however, the Mountaineers were determined to fight to the last ditch to avoid leaving the Union. They made their fight and lost; but, when they lost, the majority of them sided with the southland.</p>
+
+<p>The year 1860 was an election year, and as the time for the election approached the Arkansawyers aligned themselves behind either Breckinridge, who was an ardent states-rights man, or Bell, who was a unionist, concilitary toward the south. When the voting was over Breckinridge led Bell by a vote of 27,732 to 20,094, while Douglas was receiving 5,227. The big surprise came to the people of Arkansas when a political unknown from Illinois was elected. The new president, Abraham Lincoln, was not even on the ballot in Arkansas and had not received a single vote in the state.</p>
+
+<p>The cry for separation from the Union now became louder, and Arkansas' Senator Johnson and Congressmen Hindman and Gantt together with Governor Rector advocated disunion. These men were the most powerful political figures in the state and their influence was suf- ficient to force the legislature to summon a convention to deal with the problem of relationship to the Union. hill move for such a convention was opposed by the hill counties. Carroll joined Sebastian, Sevier, Clark,Marion, Newton, Searcy, Conway, Pike, Van Buren and Columbia Counties in sending strong anti-secession resolutions to the legislature. In their resolutions Carroll, a Marion, Newton and Searcy placed the blame for slavery agitation on political demagogues.</p>
+
+<p>In spite of this strong opposition the legislature di- rected the governor to call a state-wide referendum on she Secession Convention for February 18, 1861. In this same election the delegates to the convention were to be named. On the date set for the election the people voted
+
+<pb n="54" xml:id="mmm.ah.rea.1955.054"/>
+
+27,412 for the convention and 15,826 against. At the same time however, they elected a majority of Unionist delegates to the convention. The delegates elected from <placeName type="county" key="Carroll County, AR">Carroll County</placeName> were William W. Watkins and Dr. B. H. Hobbes, both of whom opposed secession. These men were opposed in the election by secession candidates Dr. Dijon and E. G. Mitchell. The vote was 1464 for the Unionist candidates and 36 for the Secessionists.</p>
+
+<p>Thus it was that Watkins and Hobbes, together with the other delegates from the hills, went to the convention, which met in the State House in Little Rock, pledged to hold Arkansas in the Union. On March 4th the Convention was called to order, and the first business was the election of a convention president. The Unionists nominated David Walker of Washington County and the Secessionists advanced B. C. Totten of Prairie County. The mountaineers elected their man by a vote of 40 to 35.</p>
+
+<p>By now the seven cotton states had seceded from the Union. This caused great influence to be brought upon the convention to place Arkansas in line with her sister states. Commissiosers from South Carolina and Georgia (A. C. Spain and D. P. Hill) appeared before the convention and implored Arkansas to follow the example set by their states. Then an appeal was made by a former Arkansas citizen, W. S. Oldham, who presented a communication from Jefferson Davis asking Arkansas to separate from the United States. On March 9th Gov ernor Rector urged immediate separation from the Union. On this same date the Secessionists proposed that the State of Arkansas give official recognition to the Confederacy. The Unionists countered with a series of corn' promise resolutions listing the southern grievances, against the north. Their resolutions further proposed that these grievances be presented to the Federal <choice><orig>Govern-
+
+<pb n="55" xml:id="mmm.ah.rea.1955.055"/>
+
+ment</orig><reg>Government</reg></choice> with a request that they be remedied by certain constitutional changes. In these resolutions the hill people were expressing their true sentiments on the issue of disunion. They felt that the south had been wrongfully treated, but that constitutional guaranees against further encroachments, instead of secession, were the remedy.</p>
+
+<p>These resolutions brought on a showdown vote, but not in the way expected.</p>
+
+<p>T. B. Hanly of Phillips County countered the resolutions by a motion to amend by striking out all after the preamble and inserting an ordinance of secession in their place. Again the mountaineers stood together and beat down the secession effort by a vote of 39 to 35. Watkins and Hobbes from Carroll were among those who helped hold the state in the Union by voting against the Hanly motion.</p>
+
+<p>The Secessionists decided now that their cause was lest, so they moved to adjourn sine dine, but before the adjournment a resolution was adopted recording faith In the continuation of the Union.</p>
+
+<p>Weeks passed with Arkansas still clinging to the Union by a narrow margin of some four delegate votes. Just at this time certain events occurred that brought about considerable change in the attitudes of the hill People. Fort Sumter was fired upon, and Lincoln called upon Arkansas to furnish part of the 75,000 men needed w, Put down the insurrection. This was the turning point o sentiment in Arkansas, for the majority of the mountaineers, as distasteful as breaking with the Union might be to them, could not bring themselves to fight their kinsmen east of the Mississippi.</p>
+
+<p>To Lincoln's demand for troops from Arkansas, Gov-
+ernor Rector replied: "In answer to your demand for
+troops from Arkansas&#8212;I have to say that none will
+be furnished. The demand is only adding insult to injury.
+
+<pb n="56" xml:id="mmm.ah.rea.1955.056"/>
+
+The people of this commonwealth are free men, not slaves, and will defend to the last extremity their honor, lives and property against northern mendacity and usurpation."</p>
+
+<p>Heretofore a majority of the people of Arkansas favored compromise rather than secession, but now it became more and more apparent to them that compromise was impossible. In the delta section of the state sentiment had been kindled to a white heat; and the people of at least one cotton county had gone so far as to recommend that there be a speedy and peaceable division of the state, so the counties for secession might act in concert.</p>
+
+<p>The delegates in the hill country, sensing that a change was taking place in the minds of their people, started a grass roots sounding of sentiment. In <placeName type="county" key="Carroll County, AR">Carroll County</placeName> delegates Watkins and Hobbes conducted mass meetings in every township. From most of the neighborhoods came the same reaction&#8212;the men of <placeName type="county" key="Carroll County, AR">Carroll County</placeName> would not be parties to the suppression of the southern rebels, and if they must choose between secession or a fight against their sister states, then they would secede. All over the hill country it was virtually the same story, except that Union sentiment still predominated in Searcy, Newton and Madison Counties. In Washington and Pike Counties sentiment was almost equally divided.</p>
+
+<p>Delegates were now pressing for a re-assembly of the Secession Convention, so David Walker called meeting for May 6, 1861.</p>
+
+<p>This time the body assembled in an atmosphere of tension and excitement. The galleries were packed with spectators and the isles were filled with men, women and children who jostled each other, while other children sat in the windows and squatted beside the delegate's chairs.</p>
+
+<pb n="57" xml:id="mmm.ah.rea.1955.057"/>
+
+<p>Almost immediately a committee presented an ordinance which reviewed the grievances of the state against the Federal Government, and "declared and ordained" that "the Union now subsisting between the State of Arkansas and the other states under the name of the United States of America is hereby forever dissolved."</p>
+
+<p>The men from the hills knew now that secession was upon them; however, they made one more effort to forestall immediate action. Densmore of Benton County pro-Posed by way of amendment that the ordinance of secession be referred to the people for ratification. This amendment was defeated by a vote of 55 to 15. Then came the final vote on the ordinance itself, and secession carried by a vote of 65 to 5. The negative votes were cast by Isaac Murphy and H. H. Bollinger of Madison, John Campbell of Searcy, T. M. Gunter of Washington and Samuel Kelley of Pike. This time the <placeName type="county" key="Carroll County, AR">Carroll County</placeName> delegates voted for the ordinance.</p>
+
+<p>After this vote was completed Chairman Walker asked the delegates to make the decision unanimous. All the "No's" then chnged to "Aye" except Isaac Murphy from Madison.</p>
+
+<p>The convention completed its business by electing five delegates to the Confederate Congress. These men were Robert W. Johnson, A. H. Garland, Albert Rust, H. F. Thomason and William W. Watkins. All of these men except Johnson had started in the anti-secessionists. Two of them, Thomason of Crawford and Watkins of Carroll, were mountaineers.</p>
+
+<p>The careers of Thomason and Watkins were in many Ways Parallel. Both were lawyers who had come from Tennessee; both were at this time thirty-five years of age; both were numbered among the less wealthy dele- the to the Secession Convention. These two men from the hills had voted for secession only when there seemed
+
+<pb n="58" xml:id="mmm.ah.rea.1955.058"/>
+
+no other course open to them. Many others could hardly bring themselves to vote for disunion, and one, aging Isaac Murphy of Madison County, refused to be a party to voting Arkansas out of the Union. He probably spoke for thousands of his people when he stood before the convention, with tears in his eyes and in a voice filled with emotion, cried from his heart, "My principles are southern, but I cannot aid in bring about the untold evils that would assuredly follow in the train of secession."</p>
+
+<p>Arkansas was now out of the Union, but the mountaineers wanted no part of the war. As we view the situation now, we can see great tragedy in the fact that these people who were opposed to disunion had to bear so much of the horrors of the War Between the States. All of the greater western battles were fought on their soil; their men and boys were driven south by superior Federal forces; and when the invading forces moved south after the retreating Confederates, the lands of these hill people were desolated and their aged were murdered, their children starved and their women raped by marauders who knew no allegiance either to the north or the south.</p>
+
+End of Irrelevant Section--> 
+    
+</div1>
+        </body>
+    </text>
+</TEI>
+
+

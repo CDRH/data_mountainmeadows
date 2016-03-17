@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.sfdeb.18590423">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+	        <title level="m" type="main">Criminal Blundering in Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.sfdeb.18590423</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="j">San Francisco Daily Evening Bulletin</title>
+		    <title level="a" type="main">Criminal Blundering in Utah</title>
+		    <author></author>
+		    <publisher></publisher>
+		    <pubPlace>San Francisco, CA</pubPlace>
+		    <date when="1859-04-23">April 23, 1859</date>
+		</bibl>
+	    </sourceDesc>
+    
+	</fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+		<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+		<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enchancement</change>
+	<change when="2011-04-20"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-02-25"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.sfdeb.18590423.001"/>
+
+<head type="main">Criminal Blundering in Utah.</head>
+ 
+<p>The future historian of our times will set down the <placeName type="state" key="Utah Territory">Utah</placeName> policy of President <persName key="Buchanan, James">Buchanan</persName> as the most disgraceful budget of blunders from end to end. In the beginning, the force ordered to Mormondom was miserably inadequate to the purpose in hand; then it was put in motion so late in the season that it was necessarily caught in the mountains by snows of a severe winter, and compelled to go into quarters for the season a little over a hundred miles only from its destination. By this criminal mismanagement, months of valuable time were lost, the army was subjected to much deprivation and suffering, and the expenses of the Expedition were enhanced by many hundreds of thousands of dollars. The army complained not, however; nor would the country at large have grumbled at the expense, had the purpose been accomplished for which the troops were ordered upon the march across twelve hundred miles of dreary wilderness.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">But that was not permitted to be. The <persName key="Buchanan, James">President</persName> intruded an unmasked pardon upon the Mormon traitors, and thus lost the opportunity to break down and destroy the theocratic power of <persName key="Young, Brigham">Brigham Young</persName> and his priesthood. A more serious error could not have been perpetrated. <persName key="Young, Brigham">Young</persName> has maintained the influence over his people, through which he led them into overt acts of treason and actual rebellion, by inspiring them with the conviction that he wielded some supernatural or miraculous power, and that the Government was utterly unable to subdue them and subject him and his followers to the law. It was of the highest importance, therefore, that the folly of these pretensions should be exposed. To that end, no terms should have been made with traitors.</seg> <seg type="Reaction" subtype="MilitaryRetaliation">The army should have marched into <geogName type="valley" key="Salt Lake Valley">the valley of Salt Lake</geogName> without conditions precedent, of any sort whatever. That policy would have scattered <persName key="Young, Brigham">Brigham</persName>’s power to the wind. The people would then have had practical demonstration of the fact that the Government of the United States is supreme and that the boastings and threatenings of their priestly leaders were utterly vain and groundless. It would have torn the veil from the eye of the masses, enabled them to see the pit of destruction towards which their feet were tending, and reestablished their loyalty to the Government.</seg></p>
+
+<p>On the other hand, the tender of full and free pardon, made prior to the entrance of the army, was claimed at once as a fulfillment of <persName key="Young, Brigham">Brigham</persName>’s prophecy to the effect that the army could never come into the Valley, except by his consent. It was held to be a suing by the Government for peace, and it acceptance was and is claimed as an act of grace on the part of the Mormons, rather than of the <persName key="Buchanan, James">President</persName>! The effect is, that <persName key="Young, Brigham">Brigham</persName>’s power, instead of being crushed, is increased four-fold among his deluded followers, who, having got out of one scrape so easily, are more ready than ever to steep their hands in treason, or any other crime, whenever their prophet issues the order. This mistaken policy is costing the country millions per annum for the maintenance of a standing army in the heart of our Republic, to preserve peace ans sustain the <sic>laws!</sic> and the recent exciting events in <placeName type="state" key="Utah Territory">Utah</placeName> already indicate the exceeding danger that it will soon involve the cost of much human blood.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">With an irresistible proclivity to do the wrong thing, the President also appointed a Governor for <placeName type="state" key="Utah Territory">Utah</placeName>, who bids fair to out-blunder even his chief. Governor <persName key="Cumming, Alfred J.">Cumming</persName> has proved himself utterly unfit for the important position which he neither dignifies nor adorns. From the beginning he has constantly sided with the Mormons, and against the judicial and military officers in the Territory. His last and most flagrant outrage upon prudence and decency, was a proclamation protesting against the presence at <placeName type="settlement" key="Provo City, UT">Provo City</placeName> of troops called out upon requisition of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>. In a former article we have shown that the Judge had the right to call in the army to his aid. But even admitting that he was wrong in this, the Judge and General <persName key="Johnston, Albert Sidney">Johnston</persName> assumed responsibility for the act, pending a settlement of the disputed point by the Executive at <placeName type="state" key="Washington, D. C.">Washington</placeName>; and there the Governor should have let it rest. This would not suit him, however. Instead of acquiescing for the time, and setting an example of subordination and moderation, he proceeded to assure the Mormons that he had full control over the army under his instructions. True, he did not at once enter his protest against the employ of troops to protect Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName>. He was more cunningly mischievous. He went to Provo, where he watched the proceedings of the Court several days. Finding the Judge determined to assert the supremacy of the law at all hazards, and not to permit packed juries to make the Court a laughing-stock, the Governor the assumed the prerogative of commander-in-chief of the army, and ordered away the troops by whose aid alone the Court was sustained! The Court seemed in a fair way to unveil some of the manifold iniquities perpetrated in the name of religion. The church leaders began to manifest alarm, and, as the Court progressed, scores of them took refuge in flight, having first demanded of the Governor, as a right, that he should fulfill his promises, and save them from the inconvenience of being compelled to answer for murders, robberies, and other heinous crimes committed in years gone by.</seg></p>
+
+<p><seg type="Context" subtype="UtahWar">Of course, <persName key="Cumming, Albert J.">Cumming</persName> yielded, and by his public denunciation of the acts of Judge <persName key="Cradlebaugh, John">Cradlebaugh</persName> and Gen. <persName key="Johnston, Albert Sidney">Johnston</persName> as usurpation, is practically inviting the Mormons to treasonable resistance. We have in our possession several affiadvits<choice><sic></sic><corr>affidavits</corr></choice> signed by respectable men, who swear that the effect of the Governor’s proclamation was to exasperated the Mormons against the troops, to disturb the public peace and tranquility, and to provoke a conflict of arms between the two parties. One gentleman, a merchant, states that he has since been approached by numerous members of the Mormon church, who desired to purchased powder and lead, stating that they expected such a conflict, and wanted the means of maintaining it. If a bloody issue should be made upon the plains of Salt Lake, a fearful responsibility must rest upon the gray head of Governor <persName key="Cumming, Alfred J.">Cumming</persName>, and upon the <persName key="Buchanan, James">President</persName> who appointed and has sustained him.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.uh.olson.1931">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Utah: A Romance in Pioneer Days</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Edmund</forename> <forename type="middle">T.</forename> <surname>Olson</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.uh.olson.1931</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Utah: A Romance in Pioneer Days</title>
+                    <author><forename>Edmund</forename> <forename type="middle">T.</forename> <surname>Olson</surname></author>
+                    <publisher>Arrow Press</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>160-175</extent>
+                    <date when="1931">1931</date>
+                    <note type="source">Edmund T. Olson. <hi rend="italic">Utah: A Romance in Pioneer Days.</hi> Salt Lake City, UT: Arrow Press, 1931. 160-175.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>utah_history</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-06-29"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+<body>
+    <div1 type="chapter">
+
+<pb n="160" xml:id="mmm.uh.olson.1931.160"/>
+
+<figure xml:id="mmm.uh.olson.1931.160.figure">
+<p>The Mountain Meadows&#8212;In a valley in Qashington County, twenty-five miles southwest from Cedar City and twenty-five miles southeast from Modena, a station on the Los Angeles &amp; Salt Lake Railroad.</p>
+<figDesc>A detailed, hand drawn map of the Mountain Meadows, showing placement of the emigrant and Indian camps, and militia during the emigrant's surrender.</figDesc>
+</figure>
+
+<pb n="161" xml:id="mmm.uh.olson.1931.161"/>
+
+<floatingText>
+    <body>
+                
+<head>CHAPTER XIX</head>
+
+<head type="sub">THE MOUNTAIN MEADOWS MASSACRE. EXECUTION OF JOHN D. LEE.</head>
+
+<p><seg type="Emigrants" subtype="Route">Responsive to orders, the <seg type="Emigrants" subtype="StateAffiliationArkansas"><placeName type="state" key="Arkansas">Arkansas</placeName></seg> and <seg type="Emigrants" subtype="StateAffiliationMissouri"><placeName type="state" key="Missouri">Missouri</placeName> immigrants</seg> passed onward along the broad highway, cut by many wagon tires. <seg type="Encounter" subtype="TradeLDS">Reaching <placeName type="settlement" key="American Fork, UT">American Fork</placeName></seg>, some of the men went into the town to buy some provisions and try to trade off some of the wornout critters. The store had nothing to sell; the best they could do with the jaded animals was to turn them loose.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS"><seg type="Emigrants" subtype="Route">Passing through <placeName type="settlement" key="Provo, UT">Provo</placeName>, <placeName type="settlement" key="Springville, UT">Springville</placeName>, <placeName type="settlement" key="Payson, UT">Payson</placeName>, <placeName type="settlement" key="Salt Creek, UT">Salt Creek</placeName> and <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName></seg>, the appeal for provisions was made, but they were told that there was a famine in the land and nothing could be sold.</seg> <seg type="Blame" subtype="MissouriWildCats"><seg type="Blame" subtype="EmigrantBehavior"><seg type="Context" subtype="LDSPersecution"><seg type="Context" subtype="UtahWar"><seg type="Encounter" subtype="Slander">One man at <placeName type="settlement" key="Fillmore, UT">Fillmore</placeName> fell into sharp words with an immigrant and asked him "how can you expect us to do you any favors when you go along through our towns making threats against the people, and bragging about the part you took in killing the prophet, <persName key="Smith, Joseph">Joseph Smith</persName>?</seg> If you had gone about it right and got your permit from <persName key="Young, Brigham">Brigham Young</persName> to pass through, all would have been well. As it is you fellows better watch your steps.</seg></seg></seg></seg>"</p>
+
+<p>"We don't have to ask permission to travel through the United States. We are American citizens," was the retort.</p>
+
+<p>"Well, sometimes you do when martial law is declared. <seg type="Encounter" subtype="Slander">You Jakes are getting a little too fresh for your own health. My advice to you is 'get to hell out of this Territory.'</seg>" These were the parting words of <persName key="Robison, Henry">Henry Robison</persName>, an Indian fighter, as <seg type="Emigrants" subtype="Route">the caravan moved on to <placeName type="settlement" key="Corn Creek, UT">Corn Creek</placeName></seg>. <seg type="Encounter" subtype="TradeLDS">Here the immigrants met a tribe of Ute Pahvant Indians, ruled over by Chief <persName key="Kanosh">Kanosh</persName>. A purchase of 30 bushels of wheat was made from the redmen, which was a relief, as their bread supply had become exhausted. They joked and laughed together, the savages being much elated in looking at the gold and silver coins paid them by the immigrants.</seg></p>
+
+<p><seg type="Encounter" subtype="Poison">On the following day there was consternation among the Indians. A dead steer was found in the stream of water along which the tribe pitched their tents. These Lamanites received whispers from some of the Mormons that this critter
+
+<pb n="162" xml:id="mmm.uh.olson.1931.162"/>
+
+had been poisoned, which would cause the death of any who drank the waters. The Missourians were said to have been guilty of this criminal act, with intent to kill the Indians as as well as any white settlers who might be caught in the trap. This ruse threw the Indians into an insane fury, and they would have attacked the immigrants but saw at once that they could not cope with them, the tourists being well armed and equipped. Some of the frantic savages held their stomachs with their hands, tried to vomit, and rolled about in the dirt, fearing that death was at the door.</seg> After a night's rest they looked up serenely into the face of their chief, who told them the Great Spirit had saved them. "All same lay on hands like Bishop <persName key="King, Culbert">King</persName>," said the Chief <persName key="Kanosh">Kanosh</persName>, who had joined the church, taken unto himself the luxury of two wives, attractive Indian maidens, and who looked upon <persName key="King, Culbert">Culbert King</persName>, the Bishop, at the town of Kanosh, as a God. This chief sold or gave away "pappooses,"&#8212;Indian children&#8212;to prominent Mormons, who reared them as their own. <persName key="Lee, John D.">John D. Lee</persName> had an Indian boy, "<persName key="Lee, Clem">Clem</persName>," with him during the skirmishes attending the massacre.</p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="IndiansIndependently">But the Indians were not entirely quieted. Fear of poison became a dread in the simple red men's minds. One child had died. <seg type="Blame" subtype="MissouriWildCats">They held that it might be the work of the Missouri Wildcats</seg>. After a little war dance about the fire, they said to <persName key="Hunkup">Hunkup</persName>, who was a stalwart in their ranks:</seg></seg></p>
+
+<p>"Go on horseback south, tell all the tribes, the 'Mericats' (Americans) are coming. Look out!"</p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior">Away flew the Sheridan, spreading dismay among the tribes in Dixie. The white man who fired the savage brain with this subterfuge committed an offense, the consequences of which were lightly considered at the time, without doubt. But the conflagration was started which left its blackness in the historic <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, likewise on the pages of <placeName type="state" key="Utah Territory">Utah</placeName> history.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS"><seg type="Emigrants" subtype="Route">Onward the doomed colony plodded its weary way through <placeName type="settlement" key="Beaver, Utah">Beaver</placeName>, where there was non-intercourse; at <placeName type="settlement" key="Parowan, UT">Parowan</placeName> they were forbidden to pass through the town</seg>; the local mill would not grind their corn. At <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, <persName key="Lee, John D.">John D. Lee</persName> sold them fifty bushels of wheat, also gave them the privilege of grinding their corn at his mill.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">After a day's delay they started on, but so worn out were their animals that it took them three days to reach Iron Creek, twenty miles beyond, and two more days to reach the
+
+<pb n="163" xml:id="mmm.uh.olson.1931.163"/>
+
+<geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, fifteen miles farther south.</seg> <seg type="Massacre" subtype="Location">These "Meadows," in a valley 350 miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, are about five miles long by one mile wide. They are surrounded by mountains. The valley is narrow at the lower end to a width of 100 yards, where a gap leads out to the desert.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">A large spring near the gap made that spot a natural resting place. There the immigrants pitched their camp. Had they been in any way suspicious of Indian treachery they would not have stopped there, because from the elevations on either side they were subject to rifle fire. Here they faced the problem of making the trip of seventy days to <placeName type="settlement" key="San Bernardino, UT">San Bernardino</placeName>, across a desert country, with wornout animals and scant supplies.</seg></p>
+
+<p>About the time of this encampment a hasty informer entered the office of <persName key="Young, Brigham">Brigham Young</persName>, laying before him the news of an Indian uprising and a plot said to have been concocted by some whites to attack and perhaps slaughter the immigrants.</p>
+
+<p>The <persName key="Young, Brigham">"lion of the Lord"</persName> paced the floor in a furor of excitement.</p>
+
+<p>"This is terrible, coming as it does at a time when we are perplexed with trumped up charges and arrests."</p>
+
+<p>He summoned <persName key="Noble, John">John Noble</persName> to whom he said, "<persName key="Noble, John ">John</persName>, you are a trustworthy man, with intelligence to discern the motives of our enemies and to understand the plight into which we will be thrown if murders are committed against colonists passing through <placeName type="state" key="Utah Territory">this Territory</placeName>. Secure the best horses available along the way, and 'spare not their flesh' in reaching the scene of trouble. Advise them that there must be no violations of law. Furthermore, let the immigrants go on their way unmolested. It was a mistake that they were given no passports and that advice was disseminated through the settlements to accord them no hospitality. This thing will go against us."</p>
+
+<p>This diplomacy was put into execution too late. When <persName key="Noble, John ">John</persName>, on swift relay of horses, reached the borders of <placeName type="county" key="Millard County, UT">Millard County</placeName>, he was informed that the massacre of the immigrants had already taken place. A veil of secrecy was thrown over the catastrophe throughout the southern settlements; all was now as quiet as the grave, with "mum" the word. There was no need to proceed farther on the journey. Appearing again before the president with this information, <persName key="Noble, John ">John</persName> again witnessed a scene of sorrow that spread among
+
+<pb n="164" xml:id="mmm.uh.olson.1931.164"/>
+
+the apostles and high priests, who were assembled in the private chamber of the prophet.</p>
+
+<p>"What will the world say now?" was the question that brought feelings of apprehension and terror.</p>
+
+<p>Facts pertaining to the dark deeds that lay like a pall over the fair valleys of <placeName type="state" key="Utah Territory">Utah</placeName> can be gleaned from the confessions of <persName key="Lee, John D.">Lee</persName> and the records of the court in which he was ultimately brought to justice, which are given as follows:</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">At a rendezvous between <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, the latter being the town in which he lived, <persName key="Lee, John D.">John D. Lee</persName> met a band of Indians led by <persName key="Moquetas">Moquetas</persName> and <persName key="Big Bill">Big Bill</persName>, two chiefs. All were in their war paint, fully equipped for battle. They were thirsting for blood and craving the spoils which were to come into their possession. They saluted <persName key="Lee, John D.">Lee</persName> as their "Big Captain," wanted him to take command at once and lead them into the battlefield.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">"I told them I could not go that evening," confesses <persName key="Lee, John D.">Lee</persName>, "but that there were orders to assemble and send other Indians on the warpath to kill the immigrants that required his attention. He directed the painted warriors to a point near the place where the immigrant train was encamped; there they were to ambush themselves, until joined by other Indian comrades on the following day. His Indian boy, <persName key="Lee, Clem">Clem</persName>, joined this band at their solicitation, assuming the prerogative of an aide-de-camp. On reaching his home, <persName key="Lee, John D.">Lee</persName> ordered <persName key="Shirts, Carl">Carl Shirts</persName>, a cowardly sort of chap, to get on his horse, go among the Indian tribes, and stir them to action&#8212;which he consented to do, when he was told that these were orders from headquarters.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle">"The warriors first on the battlefield forgot their instructions about staying in ambush. Early next morning, several hundred strong, they attacked the immigrants. <seg type="Massacre" subtype="Casualties">At the first fire they killed seven</seg> and wounded sixteen. The immigrants fought bravely, repulsed the Indians, killing some of them and breaking the knees of two war chiefs, who afterwards died.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">"News of the battle was carried all over the country by Indian runners, causing great excitement in all the small settlements. An Indian came to my house, told me the story of the battle and said the tribe wanted me to lead them. I started at once, took the Indian trail over the mountain, reached their camp about 12 miles from <placeName type="settlement" key="Harmony, UT">Harmony</placeName>. The Indians were in a frenzy, because of the loss of their <choice><orig>com-
+
+<pb n="165" xml:id="mmm.uh.olson.1931.165"/>
+
+panions</orig><reg>companions</reg></choice> and the sufferings of the wounded. They cried out their vengeance upon the 'Mericats,' I was alone with this wild-eyed band of savages, who were determined upon the slaughter of the colonists. I left them and met <persName key="Shirts, Carl">Shirts</persName> with about 100 Indians and a few white men from the south on their way to the battlefield. All were armed. The whites camped with me that night, the Indians joining their friends at their place of seclusion. I spent a most miserable might. I wrestled with God for wisdom to guide me, asked for some sign, some evidence, that would satisfy me that my mission was from Heaven, but I got no satisfaction from God. In the morning we all agreed to go on together to <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, and camp there. We knew that the original plan was for the Indians to do all the work, the whites to stay in the background and plan for them. Now, we knew that the Indians were not equal to the task. I did not know that a messenger had been sent to <persName key="Young, Brigham">Brigham Young</persName> for instructions. It had not been mentioned to me.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">"We went to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> and camped by the springs about half a mile from from the immigrants. There were gathered together about 400 Indians. The two chiefs who were shot about the knees were in a bad fix. <seg type="Massacre" subtype="Spoils">The Indians had circled about and killed a number of the immigrants' horses and left about sixty or seventy head of cattle lying dead on <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> which had been killed for revenge.</seg> Our company killed a young steer for dinner. Along toward evening the Indians again made an attack. <seg type="Massacre" subtype="Dates">This was Wednesday</seg>. I heard the report from their guns and the screams of the women and children in the corral. This was more than I could stand. <seg type="Massacre" subtype="Casualties">I rushed over to them to ask them to spare the lives of the little ones.</seg> I became so perplexed that my mind is not clear on the subject of just how things happened.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">"<seg type="Massacre" subtype="Dates">On Thursday</seg> we were joined by a company of white men from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. We were all posted as to what we were to do. We moved camp about 400 yards farther up the valley on the hillside, where we remained during this trouble. Every once in awhile the white men would take arms and fire at the wagons which were made into a corral. It was amusing to watch one man who was shooting at a mark about a quarter of a mile away, and his gun would only carry a ball about 200 yards. He was shooting from under a tree, taking dead rest over a rock.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"On the second day, the immigrants drew their wagons
+
+<pb n="166" xml:id="mmm.uh.olson.1931.166"/>
+
+near each other, chaining the wheels one to the other. Their camp was now about 100 yards above and north of the spring. They usually went for water at night.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">"<seg type="Massacre" subtype="Dates">Thursday</seg>, I saw two men start from the corral with buckets, run to the spring, fill their buckets with water and then go back again. The bullets flew around them thick and fast but they got back into their corral safely. <seg type="Blame" subtype="IndiansIndependently">About this time the Indians made a determined attack on the train. <seg type="Massacre" subtype="Casualties">One brave, belonging to the Clara Indians, was killed and three warriors wounded.</seg> <seg type="Massacre" subtype="Spoils">They became much enraged, left for home, driving away a little herd of cattle belonging to the Gentiles.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"I then decided to cross over the valley and go up the hill on the other side to the west of the corral, and take a look at the situation. While crossing the valley, I was seen by the immigrants. Discovering that I was a white man they ran up a white flag in the middle of the corral or camp. They then sent two little boys to talk to me. I hid to keep away from the children. They came to the place where they last saw me, hunted around for me, but being unable to find me, went to the camp in safety. It is all false that has been told about little girls being dressed in white and sent out to me.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"I stayed on the west side of the valley about two hours with my eyes upon the camp below, conscience-stricken over what was in store for the unfortunate company. While I was standing on the hill, I saw two men leave the corral, going outside to cut some wood. <seg type="Massacre" subtype="Battle">The Indians and whites kept up a steady fire on them all the time, but they paid no attention to danger, kept right along at their work until it was done, and then went back into camp. They all acted so bravely that it was impossible to keep from respecting them.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">"<seg type="Massacre" subtype="Dates">On Thursday evening</seg>, there came from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> two or three wagons with a number of men, well armed, who were to take part in the work of death soon to follow. Our total force was now 30 whites and over 300 Indians. All the whites gathered at my place of encampment. There it was learned or decided that <seg type="Massacre" subtype="Casualties">all of the immigrants were to be put out of the way, none who were old enough to talk to be spared</seg>.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="UtahWar">"The sentiment at the council of war was: These Gentiles are our enemies. They have no permit to leave <placeName type="state" key="Utah Territory">the
+
+<pb n="167" xml:id="mmm.uh.olson.1931.167"/>
+
+Territory</placeName>. They are sworn enemies and must be killed. They are but a portion of <persName key="Johnston, Albert Sidney">Johnston</persName>'s army. If allowed to go to <placeName type="state" key="California">California</placeName>, they will raise a warcloud that will bring certain destruction upon all our settlements. The only safety is utter destruction.</seg> <seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="MissouriWildCats">One more rabid than the rest said: There is not a drop of innocent blood in them, they are cut-throats, robbers, assassins, who drove the Saints from <placeName type="state" key="Missouri">Missouri</placeName>, aided in the assassination of the Prophet <persName key="Smith, Joseph">Joseph</persName>, and his brother <persName key="Smith, Hyrum">Hyrum</persName>!'</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">"The men then in council knelt down in prayer and invoked the Spirit of God to direct them how to act. <seg type="Massacre" subtype="Surrender">The plan was to decoy the victims from their position</seg> and <seg type="Massacre" subtype="Casualties">kill all who could talk. None were to be left to tell the tale</seg>. <seg type="Massacre" subtype="Spoils">They then discussed the division of the stock; how much was to go to the Indians, and other details.</seg></seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="RescueAttempt">"It is a fact that <seg type="Massacre" subtype="Dates">on Wednesday night</seg> two immigrants started for <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, hoping to obtain assistance from the whites. Upon reaching a spring along the road they met three white men. While the Gentiles were drinking at the spring, one of the Mormons shot and killed one of the immigrants, a young man by the name of <persName key="Aden, William A.">Alden</persName>. As he fell from his horse, the other Gentile was shot but only slightly wounded. The latter dashed away and succeeded in reaching the immigrant train. Now, it was known that the Indians were receiving the support of the whites.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"<seg type="Massacre" subtype="Casualties">'We must kill them all,'</seg> was commanded. 'Get them out by treachery, if no other thing can be done to get them into our power.' It was decided that the immigrants were to be decoyed from their stronghold under promise of protection. I was to arrange terms of surrender while one of the brethren carried the flag of truce beside me. All children who could not talk were to be put in a wagon with the wounded. All arms and ammunition belonging to the immigrants to be put in another wagon. I was to agree that the Mormons would protect the immigrants from the Indians, take them to safety to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, where they would be succored and finally sent to <placeName type="state" key="California">California</placeName>. Then the wagons containing the arms, children and wounded, were to be started for <persName key="Hamblin, Jacob">Hamblin</persName>'s ranch. The women were to march on foot following the wagons in single file, the men to follow behind, also in single file. The major of the militia (<persName key="Higbee, John M.">Higbee</persName>) was to arrange his men in double file, about 200 yards away, with 20 feet space between the files, allowing room for the
+
+<pb n="168" xml:id="mmm.uh.olson.1931.168"/>
+
+wagons to pass between them, drivers of wagons to keep right along, not stopping while passing the troops. The women to follow the wagons. Troops to halt the men for a few minutes, until the women were some distance ahead, and <seg type="Blame" subtype="IndiansLDSInfluence">cut into the cedars where the Indians were ambushed.</seg> Then the march to be resumed. The troops to form in single file, each soldier to walk by the side of an immigrant, on the right side of his man, and carry his gun on his left arm ready for instant use. The march was to continue until the wagons had passed beyond the Indians' hiding-place and until the women were right in the midst of the red men. The commander was then to give the order 'Do your duty !' The troops were then to shoot down the men, <seg type="Blame" subtype="IndiansLDSInfluence">the Indians to kill all the women and larger children</seg>, the drivers and I were to kill all the wounded and sick men that were in the wagon.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">"Two men were picketed on horseback to prevent any possible escape. To escape the odium or penalty of shedding 'innocent blood,' the Indians were assigned the 'duty' of slaughtering the women and children.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning">"<seg type="Massacre" subtype="Dates">It was after daylight Friday morning</seg> when this council of strategists adjourned their meeting. <seg type="Context" subtype="UtahWar">They were under the illusion that they were acting in harmony with the war measures adopted by the church in their clash with <persName key="Johnston, Albert Sidney">Johnston</persName>'s army, and that all Gentiles were belligerents to be destroyed."</seg></seg></p>
+
+<p>At this time the Mormon people were in full blaise of a reformation, the Saints being zealous to perform some act that would add to their reputation and glory in the Kingdom of God. "I took up my cross and prepared to do my duty," avers <persName key="Lee, John D.">Lee</persName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Surrender">"Two Indian interpreters (<persName key="Shirts, Carl">Shirts</persName> and <persName key="Johnson, Nephi">Johnson</persName>), were detailed to acquaint the red men with the plans. The latter being in ambush, led the victims to believe that they had been dismissed and that the covenants with the whites were genuine. Not a dusky warrior was to be seen in the valley. They had followed instructions and secreted themselves among the cedars, lying on logs of wood and huddled behind the trees and sagebrush.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"<seg type="Massacre" subtype="Planning">I explained the whole plan thoroughly to all who were to take part.</seg> The major's men advanced on foot to the spot agreed upon, and halted. The peace messenger (<persName key="Bateman, William L.">Bateman</persName>), carried the flag of truce to the enemy and demanded <choice><orig>sur-
+
+<pb n="169" xml:id="mmm.uh.olson.1931.169"/>
+
+render</orig><reg>surrender</reg></choice>. The white flag still fluttered in the breeze at the corral. A man named <persName key="Hamilton">Hamilton</persName>, from the immigrants, met the peace commissioner (<persName key="Bateman, William L.">Bateman</persName>), and was given the assurance that relief was at hand. Upon his return to the Mormon camp, he advised the council that the Gentiles had accepted the terms of surrender.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"I went to the corral," says <persName key="Lee, John D.">Lee</persName>, "and negotiated the treaty, superintending the whole matter.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"Two drivers <persName key="McMurdy, Samuel">McMurdy</persName> and <persName key="Knight, Samuel">Knight</persName>) followed me with their wagons to haul off the children and arms, also to put the children, the sick and the wounded in the wagons. The troops formed as had been planned, before I left for the corral. I walked ahead of the wagons up to the immigrant camp. I met <persName key="Hamilton">Hamilton</persName> on the outside. He loosened the chains from some of their wagons, moved one wagon out of the way to allow our teams to drive inside. It was then about noon. I found that the immigrants were strongly fortified. In the center of the circle of chained wagons was a rifle pit, large enough to contain the entire company. This had protected them from the storm of lead that had been poured in upon them from all sides. At this point the valley is not more than 500 yards wide. The immigrants' camp is near the center. On the east and west is a low range of rocky mountains, <seg type="Blame" subtype="IndiansLDSInfluence">where the Indians and Mormons could seclude themselves and fire upon the immigrants with safety.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Casualties">"When I entered the corral, they were burying two men of note who had been wounded when the first attack was made by the Indians. Wrapped in buffalo robes, they were buried in the corral. They said seven men had been killed and seventeen wounded at the first attack.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Casualties">"Three of the wounded had since died.</seg> Men, women, and children, gathered around me in wild consternation. Some were filled with joy, thinking their time of deliverance had come. Others in deep distress and tears, looked upon me with doubt, distrust and terror. My feelings I cannot describe; they can be imagined. My brain was on fire, my nerves unstrung; humanity overpowered me as I thought of the cruel unmanly part I was playing. Suppressing my tears and emotions, I told the people to put all their arms into the wagons in order not to arouse the Indians. The children, the wounded, some clothing, and the arms, were then loaded into the wagons. The guns were mostly <choice><orig>Ken-
+
+<pb n="170" xml:id="mmm.uh.olson.1931.170"/>
+
+tucky</orig><reg>Kentucky</reg></choice> rifles of the muzzle-loading style. Their ammunition was nearly exhausted. With a good supply they would never have surrendered, as they were brave, sturdy men, showing a determination that was very impressive.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"When the wagons were loaded, <persName key="Macfarlane, Daniel S.">McFarland</persName> came riding at top speed into the corral and said: 'Make haste, the Indians are about to make another attack. Get these people to a place of safety.' In great hurry and turmoil the wagons rattled away toward <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> on the east. I directed the drivers to turn to the left so the troops would be to the right. <persName key="Macfarlane, Daniel S.">McFarland</persName> led the women right up to the troops who were standing in the order I had directed. The women were ahead, the men followed.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"The foremost man was about 50 yards behind the hinder-most woman. On went the women and children hurriedly by the troops. When the men came up they waved their hats and cheered the soldiers, hailing them as deliverers. Soldiers then formed in single file at the right of the immigrants as though in preparation for a march to safety. Our wagons passed on over the hills and out of sight. It was my duty, with the two drivers, to kill the sick and wounded, who were in the wagons, at the report of the guns from the other side of the hill, which signaled the death of the men and women.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"Suddenly we heard the rapid reports from the guns we proceeded to perform our part of the ghastly work. I pause here in emotion in the thought of deeds done on that dark day, in the name of Israel's God, by misguided fanatics.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">"<seg type="Massacre" subtype="Casualties">One little child about six months old was carried in her father's arms; the child was killed by the same bullet that entered its father's breast; it was shot <choice><sic>thru</sic><corr>through</corr></choice> the head. I saw it lying dead as I returned to the place of slaughter.</seg> As I said before, when we were out of sight I heard the report of the guns first I heard one shot this was followed by a volley.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS">"We stopped the wagons, the drivers jumped out, each had a rifle. <seg type="Massacre" subtype="Casualties">One driver then shot a man who was lying with his head on another man's breast the ball killed both men.</seg> In my excitement in using my pistol, I accidentally shot a bullet across the thigh of one of the drivers, cutting his buckskin pants. He hollered 'keep cool, Brother <persName key="Lee, John D.">Lee</persName>.'</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"The driver then shot a man in the head and brained a boy about 14 years old, striking him on the head with the
+
+<pb n="171" xml:id="mmm.uh.olson.1931.171"/>
+
+butt of a gun as he came running by the wagon. It crushed his skull.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="IndiansLDSInfluence">"Then came the Indians, who proceeded to kill all the sick and wounded. I saw <persName key="Indian Joe">Indian Joe</persName>, of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, catch a man by the hair, raise him up, look into his face, and as the man closed his eyes in despair, shot him in the head. The Indians examined all the wounded in the wagons, turning over bodies to see if they were alive. All that showed any signs of life were instantly shot.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"I was accused by <persName key="Johnson, Nephi">Nephi Johnson</persName> of cutting a man's throat. This I deny. I saw a girl about 10 years old running toward us from where the troops had attacked the main body. She was covered with blood. When in about 50 yards from us <seg type="Blame" subtype="IndiansLDSInfluence">an Indian shot her</seg>. That was the last person I saw killed.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Survivors">"I saw an Indian rushing toward the front wagon, trying to catch a little boy and kill him. The lad ran into my arms, begging me to save him, which I did, afterwards adopting him and giving him to <persName key="Lee, Caroline">Caroline</persName>" (one of his several wives). "He said he was Captain <persName key="Fancher, Alexander">Fancher</persName>'s <persName key="Fancher, Christopher Kit Carson (Charles)">son</persName>. He was a bright boy. I kept him until Dr. <persName key="Forney, Jacob">Fooney</persName> took the children east that had escaped death.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">"When we saw that all were dead, the bodies were thrown out of the wagon about 100 yards from the road.</seg> <seg type="Massacre" subtype="Survivors">The children that were spared from the slaughter&#8212;there were 16 of them&#8212;were taken to <persName key="Hamblin, Jacob">Hamblin</persName>'s ranch.</seg> <seg type="Massacre" subtype="Casualties">I then turned and walked back to join the brethren; passed the bodies of several women, lying dead on the ground near one another. They were stripped perfectly naked, their clothing having been torn from their bodies by the Indians. Then I walked to where the immigrants had been massacred, finding many bodies naked on the field. There were ten children that had been killed, close together; horses were seen scattered all along the road, as I approached the spot where the men were killed.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"<seg type="Massacre" subtype="Casualties">There were about 110 killed that day on the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>. Adding those who were killed in the corral would make the total about 121. The brethren then described how the deed was done: 'At the word of command the boys took aim and all of the Gentiles but two or three fell at first fire. Three or four got away and ran some distance but the men on horseback soon overtook them and cut their throats. <seg type="Blame" subtype="IndiansLDSInfluence">The Indians did their part well.</seg> It did not take more than
+
+<pb n="172" xml:id="mmm.uh.olson.1931.172"/>
+
+a minute to finish the job when we got fairly started. Orders were carried out to the letter. Three of the immigrants who had escaped from the corral and were making their way westward through the mountains and deserts were <seg type="Blame" subtype="IndiansLDSInfluence">afterwards captured by the Indians who had been set on their trail. They had their throats cut and were scalped.</seg> <seg type="Massacre" subtype="Spoils">All bodies were searched for valuables. I held the loot while the others put in watches, money and trinkets.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"We then held council. All pledged themselves to keep this a secret from the entire world. Not even our wives were to know of this horrible deed.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">"It was a loathsome and ghastly scene that met our gaze, as we went next morning to bury the dead. Naked bodies dappled in blood were strewn over the ground.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">"'My God,' said one of the brethren, 'I did not think there were so many of them or I would have had nothing to do with it:</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">"The brethren piled the bodies in heaps, in little gullies, and then threw dirt over them. They were slightly covered, owing to the hardness of the ground and the lack of tools.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">"They say the first rains washed the bodies all out again.<seg type="Massacre" subtype="Spoils"> When we went to the corral it was found that the Indians had carried away the wagon covers, clothing, provisions and the bedticks after the feathers had been emptied out.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"After the burial and dispositions of property, we again met in council; opened with prayer. <seg type="Blame" subtype="IndiansIndependently">It was here agreed that the entire responsibility for the deed was to be put upon the redmen</seg>, when any facts leaked out; but again they took oaths of secrecy. Death was the potion to be meted out to the traitor.</seg></p>
+
+<p><seg type="Massacre" subtype="Survivors">"The children who were saved were taken to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> and other settlements and given into the care of some of the families who kept them until Dr. <persName key="Forney, Jacob">Fooney</persName>, an agent of the United States government, came for them.</seg> <seg type="Massacre" subtype="Spoils">The property of the victims consisted of 18 wagons, wooden axles (there was one light iron axle); 500 head of cattle. Some the Indians drove off, some were taken to my farm at <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and some were driven to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and exchanged for merchandise that was brought back to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. The horses and mules, about 75 head, were distributed among the brethren. The immigrants were well to do; were dressed in Kentucky jeans and lindsey and had an elaborate outfit for traveling."</seg> <seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="IndiansLDSInfluence">(<persName key="Lee, John D.">Lee</persName> wore a hickory shirt, straw hat and
+
+<pb n="173" xml:id="mmm.uh.olson.1931.173"/>
+
+Homespun pants. "There were bullet holes in his clothing and two in his hat," said a witness at his trial, "which he received while attacking the camp with the Indians.")</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">"The next spring <persName key="Hamblin, Jacob">Jacob Hamblin</persName> reburied <seg type="Massacre" subtype="Casualties">120 skeletons</seg> found strewn over the place of the massacre.</seg> <seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">An Indian chief brought two young girls from a thicket of oak brush, where he had them concealed, and asked <persName key="Lee, John D.">Lee</persName> what was to be done with them. <persName key="Lee, John D.">Lee</persName> cut the throat of one and the chief killed the other.</seg></seg></seg><ref target="n01">1</ref></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="IndiansLDSInfluence">"The chief had said these pretty girls 'didn't ought' to be killed, but <persName key="Lee, John D.">Lee</persName> protested that they were able to talk, and the orders were that they be killed. All the Indians stood around as the chief, upon the order given by <persName key="Lee, John D.">Lee</persName></seg>, shot one of the girls, as she crouched and pulled her bonnet over her face. Then <persName key="Lee, John D.">Lee</persName>, with knife in hand, approached the other&#8212;a seventeen year old girl&#8212;threw her upon the ground, while she pleaded in tears for her life, and said, 'Save me and I will love you as long as I live'&#8212;and then drew the blade across her throat, that silenced her voice forever."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><seg type="Massacre" subtype="Aftermath"><persName key="Hamblin, Jacob">Jacob Hamblin</persName>, a witness at <persName key="Lee, John D.">Lee</persName>'s trial, visited the scene of the massacre sometime later and saw the putrid bodies of these young girls. Both throats were cut. They were about 50 yards from the main body near a thicket.</seg> <seg type="Massacre" subtype="Survivors">The witness testified that a little girl, eight years of age, who was left at his (<persName key="Hamblin, Jacob">Hamblin</persName>'s) ranch, told him that one of the girls was her sister.</seg> The little girl's name was <persName key="Dunlap">Dunlap</persName>. "<persName key="Hamblin, Albert">My little Indian boy</persName> told me the story about the girls, which was verified by <persName key="Lee, John D.">Lee</persName>'s own words to me," said the witness.</seg></seg></p>
+
+<p>"I am positive of these facts," says <persName key="Hamblin, Jacob">Jacob Hamblin</persName>, a Mormon, at the trial, "or I wouldn't have told them."</p>
+
+<p>For months the deputy marshals had hunted throughout southern <placeName type="state" key="Utah Territory">Utah</placeName> in an endeavor to arrest <persName key="Lee, John D.">John D. Lee</persName> for these ghastly murders. One morning in November after traveling all night in sleet and snow they arrived in <placeName type="settlement" key="Panguitch, UT">Panguitch</placeName>. They had been advised that the accused was in hiding there. All was quiet in the town. No persons seemed to be aware of the existence of such a man as <persName key="Lee, John D.">Lee</persName>. During the search a small boy secretly sought Marshal <persName key="Stokes, William">Stokes</persName>' ear and whispered, "He is in that log pen behind that log house." The premises belonged to <persName key="Lee, John D.">Lee</persName>. Here he kept one of his wives, two grown sons and a daughter. Two deputies kept watch upon the house. <persName key="Lee, John D.">Lee</persName>'s sons were belligerent, exhibiting <choice><orig>re-
+
+<note xml:id="n01">1 See <persName key="Lee, John D.">Lee</persName>'s Trial, Mormonism Unveiled, page 366;.</note>
+
+<pb n="174" xml:id="mmm.uh.olson.1931.174"/>
+
+volvers</orig><reg>revolvers</reg></choice>. Guns were shown by the officers and the boys found their bluff was useless. One officer peeped in the hole which was a kind of door to the pen but saw nothing but straw.</p>
+
+<p><persName key="Stokes, William">Stokes</persName> found a hole in the roof, looked in and saw <persName key="Lee, John D.">Lee</persName>'s face peeking out of the straw. Leveling his gun at his head he said, "<persName key="Lee, John D.">John D. Lee</persName>, you are under arrest and I ask you to surrender."</p>
+
+<p>He said, "All right boys, I surrender," rose up with revolver in hand pointed downward. As he gave up his arms, he observed the tears of his wife and family and said, "Never mind, it's all right."</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">He was forthwith taken to <placeName type="settlement" key="Beaver, Ut">Beaver</placeName>, put on trial, and convicted of murder in the first degree. Great crowds of people assembled at the trial full of expectancy that something horrifying in the way of new sensations was to be brought to light. It was a court drama never to be duplicated in the fair state of <placeName type="state" key="Utah Territory">Utah</placeName>. On the 23rd of March, 1877, <persName key="Lee, John D.">Lee</persName> was executed on <seg type="Massacre" subtype="Location">the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, at the scene of the massacre</seg>.</seg></p>
+
+<p>There were present United States marshal, a guard, the district attorney who prosecuted the case, about twenty citizens, and a few newspaper correspondents. <seg type="Massacre" subtype="Aftermath">It was a dreary, desolate place they viewed as <persName key="Lee, John D.">Lee</persName> recapitulated the events of the massacre and pointed to the spots where certain horrors were committed. As though cursed, the green grass had disappeared&#8212;they now looked upon a barren surface spotted with dry sage and scrub oak, the ground being cut with deep gullies. The yokels were loath to linger there, refused to camp upon the ground fearing that the ghosts of the slaughtered immigrants&#8212;as a superstition has been conceived&#8212;met nightly at the gruesome scene and re-enacted in pantomime the occurrences of the massacre.</seg> Sentinels were posted about the hills fearing an attack and an attempted rescue by the sons of the doomed man. Wagons were placed in line near <seg type="Reaction" subtype="Commemoration">an old monument that marked the spot where the massacre occurred</seg>, over the wheels army blankets were drawn, to ambush the firing squad. No one was to be allowed to identify the men at the guns, fearing vengeance from relatives and friends of <persName key="Lee, John D.">Lee</persName>. The carpenters nailed together the rough pine boards out of which the coffin was made. <persName key="Lee, John D.">Lee</persName> quietly observed the operations. All
+
+<pb n="175" xml:id="mmm.uh.olson.1931.175"/>
+
+were stationed about to witness the last scene in the life of the condemned murderer.</p>
+
+<p>When all was in readiness Marshal <persName key="Nelson, William">Nelson</persName> said, "Mr. <persName key="Lee, John D.">Lee</persName>, if you have anything to say, you may say it now."</p>
+
+<p>"I wish to speak to that man"&#8212;pointing to <persName key="Fennemore, James">Fennemore</persName>, the photographer&#8212;"I want you to furnish my three wives a copy each."</p>
+
+<p>"All right," came the answer.</p>
+
+<p><persName key="Lee, John D.">Lee</persName> then posed for the picture, seated on his coffin. Standing up he delivered himself of some sentiments. When referring to parting from his family and orphaned children, his voice faltered and tears stole down his cheeks. "I ask a favor of the guards. Spare my limbs, center my heart."</p>
+
+<p>The marshal bound a handkerchief over his eves. His hands were free. He straightened up his shoulders, seated upon the the coffin, head erect, clasping his hands to the side of his head. "Shoot straight to the heart," he exclaimed as the orders were given: "Ready! Aim! Fire!" At the word "fire" came a sharp report from guns and <persName key="Lee, John D.">Lee</persName> fell back into his coffin dead and motionless.</p>
+
+<p>Thus fell one of the most colorful characters in Mormon history, the husband of nineteen wives and father of fifty-four children.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><persName key="Lee, John D.">Lee</persName>'s frantic effort to implicate all Mormon authorities in this, the most appalling crime of the early history of the great west, was somewhat abortive.</seg></p>
+
+<p>Instructions given over the signatures of <persName key="Young, Brigham">Brigham Young</persName> and <persName key="Wells, Daniel H.">D. H. Wells</persName> before the massacre, attached to which was the Notarial Seal of <persName key="Jack, James">James Jack</persName>, which were directed to <persName key="Dame, William H.">Wm. Dame</persName> of the <placeName type="state" key="Utah Territory">Utah</placeName> militia, contained the following: <seg type="Context" subtype="UtahWar">"If the government of the United States send in an overpowering force, we will desolate <placeName type="state" key="Utah Territory">the Territory</placeName>, lay waste everything. <seg type="Context" subtype="IndianRelationsLDS">Conciliate the Indians; make them our fast friends.</seg> You and Brother <persName key="Haight, Isaac C.">Haight</persName> are authorized to give permits for the passing of strangers and suspects. Let there be no excitement. Save the grain and provisions. We do not wish to shed a drop of blood if it can be avoided."</seg> This was filed as evidence at the trial of <persName key="Lee, John D.">Lee</persName></p>
+
+</body>
+</floatingText>
+</div1>
+</body>
+</text>
+</TEI>

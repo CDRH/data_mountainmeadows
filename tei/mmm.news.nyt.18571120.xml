@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18571120">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Latest Intelligence</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18571120</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+	    <sourceDesc>
+		<bibl>
+		    <title level="a">LATEST INTELLIGENCE</title>
+		    <title level="j">New York Times</title>
+		    <author>Editor New York Times</author>
+		    <publisher>New York Times</publisher>
+		    <pubPlace>New York, NY</pubPlace>
+		    <date when="1857-11-20">1857-11-20</date>
+		</bibl>
+	    </sourceDesc>
+
+    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	   <keywords scheme="original" n="culpability">
+		<term>Mormon and Indian</term>
+	    </keywords>
+	    <keywords scheme="original" n="sympathy">
+		<term>Non-Mormon</term>
+	    </keywords>
+	</textClass>
+     </profileDesc>
+
+    <revisionDesc>
+	<change when="2007-05-06"><name>Leslie Working</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+	<change when="2004-01-01"><name>Will Bagley</name> Original transcription</change>
+     </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+<pb n="unknown" xml:id="mmm.news.nyt.18571120.001"/>
+    
+<head type="main">LATEST INTELLIGENCE</head>
+
+<head type="sub">By Telegraph to the New-York Times.</head>
+
+    <milestone unit="horbar" />
+
+    <head type="sub">Magnetic Telegraph Co.'s Office&#8212;No. 43 Wall st., and 181 Broadway</head>
+       
+    <milestone unit="horbar" />
+    
+    <head type="sub">FROM WASHINGTON></head>
+    
+    <milestone unit="horbar" />
+    
+    <head type="sub">The Late Indian Massacres and the Mormons</head>
+    
+    <milestone unit="horbar" />
+    
+    <head type="sub">The Utah Expedition&#8212;Fears for other Transportation Trains.</head>
+    
+    <milestone unit="horbar" />
+    
+    <head type="sub">The Departure of General Walker for Nicaragua.</head>
+    
+    <milestone unit="horbar" />
+        
+    <head type="sub">Important Decision by the Commissioner of Patents&#8212;Refusal to Grant a Patent for the New Policemen's Club.</head>
+    
+    <milestone unit="horbar" /> 
+    
+    <head>From Our Own Correspondent.</head>
+    
+    <opener><dateline>WASHINGTON, <date when="1857-11-19">Thursday, Nov. 19</date></dateline></opener>
+
+<p><seg type="Coverage" subtype="Eastern"><seg type="Blame" subtype="IndiansLDSInfluence">I learn from an intelligent gentleman, who has spent two or three years among the Salt Lake <orgName type="religious" key="Church of Jesus Christ of Later-day Saints">Mormons</orgName>, a fact or two tending to confirm the suspicion that <seg type="Massacre" subtype="Casualties">the recent horrible massacre of over 100 California emigrants</seg>, by the <orgName type="native" key="Southern Paiute">&#8220;Santa Clara&#8221; Indians</orgName>, was perpetrated under the influence of the Mormon leaders.</seg></seg></p>
+
+<p><seg type="Coverage" subtype="Eastern"><seg type="Context" subtype="IndianRelationsUS">It is evident that the savages who perpetrated this outrage are the same band who cut off <persName key="Gunnison, John">Captain GUNNISON</persName> and his command&#8212;for they are the only band of <orgName type="native" key="Pahvant">Indians at <geogName type="waterway" key="Corn Creek">Corn Creek</geogName></orgName> who raise grain and have it to sell.</seg></seg></p>
+
+<p><seg type="Coverage" subtype="Eastern"><seg type="Context" subtype="IndianRelationsUS">They are the same, also, who, a year or more ago, came very near massacring <persName key="Hurt, Garland">Dr. HURT</persName>, United States Indian Agent, <persName key="Burr, David">Mr. BURR</persName>, United States Surveyor-General, and their party, at the suggestion of Mormon emissaries, who rode into the Indian village a few miles ahead of them, and announced that the Indian agent and his friends were coming to arrest and punish them for <persName key="Gunnison, John">GUNNISON</persName>'S murder. On that occasion, fortunately, they were accompanied by the War Chief of a neighboring friendly tribe, who succeeded, with difficulty, in satisfying the Indians that they were on a friendly visit.</seg></seg></p>
+
+<p><seg type="Coverage" subtype="Eastern"><seg type="Encounter" subtype="TradeIndian"><persName key="Kanosh">KENOSH</persName>, the chief of these Indians, is a very intelligent man, who knows the value of United States coin, and the cost of blankets, &amp;c., as well as any white man, so that the story of his having been cheated in trade by the emigrants, as related, is simply ridiculous. The story is evidently forged to give plausibility to the idea that the whites had provoked their fate.</seg> </seg></p>
+
+<p><seg type="Coverage" subtype="Eastern"><seg type="Context" subtype="IndianRelationsLDS"><persName key="Kanosh">KENOSH</persName> is known to be very much under the influence of <persName key="Young, Brigham">BRIGHAM YOUNG</persName>, who has a young squaw in his family, with whom the chief is deeply in love. The dusky inamorata, however, refuses to go off to live with <persName key="Kanosh">KENOSH</persName>; but the latter is encouraged by <persName key="Young, Brigham">BRIGHAM</persName> to hope for success in due time, through his influence, and is in turn stimulated by the Mormon leader to become the instrument of his vengeance. <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Context" subtype="PrattMurder">There is too much reason to believe that the unfortunate emigrant company were massacred by Mormon direction, in revenge for the killing of <persName key="Pratt, Parley P.">Elder Parley Pratt</persName>.</seg></seg></seg></seg></p>
+
+<p><seg type="Coverage" subtype="Eastern"><seg type="Context" subtype="UtahWar">I learn, also, that <persName key="Hickman, Bill">BILL HICKMAN</persName> and <persName key="Smith, Lott">LOTT SMITH</persName> (erroneously published Locksmith,) who headed the party which recently destroyed the train containing supplies for the troops on their way to Utah, are two of the most notorious leaders of the Mormon &#8220;Danite Band,&#8221; or &#8220;Destroying Angels.&#8221; </seg><seg type="Blame" subtype="LDS_LDS">In view of this fact, the man must be very weak who can be deceived by <persName key="Young, Brigham">BRIGHAM YOUNG</persName>'S declaration that he knew nothing in relation to, and was entirely innocent of, the outrage in which his followers thus participated.</seg></seg></p>
+
+<p>There is reason to believe that <persName key="Young, Brigham">BRIGHAM YOUNG</persName> has fully made up his mind that the must leave Utah next Spring, which will account for the suicidal policy he is now pursuing. It seems that part of the mission to England, of Elders <persName key="Pratt, Orson">ORSON PRATT</persName> and <persName key="Benson, Ezra T.">EZRA T. BENSON</persName>, (who are still abroad,) was to seek from the British Government permission to settle in the British possessions. The application was refused.</p>
+
+<gap reason="irrelevant" />
+    
+<!--&#91;Ed note: The remainder of the article is outside the scope of this project.&#93; text not transcribed or encoded -->
+
+</div1>
+</body>
+</text>
+</TEI>

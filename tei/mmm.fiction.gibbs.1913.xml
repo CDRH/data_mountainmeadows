@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.fiction.gibbs.1913">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Kawich's Goldmine: An Historical Narrative of Mining in the Grand Canyon of the Colorado and of Love and Adventure Among the Polygamous Mormons of Southern Utah</title>
+                <title level="m" type="sub"></title>
+                <author><forename>Josiah</forename> <forename type="middle">F.</forename> <surname>Gibbs</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.fiction.gibbs.1913</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m">Kawich's Goldmine: An Historical Narrative of Mining in the Grand Canyon of the Colorado and of Love and Adventure Among the Polygamous Mormons of Southern Utah</title>
+                    <author><forename>Josiah</forename> <forename type="middle">F.</forename> <surname>Gibbs</surname></author>
+                    <publisher>Century Printing Company</publisher>
+                    <pubPlace>Salt Lake City, UT</pubPlace>
+                    <extent>19; 25-31; 51-60; 87; 155-156; 162-167; 223; 226-227</extent>
+                    <date when="1913">1913</date>
+                    <note type="source">Josiah F. Gibbs. <hi rend="italic">Kawich's Goldmine: An Historical Narrative of Mining in the Grand Canyon of the Colorado and of Love and Adventure Among the Polygamous Mormons of Southern Utah</hi>. Salt Lake City, UT: Century Printing Company, 1913. 19; 25-31; 51-60; 87; 155-156; 162-167; 223; 226-227.
+                    </note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>fiction</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2012-02-23"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting
+            </change>
+            <change when="2010-12-07"><name>Jaclyn Cruikshank Vogt</name> Initial Encoding
+            </change>
+            <change when="2009"><name>Laura Weakly</name> Model Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+<text>
+<body>
+
+<div1 type="chapter">   
+
+<gap reason="irrelevant" />
+
+<pb n="19" xml:id="mmm.fiction.gibbs.1913.025"/>
+
+<p><seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="LDS_LDSRetribution">Almost daily in the <placeName type="settlement" key="St. George, UT">St. George</placeName> temple, as in every Mormon temple in <placeName type="state" key="Utah Territory">Utah</placeName>, are heard the mumblings of lecherous, fanatical priests as they monotonously repeat the threadbare oath of obedience to the Mormon priesthood, and the oath of vengeance which obligates every devotee to "pray, and never cease to pray Almighty God to avenge the death of the prophets (<persName key="Smith, Joseph">Joseph</persName> and <persName key="Smith, Hyrum">Hyrum Smith</persName>) on this nation," and of which the Mountain Meadows massacre was a logical sequence.</seg></seg></p>
+
+<p>It is within the secret chambers of the temples that treason to the government of the United States is taught, and enjoined on every one who enters those accursed ediiices,&#8212;the awe-inspiring Meccas of driveling fanatics, the sanctuaries of priest-ridden serfs; and all the treacherous lying of the prophets and their missionary dupes cannot affect the truth of the above statements which the writer of this knows to be true.</p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<div1 type="chapter">   
+
+<head>IV.</head>
+         
+<pb n="25" xml:id="mmm.fiction.gibbs.1913.031"/>
+                
+<p>That evening Brown told his wife that he would like to consult her on an important matter. From his haggard face the wife knew that something was deeply worrying her husband. The price of cattle was going down, and Mrs. Brown thought he wanted to consult her on some financial matter.</p>
+
+<p>The younger Clara was present, and Brown suggested that she leave the room. Mrs. Brown gently protested they had no secrets
+                
+<pb n="26" xml:id="mmm.fiction.gibbs.1913.032"/>
+                
+which could not be discussed in the presence of the child, and asked that she be permitted to remain,&#8212;the unusual suggestion worried her.</p>
+
+<p>In a few words Brown told his wife of the counsel of the president of the stake,&#8212;he wanted to get through with the ordeal as quickly as possible.</p>
+
+<p><seg type="Context" subtype="Polygamy">During the statement <choice><sic>Bown</sic><corr>Brown</corr></choice> observed the increasing pallor of his wife's face as the polygamous iron entered the soul of the woman for whom he would cheerfully have walked to the stake.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">There was no outcry,&#8212;just the dumb helplessness of a deserted woman who looks out into the blackness of a night to which there will be no ending until she stands before her Creator and pleads for the justice which men had denied her.</seg></p>
+
+<p>Brown sprang forward with the purpose of taking the frail woman in his arms and sharing her grief. Like an avenging angel his daughter forestalled him. Dropping to her knees beside her mother, the girl threw one arm around her neck while, as her eyes flashed scorn and defiance, she thrust back the man whose mistaken sense of duty impelled him to crush the faded flower whose incense had largely been the source of his financial success.</p>
+
+<p>His daughter's vehement repulse forced the blood to Brown's heart and brain as he helplessly looked on the ruin he had wrought.</p>
+
+<p>With womanly fortitude Mrs. Brown recovered from the shock of the unexpected announcement. Unclasping the frantic embrace of her daughter, she motioned her to a seat. Then turning to her husband she asked him to take a seat by her side. She knew the man's fanatical devotion to his faith, and that he, too, was suffering. There was nothing of defiance, nothing of reproach in her patient face, or gentle, musical voice as she began her unanswerable defense of her rights. </p>
+
+<p>"Alma, I realize your intense,faith in Mormonism, and your devotion to duty as you understand it. I know what I am about to say will shock and wound you. I will now confess something which all these years I have withheld because of my love for you, and because of the haunting fear that you would love me less          
+            
+<pb n="27" xml:id="mmm.fiction.gibbs.1913.033"/>
+                
+if you knew it. I have no sympathy with Mormonism. I do not believe in its alleged divinity. I know that you are being deceived. Please do not interrupt me, I know by heart every argument you would present."</p>
+
+<p>An expression of surprise and pain passed over Brown's face at his wife's statement that she did not share his faith. His former certainty of eternity with Clara by his side seemed to be dissolving into intangibility, and the prophetic brightness of the future life appeared to recede and merge into the blackness of spiritual despair. But he took the assigned seat, partly in front of his wife, and humbly awaited her statement.</p>
+
+<p>"I will begin at the beginning," Mrs. Brown continued. "In 1846 father joined Brennan's company of Mormons and sailed around Cape Horn for the purpose of joining <persName key="Young, Brigham">Brigham Young</persName> in southern <placeName type="state" key="California">California</placeName>, for which place he and his company of pioneers started in 1847.</p>
+
+<p>"Father settled in <placeName type="settlement" key="San Bernardino">San Bernardino</placeName> and lived there ten years. Early in September, 1857, father received instructions from President <persName key="Young, Brigham">Young</persName> to emigrate to <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. <seg type="Context" subtype="UtahWar">The government was sending an army to <placeName type="state" key="Utah Territory">Utah</placeName>, and it was deemed best to gather at some point wherethe Saints could present an united front to their enemies.</seg> Father lost no time in complying with the call. He  sacrificed our beautiful home in <placeName type="settlement" key="San Bernardino">San Bernardino</placeName> for an outfit with which to cross the deserts, and under the direction of Apostle <persName key="Lyman, Amasa M.">Amasa M. Lyman</persName> our company came on to <placeName type="state" key="Utah Territory">Utah</placeName>.</p>
+
+<p>"One evening, the latter part of October, after ascending the steep road from the Santa Clara river, our tired horses and mules forced us to camp at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>." Alma Brown shuddered, and was about to speak when his wife interposed:</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">"I know what you would say. You would make the plea that the leaders of your church were not responsible for that awful crime. And so far as personal participation in the massacre is concerned, I agree with you. <seg type="Blame" subtype="LDS_LDSBloodAtonement">But the large number of those who did participate in that awful butchery believed they were carrying out the will of the priesthood as expressed in the blood </seg></seg><choice><orig>atone-
+            
+<pb n="28" xml:id="mmm.fiction.gibbs.1913.034"/>
+                
+<figure xml:id="mmm.fiction.gibbs.1913.034.figure">
+<p>Merciful God! Is this one of the fruits of Mormonism?</p>
+<figDesc></figDesc>
+</figure>
+            
+<pb n="29" xml:id="mmm.fiction.gibbs.1913.035"/>
+                
+ment</orig><reg>atonement</reg></choice><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="LDS_LDSBloodAtonement"> sermons of the Mormon leaders and their agents during the years just prior to the crime <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg>.</seg></seg></p>
+
+<p>"I was but ten years old, yet the memory of that frightful scene has haunted me to this day. After supper, mother, my small brother and I went over the ground, as did many others of our company. We had learned something of the massacre from a company of Gentile south-bound emigrants at <placeName type="settlement" key="Las Vegas, NV">Las Vegas</placeName>, where both trains laid over a few days to recruit their work animals.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">"A few hundred feet northeast from the spring where we were encamped, we found the remains of <seg type="Massacre" subtype="Casualties">some sixty men, including a number of large boys</seg>, which had been dragged together and over which a light covering of earth had been thrown, but later were disinterred by rains and coyotes. Many of the skulls had been pierced by bullets, while others had been crushed by heavy rifle barrels, as the marks plainly showed. I knew nothing of the meaning of it, but was awed and terrified by the awful sight.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">"Mother and I passed over a low elevation, following the road to the northeast. Mother fell on her knees and wept as though her heart was broken. <seg type="Massacre" subtype="Casualties">All of sixty bodies of women, girls, children and even babes</seg>, were scattered over a few square rods. Nearly all of them had been killed with arrows or clubs. <seg type="Massacre" subtype="Spoils">Many of the bodies had been stripped of clothing by the fiends who murdered them.</seg> Coyotes had fed on the bodies until the mutilation was awful.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Blame" subtype="LDS_LDS">"As mother again looked at the victims of heartless butchery she cried out: 'Merciful God! is this one of the fruits of Mormonism?'</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Spoils">"As we turned toward camp I noticed something glisten among the dead weeds. I picked it up. Evidently it was a wedding ring, for the inside bore the nuptial legend: 'From <persName key="Fancher, Charles">Charles Fancher</persName> to <persName key="Fancher, Leah">Leah Fancher</persName>, June 8, 1844.'</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">"Five years afterward, when mother was on her deathbed, she gave me the ring, told me to keep it, and to always remember <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. As soon as my finger was large enough to carry the ring I put it on and have since worn it. You never asked me how I came by it, and <seg type="Blame" subtype="LDS_LDS">every time I look at the ring the scene
+            
+<pb n="30" xml:id="mmm.fiction.gibbs.1913.036"/>
+                
+at <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg> rises like a crimson shadow between myself and Mormonism."</seg></seg></p>
+
+<p>Mrs. Brown glanced at the horror-stricken face of her daughter, hesitated, then continued:</p>
+
+<p><seg type="Massacre" subtype="SexualViolence">"Alma, I won't torture you with a recital of the diabolical incidents associated with the death of <seg type="Massacre" subtype="Casualties">the Dunlap girls</seg> after <seg type="Massacre" subtype="Casualties">their parents and the others</seg> had been slain; but Jesus said, 'By their fruits ye shall know them.'"</seg></p>
+
+<p>With throbing heart Mrs. Brown noted the quivering lips and haggard face of the silent man who knew that he could not refute, explain nor justify the crime which impelled his wife's arraignment of his religion. But as he had often been taught by the prophets, he believed that "the actions of men have no bearing on the divinity of Mormonism."</p>
+
+<p><seg type="Context" subtype="LDSApostates">Mrs. Brown continued: "Mother lost all faith in Mormonism, but because of her regard for father's feelings she kept the fact of her apostacy from him, as I have mine from you.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="LDSApostates">"You will recollect that Apostle <persName key="Lyman, Amasa">Amasa Lyman</persName>, about twelve years after the massacre, apostatized and became a powerful opponent of the Mormon church; and no one has denied the unassailable truth that the scene <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg> was the entering wedge to his faith. His son, <persName key="Lyman, Francis, M.">Francis M. Lyman</persName>, has since arisen to the apostolate, but there are as many who believe him to be a hypocrite as there are of those who believe him sincere. He saw the evidence of Mormon treachery and murder <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg>, and was about nineteen years old at the time of the massacre."</seg></seg></p>
+
+<p><seg type="Context" subtype="LDSApostates">The younger Clara had listened attentively to the description of the scene <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg>, and as her father noted the expression of horror on his child's face, and the wide-open, moisture-laden eyes, he knew that the seeds' of apostacy had then and there been implanted in her brain. And he sensed the bitter fact that he had placed himself in a position which would bar him from making an effective appeal to her reason. He worshipped the child, but she, too, was slipping from him.</seg></p>
+
+<p><seg type="Context" subtype="Polygamy">"Alma," the wife resumed, "knowing, as you now do, that I am not a believer in your religion, you have no moral right, even if
+            
+<pb n="31" xml:id="mmm.fiction.gibbs.1913.037"/>
+                
+Mormonism were the favored religion of God, to force the relations of polygamy on me."</seg></p>
+
+<p>Within his inmost being Alma Brown knew that the last sentence spoken by his wife was a truth which no one, prophet or layman, could challenge, and for the first time in his life experienced an almost intangible wavering of his faith.</p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="51" xml:id="mmm.fiction.gibbs.1913.057"/>
+
+<head>VII.</head>      
+
+<head>LEE’S FERRY ON COLORADO RIVER&#8212;VISION OF MASSACRE.</head>
+
+<p>Occupying the middle of a low depression in the north-central part of <placeName type="state" key="Arizona">Arizona</placeName>, a wide, deep and swift river, known as the Colorado, sweeps onward toward the Gulf of <placeName type="state" key="California">California</placeName>. To the east, the depression is walled in by towering mountains, torn and riven by seismic forces which left their imperishable scars in the form of almost unfathomable box gorges,&#8212;deepened by post-glacial torrents which fed the mighty stream which, today, is merely a reminder of its former greatness. To the south, in broken masses, the low mountains roll away over the Navajo Indian reservation, and to the less rugged interior of central <placeName type="state" key="Arizona">Arizona</placeName>. To the north, in low-lying mesas and shallow ancient water courses, the vast desert, known as House-Rock valley, in dreary, sun-scorched barreness, stretches well out toward the fertile valleys of southern <placeName type="state" key="Utah Territory">Utah</placeName>. To the southwest is the vast Colorado plateau, marked by shore-line terraces,&#8212;mute sentinels which, even in their eternal silence, bear eloquent witness of the stupenduous changes wrought by nature’s forces since the majestic river laved their sides, and dug its way downward into the earth, and excavated the stupendous gorge now known as the Grand Canyon.</p>
+
+<p>It was sometime during the middle sixties that a man of medium stature, powerfully built, with a square, determined face, entered the above-described depression and camped on the north bank of the Colorado. A rude ferry boat was made and launched on the river. Then from the nearby quarries stone was gathered, and soon a long, low, rock cabin arose on the south edge of the desert.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSZealots">On the summit of a nearby butte a stone fortress was erected. Suggestive loopholes warned the few travelers of the object of its builder. <seg type="Context" subtype="IndianRelationsLDS">The small fort was not built for protection from the Indians, for the redmen were friends of the builder.</seg> The white man was known to the travelers as <persName key="Lee, John D.">John Doyle</persName>. <persName key="Lee, John D.">John Doyle</persName> dwelt within the shadow of a crime unparalleled in treachery
+
+<pb n="52" xml:id="mmm.fiction.gibbs.1913.058"/>
+
+and wanton heartlessness, for which, in the final adjustment, he will be adjudged guilty of fanaticism rather than of wilful murder. The man’s full name was <persName key="Lee, John D.">John Doyle Lee</persName>. <seg type="Reaction" subtype="FederalInvestigation">The reason for his isolation was that he was being hunted by the federal officials of <placeName type="state" key="Utah Territory">Utah</placeName> who wanted him for participation in the Mountain Meadows massacre, <seg type="Massacre" subtype="Dates">September 16, 1857</seg></seg>.</seg></p>
+
+<p>It was late in the afternoon of an unusually warm day for that locality, in the latter part of May, 1887. In the shade of <persName key="Lee, John D.">Lee</persName>’s cabin, at the ferry, a man stretched full length on a rude bench. His head rested on one arm, while the other moved to and fro in a futile effort to keep at bay swarms of pestiferous flies which, even at that early part of the season, infest the low altitudes along the Colorado river. The extended form was fully six feet in length, angular, and somewhat bent. Even a casual observer would have noted the fine head, firm mouth, slightly aquiline nose, brilliant black eyes,&#8212;shaded by long lashes, and guarded by heavy brows&#8212;shock of iron-gray hair, and closely cropped beard and mustache. Otver the expressive face the lights and shadows of an eventful life flitted with alternating recurrence. Occasionally a tender expression relieved the hard lines. and the stern eyes softened with the memory of domestic happiness, to be instantly succeeded by an almost habitual frown. Nephi Judson was indulging in a profound reverie. Let us follow the tortuous trail of his thoughts.</p>
+
+<p>Judson’s mind harked back to his boyhood on the bank of the Illinois river, and to the care-free days when he chased squirrels and listened to bird songs which he learned to imitate with such precision that the songsters would come at his call. He recalled the log school house in which a portion of the later years of his life in <placeName type="state" key="Illinois">Illinois</placeName> were spent. He remembered with what ease he outstripped his competitors in obtaining the rudiment of an education, and by that token knew that had his life been lived in a progressive and congenial environment he could have risen to distinction among his fellow men.</p>
+
+<p>Following the chain of events, Judson vividly recalled the
+
+<pb n="53" xml:id="mmm.fiction.gibbs.1913.059"/>
+
+long trek across the plains, when, in 1850, his parents followed the Mormons to the then infant city by the great salt sea.</p>
+
+<p>Then came the call of <persName key="Young, Brigham">Brigham Young</persName> to aid in colonizing <placeName type="county" key="Washington County, UT">Washington county</placeName> where, in 1853, his parents settled at <placeName type="settlement" key="St. George, UT">St. George</placeName>. He was then a lad of fifteen. That part of <placeName type="state" key="Utah Territory">Utah</placeName>’s sunny southland was a favorite home of the Indians, and Judson recalled with what rare facility he mastered the vocabulary of the redmen, and became useful to the people as interpreter.</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">The face of the recumbent man darkened as he recalled <seg type="Massacre" subtype="Dates">the fateful day when, early in September, 1857</seg>, an order came from Bishop-Colonel <persName key="Dame, William H.">William H. Dame</persName> of the Mormon militia, and from Colonel <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, president of the <placeName type="settlement" key="Parowan, UT">Parowan</placeName> "Stake of Zion," to collect the <placeName type="settlement" key="St. George, UT">St. George</placeName> and Santa Clara Indians and conduct them to <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg></seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Young Judson marveled at the strange request. He knew nothing of the nature of the "mission," but he did know that the call had come from representatives of the Mormon priesthood in <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. And he further knew that refusal to obey the summons would bring upon him the hot displeasure of the local priesthood, and that violence to him would almost certainly follow. Even in his young life he knew of instances where refusal to obey orders from the Mormon chiefs had resulted in death to the disobedient.</seg></p>
+
+<milestone unit="section" rend="horbar"/>
+
+<p>During Judson's reverie the sun had been dropping lower until it hung over the great plateau to the west. The air had become cooler, and the persistent flies sought the sunny side of the long, low cabin. Judson's hand ceased its monotonous movement and fell limply by his side. He was sleeping, but the realism of his waking thoughts became even more startlingly real in his dream, or vision.</p>
+
+<p>On August 7, 1857, thirty-two wagons and carriages were descending Emigration canyon to the southeast of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>. Slowly the train moved in and out among the abutting ridges of the sinuous gorge through which, ten years previous, the Mormon pioneers passed to the valley of the Great Salt Lake.</p>
+            
+<pb n="54" xml:id="mmm.fiction.gibbs.1913.060"/>
+                
+<p><seg type="Context" subtype="UtahWar">Two weeks had passed since, on July 24, President <persName key="Young, Brigham">Brigham Young</persName> received word that the government of the United States was sending an army to <placeName type="state" key="Utah Territory">Utah</placeName> for the purpose of protecting the federal officials in the enforcement of the laws.</seg></p>
+
+<p><seg type="Context" subtype="LDSPersecution">Because of alleged persecutions in <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Illinois">Illinois</placeName>, the Mormons regarded all "Gentiles" as "enemies," and entertained for them undying hatred. </seg><seg type="Context" subtype="UtahWar"><seg type="Context" subtype="LDSPersecution">The sending of an army to <placeName type="state" key="Utah Territory">Utah</placeName> intensified the spirit of rebellion and treachery which long had slumbered in the heart of every devout follower of the first Mormon prophet.</seg> President <persName key="Young, Brigham">Brigham Young</persName>, as "Prophet, Seer and Revelator" of the Mormon church, and the governor of <placeName type="state" key="Utah Territory">Utah</placeName>, proclaimed martial law, and forbade anyone to "enter, pass throughor 1eave" the Mormon domain "without a permit from the proper authority," which, of course, was the Mormon prophet and those of his servile minions whom he selected.</seg></p>
+
+<p><seg type="Emigrants" subtype="Route">Such were the conditions when <seg type="Emigrants" subtype="StateAffiliationArkansas">the ill-starred "<placeName type="state" key="Arkansas">Arkansas</placeName>" train</seg> entered Salt Lake valley and camped on Emigration square. Those facts passed in review through the mind of the lightly-slumbering Judson. He saw the doomed train move slowly out of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> and on toward southern <placeName type="state" key="Utah Territory">Utah</placeName>. <seg type="Encounter" subtype="TradeLDS">In each settlement they begged the privilege of purchasing food for the toilsome march over the blistering sands and gravel-strewn mesas of southern <placeName type="state" key="Nevada">Nevada</placeName>, and on to the Pacific coast. And in nearly every instance, although the Mormons had three years' provisions in their bins, the requests of the emigrants were sullenly refused.</seg></seg></p>
+
+<p>The vision became more startlingly real as Judson saw the train move onto <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName>, where they encamped for the purpose of recruiting <seg type="Massacre" subtype="Spoils">their cattle</seg>, and to await the advent of cooler weather.</p>
+
+<p>From the bench east of the encampment Judson again looked down on the white-topped wagons and tents which, spectre-like, occupied the shadowy background of a dozen campfires. Around the early fires were groups of men unconscious of impending danger. <seg type="Massacre" subtype="Battle">In the darkness that precedes the dawn a hundred rifles spit death and torture. Judson shivered at the carnage, and moved as if to close his ears to the terrified screams of women
+            
+<pb n="55" xml:id="mmm.fiction.gibbs.1913.061"/>
+                
+and children thus rudely awakened to the realization of the danger that menaced them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Again Judson saw the gathering of the white assassins, sent by the Mormon priesthood of <placeName type="county" key="Iron County, UT">Iron county</placeName> to complete <seg type="Blame" subtype="IndiansLDSInfluence">the work which the Indians were unable to accomplish</seg>. He saw them go into camp to the south of a sheltering butte, not more than two-hundred yards from the camp of their victims. With deep disgust Judson saw those servile dupes of unquestioning obedience gather on the morning of the massacre, and while the stars yet looked down on the unspeakable scene, he saw them kneel in the form of a "prayer circle," and again heard the voice of their leader ask the blessing of God on the awful "mission" of slaughter which would soon stain their hands and souls with murder.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Later, Judson saw the preparations for the most treacherous and cowardly <seg type="Massacre" subtype="Casualties">wholesale assassination of men, women and children</seg> that has ever blackened the characters of men who professed to be followers of the merciful Nazarene.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Again Judson saw the white flag, sent by the chief elder to decoy the emigrants from their wagon fort, move down the slight descent toward <geogName type="valley" key="Mountain Meadows">the meadow</geogName>. Again he looked while the strangers moved out to the positions selected for convenient slaughter. The Mormons raised their guns, fired, and <seg type="Massacre" subtype="Casualties">sixty men who had placed themselves, their wives and children under the "protection" of the fanatics, were murdered in cold blood. At the same instant <seg type="Blame" subtype="IndiansLDSInfluence">the Indians</seg> rushed on the helpless women and children, and within three minutes the "mission" of blood-atoning the "enemies" of the Mormon god was finished.</seg></seg></seg></p>
+
+<p>On his hard couch Judson groaned aloud: "Merciful God, take this vision from me!"</p>
+
+<p>He arose to a sitting posture and vacantly gazed at the swiftly-flowing river. His face was drawn and haggard. Beads of perspiration oozed from every pore of his dark, sun-burned face and fell to the ground. Vainly he tried to break the current of his thoughts which, against his will, forced him to review a portion of his life subsequent to the massacre.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">He made an effort to analyze the moral make-up of the man
+            
+<pb n="56" xml:id="mmm.fiction.gibbs.1913.062"/>
+                
+upon whom, unjustly, the Mormon leaders placed the responsibility for the hideous crime at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, and for which, in 1877, he paid the mortal penalty on the spot where the victims to unquestioning obedience and blood atonement were butchered. Judson had known <persName key="Lee, John D.">John D. Dee</persName> as a kindly-hearted, hospitable man whose word was his bond, and who, but for the unkindly fate which linked his early life to that of the first Mormon prophet, would have lived and died loved and respected by his friends and neighbors. (If <persName key="Lee, John D.">John D. Dee</persName> was the inhuman monster, described by Mormons, and believed by Gentiles, Mormonism is responsible for his crimes.)</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">It was those sterling qualities of mind and heart which wow the confidence of the Indians of southern <placeName type="state" key="Utah Territory">Utah</placeName> over whom <persName key="Lee, John D.">Lee</persName>'s influence was unlimited. Many secrets withheld from other white men, were freely communited to <persName key="Lee, John D.">Lee</persName> by his copper-colored friends.</seg></p>
+
+<p>Among his reminiscences Judson remembered a story of a Navajo having told <persName key="Lee, John D.">Lee</persName> of a locality down in the Grand Canyon where one could gather grains of gold, and as evidence of the discovery exhibited some of the precious metal which, the Indian affirmed, came from a gulch down the river. He offered to conduct <persName key="Lee, John D.">Lee</persName> to the place, but he had listened to so many of those legends, told by redskins, that he gave scant credence to the Navajo's story.</p>
+
+<p><seg type="Context" subtype="LDSApostates">Even as an "apostate" Judson could have lived in peace among his former friends had it not been for his unfortunate practice of freely expressing his opinion of men and incidents.</seg> <seg type="Blame" subtype="LDS_LDS">To Judson the execution of <persName key="Lee, John D.">Lee</persName> was a miscarriage of justice. Out of fifty-five Mormons who participated in the massacre, and as <seg type="Blame" subtype="IndiansLDSInfluence">the reputed leader of the Indians</seg> and white men, <persName key="Lee, John D.">Lee</persName> had been selected by the prophets as a sacrifice to the demands of the people of theUnited States that an atonement be made for the crime <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. And Judson was familiar with all the details of the tragedy, and with the trial and execution of <persName key="Lee, John D.">Lee</persName>.</seg></p>
+
+<p><seg type="Context" subtype="LDSApostates"><seg type="Blame" subtype="LDS_LDS">In the revulsion of feeling which accompanied his apostasy, Judsons indignation at the treacherous sacrifice of <persName key="Lee, John D.">Lee</persName> swept aside his discretion, and in terms more energetic than prudent he
+
+<pb n="57" xml:id="mmm.fiction.gibbs.1913.063"/>
+                
+publicly cursed <persName key="Young, Brigham">Brigham Young</persName>, <persName key="Kimball, Heber C.">Heber C. Kimball</persName> and <persName key="Grant, Jedediah M.">Jedediah M. Grant</persName>, whose fanatical and blood-thirsty sermons were not only responsible for the Mountain Meadows' tragedy, but for the murder of others charged with the commission of "unpardonable sins," and who could not be saved in the Mormon heaven except by willingly, or unwillingly, submitting to blood atonement.</seg></seg></p>
+
+<p>Friends of Judson warned him to leave <placeName type="settlement" key="St. George, UT">St. George</placeName>, and to remain away until the fury aroused by his criticisms would be allayed. He sensed the danger, and accepted the position at the ferry which, as previously stated, had been established by <persName key="Lee, John D.">John D. Lee</persName>, and which he had filled during the ten years preceding his introduction to the reader.</p>
+
+<p><seg type="Context" subtype="LDSApostates">In the meantime Judson made <placeName type="settlement" key="Kanab, UT">Kanab</placeName> his base of supplies, and where he occasionally met his oldest son. Judson's wife and younger children joined the priesthood in denouncing the husband and father when he could no longer reconcile the fruits of Mormonism with its ridiculously bombastic claims of exclusive favoritism of the Almighty, and with the affected holliness of the Mormon prophets.</seg></p>
+
+<p>Judson's reverie was interrupted by a massive form which had silently turned the corner of the stone cabin and stood before him. The intruder was a large, powerful man, with square, mobile features, a large, well-formed head, thatched with a heavy growth of black wire-like hair, and covered with a Mexican hat,&#8212;resplendent in its silverlike spangles and other ornaments. His clothing was that of a frontiersman&#8212;a combination of white man and Indian.</p>
+
+<p>A faint smile of recognition lighted the face of Judson as he glanced upward at the dusky face of his only neighbor at the ferry, and inquired: "Hello, Kawich; anything doing?"</p>
+
+<p>"White man want to cross river," the Navajo replied.</p>
+
+<p>Judson arose and went to the corner of the shack whence he had a view of the ferry. On the opposite bank of the river, some two hundred yards distant, Judson saw a covered wagon. A faint "Hello" apprised the ferryman of the wants of the traveler.</p>
+
+<p>Accompanied by Kawich Judson leisurely walked down to the
+      
+<pb n="58" xml:id="mmm.fiction.gibbs.1913.064"/>
+                
+<figure xml:id="mmm.fiction.gibbs.1913.064.figure">
+<p>Lee's Ferry, (1912).  Motor Boats in Foreground. Loaded Ferry Boat in Right Middle. (Looking Southerly.)</p>
+<figDesc></figDesc>
+</figure>                
+            
+<pb n="59" xml:id="mmm.fiction.gibbs.1913.065"/>
+                
+landing. The tie-rope was cast off, and by the aid of large paddles the clumsy mass of timbers and plank moved slowly toward the south side of the stream.</p>
+
+<p>The stranger greeted Judson and his copper-colored aid with reserved but kindly courtesy, then looked somewhat doubtfully at the primitive ferryboat. Turning to his daughter the stranger said:</p>
+
+<p>"Rachel, we will make two crossings. Take the loose horses with you on the first trip; I will follow with the wagon and other horses."</p>
+
+<p>With no hesitation Rachel rode her timid pony onto the boat. She sat her mount with the ease, grace and confidence of one well-trained in the art of horsemanship. A wide-brimed Mexican hat, with the care-free abandon of a girl of fifteen years, hung at her back. The usual evening breeze from up the river toyed with the mass of disheveled hair, and in the warm glow of the sun, which was disappearing beyond the great plateau to the west, was transformed into wavies of beaten gold. Through the once fair skin, darkened by Arizona's warm suns and desert winds, the rich blood of perfect health rivaled the tint of the clouds in the western sky toward which she looked with youthful and appreciative enthusiasm. Her girlish form, evenly developed, rivaled in graceful lines the lovely face and head of the desert sprite.</p>
+
+<p>The deep, blue-black eyes of the girl turned with an expression of kindly curiosity on the massive form and face of the Navajo, and seemed to be wondering why so splendid a type of manhood had so dark a skin.</p>
+
+<p>Kawich had taken the halter ropes from the hand of the fair traveler, and was holding the restive horses whose experiences had theretofore been on land. In recognition of his services the Navajo was rewarded with a smile which wreathed the fair face of the child, and beamed in friendly light from her girlish, sparkling eyes. Furtively, the redman reverently glanced at the vision of lovliness. Often in his dreams of the future life Kawich had peopled the mysterious land of perpetual sunshine with beings
+            
+<pb n="60" xml:id="mmm.fiction.gibbs.1913.066"/>
+                
+very like the one who so serenely looked down on him from her seat on the pony.</p>
+
+<p>The grating of the boat on the gravel of the north bank aroused the Navajo from his modest worship of the "sun-haired" goddess of the land of dreams. Her advent within the narrow horizon of his life was not unlike the coming of the star of Bethlehem to the simple shepards of Palestine.</p>
+
+<p>Aided by Judson the stranger guided his horses onto the unsteady boat, then againglanced at the weird panorama which in deepening shadows marked the western horizon. Limned against the brilliant coloring of the background the vast Colorado plateau resembled a low-lying bank of purple clouds. And as his vision alternately shifted from the restless stream, shimmering with reflected light from the glowing horizon, and out on the mysterious vista to the west, he dreamed not of the strange adventures which awaited him within the depths of the mighty gorge which the tireless waters, in the remote ages, had eaten in theindurated rock.</p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<pb n="87" xml:id="mmm.fiction.gibbs.1913.093"/>
+
+<div1 type="chapter">
+
+<head>XIII.</head>
+
+<head>HARTWELL AND JENKINS.</head>
+
+<p>The months of July and August, 1890, at Lee’s Ferry had been unusually lean in profits, and excessively lonesome for Nephi Judson. Only those impelled by urgent business, or sense of duty, braved the hot sands of the <placeName type="state" key="Arizona">Arizona</placeName> deserts during the summer months. The occasional visits of Utah cowrboys, the infrequent advent of prospectors, with now and then a traveler, comprised the sum-total of Judson’s association with the outside world.</p>
+
+<p>The ever-present vision of the tragedy <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>, and his long isolation had hardened his heart, and were rapidly transforming a naturally sunny disposition into that of morose rebellion against the grim fate which had enveloped his life, and which, despite his tortured protests, was yet holding him with relentless tenacity. His past was a desert, strewn with the debris of wrecked hopes and ambition; the future&#8212;all that remained&#8212;seemed barren, lifeless and uninviting as the sun scorched waste stretching out toward the north. Nephi Judson was mentally starving for real life and action.</p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<pb n="155" xml:id="mmm.fiction.gibbs.1913.161"/>
+
+<div1 type="chapter">
+
+<p><seg type="Blame" subtype="LDS_LDSBloodAtonement">Clara knew the man better than did Denton. She knew that no
+
+<pb n="156" xml:id="mmm.fiction.gibbs.1913.162"/>
+
+act was too vile and cowardly for him to commit in the name of the Mormon god, and under the protection of the priesthood. She recollected the details of the statement made by her mother concerning the Mountain Meadows butchery, and knew that the demon of blood atonement was being held in leash by fear of the United States marshals who were scouring <placeName type="state" key="Utah Territory">Utah</placeName> <seg type="Context" subtype="Polygamy">in search of polygamists and other criminals. Miss Brown was also in a position to know that the ancient hatred for Gentiles had been intensified by the forced outward surrender of polygamy.</seg> In Denton’s love and confidence she had a sure refuge from any scandal which Johnson might inspire. She trembled for Denton,&#8212;not for herself.</seg></p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<div1 type="chapter">
+
+<pb n="162" xml:id="mmm.fiction.gibbs.1913.168"/>
+                
+<head>XXVI.</head>
+
+<head>BREAKERS AHEAD&#8212;THE CONFERENCE.</head>
+
+<p>Three weeks of happiness for Denton and Clara had passed since Doctor Wentworth left for <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName>. Letters were received announcing that he and Hartwell would arrive at <placeName type="settlement" key="Kanab, UT">Kanab</placeName> about May 30th.</p>
+
+<p>Judson, who was at the mines, became anxious regarding Denton's safety, and unexpectedly drove up to the hotel.  Apparently rhings were all right, and after a few minutes' talk with Denton Judson went to the postoffice. The usual crowd of idlers, as well as those having business, were awaiting the arrival of the tri-weekly mail.</p>
+
+<p>Bob Stewart saw Judson approaching and went out to greet him.</p>
+
+<p>"Where can I meet you after dark, this evening?" the marshal inquired.</p>
+
+<p>Judson suggested his room in the hotel, and at any hour the marshal might name.</p>
+
+<p>"All right. I'll be there at 9 o'clock," Stewart replied as he walked on up the street.</p>
+
+<p>Promptly to the minute Stewart ascended the back stairs of the hotel and entered Judson's room.</p>
+
+<p>Placing a chair for his visitor, Judson waited for him to "open up."</p>
+
+<p>During a few minutes Stewart smoked in silence, then abruptly entered on the subject which was weighing on his mind.</p>
+
+<p>"I've finally got onto something definite, Judson," the marshal began. "It's a ticklish proposition, and must be handled carefully or my life won't be worth a cent. You know how these Mormons hate a 'spotter,' as they call those who give away their devilment. <seg type="Context" subtype="Polygamy">Because it is a part of their religion I've never given a polygamist away; rather, I've befriended scores of them. But polygamy is a mere incident in this affair; and it isn't religion, unless the old practice of blood atonement is religion;</seg>  and to me it looks as if it is to be applied to Denton if something isn't done p. d. q.        
+            
+<pb n="163" xml:id="mmm.fiction.gibbs.1913.169"/>
+                
+to checkmate that assassin with whom he had trouble at the dance last October. The priesthood have given him a free hand to do as he pleases about killing Denton, and have voted to stand behind Johnson in any measures he may see fit to adopt in breaking up the match between Denton and Clara. And you know what that means to a treacherous sneak like Johnson."</p>
+
+<p>Stewart then minutely detailed the proceedings of the priesthood meeting of the previous week. At its conclusion the marshal leaned back in his chair and closely observed the gathering storm in the brain of the apostate.</p>
+
+<p>During several minutes Judson appeared to be buried in a review of the past; then arose and began pacing the room. Memories of bye-gone years surged through his mind with torrential force and realism. The hard lines in his face deepened, while his dark eyes glittered with the ferocity of an angry lion. His pinched nostrils emitted sounds not unlike jets of steam from an engine laboring under high pressure. Stewart expected an explosion, but the man was making a heroic effort to master himself.</p>
+
+<p>Halting before Stewart, Judson spoke: "Your report of that priesthood meeting reminds me of those I attended in <placeName type="settlement" key="St. George, UT">St. George</placeName> thirty-five years ago. What you have told me means infinitely worse than murder. The blood-atoning of Rosmos Anderson, with whom I was well acquainted at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, by Bishop <persName key="Klingensmith, Philip">Kllingensmith</persName>, who put Anderson out of the way so that he could add Anderson's step-daughter to his other plurals; and the castration of <persName key="Lews, Thomas">Tom Lewis</persName> at <placeName type="settlement" key="Manti, UT">Manti</placeName>, along in the middle fifties, by the bishop who wanted Lewis' sweetheart for his fourth or fifth wife, were no comparisons to the fiendishness of this plot. against the honor of Clara Brown. And, as God is my helper, if any harm comes to that girl I will never rest until every one of those curs who were at that meeting pays the extreme penalty for the crime. Of course, I couldn't very well do the job single-handed. But I know five rangers who love that girl better than their lives; and all that I have to do it to say the word, and I'll say it, if necessary, and then to Mexico for the bunch."</p>
+
+<p>But for the pallor in his face, and blazing eyes there was little         
+            
+<pb n="164" xml:id="mmm.fiction.gibbs.1913.170"/>
+                
+evidence of the storm which had swept through every fibre of Judson's brain and body as he resumed his seat and faced the marshal. Judson continued:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"You've no doubt heard that I was at <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg> at the time of the massacre?" Stewart nodded. "Well, I'm mighty thankful I didn't murder any of <seg type="Massacre" subtype="Casualties">those emigrants</seg>, but I saw every incident of that awful afternoon, and it has been one long, terrible nightmare. Waking and sleeping the accursed vision is ever with me, and I often wonder that my mind has survived the shock of that ruthless, priest-inspired carnage, and its perpetual haunting of my waking and sleeping hours."</seg></p>
+
+<p>"By the way, Judson, I never learned how you managed to avoid participation in the massacre. If you care to tell me the facts, I'll be glad to hear them," the marshal suggested.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Well, it was this way," Judson replied. "I knew from the tenor of the priesthood and 'prayer circle' meetings <seg type="Massacre" subtype="Dates">the morning of the massacre that it was to be pulled off sometime during the day</seg>. And all the forenoon I was puzzling my brains with various schemes to fool <persName key="Higbee, John M.">John M. Higbee</persName>, who was the real leader. I knew that a point-blank refusal on my part would make me the first victim of the slaughter. <seg type="Massacre" subtype="Dates">The massacre took place at about two o'clock in the afternoon.</seg> Some two hours before that time I hit on a plan that worked to perfection. Between forty-five and fifty of the elders were ordered to march over the low elevation toward the emigrant camp. At a given signal from <persName key="Higbee, John M.">Higbee</persName> the elders were to shoot down and brain <seg type="Massacre" subtype="Casualties">the men</seg>, while <seg type="Blame" subtype="IndiansLDSInfluence">the Indians were to murder <seg type="Massacre" subtype="Casualties">the women and children</seg></seg>. My pony had a trick of unfastening his halter rope when tied with a bow-knot. I led him to a cedar and loosely fastened him, then joined the ranks of those who were to murder the men. Just then my pony scampered over the flat and up on the bench to the south. I asked <persName key="Higbee, John M.">Higbee</persName>'s permission to recover the pony. He consented, and I went up on the bench and to a point where I could see all that was going on. That is how I avoided staining my hands and soul with the blood of <seg type="Massacre" subtype="Casualties">those helpless, disarmed emigrants</seg>.</seg></p>
+              
+<pb n="165" xml:id="mmm.fiction.gibbs.1913.171"/>
+                
+<p><seg type="Massacre" subtype="SexualViolence"><seg type="Massacre" subtype="Casualties">"You've also no doubt heard something of the fate of <persName key="Dunlap, Ruth">Ruth</persName> and <persName key="Dunlap, Rachel">Rachel Dunlap</persName>, the two beautiful emigrant girls who escaped the general massacre to be subsequently murdered?"</seg> Stewart replied that he had heard of the incident, but would be glad to get the facts first hand.</seg></p>
+
+<p>With clenched hands, and eyes burning with the fierce, uncertain gleam of semi-insanity, Judson again began pacing the room. His body quivered with the intensity of his emotions, while his dry lips twitched in the effort to articluate. Turning to Stewart, the only living witness of the last diabolical act in that unparalleled scene of treachery and murder continued:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">"I saw it all. The screams of those helpless women and children still ring in my ears as the red and white devils rushed upon them, and with guns and bows and arrows began the work of death. I saw two girls, about sixteen and eighteen years of age, break away from the carnage and run around the front end of <persName key="McMurdy, Samuel">Sam McMurdy</persName>'s wagon. Hand in hand they leaped over the sagebrush as they raced across the flat to the south. They descended the shallow ravine at the base of the bench, then crept up on the south side into a clump of oak bushes. God alone knows how I prayed for the safety of those girls.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath">"The massacre was over, and leading my pony I descended the bench diagonally toward where the girls were hiding. Their flight had been witnessed by the Indian chief from <placeName type="settlement" key="Parowan, UT">Parowan</placeName>. As I slowly picked my [way] through the cedars and oak brush down the hillside, I saw the Indian and a white man crossing the flat toward the ravine."</seg></p>
+
+<p><seg type="Massacre" subtype="SexualViolence">Again Judson hesitated. His features were distorted with the rage of a madman, while perspiration oozed from every pore of his agonized face. "As if by accident I walked toward the clump of oak brush in which the girls found shelter. I heard screams within the bushes. I parted the boughs and peered in."</seg></p>
+
+<p><seg type="Massacre" subtype="Casualties"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="SexualViolence">The cyclone in Judson's brain again forced him to momentarily pause in the terrible recital. Again mastering himself, he vehemently exclaimed: "As God is my witness, those devils incarnate
+            
+<pb n="166" xml:id="mmm.fiction.gibbs.1913.172"/>
+                
+were assaulting those girls? Subsequently, the victims of that most atrocious crime dropped to their knees, and with clasped hands pleaded for their lives. <persName key="Dunlap, Ruth">Ruth</persName>, the elder girl, said to the white devil: 'Spare me, and I will love you all my life!' And, as God hears me, those fiends cut the throats of the girls after they had debauched them!"</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="SexualViolence">Stewart's voice shook with indignation as he replied: "Judson, I never before heard all the facts associated with the murder of those girls, but I believe you."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"And one of the men you named as being at that priesthood meeting was in the massacre," Judson resumed, "and two others of them are sons of the assassins who helped murder <seg type="Massacre" subtype="Casualties">the emigrants</seg>. Can you blame me for hating the Mormon religion, and for the inexpressible longing for revenge which fills my heart when I think of the fate of Clara Brown if we fail to forestall these lecherous devils? You will now understand why I said that the spirit of that priesthood meeting means infinitely worse than murder."</seg></p>
+
+<p>Long and earnestly the men discussed the situation, and agreed that absolute secrecy must be maintained. "If," said Judson, "Denton were to get wind of it, hell would pop, and there are not enough of his friends here to protectihim. If he were to attempt to get out of the country with Clara he would be waylaid. And if Clara made the attempt to leave <placeName type="settlement" key="Kanab, UT">Kanab</placeName> she would be caught and brought back. Even if she reached <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName> the minions of the priesthood would be on her trail, and she would be returned to this hotbed of bigotry and licentiousness.</p>
+
+<p>"Of course, if it comes to a showdown, I know what I can do. I could persuade her to take a ride with me, then take her on to the river. But with her acute notions of propriety she would make a fuss over it. The trouble is, the girl has no fear for herself,&#8212;she's always thinking of the welfare of others, and it will take something strenuous to jar her loose from her curious ideas."</p>
+
+<p>The men were silent during a few minutes when Judson asked Stewart if he could spare five or six days from his duties in <placeName type="settlement" key="Kanab, UT">Kanab</placeName>. The latter assured him he could. "Well, then," Judson <choice><orig>con-
+            
+<pb n="167" xml:id="mmm.fiction.gibbs.1913.173"/>
+                
+tinued</orig><reg>continued</reg></choice>, "meet me on the trail at the south edge of the forest at nine in the morning. You understand," Judson explained, "that in case of necessity it will be important to know where you can find men upon whom you can bet your last dollar in any kind of an emergency."</p>
+
+<p>As the men were about to separate Stewart suggested that Denton be cautioned to discontinue his rambles with Clara, and not further make a fool of himself by continuing to shake a red flag in the faces of the Mormon bulls.</p>
+
+</div1>
+
+<gap reason="irrelevant" />
+
+<div1 type="chapter">
+
+<pb n="223" xml:id="mmm.fiction.gibbs.1913.229"/>
+
+<p><seg type="Blame" subtype="LDS_LDS">"As an illustration of the paragraph just read, I will refer to an incident with which all the Saints of southern <placeName type="state" key="Utah Territory">Utah</placeName> are familiar. I refer to the killing of <seg type="Massacre" subtype="Casualties">those men and women</seg> <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>. <seg type="Blame" subtype="EmigrantBehavior"><seg type="Context" subtype="LDSPersecution">As they passed through the settlements of our people they boasted that they had helped kill our Prophets, and had aided in driving the Saints from <placeName type="state" key="Missouri">Missouri</placeName> and <placeName type="state" key="Illinois">Illinois</placeName>. President <persName key="Woodruff, Wilford">Woodruff</persName>, in his diary, said there ‘was not a drop of innocent blood, in that train.’ Those men and women deserved all they got.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">"Many of you in this part of the Lord’s vineyard often ask why Brother <persName key="Lee, John D.">John D. Lee</persName> was the only one who was executed for participation in the blood-atoning of those emigrants? I will tell you. <seg type="Context" subtype="Polygamy">It was because nearly all of those participants had obeyed the new and everlasting covenant by entering polygamy</seg>, and had not ‘shed innocent blood’. The people of this corrupt nation demanded a victim for the Mountain Meadows affair; and as, in this instance, the Lord did not provide a ram in the thicket, we were forced, in the interest of peace and protection for the Saints, to surrender Brother <persName key="Lee, John D.">Lee</persName>. He died on the altar of obedience to the priesthood; and <seg type="Context" subtype="Polygamy">because of his faithfulness in obeying the law of celestial marriage by taking nineteen wives</seg>, he will come forth in the first resurrection, and will enter into his excaltation,&#8212;it is one of the rewards promised for faithfulness to the celestial law of marriage, and all hell cannot rob Brother <persName key="Lee, John D.">Lee</persName> of his blessings.</seg></p>
+    
+<gap reason="irrelevant" />
+
+</div1>
+
+<div1 type="chapter">
+
+<pb n="226" xml:id="mmm.fiction.gibbs.1913.232"/>
+
+<p>"All right, Denton," Judson called, "you and Hartwell find Clara’s cell and get some wearing apparel,&#8212;we can handle this bunch." Then turning to the prophct he cooly ordered: "Send a
+
+<pb n="227" xml:id="mmm.fiction.gibbs.1913.233"/>
+
+woman to guide those men, and if there is any delay or other foolishness you won’t have any more fake revelations this side of eternity. <seg type="Blame" subtype="LDS_LDS">I want you devils incarnate to keep in mind for about ten minutes the unatoned crime <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg>."</seg></p>
+
+<gap reason="irrelevant" />
+   
+</div1>
+
+</body>
+</text>
+</TEI>

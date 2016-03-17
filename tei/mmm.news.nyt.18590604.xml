@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.nyt.18590604">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Utah Affairs</title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.nyt.18590604</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+	    </notesStmt>
+
+    <sourceDesc>
+	<bibl>
+	    <title level="j">New York Times</title>
+	    <title level="a" type="main">Utah Affairs</title>
+	    <pubPlace>New York, NY</pubPlace>
+	    <date when="1859-06-04">June 4, 1859</date>
+	</bibl>
+   </sourceDesc>
+
+</fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+    <profileDesc>
+	<textClass>
+	    <keywords scheme="original" n="category">
+	        <term>newspaper</term>
+	    </keywords>
+	    <keywords scheme="original" n="culpability">
+	 	<term></term>
+	    </keywords>
+	    <keywords scheme="original" n="action">
+	 	<term></term>
+	    </keywords>
+	</textClass>
+    </profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-11"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+	<change when="2011-05-05"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting</change>
+	<change when="2010-03-26"><name>Laura Weakly</name> Validation</change>
+	<change when="2010-03-02"><name>Kelsey F. Harris</name> Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name> Model Encoding</change>
+   </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.nyt.18590604.001"/>
+
+<head type="main">Utah Affairs.</head>
+<head type="sub">ANOTHER LETTER FROM ATTORNEY-GENERAL BLACK&#8212;THE PRESIDENT’S VIEWS FURTHER STATED.<lb/>
+<hi rend="italic">From the Constitution, June 2.</hi></head>
+
+<p><seg type="Source" subtype="Government">The following letter from the Attorney-General to the District Attorney for <placeName type="state" key="Utah Territory">Utah</placeName> explains still further the views of the Administration on the subject of the judicial proceedings in <placeName type="state" key="Utah Territory">that Territory</placeName>.</seg>  The great error of the Judges (or some of them at least) seems to have consisted in a belief that they were to be prosecutors, and not unprejudiced magistrates, to decide between the accusers and the accused.  The President’s view is altogether different.  In his eyes a Judge is to be as impartial as possible and to weigh the evidence in scales as even as the nature of things will admit. That Judge forgets the duties of his office who rags at a party before he hears him, and it looks like something worse than forgetfulness when he pronounces a whole community guilty of high crimes without waiting for a regular trial.</p>
+
+<p>Mr. <persName key="Buchanan, James">BUCHANAN</persName>’S prudence and justice in this affair cannot be too much commended.  He has shown no harshness to any of the erring officers, but has done what was necessary to secure the impartial administration of justice by such admonitions as will keep the Judges within their own sphere, and at the same time quicken the diligence of the District&#8212;Attorney and Marshal. A proper conformity to these views is especially necessary in Utah, if it be true that many high crimes have been committed there which call for severe punishment.  If the judiciary should ever aim at the virtue and the wisdom which win public respect, it is in those place wheres its intervention is most needed and oftenest called for.</p>
+
+<div2>
+<head type="sub">ATTORNEY-GENERAL’S OFFICE, May 17, 1859.</head>
+
+<p>SIR:  Your letters of March 24 and April 8, addressed to me, have been received. The grave importance of the facts contained in them, and in other communications from <placeName type="state" key="Utah Territory">Utah</placeName> by the same mail, required that the whole correspondence of the several departments with the officers of <placeName type="state" key="Utah Territory">the Territory</placeName> should be laid before the President. He has carefully considered the subject, and his opinion will be found expressed in a letter from me to the two associate Justices of <placeName type="state" key="Utah Territory">the Territory</placeName>, a copy of which I send to you.</p>
+
+<p><seg type="Context" subtype="TerritorialAdministration">You are clothed with the authority of a public accuser for <placeName type="state" key="Utah Territory">the Territory</placeName>. It is your duty to commence and carry on all public prosecutions with such aid and assistance as you see proper to call in. On proper occasions, and in a proper and respectful manner, you must oppose every effort which any judge may make to usurp your functions.  Do not allow your rights to remain unasserted.  If the judges will confine themselves to the simple and plain duty imposed upon them by law of hearing and deciding the cases that are brought before them, I am sure that the business of <placeName type="state" key="Utah Territory">the Territory</placeName> will get along very well. This must be impressed upon their minds, if possible, for if they will insist upon doing the duties of prosecuting attorney and marshal as well as their won, everything will be thrown into confusion, and the peace of <placeName type="state" key="Utah Territory">the Territory</placeName> may be destroyed at any moment.</seg></p>
+
+<p>But your duty must be performed with energy and impartiality.  Every crime that is committed, no matter by whom, should be exposed and punished.  I need not say that you are to make no distinction between Gentile and Mormon, or between Indian and white man.  You will prosecute the rich and the poor, the influential and the humble, with equal vigor, and thus entitle yourself to the confidence of all.</p>
+
+<p>It is only by these general remarks that I can express the wishes of the President with reference to your office; for at this distance it is impossible to give you detailed instructions. But there is one subject to which I would call special attention.  It appears that a company of emigrants <seg type="Emigrants" subtype="Route"><seg type="Emigrants" subtype="StateAffiliationArkansas">from Arkansas</seg> to California</seg> was attacked <seg type="Massacre" subtype="Location">at the <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, three hundred miles south of <placeName type="settlement" key="Salt Lake City, UT">Salt Lake</placeName></seg>, and <seg type="Massacre" subtype="Casualties">one hundred and nineteen cruelly murdered, none being spared</seg> <seg type="Massacre" subtype="Survivors">except some children, all of whom were under seven years of age</seg>.  This crime, by whomsoever committed, was one of the most atrocious that has ever blackened the character of the human race.  <seg type="Blame" subtype="IndiansIndependently">The Mormons blame it upon the Indians, and the accusation receives some color from the fact that <seg type="Massacre" subtype="Survivors">all the children who survived the massacre were found in the possession of Indians</seg>.</seg>  <seg type="Blame" subtype="LDS_LDS">Others, and among them a Judge of <placeName type="state" key="Utah Territory">the Territory</placeName>, declare their unhesitating belief that the Mormons themselves committed this foul murder.</seg>  All the circumstances seem, from the correspondence, to be enveloped in mystery.  <seg type="Massacre" subtype="Battle">In your letter the manner of the murder is describe&#8212;showing that the emigrants were attacked within a corral which they had formed for defence, <seg type="Massacre" subtype="Surrender">that they agreed to surrender their arms upon the promise that their lives should be spared, and after doing so were all of them treacherously butchered.</seg></seg>  Why does the information stop there?  If that much be known, how is that we know no more?  Who were the parties that received this surrender, and now it is proved?  <seg type="Reaction" subtype="FederalInvestigation">Cannot the superintendent of Indian affairs, or some one connected with that Department of the public service <seg type="Massacre" subtype="Survivors">trace back the children from the Indians in whose possession they were found to the corral where their parents were slain?</seg>  <seg type="Massacre" subtype="Spoils">It is said that some of the Mormon inhabitants of <placeName type="state" key="Utah Territory">Utah</placeName> have property of the emigrants in their possession.  If this be true, will it not furnish a thread which, properly followed, would lead back to the scene of the crime?</seg></seg></p>
+
+<p><seg type="Reaction" subtype="FederalInvestigation">These are merely suggestions, which are intended to show the interest of the Government in the subject, rather than to instruct you in the performance of your duty.</seg> It is, however, confidently expected of you that you will intermit no watch, nor let any opportunity escape you of learning all that can be known upon this subject. If you shall be under the necessity of employing agents, such reasonable expense as you may be put to on that account will be paid.</p>  
+
+<p>Your conduct at <placeName type="settlement" key="Provo, UT">Provo</placeName> seems, from all accounts of it, to have been perfectly proper, and is fully approved by the President.  Your refusal on a former occasion to violate the promise of pardon contained in the President’s proclamation was equally praiseworthy and correct.</p>
+
+<signed>I am, very respectfully, yours, &amp;c.,
+<persName key="Black, J. S.">J. S. BLACK</persName>.
+<persName key="Wilson, Alex">ALEX WILSON</persName>, Esq., United States District-Attorney, <hi rend="italic"><placeName type="state" key="Utah Territory">Utah Territory</placeName>.</hi></signed>
+
+</div2>
+
+<milestone unit="horbar" />
+
+<div2>
+
+<head type="sub">NEWS FROM THE ARMY IN <placeName type="state" key="Utah Territory">UTAH</placeName>.<lb/>
+<hi rend="italic">Correspondence of the Louisville Courier.</hi></head>
+
+<dateline><orgName type="military" key="Camp Floyd">CAMP FLOYD</orgName>, Wednesday, May 4, 1859.</dateline>
+
+<p>The continued absence of the paymaster has caused a pressure in the money market, never before experienced in any country, and were it not in the hopes of his arrival at no distant day, I do not know what would become of us.  In the entire camp $1,000 in coin could not be procured, even at 25 per cent, Government vouchers are plenty, but are of no avail, being in sums too large for general circulation at par, and holders not relishing the idea of paying 20 or 25 per cent, for coin.</p>
+
+<p>Capt. <persName key="Simpson, J. H.">SIMPSON</persName>’S topographical engineers left here on Monday last for <geogName type="valley" key="Carson Valley">Carson Valley</geogName>, for the purpose of exploring a route.  They will be absent some three months.  He employed Mr. <persName key="Reese, John">REESE</persName>, a Mormon Bishop, as guide.  The escort that left this post a short time ago, after Maj. <persName key="Prince">PRINCE</persName>, also went under the guidance of a Mormon.  Much dissatisfaction has been expressed by the Gentile citizens here, against Capt. <persName key="Turnley, P. T.">TURNLEY</persName>, A. Q. M., for giving employment to Mormons when, at the same time large numbers of discharged teamsters (Gentiles) are actually suffereing for want of food.  The conduct of <persName key="Russell, William H.">RUSSELL</persName>, <persName key="Majors, Alexander">MAJORS</persName>, and <persName key="Waddell, William B.">WADDALL</persName> has been most outrageous in discharging teamsters here, cheating them out of their hard-earned pay when possible.</p>
+
+<p>On Monday, a party started for <geogName type="valley" key="Cave Valley">Cave Valley</geogName>, about forty miles from this post, where, report says, gold has been found in great abundance.  Should this prove to be the case, numbers of Californians will come here.</p>
+
+<p>Judge <persName key="Cradlebaugh, John">CRADLEBAUGH</persName> has gone <seg type="Massacre" subtype="Location">south to <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, for the purpose of procuring evidence in that terrible and stupendous massacre.</p>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

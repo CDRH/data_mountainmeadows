@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.wa.custer.1883">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Wild Life on the Plains and Horrors of Indian Warfare</title>
+                <title level="m" type="sub"></title>
+                    <author><forename>George</forename> <forename type="middle">Armstrong</forename> <surname>Custer</surname></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.wa.custer.1883</idno>
+                <authority>"Horrible Massacre of Emigrants!!": The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project"></note>
+            </notesStmt>
+            
+            <sourceDesc>
+                
+                <bibl>
+                    <title level="m" type="main">Wild Life on the Plains and Horrors of Indian Warfare: Being A Complete History of Indian Life, Warfare and Adventure in America.  Making Specially Prominent the Late Indian War, with Full Descriptions of The Messiah Craze, Ghost Dance, Life of Sitting Bull.  The Whole Forms and Authentic and Complete History of the Savage Races in America&#8212;Their Illustrious Leaders, Their Beliefs, Manners and Customs, Comprising Terrible Battles, Wonderful Escapes, Thrilling Tales of Heroism, Daring Exploits, Wonderful Fortitude, etc., etc.</title>
+                    <author><forename>George</forename> <forename type="middle">Armstrong</forename> <surname>Custer</surname></author>
+                    <publisher>The Excelsior Publishing Co.</publisher>
+                    <pubPlace>St. Louis, MO</pubPlace>
+                    <extent></extent>
+                    <date when="1883">1883</date>
+		    <note type="source">George Armstrong Custer. <hi rend="italic">Wild Life on the Plains and Horrors of Indian Warfare.</hi> 1883. St. Louis, MO: Excelsior Publishing Co., 1891. 491-528.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>western_americana</term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-23"><name>Jaclyn Cruikshank Vogt</name> Encoding Enrichment</change>
+            <change when="2010-08-02"><name>Rosie Hanneke</name> Initial Encoding
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+
+<text>
+<body>
+<div1 type="chapter">
+ 
+<pb n="491" xml:id="mmm.wa.custer.1891.506"/>
+
+<head>XXVII.</head>
+
+<p>Captain <persName key="Tobin, John">John Tobin</persName>, late of the U. S. A., is another veteran plainsman and mountaineer.</p>
+
+<p>If his life and adventures were written up it would make a
+wonderfully thrilling and interesting book, and would read more
+like romance than reality, yet the facts can all be substantiated
+by indisputable authority. <seg type="Context" subtype="GunnisonMurder">He is the sole survivor of the famous Gunnison massacre.</seg></p>
+
+<p><persName key="Tobin, John">John Tobin</persName> was born in Dungarvan, County of Weatherford, 
+Ireland. At the early age of fifteen he espoused the cause of Ireland,
+and attached himself to the "Young Ireland Party," and was 
+engaged in the assault on the Cappoquin Barracks, in Weatherford
+county. Learning that a warrant had been issued for his arrest,
+he fled to England, and succeeded in boarding the ill-fated 
+Tuscarora. During the voyage the captain gave orders to "smoke"
+the vessel (fumigate the ship by burning tar). Through the
+carelessness of one of the sailors the tar was ignited, and the
+vessel caught fire, and at one time total destruction seemed 
+inevitable. The hatches were ordered battened down, and, by 
+almost superhuman exertions, the crew succeeded in extinguishing
+the fire. When the vessel arrived near Cape May, the Captain,
+by some mistake, ran her upon a coral reef, where both ship and
+cargo proved a total loss. The passengers and crew were rescued
+by neighboring fishermen, aided by wreckers.</p>
+
+<p>From here the brave lad made his way to Cape May, and thence
+to Philadelphia. Feeling that Ireland could never be free 
+without trained military leaders, he determined upon entering the
+army as soon as he should reach the requisite age. We cannot
+follow the dauntless boy through all his varied and checkered
+life. We will, however, relate an incident in the Captain's fitful
+career that happened in 1855.</p>
+
+<p>Young Tobin entered the army, as previously determined, and
+at the time we mention was stationed at Fort Lane, Oregon,
+and held the rank of sergeant of cavalry.</p>
+
+<p>On the evening of the ninth of October, 1855, a messenger
+arrived, bringing word that the Rogue River Indians were upon
+the war path, and were committing all kinds of outrages against
+the white settlers. He further stated that a number of men,
+women, and children had been massacred and their wagon train
+
+<pb n="492" xml:id="mmm.wa.custer.1891.507"/>
+
+captured and carried away by the red-skins. All was now 
+excitement among the troopers, and many and dire were the threats 
+made against the savages. Major Fitzgerald, with one hundred 
+and thirty men, including the company to which Tobin belonged, 
+was ordered to proceed in the direction the hostiles were 
+supposed to be, and afford what protection he could to the whites.</p>
+
+<p>Leaving Fort Lane in the afternoon of the same day, the 
+command rode rapidly toward the scene of slaughter. Night soon
+overtook the rescuing party, and it proved to be a dark and
+cloudy one. The route lay through a narrow tract of land
+skirted on both sides with heavy timber, and the troops found it
+diliieult to proceed. To <hi rend="italic">see</hi> was impossible, owing to the intense
+darkness of the night. It was also dangerous, as the command 
+could be easily ambuscaded and totally annihilated. The brave 
+band of troopers struggled manfully on, literally <hi rend="italic">feeling</hi> their
+way through the intense blackness surrounding them. No 
+thought of danger, no wish to delay, but all eager and anxious to
+meet the savage foe. Toward morning, while riding slowly along, 
+Tobin's horse shied suddenly and refused to proceed. The 
+sergeant dismounted, determined to ascertain the cause of his
+horse's strange action. His first thought was "Indians." Not
+daring to strike a light, he groped around in the dark and
+stumbled over something which, upon close inspection, proved
+to be a human body, entirely naked and horribly mutilated. The
+facts were reported to Major Fitzgerald, who at once ordered a
+halt and detailed eight or ten men to examine the ground.</p>
+
+<p>What was the horror of this little band of soldiers to discover
+the remains of twenty dead and mutilated men, women and
+children, stripped of every vestige of covering, with huge
+gashes in their legs and sides; some were literally disemboweled.</p>
+
+<p>The gray dawn of morn had by this time made its appearance,
+and the sight that presented itself to the troopers was horrible in
+the extreme. Scouts were immediately sent out to ascertain the
+whereabouts of the Indians.</p>
+
+<p>The scouts soon returned, and reported the Indians encamped
+about four miles further on, in the midst of an open valley.
+They, evidently, were not dreaming of being attacked, as they
+were howling and boasting of their prowess, and dancing the
+scalp dance. Major Fitzgerald, after hearing the report, 
+determined to start at once and ride rapidly to the Indian camp and
+begin the attack without delay.</p>
+
+<pb n="493" xml:id="mmm.wa.custer.1891.508"/>
+
+<figure xml:id="mmm.wa.custer.1891.508.figure">
+<p>The Attack on Emigrant Wagons.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="495" xml:id="mmm.wa.custer.1891.510"/>
+
+<p>For once the red man and the white would be on an equal
+footing. The command arrived in the vicinity of the hostiles
+about sunrise; but, owing to the open nature of the ground, a
+complete surprise could not be effected. The troopers were all
+well mounted, and armed with carbines, pistols and sabres. As 
+they emerged from the timber and appeared in view on the
+open plain, the savages quickly mounted their ponies and began
+to prepare for battle, crying, "choco-choco, Basson" (come
+on, come, you pale faces). Major Fitzgerald formed his men
+in line of battle, and rode rapidly to within easy range of the
+savages, obtaining a position that cut off the retreat to the
+timber in their rear. The savages, seeing their escape was next
+to impossible, prepared to make a desperate resistance.</p>
+
+<p>The Indians outnumbered the troopers four to one. The
+latter opened upon them a brisk fire of bullet and buckshot
+that caused them to waver; they rallied, however, and returned
+the fire with a rapid discharge of small arms and arrows.</p>
+
+<p>It was soon apparent to all that the Indians were adopting
+Siegel's tactics to "fight and retreat," and, by making a detour,
+reach the forest, some three-quarters of a mile in their rear.
+The commanding officer, divining their intentions, and without
+giving his troops time to reload, ordered them to draw sabre and
+charge. At the word of command, the men drew their sabres
+and fearlessly charged upon the horde of desperate and savage
+warriors.</p>
+
+<p>The conflict now raged hand to hand, and was desperate and
+bloody in the extreme.</p>
+
+<p>Take away all hope of escape from an Indian warrior, and let
+death stare him in the face, and he becomes a fiend incarnate.
+Such was the condition of the hostiles who opposed Major 
+Fitzgerald's command. On the other hand, the horrible scene 
+witnessed by the gallant cavalrymen the night previous cried for
+vengeance, and the recollection of the twenty innocent men,
+women and children murdered by these same red devils would
+continually arise, like Banquo's ghost, before their eyes, and
+spurred them on to heroic deeds of valor. Many and sanguinary
+were the hand-to-hand contests upon this hotly contested 
+battleground, two opposed to three, and three to one; sabre against
+spear, and knife against tomahawk.</p>
+
+<p>Before leaving Fort Lane, Sergeant Tobin had borrowed a six-
+shooter from Post Farrier Laughlin, and this, in all probability,
+
+<pb n="496" xml:id="mmm.wa.custer.1891.511"/>
+    
+saved his life. In the very commencement of the battle he was 
+attacked by three stalwart savages, armed with spears and 
+tomahawks, who made a most determined assault upon him. Tobin 
+calmly awaited their attack, and, by reserving his fire until they
+were within a few feet of him, he succeeded in killing two of
+them instantly and badly wounding a third, who, in his dying
+struggle, gave a peculiar whoop that attracted the attention of
+three more savages, who came with flying leaps to the aid of
+their wounded comrade.</p>
+
+<p>Again was Tobin in a desperate situation. He had still three
+loads left in his revolver, and determined to sell his life as dearly
+as possible. The foremost Indian came bounding forward,
+shouting the battle-cry, and when within ten feet of our hero, 
+sent his battle-axe with terrible force directly at the head of 
+Tobin. Fortunately it missed the brave trooper, although passing
+in uncomfortable proximity to his head. The next instant the 
+savage lay writhing in death with a ball from Tobin's revolver
+through his brain. Quicker than our tardy pen can trace the 
+facts, the second Indian fell to rise no more. The third was but
+a few feet behind his comrades, and, seeing their fate, he 
+hesitated before attacking a man who had just slain five of the 
+bravest warriors of the tribe.</p>
+
+<p>The brave trooper had but one more shot left, and, although 
+a man of iron nerve, and a splendid marksman, the terrific 
+combat was telling upon him. Would he be as successful with the
+sixth red-skin as he had been with the others? was the question
+that flashed through his brain. With great care and deliberation
+the warrior took aim and hurled his spear directly at the head of
+<persName key="Tobin, John">John Tobin</persName>. It swerved in its course, and the long, heavy 
+handle struck him a glancing blow on the side of the head that felled
+him to the ground. The savage instantly sprang forward to
+finish his victim, but the plucky trooper's time had not yet come.
+Recovering himself, he arose to a half-sitting, half-stooping 
+position. The Indian was now within three feet of him, with 
+scalping knife in hand, when Tobin's bullet pierced his brain, and he
+fell without a groan.</p>
+
+<p>The battle lasted over two hours, and ranged over a space half
+a mile square. Five hundred streaked and painted savages lay
+dead and dying on the bloody field. One red-skin alone of all
+that band of savage warriors succeeded in eluding the troopers
+and reaching the timber, where he disappeared with a yell of 
+defiance. All efforts to capture him proving futile.</p>
+
+<pb n="497" xml:id="mmm.wa.custer.1891.512"/>
+
+<p>A view of the battle ground presented a sickening sight. One
+savage had buried his knife to the hilt in the breast of a trooper,
+who had rctaliated by thrusting his sabre through the body of
+the Indian. Both were dead, one lying across the other.</p>
+
+<p>Now that the battle was ended, the troopers turned their 
+attention to their wounded comrades, and to burying the dead.
+Twenty-three troopers had made their last charge, and sorrowing
+companions proceeded to give them decent burial.</p>
+
+<p>Before the sad task was half finished a messenger arrived,
+attracted by the firing, who stated that the Indians had attacked
+Harris ranch, and unless aid was sent at once, the whites would
+all be murdered.</p>
+
+<p>Sergeant Tobin, with a detail of twenty-five men, was ordered
+to proceed at once to the ranch and render the inmates what aid
+he could. A short ride of two hours brought them to within
+sight of the ranch. The place was in the hands of some fifty
+savages. The troopers formed in fours, and rode boldly in the
+direction of the Indians. The latter deeming discretion the 
+better part of valor, discharged their arms at the troopers, and then
+fled precipitately to the woods. The troops returned the fire,
+but the distance being too great, no damage was done on either
+side. The troopers found Mr. Harris just breathing his last,
+while his wife and her fourteen-year-old daughter were tied to
+trees, and but for the timely arrival of Sergeant Tobin, would 
+have been subjected to a fate worse than death. The daughter
+was wounded in the shoulder.</p>
+
+<p>From these brave women Tobin learned that the Indians had
+attacked the house some two hours before, and the inmates had
+made a determined resistance. Mr. Harris was shot early in the 
+fight, and lay upon the floor in a dying condition. The heroic
+mother had taken her stand at a port hole, and kept the Indians
+at bay. The women were possessed of two rifles. The young
+girl did the loading and the mother did the shooting. Four 
+Indians were killed by this brave woman, and several more were
+wounded. It was by a combined attack from front and rear that
+the Indians finally succeeded in gaining an entrance and making
+captives of the inmates.</p>
+
+<p>This was but the beginning of a series of Indian outrages that
+lasted over two years, and cost the Government many valuable
+lives and a large amount of money.</p>
+
+<pb n="498" xml:id="mmm.wa.custer.1891.513"/>
+
+<p>Capt. <persName key="Tobin, John">John Tobin</persName> was the veteran mountaineer who saved the 
+entire Mormon hand-cart trains from destruction by risking his 
+life in crossing the Rocky Mountains in winter to obtain aid from
+Gov. <persName key="Young, Brigham">Brigham Young</persName> for the starving and snow-bound emigrants
+in the winter of 1856.</p>
+
+<p>He corroborates <persName key="Lee, John D.">John D. Lee</persName>'s confession of the Mountain 
+Meadows massacre, an account of which we give in the following pages.</p>
+
+<p>In order that the reader may understand the following extract,
+taken from "Mormonism Unveiled," we will state that <seg type="Emigrants" subtype="WagonTrain">a large
+emigrant train of eighteen wagons, <seg type="Massacre" subtype="Spoils">five hundred head of cattle,
+the property of some thirty families</seg>, consisting of <seg type="Massacre" subtype="Casualties">one hundred
+and twenty men, women and children</seg>, guided by Captain 
+<persName key="Fancher, Alexander">Fancher</persName></seg>, were <seg type="Emigrants" subtype="Route">on their way to <placeName type="state" key="California">California</placeName></seg> to find homes. <seg type="Massacre" subtype="Dates">On the 22d day of September, 1857</seg>, the emigrants were attacked <seg type="Massacre" subtype="Location">at
+<geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName>, <placeName type="county" key="Washington County, UT">Washington County</placeName>, M. T.</seg>, <seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDS">by Indians and
+Mormons</seg></seg>, and <seg type="Massacre" subtype="Casualties">the entire party slain</seg>. <persName key="Lee, John D.">John D. Lee</persName>, nearly
+twenty years afterwards, was arrested, tried, convicted, and 
+executed for his part in this infamous transaction. The following
+is a part of his confession after he found there was no hope for
+him: &#8212;</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">About the 7th of September, 1857, I went to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> from
+my home at <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, by order of President <persName key="Haight, Isaac C.">Haight</persName>. I did not
+know what he wanted of me, but he had ordered me to visit him
+and I obeyed. If I remember correctly, it was on Sunday 
+evening that I went there. When I got to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, I met <persName key="Haight, Isaac C."></persName> on the public square of the town. <persName key="Haight, Isaac C.">Haight</persName> was then
+President of that State of Zion, and the highest man in the 
+Mormon priesthood in that country, and next to <persName key="Dame, William H.">Wm. H. Dame</persName> in
+all of Southern <placeName type="state" key="Utah Territory">Utah</placeName>, and as Lieutenant-Colonel he was second
+to <persName key="Dame, William H.">Dame</persName> in the command of the Iron Military District. The
+word and command of <persName key="Haight, Isaac C.">Isaac C. Haight</persName> were <hi rend="italic">the law</hi> in <placeName type="settlement" key="Cedar City, UT">Cedar
+City</placeName>, at that time, and to disobey his orders was certain death;
+be they right or wrong, no Saint was permitted to question them,
+their duty was obedience or death.</seg></p>
+
+<p>When I met <persName key="Haight, Isaac C.">Haight</persName>, I asked him what he wanted with me.
+He said he wanted to have a long talk with me on private and
+particular business. We took some blankets and went over to
+the old Iron Works, and lay there that night, so that we could
+talk in private and in safety. After we got to the Iron Works,
+<persName key="Haight, Isaac C.">Haight</persName> told me all about the train of emigrants. He said (and I then believed every word that he spoke, for I believed it was
+an impossible thing for one so high in the Priesthood as he was, 
+
+<pb n="499" xml:id="mmm.wa.custer.1891.514"/>
+    
+to be guilty of falsehood) that <seg type="Blame" subtype="EmigrantBehavior">the emigrants were a rough and
+abusive set of men. That they had, while travelling through
+<placeName type="state" key="Utah Territory">Utah</placeName>, <seg type="Encounter" subtype="Slander">been very abusive to all the Mormons they met. That
+they had insulted, outraged, and ravished many of the Mormon
+women. That the abuses heaped upon the people by the 
+emigrants during their trip from Provo to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, had been
+constant and shameful</seg>; that they had burned fences and destroyed
+growing crops; that <seg type="Encounter" subtype="Poison">at many points on the road they had poisoned
+the water, so that all people and stock that drank of the water
+became sick, and many had died from the effects of poison.</seg>
+That these vile Gentiles publicly proclaimed that they had the
+very pistol with which the Prophet, <persName key="Smith, Joseph">Joseph Smith</persName>, was murdered
+and had threatened to kill <persName key="Young, Brigham">Brigham Young</persName> and all of the
+Apostles. That when in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> they said they would have 
+friends in <placeName type="state" key="Utah Territory">Utah</placeName> who would hang <persName key="Young, Brigham">Brigham Young</persName> by the neck
+until he was dead, before snow fell again in <placeName type="state" key="Utah Territory">the Territory</placeName>.
+<seg type="Context" subtype="UtahWar">They also said that <persName key="Johnston, Albert Sidney">Johnston</persName> was coming, with his army, from
+the East, and they were going to return from <placeName type="state" key="California">California</placeName> with
+soldiers, as soon as possible, and would then desolate the land,
+and kill every d&#8212;d Mormon man, woman and child that they
+could find in <placeName type="state" key="Utah Territory">Utah</placeName>.</seg> That they violated the ordinances of the
+town of Cedar, and had, by armed force, resisted the officers
+who tried to arrest them for violating the law. That after 
+leaving <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> the emigrants camped by the company, or 
+co-operative field, just below <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and burned a large 
+portion of the fencing, leaving the crops open to the large herds of
+stock in the surrounding country. <seg type="Encounter" subtype="Poison">Also that they had given
+poisoned meat to the Corn Creek tribe of Indians, which had
+killed several of them, and their Chief, <persName key="Kanosh">Konosh</persName>, was on the trail
+of the emigrants, and would soon attack them.</seg> All of these
+things, and much more of a like kind</seg>, <persName key="Haight, Isaac C.">Haight</persName> told me as we lay
+in the dark at the old Iron Works. I believed all that he said, 
+and, thinking that he had full right to do all that he wanted to
+do, I was easily induced to follow his instructions.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning"><persName key="Haight, Isaac C.">Haight</persName> said that unless something was done to prevent it, the
+emigrants would carry out their threats and rob every one of the
+outlying settlements in the South, and that the whole Mormon
+people were liable to be butchered by the troops that the 
+emigrants would bring back with them from <placeName type="state" key="California">California</placeName>. I was then
+told that the Council had held a meeting that day, to consider
+the matter, and that <seg type="Blame" subtype="IndiansLDSInfluence">it was decided by the authorities to arm
+
+<pb n="500" xml:id="mmm.wa.custer.1891.515"/>
+        
+the Indians, give them provisions and ammunition, and send them
+after the emigrants, and have the Indians give them a <hi rend="italic">brush</hi>,
+and if they killed part or all of them, so much the better.</seg></seg></seg></p>
+
+<p>I said, "Brother <persName key="Haight, Isaac C.">Haight</persName>, who is your authority for acting in
+this way?"</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">He replied, <seg type="Context" subtype="UtahWar">"It is the <hi rend="italic">will of all in authority</hi>. The emigrants
+have no pass from any one to go through the country, and they
+are liable to be killed as common enemies, for the country is at
+war now. No man has a right to go through this county 
+without a written pass."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">We lay there and talked much of the night, and during that
+time <persName key="Haight, Isaac C.">Haight</persName> gave me very full instructions what to do, and how
+to proceed in the whole affair. He said he had consulted with
+Colonel <persName key="Dame, William H.">Dame</persName>, and <seg type="Blame" subtype="IndiansLDSInfluence">every one agreed to let the Indians use up
+the whole train if they could.</seg> <persName key="Haight, Isaac C.">Haight</persName> then said: &#8212;</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">"I expect you to carry out your orders."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I knew I had to obey or die. I had no wish to disobey, for I
+then thought that my superiors in the Church were the mouth-
+pieces of Heaven, and that it was an act of godliness for me to
+obey any and all orders given by them to me, without my asking
+any questions.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="IndiansLDSInfluence">My orders were to go home to <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, and see <persName key="Shirts, Carl">Carl Shirts</persName>,
+my son-in-law, an Indian interpreter, and send him to the Indians
+in the South, to notify them that the Mormons and Indians were
+at war with the "<hi rend="italic">Mericats</hi>" (as the Indians called all whites
+that were not Mormons) and bring all the Southern Indians up
+and have them join with those from the North, so that their
+force would be sufficient to make a successful attack on the
+emigrants.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">It was agreed that <persName key="Haight, Isaac C.">Haight</persName> would send <persName key="Johnson, Nephi">Nephi Johnson</persName>, another
+Indian interpreter, to <hi rend="italic">stir up</hi> all the other Indians that he could
+find, in order to have a large enough force of Indians to give the
+emigrants a good <hi rend="italic">hush</hi>. He said, "These are the orders that
+have been agreed upon by the Council, and it is in accordance
+with the feelings of the <hi rend="italic">entire people</hi>."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">I asked him if it would not have been better to first send to
+<persName key="Young, Brigham">Brigham Young</persName> for instructions, and find out what he thought 
+about the matter.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">"No," said <persName key="Haight, Isaac C.">Haight</persName>, "that is unnecessary, <hi rend="italic">we are acting by
+orders</hi>.</seg> <seg type="Blame" subtype="IndiansLDSInfluence">Some of the Indians are now on the war-path, and all of
+them must be sent out; all must go, so as to make the thing a 
+success.</seg>"</seg></p>
+
+<pb n="501" xml:id="mmm.wa.custer.1891.516"/>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="IndiansIndependently">It was then intended that the Indians should kill the
+emigrants, and make it an Indian massacre, and not have any whites
+interfere with them. No whites were to be known in the
+matter, it was to be all done by the Indians, so that it could be laid
+to them, if any questions were ever asked about it. I said to
+<persName key="Haight, Isaac C.">Haight</persName>: &#8212;</seg></seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansLDSInfluence">"You know what the Indians are. They will kill all the
+party, women and children, as well as the men, and you know
+we are sworn not to shed innncent blood."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="EmigrantBehavior">"Oh h&#8212;l!" said he, "there will not be one drop of <hi rend="italic">innocent</hi>
+blood shed, if every one of the d&#8212;d pack are killed, for they
+are the worse lot of out-laws and ruffians that I ever saw in my
+life."</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">We agreed upon the whole thing, how each one should act, and
+then left the iron works, and went to <persName key="Haight, Isaac C.">Haight</persName>'s house and got
+breakfast.</seg></seg></p>
+
+<p>After breakfast I got ready to start, and <persName key="Haight, Isaac C.">Haight</persName> said to me:&#8212;</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">"Go, Brother <persName key="Lee, John D.">Lee</persName>, and see that the instructions of those in
+authority are obeyed, and as you are dutiful in this, so shall your
+reward be in the kingdom of God, for God will bless those who
+willingly obey counsel, and make all things fit for the people in
+these last days."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">I left <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for my home at <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, to carry out the
+instructions that I had received from my superior.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I then believed that he acted by the direct order and command
+of <persName key="Dame, William H.">William H. Dame</persName>, and others even higher in authority than
+Colonel <persName key="Dame, William H.">Dame</persName>. One reason for thinking so was from a talk I
+had only a few days before, with Apostle <persName key="Smith, George A.">George A. Smith</persName>, and
+he had just then seen <persName key="Haight, Isaac C.">Haight</persName>, and talked with him, and I knew
+that <persName key="Smith, George A.">George A. Smith</persName> never talked of things that <persName key="Young, Brigham">Brigham Young</persName> had not talked over with him beforehand. <seg type="Context" subtype="UtahWar">Then the Mormons were at war with the United States, and the orders to the
+Mormons had been all the time to kill and waste away our enemies,
+but lose none of our people.</seg> <seg type="Context" subtype="LDSPersecution"><seg type="Blame" subtype="LDS_LDSBloodAtonement">These emigrants were from the
+section of the country most hostile to our people, and I believed
+then as I do now, that it was the will of every true Mormon in
+<placeName type="state" key="Utah Territory">Utah</placeName>, at that time, that the enemies of the church should be
+killed as fast as possible, and as this lot of people had men
+amongst them that were supposed to have helped kill the 
+prophets in the <placeName type="settlement" key="Carthage, IL">Carthage</placeName> jail, the killing of all of them would be 
+keeping our oaths and avenging the blood of the prophets.</seg></seg></seg></p>
+
+<pb n="502" xml:id="mmm.wa.custer.1891.517"/>
+
+<p>In justice to myself I will give the facts of my talk wich
+<persName key="Smith, George A.">George A. Smith</persName>.</p>
+
+<p><seg type="Massacre" subtype="Dates">In the latter part of the month of August, 1857, about ten
+days before</seg> the company of Captain <persName key="Fancher, Alexander">Fancher</persName>, who met their
+doom <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg>, arrived at that place, General
+<persName key="Smith, George A.">George A. Smith</persName> called on me at one of my homes at
+<placeName type="settlement" key="Washington City, UT">Washington City</placeName>, <placeName type="county" key="Washington County, UT">Washington county</placeName>, <placeName type="state" key="Utah Territory">Utah Territory</placeName>, and wished me to
+take him round by Fort Clara, via Pinto settlements, to 
+Hamilton Fort, or <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. He said: &#8212;</p>
+
+<p>"<seg type="Encounter" subtype="TradeLDS">I have been sent down here by the old Boss, <persName key="Young, Brigham">Brigham Young</persName>,
+to instruct the brethren of the different settlements not to sell
+any of their grain to our enemies. And to tell them not to feed
+it to their animals, for it will all be needed by ourselves.</seg> <seg type="Context" subtype="UtahWar">I am
+also to instruct the brethren to prepare for a <hi rend="italic">big fight</hi>, for the
+enemy is coming in large force to attempt our destruction. But
+<persName key="Johnston, Albert Sidney">Johnston</persName>'s army will not be allowed to approach our settlements 
+from the east. God is on our side and will fight our battles for
+us, and deliver our enemies into our hands. <persName key="Young, Brigham">Brigham Young</persName> has
+received revelations from God, giving him the right and the
+power to call down the curse of God on all our enemies who
+attempt to invade our territory. <seg type="Context" subtype="LDSPersecution"><hi rend="italic">Our greatest danger</hi> lies in the
+people of <placeName type="state" key="California">California</placeName>&#8212;a class of reckless miners who are strangers to God and his righteousness. They are likely to come upon us
+from the south and destroy the small settlements. But we will
+try and outwit them before we suffer much damage.</seg> The 
+people of the United States who oppose our Church and people are
+a mob, from the <persName key="Buchanan, James">President</persName> down, and as such it is impossible for
+their armies to prevail against the Saints who have gathered here
+in the mountains."</seg></p>
+
+<p>He continued this kind of talk for some hours to me and my
+friends who were with me.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">General <persName key="Smith, George A.">George A. Smith</persName> held high rank as a military leader. He was one of the twelve apostles of the Church of Jesus Christ
+of Latter Day Saints, and as such he was considered by me to be
+an inspired man. His orders were to me sacred commands, 
+which I considered it my duty to obey, without question or 
+hesitation.</seg></p>
+
+<p>I took my horses and carriage and drove with him to either
+Hamilton Fort or <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, the settlements with him, as he had requested. I did not go to hear him preach at any of
+our stopping places, nor did I pay attention to what he said to the 
+leaders in the settlements.</p>
+
+<pb n="503" xml:id="mmm.wa.custer.1891.518"/>
+
+<p>The day we left Fort Clara, which was then the headquarters
+of the Indian missionaries under the presidency of <persName key="Hamblin, Jacob">Jacob
+Hamblin</persName>, we stopped to noon at the Clara River. <seg type="Context" subtype="IndianRelationsLDS">While there the
+Indians gathered around us in large numbers and were quite saucy
+and impudent. Their chiefs asked me where I was going and
+who I had with me. I told them that he was a big captain.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">"Is he a Mericat captain?"</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">"No," I said, "he is a Mormon."</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">The Indians then wanted to know more. They wanted to have
+a talk.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">The General told me to <seg type="Context" subtype="IndianRelationsUS">tell the Indians that the Mormons
+were their friends, and that the Americans were their enemies</seg>,
+and the enemies of the Mormons, too; that he wanted the 
+Indians to remain the fast friends of the Mormons, for the 
+Mormons were all friends to the Indians; that <seg type="Context" subtype="UtahWar"><seg type="Context" subtype="IndianRelationsUS">the Americans had a
+large army just east of the mountains, and intended to come
+over the mountains into <placeName type="state" key="Utah Territory">Utah</placeName> and kill all of the Mormons and
+Indians in <placeName type="state" key="Utah Territory">Utah</placeName> Territory; that the Indians must get ready and
+keep ready for war against all of the Americans, and keep
+friendly with the Mormons and obey what the Mormons told them
+to do</seg>&#8212;that this was the will of the Great Spirit; that if the
+Indians were true to the Mormons and would help them against
+their enemies, then the Mormons would always keep them from
+want and sickness and give them guns and ammunition to hunt
+and kill game with, and would also help the Indians against their
+enemies when they went into war.</seg></seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">This talk pleased the Indians, and they agreed to all that I
+asked them to do.</seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS">I saw that my friend <persName key="Smith, George A.">Smith</persName> was a little nervous and fearful of
+the Indians, notwithstanding their promises of friendship. To
+relieve him of his anxiety I hitched up and started on our way,
+as soon as I could do so without rousing the suspicions of the
+Indians.</seg></p>
+
+<p>We had ridden along about a mile or so when General <persName key="Smith, George A.">Smith</persName>
+said: &#8212;</p>
+
+<p><seg type="Massacre" subtype="Planning">"Those are savage looking fellows. I think they would make
+it lively for an emigrant train if one should come this way."</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">I said I thought they would attack any train that would come
+in their way. Then the General was in a deep study for some
+time, when he said:</seg></p>
+
+<p><seg type="Massacre" subtype="Planning">"<seg type="Blame" subtype="EmigrantBehavior">Suppose an emigrant train should come along through this
+
+<pb n="504" xml:id="mmm.wa.custer.1891.519"/>
+    
+southern country, making threats against our people and 
+bragging of the part they took in helping kill our prophets, what do 
+you think the brethren would do with them?</seg> Would they be 
+permitted go their way, or would the brethren pitch into them and
+give them a good drubbing?"</seg></p>
+
+<p> I reflected a few moments, and then said: &#8212;</p>
+
+<p><seg type="Context" subtype="LDSReformation">"You know the brethren are now under the influence of the
+late reformation, and are still red-hot for the gospel.</seg> <seg type="Context" subtype="UtahWar">The
+brethren believe the government wishes to destroy them.</seg> I
+really believe that any train of emigrants that may come through
+here will be attacked, and probably all destroyed. <seg type="Context" subtype="LDSPersecution">I am sure
+they would be wiped out if they had been making threats against
+our people.</seg> Unless emigrants have a pass from <persName key="Young, Brigham">Brigham Young</persName>, 
+or some one in authority, they will certainly never get safely 
+through this country.</p>
+
+<p>My reply pleased him very much, and he laughed heartily, and
+then said: &#8212;</p>
+
+<p>"Do you really believe the brethren would make it lively for
+such a train?"</p>
+
+<p>I said: "Yes, sir; I know they will, unless they are protected 
+by a pass, and I wish to inform you that unless <hi rend="italic">you want every
+train captured</hi> that comes through here, you must inform 
+Governor <persName key="Young, Brigham">Young</persName> that if he wants emigrants to pass without being 
+molested, he must send orders to that effect to Colonel <persName key="Dame, William H.">Wm. H.
+Dame</persName> or Major <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, so that they can give passes to
+the emigrants, for <hi rend="italic">their passes will insure safety</hi>, but nothing else
+will, except the positive orders of Governor <persName key="Young, Brigham">Young</persName>, <seg type="Blame" subtype="LDS_LDSZealots">as the
+people are all bitter against the Gentiles, and full of religious zeal</seg>,
+and <seg type="Blame" subtype="LDS_LDSBloodAtonement">anxious to avenge the blood of the Prophets</seg>."</p>
+
+<p><seg type="Massacre" subtype="Planning">The only reply he made was to the effect that on his way down
+from <placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName> he had had a long talk with Major <persName key="Haight, Isaac C.">Haight</persName>
+on the same subject, and that <persName key="Haight, Isaac C.">Haight</persName> had assured him, and
+given him to understand that emigrants who came along 
+without a pass from Governor <persName key="Young, Brigham">Young</persName> could not escape from <placeName type="state" key="Utah Territory">the
+Territory</placeName>.</seg></p>
+
+<p>We then rode along in silence for some distance, when he again
+turned to me and said: &#8212;</p>
+
+<p>"Brother <persName key="Lee, John D.">Lee</persName>, <seg type="Context" subtype="LDSReformation">I am satisfied that the brethren are under the
+full influence of the reformation</seg>, and <seg type="Context" subtype="LDSPersecution">I believe they will do just
+as you say they will with the wicked emigrants that come through
+the country making threats and abusing our people.</seg>"</p>
+
+<pb n="505" xml:id="mmm.wa.custer.1891.520"/>
+
+<p>I repeated my views to him, but at much greater length, 
+giving my reasons in full for thinking that Governor <persName key="Young, Brigham">Young</persName> should
+give orders to protect all the emigrants that he did not wish
+destroyed. I went into a full statement of the wrongs of our
+people, and told him that <seg type="Context" subtype="LDSReformation">the people were under the blaze of
+the reformation, full of wild fire and fanaticism, and that <seg type="Context" subtype="LDSPersecution">to
+shed the blood of those who would <hi rend="italic">dare to speak</hi> against the
+Mormon Church or its leaders, they would consider doing the
+will of God,</seg> and that the people would do it as willingly and
+cheerfully as they would any other duty. That the apostle Paul,
+when he started forth to persecute the followers of Christ, was
+not any more sincere than every Mormon was then, who lived in
+Southern <placeName type="state" key="Utah Territory">Utah</placeName></seg>.</p>
+
+<p>My words served to cheer up <persName key="Smith, George A.">the General</persName> very much; he was
+greatly delighted and said: &#8212;</p>
+
+<p>"I am glad to hear so good an account of our people. God
+will bless them for all that they do to build up His Kingdom in
+the last days."</p>
+
+<p><seg type="Massacre" subtype="Planning">General <persName key="Smith, George A.">Smith</persName> did not say one word to me, or intimate to me,
+that he wished <hi rend="italic">any emigrants</hi> to pass in safety through <placeName type="state" key="Utah Territory">the
+Territory</placeName>. <seg type="Context" subtype="UtahWar">But he led me to believe then, as I believe now, that he
+did want, and expected every emigrant to be killed that 
+undertook to pass through <placeName type="state" key="Utah Territory">the Territory</placeName> while we were at war with the
+Government.</seg> I thought it was his <hi rend="italic">mission</hi> to prepare the people
+for the bloody work.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I have always believed, since that day, that General <persName key="Smith, George A.">George
+A. Smith</persName> was then visiting Southern <placeName type="state" key="Utah Territory">Utah</placeName> to prepare the people for the work of exterminating Captain <persName key="Fancher, Alexander">Fancher</persName>'s train of emigrants, and I now believe that he was sent for that purpose by the direct command of <persName key="Young, Brigham">Brigham Young</persName>.</seg></p>
+
+<p><seg type="Encounter" subtype="TradeLDS">I have been told by <persName key="Wood, Joseph">Joseph Wood</persName>, <persName key="Willis, Thomas T.">Thomas T. Willis</persName>, and
+many others, that they heard <persName key="Smith, George A.">George A. Smith</persName> preach at <placeName type="settlement" key="Cedar City, UT">Cedar
+City</placeName> during that trip, and that he told the people of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>
+that the emigrants were coming, and he told them that they must not sell that company <hi rend="italic">any grain</hi> or <hi rend="italic">provisions</hi> of any kind, 
+for they were a mob of villains and outlaws, and the enemies of God and the Mormon people.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning"><persName key="Littlefield, Sidney">Sidney Littlefield</persName>, of <placeName type="settlement" key="Panguitch, UT">Panguitch</placeName>, has told me that he was knowing to the fact of Colonel <persName key="Dame, William H.">Wm. H. Dame</persName> sending orders
+from <placeName type="settlement" key="Parowan, UT">Parowan</placeName> to Major <persName key="Haight, Isaac C.">Haight</persName>, at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, to <hi rend="italic">exterminate the <persName key="Fancher, Alexander">Francher</persName> outfit</hi>, and to <seg type="Massacre" subtype="Casualties">kill every emigrant without fail</seg>.</seg></seg>
+
+<pb n="506" xml:id="mmm.wa.custer.1891.521"/>
+    
+<persName key="Littlefield, Sidney">Littlefield</persName> then lived at <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and <persName key="Dame, William H.">Dame</persName> was the Presiding Bishop. <persName key="Dame, William H.">Dame</persName> <seg type="Context" subtype="Polygamy">still has all the wives he wants</seg>, and is a great
+friend of <persName key="Young, Brigham">Brigham Young</persName>.</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">The knowledge of how <persName key="Smith, George A.">George A. Smith</persName> felt toward the
+emigrants, and his telling me that he had a long talk with <persName key="Haight, Isaac C.">Haight</persName>
+on the subject, made me certain that it was the wish of the
+<hi rend="italic">Church authorities</hi> that <persName key="Fancher, Alexander">Fancher</persName> and his train should be <hi rend="italic">wiped
+out</hi>, and knowing all this, I did not doubt then, and I do not
+doubt it now, either, that <persName key="Haight, Isaac C.">Haight</persName> was acting by full authority
+from the Church leaders, and that the orders he gave to me were
+just the orders that he had been directed to give, <seg type="Blame" subtype="IndiansLDSInfluence">when he
+ordered me to raise the Indians and have them attack the
+emigrants</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I acted through the whole matter in a way that I considered it
+my religious duty to act, and if what I did was a crime, it was a crime of the Mormon Church, and not a crime for which I feel
+individually responsible.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">I must here state that <persName key="Klingensmith, Philip">Klingensmith</persName> was not in <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> that Sunday night. <persName key="Haight, Isaac C.">Haight</persName> said he had sent <persName key="Klingensmith, Philip">Klingensmith</persName> and others over towards <placeName type="settlement" key="Pinto, UT">Pinto</placeName>, and around there, to <seg type="Blame" subtype="IndiansLDSInfluence">stir up the Indians and force them to attack the emigrants.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">On my way from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to my home at <placeName type="settlement" key="Harmony, UT">Harmony</placeName>, I came up with a large band of Indians under <persName key="Moquetas">Moquetas</persName> and <persName key="Big Bill">Big Bill</persName>, two <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> chiefs; they were in their war paint, and fully equipped for battle. They halted when I came up and said they had had a big talk with <persName key="Haight, Isaac C.">Haight</persName>, <persName key="Higbee, John M.">Higby</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName>, and had got orders from them to follow up the emigrants and kill them all, and <seg type="Massacre" subtype="Spoils">take their property as the spoil of their enemies</seg>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="IndiansLDSInfluence">These Indians wanted me to go with them and command their
+forces. I told them that I could not go with them that evening,
+that I had orders from <persName key="Haight, Isaac C.">Haight</persName>, the <hi rend="italic">big Captain</hi>, to send other
+Indians on the war-path to help them kill the emigrants, and
+that I must attend to that first; that I wanted them to go on
+near where the emigrants were and camp until the other Indians
+joined them; that I would meet them the next day and lead
+them.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">This satisfied them, but they wanted me to send my little
+Indian boy, <persName key="Lee, Clem">Clem</persName> with them. After some time I consented to let
+<persName key="Lee, Clem">Clem</persName> go with them, and I returned home.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">When I got home I told <persName key="Shirts, Carl">Carl Shirts</persName> what the orders were that
+<persName key="Haight, Isaac C.">Haight</persName> had sent to him. <persName key="Shirts, Carl">Carl</persName> was naturally cowardly and was 
+
+<pb n="507" xml:id="mmm.wa.custer.1891.522"/>
+    
+not willing to go, but I told him the orders must be obeyed. He
+then started off that night, or early next morning, to stir up the
+Indians of the South, and lead them against the emigrants. The
+emigrants were then camped <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">Mountain Meadows</geogName></seg></seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle">The Indians did not obey my instructions. They met, several
+hundred strong, at <geogName type="valley" key="Mountain meadows">the Meadows</geogName>, and attacked the emigrants
+<seg type="Massacre" subtype="Dates">Tuesday morning</seg>, just before daylight, and at the first fire, as
+I afterwards learned, <seg type="Massacre" subtype="Casualties">they killed seven</seg> and wounded sixteen of
+the emigrants. <seg type="Massacre" subtype="Casualties">The latter fought bravely, and repulsed the
+Indians, killing some of them and breaking the knees of two
+war chiefs, who afterwards died.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle">The news of the battle was carried all over the country by
+Indian runners, and the excitement was great in all the small
+settlements. I was notified of what had taken place, <seg type="Massacre" subtype="Dates">early
+Tuesday morning</seg>, by an Indian who came to my house and gave me
+a full account of all that had been done. The Indian said it was
+the wish of all the Indians that I should lead them, and that I
+must go back with him to the camp.</seg></seg></p>
+
+<p>I started at once, and by taking the Indian trail over the 
+mountain, I reached the camp in about twelve miles from <placeName type="settlement" key="Harmony, UT">Harmony</placeName>.
+To go round by the wagon road it would have been between
+forty and fifty miles.</p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">When I reached the camp I found the Indians in a frenzy of
+excitement. They threatened to kill me unless I agreed to lead
+them against the emigrants, and help them kill them. They also
+said they had been told that they could kill the emigrants without danger to themselves, but <seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Casualties">they had lost some of their braves</seg>,
+and others were wounded</seg>, and unless they could kill all the
+"<hi rend="italic">Mericats</hi>" as they called them, they would declare war against
+the Mormons and kill every one in the settlements.</seg></seg></p>
+
+<p><seg type="Context" subtype="IndianRelationsLDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">I did as well as I could under the circumstances. I was the
+only white man there, with a wild and excited band of several
+hundred Indians. I tried to persuade them that all would be
+well, that I was their friend and would see that they had their
+revenge, if I found out that they were entitled to revenge.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Planning">My talk only served to increase their excitement, and being
+afraid that they would kill me if I undertook to leave them, and
+I would not lead them against the emigrants, so I told them
+that I would go south and meet their friends, and hurry them up
+to help them. I intended to put a stop to the carnage if I had
+the power, for I believed that the emigrants had been sufficiently
+
+<pb n="508" xml:id="mmm.wa.custer.1891.523"/>
+    
+punished for what they had done, and I felt then, and always
+have felt that such wholesale murdering was wrong.</seg></seg></seg></p>
+
+<p>At first the Indians would not consent for me to leave them,
+but they finally said I might go and meet their friends.</p>
+
+<p>I then got on my horse and left <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, and went south.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I had gone about sixteen miles, when I met <persName key="Shirt, Carl">Carl Shirts</persName> with
+about one hundred Indians, and a number of Mormons from the
+southern settlements. They were going to <seg type="Massacre" subtype="Location">the scene of the
+conflict</seg>. How they learned of the emigrants being <seg type="Massacre" subtype="Location">at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName></seg>
+I never knew, but they did know it, and were there fully armed,
+and determined to obey <hi rend="italic">orders</hi>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">Amongst those whom I remember to have met there, were <persName key="Knight, Samuel">Samuel Knight</persName>, <persName key="Hamblin, Oscar">Oscar Hamblin</persName>, <persName key="Young, William">William Young</persName>, <persName key="Shirts, Carl">Carl Shirts</persName>, <persName key="Pearce, Harrison">Harrison Pearce</persName>, <persName key="Pearce, James">James Pearce</persName>, <persName key="Clark, John W.">John W. Clark</persName>, <persName key="Slade, William Sr.">William Slade, Sr.</persName>, <persName key="Matthews, James">James Matthews</persName>, <persName key="Leavitt, Dudley">Dudley Leavitt</persName>, <persName key="Hawley, William">William Hawley</persName> (now a resident of <placeName type="settlement" key="Fillmore">Filmore</placeName>, <placeName type="state" key="Utah Territory">Utah</placeName> Territory), <persName key="Slade, William Jr.">William Slade, Jr.</persName>, and two others whose names I have forgotten. I think they were <persName key="Adair, George W.">George W. Adair</persName> and <persName key="Hawley, John">John Hawley</persName>. I know they were at <seg type="Massacre" subtype="Location"><geogName type="valley" key="Mountain Meadows">the meadows</geogName></seg> at the time of the massacre, and I think I met them that night south of <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, with <persName key="Knight, Samuel">Samuel Knight</persName> and the others.</seg></p>
+
+<p>The whites camped there that night with me, but most of the
+Indians rushed on to their friends at the camp on <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">I reported to the whites all that had taken place at <geogName type="valley" key="Mountain Meadows">the
+Meadows</geogName>, but none of them were surprised in the least. They all
+seemed to know that the attack was to be made, and all about
+it.</seg> I spent one of the most miserable nights there that I ever
+passed in my life. I spent much of the night in tears and at
+prayer. I wrestled with God for wisdom to guide me. I asked
+for some sign, some evidence that would satisfy me that my
+mission was of heaven, but I got no satisfaction from my God.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">In the morning we all agreed to go on together to <geogName type="valley" key="Mountain Meadows">Mountain
+Meadows</geogName>, and camp there, and then send a messenger to <persName key="Haight, Isaac C.">Haight</persName>,
+giving him full instructions of what had been done, and to ask
+him for further instructions. We knew that the original plan
+was for the Indians to do all the work, and the whites to do
+nothing, only to stay back and plan for them, and encourage
+them to do the work. Now, we knew the Indians could not do
+the work, and we were in a sad fix.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I did not then know that a messenger had been sent to <persName key="Young, Brigham">Brigham
+Young</persName> for instructions. <persName key="Haight, Isaac C.">Haight</persName> had not mentioned it to me.
+
+<pb n="509" xml:id="mmm.wa.custer.1891.524"/>
+    
+I now think that <persName key="Haslam, James Holt">James Haslem</persName> was sent to <persName key="Young, Brigham">Brigham Young</persName>, as
+a sharp play on the part of the authorities to protect themselves,
+if trouble ever grew out of the matter.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Blame" subtype="IndiansIndependently">We went to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> and camped at the springs, about
+half a mile from the emigrant camp. There was a larger 
+number of Indians there then, fully three hundred, and I think as
+many as four hundred of them. The two chiefs who were shot
+in the knee were in a bad fix. The Indians had killed a number
+of the emigrants' horses, and about sixty or seventy head of
+cattle were lying dead on <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, which the Indians had
+killed for spite and revenge.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning">Our company killed a small beef for dinner, and after eating
+a hearty meal of it we held a council and decided to send a 
+messenger to <persName key="Haight, Isaac C.">Haight</persName>. I said to the messenger who was either 
+Edwards or Adair (I cannot now remember which it was), <seg type="Blame" subtype="IndiansIndependently">"Tell
+<persName key="Haight, Isaac C.">Haight</persName>, for my sake, for the people's sake, for God's sake, send
+me help to protect and save these emigrants, and pacify the
+Indians."</seg></seg></p>
+
+<p>The messenger started from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for our camp on <geogName type="valley" key="Mountain Meadows">the
+Meadows</geogName>, about 2 o'clock <hi rend="smallcaps">P. M.</hi></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence">We all staid on the field, and I tried to quiet and pacify the
+Indians, by telling them that I had sent to <persName key="Haight, Isaac C.">Haight</persName>, the Big 
+Captain, for orders, and when he sent his order I would know what
+to do. This appeared to satisfy the Indians, for said they:</seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">"The Big Captain will send you word to kill all the Mericats."</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Dates"><seg type="Massacre" subtype="Battle">Along towards evening, the Indians again attacked the
+emigrants. This was Wednesday.</seg> I heard the report of their guns,
+and the screams of the women and children in the corral.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle"><seg type="Blame" subtype="IndiansIndependently">This was more than I could stand. So I ran with <persName key="Young, William">William
+Young</persName> and <persName key="Magnum, John">John Magnum</persName>, to where the Indians were, to stop 
+the fight. While on the way to them they fired a volley, and
+three balls from their guns cut my clothing. One ball went
+through my hat and cut my hair on the side of my head. One
+ball went through my shirt and leaded my shoulder, the other
+cut my pants across my bowels. I thought this was rather warm
+work, but I kept on until I reached the place were the Indians
+were in force. When I got to them, I told them the Great Spirit
+would be mad at them if they killed the women and children. I
+talked to them some time, and cried with sorrow when I saw that
+I could not pacify the savages.</seg></seg></p>
+
+<p>When the Indians saw me in tears, they called me "Yaw
+
+<pb n="510" xml:id="mmm.wa.custer.1891.525"/>
+    
+Guts," which in the Indian language means "cry baby," and
+to this day they call me by that name, and consider me a
+coward.</p>
+
+<p><seg type="Blame" subtype="IndiansIndependently"><persName key="Hamblin, Oscar">Oscar Hamblin</persName> was a fine interpreter, and he came to my aid
+and helped me to induce the Indians to stop the attack. By his
+help we got the Indians to agree to be quiet until word was 
+returned from <persName key="Haight, Isaac C.">Haight</persName>. (I do not know now but what the 
+messenger started for <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, after this night of attack, but I was
+so worried and perplexed at that time, and so much has 
+happened to distract my thoughts since then, that my mind is not
+clear on that subject.</seg>)</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">On Thursday, about noon, several men came to us from <placeName type="settlement" key="Cedar City, UT">Cedar
+City</placeName>. I cannot remember the order in which all the people came
+to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, but I do recollect that at this time and in this
+company <persName key="White, Joel">Joel White</persName>, <persName key="Stewart, William C.">William C. Stewart</persName>, <persName key="Arthur, Benjamin">Benjamin Arthur</persName>,
+<persName key="Wilden, Alexander">Alexander Wilden</persName>, <persName key="Hopkins, Charles">Charles Hopkins</persName> and &#8212; <persName key="Tate">Tate</persName>, came to us
+at the camp at the springs. These men said but little, but every
+man seemed to know just what he was there for. As our 
+messenger had gone for further orders, we moved our camp about
+four hundred yards further up the valley on to a hill, where we
+made camp as long as we staid there</seg></seg>.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I soon learned that <seg type="Blame" subtype="IndiansIndependently">the whites were as wicked at heart as the
+Indians</seg>, for every little while during that day I saw white men
+taking aim and shooting at the emigrants' wagons. They said
+they were doing it to keep in practice and to <hi rend="italic">help pass off the
+time</hi>.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I remember one man that was shooting, that rather amused
+me, for he was shooting at a mark over a quarter of a mile off,
+and his gun would not carry a ball two hundred yards. That
+man was <persName key="Wilden, Alexander">Alexander Wilden</persName>. He took pains to fix up a seat
+under the shade of a tree, where he continued to load and shoot
+until he got tired. Many of the others acted just as wild and
+foolish as <persName key="Wilden, Alexander">Wilden</persName> did.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">The wagons were corraled after the Indians had made the first
+attack. On the second day after our arrival the emigrants drew 
+their wagons near each other and chained the wheels one to the
+other. While they were doing this there was no shooting going
+on. Their camp was about one hundred yards above and north
+of the spring. They generally got their water from the spring
+at night.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">Thursday morning I saw two men start from the corral with
+
+<pb n="511" xml:id="mmm.wa.custer.1891.526"/>
+    
+buckets, and run to the spring and fill their buckets with water,
+and go back again. The bullets flew around them thick and fast,
+but they got into their corral in safety.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">The Indians had agreed to keep quiet until orders returned
+from <persName key="Haight, Isaac C.">Haight</persName>, but they did not keep their word. <seg type="Massacre" subtype="Dates">They made a
+determined attack on the train on Thursday morning about 
+daylight.</seg> <seg type="Massacre" subtype="Casualties">At this attack the Clara Indians had one brave killed</seg> and
+three wounded. This so enraged that band that they left for
+home that day and <seg type="Massacre" subtype="Spoils">drove off quite a number of cattle with them</seg>.</seg>
+During the day I said to <persName key="Mangum, John">John Mangum</persName>,</p>
+
+<p>"I will cross over the valley and go up on the other side, on
+the hills to the west of the corral, and take a look at the 
+situation."</p>
+
+<p><seg type="Massacre" subtype="Surrender">I did go. As I was crossing the valley I was seen by the
+emigrants, and as soon as they saw that I was a white man they
+ran up a <hi rend="italic">white</hi> flag in the middle of their corral, or camp. They
+then sent two little boys from the camp to talk to me, but I
+could not talk to them at that time, for I did not know what
+orders <persName key="Haight, Isaac C.">Haight</persName> would send back to me, and until I did know his
+orders I did not know how to act. I hid, to keep away from the
+children. They came to the place where they had last seen me
+and hunted all around for me, but being unable to find me, they
+turned and went back to the camp in safety.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">While the boys were looking for me several Indians came to
+me and asked for ammunition with which to kill them.</seg> <seg type="Massacre" subtype="Survivors">I told
+them they must not hurt the children&#8212;that if they did I would
+kill the first one that made the attempt to injure them. By this
+act I was able to save the boys.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender">It is all false that has been told about little girls being dressed
+in white and sent out to me. There never was anything of the
+kind done.</seg></p>
+
+<p><seg type="Blame" subtype="IndiansIndependently">I staid on the west side of the valley for about two hours,
+looking down into the emigrant camp, and feeling all the torture
+of mind that it is possible for a man to suffer who feels merciful,
+I and yet knows, as I then knew, what was in store for that 
+unfortunate company if the Indians were successful in their bloody
+designs.</seg></p>
+
+<p><seg type="Massacre" subtype="Battle">While I was standing on the hill looking down into the corral,
+I saw two men leave the corral and go outside to cut some
+wood; the Indians and whites kept up a steady fire on them all 
+the time, but they paid no attention to danger, and kept right
+
+<pb n="512" xml:id="mmm.wa.custer.1891.527"/>
+    
+along at their work until they had it done, and then they went
+back into camp. The men all acted so bravely that it was
+impossible to keep from respecting them.</seg></p>
+
+<p>After staying there and looking down into the camp until I
+was nearly dead from grief, I returned to the company at camp.
+I was worn out with trouble and grief; I was nearly wild 
+waiting for word from the authorities at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. I prayed for
+word to come that would enable me to save that band of 
+suffering people, but no such word came. It never was to come.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">On Thursday evening <persName key="Higbee, John M.">John M. Higbee</persName>, Major of the Iron
+Militia, and <persName key="Klingensmith, Philip">Philip K. Smith</persName>, as he is called generally, but whose
+name is <persName key="Klingensmith, Philip">Klingensmith</persName>, Bishop of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, came to our camp
+with two or three wagons, and a number of men all well armed.
+I can remember the following as a portion of the men who came
+to take part in the work of death which was so soon to follow,
+viz.: <persName key="Higbee, John M.">John M. Higbee</persName>, Major and commander of the Iron Militia,
+and also first counsellor to <persName key="Haight, Isaac C.">Isaac C. Haight</persName>; Philip 
+<persName key="Klingensmith, Philip">Klingensmith</persName>, Bishop of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; <persName key="Allen, Ira">Ira Allen</persName>, of the High Council; <persName key="Wiley, Robert">Robert Wiley</persName>, of the High Council; <persName key="Harrison, Richard">Richard Harrison</persName>, of <placeName type="settlement" key="Pinto, UT">Pinto</placeName>, also a member of the High Counsel; <persName key="McMurdy, Samuel">Samuel McMurdy</persName>, one of
+the Counsellors of <persName key="Klingensmith, Philip">Klingensmith</persName>; <persName key="Hopkins, Charles">Charles Hopkins</persName>, of the City 
+Council of <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>; <persName key="Pollock, Samuel">Samuel Pollock</persName>; <persName key="McFarland, Daniel">Daniel McFarland</persName>, a son-in-law of <persName key="Haight, Isaac C.">Isaac C. Haight</persName>, and acting as Adjutant under
+Major <persName key="Higbee, John M.">Higbee</persName>; <persName key="Ure, John">John Ure</persName>, of the City Council; <persName key="Hunter, George">George Hunter</persName>,
+of the City Council; and I honestly believe that <persName key="McFarland, John">John
+McFarland</persName>, now an attorney-at-law at St. George, <placeName type="state" key="Utah Territory">Utah</placeName>, was there&#8212;
+I am not positive that he was, but my best impression is that he 
+was there, <persName key="Jukes, Samuel">Samuel Jukes</persName>; <persName key="Johnson, Nephi">Nephi Johnson</persName>, with a number of
+Indians under his command; <persName key="Jacobs, Irvin">Irvin Jacobs</persName>; <persName key="Jacobs, John">John Jacobs</persName>; <persName key="Curtis, E.">E.
+Curtis</persName>, a Captain of Ten; <persName key="Cartwright, Thomas">Thomas Cartwright</persName> of the City 
+Council and High Council; <seg type="Massacre" subtype="Surrender"><persName key="Bateman, William">William Bateman</persName>, who afterwards
+carried the flag of truce to the emigrant camp</seg>; <persName key="Stratton, Anthony">Anthony Stratton</persName>;
+<persName key="Loveridge, A.">A. Loveridge</persName>; <persName key="Clews, Joseph">Joseph Clews</persName>; <persName key="Durfey, Jabez">Jabez Durfey</persName>; <persName key="Freeman, Columbus">Columbus Freeman</persName>, and some others whose names I cannot remember. I
+know that our total force was fifty-four whites and <seg type="Blame" subtype="IndiansLDSInfluence">over three
+hundred Indians.</seg></seg></p>
+
+<p>As soon as these persons gathered around the camp, I 
+demanded of Major <persName key="Higbee, John M.">Higbee</persName> what orders he had brought. I then
+stated fully all that had happened at <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, so that every
+person might understand the situation.</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">Major <persName key="Higbee, John M.">Higbee</persName> reported as follows: "It is the orders of the
+    
+<pb n="513" xml:id="mmm.wa.custer.1891.528"/>
+    
+President, that all the emigrants must be <hi rend="italic">put out of the way</hi>.
+President <persName key="Haight, Isaac C.">Haight</persName> has counselled with Colonel <persName key="Dame, William H.">Dame</persName>, or has had
+orders from him to put all of the emigrants out of the way;
+<seg type="Massacre" subtype="Casualties">none who are old enough to talk are to be spared</seg>."</seg></seg></p>
+
+<p><seg type="Blame" subtype="EmigrantBehavior"><seg type="Blame" subtype="LDS_LDS"><seg type="Context" subtype="UtahWar">He then went on and said substantially that the emigrants had
+come through the country as our enemies, and as the enemies of
+the Church of Jesus Christ of Latter Day Saints. That they
+had no pass from any one in authority to permit them to leave
+the Territory. That none but friends were permitted to leave
+the Territory, and that as these were our sworn enemies, they
+must be killed. That they were nothing but a portion of 
+<persName key="Johnston, Albert Sidney">Johnston</persName>'s army. That if they were allowed to go on to <placeName type="state" key="California">California</placeName>,
+they would raise the war cloud in the West, and bring certain 
+destruction upon all the settlements in <placeName type="state" key="Utah Territory">Utah</placeName>. That the only safety
+for the people was in the utter destruction of the whole rascally
+lot.</seg></seg></seg></p>
+
+<p>I then told them that God would have to change my heart 
+before I could consent to such a wicked thing as the wholesale
+killing of that people. I attempted to reason with <persName key="Higbee, John M.">Higbee</persName> and
+the brethren. I told them how strongly the emigrants were 
+fortified, and how wicked it was to kill the women and children. I
+was ordered to be silent. <persName key="Higbee, John M.">Higbee</persName> said I was resisting authority.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS">He then said, "Brother <persName key="Lee, John D.">Lee</persName> is afraid of shedding innocent
+blood. Why, brethren there is not a drop of innocent blood in
+that entire camp of Gentile outlaws; they are a set of cut-throats,
+robbers and assassins; <seg type="Emigrants" subtype="StateAffiliationMissouri">they are a part of the people who drove
+the Saints from <placeName type="state" key="Missouri">Missouri</placeName></seg>, and <seg type="Context" subtype="LDSPersecution">who aided to shed the blood of
+our Prophets</seg>, <persName key="Smith, Joseph">Joseph</persName> and <persName key="Smith, Hyrum">Hyrum</persName>, and it is our orders from all
+in authority, <seg type="Blame" subtype="IndiansLDSInfluence">to get the emigrants from their stronghold, and
+help the Indians kill them."</seg></seg></p>
+
+<p>I then said that <persName key="Smith, Joseph">Joseph Smith</persName> had told us never to betray
+any one. That we could not get the emigrants out of their
+corral unless we used treachery, and I was opposed to that.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">I was interrupted by <persName key="Higbee, John M.">Higbee</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName> and <persName key="Hopkins, Charles">Hopkins</persName>, who
+said it was the orders of President <persName key="Haight, Isaac C.">Isaac C. Haight</persName> to us, and that
+<persName key="Haight, Isaac C.">Haight</persName> had his orders from Colonel <persName key="Dame, William H.">Dame</persName> and the authorities at
+<placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and that all in authority were of one mind, and that
+they had been sent by the Council at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> to <geogName type="valley" key="Mountian Meadows">the
+Meadows</geogName> to counsel and direct the way and manner that the company
+of emigrants should be disposed of.</seg></seg></p>
+
+<p>The men then in council, I must here state, now knelt down in
+    
+<pb n="514" xml:id="mmm.wa.custer.1891.529"/>
+    
+a prayer circle and prayed, invoking the Spirit of God to direct
+them how to act in the matter.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">After prayer, Major <persName key="Higbee, John M.">Higbee</persName> said, "Here are the orders," and
+handed me a paper from <persName key="Haight, Isaac C.">Haight</persName>. It was in substance that it
+was the orders of <persName key="Haight, Isaac C.">Haight</persName> to <hi rend="italic">decoy</hi> the emigrants from their 
+position, and <seg type="Massacre" subtype="Casualties">kill all of them that could talk</seg>. This order was in
+writing. <persName key="Higbee, John M.">Higbee</persName> handed it to me and I read it, and then dropped 
+it on the ground, saying,</seg></seg></p>
+
+<p>"I cannot do this."</p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansIndependently"><seg type="Blame" subtype="LDS_LDS">The substance of the orders were that the emigrants should be
+<hi rend="italic">decoyed</hi> from their stronghold, and <seg type="Massacre" subtype="Casualties">all exterminated</seg>, so that no
+one would be left to tell the tale, and then the authorities could
+say it was done by the Indians.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">The words <hi rend="italic">decoy</hi> and <hi rend="italic">exterminate</hi> were used in that message or order, and these orders came to us as the orders from the Council
+at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, and as the orders of our military superior, that
+we were bound to obey. The order was signed by <persName key="Haight, Isaac C.">Haight</persName> as
+commander of the troops at <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning"><persName key="Haight, Isaac C.">Haight</persName> told me the next day after the massacre, while on <geogName type="valley" key="Mountain Meadows">the
+Meadows</geogName>, that he got his orders from Colonel <persName key="Dame, William H.">Dame</persName>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I then left the Council, and went away to myself, and bowed
+myself in prayer before God, and asked Him to overrule the 
+decision of that Council. I shed many bitter tears, and my 
+tortured soul was wrung nearly from the body by my great 
+suffering. I will here say, calling upon Heaven, angels, and the
+spirits of just men to witness what I say, that if I could then
+have had a thousand worlds to command, I would have given
+them freely to save that company from death.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">While in bitter anguish, lamenting the sad condition of myself
+and others, <persName key="Hopkins, Charles">Charles Hopkins</persName>, a man that I had great confidence
+in, came to me from the Council, and tried to comfort me by
+saying that he believed it was all right, for the brethren in the
+<hi rend="italic">Priesthood</hi> were all united in the thing, and it would not be well
+for me to oppose them.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I told him the Lord must change my heart before I could ever
+do such an act willingly. I will further state that there was a
+reign of terror in <placeName type="state" key="Utah Territory">Utah</placeName>, and many a man had been put out of
+the way, on short notice, for disobedience and I had made some 
+narrow escapes.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">At the earnest solicitation of Brother <persName key="Hopkins, Charles">Hopkins</persName>, I returned with
+him to the Council. When I got back, the Council again prayed 
+
+<pb n="515" xml:id="mmm.wa.custer.1891.530"/>
+    
+for aid. The Council was called The City Counsellors, the
+Church or High Counsellors; and all in authority, together with
+the private citizens, then formed a circle, and kneeling down, so
+that elbows would touch each other, several of the brethren
+prayed for Divine instructions.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDSLeadership">After prayer, Major <persName key="Higbee, John M.">Higbee</persName> said, "I have the evidence of
+God's approval of our mission. It is God's will that we carry
+out our instructions to the letter."</seg></seg></p>
+
+<p>I said, "My God! this is more than I can do. I must and
+do refuse to take part in this matter."</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Higbee, John M.">Higbee</persName> then said to me, "Brother <persName key="Lee, John D.">Lee</persName>, I am ordered by
+President <persName key="Haight, Isaac C.">Haight</persName> to inform you that you shall receive a crown of
+Celestial glory for your faithfulness, and your eternal joy shall
+be complete." I was much shaken by this offer, for I had full
+faith in the power of the Priesthood to bestow such rewards and
+blessings; but I was anxious to save the people. <seg type="Massacre" subtype="Spoils">I then
+proposed that we give the Indians all of the stock of the emigrants,
+except sufficient to haul their wagons,</seg> and let them go. To this
+proposition all the leading men objected. No man there raised
+his voice or hand to favor the saving of life, except myself.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Planning">The meeting was then addressed by some one in authority, I
+do not remember who it was. He spoke in about this language:
+"Brethren, we have been sent here to perform a duty. It is a
+duty that we owe to God, and to our Church and people. The
+orders of those in authority are that <seg type="Massacre" subtype="Casualties">all the emigrants <hi rend="italic">must</hi> die</seg>.
+Our leaders speak with inspired tongues, and their orders come
+from the God of Heaven. We have no right to question what 
+they have commanded us to do; it is our duty to obey. If we
+wished to act as some of our weak-kneed brethren desire us to
+do, it would be impossible; the thing has gone too far to allow
+us to stop now. <seg type="Blame" subtype="IndiansLDSInfluence">The emigrants know that we have aided the
+Indians, and if we let them go they will bring certain 
+destruction upon us.</seg> <seg type="Massacre" subtype="RescueAttempt">It is a fact that on Wednesday night two of the
+emigrants got out of camp and started back to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> for
+assistance to withstand the Indian attacks; they had reached
+Richards' Springs when they met <persName key="Stewart, William C.">William C. Stewart</persName>, <persName key="White, Joel">Joel White</persName>
+and <persName key="Arthur, Benjamin">Benjamin Arthur</persName>, three of our brethren from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>.
+The men stated their business to the brethren, and as their
+horses were drinking at the Spring, Brother <persName key="Stewart, William C.">Stewart</persName>, feeling
+<hi rend="italic">unusually</hi> full of zeal for the glory of God and the upbuilding
+of the Kingdom of God on earth, shot and killed one of the
+
+<pb n="516" xml:id="mmm.wa.custer.1891.531"/>
+    
+emigrants, a young man by the name of <persName key="Aden, William A.">Aden</persName>. When <persName key="Aden, William A.">Aden</persName> fell 
+from his horse, <persName key="White, Joel">Joel White</persName> shot and wounded the other Gentile;
+but he unfortunately got away, and returned to his camp and 
+<seg type="Blame" subtype="IndiansLDSInfluence">reported that the Mormons were helping the Indians in all that 
+they were doing against the emigrants.</seg> Now, the emigrants will
+report these facts in <placeName type="state" key="California">California</placeName> if we let them go. We must kill 
+them all, and our orders are to get them out by treachery, if no 
+other thing can be done to get them into our power."</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning">Many of the brethren spoke in the same way, all arguing that
+the orders must be carried out.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">I was then told the plan of action that had been agreed upon, and
+it was this: The emigrants were to be decoyed from their 
+stronghold under a promise of protection. Brother <persName key="Bateman, William">William Bateman</persName> 
+was to carry a flag of truce and demand a parley, and then I was 
+to go and arrange the terms of the surrender. <seg type="Massacre" subtype="Survivors">I was to demand
+that all the children who were so young they could not talk
+should be put into a wagon, and the wounded were also to be 
+put into a wagon.</seg> Then all the arms and ammunition of the
+emigrants should be put into a wagon, and I was to agree that 
+the Mormons would protect the emigrants from the Indians, and
+conduct them to <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName> in safety, where they should be 
+protected until an opportunity came for sending them to <placeName type="state" key="California">California</placeName>.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS">It was agreed that when I had made the full agreement and
+treaty, as the brethren called it, the wagons should start for 
+<persName key="Hamblin, Jacob">Hamblin</persName>'s Ranch with the arms, the wounded and <seg type="Massacre" subtype="Survivors">the children</seg>. 
+The women were to march on foot and follow the wagons in 
+single file; the men were to follow behind the women, they also
+to march in single file. Major <persName key="Higbee, John M.">John M. Higbee</persName> was to stand with 
+his militia company about two hundred yards from the camp, 
+and stand in double file, open order, with about twenty feet 
+space between the files, so that the wagons could pass between 
+them. The drivers were to keep right along, and not stop at the 
+troops. The women were not to stop there, but to follow the
+wagons. The troops were to halt the men for a few minutes,
+until the women were some distance ahead, out into the cedars, 
+where the Indians were hid in ambush. Then the march was to 
+be resumed, the troops to form in single file, each soldier to walk
+by an emigrant, and on the right-hand side of his man, and the 
+soldier was to carry his gun on his left arm, ready for instant
+use. <seg type="Blame" subtype="IndiansLDSInfluence">The march was to continue until the wagons had passed
+beyond the ambush of the Indians, and until the women were
+
+<pb n="517" xml:id="mmm.wa.custer.1891.532"/>
+    
+right in the midst of the Indians. <persName key="Higbee, John M.">Higbee</persName> was then to give the
+orders and words, "D<hi rend="smallcaps">o</hi> Y<hi rend="smallcaps">our</hi> D<hi rend="smallcaps">uty</hi>." At this the troops were
+to shoot down the men; the Indians were to kill all of the women
+and larger children</seg>, and the drivers of the wagons and I were to 
+kill the wounded and sick men that were in the wagons. Two
+men were to be placed on horses near by, to overtake and kill
+any of the emigrants that might escape from the first assault.
+<seg type="Blame" subtype="IndiansLDSInfluence">The Indians were to kill the women and large children, so that it
+would be certain that no Mormon would be guilty of shedding
+<hi rend="italic">innocent blood</hi>&#8212;if it should happen that there was any innocent
+blood in the company that were to die.</seg> <seg type="Blame" subtype="EmigrantBehavior">Our leading men all
+said that there was no innocent blood in the whole company.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Massacre" subtype="Dates">The council broke up a little after daylight on Friday
+morning.</seg> All the horses, except two for the men to ride to overtake
+those who might escape, and one for <persName key="McFarland, Dan">Dan McFarland</persName> to ride as
+Adjutant, so that he could carry orders from one part of the
+field to another, were turned out on the range. Then breakfast
+was eaten, and the brethren prepared for the work in hand.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I was now satisfied that it was the wish of all of the Mormon
+priesthood to have the thing done. <seg type="Context" subtype="UtahWar">One reason for thinking so
+was that it was in keeping with the teachings of the leaders, and
+as <placeName type="state" key="Utah Territory">Utah</placeName> was then at war with the United States we believed all
+the Gentiles were to be killed as a war measure, and that the
+Mormons, as God's chosen people, were to hold and inhabit the
+earth and rule and govern the globe.</seg> Another, and one of my
+strongest reasons for believing that the leaders wished the thing
+done, was on account of the talk that I had with <persName key="Smith, George A.">George A.
+Smith</persName>, which I have given in full in this statement. <seg type="Blame" subtype="EmigrantBehavior">I was
+satisfied that <persName key="Smith, George A.">Smith</persName> had passed the emigrants while on his way from
+<placeName type="settlement" key="Salt Lake City, UT">Salt Lake City</placeName>, and I then knew this was the train that he meant
+when he spoke of a <hi rend="italic">train</hi> that would make threats and ill-treat
+our people, etc.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSZealots"><seg type="Context" subtype="LDSReformation">The people were in the full blaze of the reformation, and
+anxious to do some act that would add to their reputation as zealous
+churchmen.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership">I, therefore, taking all things into consideration, and believing,
+as I then did, that my superiors were <hi rend="italic">inspired</hi> men, who could
+not go wrong in any matter relating to the church or the duty
+of its members, concluded to be obedient to the wishes of those
+in authority. I took up my cross and prepared to do my duty.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Planning">Soon after breakfast Major <persName key="Higbee, John M.">Higbee</persName> ordered the two Indian <choice><orig>in-
+    
+<pb n="518" xml:id="mmm.wa.custer.1891.533"/>
+    
+terpreters</orig><reg>interpreters</reg></choice>, <persName key="Shirts, Carl">Carl Shirts</persName> and <persName key="Johnson, Nephi">Nephi Johnson</persName>, to inform the Indians
+of the plan of operations, and to place the Indians in ambush,
+so that they could not be seen by the emigrants until the work
+of death should commence.</seg></seg></seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">This was done in order to make the emigrants believe that we
+had sent the Indians away, and that we were acting honestly
+and in good faith, when we agreed to protect them from the
+savages.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Battle"><seg type="Massacre" subtype="Planning">The orders were obeyed, and in five minutes not an Indian
+could be seen on the whole <geogName type="valley" key="Mountain Meadows">Meadows</geogName>. They secreted themselves
+and lay still as logs of wood, until the order was given for them
+to rush out and kill the women.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">Major <persName key="Higbee, John M.">Higbee</persName> then called all the people to order, and directed
+me to explain the whole plan to them. I did so, explaining just
+how every person was expected to act during the whole 
+performance.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Major <persName key="Higbee, John M.">Higbee</persName> then gave the order for his men to advance.
+They marched to the spot agreed upon, and halted there. 
+<persName key="Bateman, William">William Bateman</persName> was then selected to carry a flag of truce to the
+emigrants and demand their surrender, and I was ordered to go
+and make the treaty after some one had replied to our flag of
+truce. (The emigrants had kept a white flag flying in their camp
+ever since they saw me cross the valley.)</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="Bateman, William">Bateman</persName> took a white flag and started for the emigrant camp.
+When he got about half way to the corral, he was met by one of
+the emigrants, that I afterwards learned was named <persName key="Hamilton">Hamilton</persName>.
+They talked some time, but I never knew what was said between 
+them.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">Brother <persName key="Bateman, William">Bateman</persName> returned to the command and said that the
+emigrants would accept our terms, and surrender as we required
+them to do.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">I was then ordered by Major <persName key="Higbee, John M.">Higbee</persName> to go to the corral and
+negotiate the treaty, and superintend the whole matter. I was
+again ordered to be certain and get all the arms and ammunition
+into the wagons. Also to put the children and the sick and
+wounded in the wagons, as had been agreed upon in council.
+Then Major <persName key="Higbee, John M.">Higbee</persName> said to me: &#8212;</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Planning">"Brother <persName key="Lee, John D.">Lee</persName>, we expect you to faithfully carry out all the
+instructions that have been given you by our council."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="McMurdy, Samuel">Samuel McMurdy</persName> and <persName key="Knight, Samuel">Samuel Knight</persName> were then ordered to
+drive their teams and follow me to the corral to haul off the 
+children, arms, etc.</seg></seg></p>
+
+<pb n="519" xml:id="mmm.wa.custer.1891.534"/>
+
+<p>The troops formed in two lines, as had been agreed upon, and
+were standing in that way with arms at rest, when I left them.</p>
+
+<p><seg type="Massacre" subtype="Surrender">I walked ahead of the wagons up to the corral. When I
+reached there I met Mr. <persName key="Hamilton">Hamilton</persName> on the outside of the camp.
+He loosened the chains from some of their wagons, and moved
+one wagon out of the way, so that our teams could drive inside
+of the corral and into their camp. It was then noon, or a little
+after.</seg></p>
+
+<p><seg type="Massacre" subtype="Surrender"><seg type="Massacre" subtype="Location">I found that the emigrants were strongly fortified; their
+wagons were chained to each other in a circle. In the centre was a
+rifle-pit, large enough to contain the entire company. This had
+served to shield them from the constant fire of their enemy,
+which had been poured into them from both sides of the valley,
+from a rocky range that served as a breastwork for their 
+assailants. The valley at this point was not more than five hundred
+yards wide, and the emigrants had their camp near the centre of
+the valley. On the east and west there was a low range of 
+rugged, rocky mountains, affording a splendid place for <seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansLDSInfluence">the
+protection of the Indians and Mormons</seg>,</seg> and leaving them in 
+comparative safety while they fired upon the emigrants. The valley at
+this place runs nearly due north and south.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Blame" subtype="IndiansIndependently"><seg type="Massacre" subtype="Surrender">When I entered the corral, I found the emigrants engaged in
+burying two men of note among them, who had died but a short
+time before from the effect of wounds received by them from
+the Indians at the time of the first attack on Tuesday morning.</seg>
+They wrapped the bodies up in buffalo robes, and buried them
+in a grave inside the corral. I was then told by some of the men
+that <seg type="Massacre" subtype="Casualties">seven men were killed and seventeen others were wounded
+at the first attack by the Indians, and that three of the wounded
+men had since died, making ten of their number killed during
+the siege.</seg></seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Surrender">As I entered the fortifications, men, women and children
+gathered around me in wild consternation. Some felt that the time
+of their happy deliverance had come, while others, though in 
+deep distress, and all in tears, looked upon me with doubt, 
+distrust and terror. My feelings at this time may be imagined (but
+I doubt the power of man being equal to even imagine how
+wretched I felt). No language can describe my feelings. My
+position was painful, trying and awful; my brain seemed to be
+on fire; my nerves were for a moment unstrung; humanity was
+overpowered, as I thought of the cruel, unmanly part that I was
+
+<pb n="520" xml:id="mmm.wa.custer.1891.535"/>
+    
+acting. Tears of bitter anguish fell in streams from my eyes;
+my tongue refused its office; my faculties were dormant, 
+stupefied and deadened by grief. I wished that the earth would open
+and swallow me where I stood. God knows my suffering was
+great. I cannot describe my feelings. I knew that I was acting
+a cruel part and doing a damnable deed. Yet my faith in the
+godliness of my leaders was such that it forced me to think that
+I was not sufficiently spiritual to act the important part I was
+commanded to perform. My hesitation was only momentary.
+Then feeling that duty compelled <hi rend="italic">obedience to orders</hi>, I laid
+aside my weakness and my humanity, and became an instrument
+in the hands of my superiors and my leaders. I delivered my
+message and told the people that they must put their arms in the
+wagon, so as not to amuse the animosity of the Indians. I 
+ordered the children and wounded, some clothing and arms, to be
+put into the wagons. Their guns were mostly Kentucky rides of
+the muzzle-loading style. Their ammunition was about all gone &#8212;
+I do not think there were twenty loads left in the whole camp.
+If the emigrants had had a good supply of ammunition they
+never would have surrendered, and I do not think we could have
+captured them without great loss, for they were brave men and
+very resolute and determined.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><seg type="Massacre" subtype="Surrender">Just as the wagons were loaded, <persName key="McFarland, Daniel">Dan. McFarland</persName> came riding
+into the corral and said that Major <persName key="Higbee, John M.">Higbee</persName> had ordered great
+haste to be made, for he was afraid that the Indians would 
+return and renew the attack before he could get the emigrants to a
+place of safety.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">I hurried up the people and started the wagons off towards
+<placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>. As we went out of the corral I ordered the wagons
+to turn to the left, so as to leave the troops to the right of us.
+<persName key="McFarland, Daniel">Dan. McFarland</persName> rode before the women and led them right up
+to the troops, where they still stood in open order as I left them.
+The women and larger children were walking ahead, as directed,
+and the men following them. The foremost man was about fifty
+yards behind the hindmost woman.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">The women and children were hurried right on by the troops.
+When the men came up they cheered the soldiers as if they 
+believed that they were acting honestly. <persName key="Higbee, John M.">Higbee</persName> then gave the
+orders for his men to form in single file and take their places as
+ordered before, that is at the right of the emigrants.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">I saw this much, but about this time our wagons passed out of
+    
+<pb n="521" xml:id="mmm.wa.custer.1891.536"/>
+    
+sight of the troops, over the hill. I had disobeyed orders in
+part by turning off as I did, for I was anxious to be out of sight
+of the bloody deed that I knew was to follow. I knew that I
+had much to do yet that was of a cruel and unnatural character.
+It was my duty, with the two drivers, to kill the sick and
+wounded who were in the wagons, and to do so when we heard
+the guns of the troops fire. I was walking between the wagons:
+the horses were going in a fast walk, and we were fully half a
+mile from Major <persName key="Higbee, John M.">Higbee</persName> and his men, when we heard the firing.
+As we heard the guns, I ordered a halt and we proceeded to do
+our part.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">I here pause in the recital of this horrid story of man's
+inhumanity, and ask myself the question, Is it honest in me, and can
+I clear my conscience before my God, if I screen myself while
+I accuse others? No, never! Heaven forbid that I should put a
+burden upon others' shoulders that I am unwilling to bear my
+just portion of. I am not a traitor to my people, nor to my
+former friends and comrades who were with me on that dark day
+when the work of death was carried on in God's name, by a lot
+of deluded and religious fanatics. It is my duty to tell facts as
+they exist, and I will do so.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">I have said that all of the small children were put into the
+wagons; that was wrong, for one little child, about six months
+old, was carried in his father's arms, and it was killed by the
+same bullet that entered its father's breast; it was shot through
+the head. I was told by <persName key="Haight, Isaac C.">Haight</persName> afterwards that the child was
+killed by accident, but I cannot say whether that is a fact or not.
+I saw it lying dead when I returned to the place of slaughter.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Battle">When we had got out of sight, as I said before, and just as
+we were coming into the main road, I heard a volley of guns at
+the place where I knew the troops and emigrants were. Our
+teams were then going at a fast walk. I first heard one gun,
+then a volley at once followed.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender"><persName key="McMurdy, Samuel">McMurdy</persName> and <persName key="Knight, Samuel">Knight</persName> stopped their teams at once, for they
+were ordered by <persName key="Higbee, John M.">Higbee</persName>, the same as I was, to help kill all the
+sick and wounded who were in the wagons, and to do it as soon
+as they heard the guns of the troops. <persName key="McMurdy, Samuel">McMurdy</persName> was in front;
+his wagon was mostly loaded with the arms and small children.
+<persName key="McMurdy, Samuel">McMurdy</persName> and <persName key="Knight, Samuel">Knight</persName> got out of their wagons; each one had a
+rifle. <persName key="McMurdy, Samuel">McMurdy</persName> went up to <persName key="Knight, Samuel">Knight</persName>'s wagon, where the sick and
+wounded were, and raising his rifle to his shoulder, said: "<hi rend="italic">0</hi></seg>
+    
+<pb n="522" xml:id="mmm.wa.custer.1891.537"/>
+    
+<seg type="Massacre" subtype="Surrender"><hi rend="italic">Lord</hi>, <hi rend="italic">my God</hi>, <hi rend="italic">receive their spirits</hi>; <hi rend="italic">it is for thy Kingdom that
+I do this</hi>." <seg type="Massacre" subtype="Casualties">He then shot a man who was lying with his head on
+another man's breast; the ball killed both men</seg>.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">I also went up to the wagon, intending to do my part of the
+killing. I drew my pistol and cocked it, but somehow it went
+off prematurely, and I shot <persName key="McMurdy, Samuel">McMurdy</persName> across the thigh, my pistol
+ball cutting his buck—skin pants. <persName key="McMurdy, Samuel">McMurdy</persName> turned to me and
+said</seg></seg>:</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Surrender">"Brother <persName key="Lee, John D.">Lee</persName>, keep cool; you are excited; you came very
+near killing me. Keep cool, there is no reason for being 
+excited."</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties"><persName key="Knight, Samuel">Knight</persName> then shot a man with his ride; he shot the man in the
+head. <persName key="Knight, Samuel">Knight</persName> also brained a boy that was about fourteen years
+old. The boy came running up to our wagons, and <persName key="Knight, Samuel">Knight</persName> struck
+him on the head with the butt end of his gun, and crushed his
+skull. <seg type="Blame" subtype="IndiansLDSInfluence">By this time many Indians reached our wagons, and all
+of the sick and wounded were killed almost instantly. I saw
+an Indian from <placeName type="settlement" key="Cedar City, UT">Cedar City</placeName>, called <persName key="Joe">Joe</persName>, run up to the wagon and 
+catch a man by the hair, and raise his head up and look into his
+face; the man shut his eyes, and <persName key="Joe">Joe</persName> shot him in the head. The 
+Indians then examined all of the wounded in the wagons, and 
+all of the bodies, to see if any were alive, and all that showed
+signs of life were at once shot through the head.</seg> I did not kill
+anyone there, but it was an accident that kept me from it, for
+I fully intended to do my part of the killing, but by the time I
+got over the excitement of coming so near killing <persName key="McMurdy, Samuel">McMurdy</persName>,
+the whole of the killing of the wounded was done. There is no
+truth in the statement of <persName key="Johnson, Nephi">Nephi Johnson</persName>, where he says I cut a
+man's throat.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">Just after the wounded were all killed, I saw a girl, some ten
+or eleven years old, running towards us from the direction where
+the troops had attacked the main body of emigrants; she was
+covered with blood. An Indian shot her before she got within
+sixty yards of us. That was the last person that I saw killed
+on that occasion.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Survivors"><seg type="Blame" subtype="IndiansLDSInfluence">About this time an Indian rushed to the front wagon, and
+grabbed a little boy, and was going to kill him. The lad got 
+away from the Indian and ran to me, and caught me by the
+knees; and begged me to save him, and not let the Indian kill
+him. The Indian had hurt the little fellow's chin on the wagon-
+bed when he first caught hold of him. I told the Indian to let
+
+<pb n="523" xml:id="mmm.wa.custer.1891.538"/>
+
+<figure xml:id="mmm.wa.custer.1891.538.figure">
+<p>The Mountain Meadows Massacre.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="525" xml:id="mmm.wa.custer.1891.540"/>
+    
+the boy alone. I took the child up in my arms, and put him
+back in the wagon, and saved his life. This little boy said his
+name was <persName key="Fancher, Christopher Kit Carson (Charles)">Charley Fancher</persName>, and that his father was Captain of
+the train. He was a bright boy. I afterwards adopted him
+and gave him to <persName key="Lee, Caroline">Caroline</persName>. She kept him until Dr. <persName key="Forney, Jacob">Forney</persName> took
+all the children East. I believe that <persName key="Sloan, Richard Idaho Bill">William Sloan, alias Idaho
+Bill</persName>, is the same boy.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">After all the parties were dead, I ordered <persName key="Knight, Samuel">Knight</persName> to drive out
+on one side, and throw out the dead bodies. He did so, and threw
+them out of his wagon at a place about one hundred yards
+from the road, and then came back to where I was standing.</seg> <seg type="Massacre" subtype="Survivors">I
+then ordered <persName key="Knight, Samuel">Knight</persName> and <persName key="McMurdey, Samuel">McMurdy</persName> to take the children that
+were saved alive (sixteen was the number, some say seventeen,
+I say sixteen), and drive on to <persName key="Hamblin, Jacob">Hamblin</persName>'s ranch. They did as I
+ordered them to do.</seg> Before the wagons started, <persName key="Johnson, Nephi">Nephi Johnson</persName>
+came up in company with the Indians that were under his 
+command, and <persName key="Shirts, Carl">Carl Shirts</persName> I think came up too, but I know that I
+then considered that <persName key="Shirts, Carl">Carl Shirts</persName> was a coward, and I afterwards
+made him suffer for being a coward. Several white men came 
+up too, but I cannot tell their names, as I have forgotten who
+they were.</seg></p>
+
+<p><seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="LDS_LDS"><persName key="Knight, Samuel">Knight</persName> lied when he said I went to the ranch and ordered him
+to go to the field with his team. I never knew anything of his
+team, or heard of it, until he came with a load of armed men in
+his wagon, on the evening of Thursday. If anyone ordered him
+to go to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName>, it was <persName key="Higbee, John M.">Higbee</persName>. Every witness that claims
+that he went to <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> without knowing what he was
+going to do, has lied, for they all knew, as well as <persName key="Haight, Isaac C.">Haight</persName> or
+any one else did, and they all voted, every man of them, in the
+council, on Friday morning, a little before daylight, to kill all
+the emigrants.</seg></seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">After the wagons with the children, had started for <persName key="Hamblin, Jacob">Hamblin</persName>'s
+ranch, I turned and walked back to where the brethren were.
+<persName key="Johnson, Nephi">Nephi Johnson</persName> lies when he says he was on horseback, and met 
+me, or that I gave him orders to go to guard the wagons. He 
+is a perjured wretch, and has sworn to everything he could to
+injure me. God knows what I did do was bad enough, but he
+has lied to suit the leaders of the Church, who want me out of
+the way.</seg></p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">While going back to the brethren, I passed the bodies of
+several women. In one place I saw six or seven bodies near each
+
+<pb n="526" xml:id="mmm.wa.custer.1891.541"/>
+    
+other; they were stripped perfectly naked, and <seg type="Blame" subtype="IndiansIndependently">all of their
+clothing was torn from their bodies by the Indians</seg></seg></seg>.</p>
+
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">I walked along the line where the emigrants had been killed,
+and saw many bodies lying dead and naked on the field, near by 
+where the women lay. I saw ten children; they had been killed
+close to each other; they were from ten to sixteen years of age. 
+The bodies of the women and children were scattered along the 
+ground for quite a distance before I came to where the men were
+killed.</seg></seg></p>
+
+<p><seg type="Massacre" subtype="Casualties">I do not know how many were killed, but I thought then that
+there were some fifteen women, about ten children, and about 
+forty men killed, but the statement of others that I have since
+talked with about the massacre, makes me think there were fully 
+one hundred and ten killed that day <seg type="Massacre" subtype="Location">on <geogName type="valley" key="Mountain Meadows">the Mountain Meadows</geogName></seg> 
+and that the ten who had died in the corral, and young <persName key="Aden, William A.">Aden</persName> killed
+by <persName key="Stewart, William C.">Stewart</persName> at Richards' Springs, would make the total number one
+hundred and twenty-one.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">When I reached the place where the dead men lay, I was told
+how the orders had been obeyed. Major <persName key="Higbee, John M.">Higbee</persName> said: "The 
+boys have acted admirably, they took good aim, and all of the 
+d&#8212;d Gentiles but two or three fell at the <hi rend="italic">first fire</hi>."</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Casualties">He said that three or four got away some distance, but the
+men on horses soon overtook them and cut their throats.</seg> <persName key="Higbee, John M.">Higbee</persName>
+said <seg type="Blame" subtype="IndiansLDSInfluence">the Indians did their part of the work well, that it did not
+take over a minute to finish up when they got fairly started.</seg> <seg type="Massacre" subtype="Planning">I
+found that the first orders had been carried out to the letter.</seg></seg></p>
+
+<p><seg type="Blame" subtype="IndiansLDSInfluence"><seg type="Massacre" subtype="Casualties">Three of the emigrants did get away, but the Indians were
+put on their trail and they overtook and killed them before they 
+reached the settlements in <placeName type="state" key="California">California</placeName>. But it would take more
+time than I have to spare to give the details of their chase and
+capture. I may do so in my writings hereafter, but not now.</seg></seg></p>
+
+<p>I found Major <persName key="Higbee, John M.">Higbee</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName>, and most of the brethren
+standing near by where the largest number of the dead men lay.
+When I went up to the brethren, Major <persName key="Higbee, John M.">Higbee</persName> said: &#8212;</p>
+
+<p><seg type="Massacre" subtype="Spoils">"We must now examine the bodies for valuables."</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">I said I did not wish to do any such work.</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils"><persName key="Higbee, John M.">Higbee</persName> then said, "Well, you hold my hat and I will examine
+the bodies, and put what valuables I get into the hat."</seg></p>
+
+<p><seg type="Massacre" subtype="Spoils">The bodies were all searched by <persName key="Higbee, John M.">Higbee</persName>, <persName key="Klingensmith, Philip">Klingensmith</persName> and
+<persName key="Stewart, William C.">Wm. C. Stewart</persName>. I did hold the hat a while, but I soon got so 
+sick that I had to give it to some other person, as I was unable 
+
+<pb n="527" xml:id="mmm.wa.custer.1891.542"/>
+    
+to stand for a few minutes. The search resulted in getting a
+little money and a few watches, but there was not much money.
+<persName key="Higbee, John M.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName> kept the property, I suppose, for I
+never knew what became of it, unless they did keep it. I think
+they kept it all.</seg></p>
+
+<p><seg type="Blame" subtype="LDS_LDS">After the dead were searched, as I have just said, the brethren
+were called up, and <persName key="Higbee, John M.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName>, as well as myself,
+made speeches, and <hi rend="italic">ordered</hi> the people to keep the matter a
+secret from the <hi rend="italic">entire</hi> world. Not to tell their wives, or their
+most intimate friends, and we pledged ourselves to keep 
+everything relating to the affair a secret during life. We also took the
+most binding oaths to stand by each other, and <seg type="Blame" subtype="IndiansIndependently">to always insist
+that the massacre was committed by Indians alone.</seg> This was
+the advice of <persName key="Young, Brigham">Brigham Young</persName>, too, as I will show hereafter.</seg></p>
+
+<p>The men were mostly ordered to camp there on the field for
+that night, but <persName key="Higbee, John M.">Higbee</persName> and <persName key="Klingensmith, Philip">Klingensmith</persName> went with me to 
+<persName key="Hamblin, Jacob">Hamblin</persName>'s ranch, where we got something to eat, and staid there all
+night. I was nearly dead for rest and sleep: in fact, I had rested
+but little since the Saturday night before. I took my saddle-
+blanket and spread it on the ground soon after I had eaten my
+supper, and lay down on the saddle-blanket, using my saddle for
+a pillow, and slept soundly until next morning.</p>
+
+<p>I was awakened in the morning by loud talking between <persName key="Haight, Isaac C.">Isaac
+C. Haight</persName> and <persName key="Dame, William H.">William H. Dame</persName>. They were very much excited,
+and quarreling with each other. I got up at once, but was unable
+to hear what they were quarreling about, for they cooled down as
+soon as they saw that others were paying attention to them.</p>
+
+<p>I soon learned that Col. <persName key="Dame, William H.">Dame</persName>, Judge <persName key="Lewis, James">Lewis</persName> of <placeName type="settlement" key="Parowan, UT">Parowan</placeName>, and
+<persName key="Haight, Isaac C.">Isaac C. Haight</persName>, with several others, had arrived at the 
+<persName key="Hamblin, Jacob">Hamblin</persName> ranch in the night, but I do not know what time they got
+there.</p>
+
+<p><seg type="Massacre" subtype="Aftermath">After breakfast we all went back in a body to<geogName type="valley" key="Mountain Meadows"> the Meadows</geogName>
+to bury the dead and <seg type="Massacre" subtype="Spoils">take care of the property that was left
+there</seg>.</seg></p>
+    
+<p><seg type="Massacre" subtype="Aftermath"><seg type="Massacre" subtype="Casualties">When we reached <geogName type="valley" key="Mountain Meadows">the Meadows</geogName> we all rode up to that part of
+the field where the women were lying dead. The bodies of men,
+women and children had been stripped entirely naked, making
+the scene one of the most loathsome and ghastly that can be
+imagined.</seg></seg></p>
+
+<p>Knowing that <persName key="Dame, William H.">Dame</persName> and <persName key="Haight, Isaac C.">Haight</persName> had quarreled at <persName key="Hamblin, Jacob">Hamblin</persName>'s 
+that morning, <seg type="Blame" subtype="LDS_LDSLeadership">I wanted to know how they would act in sight of
+
+<pb n="528" xml:id="mmm.wa.custer.1891.543"/>
+    
+the dead, who lay there as the result of their orders. </seg>I was
+greatly interested to know what <persName key="Dame, William H.">Dame</persName> had to say, so I kept
+close to them, without appearing to be watching them.</p>
+
+<p>Colonel <persName key="Dame, William H.">Dame</persName> was silent for some time. He looked all over
+the field, and was quite pale, and looked uneasy and frightened.
+I thought then that he was just finding out the difference 
+between giving and executing orders for wholesale killing. He
+spoke to <persName key="Haight, Isaac C.">Haight</persName>, and said: &#8212;</p>
+
+<p>"I must report this matter to the authorities.'</p>
+
+<p>"How will you report it?" said <persName key="Haight, Isaac C.">Haight</persName>.</p>
+
+<p><persName key="Dame, William H.">Dame</persName> said, "I will report it just as it is."</p>
+
+<p>"Yes, I suppose so, and implicate yourself with the rest?"
+said <persName key="Haight, Isaac C.">Haight</persName>.</p>
+
+<p>"No," said <persName key="Dame, William H.">Dame</persName>. "I will not implicate myself, for I had
+nothing to do with it."</p>
+
+<p><seg type="Blame" subtype="LDS_LDSLeadership"><persName key="Haight, Isaac C.">Haight</persName> then said, "That will not do, for you know a d&#8212;d sight better. You ordered it done. Nothing has been done except by your orders, and it is too late in the day for you to
+order things done and then go back on it, and go back on the 
+men who have carried out your orders. You cannot <hi rend="italic">sow pig</hi> on
+me, and I will be d&#8212;d if I will stand it. You are as much to
+blame as any one, and you know that we have done nothing 
+except what you ordered done. I know that I have obeyed orders,
+and by G&#8212;d I will not be lied on."</seg></p>
+
+<p>Colonel <persName key="Dame, William H.">Dame</persName> was much excited. He choked up, and would
+have gone away, but he knew <persName key="Haight, Isaac C.">Haight</persName> was a man of 
+determination, and would not stand any foolishness.</p>
+
+<p>As soon as Colonel <persName key="Dame, William H.">Dame</persName> could collect himself, he said:&#8212;</p>
+
+<p><hi rend="italic">"I did not think there were so many of them, or I would not
+have had anything to do with it."</hi></p>
+
+<p>Colonel <persName key="Dame, William H.">Dame</persName> was perfectly cowed. He did not offer to deny it again.</p>
+
+<p><seg type="Blame" subtype="LDS_LDS"><seg type="Massacre" subtype="Aftermath">After the dead were covered up or buried</seg>, the brethren were
+called together and all took a most solemn oath, binding 
+themselves under the most dreadful and awful penalties, to keep the
+whole matter secret from every human being, as long as they 
+should live.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI>

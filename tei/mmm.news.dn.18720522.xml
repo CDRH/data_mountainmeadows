@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mmm.news.dn.18720522">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Salt Lake City, Utah</title>
+		<title level="m" type="sub"></title>
+		<author></author>
+                <principal>Douglas Seefeldt</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+		<idno>mmm.news.dn.18720522</idno>
+                <authority>"Horrible Massacre of Emigrants!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2012</date>
+                <availability>
+                    <p>Copyright &#169; 2012 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+	    <notesStmt>
+		<note type="summary"></note>
+		</notesStmt>
+	
+		<sourceDesc>
+		    <bibl>
+			<title level="j">Deseret News</title>
+			<title level="a" type="main">Salt Lake City, Utah</title>
+			<author></author>
+			<publisher></publisher>
+			<pubPlace>Salt Lake City, UT</pubPlace>
+			<date when="1872-05-22">May 22, 1872</date>
+		    </bibl>
+		</sourceDesc>
+
+	    </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+
+	<profileDesc>
+	    <textClass>
+                <keywords scheme="original" n="category">
+                    <term>newspaper</term>
+		</keywords>
+		<keywords scheme="original" n="culpability">
+		    <term></term>
+		</keywords>
+		<keywords scheme="original" n="action">
+		    <term></term>
+		</keywords>
+	    </textClass>
+	</profileDesc>
+
+    <revisionDesc>
+	<change when="2011-08-02"><name>Jaclyn Cruikshank Vogt</name> Concept Highlighting and Encoding Enhancement</change>
+	<change when="2011-07-26"><name>Jaclyn Cruikshank Vogt</name>Validation</change>
+	<change when="2010-04-15"><name>Kelsey F. Harris</name>Initial Encoding</change>
+	<change when="2006-03-02"><name>Laura Weakly</name>Model Encoding</change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="newspaper">
+    
+    <pb n="unknown" xml:id="mmm.news.dn.18720522.001"/>
+
+
+<head>SALT LAKE CITY, UTAH</head>
+<dateline>TERRITORY, <hi rend="italic">January</hi> 12, 1872.</dateline>
+
+<p>SIR: Being one of the associate justices of the supreme court of the United States in and for the <seg type="Massacre" subtype="Location"><placeName type="state" key="Utah Territory">Territory of Utah</placeName></seg>, and judge of the second judicial district court of <placeName type="state" key="Utah Territory">said Territory</placeName>, I beg leave to say that my district embraces <seg type="Massacre" subtype="Location">the extreme southern part of <placeName type="state" key="Utah Territory">the Territory</placeName></seg>, in which was committed what is known as the Mountain Meadow massacre, in which <seg type="Massacre" subtype="Casualties">over one hundred and twenty innocent men, women, and children</seg> <seg type="Massacre" subtype="Battle">were slaughtered in the most barbarous manner</seg>. <seg type="Blame" subtype="LDS_LDS">This district is settled almost entirely by Mormons, there being only about two hundred Gentiles in the district. From the time of said massacre there has been a rising feeling in the minds of the Gentiles and a few loyal Mormons against the principal leaders and perpetrators of that deed.</seg> <seg type="Reaction" subtype="FederalInvestigation">At every session of the court this question has been brought up by the grand jury, or rather by individual members thereof, and yet the United States attorney and the jury have not dared to introduce the subject to be investigated, because, they say, witnesses who were present at, and were forced into, the bloody work feel that their lives would be rendered insecure should they testify to the facts, but they say, whenever the Government of the United States will guarantee their protection they will freely testify to all the facts.</seg></p>
+
+<p>I am fully satisfied, from my experience in that district for the last three years, as the judicial officer of the court, that their feeling of insecurity is well founded, and it will require a military force established in that district, say at the city of Beaver, of at least five companies, to render the protection needed effective.</p>
+
+<p>There are several indictments now in the hands of the United States marshal, to execute upon fellows, which he reports he is unable to execute. <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, where I hold my court, is two hundred and twenty miles west of south of this city. It is beautifully situated, well watered and healthy, and besides, it is the diverging point leading to Pioche, one hundred and twenty miles west, and to Saint George, one hundred and ten miles west of south, and it is about one hundred miles east to Knob&#8212;the Gibraltar of church fellows&#8212;where there are one hundred and twenty men thoroughly armed and where the leaders of said massacre have taken refuge.</p>
+
+<p>In addition to these considerations, a few miles south of <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName> the annual Indian raids upon the settlements take place, and therefore a post at <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName> would be the proper place to do most service to the country.</p>
+
+<p><seg type="Reaction" subtype="MilitaryRetaliation">I adjourned my last October term of court, after disposing of my civil docket, until the second Monday in May next, in order that all the facts and needs to the execution of the laws and the protection of loyal citizens might be fully understood by Government and by this military department. Whenever it is safe, and the Government desires criminals punished and will furnish the necessary support and means to prosecute them, the court and its executive officers are ready to proceed.</seg></p>
+
+<p>If you establish a post at <placeName type="settlement" key="Beaver City, UT">Beaver City</placeName>, or near there, it ought to be done by the last of April or the first week in May. At that season it will be the best time to move troops, supplies, &amp;c. By that time the roads from here will be in the beat possible condition. Soon after the first week in May the weather becomes hot and dry.</p>
+
+<p>Hoping to hear from you soon and favorably upon these suggestions, I have the honor to remain, respectfully, &amp;c.</p>
+
+<signed><persName key="Hawley, C. M.">C. M. HAWLEY</persName>.</signed>
+<closer><hi rend="italic">Associate Justice, &amp;c and Judge of the
+second Judicial District.</hi></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>
