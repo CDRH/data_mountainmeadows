@@ -1,5 +1,5 @@
 default:
-  es_type: mountainmeadows
+  collection: mountainmeadows
   solr_core: mountainmeadows
-  tei_solr_xsl: collections/mountainmeadows/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: scripts/solr_transform_tei.xsl
 
